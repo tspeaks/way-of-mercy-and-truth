@@ -1,0 +1,71 @@
+{
+  "book": "2 John",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "1.1",
+  "text_source": "index/text/2-john.json",
+  "note": "Thirteen verses, and one of them is the hardest instruction in the canon to square with this curriculum. See boundary_note.",
+  "boundary_note": "2 John 10-11 instructs a household not to receive a certain visitor or even greet him, and says that welcoming him is participation in his works. That runs against the direction of C29 and PR29, and the index does not soften it. The two are not in contradiction, because their objects differ: PR29 is receiving back someone who has repented, without lingering probation, while this passage concerns an itinerant teacher who denies that Jesus came in the flesh and is arriving to teach. One is a returning brother, the other is a travelling deceiver. But the passage does place a real boundary on the practice, and a curriculum that teaches Merciful Reintegration should be able to say where it stops. Recording this as a boundary rather than an exception is deliberate: exceptions get forgotten, boundaries get taught.",
+  "entries": [
+    {
+      "ref": "2 John 1:1-3",
+      "pericope": "The truth which remains in us",
+      "pillars": ["truth"],
+      "stages": ["S3"],
+      "chapters": ["C11"],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Love is qualified three times in as many verses as being in truth, and the truth is said to remain with us forever. The same verb the vine passage turns on, applied here to what is believed rather than to a person.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 John 1:4-6",
+      "pericope": "This is love, that we should walk according to his commandments",
+      "pillars": ["mercy", "truth"],
+      "stages": ["S3"],
+      "chapters": ["C12"],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Love is defined as walking rather than as feeling, and then the commandment is defined as the walking itself. The circle is deliberate: there is no content to the love that is not conduct, which is C12's proof test compressed into a single sentence.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 John 1:7-9",
+      "pericope": "Watch yourselves; remain in the teaching",
+      "pillars": ["truth"],
+      "stages": ["S2", "S5"],
+      "chapters": ["C08", "C20"],
+      "practices": ["PR12"],
+      "mode": "prescribes",
+      "connection": "Watch yourselves — not watch them — placed immediately after deceivers are named, so the vigilance is turned inward at exactly the moment it would naturally turn outward. Watchfulness applied to the danger of losing what has already been accomplished.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 John 1:10-11",
+      "pericope": "Don't receive him into your house",
+      "pillars": ["truth"],
+      "stages": ["S2", "S4"],
+      "chapters": ["C08", "C17"],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Hospitality is refused to a travelling teacher who denies that Jesus came in the flesh, and the refusal extends to the greeting. The passage marks where the curriculum's openness stops — not at someone who has failed, but at someone arriving to teach against the foundation. See the boundary note on this book.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 John 1:12-13",
+      "pericope": "Not with paper and ink, but face to face",
+      "pillars": ["mercy"],
+      "stages": ["S4"],
+      "chapters": ["C13"],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A letter that stops short of what it could say, on the grounds that presence will do it better. Ordinary Faithfulness given a communications rule: some things wait for the room rather than being sent, and the joy is said to depend on it.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

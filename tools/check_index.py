@@ -101,6 +101,22 @@ def check(path):
         if not e.get("stages"):
             warnings.append(f"{where}: no stage assigned")
 
+        # A counter-example that names a practice in prose but tags none is the
+        # error this project has made three times in three different books.
+        if e.get("mode") == "counter-example" and not e.get("practices"):
+            named = [w for w in ("Watchfulness", "Moral Audit", "Self-Accusation", "Sacred Lament",
+                                 "Almsgiving", "Hidden Life", "Gradualism", "Non-Retaliation",
+                                 "Interior Diagnosis", "Covering Weakness", "Absorbing the Blow",
+                                 "Listening as Mercy", "Deferential Seating", "Unobligated Loyalty",
+                                 "Merciful Reintegration", "Citizen-Stranger", "Verbal Almsgiving",
+                                 "Spontaneous Service", "Architecture of Peace", "Failure Recovery",
+                                 "Discipline of Unknowing", "Sacrament of the Ordinary")
+                     if w.lower() in e.get("connection", "").lower()]
+            if named:
+                warnings.append(f"{where}: counter-example names {named[0]} in prose but tags "
+                                f"no practice — the mode field exists so a negative anchor can "
+                                f"be recorded")
+
         conn = e.get("connection", "")
         if len(conn.split()) < 12:
             warnings.append(f"{where}: connection is thin ({len(conn.split())} words)")

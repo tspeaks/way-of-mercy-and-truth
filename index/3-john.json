@@ -1,0 +1,70 @@
+{
+  "book": "3 John",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "1.1",
+  "text_source": "index/text/3-john.json",
+  "note": "The shortest book in the canon, and the only one that names a living opponent and describes his conduct rather than his doctrine. Diotrephes is charged with nothing doctrinal at all — only with loving to be first, refusing hospitality, and expelling those who extend it.",
+  "entries": [
+    {
+      "ref": "3 John 1:1-4",
+      "pericope": "No greater joy than to hear my children walk in truth",
+      "pillars": ["truth"],
+      "stages": ["S3"],
+      "chapters": ["C12"],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The report that reaches the elder is about how Gaius walks, not what he holds. Others testified to it, which makes the proof of C12 something observed by third parties rather than claimed by the man himself.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "3 John 1:5-8",
+      "pericope": "A faithful work for brothers and strangers",
+      "pillars": ["mercy"],
+      "stages": ["S4"],
+      "chapters": ["C16", "C17"],
+      "practices": ["PR05"],
+      "mode": "exemplifies",
+      "connection": "Resources given to travellers who are strangers, who took nothing from the Gentiles and so have no other support. Habitual Almsgiving directed at the stranger by name, and the sending forward is to be done in a manner worthy of God rather than merely adequate.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "3 John 1:9-10",
+      "pericope": "Diotrephes, who loves to be first",
+      "pillars": ["humility"],
+      "stages": ["S4", "S6"],
+      "chapters": ["C16", "C23"],
+      "practices": ["PR13"],
+      "mode": "counter-example",
+      "connection": "The charge is a disposition and its consequences, in that order: he loves to be first, and therefore refuses the brothers and expels anyone who would receive them. The Hidden Life shown by its absence — a man whose faithfulness has to be visible ends by controlling who else may be faithful.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "3 John 1:11-12",
+      "pericope": "Don't imitate evil, but good; Demetrius has the testimony of all",
+      "pillars": ["truth"],
+      "stages": ["S2"],
+      "chapters": ["C08"],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Two named men set side by side and judged entirely by conduct, with Demetrius commended on the testimony of all rather than on office or teaching. The fruit test of C08 applied to people the readers actually knew, which is the form in which it is hardest to apply.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "3 John 1:13-14",
+      "pericope": "Greet the friends by name",
+      "pillars": ["mercy"],
+      "stages": ["S4", "S7"],
+      "chapters": ["C13", "C28"],
+      "practices": ["PR23"],
+      "mode": "prescribes",
+      "connection": "The canon's shortest book ends by asking that greetings be delivered individually rather than to the group. The Sacrament of the Ordinary in its plainest form: the last instruction in this correspondence is to say hello to people one at a time.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

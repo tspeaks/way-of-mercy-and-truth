@@ -62,6 +62,12 @@ a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
 .tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
 .tag.corrected{border-color:var(--gold);color:var(--gold);}
 .tag.reviewed{border-color:var(--truth);color:var(--truth);}
+.passage.cluster p{font-style:normal;color:var(--text);}
+.passage.cluster .cref{color:var(--gold-dim);font-size:10.5px;margin-right:9px;vertical-align:2px;}
+.cluster-note{font-size:12px;color:var(--text-muted);letter-spacing:.06em;margin:0 0 12px;font-style:italic;}
+.entry-ref.cluster-label{color:var(--gold);}
+.tag.kind{border-style:solid;border-color:var(--gold-dim);color:var(--gold);
+  text-transform:uppercase;letter-spacing:.12em;font-size:10px;}
 .tag.mode{text-transform:uppercase;letter-spacing:.12em;font-size:10px;border-style:dotted;}
 .tag.mode.prescribes{border-color:var(--gold);color:var(--gold);}
 .tag.mode.exemplifies{border-color:var(--truth);color:var(--truth);}
@@ -80,6 +86,19 @@ def parse_ref(ref):
     m = re.match(r"^(.+?)\s+(\d+):(\d+)(?:[-–](\d+))?$", ref)
     ch, lo = int(m.group(2)), int(m.group(3))
     return ch, lo, int(m.group(4) or lo)
+
+
+def render_cluster(text_data, refs):
+    """A cluster gathers scattered verses on one theme; render each with its reference."""
+    out = ['<div class="passage cluster">']
+    for r in refs:
+        ch, lo, hi = parse_ref(r)
+        for v in range(lo, hi + 1):
+            body = text_data["verses"].get(f"{ch}:{v}")
+            if body:
+                out.append(f'<p><span class="cref mono">{ch}:{v}</span>{esc(body)}</p>')
+    out.append("</div>")
+    return "\n".join(out)
 
 
 def render_passage(text_data, ref):
@@ -114,8 +133,9 @@ def book_page(data, text_data):
     a('<p class="doc-sub">World English Bible · public domain</p>')
     covered = set()
     for e in entries:
-        c, lo, hi = parse_ref(e["ref"])
-        covered |= {(c, v) for v in range(lo, hi + 1)}
+        for r in (e["refs"] if e.get("kind") == "cluster" else [e["ref"]]):
+            c, lo, hi = parse_ref(r)
+            covered |= {(c, v) for v in range(lo, hi + 1)}
     a(f'<p class="doc-meta mono">{len(entries)} passages · '
       f'{len(covered)} of {len(text_data["verses"])} verses</p>')
     a("</div>")
@@ -125,9 +145,16 @@ def book_page(data, text_data):
         a('<div class="entry">')
         a(f'<p class="entry-ref">{esc(e["ref"])}</p>')
         a(f'<h2 class="entry-name">{esc(e["pericope"])}</h2>')
-        a(render_passage(text_data, e["ref"]))
+        if e.get("kind") == "cluster":
+            a(f'<p class="cluster-note">{len(e["refs"])} passages gathered from across '
+              f'the collection</p>')
+            a(render_cluster(text_data, e["refs"]))
+        else:
+            a(render_passage(text_data, e["ref"]))
         a(f'<p class="conn">{esc(e["connection"])}</p>')
         a('<div class="tags">')
+        if e.get("kind") == "cluster":
+            a('<span class="tag kind">thematic cluster</span>')
         if e.get("mode"):
             cls = {"prescribes":"prescribes","exemplifies":"exemplifies",
                    "counter-example":"counter"}[e["mode"]]

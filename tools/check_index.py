@@ -86,6 +86,14 @@ def check(path):
         if len(conn.split()) < 12:
             warnings.append(f"{where}: connection is thin ({len(conn.split())} words)")
 
+        if e.get("kind") == "cluster":
+            if not e.get("refs"):
+                errors.append(f"{where}: cluster entry has no refs array")
+            for r in e.get("refs", []):
+                if not REF_RE.match(r):
+                    errors.append(f"{where}: unparseable ref in cluster — {r}")
+            continue
+
         m = REF_RE.match(e.get("ref", ""))
         if not m:
             errors.append(f"{where}: unparseable reference")
@@ -102,7 +110,14 @@ def check(path):
 
     # overlap detection
     seen = {}
+    clustered = set()
     for e in entries:
+        if e.get("kind") == "cluster":
+            for r in e.get("refs", []):
+                mm = REF_RE.match(r)
+                if mm:
+                    clustered.add((int(mm.group(2)), int(mm.group(3))))
+            continue
         m = REF_RE.match(e.get("ref", ""))
         if not m:
             continue
@@ -133,9 +148,14 @@ def check(path):
             else:
                 gap_s = ""
             print(f"  ch{ch}: {have}/{want}{gap_s}")
-        print(f"  total: {total_have}/{total_want}")
+        print(f"  total: {total_have}/{total_want} in pericopes")
+        if clustered:
+            print(f"  {len(clustered)} further verse(s) gathered thematically into clusters")
 
     print("\ndistribution")
+    kinds = Counter(e.get("kind", "pericope") for e in entries)
+    if len(kinds) > 1:
+        print("  entry kind:", dict(kinds))
     print("  confidence:", dict(Counter(e.get("confidence") for e in entries)))
     if any("mode" in e for e in entries):
         print("  mode:      ", dict(Counter(e.get("mode","-") for e in entries)))

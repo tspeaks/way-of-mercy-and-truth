@@ -117,6 +117,33 @@ reason the mode field exists. An entry marked `counter-example` whose prose argu
 some practice is defined here by its absence, but which records no tag for it, is
 hiding a real anchor. Flag those.
 
+## Cluster entries
+
+Aphorism collections — Proverbs 10-29 most of all — are hundreds of free-standing
+couplets in no order. Indexed one entry per verse, the index would be longer and less
+usable than the text. So those sections use a second entry kind:
+
+```json
+{ "kind": "cluster",
+  "ref": "Proverbs · the tongue",
+  "refs": ["Proverbs 10:19", "Proverbs 12:18", "..."] }
+```
+
+A cluster gathers scattered verses on one theme and carries a single set of tags.
+
+Review clusters on three questions the pericope entries do not raise:
+
+1. **Does every gathered verse belong?** One verse that only loosely fits weakens the
+   whole cluster, because the tags are asserted over all of them at once.
+2. **Is the theme the right size?** A cluster spanning several distinct ideas should be
+   split. Two clusters making the same claim should be merged.
+3. **What is missing?** Clusters are curated, not exhaustive. Name any verse that
+   plainly belongs to a theme and was left out.
+
+A cluster claims thematic coverage, not verse coverage. Verses gathered into no cluster
+are not thereby judged to anchor nothing — say so if you think a theme is absent
+entirely.
+
 ## Your task
 
 Review every entry in the index file you are given and return your findings as JSON. For each entry you

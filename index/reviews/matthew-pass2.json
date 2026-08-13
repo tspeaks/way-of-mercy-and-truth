@@ -1,0 +1,6 @@
+{"scope":"chapters 5-7 (22 entries)",
+ "verdicts":{"sound":21,"overreach":1},
+ "flagged":[{"ref":"Matthew 7:6","verdict":"overreach",
+  "note":"Tagging PR17 fails the practice definition in WMT A1. PR17 means protecting someone's embarrassing mistake from public exposure. Withholding holy things is spiritual triage, not covering weakness.",
+  "adjudication":"Accepted in full, and it triggered an audit of every PR17 tag across all five books. Four of five failed the same test; three of those four had been marked sound in earlier reviews. PR17 now stands on one entry."}],
+ "audit_note":"A full pass over all 25 practices in use against their WMT A1 definitions was run at the same time. Three further tags are questioned but left in place pending the author's ruling: PR03 on James 4:11-12, PR08 on Jonah 3:6-9, and PR29 on James 2:12-13."}

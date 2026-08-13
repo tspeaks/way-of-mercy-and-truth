@@ -1,12 +1,12 @@
 # Matthew — review package
 
-Scripture: World English Bible (public domain). Index status: partial — the Sermon on the Mount (chapters 5-7) only. Method version 0.9.
+Scripture: World English Bible (public domain). Index status: partial — the Sermon on the Mount (chapters 5-7) only. Method version 1.0.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
 **Note.** Indexed on Matthew's own structure — the five discourses and the narrative blocks between them — beginning with the first discourse. Practice tags are assigned from the definitions in WMT A1, not from practice names.
 
-**Synoptic note.** Entries carry an optional synoptic_parallel field recording the corresponding passage in Luke. This is a cross-reference, not a source claim. WMT G02 records the commitment to Q reconstruction as a stage the project passed through and no longer endorses, and WMT G09 cautions against reintroducing it as load-bearing without deliberately reversing that decision. Organizing this index around reconstructed Q pericopes would reintroduce it structurally, so pericope boundaries follow Matthew's own arrangement and the parallels are recorded alongside as data. The parallels were identified using Dr. Tabor's freely distributed Q arrangement, which presents its English text in the RSV; nothing from that document is quoted here, and all scripture is WEB, per the standing rule in WMT G10.
+**Synoptic note.** Entries carry an optional synoptic_parallel field recording the corresponding passage in Luke. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Matthew's own arrangement, so a parallel sometimes covers only part of an entry. All scripture is WEB, per the standing rule in WMT G10.
 
 ---
 
@@ -25,7 +25,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **5:11** “Blessed are you when people reproach you, persecute you, and say all kinds of evil against you falsely, for my sake.
 > **5:12** Rejoice, and be exceedingly glad, for great is your reward in heaven. For that is how they persecuted the prophets who were before you.
 
-*Synoptic parallel: Luke 6:20-23 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 6:20-23*
 
 **Claim.** The road's destination described as a set of conditions rather than achievements — poor in spirit, mourning, gentle, hungry, merciful, pure, peacemaking. Mercy is the only one whose reward is itself in kind, which is the reciprocity C03 builds its blueprint on.
 
@@ -40,7 +40,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **5:15** Neither do you light a lamp, and put it under a measuring basket, but on a stand; and it shines to all who are in the house.
 > **5:16** Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.
 
-*Synoptic parallel: Luke 14:34-35 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 14:34-35*
 
 **Claim.** Visibility is stated as a fact about the thing rather than as an ambition — a city on a hill cannot be hidden. The Citizen-Stranger given its outward face: full presence in the world, with the good works seen and the glory redirected.
 
@@ -70,7 +70,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **5:25** Agree with your adversary quickly, while you are with him in the way; lest perhaps the prosecutor deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison.
 > **5:26** Most certainly I tell you, you shall by no means get out of there, until you have paid the last penny.
 
-*Synoptic parallel: Luke 12:57-59 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 12:57-59*
 
 **Claim.** The prohibition is moved upstream from the act to the anger, and then reconciliation is ranked above worship — leave the gift, go, and come back. The Architecture of Peace given priority over liturgy itself, and the movement is required of the one who remembers, not the one who was wronged.
 
@@ -124,7 +124,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **5:41** Whoever compels you to go one mile, go with him two.
 > **5:42** Give to him who asks you, and don’t turn away him who desires to borrow from you.
 
-*Synoptic parallel: Luke 6:29-30 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 6:29-30*
 
 **Claim.** Retaliation is not merely forbidden but replaced by a surplus — the other cheek, the cloak as well, the second mile. Non-Retaliation and Absorbing the Blow given their governing text, and the Didache's opening chapter draws directly on it.
 
@@ -141,7 +141,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **5:47** If you only greet your friends, what more do you do than others? Don’t even the tax collectors do the same?
 > **5:48** Therefore you shall be perfect, just as your Father in heaven is perfect.
 
-*Synoptic parallel: Luke 6:27-28, 32-36 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 6:27-28, 32-36*
 
 **Claim.** The circle of concern widened to its limit and then grounded in how sun and rain are distributed. Shedding Harshness given its summit text: loving those who love you is named as the ordinary human floor, not the standard.
 
@@ -176,7 +176,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **6:14** “For if you forgive men their trespasses, your heavenly Father will also forgive you.
 > **6:15** But if you don’t forgive men their trespasses, neither will your Father forgive your trespasses.
 
-*Synoptic parallel: Luke 11:2-4 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 11:2-4*
 
 **Claim.** The Secret Place given as a physical instruction — a room, a shut door — followed by the prayer the Didache directs be said three times daily. The Daily Anchors and the Secret Rhythmic Devotion both take their text from here, and the forgiveness clause is the only petition Jesus returns to afterward.
 
@@ -205,7 +205,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **6:23** But if your eye is evil, your whole body will be full of darkness. If therefore the light that is in you is darkness, how great is the darkness!
 > **6:24** “No one can serve two masters, for either he will hate the one and love the other; or else he will be devoted to one and despise the other. You can’t serve both God and Mammon.
 
-*Synoptic parallel: Luke 12:33-34; 11:34-36; 16:13 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 12:33-34; 11:34-36; 16:13*
 
 **Claim.** Three images for a single claim: what you hold determines what you see and whom you serve. The heart is said to follow the treasure rather than direct it, which is why C07 treats cleansed sight as a matter of attachment before it is a matter of judgment.
 
@@ -226,7 +226,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **6:33** But seek first God’s Kingdom, and his righteousness; and all these things will be given to you as well.
 > **6:34** Therefore don’t be anxious for tomorrow, for tomorrow will be anxious for itself. Each day’s own evil is sufficient.
 
-*Synoptic parallel: Luke 12:22-31 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 12:22-31*
 
 **Claim.** Anxiety answered by observation rather than argument — look at the birds, consider the lilies. The Discipline of Unknowing applied to the future, and the closing instruction limits the day's burden to the day itself.
 
@@ -242,7 +242,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **7:4** Or how will you tell your brother, ‘Let me remove the speck from your eye;’ and behold, the beam is in your own eye?
 > **7:5** You hypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother’s eye.
 
-*Synoptic parallel: Luke 6:37-42 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 6:37-42*
 
 **Claim.** Correction of another is made conditional on prior self-examination, and the disproportion is comic on purpose. The Moral Audit and Self-Accusation given their common text — the sequence is not optional, and sight of the other's fault is said to depend on it.
 
@@ -256,7 +256,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** A restraint on giving what is true to those who will trample it, placed immediately after the prohibition on judging. The same triage Proverbs 9:7-8 applies to reproof — some true words are withheld, and withholding is not cowardice.
 
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S4 · chapters: C15 · practices: PR17 · confidence: medium
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S4 · chapters: C15 · practices: none · confidence: medium
+
+**Amended at review** — PR17 removed on audit. PR17 is protecting someone from public embarrassment by absorbing the inconvenience oneself. This passage concerns withholding what is valuable from those who will trample it, which is a different act. The tag was assigned from the practice's name — the fourth instance of that error, and the one that exposed three more.
 
 ---
 
@@ -268,7 +270,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **7:10** Or if he asks for a fish, who will give him a serpent?
 > **7:11** If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!
 
-*Synoptic parallel: Luke 11:9-13 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 11:9-13*
 
 **Claim.** Three verbs of increasing insistence, answered by an argument from ordinary fatherhood. Persistence in asking treated as normal rather than presumptuous, which is the posture the Daily Anchors assume.
 
@@ -280,7 +282,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 > **7:12** Therefore whatever you desire for men to do to you, you shall also do to them; for this is the law and the prophets.
 
-*Synoptic parallel: Luke 6:31 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 6:31*
 
 **Claim.** The whole law compressed into one reversible test, stated positively rather than as a prohibition. The Didache opens with its negative form; this is the version that requires action rather than restraint.
 
@@ -293,7 +295,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **7:13** “Enter in by the narrow gate; for wide is the gate and broad is the way that leads to destruction, and many are those who enter in by it.
 > **7:14** How narrow is the gate, and restricted is the way that leads to life! Few are those who find it.
 
-*Synoptic parallel: Luke 13:24 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 13:24*
 
 **Claim.** The Two Ways in the form C01 takes its architecture from, and the same figure the Didache opens with. The narrow way is described as hard to find rather than hard to walk, which locates the difficulty in perception.
 
@@ -310,7 +312,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **7:19** Every tree that doesn’t grow good fruit is cut down, and thrown into the fire.
 > **7:20** Therefore, by their fruits you will know them.
 
-*Synoptic parallel: Luke 6:43-45 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 6:43-45*
 
 **Claim.** The test C08 is built on, given as the only reliable instrument against a teacher whose appearance is deliberately reassuring. Sheep's clothing means the disguise is competent, so nothing but outcome will serve.
 
@@ -339,7 +341,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **7:28** It happened, when Jesus had finished saying these things, that the multitudes were astonished at his teaching,
 > **7:29** for he taught them with authority, and not like the scribes.
 
-*Synoptic parallel: Luke 6:47-49 — recorded as a cross-reference, not a source claim.*
+*Also in Luke: Luke 6:47-49*
 
 **Claim.** Both men hear; only one does. The storm is identical for both, which removes circumstance as the variable and leaves only whether the words were acted on — the Moral Audit's premise, and the reason the Sermon ends here rather than on a promise.
 

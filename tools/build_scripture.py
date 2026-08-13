@@ -152,7 +152,7 @@ def book_page(data, text_data):
         else:
             a(render_passage(text_data, e["ref"]))
         if e.get("synoptic_parallel"):
-            a(f'<p class="cluster-note">Synoptic parallel: {esc(e["synoptic_parallel"])}</p>')
+            a(f'<p class="cluster-note">Also in Luke: {esc(e["synoptic_parallel"])}</p>')
         a(f'<p class="conn">{esc(e["connection"])}</p>')
         a('<div class="tags">')
         if e.get("kind") == "cluster":

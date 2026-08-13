@@ -102,8 +102,7 @@ def build_book(slug):
         a("")
 
         if e.get("synoptic_parallel"):
-            a(f"*Synoptic parallel: {e['synoptic_parallel']} — recorded as a cross-reference, "
-              f"not a source claim.*")
+            a(f"*Also in Luke: {e['synoptic_parallel']}*")
             a("")
         a(f"**Claim.** {e['connection']}")
         a("")

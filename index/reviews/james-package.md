@@ -352,7 +352,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** Judging a neighbor recast as judging the law itself — an argument from standing rather than from kindness. Grounds Covering Weakness and the sequence discipline of Self-Accusation.
 
-**Tags.** pillars: mercy, humility · stages: S4, S5 · chapters: C15, C22 · practices: PR03, PR17 · confidence: high
+**Tags.** pillars: mercy, humility · stages: S4, S5 · chapters: C15, C22 · practices: PR03 · confidence: high
+
+**Amended at review** — PR17 removed on audit. PR17 is protecting someone from public embarrassment by absorbing the inconvenience oneself. This passage concerns judgment and the standing to judge, which is a different act. The tag was assigned from the practice's name — the fourth instance of that error, and the one that exposed three more.
 
 ---
 
@@ -402,7 +404,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** Grumbling treated as a judicial act with the judge already at the door. Small-scale complaint given weight the Architecture of Peace assumes but does not always argue.
 
-**Tags.** pillars: mercy · stages: S4 · chapters: C15 · practices: PR17 · confidence: medium
+**Tags.** pillars: mercy · stages: S4 · chapters: C15 · practices: none · confidence: medium
+
+**Amended at review** — PR17 removed on audit. PR17 is protecting someone from public embarrassment by absorbing the inconvenience oneself. This passage concerns complaint between members, which is a different act. The tag was assigned from the practice's name — the fourth instance of that error, and the one that exposed three more.
 
 ---
 

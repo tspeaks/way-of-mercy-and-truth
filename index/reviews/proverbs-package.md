@@ -535,7 +535,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** Correction is triaged by the hearer rather than owed to everyone equally — reproving a mocker buys only insult. A restraint on rebuke that Covering Weakness needs, and one of the few places Scripture instructs a person to withhold a true word.
 
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S4 · chapters: C15 · practices: PR17 · confidence: high
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S4 · chapters: C15 · practices: none · confidence: high
+
+**Amended at review** — PR17 removed on audit. PR17 is protecting someone from public embarrassment by absorbing the inconvenience oneself. This passage concerns triage of whom correction will profit, which is a different act. The tag was assigned from the practice's name — the fourth instance of that error, and the one that exposed three more.
 
 ---
 

@@ -531,12 +531,12 @@
         "C22"
       ],
       "practices": [
-        "PR03",
-        "PR17"
+        "PR03"
       ],
       "connection": "Judging a neighbor recast as judging the law itself — an argument from standing rather than from kindness. Grounds Covering Weakness and the sequence discipline of Self-Accusation.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR17 removed on audit. PR17 is protecting someone from public embarrassment by absorbing the inconvenience oneself. This passage concerns judgment and the standing to judge, which is a different act. The tag was assigned from the practice's name — the fourth instance of that error, and the one that exposed three more."
     },
     {
       "ref": "James 4:13-17",
@@ -612,12 +612,11 @@
       "chapters": [
         "C15"
       ],
-      "practices": [
-        "PR17"
-      ],
+      "practices": [],
       "connection": "Grumbling treated as a judicial act with the judge already at the door. Small-scale complaint given weight the Architecture of Peace assumes but does not always argue.",
       "confidence": "medium",
-      "prior": false
+      "prior": false,
+      "review": "PR17 removed on audit. PR17 is protecting someone from public embarrassment by absorbing the inconvenience oneself. This passage concerns complaint between members, which is a different act. The tag was assigned from the practice's name — the fourth instance of that error, and the one that exposed three more."
     },
     {
       "ref": "James 5:10-11",

@@ -4,7 +4,7 @@
     "sound": 21
   },
   "first_clean_pass": true,
-  "synthesis_questions": "Answered for the first time in seven review rounds. Every prior pass returned only the per-entry array and skipped overreach, gaps, redundancy, confidence, and stated claims. The change coincides with the first use of the review package, which puts the scripture beside the claim — the questions about gaps and stated claims are not answerable without the text.",
+  "synthesis_questions": "Answered in full. An earlier note in this file claimed this was the first pass to answer them and credited the review package for the change. That was wrong: the reviewer had been answering them all along, and the answers were simply not carried across when the results were relayed. The claim is corrected here rather than deleted, because a project that keeps a genealogy of its own reasoning should record the inferences it got wrong as well as the ones it got right.",
   "gaps_proposed": [
     {
       "ref": "1 John 1:8-10",

@@ -12,5 +12,5 @@
       "adjudication": "Accepted in full. Third instance of the name-not-definition error, and the first one caught using the practice definitions the drafter had just added to this brief."
     }
   ],
-  "not_addressed": "The brief's summary questions \u2014 overreach, gaps, redundancy, confidence calibration, and stated claims \u2014 were not answered in this or any prior pass. The prediction_note in john.json remains unexamined by any second reader."
+  "not_addressed": "SUPERSEDED. This file previously recorded that the reviewer had never addressed the brief's summary questions. That was an artefact of how results were relayed, not of the review. The prediction_note in john.json remains unexamined only because that particular synthesis was not captured, and is covered by index/reviews/SYNTHESIS-REQUEST.md."
 }

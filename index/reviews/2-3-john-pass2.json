@@ -1,0 +1,20 @@
+{
+  "scope": "2 John and 3 John — all 10 entries",
+  "verdicts": {
+    "sound": 10
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "3 John 1:5-8",
+      "proposed": "PR26",
+      "verdict": "declined",
+      "reason": "PR26 is the Ruth principle: fidelity to a person or community through a season of grief or difficulty, when one is free to walk away. Gaius is supporting travelling strangers with no prior bond, no season of difficulty being endured alongside them, and no relationship he could abandon. The reviewer restated PR26 as fidelity bound by choice rather than local obligation, which is the practice read from its name. What the passage does describe is already tagged PR05."
+    }
+  ],
+  "reviewer_pattern": "Third consecutive proposed addition to fail the definition test, after PR03 on 1 John 1:8-10 and PR19 on 1 John 3:16-18. The reviewer's per-entry verdicts have been reliable throughout and its rejections have caught four real errors, but every tag it has proposed adding has failed. Rejecting a tag requires reading the definition; proposing one appears to run on the name. Worth knowing about the two-model method: the second reader is strong at falsification and weak at generation, and its additions need the same scrutiny as the drafter's.",
+  "stated_claims_confirmed": [
+    "2 John boundary note — the distinction between a repentant brother and a travelling deceiver holds.",
+    "3 John note — Diotrephes is charged with disposition and conduct rather than doctrine."
+  ]
+}

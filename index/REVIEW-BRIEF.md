@@ -113,6 +113,13 @@ Only the first three qualify. *Asking God for wisdom* shares subject matter with
 Discipline of Unknowing and prescribes nothing of the kind; that tag was an error.
 Apply this test to every practice tag and flag any that fails it.
 
+**The test runs both ways.** Apply it as strictly to any tag you propose *adding* as to
+any you propose removing. Across the books reviewed so far, every rejection you have
+made has been correct and every addition you have proposed has failed this test — PR03
+and PR19 on 1 John, PR26 on 3 John, all three read from the practice's name rather than
+its definition. Before proposing a tag, quote the definition to yourself and check that
+the passage does what it says.
+
 **Also bad:** stretching a passage to fill a gap. If a practice has no genuine anchor
 in this book, that absence is data. Do not invent one.
 

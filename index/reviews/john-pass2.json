@@ -1,0 +1,16 @@
+{
+  "scope": "chapters 13-21 (29 entries); chapters 1-12 not yet drafted",
+  "verdicts": {
+    "sound": 28,
+    "overreach": 1
+  },
+  "flagged": [
+    {
+      "ref": "John 19:17-30",
+      "verdict": "overreach",
+      "note": "Tagging PR22 fails the practice definition. PR22 means bearing with peevish or ungrateful behavior. Caring for Mary from the cross is a domestic act of love (C14, C28), better anchored in PR23.",
+      "adjudication": "Accepted in full. Third instance of the name-not-definition error, and the first one caught using the practice definitions the drafter had just added to this brief."
+    }
+  ],
+  "not_addressed": "The brief's summary questions \u2014 overreach, gaps, redundancy, confidence calibration, and stated claims \u2014 were not answered in this or any prior pass. The prediction_note in john.json remains unexamined by any second reader."
+}

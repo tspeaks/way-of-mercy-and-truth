@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Chapter 8: The True Prophet — The Way of Mercy and Truth</title>
+<meta name="author" content="A. Pilgrim">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0F0E0A; --bg-raised:#1A1915;
+  --gold:#D4AF37; --gold-dark:#A68A3B; --gold-light:#E8D5B7;
+  --text:#E8D5B7; --text-soft:#C9B89A; --text-muted:#8B7E6B;
+  --accent-truth:#6FA8B8; --accent-mercy:#C97862; --accent-spec:#9B88B0;
+  --line:rgba(212,175,55,0.22); --line-strong:rgba(212,175,55,0.4);
+  --focus:#D4AF37;
+  --shadow:0 2px 8px rgba(0,0,0,.6), 0 8px 24px rgba(212,175,55,.08);
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --parchment:#191E1B; --paper:#1F2622; --raised:#28312B;
+    --ink:#E9E3D5; --ink-soft:#C3BDAF; --muted:#948B79;
+    --truth:#8FB6C1; --mercy:#D89578; --gold:#D4AC53; --gold-line:#C9A227;
+    --spec:#B4A2C4;
+    --line:rgba(233,227,213,0.14); --line-strong:rgba(233,227,213,0.3);
+    --focus:#8FB6C1;
+    --shadow:0 1px 2px rgba(0,0,0,.3), 0 4px 14px rgba(0,0,0,.22);
+  }
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0; background:var(--bg); color:var(--text);
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.6;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+  background-attachment:fixed;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-thickness:1px;text-underline-offset:2px;transition:color .2s ease;}
+a:hover{color:var(--gold-light);}
+:focus-visible{outline:2px solid var(--focus);outline-offset:3px;border-radius:2px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 20px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--line-strong);border-radius:0 0 6px 0;}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Fraunces','Iowan Old Style',Georgia,serif;font-weight:600;letter-spacing:-.012em;color:var(--gold);}
+
+/* ---------- setup banner (disappears once configured) ---------- */
+.setup{background:rgba(201,120,98,.15);border-top:1px solid var(--line-strong);border-bottom:1px solid var(--line-strong);color:var(--gold-light);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(212,175,55,.2);padding:1px 6px;border-radius:3px;font-size:13px;color:var(--gold);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:56px 0 40px;border-bottom:2px solid var(--line-strong);position:relative;}
+header.masthead::before,header.masthead::after{
+  content:"✦"; position:absolute; left:20px; font-size:16px; color:var(--gold);
+}
+header.masthead::before{top:20px;}
+header.masthead::after{bottom:20px;}
+.kicker{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--text-muted);margin:0 0 14px;}
+h1.title{font-size:clamp(32px,8vw,54px);line-height:1.03;margin:0 0 10px;color:var(--gold);}
+.subtitle{font-size:clamp(16px,3.4vw,19px);color:var(--text-soft);font-style:italic;margin:0 0 26px;}
+blockquote.epigraph{
+  margin:0 0 26px; padding:0 0 0 18px; border-left:3px solid var(--gold);
+  font-size:clamp(16px,3.5vw,19px); color:var(--text-soft); line-height:1.45;
+}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:26px;}
+.badge{font-size:11.5px;letter-spacing:.04em;padding:5px 10px;border-radius:999px;
+  border:1px solid var(--line);color:var(--text-muted);background:rgba(212,175,55,.08);white-space:nowrap;}
+.badge.gold{border-color:var(--line-strong);color:var(--gold);background:rgba(212,175,55,.15);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;}
+.btn{
+  display:inline-block;padding:13px 22px;border-radius:4px;text-decoration:none;
+  font-size:15.5px;font-weight:600;border:1px solid var(--gold);
+  background:transparent;color:var(--gold);box-shadow:var(--shadow);
+  min-height:44px;transition:all .2s ease;
+}
+.btn:hover{background:rgba(212,175,55,.1);border-color:var(--gold-light);color:var(--gold-light);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:var(--bg);}
+.btn.primary:hover{background:var(--gold-light);border-color:var(--gold-light);box-shadow:0 0 20px rgba(212,175,55,.3);}
+
+/* ---------- generic section ---------- */
+section{padding:46px 0;border-bottom:1px solid var(--line);}
+section:last-of-type{border-bottom:0;}
+h2{font-size:clamp(22px,5vw,28px);margin:0 0 6px;color:var(--gold);}
+.section-note{color:var(--text-soft);margin:0 0 24px;max-width:62ch;}
+h3{font-size:17px;margin:0 0 4px;color:var(--text);}
+
+/* ---------- start-here cards ---------- */
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--line);border-radius:6px;padding:18px 20px;box-shadow:var(--shadow);}
+.card .who{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);margin:0 0 8px;}
+.card p{margin:0 0 12px;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:10px 0 0;padding-top:10px;border-top:1px dashed var(--line);}
+
+/* ---------- pull quote ---------- */
+.pull{
+  background:rgba(212,175,55,.08);border:1px solid var(--line-strong);border-left-width:4px;border-left-color:var(--gold);
+  border-radius:6px;padding:22px 24px;margin:28px 0 0;
+}
+.pull p{margin:0;font-size:clamp(17px,3.6vw,20px);line-height:1.4;color:var(--text);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:10px;letter-spacing:.04em;}
+
+/* ---------- stages ---------- */
+.stage{border:1px solid var(--line);border-radius:6px;background:var(--bg-raised);
+  margin-bottom:12px;box-shadow:var(--shadow);overflow:hidden;}
+.stage summary{
+  cursor:pointer;padding:16px 18px;list-style:none;display:flex;gap:14px;align-items:baseline;
+  min-height:44px;transition:background .2s ease;
+}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(212,175,55,.08);}
+.stage .snum{
+  flex:none;width:30px;height:30px;border-radius:50%;background:transparent;border:2px solid var(--gold);color:var(--gold);
+  display:inline-flex;align-items:center;justify-content:center;font-size:13.5px;font-weight:600;
+  align-self:center;
+}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Fraunces',Georgia,serif;font-size:17px;font-weight:600;color:var(--gold);}
+.stage .sname span{display:block;font-size:14.5px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:12px;align-self:center;}
+.stage[open] .chev{transform:rotate(180deg);}
+.stage .body{padding:0 18px 16px;border-top:1px solid var(--line);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li{border-bottom:1px solid var(--line);}
+ol.chapters li:last-child{border-bottom:0;}
+ol.chapters a{
+  display:flex;gap:12px;align-items:baseline;padding:12px 2px;text-decoration:none;color:var(--text);
+  min-height:44px;transition:color .2s ease;
+}
+ol.chapters a:hover{color:var(--gold-light);}
+ol.chapters .cid{flex:none;font-size:11.5px;color:var(--text-muted);width:58px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11.5px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:12px;font-size:14px;color:var(--gold);}
+
+/* ---------- plain link list ---------- */
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--line);border-radius:6px;box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:15px 18px;text-decoration:none;color:var(--text);min-height:44px;transition:background .2s ease;}
+ul.linklist a:hover{background:rgba(212,175,55,.08);}
+ul.linklist .lt{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:16px;display:block;color:var(--gold);}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:3px;}
+.flag{font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:3px;margin-left:8px;vertical-align:2px;white-space:nowrap;}
+.flag.partial{background:rgba(212,175,55,.2);color:var(--gold);}
+.flag.speculative{background:rgba(155,136,176,.2);color:var(--accent-spec);}
+
+/* ---------- pillars ---------- */
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:22px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--line);border-radius:6px;padding:16px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Fraunces',Georgia,serif;font-size:18px;display:block;margin-bottom:4px;color:var(--gold);}
+.pillar span{font-size:13.5px;color:var(--text-soft);}
+.pillar.t{border-top:3px solid var(--accent-truth);}
+.pillar.h{border-top:3px solid var(--gold);}
+.pillar.m{border-top:3px solid var(--accent-mercy);}
+
+/* ---------- not-this ---------- */
+.warn{border:1px solid var(--line);border-left-width:4px;border-left-color:var(--accent-mercy);border-radius:6px;background:rgba(201,120,98,.08);padding:20px 22px;}
+.warn h3{font-family:'Fraunces',Georgia,serif;font-size:17px;margin:0 0 8px;color:var(--accent-mercy);}
+.warn p{margin:0 0 10px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+
+/* ---------- license ---------- */
+.license{background:var(--bg-raised);border:1px solid var(--line);border-radius:6px;padding:22px 24px;}
+.license .big{font-family:'Fraunces',Georgia,serif;font-size:20px;font-weight:600;margin:0 0 10px;color:var(--gold);}
+.license ul{margin:0 0 12px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:5px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+/* ---------- footer ---------- */
+footer{padding:34px 0 60px;font-size:13px;color:var(--text-muted);border-top:2px solid var(--line-strong);}
+footer p{margin:0 0 6px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+          main{padding:40px 0;}
+          article{max-width:720px;margin:0 auto;padding:0 20px;}
+          .chapter-head{margin-bottom:40px;padding-bottom:20px;border-bottom:2px solid var(--line-strong);}
+          .chapter-meta{font-size:14px;color:var(--text-soft);margin:0 0 10px;}
+          .chapter-num{font-family:'IBM Plex Mono',monospace;font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+          .chapter-title{font-family:'Fraunces',Georgia,serif;font-size:clamp(28px,6vw,40px);line-height:1.1;margin:10px 0 0;font-weight:600;color:var(--gold);}
+          .chapter-stage{font-size:15px;color:var(--accent-truth);margin:8px 0 0;font-style:italic;}
+          .chapter-progress{font-size:13.5px;color:var(--text-muted);margin:12px 0 0;}
+          .chapter-body{font-size:17px;line-height:1.7;color:var(--text);}
+          .chapter-body p{margin:0 0 1.2em;}
+          .chapter-body em{font-style:italic;color:var(--text-soft);}
+          .chapter-body strong{font-weight:600;}
+          .chapter-body blockquote{margin:1.5em 0;padding:0 0 0 18px;border-left:3px solid var(--gold);color:var(--text-soft);}
+          .chapter-nav{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:50px;padding-top:30px;border-top:2px solid var(--line-strong);}
+          .nav-btn{padding:16px 20px;border:1px solid var(--line);border-radius:4px;text-decoration:none;text-align:center;color:var(--gold);background:transparent;box-shadow:var(--shadow);min-height:44px;display:flex;align-items:center;justify-content:center;transition:all .2s ease;}
+          .nav-btn:hover{background:rgba(212,175,55,.08);border-color:var(--gold-light);color:var(--gold-light);}
+          .nav-btn.next{text-align:right;}
+          .nav-btn.disabled{color:var(--text-muted);pointer-events:none;opacity:.5;background:transparent;}
+          .nav-label{display:block;font-size:12px;color:var(--text-muted);letter-spacing:.05em;margin-bottom:4px;text-transform:uppercase;}
+          .back-to-hub{display:inline-block;margin-bottom:20px;font-size:14px;color:var(--gold);}
+        </style>
+</head>
+<body>
+<main>
+<article>
+<a class="back-to-hub" href="index.html">← Back to hub</a>
+<div class="chapter-head">
+<p class="chapter-meta"><span class="chapter-num">C08</span></p>
+<h1 class="chapter-title">The True Prophet</h1>
+<p class="chapter-stage">PERCEPTION</p>
+<p class="chapter-progress">Chapter 8 of 29</p>
+</div>
+<div class="chapter-body">
+<p>Chapter Eight: The True Prophet</p>
+<p></p>
+<p>Stage Two — Perception: How should one see?</p>
+<p></p>
+<p>My friend,</p>
+<p></p>
+<p>We close this stage with the question you will need most in a noisy world: how do you tell what is true?</p>
+<p></p>
+<p>You are surrounded by voices. Teachers, movements, causes, spiritual experiences, confident people with large followings and an answer for everything. Some of them are good. A number of them are not, and the dangerous ones do not announce themselves as dangerous — they arrive impressive.</p>
+<p></p>
+<p>If your inner vision has not been cleansed, you will be led astray by whichever voice is loudest at the moment you are most tired. I have been, more than once, and never on a topic where I felt uncertain. Always on one where I felt sure.</p>
+<p></p>
+<p>Carry this as your companion through the chapter:</p>
+<p></p>
+<p>Your word is a lamp to my feet, and a light for my path. — Psalm 119:105</p>
+<p></p>
+<p>Notice how modest that promise is. A lamp to the feet. Not a floodlight over the whole valley. It shows you the next step — not the destination, not the ten years ahead, not the answer to every question your mind can generate.</p>
+<p></p>
+<p>I have spent a good deal of my life demanding a floodlight and refusing to move until I got one. That refusal looked like prudence. It was fear.</p>
+<p></p>
+<p>Truth Is Alignment, Not Inventory</p>
+<p></p>
+<p>Before we can test anything, a correction.</p>
+<p></p>
+<p>Truth is not a collection of facts to be accumulated. You can hold an enormous quantity of correct information and be entirely out of alignment with reality — I have known men who could win any argument about doctrine and could not sustain a friendship.</p>
+<p></p>
+<p>Truth is alignment with reality. The universe has a moral structure, and to live in truth is to bring your heart into harmony with that structure.</p>
+<p></p>
+<p>Which means spiritual blindness is rarely a failure of intelligence. It is a misalignment of the heart. When we wander from the truth we are not merely breaking a rule; we are living crosswise to the way things actually are, and the friction of that is what eventually wears us out.</p>
+<p></p>
+<p>The True Prophet</p>
+<p></p>
+<p>The Pseudo-Clementine literature gives us a guide through the fog, and it is not a technique. It is a person: the True Prophet, Jesus.</p>
+<p></p>
+<p>The mark of the True Prophet, in the Recognitions, is not power. It is the truth and goodness of his message. He does not lead people into elaborate speculation or hidden secrets available to insiders. He leads them back to the simplicity of reality. He heals sight by showing that the deepest truths are usually the plainest ones, lived out quietly by faithful people over long periods.</p>
+<p></p>
+<p>And this title is no invention of later philosophers. God promised it in the Torah:</p>
+<p></p>
+<p>Yahweh your God will raise up to you a prophet from the midst of you, of your brothers, like me. You shall listen to him. — Deuteronomy 18:15</p>
+<p></p>
+<p>The same literature is blunt about the counterfeit: whoever makes light of God's commandments — however impressive he may appear — has shown you what he is.</p>
+<p></p>
+<p>The Fruit Test</p>
+<p></p>
+<p>So how do you distinguish the real thing from the many able counterfeits?</p>
+<p></p>
+<p>Truth is validated by the kind of person it produces.</p>
+<p></p>
+<p>That is the test, and it is nearly foolproof, though it is slow — which is why people prefer flashier methods. If a teaching makes you colder, more arrogant, more certain of your superiority to those outside it, then whatever it is, it is not the light. If it produces the restoration of character and the softening of the heart, you have found the Way.</p>
+<p></p>
+<p>Look for these fruits — in a teacher, in a movement, and above all in yourself:</p>
+<p></p>
+<p>●   Mercy — meeting weakness with compassion instead of condemnation. ●   Truthfulness — inner reality and outer action being the same thing. ●   Humility — accurate self-knowledge, without the self at the center. ●   Wisdom — practical skill at living in alignment with what is real. ●   Compassion — a stable love that seeks another's restoration rather than their correction.</p>
+<p></p>
+<p>Jesus laid this down as the standard Himself, and He did not soften it:</p>
+<p></p>
+<p>Beware of false prophets, who come to you in sheep's clothing, but inwardly are ravening wolves. By their fruits you will know them. Do you gather grapes from thorns, or figs from thistles?... Therefore, by their fruits you will know them. — Matthew 7:15–16, 20</p>
+<p></p>
+<p>Note what He does not offer as a test. Not eloquence. Not miracles. Not certainty, confidence, or size of following. Fruit — which takes a season to appear and cannot be faked for long.</p>
+<p></p>
+<p>And I will add the uncomfortable application, since I would rather say it than let you avoid it: run this test on yourself. Not only on teachers. What has your practice of this road produced in you over the last year? Are you gentler, or merely better informed? If the honest answer is the second, that is not cause for despair. It is simply the report, and having the report is worth more than not having it.</p>
+<p></p>
+<p>The Witness</p>
+<p></p>
+<p>Through your precepts, I get understanding; therefore I hate every false way. Your word is a lamp to my feet, and a light for my path. — Psalm 119:104–105</p>
+<p></p>
+<p>Understanding first, then discernment. The Psalmist does not reject false ways because he has memorised a list of them. He rejects them because he has come to understand what is real, and the counterfeit no longer looks appealing once you have seen the genuine article.</p>
+<p></p>
+<p>That is the whole strategy of this stage. We are not building a catalogue of errors to avoid. We are cultivating a taste for what is true, so that falsehood loses its savour on its own.</p>
+<p></p>
+<p>The Practice: Testing the Fruit</p>
+<p></p>
+<p>Name what you have been swallowing whole. Identify one teacher, source, or stream of influence you have accepted without ever examining it. Do not reject it. Examine it — by its fruit, over the last year, in you.</p>
+<p></p>
+<p>The one-year question. Ask of any influence: what kind of person has this been making me? Not what does it claim. What has it produced.</p>
+<p></p>
+<p>Watch the gate. You are permitted to decline things. You do not owe every voice a hearing, and the practice of filtering what enters your mind is not narrowness — it is the ordinary care a person takes with what they eat.</p>
+<p></p>
+<p>Ask yourself this week: What have I believed because someone impressive said it? Where has my certainty outrun my understanding?</p>
+<p></p>
+<p>The Close of the Stage</p>
+<p></p>
+<p>You have an answer now to the second question. How should one see?</p>
+<p></p>
+<p>See past surfaces to the depth beneath them. Suspect your own clarity, especially when it feels newly acquired. Clean the lens by living truthfully, humbly, and mercifully, and expect that work to be slow. Test everything by its fruit, beginning with yourself. Ask for sight as a gift rather than assuming it as a possession.</p>
+<p></p>
+<p>But seeing the road is not the same as staying on it, and this is where many capable people falter. They can see perfectly well what they ought to be, and they exhaust themselves trying to become it by force.</p>
+<p></p>
+<p>So the question changes again. We have asked how to live, and how to see. Next we ask how to remain — and the answer will be a relief, because the third stage is where the striving finally stops being the engine.</p>
+<p></p>
+<p>A Blessing</p>
+<p></p>
+<p>May the Word be a lamp for your next step, and may you stop demanding to see the whole valley before you take it.</p>
+<p></p>
+<p>May you be given a taste for what is real. And may you never be deceived by a light that makes you harder than you were.</p>
+<p></p>
+</div>
+<div class="chapter-nav">
+<a class="nav-btn prev" href="c07.html">
+<div>
+<span class="nav-label">← Previous</span>
+<span>Chapter 7</span>
+</div>
+</a>
+<a class="nav-btn next" href="c09.html">
+<div>
+<span class="nav-label">Next →</span>
+<span>Chapter 9</span>
+</div>
+</a>
+</div>
+</article>
+</main>
+</body></html>

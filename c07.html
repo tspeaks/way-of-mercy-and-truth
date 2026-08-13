@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Chapter 7: Cleansing the Eyes — The Way of Mercy and Truth</title>
+<meta name="author" content="A. Pilgrim">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0F0E0A; --bg-raised:#1A1915;
+  --gold:#D4AF37; --gold-dark:#A68A3B; --gold-light:#E8D5B7;
+  --text:#E8D5B7; --text-soft:#C9B89A; --text-muted:#8B7E6B;
+  --accent-truth:#6FA8B8; --accent-mercy:#C97862; --accent-spec:#9B88B0;
+  --line:rgba(212,175,55,0.22); --line-strong:rgba(212,175,55,0.4);
+  --focus:#D4AF37;
+  --shadow:0 2px 8px rgba(0,0,0,.6), 0 8px 24px rgba(212,175,55,.08);
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --parchment:#191E1B; --paper:#1F2622; --raised:#28312B;
+    --ink:#E9E3D5; --ink-soft:#C3BDAF; --muted:#948B79;
+    --truth:#8FB6C1; --mercy:#D89578; --gold:#D4AC53; --gold-line:#C9A227;
+    --spec:#B4A2C4;
+    --line:rgba(233,227,213,0.14); --line-strong:rgba(233,227,213,0.3);
+    --focus:#8FB6C1;
+    --shadow:0 1px 2px rgba(0,0,0,.3), 0 4px 14px rgba(0,0,0,.22);
+  }
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0; background:var(--bg); color:var(--text);
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.6;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+  background-attachment:fixed;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-thickness:1px;text-underline-offset:2px;transition:color .2s ease;}
+a:hover{color:var(--gold-light);}
+:focus-visible{outline:2px solid var(--focus);outline-offset:3px;border-radius:2px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 20px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--line-strong);border-radius:0 0 6px 0;}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Fraunces','Iowan Old Style',Georgia,serif;font-weight:600;letter-spacing:-.012em;color:var(--gold);}
+
+/* ---------- setup banner (disappears once configured) ---------- */
+.setup{background:rgba(201,120,98,.15);border-top:1px solid var(--line-strong);border-bottom:1px solid var(--line-strong);color:var(--gold-light);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(212,175,55,.2);padding:1px 6px;border-radius:3px;font-size:13px;color:var(--gold);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:56px 0 40px;border-bottom:2px solid var(--line-strong);position:relative;}
+header.masthead::before,header.masthead::after{
+  content:"✦"; position:absolute; left:20px; font-size:16px; color:var(--gold);
+}
+header.masthead::before{top:20px;}
+header.masthead::after{bottom:20px;}
+.kicker{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--text-muted);margin:0 0 14px;}
+h1.title{font-size:clamp(32px,8vw,54px);line-height:1.03;margin:0 0 10px;color:var(--gold);}
+.subtitle{font-size:clamp(16px,3.4vw,19px);color:var(--text-soft);font-style:italic;margin:0 0 26px;}
+blockquote.epigraph{
+  margin:0 0 26px; padding:0 0 0 18px; border-left:3px solid var(--gold);
+  font-size:clamp(16px,3.5vw,19px); color:var(--text-soft); line-height:1.45;
+}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:26px;}
+.badge{font-size:11.5px;letter-spacing:.04em;padding:5px 10px;border-radius:999px;
+  border:1px solid var(--line);color:var(--text-muted);background:rgba(212,175,55,.08);white-space:nowrap;}
+.badge.gold{border-color:var(--line-strong);color:var(--gold);background:rgba(212,175,55,.15);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;}
+.btn{
+  display:inline-block;padding:13px 22px;border-radius:4px;text-decoration:none;
+  font-size:15.5px;font-weight:600;border:1px solid var(--gold);
+  background:transparent;color:var(--gold);box-shadow:var(--shadow);
+  min-height:44px;transition:all .2s ease;
+}
+.btn:hover{background:rgba(212,175,55,.1);border-color:var(--gold-light);color:var(--gold-light);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:var(--bg);}
+.btn.primary:hover{background:var(--gold-light);border-color:var(--gold-light);box-shadow:0 0 20px rgba(212,175,55,.3);}
+
+/* ---------- generic section ---------- */
+section{padding:46px 0;border-bottom:1px solid var(--line);}
+section:last-of-type{border-bottom:0;}
+h2{font-size:clamp(22px,5vw,28px);margin:0 0 6px;color:var(--gold);}
+.section-note{color:var(--text-soft);margin:0 0 24px;max-width:62ch;}
+h3{font-size:17px;margin:0 0 4px;color:var(--text);}
+
+/* ---------- start-here cards ---------- */
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--line);border-radius:6px;padding:18px 20px;box-shadow:var(--shadow);}
+.card .who{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);margin:0 0 8px;}
+.card p{margin:0 0 12px;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:10px 0 0;padding-top:10px;border-top:1px dashed var(--line);}
+
+/* ---------- pull quote ---------- */
+.pull{
+  background:rgba(212,175,55,.08);border:1px solid var(--line-strong);border-left-width:4px;border-left-color:var(--gold);
+  border-radius:6px;padding:22px 24px;margin:28px 0 0;
+}
+.pull p{margin:0;font-size:clamp(17px,3.6vw,20px);line-height:1.4;color:var(--text);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:10px;letter-spacing:.04em;}
+
+/* ---------- stages ---------- */
+.stage{border:1px solid var(--line);border-radius:6px;background:var(--bg-raised);
+  margin-bottom:12px;box-shadow:var(--shadow);overflow:hidden;}
+.stage summary{
+  cursor:pointer;padding:16px 18px;list-style:none;display:flex;gap:14px;align-items:baseline;
+  min-height:44px;transition:background .2s ease;
+}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(212,175,55,.08);}
+.stage .snum{
+  flex:none;width:30px;height:30px;border-radius:50%;background:transparent;border:2px solid var(--gold);color:var(--gold);
+  display:inline-flex;align-items:center;justify-content:center;font-size:13.5px;font-weight:600;
+  align-self:center;
+}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Fraunces',Georgia,serif;font-size:17px;font-weight:600;color:var(--gold);}
+.stage .sname span{display:block;font-size:14.5px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:12px;align-self:center;}
+.stage[open] .chev{transform:rotate(180deg);}
+.stage .body{padding:0 18px 16px;border-top:1px solid var(--line);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li{border-bottom:1px solid var(--line);}
+ol.chapters li:last-child{border-bottom:0;}
+ol.chapters a{
+  display:flex;gap:12px;align-items:baseline;padding:12px 2px;text-decoration:none;color:var(--text);
+  min-height:44px;transition:color .2s ease;
+}
+ol.chapters a:hover{color:var(--gold-light);}
+ol.chapters .cid{flex:none;font-size:11.5px;color:var(--text-muted);width:58px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11.5px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:12px;font-size:14px;color:var(--gold);}
+
+/* ---------- plain link list ---------- */
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--line);border-radius:6px;box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:15px 18px;text-decoration:none;color:var(--text);min-height:44px;transition:background .2s ease;}
+ul.linklist a:hover{background:rgba(212,175,55,.08);}
+ul.linklist .lt{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:16px;display:block;color:var(--gold);}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:3px;}
+.flag{font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:3px;margin-left:8px;vertical-align:2px;white-space:nowrap;}
+.flag.partial{background:rgba(212,175,55,.2);color:var(--gold);}
+.flag.speculative{background:rgba(155,136,176,.2);color:var(--accent-spec);}
+
+/* ---------- pillars ---------- */
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:22px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--line);border-radius:6px;padding:16px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Fraunces',Georgia,serif;font-size:18px;display:block;margin-bottom:4px;color:var(--gold);}
+.pillar span{font-size:13.5px;color:var(--text-soft);}
+.pillar.t{border-top:3px solid var(--accent-truth);}
+.pillar.h{border-top:3px solid var(--gold);}
+.pillar.m{border-top:3px solid var(--accent-mercy);}
+
+/* ---------- not-this ---------- */
+.warn{border:1px solid var(--line);border-left-width:4px;border-left-color:var(--accent-mercy);border-radius:6px;background:rgba(201,120,98,.08);padding:20px 22px;}
+.warn h3{font-family:'Fraunces',Georgia,serif;font-size:17px;margin:0 0 8px;color:var(--accent-mercy);}
+.warn p{margin:0 0 10px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+
+/* ---------- license ---------- */
+.license{background:var(--bg-raised);border:1px solid var(--line);border-radius:6px;padding:22px 24px;}
+.license .big{font-family:'Fraunces',Georgia,serif;font-size:20px;font-weight:600;margin:0 0 10px;color:var(--gold);}
+.license ul{margin:0 0 12px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:5px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+/* ---------- footer ---------- */
+footer{padding:34px 0 60px;font-size:13px;color:var(--text-muted);border-top:2px solid var(--line-strong);}
+footer p{margin:0 0 6px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+          main{padding:40px 0;}
+          article{max-width:720px;margin:0 auto;padding:0 20px;}
+          .chapter-head{margin-bottom:40px;padding-bottom:20px;border-bottom:2px solid var(--line-strong);}
+          .chapter-meta{font-size:14px;color:var(--text-soft);margin:0 0 10px;}
+          .chapter-num{font-family:'IBM Plex Mono',monospace;font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+          .chapter-title{font-family:'Fraunces',Georgia,serif;font-size:clamp(28px,6vw,40px);line-height:1.1;margin:10px 0 0;font-weight:600;color:var(--gold);}
+          .chapter-stage{font-size:15px;color:var(--accent-truth);margin:8px 0 0;font-style:italic;}
+          .chapter-progress{font-size:13.5px;color:var(--text-muted);margin:12px 0 0;}
+          .chapter-body{font-size:17px;line-height:1.7;color:var(--text);}
+          .chapter-body p{margin:0 0 1.2em;}
+          .chapter-body em{font-style:italic;color:var(--text-soft);}
+          .chapter-body strong{font-weight:600;}
+          .chapter-body blockquote{margin:1.5em 0;padding:0 0 0 18px;border-left:3px solid var(--gold);color:var(--text-soft);}
+          .chapter-nav{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:50px;padding-top:30px;border-top:2px solid var(--line-strong);}
+          .nav-btn{padding:16px 20px;border:1px solid var(--line);border-radius:4px;text-decoration:none;text-align:center;color:var(--gold);background:transparent;box-shadow:var(--shadow);min-height:44px;display:flex;align-items:center;justify-content:center;transition:all .2s ease;}
+          .nav-btn:hover{background:rgba(212,175,55,.08);border-color:var(--gold-light);color:var(--gold-light);}
+          .nav-btn.next{text-align:right;}
+          .nav-btn.disabled{color:var(--text-muted);pointer-events:none;opacity:.5;background:transparent;}
+          .nav-label{display:block;font-size:12px;color:var(--text-muted);letter-spacing:.05em;margin-bottom:4px;text-transform:uppercase;}
+          .back-to-hub{display:inline-block;margin-bottom:20px;font-size:14px;color:var(--gold);}
+        </style>
+</head>
+<body>
+<main>
+<article>
+<a class="back-to-hub" href="index.html">← Back to hub</a>
+<div class="chapter-head">
+<p class="chapter-meta"><span class="chapter-num">C07</span></p>
+<h1 class="chapter-title">Cleansing the Eyes</h1>
+<p class="chapter-stage">PERCEPTION</p>
+<p class="chapter-progress">Chapter 7 of 29</p>
+</div>
+<div class="chapter-body">
+<p>Chapter Seven: Cleansing the Eyes</p>
+<p></p>
+<p>Stage Two — Perception: How should one see?</p>
+<p></p>
+<p>My friend,</p>
+<p></p>
+<p>We must face something uncomfortable now, and I would rather put it plainly than let it sit unspoken between us.</p>
+<p></p>
+<p>God is the Source of Life and the Source of Truth — and He remains hidden from a very great many people. Sincere people. People who have looked.</p>
+<p></p>
+<p>Why?</p>
+<p></p>
+<p>Our guide here is Theophilus of Antioch, and his answer is not that God is playing hide-and-seek. It is that our perception is distorted by our own internal state. The Divine is visible everywhere, and we are like men standing in the full midday sun with our eyes clamped shut, complaining about the darkness.</p>
+<p></p>
+<p>The Cataract</p>
+<p></p>
+<p>Consider a physical eye with a cataract — a growth of cloudiness over the lens. Such a person cannot see the sun even when it is shining directly on their face.</p>
+<p></p>
+<p>The fault is not with the sun. The sun is unchanged, constant, blazing. The fault is in the lens.</p>
+<p></p>
+<p>The soul has a lens too, and it clouds. Pride clouds it. Self-deception clouds it. Long- nursed resentment clouds it, and does so with remarkable efficiency.</p>
+<p></p>
+<p>Theophilus put the challenge to the skeptics of his day in a single unforgettable sentence: Show me yourself, and I will show you my God.</p>
+<p></p>
+<p>He was not being evasive. He was making a claim about instruments. When he says show me yourself, he means your character — the purity of your intentions, the</p>
+<p></p>
+<p>actual state of your heart. Only a clear lens transmits light. If your life is muddy with self-deception, the light will reach you as a blur, and you will conclude that there is nothing there but blur.</p>
+<p></p>
+<p>I want to be careful here, because this teaching can be turned into a weapon, and it often has been. It does not mean that every person who cannot find God is morally worse than you. Some of the clearest-sighted people I have known spent years unable to see, and some of the blindest were the most religiously confident. Say it about yourself and it is a diagnosis. Say it about your neighbor and it is a slander.</p>
+<p></p>
+<p>And note what is not being asked of you. Theophilus does not say become pure and then God will let you see. The cleansing is not a fee paid in advance. It is what happens to a person walking this road — and the walking itself is only possible because grace got there first.</p>
+<p></p>
+<p>The Sailor and the Pilot</p>
+<p></p>
+<p>Here is how the movement from obedience to sight actually works.</p>
+<p></p>
+<p>In your early days you were a passenger on a ship. Your task was simple: stay aboard, follow the rules of the vessel. That was faithfulness, and it was the right task for that stage.</p>
+<p></p>
+<p>But a sailor who has been aboard long enough begins to do something more. He does not merely follow orders — he begins to recognize the Pilot at work. Even when the destination is below the horizon, even in heavy weather, he reads the steady, purposeful movement of the ship through the water and knows there is a hand on the wheel.</p>
+<p></p>
+<p>That is discernment. It is not new information. It is the same voyage, read by someone who has learned what to look for.</p>
+<p></p>
+<p>How the Pillars Clear the Lens</p>
+<p></p>
+<p>Truthfulness. Confront your self-deception without mercy toward the deception itself. Every lie we tell ourselves puts fog in the air of the soul. Honest people see further, and not because they are cleverer.</p>
+<p></p>
+<p>Humility. Admit that you are partly blind. The person certain his vision is perfect will never seek the surgery. This is the strange arithmetic of this stage: admitting you cannot see is the first act of seeing.</p>
+<p></p>
+<p>Mercy. When you look at people mercifully, your own eyes open. Harsh judgment works like grit in the eye — it makes it nearly impossible to see the image of God in the person in front of you, and it hurts besides.</p>
+<p></p>
+<p>And a practical training: observe the order of creation. Theophilus would have you watch the turning seasons, a seed opening, the motion of the stars, and see the fingerprints of Wisdom on them. Do not merely look at things. Look through them.</p>
+<p></p>
+<p>The Witness</p>
+<p></p>
+<p>The heavens declare the glory of God. The expanse shows his handiwork. Day after day they pour forth speech, and night after night they display knowledge. There is no speech nor language, where their voice is not heard. — Psalm 19:1–3</p>
+<p></p>
+<p>And then, in the same Psalm, the turn from the sky to the soul:</p>
+<p></p>
+<p>Yahweh's law is perfect, restoring the soul. Yahweh's testimony is sure, making wise the simple. Yahweh's precepts are right, rejoicing the heart. Yahweh's commandment is pure, enlightening the eyes. — Psalm 19:7–8</p>
+<p></p>
+<p>Enlightening the eyes. The Psalm ties obedience and clear sight together in a single knot, and this is the whole argument of the chapter in one phrase.</p>
+<p></p>
+<p>Test this. Jesus stated the requirement for spiritual perception as plainly as it can be stated: Blessed are the pure in heart, for they shall see God (Matthew 5:8). Theophilus invented nothing.</p>
+<p></p>
+<p>And Paul says the evidence has been on public display the entire time — that since the creation of the world God's invisible qualities have been clearly seen, perceived through the things that are made (Romans 1:20).</p>
+<p></p>
+<p>If we cannot see Him, the deficiency is not in His hiding.</p>
+<p></p>
+<p>The Practice: The Cleansing of the Lens</p>
+<p></p>
+<p>Name one distortion. Identify a single thing currently clouding your sight — a resentment you are feeding, an ambition you have not admitted, a story about yourself you know is flattering and false. One. Name it in writing.</p>
+<p></p>
+<p>Look through, not at. Once a day, take one small object or event and refuse to stop at its surface. A tree. A meal. Your commute. Ask what it is a shadow of. This will feel artificial for about two weeks and then it will stop feeling artificial.</p>
+<p></p>
+<p>Bring the blindness to the Physician. This is the part that is not technique. You cannot perform this surgery on yourself; nobody can see their own cataract. Ask Christ to be your physician, and then get on with the ordinary labor of living truthfully and mercifully while He works. Grace provides the fire. Your faithfulness prepares the altar. Neither substitutes for the other.</p>
+<p></p>
+<p>Ask yourself this week: What am I refusing to see because seeing it would require me to change something? Where have I mistaken a blur for an absence?</p>
+<p></p>
+<p>A Blessing</p>
+<p></p>
+<p>May you look upon creation and see the Wisdom of its Source. May you look upon your neighbor and see the light of mercy resting on them.</p>
+<p></p>
+<p>And may the rust fall from the mirror of your soul so gradually that you never once catch yourself being proud of the shine.</p>
+<p></p>
+</div>
+<div class="chapter-nav">
+<a class="nav-btn prev" href="c06.html">
+<div>
+<span class="nav-label">← Previous</span>
+<span>Chapter 6</span>
+</div>
+</a>
+<a class="nav-btn next" href="c08.html">
+<div>
+<span class="nav-label">Next →</span>
+<span>Chapter 8</span>
+</div>
+</a>
+</div>
+</article>
+</main>
+</body></html>

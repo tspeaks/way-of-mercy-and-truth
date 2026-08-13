@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Chapter 1: The Ground Beneath Everything — The Way of Mercy and Truth</title>
+<meta name="author" content="A. Pilgrim">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0F0E0A; --bg-raised:#1A1915;
+  --gold:#D4AF37; --gold-dark:#A68A3B; --gold-light:#E8D5B7;
+  --text:#E8D5B7; --text-soft:#C9B89A; --text-muted:#8B7E6B;
+  --accent-truth:#6FA8B8; --accent-mercy:#C97862; --accent-spec:#9B88B0;
+  --line:rgba(212,175,55,0.22); --line-strong:rgba(212,175,55,0.4);
+  --focus:#D4AF37;
+  --shadow:0 2px 8px rgba(0,0,0,.6), 0 8px 24px rgba(212,175,55,.08);
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --parchment:#191E1B; --paper:#1F2622; --raised:#28312B;
+    --ink:#E9E3D5; --ink-soft:#C3BDAF; --muted:#948B79;
+    --truth:#8FB6C1; --mercy:#D89578; --gold:#D4AC53; --gold-line:#C9A227;
+    --spec:#B4A2C4;
+    --line:rgba(233,227,213,0.14); --line-strong:rgba(233,227,213,0.3);
+    --focus:#8FB6C1;
+    --shadow:0 1px 2px rgba(0,0,0,.3), 0 4px 14px rgba(0,0,0,.22);
+  }
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0; background:var(--bg); color:var(--text);
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.6;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+  background-attachment:fixed;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-thickness:1px;text-underline-offset:2px;transition:color .2s ease;}
+a:hover{color:var(--gold-light);}
+:focus-visible{outline:2px solid var(--focus);outline-offset:3px;border-radius:2px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 20px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--line-strong);border-radius:0 0 6px 0;}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Fraunces','Iowan Old Style',Georgia,serif;font-weight:600;letter-spacing:-.012em;color:var(--gold);}
+
+/* ---------- setup banner (disappears once configured) ---------- */
+.setup{background:rgba(201,120,98,.15);border-top:1px solid var(--line-strong);border-bottom:1px solid var(--line-strong);color:var(--gold-light);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(212,175,55,.2);padding:1px 6px;border-radius:3px;font-size:13px;color:var(--gold);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:56px 0 40px;border-bottom:2px solid var(--line-strong);position:relative;}
+header.masthead::before,header.masthead::after{
+  content:"✦"; position:absolute; left:20px; font-size:16px; color:var(--gold);
+}
+header.masthead::before{top:20px;}
+header.masthead::after{bottom:20px;}
+.kicker{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--text-muted);margin:0 0 14px;}
+h1.title{font-size:clamp(32px,8vw,54px);line-height:1.03;margin:0 0 10px;color:var(--gold);}
+.subtitle{font-size:clamp(16px,3.4vw,19px);color:var(--text-soft);font-style:italic;margin:0 0 26px;}
+blockquote.epigraph{
+  margin:0 0 26px; padding:0 0 0 18px; border-left:3px solid var(--gold);
+  font-size:clamp(16px,3.5vw,19px); color:var(--text-soft); line-height:1.45;
+}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:26px;}
+.badge{font-size:11.5px;letter-spacing:.04em;padding:5px 10px;border-radius:999px;
+  border:1px solid var(--line);color:var(--text-muted);background:rgba(212,175,55,.08);white-space:nowrap;}
+.badge.gold{border-color:var(--line-strong);color:var(--gold);background:rgba(212,175,55,.15);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;}
+.btn{
+  display:inline-block;padding:13px 22px;border-radius:4px;text-decoration:none;
+  font-size:15.5px;font-weight:600;border:1px solid var(--gold);
+  background:transparent;color:var(--gold);box-shadow:var(--shadow);
+  min-height:44px;transition:all .2s ease;
+}
+.btn:hover{background:rgba(212,175,55,.1);border-color:var(--gold-light);color:var(--gold-light);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:var(--bg);}
+.btn.primary:hover{background:var(--gold-light);border-color:var(--gold-light);box-shadow:0 0 20px rgba(212,175,55,.3);}
+
+/* ---------- generic section ---------- */
+section{padding:46px 0;border-bottom:1px solid var(--line);}
+section:last-of-type{border-bottom:0;}
+h2{font-size:clamp(22px,5vw,28px);margin:0 0 6px;color:var(--gold);}
+.section-note{color:var(--text-soft);margin:0 0 24px;max-width:62ch;}
+h3{font-size:17px;margin:0 0 4px;color:var(--text);}
+
+/* ---------- start-here cards ---------- */
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--line);border-radius:6px;padding:18px 20px;box-shadow:var(--shadow);}
+.card .who{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);margin:0 0 8px;}
+.card p{margin:0 0 12px;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:10px 0 0;padding-top:10px;border-top:1px dashed var(--line);}
+
+/* ---------- pull quote ---------- */
+.pull{
+  background:rgba(212,175,55,.08);border:1px solid var(--line-strong);border-left-width:4px;border-left-color:var(--gold);
+  border-radius:6px;padding:22px 24px;margin:28px 0 0;
+}
+.pull p{margin:0;font-size:clamp(17px,3.6vw,20px);line-height:1.4;color:var(--text);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:10px;letter-spacing:.04em;}
+
+/* ---------- stages ---------- */
+.stage{border:1px solid var(--line);border-radius:6px;background:var(--bg-raised);
+  margin-bottom:12px;box-shadow:var(--shadow);overflow:hidden;}
+.stage summary{
+  cursor:pointer;padding:16px 18px;list-style:none;display:flex;gap:14px;align-items:baseline;
+  min-height:44px;transition:background .2s ease;
+}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(212,175,55,.08);}
+.stage .snum{
+  flex:none;width:30px;height:30px;border-radius:50%;background:transparent;border:2px solid var(--gold);color:var(--gold);
+  display:inline-flex;align-items:center;justify-content:center;font-size:13.5px;font-weight:600;
+  align-self:center;
+}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Fraunces',Georgia,serif;font-size:17px;font-weight:600;color:var(--gold);}
+.stage .sname span{display:block;font-size:14.5px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:12px;align-self:center;}
+.stage[open] .chev{transform:rotate(180deg);}
+.stage .body{padding:0 18px 16px;border-top:1px solid var(--line);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li{border-bottom:1px solid var(--line);}
+ol.chapters li:last-child{border-bottom:0;}
+ol.chapters a{
+  display:flex;gap:12px;align-items:baseline;padding:12px 2px;text-decoration:none;color:var(--text);
+  min-height:44px;transition:color .2s ease;
+}
+ol.chapters a:hover{color:var(--gold-light);}
+ol.chapters .cid{flex:none;font-size:11.5px;color:var(--text-muted);width:58px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11.5px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:12px;font-size:14px;color:var(--gold);}
+
+/* ---------- plain link list ---------- */
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--line);border-radius:6px;box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:15px 18px;text-decoration:none;color:var(--text);min-height:44px;transition:background .2s ease;}
+ul.linklist a:hover{background:rgba(212,175,55,.08);}
+ul.linklist .lt{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:16px;display:block;color:var(--gold);}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:3px;}
+.flag{font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:3px;margin-left:8px;vertical-align:2px;white-space:nowrap;}
+.flag.partial{background:rgba(212,175,55,.2);color:var(--gold);}
+.flag.speculative{background:rgba(155,136,176,.2);color:var(--accent-spec);}
+
+/* ---------- pillars ---------- */
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:22px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--line);border-radius:6px;padding:16px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Fraunces',Georgia,serif;font-size:18px;display:block;margin-bottom:4px;color:var(--gold);}
+.pillar span{font-size:13.5px;color:var(--text-soft);}
+.pillar.t{border-top:3px solid var(--accent-truth);}
+.pillar.h{border-top:3px solid var(--gold);}
+.pillar.m{border-top:3px solid var(--accent-mercy);}
+
+/* ---------- not-this ---------- */
+.warn{border:1px solid var(--line);border-left-width:4px;border-left-color:var(--accent-mercy);border-radius:6px;background:rgba(201,120,98,.08);padding:20px 22px;}
+.warn h3{font-family:'Fraunces',Georgia,serif;font-size:17px;margin:0 0 8px;color:var(--accent-mercy);}
+.warn p{margin:0 0 10px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+
+/* ---------- license ---------- */
+.license{background:var(--bg-raised);border:1px solid var(--line);border-radius:6px;padding:22px 24px;}
+.license .big{font-family:'Fraunces',Georgia,serif;font-size:20px;font-weight:600;margin:0 0 10px;color:var(--gold);}
+.license ul{margin:0 0 12px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:5px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+/* ---------- footer ---------- */
+footer{padding:34px 0 60px;font-size:13px;color:var(--text-muted);border-top:2px solid var(--line-strong);}
+footer p{margin:0 0 6px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+          main{padding:40px 0;}
+          article{max-width:720px;margin:0 auto;padding:0 20px;}
+          .chapter-head{margin-bottom:40px;padding-bottom:20px;border-bottom:2px solid var(--line-strong);}
+          .chapter-meta{font-size:14px;color:var(--text-soft);margin:0 0 10px;}
+          .chapter-num{font-family:'IBM Plex Mono',monospace;font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+          .chapter-title{font-family:'Fraunces',Georgia,serif;font-size:clamp(28px,6vw,40px);line-height:1.1;margin:10px 0 0;font-weight:600;color:var(--gold);}
+          .chapter-stage{font-size:15px;color:var(--accent-truth);margin:8px 0 0;font-style:italic;}
+          .chapter-progress{font-size:13.5px;color:var(--text-muted);margin:12px 0 0;}
+          .chapter-body{font-size:17px;line-height:1.7;color:var(--text);}
+          .chapter-body p{margin:0 0 1.2em;}
+          .chapter-body em{font-style:italic;color:var(--text-soft);}
+          .chapter-body strong{font-weight:600;}
+          .chapter-body blockquote{margin:1.5em 0;padding:0 0 0 18px;border-left:3px solid var(--gold);color:var(--text-soft);}
+          .chapter-nav{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:50px;padding-top:30px;border-top:2px solid var(--line-strong);}
+          .nav-btn{padding:16px 20px;border:1px solid var(--line);border-radius:4px;text-decoration:none;text-align:center;color:var(--gold);background:transparent;box-shadow:var(--shadow);min-height:44px;display:flex;align-items:center;justify-content:center;transition:all .2s ease;}
+          .nav-btn:hover{background:rgba(212,175,55,.08);border-color:var(--gold-light);color:var(--gold-light);}
+          .nav-btn.next{text-align:right;}
+          .nav-btn.disabled{color:var(--text-muted);pointer-events:none;opacity:.5;background:transparent;}
+          .nav-label{display:block;font-size:12px;color:var(--text-muted);letter-spacing:.05em;margin-bottom:4px;text-transform:uppercase;}
+          .back-to-hub{display:inline-block;margin-bottom:20px;font-size:14px;color:var(--gold);}
+        </style>
+</head>
+<body>
+<main>
+<article>
+<a class="back-to-hub" href="index.html">← Back to hub</a>
+<div class="chapter-head">
+<p class="chapter-meta"><span class="chapter-num">C01</span></p>
+<h1 class="chapter-title">The Ground Beneath Everything</h1>
+<p class="chapter-stage">FOUNDATIONS</p>
+<p class="chapter-progress">Chapter 1 of 29</p>
+</div>
+<div class="chapter-body">
+<p>Chapter One: The Ground Beneath Everything</p>
+<p></p>
+<p>Stage One — Foundations: How should one live?</p>
+<p></p>
+<p>My friend,</p>
+<p></p>
+<p>I want to tell you what I wanted, the year I began, so that you will recognize yourself if you happen to want the same thing.</p>
+<p></p>
+<p>I wanted to be changed without being inconvenienced.</p>
+<p></p>
+<p>I wanted the summit. I had read enough by then to know that somewhere in the Christian tradition there were people whose hearts had become something like oceans — wide, unhurried, impossible to offend — and I wanted to be one of them by roughly the following spring. What I did not want was a curriculum. What I certainly did not want was to be sent back to Deuteronomy.</p>
+<p></p>
+<p>That is where I was sent.</p>
+<p></p>
+<p>I was given the Torah — not the Torah of altars and sacrifices, but the Torah of the boundary stone and the honest scale. The wage paid before sundown. The gleanings left standing at the edge of the field for people I would never meet and who could never thank me. I was told that this was the first stage, and that there was no route around it.</p>
+<p></p>
+<p>I was, I will admit, insulted. I had come asking about communion with God and I had been handed a list of obligations toward widows.</p>
+<p></p>
+<p>I want you to know that if something in you bristles at this chapter, you are in good company, and the company includes me. Bristle away. Then keep reading, because here is what I eventually understood.</p>
+<p></p>
+<p>Reality Has a Grain</p>
+<p></p>
+<p>Before anything else can be said, this has to be settled: the world is not morally neutral.</p>
+<p></p>
+<p>It has a structure. That structure is not a matter of taste, and it does not adjust itself to accommodate our preferences. There is a grain to reality the way there is a grain to wood, and you can work with it or against it, but you cannot vote on which direction it runs.</p>
+<p></p>
+<p>This is the first and largest thing the Torah does. Set aside for now the priestly material — the sacrifices, the ritual architecture, the temple. What remains, and it is the great majority, is a sustained argument that creation is ordered, that God is not indifferent to human conduct, and that our choices land somewhere and leave marks.</p>
+<p></p>
+<p>The Rock, his work is perfect; For all his ways are justice: A God of faithfulness and without iniquity, Just and right is he. — Deuteronomy 32:4</p>
+<p></p>
+<p>Notice what this verse is actually claiming. Not that God is powerful. Not that God is loving, though He is. It claims that God's ways are justice — that the moral order and the divine character are the same thing seen from two angles. To live truthfully is not to obey an arbitrary rule-giver. It is to live in accordance with how things actually are.</p>
+<p></p>
+<p>This is why the Torah spends so much of its attention on things that seem, at first, beneath the notice of religion. How you treat a stranger who has no legal standing. Whether your weights are honest. Whether you pay a laborer the same day, because he has nothing else to eat with. Whether you leave the corners of the field unharvested for people you will never see.</p>
+<p></p>
+<p>These are not small matters that God happens to have opinions about. They are the actual material of which a character is built. Your soul is not being formed in your best hour of prayer. It is being formed in how you speak to your family on an ordinary Tuesday when you are tired and no one is watching and nothing important is at stake.</p>
+<p></p>
+<p>I resisted this for a long time because it seemed to make God small — a bookkeeper, a magistrate. It took me years to see that it does the opposite. It means there is no corner of an ordinary life that is spiritually inert. Every part of it is load-bearing.</p>
+<p></p>
+<p>The Two Ways</p>
+<p></p>
+<p>Set before you, every day, is a choice. The old texts call it the Two Ways, and they do not soften it:</p>
+<p></p>
+<p>There are two ways, one of life and one of death, and there is a great difference between the two ways.</p>
+<p></p>
+<p>The Way of Life is the path of integrity and of active care for people who cannot repay you — the widow, the orphan, the poor, the stranger. It is not heroic. It is mostly unglamorous. It looks, from the outside, like being reliable.</p>
+<p></p>
+<p>The Way of Death is almost never a dramatic apostasy. That is the thing I most want you to understand. It is a slow silting-up of the soul. It is self-deception that has become comfortable enough to live in. It is the failure of love conducted so gradually that no single day ever contains the decision, so that you can look up after fifteen years and find that you have become someone you did not choose to become and cannot quite remember choosing.</p>
+<p></p>
+<p>Now — here is the part that took me longest, and it is the part I most want to give you gently.</p>
+<p></p>
+<p>This choice is not made once. It is made every morning, and it can be unmade by ten o'clock.</p>
+<p></p>
+<p>I spent years believing that I had failed at this because I kept having to choose again. I thought the mature person chose the Way of Life once, decisively, and then simply walked. When I found myself at eleven in the morning having already drifted — irritable, dishonest in some small way, self-pitying — I concluded that the earlier choice had been fraudulent.</p>
+<p></p>
+<p>It was not fraudulent. It had simply expired, the way choices do.</p>
+<p></p>
+<p>The question is never whether you have chosen the Way of Life in some final, permanent sense. The question is whether you have chosen it today, and — far more important — how quickly you return when you notice you have wandered.</p>
+<p></p>
+<p>Not whether you wander. How fast you come back.</p>
+<p></p>
+<p>If you take one thing from this chapter, take that. It will save you a great deal of unnecessary despair, and it is the difference between a person who walks this road for decades and a person who abandons it in March.</p>
+<p></p>
+<p>The Three Pillars</p>
+<p></p>
+<p>Three virtues hold this road up. You will meet them in every chapter of this book, and if you keep them in balance you will not fall far.</p>
+<p></p>
+<p>Truth is alignment with reality. It is the refusal to lie — first to yourself, then to everyone else. It is the slow, unglamorous labor of making your inside match your outside, so that the person you are in private and the person you are in public gradually become the same person.</p>
+<p></p>
+<p>Humility is accurate self-knowledge before God. Please note what it is not. It is not thinking poorly of yourself. That is a different thing entirely, and often a disguised form of pride, since a man obsessed with his own worthlessness is still a man obsessed with himself. Humility is thinking of yourself accurately, which includes the sober knowledge that you cannot see the whole picture and that you can be wrong about things you feel certain of.</p>
+<p></p>
+<p>Mercy is how you meet weakness — your own and other people's — with a desire to restore rather than to condemn.</p>
+<p></p>
+<p>Now hold them together, because separately they spoil.</p>
+<p></p>
+<p>Truth without mercy becomes cruelty with a clean conscience. I was very good at this. For years I mistook it for courage. I could see other people's faults with real precision and I told them, and I believed I was being honest when in fact I was enjoying myself. There is a particular pleasure in being right about someone's failings, and I do not think I have ever fully lost the taste for it.</p>
+<p></p>
+<p>Mercy without truth becomes a warm feeling that never protects anyone from anything. It nods and forgives and changes nothing, and it leaves the vulnerable exactly where it found them. It is the more socially pleasant failure and it is not less of a failure.</p>
+<p></p>
+<p>And both of them, without humility, curdle into the same thing: a person who is certain, and therefore dangerous.</p>
+<p></p>
+<p>Humility is what keeps the other two honest. It is the pillar nobody notices until it is missing.</p>
+<p></p>
+<p>The Witness</p>
+<p></p>
+<p>Take this Psalm slowly. Do not skim it because you have read it before. It is the assigned anchor for this whole first stage, and it repays a hundred readings.</p>
+<p></p>
+<p>Blessed is the man who doesn't walk in the counsel of the wicked, nor stand in the way of sinners, nor sit in the seat of scoffers; but his delight is in Yahweh's law. On his law he meditates day and night. He will be like a tree planted by the streams of water, that brings forth its fruit in its season, whose leaf also does not wither. Whatever he does shall prosper. — Psalm 1:1–3</p>
+<p></p>
+<p>The image is a tree, and the image is doing careful work. A tree does not decide to bear fruit. It cannot hurry. What it does is put roots down toward water, slowly, in the dark, where nothing can be seen — and then in its season, without effort, it produces.</p>
+<p></p>
+<p>You are not being asked to manufacture fruit. You are being asked to root.</p>
+<p></p>
+<p>And I want you to notice the progression in the first verse: walk, stand, sit. The Psalm is describing a drift, not a leap. First you walk past something. Then you stop and stand near it. Then you sit down and make yourself at home. Nobody sits down in the seat of scoffers on purpose. They arrive there by three unremarkable steps, none of which felt like a decision.</p>
+<p></p>
+<p>Test this against your Bible. Everything in this chapter has its warrant there, and I would rather you check me than trust me:</p>
+<p></p>
+<p>● On the Two Ways as God's own framing: Deuteronomy 30:15–20, where the choice between life and death is laid out as plainly as it ever has been. ● On this being no contradiction of the Gospel: 1 John 5:3 — &quot;For this is the love of God, that we keep his commandments. His commandments are not grievous.&quot; John, of all people, saw no conflict between abiding in Christ and living rightly.</p>
+<p></p>
+<p>● On the Three Pillars in the Torah itself: the prohibition of false witness establishes Truth; the repeated warning against a stiff neck and a forgetful heart establishes Humility; the law of gleanings and the protection of the sojourner, the fatherless, and the widow establishes Mercy.</p>
+<p></p>
+<p>They are all there. My teaching adds nothing to Scripture; at most it arranges what is already in it.</p>
+<p></p>
+<p>The Practice: The Daily Anchors</p>
+<p></p>
+<p>This is the first practice, and it is the one that carries the most weight over a lifetime. It has three parts and it costs perhaps five minutes a day.</p>
+<p></p>
+<p>Morning. Before the day begins, say — aloud, if you can — &quot;Today I choose the Way of Life.&quot; Then do two specific things, because a vague intention will not survive contact with a Tuesday. First, name one danger you expect to face today: irritation on the commute, anxiety about money, the temptation to shade the truth to avoid an awkward conversation. Name the actual one. Second, choose one concrete act of mercy to look for. Not &quot;be kind&quot; — something you could describe to another person.</p>
+<p></p>
+<p>Midday. Stop for sixty seconds. Ask where you have drifted. Make one immediate correction. Sixty seconds. Set an alarm if you need to; there is no shame in it.</p>
+<p></p>
+<p>Evening. Replay the day honestly before God. Not anxiously — honestly. Where was I truthful? Where was I merciful? Where did I fail, and what would returning look like?</p>
+<p></p>
+<p>A word about how this will actually go. You will do it for four days and forget on the fifth. You will remember on the sixth day, feel a small wash of failure, and be tempted to wait until Monday, or the first of the month, or some other clean starting line, to begin again.</p>
+<p></p>
+<p>Do not wait. Begin again that afternoon. The clean starting line does not exist and waiting for it has ended more spiritual lives than open rebellion ever has.</p>
+<p></p>
+<p>Ask yourself this week: Where did I drift today without noticing? What is the smallest true thing I could say about myself right now?</p>
+<p></p>
+<p>A Blessing</p>
+<p></p>
+<p>May you be patient with your own slow roots. May you find, in the plain weight of an ordinary day, that nothing you do is too small to matter and nothing you have done is too large to be carried.</p>
+<p></p>
+<p>And may you discover, before very long, that the ground you thought was beneath you has always been holding you up.</p>
+<p></p>
+</div>
+<div class="chapter-nav">
+<div class="nav-btn disabled">
+<div>
+<span class="nav-label">← Previous</span>
+<span>Start</span>
+</div>
+</div>
+<a class="nav-btn next" href="c02.html">
+<div>
+<span class="nav-label">Next →</span>
+<span>Chapter 2</span>
+</div>
+</a>
+</div>
+</article>
+</main>
+</body></html>

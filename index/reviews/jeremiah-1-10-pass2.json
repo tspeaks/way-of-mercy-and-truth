@@ -1,0 +1,26 @@
+{
+  "scope": "chapters 1-10, all 22 entries",
+  "verdicts": {
+    "sound": 22
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "Jeremiah 8:4-7",
+      "proposed": "PR01",
+      "verdict": "accepted",
+      "reason": "Verse 6 quotes the audit question — what have I done — and records that no man asks it. The practice shown by the absence of the sentence that begins it. C04 added alongside."
+    },
+    {
+      "ref": "Jeremiah 9:3-8",
+      "proposed": "PR12",
+      "verdict": "declined",
+      "reason": "PR12 is nepsis: catching a movement of the heart before it hardens into action. This passage describes trained deceit — they have taught their tongue to speak lies — with ambush laid deliberately while the mouth speaks peace. That is a plan being executed, not a lapse in guarding. A practice's absence and a different failure entirely are not the same anchor."
+    }
+  ],
+  "running_tally": "Fifteen additions proposed across all books: six accepted, one in part, eight declined.",
+  "stated_claims_confirmed": [
+    "Sectioning strategy — practical, and named in the status field rather than left to inference.",
+    "Counter-example rule — the build-time check caught the missing PR09 on 6:13-15 before review, which is the first time the tooling has been ahead of the reviewer."
+  ]
+}

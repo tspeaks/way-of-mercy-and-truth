@@ -2,7 +2,7 @@
   "book": "Jeremiah",
   "translation": "World English Bible (public domain)",
   "status": "partial — chapters 1-10 only; the remaining forty-two chapters follow in sections",
-  "method_version": "1.5",
+  "method_version": "1.6",
   "text_source": "index/text/jeremiah.json",
   "note": "The longest book in the canon at 1,364 verses, indexed in sections along its own seams: the call and early oracles (1-10), the confessions (11-20), kings and false prophets (21-29), the Book of Consolation (30-33), the fall narratives (34-45), and the oracles against the nations (46-52). This file covers the first section.",
   "sectioning_note": "Sectioning is a practical necessity, not a claim about the book's unity. Each section is indexed against the same standard and validated the same way, and the file's status field names what is done. A reader should be able to see at a glance that the index is partial rather than inferring it from the absence of entries.",
@@ -331,13 +331,17 @@
         "S2"
       ],
       "chapters": [
+        "C04",
         "C06"
       ],
-      "practices": [],
+      "practices": [
+        "PR01"
+      ],
       "mode": "counter-example",
-      "connection": "No man repents saying what have I done, and the contrast drawn is with migratory birds keeping their seasons. Perception shown as something the created order manages without effort and people fail at deliberately.",
+      "connection": "No man repents saying what have I done, and the contrast drawn is with migratory birds keeping their seasons. The audit question is quoted exactly and recorded as unasked — the Moral Audit shown by the absence of the single sentence that begins it.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR01 and C04 added at review. Verse 6 quotes the audit question itself and reports that no one asks it, which is a counter-example anchor under the standing rule."
     },
     {
       "ref": "Jeremiah 8:18-9:2",
@@ -437,6 +441,18 @@
       "connection": "Two admissions in consecutive verses: a man cannot direct his own steps, and correction is asked for with a limit attached. The Discipline of Unknowing applied to one's own agency, and the request for measured correction is asked rather than assumed.",
       "confidence": "high",
       "prior": false
+    }
+  ],
+  "review_log": [
+    {
+      "pass": 2,
+      "reviewer": "second model (Gemini Spark)",
+      "scope": "chapters 1-10, all 22 entries",
+      "verdicts": {
+        "sound": 22
+      },
+      "record": "index/reviews/jeremiah-1-10-pass2.json",
+      "adjudication": "Clean pass. Two gaps proposed: PR01 on 8:4-7 accepted, PR12 on 9:3-8 declined."
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Jeremiah — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 1-10 only; the remaining forty-two chapters follow in sections. Method version 1.5.
+Scripture: World English Bible (public domain). Index status: partial — chapters 1-10 only; the remaining forty-two chapters follow in sections. Method version 1.6.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -265,9 +265,11 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **8:6** I listened and heard, but they didn’t speak aright: no man repents him of his wickedness, saying, What have I done? everyone turns to his course, as a horse that rushes headlong in the battle.
 > **8:7** Yes, the stork in the sky knows her appointed times; and the turtledove and the swallow and the crane observe the time of their coming; but my people don’t know Yahweh’s law.
 
-**Claim.** No man repents saying what have I done, and the contrast drawn is with migratory birds keeping their seasons. Perception shown as something the created order manages without effort and people fail at deliberately.
+**Claim.** No man repents saying what have I done, and the contrast drawn is with migratory birds keeping their seasons. The audit question is quoted exactly and recorded as unasked — the Moral Audit shown by the absence of the single sentence that begins it.
 
-**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S2 · chapters: C06 · practices: none · confidence: high
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S2 · chapters: C04, C06 · practices: PR01 · confidence: high
+
+**Amended at review** — PR01 and C04 added at review. Verse 6 quotes the audit question itself and reports that no one asks it, which is a counter-example anchor under the standing rule.
 
 ---
 

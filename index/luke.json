@@ -1,0 +1,470 @@
+{
+  "book": "Luke",
+  "translation": "World English Bible (public domain)",
+  "status": "partial — chapters 1-6 only; the remaining eighteen chapters follow in sections",
+  "method_version": "1.8",
+  "text_source": "index/text/luke.json",
+  "note": "Indexed in sections along the book's own seams: the infancy narratives and Galilean opening (1-6), the Galilean ministry (7-9:50), the travel narrative (9:51-19:27), Jerusalem (19:28-21), and the passion and resurrection (22-24). This file covers the first section. Four entries carry prior citations from the curriculum, all in chapter 6.",
+  "synoptic_note": "Entries carry an optional synoptic_parallel field recording the corresponding passage in Matthew where one exists. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Luke's own arrangement. All scripture is WEB, per the standing rule in WMT G10.",
+  "entries": [
+    {
+      "ref": "Luke 1:1-4",
+      "pericope": "An orderly account, that you may know the certainty",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The author states his method before his material — eyewitnesses consulted, the course traced accurately, the account set in order. Testimony offered with its provenance attached, which is what C08's fruit test needs in order to be applied at all.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 1:26-38",
+      "pericope": "Be it to me according to your word",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "The question asked is how, not whether, and the consent is given without any assurance of how it will look to anyone. The Hidden Life accepted at the point where the cost is entirely private and the vindication is decades away.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 1:46-55",
+      "pericope": "He has put down princes and exalted the lowly",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27"
+      ],
+      "practices": [
+        "PR25"
+      ],
+      "mode": "exemplifies",
+      "connection": "The reversal is sung in the past tense as something already done — thrones vacated, the hungry filled, the rich sent away empty. Deferential Seating stated as the shape of God's own conduct rather than as advice about where to sit.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 1:67-79",
+      "pericope": "Because of the tender mercy of our God",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C03",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The whole song turns on one phrase: the dawn visits us because of tender mercy, to shine on those sitting in darkness and guide their feet into the way of peace. C03's blueprint given as a cause rather than a command.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 2:1-7",
+      "pericope": "There was no room for them in the inn",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C28"
+      ],
+      "practices": [
+        "PR23"
+      ],
+      "mode": "exemplifies",
+      "connection": "A census, a journey, a full inn, a feeding trough. The Sacrament of the Ordinary at the one moment where extraordinary staging would have been most expected and is conspicuously absent.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 2:8-20",
+      "pericope": "Mary kept all these sayings, pondering them in her heart",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C09",
+        "C24"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The shepherds publicize; Mary keeps and turns over. Two responses to the same event set side by side, and the interior one is the one the narrator singles out.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 2:36-38",
+      "pericope": "Anna, who didn't depart from the temple",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C09"
+      ],
+      "practices": [
+        "PR07"
+      ],
+      "mode": "exemplifies",
+      "connection": "Eighty-four years a widow, serving with fastings and petitions night and day, and she arrives at the right hour. The Daily Anchors shown across a whole lifetime, with the payoff arriving in a single unremarkable moment.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 2:41-52",
+      "pericope": "He increased in wisdom and stature",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "exemplifies",
+      "connection": "Twelve years old, questioning teachers, and then subject to his parents in Nazareth for eighteen more years. Growth described as increase over time even here, which forecloses reading formation as something maturity exempts anyone from.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 3:7-14",
+      "pericope": "What then must we do?",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C05",
+        "C16"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "Three groups ask the same question and get three concrete answers: share the second coat, collect no more than appointed, be content with your wages. Repentance specified as changes to conduct already in reach, with no one told to leave their occupation.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 4:1-13",
+      "pericope": "The temptation in the wilderness",
+      "synoptic_parallel": "Matthew 4:1-11",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "exemplifies",
+      "connection": "Three approaches, each answered from what he already carried rather than from argument. Watchfulness at the gate — the proposals are refused at the moment they are made, before any of them is considered on its merits.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 4:16-30",
+      "pericope": "No prophet is acceptable in his hometown",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C08",
+        "C17"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "counter-example",
+      "connection": "They marvel at his gracious words, and then try to throw him off a cliff — the turn comes when he names two foreigners who received what Israel did not. The Citizen-Stranger shown from the town's side: belonging is withdrawn the moment the boundary is questioned.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 5:1-11",
+      "pericope": "Depart from me, for I am a sinful man",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C04"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "exemplifies",
+      "connection": "The audit is triggered by abundance rather than by rebuke — the nets fill, and what he sees is himself. Self-knowledge arriving through kindness, which is the form of it that people least expect and least resist.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 5:12-16",
+      "pericope": "He withdrew himself into the desert and prayed",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C09",
+        "C23"
+      ],
+      "practices": [
+        "PR07",
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "The report spreads, the multitudes gather, and the response is withdrawal. Set immediately after a healing he told the man to keep quiet about, which makes the pattern deliberate rather than incidental.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 5:17-26",
+      "pericope": "They let him down through the tiles",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [
+        "PR19"
+      ],
+      "mode": "exemplifies",
+      "connection": "Four men interrupt their day, carry a cot, climb a roof, and dismantle it. Spontaneous Service in its most literal form, and the text says he saw their faith — the friends' action is what is credited.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 5:27-32",
+      "pericope": "I have not come to call the righteous, but sinners",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C29"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "Levi leaves the tax office and immediately throws a feast for his former colleagues, and the objection is about the table rather than the doctrine. Merciful Reintegration performed as a meal, before any evidence of reform has been produced.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 6:1-11",
+      "pericope": "Is it lawful on the Sabbath to do good?",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The question is put as a choice between doing good and doing harm, with no third option available. Rule-keeping tested by what it costs the man with the withered hand, and the watchers are watching to accuse rather than to learn.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 6:12-16",
+      "pericope": "He continued all night in prayer to God",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C09"
+      ],
+      "practices": [
+        "PR07"
+      ],
+      "mode": "exemplifies",
+      "connection": "A whole night in prayer, and then at daybreak the twelve are chosen — including the one the narrator immediately identifies as the traitor. Prayer preceding a decision, and the decision still containing that.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 6:20-26",
+      "pericope": "Blessed are you who are poor; woe to you who are rich",
+      "synoptic_parallel": "Matthew 5:1-12",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C03",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Luke's version is spoken in the second person and paired with woes, so the blessing and the warning fall on people standing in front of him. Poverty and hunger stated plainly rather than qualified in spirit, which sharpens what C03 has to account for.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 6:27-36",
+      "pericope": "Be merciful, even as your Father is merciful",
+      "synoptic_parallel": "Matthew 5:38-48",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [
+        "PR06",
+        "PR15"
+      ],
+      "mode": "prescribes",
+      "connection": "Already load-bearing in the curriculum. Love, do good, bless, pray — four verbs directed at enemies, followed by the observation that loving those who love you earns no credit. The summit statement of Stage Seven, and the standard given is God's own conduct toward the ungrateful.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Luke 6:37-42",
+      "pericope": "Don't judge; first remove the beam from your own eye",
+      "synoptic_parallel": "Matthew 7:1-5",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C22"
+      ],
+      "practices": [
+        "PR01",
+        "PR03"
+      ],
+      "mode": "prescribes",
+      "connection": "Already load-bearing in the curriculum. Four commands in sequence — don't judge, don't condemn, set free, give — and then the beam. Self-Accusation established as the precondition for seeing clearly enough to help, with the order stated as non-negotiable.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Luke 6:43-45",
+      "pericope": "Out of the abundance of the heart, the mouth speaks",
+      "synoptic_parallel": "Matthew 7:15-20",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C08",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Already load-bearing in the curriculum. The fruit test applied to speech and then traced to its source — what is stored in the heart is what comes out. C08's discernment and C20's watchfulness joined at the point where the interior becomes audible.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Luke 6:46-49",
+      "pericope": "Why do you call me Lord and don't do what I say?",
+      "synoptic_parallel": "Matthew 7:24-27",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C12"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "prescribes",
+      "connection": "The question is asked directly before the parable rather than left implicit in it, and the builder who succeeds is the one who dug deep. The proof test of C12 with the labour named — the foundation is invisible and is the whole difference.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

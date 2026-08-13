@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0C0B08">
+<title>Luke — Scripture Index — The Way of Mercy and Truth</title>
+<meta name="description" content="Every passage of Luke mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta property="og:type" content="book">
+<meta property="og:title" content="Luke — Scripture Index — The Way of Mercy and Truth">
+<meta property="og:description" content="Every passage of Luke mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%230C0B08%27/%3E%3Cpath d=%27M16 6 L16 26 M9 13 H23%27 stroke=%27%23C9A227%27 stroke-width=%272.6%27 stroke-linecap=%27round%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0C0B08; --bg-raised:#15140F;
+  --gold:#C9A227; --gold-bright:#E3C158; --gold-pale:#EADFC4; --gold-dim:#8A7327;
+  --text:#E4DCC6; --text-soft:#BFB49A; --text-muted:#8A8069;
+  --truth:#7FA9B5; --mercy:#C4795F; --spec:#9C8AB2;
+  --rule:rgba(201,162,39,0.22); --rule-strong:rgba(201,162,39,0.45);
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 10px 30px rgba(0,0,0,.35);
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0;
+  color:var(--text);
+  background-color:var(--bg);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(201,162,39,.07), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 110%, rgba(201,162,39,.05), transparent 70%);
+  background-attachment:fixed;
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-color:rgba(201,162,39,.45);text-underline-offset:3px;}
+a:hover{color:var(--gold-bright);text-decoration-color:var(--gold-bright);}
+:focus-visible{outline:2px solid var(--gold-bright);outline-offset:3px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule-strong);}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Cormorant Garamond','Iowan Old Style',Georgia,serif;font-weight:600;}
+
+.rule-orn{display:flex;align-items:center;gap:14px;margin:0;color:var(--gold-dim);}
+.rule-orn::before,.rule-orn::after{content:"";height:1px;flex:1;
+  background:linear-gradient(90deg,transparent,var(--rule-strong),transparent);}
+.rule-orn span{font-size:13px;letter-spacing:.3em;}
+
+.setup{background:rgba(196,121,95,.14);border-bottom:1px solid var(--rule-strong);
+  color:var(--gold-pale);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(201,162,39,.18);padding:1px 6px;font-size:13px;color:var(--gold-bright);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:62px 0 44px;text-align:center;}
+header.masthead::after{content:"";display:block;height:1px;margin-top:38px;
+  background:linear-gradient(90deg,transparent,var(--rule-strong) 20%,var(--rule-strong) 80%,transparent);}
+.crest{width:64px;height:64px;margin:0 auto 22px;display:block;color:var(--gold);opacity:.92;}
+.kicker{font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 16px;}
+h1.title{font-size:clamp(34px,9vw,58px);line-height:1.04;margin:0 0 12px;color:var(--gold-pale);
+  font-weight:600;letter-spacing:.005em;}
+.subtitle{font-size:clamp(15px,3.4vw,18px);color:var(--text-soft);font-style:italic;
+  margin:0 auto 30px;max-width:44ch;}
+blockquote.epigraph{margin:0 auto 30px;padding:20px 24px;max-width:52ch;
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  font-size:clamp(15.5px,3.4vw,18px);color:var(--text-soft);line-height:1.5;font-style:italic;}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;justify-content:center;}
+.badge{font-size:11px;letter-spacing:.08em;padding:5px 11px;text-transform:uppercase;
+  border:1px solid var(--rule);color:var(--text-muted);background:rgba(201,162,39,.05);white-space:nowrap;}
+.badge.gold{border-color:var(--rule-strong);color:var(--gold);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;}
+.btn{display:inline-block;padding:14px 26px;text-decoration:none;font-size:15px;font-weight:600;
+  letter-spacing:.02em;border:1px solid var(--gold-dim);background:transparent;color:var(--gold);min-height:44px;}
+.btn:hover{background:rgba(201,162,39,.1);border-color:var(--gold);color:var(--gold-bright);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#100E08;}
+.btn.primary:hover{background:var(--gold-bright);border-color:var(--gold-bright);color:#100E08;}
+
+section{padding:50px 0;}
+section + section{border-top:1px solid var(--rule);}
+h2.sec{font-size:clamp(23px,5vw,30px);margin:0 0 8px;color:var(--gold-pale);font-weight:600;}
+.section-note{color:var(--text-soft);margin:0 0 26px;max-width:62ch;}
+
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--rule);padding:19px 21px;box-shadow:var(--shadow);}
+.card .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 9px;}
+.card p{margin:0;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:11px 0 0;padding-top:11px;border-top:1px solid var(--rule);}
+
+.pull{background:rgba(201,162,39,.06);border-top:2px solid var(--gold-dim);
+  border-bottom:2px solid var(--gold-dim);padding:24px 26px;margin:30px 0 0;}
+.pull p{margin:0;font-size:clamp(16.5px,3.5vw,19px);line-height:1.45;color:var(--gold-pale);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:12px;letter-spacing:.05em;font-style:italic;}
+
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:26px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--rule);padding:18px 14px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;display:block;
+  margin-bottom:5px;color:var(--gold-pale);letter-spacing:.06em;}
+.pillar span{font-size:13px;color:var(--text-muted);}
+.pillar.t{border-top:2px solid var(--truth);}
+.pillar.h{border-top:2px solid var(--gold);}
+.pillar.m{border-top:2px solid var(--mercy);}
+
+.stage{border:1px solid var(--rule);background:var(--bg-raised);margin-bottom:12px;box-shadow:var(--shadow);}
+.stage summary{cursor:pointer;padding:17px 19px;list-style:none;display:flex;gap:15px;
+  align-items:center;min-height:44px;}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(201,162,39,.06);}
+.stage .snum{flex:none;width:34px;height:34px;border-radius:50%;background:transparent;
+  border:1px solid var(--gold-dim);color:var(--gold);display:inline-flex;align-items:center;
+  justify-content:center;font-size:14px;font-weight:600;}
+.stage[open] .snum{background:var(--gold);color:#100E08;border-color:var(--gold);}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;
+  font-weight:600;color:var(--gold-pale);letter-spacing:.05em;}
+.stage .sname span{display:block;font-size:14px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:11px;letter-spacing:.06em;}
+.stage .body{padding:4px 19px 17px;border-top:1px solid var(--rule);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li + li{border-top:1px solid var(--rule);}
+ol.chapters a{display:flex;gap:12px;align-items:baseline;padding:13px 2px;text-decoration:none;
+  color:var(--text);min-height:44px;}
+ol.chapters a:hover{color:var(--gold-bright);}
+ol.chapters .cid{flex:none;font-size:11px;color:var(--text-muted);width:42px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:14px;font-size:14px;}
+
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--rule);box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:16px 19px;text-decoration:none;color:var(--text);min-height:44px;}
+ul.linklist a:hover{background:rgba(201,162,39,.06);}
+ul.linklist .lt{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:19px;
+  display:block;color:var(--gold-pale);letter-spacing:.03em;}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:4px;}
+.flag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;margin-left:9px;
+  vertical-align:2px;white-space:nowrap;border:1px solid;}
+.flag.partial{border-color:var(--gold-dim);color:var(--gold);}
+.flag.speculative{border-color:var(--spec);color:var(--spec);}
+
+.warn{border:1px solid var(--rule);border-left:3px solid var(--mercy);
+  background:rgba(196,121,95,.07);padding:22px 24px;}
+.warn h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;margin:0 0 10px;
+  color:var(--mercy);letter-spacing:.02em;}
+.warn p{margin:0 0 11px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+.license{background:var(--bg-raised);border:1px solid var(--rule);padding:24px 26px;}
+.license .big{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:600;
+  margin:0 0 12px;color:var(--gold-pale);letter-spacing:.03em;}
+.license ul{margin:0 0 14px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:6px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+footer{padding:36px 0 64px;font-size:13px;color:var(--text-muted);
+  border-top:1px solid var(--rule);margin-top:20px;}
+footer p{margin:0 0 7px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+/* ================= reading pages ================= */
+.topbar{position:sticky;top:0;z-index:20;background:rgba(12,11,8,.94);
+  border-bottom:1px solid var(--rule);}
+@supports ((backdrop-filter:blur(8px)) or (-webkit-backdrop-filter:blur(8px))){
+  .topbar{-webkit-backdrop-filter:saturate(140%) blur(8px);backdrop-filter:saturate(140%) blur(8px);}
+}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:50px;}
+.topbar a.home{font-size:13.5px;text-decoration:none;color:var(--gold);white-space:nowrap;}
+.topbar .where{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.progress{height:2px;}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold-dim),var(--gold));}
+
+article{max-width:680px;margin:0 auto;padding:44px 22px 0;}
+.doc-head{margin-bottom:38px;padding-bottom:26px;border-bottom:1px solid var(--rule);text-align:center;}
+.doc-kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 14px;}
+.doc-title{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,7vw,44px);
+  line-height:1.1;margin:0;font-weight:600;color:var(--gold-pale);letter-spacing:.01em;}
+.doc-sub{font-size:15px;color:var(--truth);margin:12px 0 0;font-style:italic;}
+.doc-meta{font-size:12px;color:var(--text-muted);margin:14px 0 0;letter-spacing:.06em;}
+
+.doc-body{font-size:18px;line-height:1.75;color:var(--text);}
+.doc-body p{margin:0 0 1.25em;}
+.doc-body > p:first-of-type::first-letter{float:left;font-family:'Cormorant Garamond',Georgia,serif;
+  font-size:3.4em;line-height:.82;padding:.06em .1em 0 0;color:var(--gold);font-weight:600;}
+.doc-body h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;font-weight:600;
+  margin:2em 0 .7em;color:var(--gold-pale);letter-spacing:.03em;}
+.doc-body h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;font-weight:600;
+  margin:1.9em 0 .6em;color:var(--gold);letter-spacing:.03em;}
+blockquote.scripture{margin:1.7em 0;padding:16px 0 16px 22px;border-left:2px solid var(--gold-dim);
+  background:rgba(201,162,39,.04);}
+blockquote.scripture p{margin:0;font-style:italic;color:var(--gold-pale);font-size:17px;line-height:1.6;}
+blockquote.scripture cite{display:block;margin-top:9px;font-style:normal;font-size:12.5px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+
+.docnav{max-width:680px;margin:56px auto 0;padding:0 22px 70px;}
+.docnav .orn{margin-bottom:26px;}
+.navgrid{display:grid;grid-template-columns:1fr;gap:12px;}
+@media (min-width:560px){ .navgrid{grid-template-columns:1fr 1fr;} }
+.nav-btn{display:block;padding:17px 20px;border:1px solid var(--rule);text-decoration:none;
+  background:var(--bg-raised);min-height:44px;}
+.nav-btn:hover{background:rgba(201,162,39,.07);border-color:var(--gold-dim);}
+.nav-btn .nav-label{display:block;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--gold-dim);margin-bottom:5px;}
+.nav-btn .nav-title{display:block;font-size:15.5px;color:var(--text);line-height:1.3;}
+.nav-btn:hover .nav-title{color:var(--gold-bright);}
+.nav-btn.next{text-align:right;}
+.nav-btn.disabled{opacity:.42;}
+.nav-hub{text-align:center;margin-top:20px;font-size:13.5px;}
+.kbd-hint{text-align:center;margin-top:14px;font-size:11.5px;color:var(--text-muted);letter-spacing:.05em;}
+@media (hover:none){ .kbd-hint{display:none;} }
+
+.notfound{text-align:center;padding:90px 22px;}
+.notfound h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,8vw,46px);
+  color:var(--gold-pale);margin:0 0 14px;font-weight:600;}
+.notfound p{color:var(--text-soft);max-width:44ch;margin:0 auto 26px;}
+
+@media print{
+  body{background:#fff;color:#000;}
+  .topbar,.docnav,.skip,.setup,footer,.kbd-hint{display:none !important;}
+  article{max-width:none;padding:0;}
+  .doc-title,.doc-body h2,.doc-body h3{color:#000;}
+  .doc-body{font-size:12pt;}
+  blockquote.scripture{border-left:2px solid #999;background:none;}
+  blockquote.scripture p{color:#222;}
+  a{color:#000;text-decoration:none;}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<style>
+.entry{border-top:1px solid var(--rule);padding:34px 0;}
+.entry:first-of-type{border-top:0;}
+.entry-ref{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 6px;}
+.entry-name{font-family:'Cormorant Garamond',Georgia,serif;font-size:25px;font-weight:600;
+  color:var(--gold-pale);margin:0 0 18px;letter-spacing:.02em;}
+.passage{border-left:2px solid var(--gold-dim);padding:4px 0 4px 20px;margin:0 0 20px;
+  background:rgba(201,162,39,.04);}
+.passage p{margin:0 0 .7em;font-size:17px;line-height:1.65;color:var(--gold-pale);font-style:italic;}
+.passage p:last-child{margin-bottom:0;}
+.passage .vn{font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:10.5px;
+  color:var(--text-muted);vertical-align:3px;margin-right:5px;}
+.conn{font-size:16.5px;line-height:1.6;color:var(--text);margin:0 0 16px;}
+.tags{display:flex;flex-wrap:wrap;gap:7px;align-items:center;}
+.tag{font-size:11px;letter-spacing:.06em;padding:4px 10px;border:1px solid var(--rule);
+  color:var(--text-soft);text-decoration:none;white-space:nowrap;}
+a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
+.tag.pillar{text-transform:uppercase;letter-spacing:.12em;}
+.tag.pillar.t{border-color:var(--truth);color:var(--truth);}
+.tag.pillar.m{border-color:var(--mercy);color:var(--mercy);}
+.tag.pillar.h{border-color:var(--gold);color:var(--gold);}
+.tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
+.tag.corrected{border-color:var(--gold);color:var(--gold);}
+.tag.reviewed{border-color:var(--truth);color:var(--truth);}
+.passage.cluster p{font-style:normal;color:var(--text);}
+.passage.cluster .cref{color:var(--gold-dim);font-size:10.5px;margin-right:9px;vertical-align:2px;}
+.cluster-note{font-size:12px;color:var(--text-muted);letter-spacing:.06em;margin:0 0 12px;font-style:italic;}
+.entry-ref.cluster-label{color:var(--gold);}
+.tag.kind{border-style:solid;border-color:var(--gold-dim);color:var(--gold);
+  text-transform:uppercase;letter-spacing:.12em;font-size:10px;}
+.tag.mode{text-transform:uppercase;letter-spacing:.12em;font-size:10px;border-style:dotted;}
+.tag.mode.prescribes{border-color:var(--gold);color:var(--gold);}
+.tag.mode.exemplifies{border-color:var(--truth);color:var(--truth);}
+.tag.mode.counter{border-color:var(--mercy);color:var(--mercy);}
+.booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
+.stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
+@media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
+.stat div{border:1px solid var(--rule);background:var(--bg-raised);padding:14px;text-align:center;}
+.stat b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;
+  color:var(--gold-pale);font-weight:600;}
+.stat span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+</style>
+<div class="topbar"><div class="wrap">
+<a class="home" href="index.html">✦ The Way of Mercy and Truth</a>
+<span class="where mono">Luke · index</span>
+</div><div class="progress"><i></i></div></div>
+<main id="main"><article>
+<div class="doc-head">
+<p class="doc-kicker">Scripture Index</p>
+<h1 class="doc-title">Luke</h1>
+<p class="doc-sub">World English Bible · public domain</p>
+<p class="doc-meta mono">22 passages · 189 of 1150 verses</p>
+</div>
+<div class="doc-body">
+<div class="entry">
+<p class="entry-ref">Luke 1:1-4</p>
+<h2 class="entry-name">An orderly account, that you may know the certainty</h2>
+<div class="passage">
+<p><span class="vn">1</span>Since many have undertaken to set in order a narrative concerning those matters which have been fulfilled among us,</p>
+<p><span class="vn">2</span>even as those who from the beginning were eyewitnesses and servants of the word delivered them to us,</p>
+<p><span class="vn">3</span>it seemed good to me also, having traced the course of all things accurately from the first, to write to you in order, most excellent Theophilus;</p>
+<p><span class="vn">4</span>that you might know the certainty concerning the things in which you were instructed.</p>
+</div>
+<p class="conn">The author states his method before his material — eyewitnesses consulted, the course traced accurately, the account set in order. Testimony offered with its provenance attached, which is what C08's fruit test needs in order to be applied at all.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c08.html">C08</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 1:26-38</p>
+<h2 class="entry-name">Be it to me according to your word</h2>
+<div class="passage">
+<p><span class="vn">26</span>Now in the sixth month, the angel Gabriel was sent from God to a city of Galilee, named Nazareth,</p>
+<p><span class="vn">27</span>to a virgin pledged to be married to a man whose name was Joseph, of the house of David. The virgin’s name was Mary.</p>
+<p><span class="vn">28</span>Having come in, the angel said to her, “Rejoice, you highly favored one! The Lord is with you. Blessed are you among women!”</p>
+<p><span class="vn">29</span>But when she saw him, she was greatly troubled at the saying, and considered what kind of salutation this might be.</p>
+<p><span class="vn">30</span>The angel said to her, “Don’t be afraid, Mary, for you have found favor with God.</p>
+<p><span class="vn">31</span>Behold, you will conceive in your womb, and bring forth a son, and will call his name ‘Jesus.’</p>
+<p><span class="vn">32</span>He will be great, and will be called the Son of the Most High. The Lord God will give him the throne of his father, David,</p>
+<p><span class="vn">33</span>and he will reign over the house of Jacob forever. There will be no end to his Kingdom.”</p>
+<p><span class="vn">34</span>Mary said to the angel, “How can this be, seeing I am a virgin?”</p>
+<p><span class="vn">35</span>The angel answered her, “The Holy Spirit will come on you, and the power of the Most High will overshadow you. Therefore also the holy one who is born from you will be called the Son of God.</p>
+<p><span class="vn">36</span>Behold, Elizabeth, your relative, also has conceived a son in her old age; and this is the sixth month with her who was called barren.</p>
+<p><span class="vn">37</span>For everything spoken by God is possible.”</p>
+<p><span class="vn">38</span>Mary said, “Behold, the handmaid of the Lord; be it to me according to your word.” The angel departed from her.</p>
+</div>
+<p class="conn">The question asked is how, not whether, and the consent is given without any assurance of how it will look to anyone. The Hidden Life accepted at the point where the cost is entirely private and the vindication is decades away.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c23.html">C23</a>
+<a class="tag" href="a1.html">PR13</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 1:46-55</p>
+<h2 class="entry-name">He has put down princes and exalted the lowly</h2>
+<div class="passage">
+<p><span class="vn">46</span>Mary said, “My soul magnifies the Lord.</p>
+<p><span class="vn">47</span>My spirit has rejoiced in God my Savior,</p>
+<p><span class="vn">48</span>for he has looked at the humble state of his handmaid. For behold, from now on, all generations will call me blessed.</p>
+<p><span class="vn">49</span>For he who is mighty has done great things for me. Holy is his name.</p>
+<p><span class="vn">50</span>His mercy is for generations of generations on those who fear him.</p>
+<p><span class="vn">51</span>He has shown strength with his arm. He has scattered the proud in the imagination of their hearts.</p>
+<p><span class="vn">52</span>He has put down princes from their thrones. And has exalted the lowly.</p>
+<p><span class="vn">53</span>He has filled the hungry with good things. He has sent the rich away empty.</p>
+<p><span class="vn">54</span>He has given help to Israel, his servant, that he might remember mercy,</p>
+<p><span class="vn">55</span>As he spoke to our fathers, to Abraham and his seed forever.”</p>
+</div>
+<p class="conn">The reversal is sung in the past tense as something already done — thrones vacated, the hungry filled, the rich sent away empty. Deferential Seating stated as the shape of God's own conduct rather than as advice about where to sit.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="a1.html">PR25</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 1:67-79</p>
+<h2 class="entry-name">Because of the tender mercy of our God</h2>
+<div class="passage">
+<p><span class="vn">67</span>His father, Zacharias, was filled with the Holy Spirit, and prophesied, saying,</p>
+<p><span class="vn">68</span>“Blessed be the Lord, the God of Israel, for he has visited and worked redemption for his people;</p>
+<p><span class="vn">69</span>and has raised up a horn of salvation for us in the house of his servant David</p>
+<p><span class="vn">70</span>(as he spoke by the mouth of his holy prophets who have been from of old),</p>
+<p><span class="vn">71</span>salvation from our enemies, and from the hand of all who hate us;</p>
+<p><span class="vn">72</span>to show mercy towards our fathers, to remember his holy covenant,</p>
+<p><span class="vn">73</span>the oath which he spoke to Abraham, our father,</p>
+<p><span class="vn">74</span>to grant to us that we, being delivered out of the hand of our enemies, should serve him without fear,</p>
+<p><span class="vn">75</span>In holiness and righteousness before him all the days of our life.</p>
+<p><span class="vn">76</span>And you, child, will be called a prophet of the Most High, for you will go before the face of the Lord to prepare his ways,</p>
+<p><span class="vn">77</span>to give knowledge of salvation to his people by the remission of their sins,</p>
+<p><span class="vn">78</span>because of the tender mercy of our God, whereby the dawn from on high will visit us,</p>
+<p><span class="vn">79</span>to shine on those who sit in darkness and the shadow of death; to guide our feet into the way of peace.”</p>
+</div>
+<p class="conn">The whole song turns on one phrase: the dawn visits us because of tender mercy, to shine on those sitting in darkness and guide their feet into the way of peace. C03's blueprint given as a cause rather than a command.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="c19.html">C19</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 2:1-7</p>
+<h2 class="entry-name">There was no room for them in the inn</h2>
+<div class="passage">
+<p><span class="vn">1</span>Now it happened in those days, that a decree went out from Caesar Augustus that all the world should be enrolled.</p>
+<p><span class="vn">2</span>This was the first enrollment made when Quirinius was governor of Syria.</p>
+<p><span class="vn">3</span>All went to enroll themselves, everyone to his own city.</p>
+<p><span class="vn">4</span>Joseph also went up from Galilee, out of the city of Nazareth, into Judea, to the city of David, which is called Bethlehem, because he was of the house and family of David;</p>
+<p><span class="vn">5</span>to enroll himself with Mary, who was pledged to be married to him as wife, being pregnant.</p>
+<p><span class="vn">6</span>It happened, while they were there, that the day had come that she should give birth.</p>
+<p><span class="vn">7</span>She brought forth her firstborn son, and she wrapped him in bands of cloth, and laid him in a feeding trough, because there was no room for them in the inn.</p>
+</div>
+<p class="conn">A census, a journey, a full inn, a feeding trough. The Sacrament of the Ordinary at the one moment where extraordinary staging would have been most expected and is conspicuously absent.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c28.html">C28</a>
+<a class="tag" href="a1.html">PR23</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 2:8-20</p>
+<h2 class="entry-name">Mary kept all these sayings, pondering them in her heart</h2>
+<div class="passage">
+<p><span class="vn">8</span>There were shepherds in the same country staying in the field, and keeping watch by night over their flock.</p>
+<p><span class="vn">9</span>Behold, an angel of the Lord stood by them, and the glory of the Lord shone around them, and they were terrified.</p>
+<p><span class="vn">10</span>The angel said to them, “Don’t be afraid, for behold, I bring you good news of great joy which will be to all the people.</p>
+<p><span class="vn">11</span>For there is born to you, this day, in the city of David, a Savior, who is Christ the Lord.</p>
+<p><span class="vn">12</span>This is the sign to you: you will find a baby wrapped in strips of cloth, lying in a feeding trough.”</p>
+<p><span class="vn">13</span>Suddenly, there was with the angel a multitude of the heavenly army praising God, and saying,</p>
+<p><span class="vn">14</span>“Glory to God in the highest, on earth peace, good will toward men.”</p>
+<p><span class="vn">15</span>It happened, when the angels went away from them into the sky, that the shepherds said one to another, “Let’s go to Bethlehem, now, and see this thing that has happened, which the Lord has made known to us.”</p>
+<p><span class="vn">16</span>They came with haste, and found both Mary and Joseph, and the baby was lying in the feeding trough.</p>
+<p><span class="vn">17</span>When they saw it, they publicized widely the saying which was spoken to them about this child.</p>
+<p><span class="vn">18</span>All who heard it wondered at the things which were spoken to them by the shepherds.</p>
+<p><span class="vn">19</span>But Mary kept all these sayings, pondering them in her heart.</p>
+<p><span class="vn">20</span>The shepherds returned, glorifying and praising God for all the things that they had heard and seen, just as it was told them.</p>
+</div>
+<p class="conn">The shepherds publicize; Mary keeps and turns over. Two responses to the same event set side by side, and the interior one is the one the narrator singles out.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c09.html">C09</a>
+<a class="tag" href="c24.html">C24</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 2:36-38</p>
+<h2 class="entry-name">Anna, who didn't depart from the temple</h2>
+<div class="passage">
+<p><span class="vn">36</span>There was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Asher (she was of a great age, having lived with a husband seven years from her virginity,</p>
+<p><span class="vn">37</span>and she had been a widow for about eighty-four years), who didn’t depart from the temple, worshipping with fastings and petitions night and day.</p>
+<p><span class="vn">38</span>Coming up at that very hour, she gave thanks to the Lord, and spoke of him to all those who were looking for redemption in Jerusalem.</p>
+</div>
+<p class="conn">Eighty-four years a widow, serving with fastings and petitions night and day, and she arrives at the right hour. The Daily Anchors shown across a whole lifetime, with the payoff arriving in a single unremarkable moment.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<a class="tag" href="c09.html">C09</a>
+<a class="tag" href="a1.html">PR07</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 2:41-52</p>
+<h2 class="entry-name">He increased in wisdom and stature</h2>
+<div class="passage">
+<p><span class="vn">41</span>His parents went every year to Jerusalem at the feast of the Passover.</p>
+<p><span class="vn">42</span>When he was twelve years old, they went up to Jerusalem according to the custom of the feast,</p>
+<p><span class="vn">43</span>and when they had fulfilled the days, as they were returning, the boy Jesus stayed behind in Jerusalem. Joseph and his mother didn’t know it,</p>
+<p><span class="vn">44</span>but supposing him to be in the company, they went a day’s journey, and they looked for him among their relatives and acquaintances.</p>
+<p><span class="vn">45</span>When they didn’t find him, they returned to Jerusalem, looking for him.</p>
+<p><span class="vn">46</span>It happened after three days they found him in the temple, sitting in the midst of the teachers, both listening to them, and asking them questions.</p>
+<p><span class="vn">47</span>All who heard him were amazed at his understanding and his answers.</p>
+<p><span class="vn">48</span>When they saw him, they were astonished, and his mother said to him, “Son, why have you treated us this way? Behold, your father and I were anxiously looking for you.”</p>
+<p><span class="vn">49</span>He said to them, “Why were you looking for me? Didn’t you know that I must be in my Father’s house?”</p>
+<p><span class="vn">50</span>They didn’t understand the saying which he spoke to them.</p>
+<p><span class="vn">51</span>And he went down with them, and came to Nazareth. He was subject to them, and his mother kept all these sayings in her heart.</p>
+<p><span class="vn">52</span>And Jesus increased in wisdom and stature, and in favor with God and men.</p>
+</div>
+<p class="conn">Twelve years old, questioning teachers, and then subject to his parents in Nazareth for eighteen more years. Growth described as increase over time even here, which forecloses reading formation as something maturity exempts anyone from.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c25.html">C25</a>
+<a class="tag" href="a1.html">PR14</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 3:7-14</p>
+<h2 class="entry-name">What then must we do?</h2>
+<div class="passage">
+<p><span class="vn">7</span>He said therefore to the multitudes who went out to be baptized by him, “You offspring of vipers, who warned you to flee from the wrath to come?</p>
+<p><span class="vn">8</span>Bring forth therefore fruits worthy of repentance, and don’t begin to say among yourselves, ‘We have Abraham for our father;’ for I tell you that God is able to raise up children to Abraham from these stones!</p>
+<p><span class="vn">9</span>Even now the axe also lies at the root of the trees. Every tree therefore that doesn’t bring forth good fruit is cut down, and thrown into the fire.”</p>
+<p><span class="vn">10</span>The multitudes asked him, “What then must we do?”</p>
+<p><span class="vn">11</span>He answered them, “He who has two coats, let him give to him who has none. He who has food, let him do likewise.”</p>
+<p><span class="vn">12</span>Tax collectors also came to be baptized, and they said to him, “Teacher, what must we do?”</p>
+<p><span class="vn">13</span>He said to them, “Collect no more than that which is appointed to you.”</p>
+<p><span class="vn">14</span>Soldiers also asked him, saying, “What about us? What must we do?” He said to them, “Extort from no one by violence, neither accuse anyone wrongfully. Be content with your wages.”</p>
+</div>
+<p class="conn">Three groups ask the same question and get three concrete answers: share the second coat, collect no more than appointed, be content with your wages. Repentance specified as changes to conduct already in reach, with no one told to leave their occupation.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c05.html">C05</a>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="a1.html">PR05</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 4:1-13</p>
+<h2 class="entry-name">The temptation in the wilderness</h2>
+<div class="passage">
+<p><span class="vn">1</span>Jesus, full of the Holy Spirit, returned from the Jordan, and was led by the Spirit into the wilderness</p>
+<p><span class="vn">2</span>for forty days, being tempted by the devil. He ate nothing in those days. Afterward, when they were completed, he was hungry.</p>
+<p><span class="vn">3</span>The devil said to him, “If you are the Son of God, command this stone to become bread.”</p>
+<p><span class="vn">4</span>Jesus answered him, saying, “It is written, ‘Man shall not live by bread alone, but by every word of God.’”</p>
+<p><span class="vn">5</span>The devil, leading him up on a high mountain, showed him all the kingdoms of the world in a moment of time.</p>
+<p><span class="vn">6</span>The devil said to him, “I will give you all this authority, and their glory, for it has been delivered to me; and I give it to whomever I want.</p>
+<p><span class="vn">7</span>If you therefore will worship before me, it will all be yours.”</p>
+<p><span class="vn">8</span>Jesus answered him, “Get behind me Satan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’”</p>
+<p><span class="vn">9</span>He led him to Jerusalem, and set him on the pinnacle of the temple, and said to him, “If you are the Son of God, cast yourself down from here,</p>
+<p><span class="vn">10</span>for it is written, ‘He will put his angels in charge of you, to guard you;’</p>
+<p><span class="vn">11</span>and, ‘On their hands they will bear you up, lest perhaps you dash your foot against a stone.’”</p>
+<p><span class="vn">12</span>Jesus answering, said to him, “It has been said, ‘You shall not tempt the Lord your God.’”</p>
+<p><span class="vn">13</span>When the devil had completed every temptation, he departed from him until another time.</p>
+</div>
+<p class="cluster-note">Also in Luke: Matthew 4:1-11</p>
+<p class="conn">Three approaches, each answered from what he already carried rather than from argument. Watchfulness at the gate — the proposals are refused at the moment they are made, before any of them is considered on its merits.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c20.html">C20</a>
+<a class="tag" href="a1.html">PR12</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 4:16-30</p>
+<h2 class="entry-name">No prophet is acceptable in his hometown</h2>
+<div class="passage">
+<p><span class="vn">16</span>He came to Nazareth, where he had been brought up. He entered, as was his custom, into the synagogue on the Sabbath day, and stood up to read.</p>
+<p><span class="vn">17</span>The book of the prophet Isaiah was handed to him. He opened the book, and found the place where it was written,</p>
+<p><span class="vn">18</span>“The Spirit of the Lord is on me, because he has anointed me to preach good news to the poor. He has sent me to heal the brokenhearted, to proclaim release to the captives, recovering of sight to the blind, to deliver those who are crushed,</p>
+<p><span class="vn">19</span>and to proclaim the acceptable year of the Lord.”</p>
+<p><span class="vn">20</span>He closed the book, gave it back to the attendant, and sat down. The eyes of all in the synagogue were fastened on him.</p>
+<p><span class="vn">21</span>He began to tell them, “Today, this Scripture has been fulfilled in your hearing.”</p>
+<p><span class="vn">22</span>All testified about him, and wondered at the gracious words which proceeded out of his mouth, and they said, “Isn’t this Joseph’s son?”</p>
+<p><span class="vn">23</span>He said to them, “Doubtless you will tell me this parable, ‘Physician, heal yourself! Whatever we have heard done at Capernaum, do also here in your hometown.’”</p>
+<p><span class="vn">24</span>He said, “Most certainly I tell you, no prophet is acceptable in his hometown.</p>
+<p><span class="vn">25</span>But truly I tell you, there were many widows in Israel in the days of Elijah, when the sky was shut up three years and six months, when a great famine came over all the land.</p>
+<p><span class="vn">26</span>Elijah was sent to none of them, except to Zarephath, in the land of Sidon, to a woman who was a widow.</p>
+<p><span class="vn">27</span>There were many lepers in Israel in the time of Elisha the prophet, yet not one of them was cleansed, except Naaman, the Syrian.”</p>
+<p><span class="vn">28</span>They were all filled with wrath in the synagogue, as they heard these things.</p>
+<p><span class="vn">29</span>They rose up, threw him out of the city, and led him to the brow of the hill that their city was built on, that they might throw him off the cliff.</p>
+<p><span class="vn">30</span>But he, passing through their midst, went his way.</p>
+</div>
+<p class="conn">They marvel at his gracious words, and then try to throw him off a cliff — the turn comes when he names two foreigners who received what Israel did not. The Citizen-Stranger shown from the town's side: belonging is withdrawn the moment the boundary is questioned.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c08.html">C08</a>
+<a class="tag" href="c17.html">C17</a>
+<a class="tag" href="a1.html">PR10</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 5:1-11</p>
+<h2 class="entry-name">Depart from me, for I am a sinful man</h2>
+<div class="passage">
+<p><span class="vn">1</span>Now it happened, while the multitude pressed on him and heard the word of God, that he was standing by the lake of Gennesaret.</p>
+<p><span class="vn">2</span>He saw two boats standing by the lake, but the fishermen had gone out of them, and were washing their nets.</p>
+<p><span class="vn">3</span>He entered into one of the boats, which was Simon’s, and asked him to put out a little from the land. He sat down and taught the multitudes from the boat.</p>
+<p><span class="vn">4</span>When he had finished speaking, he said to Simon, “Put out into the deep, and let down your nets for a catch.”</p>
+<p><span class="vn">5</span>Simon answered him, “Master, we worked all night, and took nothing; but at your word I will let down the net.”</p>
+<p><span class="vn">6</span>When they had done this, they caught a great multitude of fish, and their net was breaking.</p>
+<p><span class="vn">7</span>They beckoned to their partners in the other boat, that they should come and help them. They came, and filled both boats, so that they began to sink.</p>
+<p><span class="vn">8</span>But Simon Peter, when he saw it, fell down at Jesus’ knees, saying, “Depart from me, for I am a sinful man, Lord.”</p>
+<p><span class="vn">9</span>For he was amazed, and all who were with him, at the catch of fish which they had caught;</p>
+<p><span class="vn">10</span>and so also were James and John, sons of Zebedee, who were partners with Simon. Jesus said to Simon, “Don’t be afraid. From now on you will be catching people alive.”</p>
+<p><span class="vn">11</span>When they had brought their boats to land, they left everything, and followed him.</p>
+</div>
+<p class="conn">The audit is triggered by abundance rather than by rebuke — the nets fill, and what he sees is himself. Self-knowledge arriving through kindness, which is the form of it that people least expect and least resist.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="a1.html">PR01</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 5:12-16</p>
+<h2 class="entry-name">He withdrew himself into the desert and prayed</h2>
+<div class="passage">
+<p><span class="vn">12</span>It happened, while he was in one of the cities, behold, there was a man full of leprosy. When he saw Jesus, he fell on his face, and begged him, saying, “Lord, if you want to, you can make me clean.”</p>
+<p><span class="vn">13</span>He stretched out his hand, and touched him, saying, “I want to. Be made clean.” Immediately the leprosy left him.</p>
+<p><span class="vn">14</span>He commanded him to tell no one, “But go your way, and show yourself to the priest, and offer for your cleansing according to what Moses commanded, for a testimony to them.”</p>
+<p><span class="vn">15</span>But the report concerning him spread much more, and great multitudes came together to hear, and to be healed by him of their infirmities.</p>
+<p><span class="vn">16</span>But he withdrew himself into the desert, and prayed.</p>
+</div>
+<p class="conn">The report spreads, the multitudes gather, and the response is withdrawal. Set immediately after a healing he told the man to keep quiet about, which makes the pattern deliberate rather than incidental.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c09.html">C09</a>
+<a class="tag" href="c23.html">C23</a>
+<a class="tag" href="a1.html">PR07</a>
+<a class="tag" href="a1.html">PR13</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 5:17-26</p>
+<h2 class="entry-name">They let him down through the tiles</h2>
+<div class="passage">
+<p><span class="vn">17</span>It happened on one of those days, that he was teaching; and there were Pharisees and teachers of the law sitting by, who had come out of every village of Galilee, Judea, and Jerusalem. The power of the Lord was with him to heal them.</p>
+<p><span class="vn">18</span>Behold, men brought a paralyzed man on a cot, and they sought to bring him in to lay before Jesus.</p>
+<p><span class="vn">19</span>Not finding a way to bring him in because of the multitude, they went up to the housetop, and let him down through the tiles with his cot into the midst before Jesus.</p>
+<p><span class="vn">20</span>Seeing their faith, he said to him, “Man, your sins are forgiven you.”</p>
+<p><span class="vn">21</span>The scribes and the Pharisees began to reason, saying, “Who is this that speaks blasphemies? Who can forgive sins, but God alone?”</p>
+<p><span class="vn">22</span>But Jesus, perceiving their thoughts, answered them, “Why are you reasoning so in your hearts?</p>
+<p><span class="vn">23</span>Which is easier to say, ‘Your sins are forgiven you;’ or to say, ‘Arise and walk?’</p>
+<p><span class="vn">24</span>But that you may know that the Son of Man has authority on earth to forgive sins” (he said to the paralyzed man), “I tell you, arise, and take up your cot, and go to your house.”</p>
+<p><span class="vn">25</span>Immediately he rose up before them, and took up that which he was laying on, and departed to his house, glorifying God.</p>
+<p><span class="vn">26</span>Amazement took hold on all, and they glorified God. They were filled with fear, saying, “We have seen strange things today.”</p>
+</div>
+<p class="conn">Four men interrupt their day, carry a cot, climb a roof, and dismantle it. Spontaneous Service in its most literal form, and the text says he saw their faith — the friends' action is what is credited.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="a1.html">PR19</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 5:27-32</p>
+<h2 class="entry-name">I have not come to call the righteous, but sinners</h2>
+<div class="passage">
+<p><span class="vn">27</span>After these things he went out, and saw a tax collector named Levi sitting at the tax office, and said to him, “Follow me!”</p>
+<p><span class="vn">28</span>He left everything, and rose up and followed him.</p>
+<p><span class="vn">29</span>Levi made a great feast for him in his house. There was a great crowd of tax collectors and others who were reclining with them.</p>
+<p><span class="vn">30</span>Their scribes and the Pharisees murmured against his disciples, saying, “Why do you eat and drink with the tax collectors and sinners?”</p>
+<p><span class="vn">31</span>Jesus answered them, “Those who are healthy have no need for a physician, but those who are sick do.</p>
+<p><span class="vn">32</span>I have not come to call the righteous, but sinners to repentance.”</p>
+</div>
+<p class="conn">Levi leaves the tax office and immediately throws a feast for his former colleagues, and the objection is about the table rather than the doctrine. Merciful Reintegration performed as a meal, before any evidence of reform has been produced.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c29.html">C29</a>
+<a class="tag" href="a1.html">PR29</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 6:1-11</p>
+<h2 class="entry-name">Is it lawful on the Sabbath to do good?</h2>
+<div class="passage">
+<p><span class="vn">1</span>Now it happened on the second Sabbath after the first, that he was going through the grain fields. His disciples plucked the heads of grain, and ate, rubbing them in their hands.</p>
+<p><span class="vn">2</span>But some of the Pharisees said to them, “Why do you do that which is not lawful to do on the Sabbath day?”</p>
+<p><span class="vn">3</span>Jesus, answering them, said, “Haven’t you read what David did when he was hungry, he, and those who were with him;</p>
+<p><span class="vn">4</span>how he entered into the house of God, and took and ate the show bread, and gave also to those who were with him, which is not lawful to eat except for the priests alone?”</p>
+<p><span class="vn">5</span>He said to them, “The Son of Man is lord of the Sabbath.”</p>
+<p><span class="vn">6</span>It also happened on another Sabbath that he entered into the synagogue and taught. There was a man there, and his right hand was withered.</p>
+<p><span class="vn">7</span>The scribes and the Pharisees watched him, to see whether he would heal on the Sabbath, that they might find an accusation against him.</p>
+<p><span class="vn">8</span>But he knew their thoughts; and he said to the man who had the withered hand, “Rise up, and stand in the middle.” He arose and stood.</p>
+<p><span class="vn">9</span>Then Jesus said to them, “I will ask you something: Is it lawful on the Sabbath to do good, or to do harm? To save a life, or to kill?”</p>
+<p><span class="vn">10</span>He looked around at them all, and said to the man, “Stretch out your hand.” He did, and his hand was restored as sound as the other.</p>
+<p><span class="vn">11</span>But they were filled with rage, and talked with one another about what they might do to Jesus.</p>
+</div>
+<p class="conn">The question is put as a choice between doing good and doing harm, with no third option available. Rule-keeping tested by what it costs the man with the withered hand, and the watchers are watching to accuse rather than to learn.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c16.html">C16</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 6:12-16</p>
+<h2 class="entry-name">He continued all night in prayer to God</h2>
+<div class="passage">
+<p><span class="vn">12</span>It happened in these days, that he went out to the mountain to pray, and he continued all night in prayer to God.</p>
+<p><span class="vn">13</span>When it was day, he called his disciples, and from them he chose twelve, whom he also named apostles:</p>
+<p><span class="vn">14</span>Simon, whom he also named Peter; Andrew, his brother; James; John; Philip; Bartholomew;</p>
+<p><span class="vn">15</span>Matthew; Thomas; James, the son of Alphaeus; Simon, who was called the Zealot;</p>
+<p><span class="vn">16</span>Judas the son of James; and Judas Iscariot, who also became a traitor.</p>
+</div>
+<p class="conn">A whole night in prayer, and then at daybreak the twelve are chosen — including the one the narrator immediately identifies as the traitor. Prayer preceding a decision, and the decision still containing that.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S3 Abiding</span>
+<a class="tag" href="c09.html">C09</a>
+<a class="tag" href="a1.html">PR07</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 6:20-26</p>
+<h2 class="entry-name">Blessed are you who are poor; woe to you who are rich</h2>
+<div class="passage">
+<p><span class="vn">20</span>He lifted up his eyes to his disciples, and said, “Blessed are you who are poor, for yours is the Kingdom of God.</p>
+<p><span class="vn">21</span>Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh.</p>
+<p><span class="vn">22</span>Blessed are you when men shall hate you, and when they shall exclude and mock you, and throw out your name as evil, for the Son of Man’s sake.</p>
+<p><span class="vn">23</span>Rejoice in that day, and leap for joy, for behold, your reward is great in heaven, for their fathers did the same thing to the prophets.</p>
+<p><span class="vn">24</span>“But woe to you who are rich! For you have received your consolation.</p>
+<p><span class="vn">25</span>Woe to you, you who are full now, for you will be hungry. Woe to you who laugh now, for you will mourn and weep.</p>
+<p><span class="vn">26</span>Woe, when men speak well of you, for their fathers did the same thing to the false prophets.</p>
+</div>
+<p class="cluster-note">Also in Luke: Matthew 5:1-12</p>
+<p class="conn">Luke's version is spoken in the second person and paired with woes, so the blessing and the warning fall on people standing in front of him. Poverty and hunger stated plainly rather than qualified in spirit, which sharpens what C03 has to account for.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="c27.html">C27</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 6:27-36</p>
+<h2 class="entry-name">Be merciful, even as your Father is merciful</h2>
+<div class="passage">
+<p><span class="vn">27</span>“But I tell you who hear: love your enemies, do good to those who hate you,</p>
+<p><span class="vn">28</span>bless those who curse you, and pray for those who mistreat you.</p>
+<p><span class="vn">29</span>To him who strikes you on the cheek, offer also the other; and from him who takes away your cloak, don’t withhold your coat also.</p>
+<p><span class="vn">30</span>Give to everyone who asks you, and don’t ask him who takes away your goods to give them back again.</p>
+<p><span class="vn">31</span>“As you would like people to do to you, do exactly so to them.</p>
+<p><span class="vn">32</span>If you love those who love you, what credit is that to you? For even sinners love those who love them.</p>
+<p><span class="vn">33</span>If you do good to those who do good to you, what credit is that to you? For even sinners do the same.</p>
+<p><span class="vn">34</span>If you lend to those from whom you hope to receive, what credit is that to you? Even sinners lend to sinners, to receive back as much.</p>
+<p><span class="vn">35</span>But love your enemies, and do good, and lend, expecting nothing back; and your reward will be great, and you will be children of the Most High; for he is kind toward the unthankful and evil.</p>
+<p><span class="vn">36</span>Therefore be merciful, even as your Father is also merciful.</p>
+</div>
+<p class="cluster-note">Also in Luke: Matthew 5:38-48</p>
+<p class="conn">Already load-bearing in the curriculum. Love, do good, bless, pray — four verbs directed at enemies, followed by the observation that loving those who love you earns no credit. The summit statement of Stage Seven, and the standard given is God's own conduct toward the ungrateful.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="a1.html">PR06</a>
+<a class="tag" href="a1.html">PR15</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 6:37-42</p>
+<h2 class="entry-name">Don't judge; first remove the beam from your own eye</h2>
+<div class="passage">
+<p><span class="vn">37</span>Don’t judge, and you won’t be judged. Don’t condemn, and you won’t be condemned. Set free, and you will be set free.</p>
+<p><span class="vn">38</span>“Give, and it will be given to you: good measure, pressed down, shaken together, and running over, will be given to you. For with the same measure you measure it will be measured back to you.”</p>
+<p><span class="vn">39</span>He spoke a parable to them. “Can the blind guide the blind? Won’t they both fall into a pit?</p>
+<p><span class="vn">40</span>A disciple is not above his teacher, but everyone when he is fully trained will be like his teacher.</p>
+<p><span class="vn">41</span>Why do you see the speck of chaff that is in your brother’s eye, but don’t consider the beam that is in your own eye?</p>
+<p><span class="vn">42</span>Or how can you tell your brother, ‘Brother, let me remove the speck of chaff that is in your eye,’ when you yourself don’t see the beam that is in your own eye? You hypocrite! First remove the beam from your own eye, and then you can see clearly to remove the speck of chaff that is in your brother’s eye.</p>
+</div>
+<p class="cluster-note">Also in Luke: Matthew 7:1-5</p>
+<p class="conn">Already load-bearing in the curriculum. Four commands in sequence — don't judge, don't condemn, set free, give — and then the beam. Self-Accusation established as the precondition for seeing clearly enough to help, with the order stated as non-negotiable.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="c22.html">C22</a>
+<a class="tag" href="a1.html">PR01</a>
+<a class="tag" href="a1.html">PR03</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 6:43-45</p>
+<h2 class="entry-name">Out of the abundance of the heart, the mouth speaks</h2>
+<div class="passage">
+<p><span class="vn">43</span>For there is no good tree that brings forth rotten fruit; nor again a rotten tree that brings forth good fruit.</p>
+<p><span class="vn">44</span>For each tree is known by its own fruit. For people don’t gather figs from thorns, nor do they gather grapes from a bramble bush.</p>
+<p><span class="vn">45</span>The good man out of the good treasure of his heart brings out that which is good, and the evil man out of the evil treasure of his heart brings out that which is evil, for out of the abundance of the heart, his mouth speaks.</p>
+</div>
+<p class="cluster-note">Also in Luke: Matthew 7:15-20</p>
+<p class="conn">Already load-bearing in the curriculum. The fruit test applied to speech and then traced to its source — what is stored in the heart is what comes out. C08's discernment and C20's watchfulness joined at the point where the interior becomes audible.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c08.html">C08</a>
+<a class="tag" href="c20.html">C20</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Luke 6:46-49</p>
+<h2 class="entry-name">Why do you call me Lord and don't do what I say?</h2>
+<div class="passage">
+<p><span class="vn">46</span>“Why do you call me, ‘Lord, Lord,’ and don’t do the things which I say?</p>
+<p><span class="vn">47</span>Everyone who comes to me, and hears my words, and does them, I will show you who he is like.</p>
+<p><span class="vn">48</span>He is like a man building a house, who dug and went deep, and laid a foundation on the rock. When a flood arose, the stream broke against that house, and could not shake it, because it was founded on the rock.</p>
+<p><span class="vn">49</span>But he who hears, and doesn’t do, is like a man who built a house on the earth without a foundation, against which the stream broke, and immediately it fell, and the ruin of that house was great.”</p>
+</div>
+<p class="cluster-note">Also in Luke: Matthew 7:24-27</p>
+<p class="conn">The question is asked directly before the parable rather than left implicit in it, and the builder who succeeds is the one who dug deep. The proof test of C12 with the labour named — the foundation is invisible and is the whole difference.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<a class="tag" href="c12.html">C12</a>
+<a class="tag" href="a1.html">PR01</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+</div>
+</article>
+<nav class="docnav">
+<p class="rule-orn orn"><span>✦</span></p>
+<p class="nav-hub"><a href="scripture.html">All indexed books</a> · <a href="index.html">Table of contents</a></p>
+</nav>
+</main></body></html>

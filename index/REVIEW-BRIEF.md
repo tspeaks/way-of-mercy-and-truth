@@ -120,7 +120,15 @@ so roughly a third of your additions land while nearly all of your removals do. 
 declines — PR03 and PR19 on 1 John, PR26 on 3 John, PR25 on Proverbs 25:6-7, PR01 and
 PR18 on Micah — were each read from the practice's name rather than its definition.
 Before proposing a tag, quote the definition to yourself and check that the passage does
-what it says. A passage that describes the *condition a practice addresses* is not an
+what it says.
+
+**Known attractors.** Two practices repeatedly pull in passages that share their subject
+but not their definition. PR25 (Deferential Seating) has attracted three status-reversal
+passages — a king leaving his throne, a proverb about not seating yourself too high, and
+the Magnificat — where the practice is specifically about giving your own seat to the
+poor, the elderly, or the stranger in a gathering. PR20 (The Sacrifice of Routine) has
+attracted two passages about unsupervised diligence, where the practice is breaking your
+routine when a guest arrives. Check both against their definitions every time. A passage that describes the *condition a practice addresses* is not an
 anchor for it: Micah 7:1-6 shows trust collapsing, which is what the Architecture of
 Peace exists to repair, and that is not the same as showing the practice or its absence.
 

@@ -2,7 +2,7 @@
   "book": "Luke",
   "translation": "World English Bible (public domain)",
   "status": "partial — chapters 1-6 only; the remaining eighteen chapters follow in sections",
-  "method_version": "1.8",
+  "method_version": "1.9",
   "text_source": "index/text/luke.json",
   "note": "Indexed in sections along the book's own seams: the infancy narratives and Galilean opening (1-6), the Galilean ministry (7-9:50), the travel narrative (9:51-19:27), Jerusalem (19:28-21), and the passion and resurrection (22-24). This file covers the first section. Four entries carry prior citations from the curriculum, all in chapter 6.",
   "synoptic_note": "Entries carry an optional synoptic_parallel field recording the corresponding passage in Matthew where one exists. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Luke's own arrangement. All scripture is WEB, per the standing rule in WMT G10.",
@@ -60,13 +60,12 @@
         "C16",
         "C27"
       ],
-      "practices": [
-        "PR25"
-      ],
+      "practices": [],
       "mode": "exemplifies",
-      "connection": "The reversal is sung in the past tense as something already done — thrones vacated, the hungry filled, the rich sent away empty. Deferential Seating stated as the shape of God's own conduct rather than as advice about where to sit.",
+      "connection": "The reversal is sung in the past tense as something already done — thrones vacated, the hungry filled, the rich sent away empty. God's own conduct described as systematically inverting status, which is the ground C16 and C27 stand on.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR25 removed at review. PR25 is the Didascalia's instruction about who is given a seat in an assembly; this is divine reversal on a cosmic scale. The drafter's own connection said the passage was the practice 'rather than advice about where to sit', which was an admission that the definition did not fit. Third time PR25 has attracted a status-reversal passage — after Jonah 3:6-9 and Proverbs 25:6-7."
     },
     {
       "ref": "Luke 1:67-79",
@@ -392,12 +391,14 @@
       ],
       "practices": [
         "PR06",
-        "PR15"
+        "PR15",
+        "PR22"
       ],
       "mode": "prescribes",
-      "connection": "Already load-bearing in the curriculum. Love, do good, bless, pray — four verbs directed at enemies, followed by the observation that loving those who love you earns no credit. The summit statement of Stage Seven, and the standard given is God's own conduct toward the ungrateful.",
+      "connection": "Already load-bearing in the curriculum. Love, do good, bless, pray — four verbs directed at enemies, and then lending with nothing expected back, because he is kind toward the unthankful and the evil. The summit statement of Stage Seven, and the standard given is God's continued generosity to people who do not acknowledge it.",
       "confidence": "high",
-      "prior": true
+      "prior": true,
+      "review": "PR22 added at review. Verse 35 grounds Unreciprocated Care exactly — giving sustained toward the ungrateful, with God's own conduct as the warrant. This is the first anchor for PR22 anywhere in the index."
     },
     {
       "ref": "Luke 6:37-42",

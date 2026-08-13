@@ -1,6 +1,6 @@
 # Luke — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 1-6 only; the remaining eighteen chapters follow in sections. Method version 1.8.
+Scripture: World English Bible (public domain). Index status: partial — chapters 1-6 only; the remaining eighteen chapters follow in sections. Method version 1.9.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -58,9 +58,11 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **1:54** He has given help to Israel, his servant, that he might remember mercy,
 > **1:55** As he spoke to our fathers, to Abraham and his seed forever.”
 
-**Claim.** The reversal is sung in the past tense as something already done — thrones vacated, the hungry filled, the rich sent away empty. Deferential Seating stated as the shape of God's own conduct rather than as advice about where to sit.
+**Claim.** The reversal is sung in the past tense as something already done — thrones vacated, the hungry filled, the rich sent away empty. God's own conduct described as systematically inverting status, which is the ground C16 and C27 stand on.
 
-**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4, S7 · chapters: C16, C27 · practices: PR25 · confidence: high
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4, S7 · chapters: C16, C27 · practices: none · confidence: high
+
+**Amended at review** — PR25 removed at review. PR25 is the Didascalia's instruction about who is given a seat in an assembly; this is divine reversal on a cosmic scale. The drafter's own connection said the passage was the practice 'rather than advice about where to sit', which was an admission that the definition did not fit. Third time PR25 has attracted a status-reversal passage — after Jonah 3:6-9 and Proverbs 25:6-7.
 
 ---
 
@@ -357,11 +359,13 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 *Also in Luke: Matthew 5:38-48*
 
-**Claim.** Already load-bearing in the curriculum. Love, do good, bless, pray — four verbs directed at enemies, followed by the observation that loving those who love you earns no credit. The summit statement of Stage Seven, and the standard given is God's own conduct toward the ungrateful.
+**Claim.** Already load-bearing in the curriculum. Love, do good, bless, pray — four verbs directed at enemies, and then lending with nothing expected back, because he is kind toward the unthankful and the evil. The summit statement of Stage Seven, and the standard given is God's continued generosity to people who do not acknowledge it.
 
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S7 · chapters: C27 · practices: PR06, PR15 · confidence: high
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S7 · chapters: C27 · practices: PR06, PR15, PR22 · confidence: high
 
 **Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+**Amended at review** — PR22 added at review. Verse 35 grounds Unreciprocated Care exactly — giving sustained toward the ungrateful, with God's own conduct as the warrant. This is the first anchor for PR22 anywhere in the index.
 
 ---
 

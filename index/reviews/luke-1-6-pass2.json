@@ -1,0 +1,24 @@
+{
+  "scope": "chapters 1-6, all 22 entries",
+  "verdicts": {
+    "sound": 21,
+    "overreach": 1
+  },
+  "flagged": [
+    {
+      "ref": "Luke 1:46-55",
+      "verdict": "overreach",
+      "proposed": "remove PR25",
+      "adjudication": "Accepted in full. PR25 governs seating the poor, the elderly and the stranger in a gathering. The drafter's connection conceded the mismatch in its own wording and applied the tag regardless. Third instance of PR25 attracting a status-reversal passage; the practice is now a known attractor and should be checked against the Didascalia instruction every time."
+    }
+  ],
+  "gaps_proposed": [
+    {
+      "ref": "Luke 6:27-36",
+      "proposed": "PR22",
+      "verdict": "accepted",
+      "reason": "Verse 35 — lend expecting nothing back, for he is kind toward the unthankful and evil — is giving sustained toward ungrateful recipients, which is the definition. PR22 had no anchor anywhere in the index before this."
+    }
+  ],
+  "running_tally": "Eighteen additions proposed across all books: eight accepted, one in part, nine declined."
+}

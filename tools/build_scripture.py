@@ -61,7 +61,6 @@ a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
 .tag.pillar.h{border-color:var(--gold);color:var(--gold);}
 .tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
 .tag.corrected{border-color:var(--gold);color:var(--gold);}
-.tag.reviewed{border-color:var(--truth);color:var(--truth);}
 .booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
 .stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
 @media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
@@ -135,8 +134,6 @@ def book_page(data, text_data):
             a(f'<a class="tag" href="a1.html">{esc(pr)}</a>')
         if e.get("author_corrected"):
             a('<span class="tag corrected">author placed</span>')
-        if e.get("review"):
-            a('<span class="tag reviewed">amended at review</span>')
         a(f'<span class="tag conf mono">{esc(e["confidence"])}</span>')
         a("</div>")
         a("</div>")

@@ -80,6 +80,7 @@ def build_book(slug):
                        ("structural_note", "Structural note"),
                        ("prediction_note", "Prediction note"),
                        ("schema_note", "Schema note"),
+                       ("synoptic_note", "Synoptic note"),
                        ("method_rule", "Method rule")):
         if d.get(key):
             a(f"**{label}.** {d[key]}")
@@ -100,6 +101,10 @@ def build_book(slug):
                 a(f"> **{vref}** {body}")
         a("")
 
+        if e.get("synoptic_parallel"):
+            a(f"*Synoptic parallel: {e['synoptic_parallel']} — recorded as a cross-reference, "
+              f"not a source claim.*")
+            a("")
         a(f"**Claim.** {e['connection']}")
         a("")
 

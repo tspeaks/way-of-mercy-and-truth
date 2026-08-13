@@ -1,0 +1,716 @@
+{
+  "book": "James",
+  "translation": "World English Bible (public domain)",
+  "status": "pilot",
+  "method_version": "0.2",
+  "note": "Second draft. Entries marked prior:true were already cited in WMT A3 before this index existed. Entries marked author_corrected:true were reassigned by the author after the first pass; treat those placements as settled. Confidence is the drafter's, not the author's — every medium and low entry is a question, not a claim.",
+  "entries": [
+    {
+      "ref": "James 1:2-4",
+      "pericope": "Trials produce steadfastness",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "connection": "Endurance is described as a process with a finished state, not a mood. This is the same claim the Discipline of Gradualism makes: that formation has a shape and a duration, and that shortening it is not available.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 1:5-8",
+      "pericope": "Ask for wisdom; the double-minded man",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C02",
+        "C07"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "connection": "Wisdom is something asked for rather than achieved, which is the entrance requirement Proverbs 1:7 sets and C02 builds on. Double-mindedness names the divided interior that C07 treats as the obstacle to clear sight.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 1:9-11",
+      "pericope": "The lowly brother and the rich man",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C18"
+      ],
+      "practices": [
+        "PR25"
+      ],
+      "connection": "Status is inverted and then dissolved — the rich man fades mid-pursuit. Grounds Holy Detachment and sits directly under Deferential Seating.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 1:12",
+      "pericope": "Blessed is the one who endures trial",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "connection": "The one who has stood the test receives the crown — endurance through failure rather than avoidance of it. Pairs with the Failure Recovery Protocol.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "James 1:13-15",
+      "pericope": "The anatomy of temptation: desire, sin, death",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "connection": "Already the stated biblical basis for Interior Diagnosis. The conception-pregnancy-birth sequence is what makes tracing a symptom back to its root possible at all.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "James 1:16-18",
+      "pericope": "Every good gift is from above; the Father of lights",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C26"
+      ],
+      "practices": [],
+      "connection": "No variation or shadow of turning — the constancy of the source, against which the Temple of Light material sets human inconstancy.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "James 1:19-21",
+      "pericope": "Quick to hear, slow to speak, slow to anger",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C16"
+      ],
+      "practices": [
+        "PR16",
+        "PR18"
+      ],
+      "connection": "The most compressed statement of Listening as Mercy in Scripture, and the ordering matters — hearing first, speech second, anger last and slowest. Absorbing the Blow lives in that third clause.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 1:22-25",
+      "pericope": "Doers and hearers; the mirror and the man who forgets",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C04"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "connection": "The direct scriptural mandate for the Moral Audit, and the source of C04's title. The forgetting is the whole problem: self-knowledge that does not survive walking away from the glass.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "James 1:26-27",
+      "pericope": "Bridling the tongue; pure religion",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C04",
+        "C05",
+        "C17"
+      ],
+      "practices": [
+        "PR01",
+        "PR05"
+      ],
+      "connection": "Welds interior and exterior work in one sentence — visiting orphans and widows, and keeping oneself unstained. Neither half is optional and neither substitutes for the other.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "James 2:1-7",
+      "pericope": "Against partiality; the gold ring and the shabby clothing",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C17"
+      ],
+      "practices": [
+        "PR25"
+      ],
+      "connection": "Reading people by category rather than character, named as sin and staged as a scene. The most concrete anti-partiality passage in the New Testament, and the direct ground of Deferential Seating.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 2:8-11",
+      "pericope": "The royal law; the whole law and one point",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01",
+        "C03"
+      ],
+      "practices": [],
+      "connection": "Love of neighbor named as the royal law, with the integrity of the law argued as a unity. Supports C01's claim that the moral order is a structure rather than a menu.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 2:12-13",
+      "pericope": "Mercy triumphs over judgment",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C03",
+        "C04",
+        "C19"
+      ],
+      "practices": [
+        "PR01",
+        "PR29"
+      ],
+      "connection": "Where the Moral Audit ends, and the reason it is survivable. Also the hinge under Merciful Reintegration — judgment is not abolished, it is outranked.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "James 2:14-17",
+      "pericope": "Faith without works is dead",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C05",
+        "C12"
+      ],
+      "practices": [],
+      "connection": "The go-in-peace-be-warmed rebuke is the test C12 applies: fruit as evidence rather than sentiment. Also the passage the altar-not-ladder framing has to answer, and does.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "James 2:18-20",
+      "pericope": "Show me your faith apart from your works",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C12"
+      ],
+      "practices": [],
+      "connection": "Belief alone is credited to demons, which forecloses assent as a sufficient account of faith. Sharpens the proof test without adding to it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "James 2:21-26",
+      "pericope": "Abraham and Rahab; faith completed by works",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C12"
+      ],
+      "practices": [],
+      "connection": "Faith working with works and completed by them — the grammar the grace-faith-works formulation in WMT depends on. Rahab's inclusion also refuses to make the principle respectable.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "James 3:1-2",
+      "pericope": "Not many should become teachers",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C29"
+      ],
+      "practices": [],
+      "connection": "A warning attached specifically to teaching, which is the office this curriculum occupies. Belongs wherever WMT addresses those who would lead others through it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "James 3:3-6",
+      "pericope": "The bit, the rudder, and the fire",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "connection": "Three images for the disproportion between a small thing and what it steers or destroys. The governing logic of Watchfulness: guard the small gate because of what comes through it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 3:7-8",
+      "pericope": "No one can tame the tongue",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C22"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "connection": "An explicit limit on self-mastery, placed immediately after instructions on speech. Guards Watchfulness against becoming a technique that promises what it cannot deliver.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 3:9-12",
+      "pericope": "Blessing and cursing from the same mouth",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C20"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "connection": "Audits the divided source rather than the divided output — the spring, not the water. This is the Moral Audit applied to speech, and the reason the audit has to reach the interior.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "James 3:13-16",
+      "pericope": "Wisdom shown in conduct; bitter jealousy and selfish ambition",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C08",
+        "C15"
+      ],
+      "practices": [
+        "PR09"
+      ],
+      "connection": "Earthly wisdom identified by its fruit — disorder and every vile practice — which is the fruit test of C08 turned on wisdom itself. Names what the Architecture of Peace is built against.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 3:17-18",
+      "pericope": "The wisdom from above",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S7"
+      ],
+      "chapters": [
+        "C02",
+        "C08",
+        "C27"
+      ],
+      "practices": [],
+      "connection": "Pure, then peaceable, gentle, full of mercy and good fruits, without partiality or hypocrisy — the sequence maps onto the three pillars with unusual precision. Load-bearing for the pillar architecture itself.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "James 4:1-3",
+      "pericope": "Wars and fightings come from your passions",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20"
+      ],
+      "practices": [
+        "PR02",
+        "PR12"
+      ],
+      "connection": "Conflict traced upstream to pleasures already at war inside the person, before any of it reaches another human being. The passage is diagnostic rather than relational: it describes what the watchman is posted to see.",
+      "confidence": "high",
+      "prior": false,
+      "author_corrected": true
+    },
+    {
+      "ref": "James 4:4-6",
+      "pericope": "God opposes the proud but gives grace to the humble",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C22",
+        "C23"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "connection": "Grace described as conditional on posture rather than performance. Sits under the Hidden Life: the humble receive because they are positioned to, not because they earned it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 4:7-10",
+      "pericope": "Draw near to God and he will draw near to you",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C09",
+        "C19"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "connection": "A reciprocal movement with the human step named first, then cleansing, then humbling. Structurally the door-not-a-wall of C19, given as instruction rather than image.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 4:11-12",
+      "pericope": "Do not speak against one another",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C15",
+        "C22"
+      ],
+      "practices": [
+        "PR03",
+        "PR17"
+      ],
+      "connection": "Judging a neighbor recast as judging the law itself — an argument from standing rather than from kindness. Grounds Covering Weakness and the sequence discipline of Self-Accusation.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 4:13-17",
+      "pericope": "You are a mist; if the Lord wills",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C18",
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "connection": "Planning without reference to contingency named as boasting. The Discipline of Unknowing applied to the future rather than to doctrine, which is where it bites hardest.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 5:1-6",
+      "pericope": "The wages of the laborers cry out",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C01",
+        "C16"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "connection": "The withheld wage from Deuteronomy, carried into the New Testament without softening. Direct continuity with C01's argument that the moral order registers economic conduct as a structural event.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 5:7-8",
+      "pericope": "The farmer waits for the early and the late rain",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "connection": "Patience given an agricultural rather than a stoic shape — waiting that includes tending. One of the cleanest images available for the Discipline of Gradualism.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 5:9",
+      "pericope": "Do not grumble against one another",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
+      "practices": [
+        "PR17"
+      ],
+      "connection": "Grumbling treated as a judicial act with the judge already at the door. Small-scale complaint given weight the Architecture of Peace assumes but does not always argue.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "James 5:10-11",
+      "pericope": "The prophets and the steadfastness of Job",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "connection": "Job named as the model of endurance, which is how WMT already reads him in the Sacred Lament material. Confirms that lament and steadfastness are the same posture, not opposites.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 5:12",
+      "pericope": "Let your yes be yes",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C05"
+      ],
+      "practices": [],
+      "connection": "Speech that requires no oath because it is already reliable. Parallels the Didache's instruction against the double tongue, which C05 draws on.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "James 5:13-15",
+      "pericope": "Is anyone suffering? Let him pray",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C09",
+        "C14"
+      ],
+      "practices": [
+        "PR07"
+      ],
+      "connection": "Every condition given a corresponding act, which is the logic of the Daily Anchors. Also locates healing in a gathered body rather than a private effort.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "James 5:16",
+      "pericope": "Confess to one another and pray for one another",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C14",
+        "C19"
+      ],
+      "practices": [
+        "PR03",
+        "PR11"
+      ],
+      "connection": "Mutual confession, not upward confession — healing located in the exchange itself. The communal form of what Self-Accusation does privately.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "James 5:17-18",
+      "pericope": "Elijah was a man of like nature with ourselves",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [],
+      "connection": "The explicit refusal to place the exemplar in a different category from the reader. Guards the whole seven-stage path against being read as a description of other people.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "James 5:19-20",
+      "pericope": "Bringing back one who wanders",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "connection": "The letter closes by sending an ordinary member after someone who has wandered. Restoration is presented as a capacity of the enlarged heart, not as a final instruction appended to the road.",
+      "confidence": "high",
+      "prior": false,
+      "author_corrected": true
+    }
+  ],
+  "text_source": "index/text/james.json"
+}

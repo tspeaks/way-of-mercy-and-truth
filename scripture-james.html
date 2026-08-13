@@ -1,0 +1,942 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0C0B08">
+<title>James — Scripture Index — The Way of Mercy and Truth</title>
+<meta name="description" content="Every passage of James mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta property="og:type" content="book">
+<meta property="og:title" content="James — Scripture Index — The Way of Mercy and Truth">
+<meta property="og:description" content="Every passage of James mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%230C0B08%27/%3E%3Cpath d=%27M16 6 L16 26 M9 13 H23%27 stroke=%27%23C9A227%27 stroke-width=%272.6%27 stroke-linecap=%27round%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0C0B08; --bg-raised:#15140F;
+  --gold:#C9A227; --gold-bright:#E3C158; --gold-pale:#EADFC4; --gold-dim:#8A7327;
+  --text:#E4DCC6; --text-soft:#BFB49A; --text-muted:#8A8069;
+  --truth:#7FA9B5; --mercy:#C4795F; --spec:#9C8AB2;
+  --rule:rgba(201,162,39,0.22); --rule-strong:rgba(201,162,39,0.45);
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 10px 30px rgba(0,0,0,.35);
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0;
+  color:var(--text);
+  background-color:var(--bg);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(201,162,39,.07), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 110%, rgba(201,162,39,.05), transparent 70%);
+  background-attachment:fixed;
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-color:rgba(201,162,39,.45);text-underline-offset:3px;}
+a:hover{color:var(--gold-bright);text-decoration-color:var(--gold-bright);}
+:focus-visible{outline:2px solid var(--gold-bright);outline-offset:3px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule-strong);}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Cormorant Garamond','Iowan Old Style',Georgia,serif;font-weight:600;}
+
+.rule-orn{display:flex;align-items:center;gap:14px;margin:0;color:var(--gold-dim);}
+.rule-orn::before,.rule-orn::after{content:"";height:1px;flex:1;
+  background:linear-gradient(90deg,transparent,var(--rule-strong),transparent);}
+.rule-orn span{font-size:13px;letter-spacing:.3em;}
+
+.setup{background:rgba(196,121,95,.14);border-bottom:1px solid var(--rule-strong);
+  color:var(--gold-pale);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(201,162,39,.18);padding:1px 6px;font-size:13px;color:var(--gold-bright);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:62px 0 44px;text-align:center;}
+header.masthead::after{content:"";display:block;height:1px;margin-top:38px;
+  background:linear-gradient(90deg,transparent,var(--rule-strong) 20%,var(--rule-strong) 80%,transparent);}
+.crest{width:64px;height:64px;margin:0 auto 22px;display:block;color:var(--gold);opacity:.92;}
+.kicker{font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 16px;}
+h1.title{font-size:clamp(34px,9vw,58px);line-height:1.04;margin:0 0 12px;color:var(--gold-pale);
+  font-weight:600;letter-spacing:.005em;}
+.subtitle{font-size:clamp(15px,3.4vw,18px);color:var(--text-soft);font-style:italic;
+  margin:0 auto 30px;max-width:44ch;}
+blockquote.epigraph{margin:0 auto 30px;padding:20px 24px;max-width:52ch;
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  font-size:clamp(15.5px,3.4vw,18px);color:var(--text-soft);line-height:1.5;font-style:italic;}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;justify-content:center;}
+.badge{font-size:11px;letter-spacing:.08em;padding:5px 11px;text-transform:uppercase;
+  border:1px solid var(--rule);color:var(--text-muted);background:rgba(201,162,39,.05);white-space:nowrap;}
+.badge.gold{border-color:var(--rule-strong);color:var(--gold);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;}
+.btn{display:inline-block;padding:14px 26px;text-decoration:none;font-size:15px;font-weight:600;
+  letter-spacing:.02em;border:1px solid var(--gold-dim);background:transparent;color:var(--gold);min-height:44px;}
+.btn:hover{background:rgba(201,162,39,.1);border-color:var(--gold);color:var(--gold-bright);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#100E08;}
+.btn.primary:hover{background:var(--gold-bright);border-color:var(--gold-bright);color:#100E08;}
+
+section{padding:50px 0;}
+section + section{border-top:1px solid var(--rule);}
+h2.sec{font-size:clamp(23px,5vw,30px);margin:0 0 8px;color:var(--gold-pale);font-weight:600;}
+.section-note{color:var(--text-soft);margin:0 0 26px;max-width:62ch;}
+
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--rule);padding:19px 21px;box-shadow:var(--shadow);}
+.card .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 9px;}
+.card p{margin:0;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:11px 0 0;padding-top:11px;border-top:1px solid var(--rule);}
+
+.pull{background:rgba(201,162,39,.06);border-top:2px solid var(--gold-dim);
+  border-bottom:2px solid var(--gold-dim);padding:24px 26px;margin:30px 0 0;}
+.pull p{margin:0;font-size:clamp(16.5px,3.5vw,19px);line-height:1.45;color:var(--gold-pale);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:12px;letter-spacing:.05em;font-style:italic;}
+
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:26px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--rule);padding:18px 14px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;display:block;
+  margin-bottom:5px;color:var(--gold-pale);letter-spacing:.06em;}
+.pillar span{font-size:13px;color:var(--text-muted);}
+.pillar.t{border-top:2px solid var(--truth);}
+.pillar.h{border-top:2px solid var(--gold);}
+.pillar.m{border-top:2px solid var(--mercy);}
+
+.stage{border:1px solid var(--rule);background:var(--bg-raised);margin-bottom:12px;box-shadow:var(--shadow);}
+.stage summary{cursor:pointer;padding:17px 19px;list-style:none;display:flex;gap:15px;
+  align-items:center;min-height:44px;}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(201,162,39,.06);}
+.stage .snum{flex:none;width:34px;height:34px;border-radius:50%;background:transparent;
+  border:1px solid var(--gold-dim);color:var(--gold);display:inline-flex;align-items:center;
+  justify-content:center;font-size:14px;font-weight:600;}
+.stage[open] .snum{background:var(--gold);color:#100E08;border-color:var(--gold);}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;
+  font-weight:600;color:var(--gold-pale);letter-spacing:.05em;}
+.stage .sname span{display:block;font-size:14px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:11px;letter-spacing:.06em;}
+.stage .body{padding:4px 19px 17px;border-top:1px solid var(--rule);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li + li{border-top:1px solid var(--rule);}
+ol.chapters a{display:flex;gap:12px;align-items:baseline;padding:13px 2px;text-decoration:none;
+  color:var(--text);min-height:44px;}
+ol.chapters a:hover{color:var(--gold-bright);}
+ol.chapters .cid{flex:none;font-size:11px;color:var(--text-muted);width:42px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:14px;font-size:14px;}
+
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--rule);box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:16px 19px;text-decoration:none;color:var(--text);min-height:44px;}
+ul.linklist a:hover{background:rgba(201,162,39,.06);}
+ul.linklist .lt{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:19px;
+  display:block;color:var(--gold-pale);letter-spacing:.03em;}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:4px;}
+.flag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;margin-left:9px;
+  vertical-align:2px;white-space:nowrap;border:1px solid;}
+.flag.partial{border-color:var(--gold-dim);color:var(--gold);}
+.flag.speculative{border-color:var(--spec);color:var(--spec);}
+
+.warn{border:1px solid var(--rule);border-left:3px solid var(--mercy);
+  background:rgba(196,121,95,.07);padding:22px 24px;}
+.warn h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;margin:0 0 10px;
+  color:var(--mercy);letter-spacing:.02em;}
+.warn p{margin:0 0 11px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+.license{background:var(--bg-raised);border:1px solid var(--rule);padding:24px 26px;}
+.license .big{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:600;
+  margin:0 0 12px;color:var(--gold-pale);letter-spacing:.03em;}
+.license ul{margin:0 0 14px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:6px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+footer{padding:36px 0 64px;font-size:13px;color:var(--text-muted);
+  border-top:1px solid var(--rule);margin-top:20px;}
+footer p{margin:0 0 7px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+/* ================= reading pages ================= */
+.topbar{position:sticky;top:0;z-index:20;background:rgba(12,11,8,.94);
+  border-bottom:1px solid var(--rule);}
+@supports ((backdrop-filter:blur(8px)) or (-webkit-backdrop-filter:blur(8px))){
+  .topbar{-webkit-backdrop-filter:saturate(140%) blur(8px);backdrop-filter:saturate(140%) blur(8px);}
+}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:50px;}
+.topbar a.home{font-size:13.5px;text-decoration:none;color:var(--gold);white-space:nowrap;}
+.topbar .where{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.progress{height:2px;}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold-dim),var(--gold));}
+
+article{max-width:680px;margin:0 auto;padding:44px 22px 0;}
+.doc-head{margin-bottom:38px;padding-bottom:26px;border-bottom:1px solid var(--rule);text-align:center;}
+.doc-kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 14px;}
+.doc-title{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,7vw,44px);
+  line-height:1.1;margin:0;font-weight:600;color:var(--gold-pale);letter-spacing:.01em;}
+.doc-sub{font-size:15px;color:var(--truth);margin:12px 0 0;font-style:italic;}
+.doc-meta{font-size:12px;color:var(--text-muted);margin:14px 0 0;letter-spacing:.06em;}
+
+.doc-body{font-size:18px;line-height:1.75;color:var(--text);}
+.doc-body p{margin:0 0 1.25em;}
+.doc-body > p:first-of-type::first-letter{float:left;font-family:'Cormorant Garamond',Georgia,serif;
+  font-size:3.4em;line-height:.82;padding:.06em .1em 0 0;color:var(--gold);font-weight:600;}
+.doc-body h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;font-weight:600;
+  margin:2em 0 .7em;color:var(--gold-pale);letter-spacing:.03em;}
+.doc-body h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;font-weight:600;
+  margin:1.9em 0 .6em;color:var(--gold);letter-spacing:.03em;}
+blockquote.scripture{margin:1.7em 0;padding:16px 0 16px 22px;border-left:2px solid var(--gold-dim);
+  background:rgba(201,162,39,.04);}
+blockquote.scripture p{margin:0;font-style:italic;color:var(--gold-pale);font-size:17px;line-height:1.6;}
+blockquote.scripture cite{display:block;margin-top:9px;font-style:normal;font-size:12.5px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+
+.docnav{max-width:680px;margin:56px auto 0;padding:0 22px 70px;}
+.docnav .orn{margin-bottom:26px;}
+.navgrid{display:grid;grid-template-columns:1fr;gap:12px;}
+@media (min-width:560px){ .navgrid{grid-template-columns:1fr 1fr;} }
+.nav-btn{display:block;padding:17px 20px;border:1px solid var(--rule);text-decoration:none;
+  background:var(--bg-raised);min-height:44px;}
+.nav-btn:hover{background:rgba(201,162,39,.07);border-color:var(--gold-dim);}
+.nav-btn .nav-label{display:block;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--gold-dim);margin-bottom:5px;}
+.nav-btn .nav-title{display:block;font-size:15.5px;color:var(--text);line-height:1.3;}
+.nav-btn:hover .nav-title{color:var(--gold-bright);}
+.nav-btn.next{text-align:right;}
+.nav-btn.disabled{opacity:.42;}
+.nav-hub{text-align:center;margin-top:20px;font-size:13.5px;}
+.kbd-hint{text-align:center;margin-top:14px;font-size:11.5px;color:var(--text-muted);letter-spacing:.05em;}
+@media (hover:none){ .kbd-hint{display:none;} }
+
+.notfound{text-align:center;padding:90px 22px;}
+.notfound h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,8vw,46px);
+  color:var(--gold-pale);margin:0 0 14px;font-weight:600;}
+.notfound p{color:var(--text-soft);max-width:44ch;margin:0 auto 26px;}
+
+@media print{
+  body{background:#fff;color:#000;}
+  .topbar,.docnav,.skip,.setup,footer,.kbd-hint{display:none !important;}
+  article{max-width:none;padding:0;}
+  .doc-title,.doc-body h2,.doc-body h3{color:#000;}
+  .doc-body{font-size:12pt;}
+  blockquote.scripture{border-left:2px solid #999;background:none;}
+  blockquote.scripture p{color:#222;}
+  a{color:#000;text-decoration:none;}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<style>
+.entry{border-top:1px solid var(--rule);padding:34px 0;}
+.entry:first-of-type{border-top:0;}
+.entry-ref{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 6px;}
+.entry-name{font-family:'Cormorant Garamond',Georgia,serif;font-size:25px;font-weight:600;
+  color:var(--gold-pale);margin:0 0 18px;letter-spacing:.02em;}
+.passage{border-left:2px solid var(--gold-dim);padding:4px 0 4px 20px;margin:0 0 20px;
+  background:rgba(201,162,39,.04);}
+.passage p{margin:0 0 .7em;font-size:17px;line-height:1.65;color:var(--gold-pale);font-style:italic;}
+.passage p:last-child{margin-bottom:0;}
+.passage .vn{font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:10.5px;
+  color:var(--text-muted);vertical-align:3px;margin-right:5px;}
+.conn{font-size:16.5px;line-height:1.6;color:var(--text);margin:0 0 16px;}
+.tags{display:flex;flex-wrap:wrap;gap:7px;align-items:center;}
+.tag{font-size:11px;letter-spacing:.06em;padding:4px 10px;border:1px solid var(--rule);
+  color:var(--text-soft);text-decoration:none;white-space:nowrap;}
+a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
+.tag.pillar{text-transform:uppercase;letter-spacing:.12em;}
+.tag.pillar.t{border-color:var(--truth);color:var(--truth);}
+.tag.pillar.m{border-color:var(--mercy);color:var(--mercy);}
+.tag.pillar.h{border-color:var(--gold);color:var(--gold);}
+.tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
+.tag.corrected{border-color:var(--gold);color:var(--gold);}
+.booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
+.stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
+@media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
+.stat div{border:1px solid var(--rule);background:var(--bg-raised);padding:14px;text-align:center;}
+.stat b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;
+  color:var(--gold-pale);font-weight:600;}
+.stat span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+</style>
+<div class="topbar"><div class="wrap">
+<a class="home" href="index.html">✦ The Way of Mercy and Truth</a>
+<span class="where mono">James · index</span>
+</div><div class="progress"><i></i></div></div>
+<main id="main"><article>
+<div class="doc-head">
+<p class="doc-kicker">Scripture Index</p>
+<h1 class="doc-title">James</h1>
+<p class="doc-sub">World English Bible · public domain</p>
+<p class="doc-meta mono">35 passages · 107 of 108 verses</p>
+</div>
+<div class="doc-body">
+<div class="entry">
+<p class="entry-ref">James 1:2-4</p>
+<h2 class="entry-name">Trials produce steadfastness</h2>
+<div class="passage">
+<p><span class="vn">2</span>Count it all joy, my brothers, when you fall into various temptations,</p>
+<p><span class="vn">3</span>knowing that the testing of your faith produces endurance.</p>
+<p><span class="vn">4</span>Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing.</p>
+</div>
+<p class="conn">Endurance is described as a process with a finished state, not a mood. This is the same claim the Discipline of Gradualism makes: that formation has a shape and a duration, and that shortening it is not available.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c25.html">C25</a>
+<a class="tag" href="a1.html">PR14</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 1:5-8</p>
+<h2 class="entry-name">Ask for wisdom; the double-minded man</h2>
+<div class="passage">
+<p><span class="vn">5</span>But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach; and it will be given to him.</p>
+<p><span class="vn">6</span>But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed.</p>
+<p><span class="vn">7</span>For let that man not think that he will receive anything from the Lord.</p>
+<p><span class="vn">8</span>He is a double-minded man, unstable in all his ways.</p>
+</div>
+<p class="conn">Wisdom is something asked for rather than achieved, which is the entrance requirement Proverbs 1:7 sets and C02 builds on. Double-mindedness names the divided interior that C07 treats as the obstacle to clear sight.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c02.html">C02</a>
+<a class="tag" href="c07.html">C07</a>
+<a class="tag" href="a1.html">PR04</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 1:9-11</p>
+<h2 class="entry-name">The lowly brother and the rich man</h2>
+<div class="passage">
+<p><span class="vn">9</span>But let the brother in humble circumstances glory in his high position;</p>
+<p><span class="vn">10</span>and the rich, in that he is made humble, because like the flower in the grass, he will pass away.</p>
+<p><span class="vn">11</span>For the sun arises with the scorching wind, and withers the grass, and the flower in it falls, and the beauty of its appearance perishes. So also will the rich man fade away in his pursuits.</p>
+</div>
+<p class="conn">Status is inverted and then dissolved — the rich man fades mid-pursuit. Grounds Holy Detachment and sits directly under Deferential Seating.</p>
+<div class="tags">
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="c18.html">C18</a>
+<a class="tag" href="a1.html">PR25</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 1:12</p>
+<h2 class="entry-name">Blessed is the one who endures trial</h2>
+<div class="passage">
+<p><span class="vn">12</span>Blessed is the man who endures temptation, for when he has been approved, he will receive the crown of life, which the Lord promised to those who love him.</p>
+</div>
+<p class="conn">The one who has stood the test receives the crown — endurance through failure rather than avoidance of it. Pairs with the Failure Recovery Protocol.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR11</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 1:13-15</p>
+<h2 class="entry-name">The anatomy of temptation: desire, sin, death</h2>
+<div class="passage">
+<p><span class="vn">13</span>Let no man say when he is tempted, &quot;I am tempted by God,&quot; for God can't be tempted by evil, and he himself tempts no one.</p>
+<p><span class="vn">14</span>But each one is tempted, when he is drawn away by his own lust, and enticed.</p>
+<p><span class="vn">15</span>Then the lust, when it has conceived, bears sin; and the sin, when it is full grown, brings forth death.</p>
+</div>
+<p class="conn">Already the stated biblical basis for Interior Diagnosis. The conception-pregnancy-birth sequence is what makes tracing a symptom back to its root possible at all.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="a1.html">PR02</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 1:16-18</p>
+<h2 class="entry-name">Every good gift is from above; the Father of lights</h2>
+<div class="passage">
+<p><span class="vn">16</span>Don't be deceived, my beloved brothers.</p>
+<p><span class="vn">17</span>Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation, nor turning shadow.</p>
+<p><span class="vn">18</span>Of his own will he brought us forth by the word of truth, that we should be a kind of first fruits of his creatures.</p>
+</div>
+<p class="conn">No variation or shadow of turning — the constancy of the source, against which the Temple of Light material sets human inconstancy.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c24.html">C24</a>
+<a class="tag" href="c26.html">C26</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 1:19-21</p>
+<h2 class="entry-name">Quick to hear, slow to speak, slow to anger</h2>
+<div class="passage">
+<p><span class="vn">19</span>So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger;</p>
+<p><span class="vn">20</span>for the anger of man doesn't produce the righteousness of God.</p>
+<p><span class="vn">21</span>Therefore, putting away all filthiness and overflowing of wickedness, receive with humility the implanted word, which is able to save your souls.</p>
+</div>
+<p class="conn">The most compressed statement of Listening as Mercy in Scripture, and the ordering matters — hearing first, speech second, anger last and slowest. Absorbing the Blow lives in that third clause.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c15.html">C15</a>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="a1.html">PR16</a>
+<a class="tag" href="a1.html">PR18</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 1:22-25</p>
+<h2 class="entry-name">Doers and hearers; the mirror and the man who forgets</h2>
+<div class="passage">
+<p><span class="vn">22</span>But be doers of the word, and not only hearers, deluding your own selves.</p>
+<p><span class="vn">23</span>For if anyone is a hearer of the word and not a doer, he is like a man looking at his natural face in a mirror;</p>
+<p><span class="vn">24</span>for he sees himself, and goes away, and immediately forgets what kind of man he was.</p>
+<p><span class="vn">25</span>But he who looks into the perfect law of freedom, and continues, not being a hearer who forgets, but a doer of the work, this man will be blessed in what he does.</p>
+</div>
+<p class="conn">The direct scriptural mandate for the Moral Audit, and the source of C04's title. The forgetting is the whole problem: self-knowledge that does not survive walking away from the glass.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="a1.html">PR01</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 1:26-27</p>
+<h2 class="entry-name">Bridling the tongue; pure religion</h2>
+<div class="passage">
+<p><span class="vn">26</span>If anyone among you thinks himself to be religious while he doesn't bridle his tongue, but deceives his heart, this man's religion is worthless.</p>
+<p><span class="vn">27</span>Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.</p>
+</div>
+<p class="conn">Welds interior and exterior work in one sentence — visiting orphans and widows, and keeping oneself unstained. Neither half is optional and neither substitutes for the other.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="c05.html">C05</a>
+<a class="tag" href="c17.html">C17</a>
+<a class="tag" href="a1.html">PR01</a>
+<a class="tag" href="a1.html">PR05</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 2:1-7</p>
+<h2 class="entry-name">Against partiality; the gold ring and the shabby clothing</h2>
+<div class="passage">
+<p><span class="vn">1</span>My brothers, don't hold the faith of our Lord Jesus Christ of glory with partiality.</p>
+<p><span class="vn">2</span>For if a man with a gold ring, in fine clothing, comes into your synagogue, and a poor man in filthy clothing also comes in;</p>
+<p><span class="vn">3</span>and you pay special attention to him who wears the fine clothing, and say, &quot;Sit here in a good place;&quot; and you tell the poor man, &quot;Stand there,&quot; or &quot;Sit by my footstool;&quot;</p>
+<p><span class="vn">4</span>haven't you shown partiality among yourselves, and become judges with evil thoughts?</p>
+<p><span class="vn">5</span>Listen, my beloved brothers. Didn't God choose those who are poor in this world to be rich in faith, and heirs of the Kingdom which he promised to those who love him?</p>
+<p><span class="vn">6</span>But you have dishonored the poor man. Don't the rich oppress you, and personally drag you before the courts?</p>
+<p><span class="vn">7</span>Don't they blaspheme the honorable name by which you are called?</p>
+</div>
+<p class="conn">Reading people by category rather than character, named as sin and staged as a scene. The most concrete anti-partiality passage in the New Testament, and the direct ground of Deferential Seating.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="c17.html">C17</a>
+<a class="tag" href="a1.html">PR25</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 2:8-11</p>
+<h2 class="entry-name">The royal law; the whole law and one point</h2>
+<div class="passage">
+<p><span class="vn">8</span>However, if you fulfill the royal law, according to the Scripture, &quot;You shall love your neighbor as yourself,&quot; you do well.</p>
+<p><span class="vn">9</span>But if you show partiality, you commit sin, being convicted by the law as transgressors.</p>
+<p><span class="vn">10</span>For whoever keeps the whole law, and yet stumbles in one point, he has become guilty of all.</p>
+<p><span class="vn">11</span>For he who said, &quot;Do not commit adultery,&quot; also said, &quot;Do not commit murder.&quot; Now if you do not commit adultery, but murder, you have become a transgressor of the law.</p>
+</div>
+<p class="conn">Love of neighbor named as the royal law, with the integrity of the law argued as a unity. Supports C01's claim that the moral order is a structure rather than a menu.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<a class="tag" href="c01.html">C01</a>
+<a class="tag" href="c03.html">C03</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 2:12-13</p>
+<h2 class="entry-name">Mercy triumphs over judgment</h2>
+<div class="passage">
+<p><span class="vn">12</span>So speak, and so do, as men who are to be judged by a law of freedom.</p>
+<p><span class="vn">13</span>For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment.</p>
+</div>
+<p class="conn">Where the Moral Audit ends, and the reason it is survivable. Also the hinge under Merciful Reintegration — judgment is not abolished, it is outranked.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR01</a>
+<a class="tag" href="a1.html">PR29</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 2:14-17</p>
+<h2 class="entry-name">Faith without works is dead</h2>
+<div class="passage">
+<p><span class="vn">14</span>What good is it, my brothers, if a man says he has faith, but has no works? Can faith save him?</p>
+<p><span class="vn">15</span>And if a brother or sister is naked and in lack of daily food,</p>
+<p><span class="vn">16</span>and one of you tells them, &quot;Go in peace, be warmed and filled;&quot; and yet you didn't give them the things the body needs, what good is it?</p>
+<p><span class="vn">17</span>Even so faith, if it has no works, is dead in itself.</p>
+</div>
+<p class="conn">The go-in-peace-be-warmed rebuke is the test C12 applies: fruit as evidence rather than sentiment. Also the passage the altar-not-ladder framing has to answer, and does.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S3 Abiding</span>
+<a class="tag" href="c05.html">C05</a>
+<a class="tag" href="c12.html">C12</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 2:18-20</p>
+<h2 class="entry-name">Show me your faith apart from your works</h2>
+<div class="passage">
+<p><span class="vn">18</span>Yes, a man will say, &quot;You have faith, and I have works.&quot; Show me your faith without works, and I by my works will show you my faith.</p>
+<p><span class="vn">19</span>You believe that God is one. You do well. The demons also believe, and shudder.</p>
+<p><span class="vn">20</span>But do you want to know, vain man, that faith apart from works is dead?</p>
+</div>
+<p class="conn">Belief alone is credited to demons, which forecloses assent as a sufficient account of faith. Sharpens the proof test without adding to it.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<a class="tag" href="c12.html">C12</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 2:21-26</p>
+<h2 class="entry-name">Abraham and Rahab; faith completed by works</h2>
+<div class="passage">
+<p><span class="vn">21</span>Wasn't Abraham our father justified by works, in that he offered up Isaac his son on the altar?</p>
+<p><span class="vn">22</span>You see that faith worked with his works, and by works faith was perfected;</p>
+<p><span class="vn">23</span>and the Scripture was fulfilled which says, &quot;Abraham believed God, and it was accounted to him as righteousness;&quot; and he was called the friend of God.</p>
+<p><span class="vn">24</span>You see then that by works, a man is justified, and not only by faith.</p>
+<p><span class="vn">25</span>In the same way, wasn't Rahab the prostitute also justified by works, in that she received the messengers, and sent them out another way?</p>
+<p><span class="vn">26</span>For as the body apart from the spirit is dead, even so faith apart from works is dead.</p>
+</div>
+<p class="conn">Faith working with works and completed by them — the grammar the grace-faith-works formulation in WMT depends on. Rahab's inclusion also refuses to make the principle respectable.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<a class="tag" href="c12.html">C12</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 3:1-2</p>
+<h2 class="entry-name">Not many should become teachers</h2>
+<div class="passage">
+<p><span class="vn">1</span>Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment.</p>
+<p><span class="vn">2</span>For in many things we all stumble. If anyone doesn't stumble in word, the same is a perfect man, able to bridle the whole body also.</p>
+</div>
+<p class="conn">A warning attached specifically to teaching, which is the office this curriculum occupies. Belongs wherever WMT addresses those who would lead others through it.</p>
+<div class="tags">
+<span class="tag pillar h">humility</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c29.html">C29</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 3:3-6</p>
+<h2 class="entry-name">The bit, the rudder, and the fire</h2>
+<div class="passage">
+<p><span class="vn">3</span>Indeed, we put bits into the horses' mouths so that they may obey us, and we guide their whole body.</p>
+<p><span class="vn">4</span>Behold, the ships also, though they are so big and are driven by fierce winds, are yet guided by a very small rudder, wherever the pilot desires.</p>
+<p><span class="vn">5</span>So the tongue is also a little member, and boasts great things. See how a small fire can spread to a large forest!</p>
+<p><span class="vn">6</span>And the tongue is a fire. The world of iniquity among our members is the tongue, which defiles the whole body, and sets on fire the course of nature, and is set on fire by Gehenna.</p>
+</div>
+<p class="conn">Three images for the disproportion between a small thing and what it steers or destroys. The governing logic of Watchfulness: guard the small gate because of what comes through it.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c20.html">C20</a>
+<a class="tag" href="a1.html">PR12</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 3:7-8</p>
+<h2 class="entry-name">No one can tame the tongue</h2>
+<div class="passage">
+<p><span class="vn">7</span>For every kind of animal, bird, creeping thing, and thing in the sea, is tamed, and has been tamed by mankind.</p>
+<p><span class="vn">8</span>But nobody can tame the tongue. It is a restless evil, full of deadly poison.</p>
+</div>
+<p class="conn">An explicit limit on self-mastery, placed immediately after instructions on speech. Guards Watchfulness against becoming a technique that promises what it cannot deliver.</p>
+<div class="tags">
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c20.html">C20</a>
+<a class="tag" href="c22.html">C22</a>
+<a class="tag" href="a1.html">PR12</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 3:9-12</p>
+<h2 class="entry-name">Blessing and cursing from the same mouth</h2>
+<div class="passage">
+<p><span class="vn">9</span>With it we bless our God and Father, and with it we curse men, who are made in the image of God.</p>
+<p><span class="vn">10</span>Out of the same mouth comes forth blessing and cursing. My brothers, these things ought not to be so.</p>
+<p><span class="vn">11</span>Does a spring send out from the same opening fresh and bitter water?</p>
+<p><span class="vn">12</span>Can a fig tree, my brothers, yield olives, or a vine figs? Thus no spring yields both salt water and fresh water.</p>
+</div>
+<p class="conn">Audits the divided source rather than the divided output — the spring, not the water. This is the Moral Audit applied to speech, and the reason the audit has to reach the interior.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="c20.html">C20</a>
+<a class="tag" href="a1.html">PR01</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 3:13-16</p>
+<h2 class="entry-name">Wisdom shown in conduct; bitter jealousy and selfish ambition</h2>
+<div class="passage">
+<p><span class="vn">13</span>Who is wise and understanding among you? Let him show by his good conduct that his deeds are done in gentleness of wisdom.</p>
+<p><span class="vn">14</span>But if you have bitter jealousy and selfish ambition in your heart, don't boast and don't lie against the truth.</p>
+<p><span class="vn">15</span>This wisdom is not that which comes down from above, but is earthly, sensual, and demonic.</p>
+<p><span class="vn">16</span>For where jealousy and selfish ambition are, there is confusion and every evil deed.</p>
+</div>
+<p class="conn">Earthly wisdom identified by its fruit — disorder and every vile practice — which is the fruit test of C08 turned on wisdom itself. Names what the Architecture of Peace is built against.</p>
+<div class="tags">
+<span class="tag pillar h">humility</span>
+<span class="tag">S2 Perception</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c08.html">C08</a>
+<a class="tag" href="c15.html">C15</a>
+<a class="tag" href="a1.html">PR09</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 3:17-18</p>
+<h2 class="entry-name">The wisdom from above</h2>
+<div class="passage">
+<p><span class="vn">17</span>But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy.</p>
+<p><span class="vn">18</span>Now the fruit of righteousness is sown in peace by those who make peace.</p>
+</div>
+<p class="conn">Pure, then peaceable, gentle, full of mercy and good fruits, without partiality or hypocrisy — the sequence maps onto the three pillars with unusual precision. Load-bearing for the pillar architecture itself.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S2 Perception</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c02.html">C02</a>
+<a class="tag" href="c08.html">C08</a>
+<a class="tag" href="c27.html">C27</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 4:1-3</p>
+<h2 class="entry-name">Wars and fightings come from your passions</h2>
+<div class="passage">
+<p><span class="vn">1</span>Where do wars and fightings among you come from? Don't they come from your pleasures that war in your members?</p>
+<p><span class="vn">2</span>You lust, and don't have. You kill, covet, and can't obtain. You fight and make war. You don't have, because you don't ask.</p>
+<p><span class="vn">3</span>You ask, and don't receive, because you ask with wrong motives, so that you may spend it for your pleasures.</p>
+</div>
+<p class="conn">Conflict traced upstream to pleasures already at war inside the person, before any of it reaches another human being. The passage is diagnostic rather than relational: it describes what the watchman is posted to see.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c20.html">C20</a>
+<a class="tag" href="a1.html">PR02</a>
+<a class="tag" href="a1.html">PR12</a>
+<span class="tag corrected">author placed</span>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 4:4-6</p>
+<h2 class="entry-name">God opposes the proud but gives grace to the humble</h2>
+<div class="passage">
+<p><span class="vn">4</span>You adulterers and adulteresses, don't you know that friendship with the world is enmity with God? Whoever therefore wants to be a friend of the world makes himself an enemy of God.</p>
+<p><span class="vn">5</span>Or do you think that the Scripture says in vain, &quot;The Spirit who lives in us yearns jealously&quot;?</p>
+<p><span class="vn">6</span>But he gives more grace. Therefore it says, &quot;God resists the proud, but gives grace to the humble.&quot;</p>
+</div>
+<p class="conn">Grace described as conditional on posture rather than performance. Sits under the Hidden Life: the humble receive because they are positioned to, not because they earned it.</p>
+<div class="tags">
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c22.html">C22</a>
+<a class="tag" href="c23.html">C23</a>
+<a class="tag" href="a1.html">PR13</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 4:7-10</p>
+<h2 class="entry-name">Draw near to God and he will draw near to you</h2>
+<div class="passage">
+<p><span class="vn">7</span>Be subject therefore to God. But resist the devil, and he will flee from you.</p>
+<p><span class="vn">8</span>Draw near to God, and he will draw near to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded.</p>
+<p><span class="vn">9</span>Lament, mourn, and weep. Let your laughter be turned to mourning, and your joy to gloom.</p>
+<p><span class="vn">10</span>Humble yourselves in the sight of the Lord, and he will exalt you.</p>
+</div>
+<p class="conn">A reciprocal movement with the human step named first, then cleansing, then humbling. Structurally the door-not-a-wall of C19, given as instruction rather than image.</p>
+<div class="tags">
+<span class="tag pillar h">humility</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c09.html">C09</a>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR11</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 4:11-12</p>
+<h2 class="entry-name">Do not speak against one another</h2>
+<div class="passage">
+<p><span class="vn">11</span>Don't speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law, but a judge.</p>
+<p><span class="vn">12</span>Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another?</p>
+</div>
+<p class="conn">Judging a neighbor recast as judging the law itself — an argument from standing rather than from kindness. Grounds Covering Weakness and the sequence discipline of Self-Accusation.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c15.html">C15</a>
+<a class="tag" href="c22.html">C22</a>
+<a class="tag" href="a1.html">PR03</a>
+<a class="tag" href="a1.html">PR17</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 4:13-17</p>
+<h2 class="entry-name">You are a mist; if the Lord wills</h2>
+<div class="passage">
+<p><span class="vn">13</span>Come now, you who say, &quot;Today or tomorrow let's go into this city, and spend a year there, trade, and make a profit.&quot;</p>
+<p><span class="vn">14</span>Whereas you don't know what your life will be like tomorrow. For what is your life? For you are a vapor, that appears for a little time, and then vanishes away.</p>
+<p><span class="vn">15</span>For you ought to say, &quot;If the Lord wills, we will both live, and do this or that.&quot;</p>
+<p><span class="vn">16</span>But now you glory in your boasting. All such boasting is evil.</p>
+<p><span class="vn">17</span>To him therefore who knows to do good, and doesn't do it, to him it is sin.</p>
+</div>
+<p class="conn">Planning without reference to contingency named as boasting. The Discipline of Unknowing applied to the future rather than to doctrine, which is where it bites hardest.</p>
+<div class="tags">
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c18.html">C18</a>
+<a class="tag" href="c24.html">C24</a>
+<a class="tag" href="a1.html">PR04</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 5:1-6</p>
+<h2 class="entry-name">The wages of the laborers cry out</h2>
+<div class="passage">
+<p><span class="vn">1</span>Come now, you rich, weep and howl for your miseries that are coming on you.</p>
+<p><span class="vn">2</span>Your riches are corrupted and your garments are moth-eaten.</p>
+<p><span class="vn">3</span>Your gold and your silver are corroded, and their corrosion will be for a testimony against you, and will eat your flesh like fire. You have laid up your treasure in the last days.</p>
+<p><span class="vn">4</span>Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out, and the cries of those who reaped have entered into the ears of the Lord of Armies.</p>
+<p><span class="vn">5</span>You have lived delicately on the earth, and taken your pleasure. You have nourished your hearts as in a day of slaughter.</p>
+<p><span class="vn">6</span>You have condemned, you have murdered the righteous one. He doesn't resist you.</p>
+</div>
+<p class="conn">The withheld wage from Deuteronomy, carried into the New Testament without softening. Direct continuity with C01's argument that the moral order registers economic conduct as a structural event.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c01.html">C01</a>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="a1.html">PR05</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 5:7-8</p>
+<h2 class="entry-name">The farmer waits for the early and the late rain</h2>
+<div class="passage">
+<p><span class="vn">7</span>Be patient therefore, brothers, until the coming of the Lord. Behold, the farmer waits for the precious fruit of the earth, being patient over it, until it receives the early and late rain.</p>
+<p><span class="vn">8</span>You also be patient. Establish your hearts, for the coming of the Lord is at hand.</p>
+</div>
+<p class="conn">Patience given an agricultural rather than a stoic shape — waiting that includes tending. One of the cleanest images available for the Discipline of Gradualism.</p>
+<div class="tags">
+<span class="tag pillar h">humility</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c25.html">C25</a>
+<a class="tag" href="a1.html">PR14</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 5:9</p>
+<h2 class="entry-name">Do not grumble against one another</h2>
+<div class="passage">
+<p><span class="vn">9</span>Don't grumble, brothers, against one another, so that you won't be judged. Behold, the judge stands at the door.</p>
+</div>
+<p class="conn">Grumbling treated as a judicial act with the judge already at the door. Small-scale complaint given weight the Architecture of Peace assumes but does not always argue.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c15.html">C15</a>
+<a class="tag" href="a1.html">PR17</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 5:10-11</p>
+<h2 class="entry-name">The prophets and the steadfastness of Job</h2>
+<div class="passage">
+<p><span class="vn">10</span>Take, brothers, for an example of suffering and of patience, the prophets who spoke in the name of the Lord.</p>
+<p><span class="vn">11</span>Behold, we call them blessed who endured. You have heard of the patience of Job, and have seen the Lord in the outcome, and how the Lord is full of compassion and mercy.</p>
+</div>
+<p class="conn">Job named as the model of endurance, which is how WMT already reads him in the Sacred Lament material. Confirms that lament and steadfastness are the same posture, not opposites.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR08</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 5:12</p>
+<h2 class="entry-name">Let your yes be yes</h2>
+<div class="passage">
+<p><span class="vn">12</span>But above all things, my brothers, don't swear, neither by heaven, nor by the earth, nor by any other oath; but let your &quot;yes&quot; be &quot;yes,&quot; and your &quot;no,&quot; &quot;no;&quot; so that you don't fall into hypocrisy.</p>
+</div>
+<p class="conn">Speech that requires no oath because it is already reliable. Parallels the Didache's instruction against the double tongue, which C05 draws on.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<a class="tag" href="c05.html">C05</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 5:13-15</p>
+<h2 class="entry-name">Is anyone suffering? Let him pray</h2>
+<div class="passage">
+<p><span class="vn">13</span>Is any among you suffering? Let him pray. Is any cheerful? Let him sing praises.</p>
+<p><span class="vn">14</span>Is any among you sick? Let him call for the elders of the assembly, and let them pray over him, anointing him with oil in the name of the Lord,</p>
+<p><span class="vn">15</span>and the prayer of faith will heal him who is sick, and the Lord will raise him up. If he has committed sins, he will be forgiven.</p>
+</div>
+<p class="conn">Every condition given a corresponding act, which is the logic of the Daily Anchors. Also locates healing in a gathered body rather than a private effort.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c09.html">C09</a>
+<a class="tag" href="c14.html">C14</a>
+<a class="tag" href="a1.html">PR07</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 5:16</p>
+<h2 class="entry-name">Confess to one another and pray for one another</h2>
+<div class="passage">
+<p><span class="vn">16</span>Confess your offenses to one another, and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective.</p>
+</div>
+<p class="conn">Mutual confession, not upward confession — healing located in the exchange itself. The communal form of what Self-Accusation does privately.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c14.html">C14</a>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR03</a>
+<a class="tag" href="a1.html">PR11</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 5:17-18</p>
+<h2 class="entry-name">Elijah was a man of like nature with ourselves</h2>
+<div class="passage">
+<p><span class="vn">17</span>Elijah was a man with a nature like ours, and he prayed earnestly that it might not rain, and it didn't rain on the earth for three years and six months.</p>
+<p><span class="vn">18</span>He prayed again, and the sky gave rain, and the earth brought forth its fruit.</p>
+</div>
+<p class="conn">The explicit refusal to place the exemplar in a different category from the reader. Guards the whole seven-stage path against being read as a description of other people.</p>
+<div class="tags">
+<span class="tag pillar h">humility</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c25.html">C25</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">James 5:19-20</p>
+<h2 class="entry-name">Bringing back one who wanders</h2>
+<div class="passage">
+<p><span class="vn">19</span>Brothers, if any among you wanders from the truth, and someone turns him back,</p>
+<p><span class="vn">20</span>let him know that he who turns a sinner from the error of his way will save a soul from death, and will cover a multitude of sins.</p>
+</div>
+<p class="conn">The letter closes by sending an ordinary member after someone who has wandered. Restoration is presented as a capacity of the enlarged heart, not as a final instruction appended to the road.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="a1.html">PR29</a>
+<span class="tag corrected">author placed</span>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+</div>
+</article>
+<nav class="docnav">
+<p class="rule-orn orn"><span>✦</span></p>
+<p class="nav-hub"><a href="scripture.html">All indexed books</a> · <a href="index.html">Table of contents</a></p>
+</nav>
+</main></body></html>

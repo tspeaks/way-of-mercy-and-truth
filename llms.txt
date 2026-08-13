@@ -95,4 +95,5 @@ Development record, not curriculum. Not needed to practice the Way.
 - `WMT G07` [The Harrowing and the Iapetids](dist/genealogy-07-harrowing-and-iapetids.txt) — 395 words  *(speculative)*
 - `WMT G08` [Civilizational Praxis and Stewardship](dist/genealogy-08-civilizational-praxis.txt) — 338 words
 - `WMT G09` [Architecture, Boundaries, and Cautions](dist/genealogy-09-architecture-and-cautions.txt) — 692 words
+- `WMT G10` [Editions Consulted](dist/genealogy-10-editions-consulted.txt) — 1,214 words  *(partial: Two entries still open — Pseudo-Clementines and Barnabas base translations unconfirmed)*
 

@@ -409,6 +409,14 @@
       "markdown": "genealogy/09-architecture-and-cautions.md",
       "plain_text": "dist/genealogy-09-architecture-and-cautions.txt",
       "status": "stable"
+    },
+    {
+      "id": "WMT G10",
+      "title": "Editions Consulted",
+      "words": 1214,
+      "markdown": "genealogy/10-editions-consulted.md",
+      "plain_text": "dist/genealogy-10-editions-consulted.txt",
+      "status": "partial"
     }
   ]
 }

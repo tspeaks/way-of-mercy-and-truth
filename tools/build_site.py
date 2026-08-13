@@ -680,6 +680,12 @@ def build():
           f'<span class="lt">{esc(ap["title"].title())}</span>'
           f'<span class="ld">{esc(APPENDIX_BLURB.get(ap["id"], ""))} · {ap["words"]:,} words</span>'
           "</a></li>")
+    if (ROOT / "scripture.html").exists():
+        a('<li><a href="scripture.html">'
+          '<span class="lt">The Scripture Index</span>'
+          '<span class="ld">Scripture passage by passage, with the text itself, mapped to '
+          'stage, chapter, practice, and pillar · in progress</span>'
+          "</a></li>")
     a("</ul>")
     a("</section>")
 

@@ -1,6 +1,6 @@
 # Habakkuk — review package
 
-Scripture: World English Bible (public domain). Index status: complete. Method version 1.4.
+Scripture: World English Bible (public domain). Index status: complete. Method version 1.5.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -131,9 +131,11 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **2:19** Woe to him who says to the wood, ‘Awake!’ or to the mute stone, ‘Arise!’ Shall this teach? Behold, it is overlaid with gold and silver, and there is no breath at all in its midst.
 > **2:20** But Yahweh is in his holy temple. Let all the earth be silent before him!”
 
-**Claim.** The idol is called a teacher of lies because it cannot answer, and the contrast offered is not a louder voice but silence before one who can. After two chapters of argument, the instruction is to stop talking.
+**Claim.** The idol is called a teacher of lies because it cannot answer, and the contrast offered is not a louder voice but silence before one who can. After two chapters of argument the instruction is to stop talking — the recognition that reality exceeds one's grasp of it, enacted rather than conceded.
 
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S3 · chapters: C09 · practices: none · confidence: high
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S3 · chapters: C09 · practices: PR04 · confidence: high
+
+**Amended at review** — PR04 added at review. The definition is Ephrem's posture — the disciplined recognition that reality exceeds your grasp — and silence commanded at the end of two chapters of questioning is exactly that, enacted. Accepted on the definition, not the name.
 
 ---
 

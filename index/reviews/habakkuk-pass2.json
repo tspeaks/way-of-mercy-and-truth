@@ -1,0 +1,20 @@
+{
+  "scope": "all 13 entries",
+  "verdicts": {
+    "sound": 13
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "Habakkuk 2:18-20",
+      "proposed": "PR04",
+      "verdict": "accepted",
+      "reason": "PR04 is Ephrem's posture: the disciplined recognition that reality exceeds your grasp of it. Silence commanded at the close of two chapters of argument enacts precisely that. The reviewer reached it from the definition rather than the name, which is what the brief asks."
+    }
+  ],
+  "running_tally": "Twelve additions proposed across all books: five accepted, one in part, six declined. This is the first accepted since the synthesis pass.",
+  "stated_claims_confirmed": [
+    "Structural note — nothing resolves externally; the change is in the man, traced from accusation at 1:2 through silence at 2:20 to rejoicing at 3:18.",
+    "Genre note — prophecy addressed upward rather than outward, which is what makes this the canon's proof that lament is answered rather than rebuked."
+  ]
+}

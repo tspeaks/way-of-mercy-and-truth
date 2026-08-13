@@ -2,7 +2,7 @@
   "book": "James",
   "translation": "World English Bible (public domain)",
   "status": "pilot",
-  "method_version": "0.2",
+  "method_version": "0.3",
   "note": "Second draft. Entries marked prior:true were already cited in WMT A3 before this index existed. Entries marked author_corrected:true were reassigned by the author after the first pass; treat those placements as settled. Confidence is the drafter's, not the author's — every medium and low entry is a question, not a claim.",
   "entries": [
     {
@@ -41,12 +41,11 @@
         "C02",
         "C07"
       ],
-      "practices": [
-        "PR04"
-      ],
-      "connection": "Wisdom is something asked for rather than achieved, which is the entrance requirement Proverbs 1:7 sets and C02 builds on. Double-mindedness names the divided interior that C07 treats as the obstacle to clear sight.",
+      "practices": [],
+      "connection": "Wisdom is asked for rather than achieved, which is the entrance requirement Proverbs 1:7 sets and C02 builds on. Double-mindedness names the divided interior that C07 treats as the obstacle to clear sight.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR04 removed at review — confident petition, not the limits of knowing."
     },
     {
       "ref": "James 1:9-11",
@@ -61,12 +60,11 @@
         "C16",
         "C18"
       ],
-      "practices": [
-        "PR25"
-      ],
+      "practices": [],
       "connection": "Status is inverted and then dissolved — the rich man fades mid-pursuit. Grounds Holy Detachment and sits directly under Deferential Seating.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR25 removed at review — status reversal stated as fact, not a practice."
     },
     {
       "ref": "James 1:12",
@@ -80,12 +78,11 @@
       "chapters": [
         "C19"
       ],
-      "practices": [
-        "PR11"
-      ],
+      "practices": [],
       "connection": "The one who has stood the test receives the crown — endurance through failure rather than avoidance of it. Pairs with the Failure Recovery Protocol.",
-      "confidence": "medium",
-      "prior": false
+      "confidence": "high",
+      "prior": false,
+      "review": "PR11 removed at review — endurance under trial, not recovery after failure."
     },
     {
       "ref": "James 1:13-15",
@@ -306,21 +303,45 @@
       "prior": false
     },
     {
-      "ref": "James 3:1-2",
+      "ref": "James 3:1",
       "pericope": "Not many should become teachers",
       "pillars": [
         "humility"
       ],
       "stages": [
+        "S1",
         "S7"
       ],
       "chapters": [
+        "C05",
         "C29"
       ],
       "practices": [],
-      "connection": "A warning attached specifically to teaching, which is the office this curriculum occupies. Belongs wherever WMT addresses those who would lead others through it.",
-      "confidence": "medium",
-      "prior": false
+      "connection": "A warning attached specifically to teaching, and to the heavier judgment that comes with it. It belongs wherever this road addresses those who would lead others through it.",
+      "confidence": "high",
+      "prior": false,
+      "review": "Split from 3:1-2 at review. The reviewer was right that verse 2 is about speech; the pericope boundary was doing the damage. Verse 1 keeps the teaching-office reading."
+    },
+    {
+      "ref": "James 3:2",
+      "pericope": "Whoever does not stumble in word is a perfect man",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "connection": "Speech named as the measure of whether the whole body can be governed at all. The hinge into the tongue material, and the reason Watchfulness begins at the mouth.",
+      "confidence": "high",
+      "prior": false,
+      "review": "Split from 3:1-2 at review, following the reviewer's placement."
     },
     {
       "ref": "James 3:3-6",
@@ -484,11 +505,13 @@
         "C19"
       ],
       "practices": [
+        "PR08",
         "PR11"
       ],
-      "connection": "A reciprocal movement with the human step named first, then cleansing, then humbling. Structurally the door-not-a-wall of C19, given as instruction rather than image.",
+      "connection": "A reciprocal movement with the human step named first, then cleansing, then lament, then humbling. Verse 9 commands mourning outright, which makes this the clearest New Testament warrant for Sacred Lament; the sequence as a whole is a return.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR08 added at review — a real miss. PR11 kept against the reviewer's advice: submit, resist, draw near, cleanse, humble is a return protocol. PR03 declined — cleansing the hands is purification, not self-accusation."
     },
     {
       "ref": "James 4:11-12",
@@ -712,5 +735,19 @@
       "author_corrected": true
     }
   ],
-  "text_source": "index/text/james.json"
+  "text_source": "index/text/james.json",
+  "review_log": [
+    {
+      "pass": 2,
+      "reviewer": "second model (Gemini Spark)",
+      "verdicts": {
+        "sound": 30,
+        "overreach": 3,
+        "miscategorized": 1,
+        "understated": 1
+      },
+      "record": "index/reviews/james-pass2.json",
+      "adjudication": "3 accepted in full, 1 accepted in part, 1 resolved by splitting the entry."
+    }
+  ]
 }

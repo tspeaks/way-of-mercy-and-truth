@@ -10,7 +10,9 @@ Aphrahat, the Book of Steps, the Macarian Homilies, Isaac of Nineveh, Cassian, E
 the Didache — and ordered not by chronology or theological importance, but according to
 the order in which a human being actually changes.
 
-Free to read, quote, translate, and redistribute. **[Read the full text](dist/wmt-full.txt).**
+Free to read, quote, translate, and redistribute.
+**[Read it at wayofmercyandtruth.org](https://wayofmercyandtruth.org)** — or take the
+[full plain text](dist/wmt-full.txt) in one file.
 
 ---
 

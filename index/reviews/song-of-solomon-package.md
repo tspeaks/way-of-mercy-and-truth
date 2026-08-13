@@ -1,6 +1,6 @@
 # Song of Solomon — review package
 
-Scripture: World English Bible (public domain). Index status: complete — selective by design; see coverage_note. Method version 1.0.
+Scripture: World English Bible (public domain). Index status: complete — selective by design; see coverage_note. Method version 1.1.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -101,7 +101,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** He knocks; she hesitates over small comforts — the robe already off, the feet already washed — and by the time she opens he is gone. Delay costs the moment, and the excuses are trivial in exactly the way real ones are.
 
-**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S5 · chapters: C20 · practices: none · confidence: medium
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S5 · chapters: C20 · practices: PR12 · confidence: medium
+
+**Amended at review** — PR12 added on synthesis review. The entry was marked counter-example and argued that delay costs the moment, then recorded no tag for the practice whose absence it shows. Third instance of the drafter breaking his own counter-example rule.
 
 ---
 

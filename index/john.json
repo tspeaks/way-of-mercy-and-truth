@@ -2,7 +2,7 @@
   "book": "John",
   "translation": "World English Bible (public domain)",
   "status": "partial — chapters 13-21 only; chapters 1-12 pending",
-  "method_version": "0.9",
+  "method_version": "1.1",
   "text_source": "index/text/john.json",
   "note": "Indexed from chapter 13 forward because this section was the stated test of a prediction: that C11 and C28, unreached by any of the first three books, would close here. Chapters 1-12 follow. Practice tags are assigned from the definitions in WMT A1, not from practice names.",
   "prediction_note": "The prediction was only half a genuine test. C11 quotes John 1:14 in its own text, so John was always going to close it — that is a foregone conclusion, not a confirmed forecast, and the honest anchor for C11 is John 15 rather than anything predicted. C28 was the real test: it argues for rhythm and continuity over intensity, drawn from the Didache rather than from John, and nothing guaranteed a Johannine anchor. John 21:1-14 supplies one.",
@@ -21,12 +21,14 @@
         "C16"
       ],
       "practices": [
+        "PR17",
         "PR25"
       ],
       "mode": "exemplifies",
       "connection": "The passage states what he knew before he knelt — that the Father had given all things into his hands. The descent is made from full possession of status rather than from the absence of it, which is the distinction C16 draws between service and servility.",
-      "confidence": "high",
-      "prior": false
+      "confidence": "medium",
+      "prior": false,
+      "review": "PR17 added on synthesis review at medium confidence. He washes the feet of the one he knows will betray him and says only that not all are clean, signalling without naming. The enactment consists in what is withheld, which is weaker evidence than an act."
     },
     {
       "ref": "John 13:12-17",
@@ -492,12 +494,14 @@
         "C24"
       ],
       "practices": [
-        "PR08"
+        "PR08",
+        "PR16"
       ],
       "mode": "exemplifies",
       "connection": "She is asked twice why she is weeping and is not told to stop. Recognition arrives through a single spoken name rather than through explanation, which is how C24 describes the landscape opening — not by argument.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR16 added on synthesis review. She is asked why she weeps and whom she seeks, and allowed to answer before anything is revealed — attention given before conclusion."
     },
     {
       "ref": "John 20:19-23",

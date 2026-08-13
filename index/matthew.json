@@ -2,7 +2,7 @@
   "book": "Matthew",
   "translation": "World English Bible (public domain)",
   "status": "partial — the Sermon on the Mount (chapters 5-7) only",
-  "method_version": "1.0",
+  "method_version": "1.1",
   "text_source": "index/text/matthew.json",
   "note": "Indexed on Matthew's own structure — the five discourses and the narrative blocks between them — beginning with the first discourse. Practice tags are assigned from the definitions in WMT A1, not from practice names.",
   "synoptic_note": "Entries carry an optional synoptic_parallel field recording the corresponding passage in Luke. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Matthew's own arrangement, so a parallel sometimes covers only part of an entry. All scripture is WEB, per the standing rule in WMT G10.",
@@ -86,13 +86,15 @@
         "C20"
       ],
       "practices": [
+        "PR03",
         "PR09",
         "PR12"
       ],
       "mode": "prescribes",
-      "connection": "The prohibition is moved upstream from the act to the anger, and then reconciliation is ranked above worship — leave the gift, go, and come back. The Architecture of Peace given priority over liturgy itself, and the movement is required of the one who remembers, not the one who was wronged.",
+      "connection": "The prohibition is moved upstream from the act to the anger, and then reconciliation is ranked above worship — leave the gift, go, and come back. The movement is required of the one who remembers his brother has something against him, regardless of who is at fault, which is Self-Accusation stated as a liturgical interruption.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR03 added on synthesis review — 5:23-24 puts the initiative on the one who remembers, not the one who was wronged."
     },
     {
       "ref": "Matthew 5:27-30",

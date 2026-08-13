@@ -1,6 +1,6 @@
 # Proverbs — review package
 
-Scripture: World English Bible (public domain). Index status: chapters 1-9 (pericopes) and 10-29 (clusters); 30-31 pending. Method version 0.8.
+Scripture: World English Bible (public domain). Index status: chapters 1-9 (pericopes) and 10-29 (clusters); 30-31 pending. Method version 1.1.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -605,7 +605,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ## 33. Proverbs · Pride and the low place — Pride and the low place
 
-*Thematic cluster — 8 passages gathered from across the book.*
+*Thematic cluster — 10 passages gathered from across the book.*
 
 > **11:2** When pride comes, then comes shame, but with humility comes wisdom.
 > **15:33** The fear of Yahweh teaches wisdom. Before honor is humility.
@@ -614,15 +614,17 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **16:19** It is better to be of a lowly spirit with the poor, than to divide the plunder with the proud.
 > **18:12** Before destruction the heart of man is proud, but before honor is humility.
 > **22:4** The result of humility and the fear of Yahweh is wealth, honor, and life.
+> **25:6** Don’t exalt yourself in the presence of the king, or claim a place among great men;
+> **25:7** for it is better that it be said to you, “Come up here,” than that you should be put lower in the presence of the prince, whom your eyes have seen.
 > **29:23** A man’s pride brings him low, but one of lowly spirit gains honor.
 
-**Claim.** Humility placed before honor as a matter of sequence, not reward — the low place comes first or the honor does not come. The pattern is stated so often it functions as a structural law, which is what the Hidden Life assumes.
+**Claim.** Humility placed before honour as a matter of sequence, not reward — the low place comes first or the honour does not come. 25:6-7 gives the principle its scene: better to be told come up here than to be moved down in front of everyone.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S6 · chapters: C23 · practices: PR13 · confidence: high
 
 **Author placed** — settled by the author. Note disagreement if you have it, but do not propose a change.
 
-**Amended at review** — PR13 retained after author review. The drafter argued these were a name-reading error and the reviewer marked all three sound; the author reversed the removal on reflection. The Hidden Life is read here as reaching the whole posture — the low place held without display, which is what grace is said to be given to — not only unsupervised work.
+**Amended at review** — 25:6-7 added on synthesis review. The reviewer proposed it as the Old Testament source for PR25, and the verses plainly belong in this cluster — but PR25 was declined. PR25 is watching for the poor, the elderly and the stranger and giving up your own seat to them; 25:6-7 is prudent self-placement, which is the other half of the same scene and not the practice.
 
 ---
 

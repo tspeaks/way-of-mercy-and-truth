@@ -2,7 +2,7 @@
   "book": "Proverbs",
   "translation": "World English Bible (public domain)",
   "status": "chapters 1-9 (pericopes) and 10-29 (clusters); 30-31 pending",
-  "method_version": "0.8",
+  "method_version": "1.1",
   "text_source": "index/text/proverbs.json",
   "note": "Covers the nine discourse chapters. Chapters 10-29 are collections of independent couplets and do not submit to a pericope schema at all; see structural_note. Chapters 30-31 (Agur, Lemuel, the acrostic) are discourse-shaped and can be indexed on this pattern, but are held until the couplet question is settled so the whole book is finished under one method rather than two.",
   "structural_note": "Proverbs 1-9 is continuous instruction — a father to a son, and Wisdom calling in the street — and indexes exactly like James or Jonah. Proverbs 10-29 is roughly 600 free-standing couplets in no narrative or argumentative order. Indexed at the density used for the first two books, that section alone would produce several hundred single-verse entries, most of them near-duplicates, and the index would become longer and less usable than the text it serves. That section needs a cluster entry — one entry gathering non-contiguous verses on a single theme — which the current schema cannot express, since it assumes one contiguous range per entry. That is a real decision about what the index is, not a formatting detail, and it is left open here deliberately.",
@@ -683,6 +683,8 @@
         "Proverbs 16:19",
         "Proverbs 18:12",
         "Proverbs 22:4",
+        "Proverbs 25:6",
+        "Proverbs 25:7",
         "Proverbs 29:23"
       ],
       "pericope": "Pride and the low place",
@@ -699,11 +701,11 @@
         "PR13"
       ],
       "mode": "prescribes",
-      "connection": "Humility placed before honor as a matter of sequence, not reward — the low place comes first or the honor does not come. The pattern is stated so often it functions as a structural law, which is what the Hidden Life assumes.",
+      "connection": "Humility placed before honour as a matter of sequence, not reward — the low place comes first or the honour does not come. 25:6-7 gives the principle its scene: better to be told come up here than to be moved down in front of everyone.",
       "confidence": "high",
       "prior": false,
       "author_corrected": true,
-      "review": "PR13 retained after author review. The drafter argued these were a name-reading error and the reviewer marked all three sound; the author reversed the removal on reflection. The Hidden Life is read here as reaching the whole posture — the low place held without display, which is what grace is said to be given to — not only unsupervised work."
+      "review": "25:6-7 added on synthesis review. The reviewer proposed it as the Old Testament source for PR25, and the verses plainly belong in this cluster — but PR25 was declined. PR25 is watching for the poor, the elderly and the stranger and giving up your own seat to them; 25:6-7 is prudent self-placement, which is the other half of the same scene and not the practice."
     },
     {
       "kind": "cluster",

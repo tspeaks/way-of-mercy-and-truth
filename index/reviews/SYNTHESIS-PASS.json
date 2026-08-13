@@ -1,0 +1,17 @@
+{"scope":"synthesis questions for six books, returned in one pass",
+ "value":"The first review output to produce new material rather than corrections. Per-entry review can only validate or reject what is already there; the gaps question is the only one that finds what is missing, and it is unanswerable without the scripture text alongside.",
+ "accepted":[
+  {"ref":"Song of Solomon 5:2-8","change":"+PR12","reason":"Counter-example entry with empty practices — the drafter's own rule, broken a third time."},
+  {"ref":"Matthew 5:21-26","change":"+PR03","reason":"5:23-24 puts the initiative on the one who remembers his brother has something against him, regardless of fault."},
+  {"ref":"John 20:1-18","change":"+PR16","reason":"Mary is asked twice and allowed to answer before anything is revealed — attention given before conclusion."},
+  {"ref":"John 13:1-11","change":"+PR17 (medium)","reason":"He washes the betrayer's feet and signals without naming. The enactment consists in what is withheld, which is weaker evidence than an act."}],
+ "accepted_in_part":[
+  {"ref":"Proverbs · Pride and the low place","change":"+Proverbs 25:6-7 to the cluster; PR25 declined",
+   "reason":"The verses plainly belong to the theme. PR25 does not: it is watching for the poor, the elderly and the stranger and giving up your own seat to them, while 25:6-7 is prudent self-placement — the other half of the same scene, and not the practice."}],
+ "declined":[
+  {"ref":"Proverbs 4:20-27","proposed":"+PR01",
+   "reason":"The verbs are keep, guard, put away, look straight ahead — nepsis rather than examination. Already tagged PR12, which is the practice the passage describes."}],
+ "already_applied":[
+  {"ref":"Jonah 1:4-6","note":"The reviewer proposed +PR12; applied in the Jonah pass before this synthesis was requested."}],
+ "reviewer_miss":{"book":"John","question":"stated claims",
+  "note":"The prediction note was called fully validated. Half of it had already been retracted by the drafter: C11 quotes John 1:14 in its own text, so John was always going to close it, and that half was never a genuine forecast. The synthesis restated the prediction as confirmed without registering the retraction printed in the same note it was checking."}}

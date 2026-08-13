@@ -1,6 +1,6 @@
 # John — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 13-21 only; chapters 1-12 pending. Method version 0.9.
+Scripture: World English Bible (public domain). Index status: partial — chapters 13-21 only; chapters 1-12 pending. Method version 1.1.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -26,7 +26,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** The passage states what he knew before he knelt — that the Father had given all things into his hands. The descent is made from full possession of status rather than from the absence of it, which is the distinction C16 draws between service and servility.
 
-**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4 · chapters: C16 · practices: PR25 · confidence: high
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4 · chapters: C16 · practices: PR17, PR25 · confidence: medium
+
+**Amended at review** — PR17 added on synthesis review at medium confidence. He washes the feet of the one he knows will betray him and says only that not all are clean, signalling without naming. The enactment consists in what is withheld, which is weaker evidence than an act.
 
 ---
 
@@ -479,7 +481,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** She is asked twice why she is weeping and is not told to stop. Recognition arrives through a single spoken name rather than through explanation, which is how C24 describes the landscape opening — not by argument.
 
-**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S5, S6 · chapters: C19, C24 · practices: PR08 · confidence: high
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S5, S6 · chapters: C19, C24 · practices: PR08, PR16 · confidence: high
+
+**Amended at review** — PR16 added on synthesis review. She is asked why she weeps and whom she seeks, and allowed to answer before anything is revealed — attention given before conclusion.
 
 ---
 

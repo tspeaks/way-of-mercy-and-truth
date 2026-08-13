@@ -1,6 +1,6 @@
 # Matthew — review package
 
-Scripture: World English Bible (public domain). Index status: partial — the Sermon on the Mount (chapters 5-7) only. Method version 1.0.
+Scripture: World English Bible (public domain). Index status: partial — the Sermon on the Mount (chapters 5-7) only. Method version 1.1.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -72,9 +72,11 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 *Also in Luke: Luke 12:57-59*
 
-**Claim.** The prohibition is moved upstream from the act to the anger, and then reconciliation is ranked above worship — leave the gift, go, and come back. The Architecture of Peace given priority over liturgy itself, and the movement is required of the one who remembers, not the one who was wronged.
+**Claim.** The prohibition is moved upstream from the act to the anger, and then reconciliation is ranked above worship — leave the gift, go, and come back. The movement is required of the one who remembers his brother has something against him, regardless of who is at fault, which is Self-Accusation stated as a liturgical interruption.
 
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S4, S5 · chapters: C15, C20 · practices: PR09, PR12 · confidence: high
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S4, S5 · chapters: C15, C20 · practices: PR03, PR09, PR12 · confidence: high
+
+**Amended at review** — PR03 added on synthesis review — 5:23-24 puts the initiative on the one who remembers, not the one who was wronged.
 
 ---
 

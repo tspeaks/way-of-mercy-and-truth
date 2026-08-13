@@ -111,6 +111,12 @@ one — but a tag that could not distinguish the two would misrepresent the text
 When reviewing a narrative book, check the mode as carefully as the tags. A passage
 marked `exemplifies` where the character is in fact failing is a substantive error.
 
+**Counter-examples carry practice tags.** A passage that shows what a practice's absence
+costs anchors that practice as genuinely as one that commands it — that is the whole
+reason the mode field exists. An entry marked `counter-example` whose prose argues that
+some practice is defined here by its absence, but which records no tag for it, is
+hiding a real anchor. Flag those.
+
 ## Your task
 
 Review every entry in the index file you are given and return your findings as JSON. For each entry you

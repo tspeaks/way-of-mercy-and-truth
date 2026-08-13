@@ -2,7 +2,7 @@
   "book": "Jonah",
   "translation": "World English Bible (public domain)",
   "status": "first pass",
-  "method_version": "0.3",
+  "method_version": "0.4",
   "text_source": "index/text/jonah.json",
   "note": "First indexed narrative book. Two method changes were forced by the genre. (1) A 'mode' field distinguishes a passage that prescribes a practice, one that exemplifies it, and one that shows its absence — Jonah teaches largely by counter-example, and a tag that could not say so would misrepresent the text. (2) The stricter practice test from the James review is applied throughout: a practice is tagged only where the passage prescribes or enacts it, never where it merely shares its subject matter.",
   "genre_note": "Narrative. Pericopes are scenes rather than arguments, and the protagonist is a negative exemplar for most of the book. Entries tagged counter-example are still real anchors: the curriculum uses failure as instruction throughout, and Jonah is the canon's most sustained portrait of a man who holds correct doctrine and refuses the mercy that follows from it.",
@@ -10,9 +10,15 @@
     {
       "ref": "Jonah 1:1-3",
       "pericope": "The call, and the flight to Tarshish",
-      "pillars": ["truth"],
-      "stages": ["S1"],
-      "chapters": ["C01"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
       "practices": [],
       "mode": "counter-example",
       "connection": "The Two Ways presented as a single decision made in one direction. Nothing is argued and nothing is denied — Jonah simply goes the other way, which is how the Way of Death is described in C01: not dramatic apostasy but a movement no single day ever contains.",
@@ -22,21 +28,36 @@
     {
       "ref": "Jonah 1:4-6",
       "pericope": "The storm, and the sleeper below deck",
-      "pillars": ["humility"],
-      "stages": ["S5"],
-      "chapters": ["C20"],
-      "practices": [],
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
       "mode": "counter-example",
       "connection": "The one man aboard who knows the cause of the storm is asleep in the hold while everyone else prays. Watchfulness is defined here by its absence, and it takes a pagan captain to issue the summons.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR12 added at review. The entry already argued that Watchfulness is defined here by its absence, then recorded no tag for it — an inconsistency in the drafter's own method, since Jonah 4:1-3 carried PR15 on exactly that reasoning."
     },
     {
       "ref": "Jonah 1:7-10",
       "pericope": "The lot falls; Jonah confesses the God he is fleeing",
-      "pillars": ["truth"],
-      "stages": ["S3"],
-      "chapters": ["C12"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C12"
+      ],
       "practices": [],
       "mode": "counter-example",
       "connection": "He states his theology accurately — the God who made the sea and the dry land — while in flight across that same sea. The most compact demonstration in Scripture of the claim C12 makes: that assent is not the evidence, and confession without corresponding movement proves nothing.",
@@ -46,9 +67,16 @@
     {
       "ref": "Jonah 1:11-16",
       "pericope": "The sailors row hard before they throw him over",
-      "pillars": ["mercy"],
-      "stages": ["S4"],
-      "chapters": ["C16", "C17"],
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C17"
+      ],
       "practices": [],
       "mode": "exemplifies",
       "connection": "The pagan crew tries to save the man whose disobedience is drowning them, and grieves before acting. Mercy is shown by the outsiders while the prophet supplies only a correct diagnosis, which reverses the assumed direction of moral competence.",
@@ -58,9 +86,15 @@
     {
       "ref": "Jonah 1:17",
       "pericope": "The great fish",
-      "pillars": ["mercy"],
-      "stages": ["S5"],
-      "chapters": ["C19"],
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
       "practices": [],
       "mode": "exemplifies",
       "connection": "The instrument of rescue arrives looking exactly like the instrument of death. C19's claim that the way home is a door rather than a wall, given in the least reassuring form available.",
@@ -70,10 +104,21 @@
     {
       "ref": "Jonah 2:1-6",
       "pericope": "The prayer out of the fish's belly",
-      "pillars": ["truth", "humility"],
-      "stages": ["S3", "S5"],
-      "chapters": ["C09", "C19"],
-      "practices": ["PR08"],
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C09",
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
       "mode": "exemplifies",
       "connection": "Lament offered from inside the consequence, without any request that the consequence be lifted. It names the depths, the waters, and the weeds in full, which is the honesty Sacred Lament requires and the reason the practice is not the same as complaint.",
       "confidence": "high",
@@ -82,10 +127,18 @@
     {
       "ref": "Jonah 2:7",
       "pericope": "When my soul fainted, I remembered Yahweh",
-      "pillars": ["humility"],
-      "stages": ["S5"],
-      "chapters": ["C19"],
-      "practices": ["PR11"],
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR11"
+      ],
       "mode": "exemplifies",
       "connection": "Remembrance arrives at the point of collapse rather than before it. The Failure Recovery Protocol turns on exactly this: that the return is available after the fall, and is often not available earlier.",
       "confidence": "high",
@@ -94,9 +147,16 @@
     {
       "ref": "Jonah 2:8-10",
       "pericope": "Those who regard lying vanities forsake their own mercy",
-      "pillars": ["truth"],
-      "stages": ["S4", "S6"],
-      "chapters": ["C18"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C18"
+      ],
       "practices": [],
       "mode": "prescribes",
       "connection": "Attachment to what is empty is described as forfeiting a mercy already held out. Holy Detachment argued as loss rather than as discipline, which is the more accurate and less flattering form of the argument.",
@@ -106,10 +166,18 @@
     {
       "ref": "Jonah 3:1-3",
       "pericope": "The word came to Jonah the second time",
-      "pillars": ["mercy"],
-      "stages": ["S5"],
-      "chapters": ["C19"],
-      "practices": ["PR11"],
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR11"
+      ],
       "mode": "exemplifies",
       "connection": "The identical commission, reissued without alteration, reproach, or probation. This is the message of the second chance that C19 draws from Hermas, and it stands here in the Hebrew Scriptures with no conditions attached to it.",
       "confidence": "high",
@@ -118,9 +186,15 @@
     {
       "ref": "Jonah 3:4-5",
       "pericope": "Eight words of preaching, and a city believes",
-      "pillars": ["truth"],
-      "stages": ["S2"],
-      "chapters": ["C08"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
       "practices": [],
       "mode": "exemplifies",
       "connection": "The shortest recorded sermon produces the largest recorded repentance, delivered by a man who wants it to fail. The fruit test of C08 applied to the message rather than to the messenger, and they come apart completely.",
@@ -130,22 +204,42 @@
     {
       "ref": "Jonah 3:6-9",
       "pericope": "The king leaves the throne for ashes",
-      "pillars": ["humility"],
-      "stages": ["S4"],
-      "chapters": ["C16"],
-      "practices": ["PR25"],
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [
+        "PR03",
+        "PR08"
+      ],
       "mode": "exemplifies",
-      "connection": "The man with the most to lose in status descends first and furthest — off the throne, out of the robe, into the ashes — and the city follows from greatest to least. Deferential Seating enacted at the scale of a state.",
+      "connection": "The man with the most status to lose descends first and furthest, and the city follows from greatest to least. The decree names the evil way and the violence in their hands outright, which is corporate self-accusation, and clothes it in fasting and ashes.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR25 removed at review and PR03, PR08 substituted — the reviewer was right that Deferential Seating concerns placement in an assembly, not penitential ritual. C18 declined: the robe comes off as mourning dress, which the text frames penitentially rather than as detachment practiced as a discipline."
     },
     {
       "ref": "Jonah 3:10",
       "pericope": "God relented of the disaster",
-      "pillars": ["mercy"],
-      "stages": ["S1", "S5"],
-      "chapters": ["C03", "C19"],
-      "practices": ["PR29"],
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C03",
+        "C19"
+      ],
+      "practices": [
+        "PR29"
+      ],
       "mode": "exemplifies",
       "connection": "What God saw was their works, not their sackcloth. Merciful Reintegration performed by God toward a foreign empire, which sets the ceiling for how far the practice is meant to reach.",
       "confidence": "high",
@@ -154,10 +248,19 @@
     {
       "ref": "Jonah 4:1-3",
       "pericope": "Jonah is angry that God is merciful",
-      "pillars": ["mercy", "humility"],
-      "stages": ["S7"],
-      "chapters": ["C27"],
-      "practices": ["PR15"],
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [
+        "PR15"
+      ],
       "mode": "counter-example",
       "connection": "He recites the mercy formula of Exodus 34:6 correctly and offers it as his grievance — he fled because he knew God would forgive. Harshness exposed as a doctrinally literate position, which is why Shedding Harshness is placed as late in the road as it is.",
       "confidence": "high",
@@ -166,10 +269,18 @@
     {
       "ref": "Jonah 4:4",
       "pericope": "Is it right for you to be angry?",
-      "pillars": ["truth"],
-      "stages": ["S1"],
-      "chapters": ["C04"],
-      "practices": ["PR01"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C04"
+      ],
+      "practices": [
+        "PR01"
+      ],
       "mode": "prescribes",
       "connection": "God conducts the Moral Audit by asking a single question and then waiting. No accusation is made and no verdict is given; the man is simply required to look. The practice in its purest form, administered from outside.",
       "confidence": "high",
@@ -178,9 +289,16 @@
     {
       "ref": "Jonah 4:5-8",
       "pericope": "The booth, the vine, and the worm",
-      "pillars": ["humility"],
-      "stages": ["S4", "S6"],
-      "chapters": ["C18"],
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C18"
+      ],
       "practices": [],
       "mode": "counter-example",
       "connection": "A man who felt nothing for a city grieves violently over a plant that shaded his head for a day. Disordered attachment made visible by scale, which is the diagnostic Holy Detachment depends on.",
@@ -190,14 +308,37 @@
     {
       "ref": "Jonah 4:9-11",
       "pericope": "Should I not be concerned for that great city?",
-      "pillars": ["mercy"],
-      "stages": ["S7"],
-      "chapters": ["C27", "C29"],
-      "practices": ["PR15"],
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C29"
+      ],
+      "practices": [
+        "PR15"
+      ],
       "mode": "prescribes",
       "connection": "The book ends on a question about the reach of concern and records no answer, leaving the reader to supply one. The widening circle of C27 argued by arithmetic — one vine against a hundred and twenty thousand people who cannot tell their right hand from their left.",
       "confidence": "high",
       "prior": false
     }
-  ]
+  ],
+  "review_log": [
+    {
+      "pass": 2,
+      "reviewer": "second model (Gemini Spark)",
+      "verdicts": {
+        "sound": 14,
+        "understated": 1,
+        "overreach": 1
+      },
+      "record": "index/reviews/jonah-pass2.json",
+      "adjudication": "1 accepted in full, 1 accepted in part. The understated flag exposed an inconsistency in the drafter's own handling of counter-example entries; see method_rule below."
+    }
+  ],
+  "method_rule": "A counter-example entry carries the practice tag whose absence the passage demonstrates. The mode field exists so that a negative anchor can be recorded honestly; leaving practices empty on counter-examples defeats it and hides real anchors."
 }

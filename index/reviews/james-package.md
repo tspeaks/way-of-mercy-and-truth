@@ -163,13 +163,11 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** Where the Moral Audit ends, and the reason it is survivable. Also the hinge under Merciful Reintegration — judgment is not abolished, it is outranked.
 
-**Tags.** pillars: mercy · stages: S1, S5 · chapters: C03, C04, C19 · practices: PR01 · confidence: high
+**Tags.** pillars: mercy · stages: S1, S5 · chapters: C03, C04, C19 · practices: PR01, PR29 · confidence: high
 
 **Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
 
-**Author placed** — settled by the author. Note disagreement if you have it, but do not propose a change.
-
-**Amended at review** — Removed on audit and confirmed by the author. PR29 is receiving the repentant back without lingering probation; mercy triumphing over judgment is the principle beneath that act, not the act.
+**Amended at review** — Questioned on audit and retained. PR29 is receiving the repentant back without lingering probation, while mercy triumphing over judgment states the principle beneath that act. The tag stands; the tension is recorded here rather than resolved by deletion, so a later reader can weigh it against the passage.
 
 ---
 
@@ -356,11 +354,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** Judging a neighbor recast as judging the law itself — an argument from standing rather than from kindness. Grounds Covering Weakness and the sequence discipline of Self-Accusation.
 
-**Tags.** pillars: mercy, humility · stages: S4, S5 · chapters: C15, C22 · practices: none · confidence: high
+**Tags.** pillars: mercy, humility · stages: S4, S5 · chapters: C15, C22 · practices: PR03 · confidence: high
 
-**Author placed** — settled by the author. Note disagreement if you have it, but do not propose a change.
-
-**Amended at review** — Removed on audit and confirmed by the author. PR03 is looking at your own portion first in any friction; this passage concerns the standing to judge at all.
+**Amended at review** — Questioned on audit and retained. PR03 is looking at your own portion first in any friction, while this passage argues from the standing to judge at all. The tag stands; the tension is recorded here rather than resolved by deletion, so a later reader can weigh it against the passage.
 
 ---
 

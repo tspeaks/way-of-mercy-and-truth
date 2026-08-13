@@ -145,11 +145,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** The man with the most status to lose descends first and furthest, and the city follows from greatest to least. The decree names the evil way and the violence in their hands outright, which is corporate self-accusation, and clothes it in fasting and ashes.
 
-**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S4 · chapters: C16 · practices: PR03 · confidence: high
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S4 · chapters: C16 · practices: PR03, PR08 · confidence: high
 
-**Author placed** — settled by the author. Note disagreement if you have it, but do not propose a change.
-
-**Amended at review** — Removed on audit and confirmed by the author. PR08 is grief and confusion expressed honestly before God; Nineveh's sackcloth is repentance, which is a different movement. The tag was added on a reviewer's suggestion and accepted without checking the definition.
+**Amended at review** — Questioned on audit and retained. PR08 is grief and confusion expressed honestly before God, while Nineveh's sackcloth is penitential. The tag stands; the tension is recorded here rather than resolved by deletion, so a later reader can weigh it against the passage.
 
 ---
 

@@ -1,0 +1,6 @@
+{"scope":"pericope entries only (30 of 42); cluster entries not reviewed in this pass",
+ "verdicts":{"sound":29,"overreach":1},
+ "flagged":[{"ref":"Proverbs 6:6-11","verdict":"overreach",
+   "note":"Tagging PR20 fails the strict practice test. The ant's unprompted diligence illustrates Ordinary Faithfulness (C13), not setting aside routine to perform mercy.",
+   "suggested_change":{"chapters":["C13"],"practices":[]},
+   "adjudication":"Accepted in full. The reviewer was right and the cause was worse than a judgment call: the tag had been assigned from the practice's name without checking its definition in WMT A1. The identical error was then found and corrected in the 'Diligence and the sluggard' cluster, which was outside this review's scope."}]}

@@ -44,18 +44,41 @@ at the Gate · C21 The Physician's Manual · C22 The Quiet Soul · C23 The Hidde
 C24 The Landscape of Wonder · C25 The Architecture of Growth · C26 The Temple of Light ·
 C27 The Ocean · C28 The Liturgy of the Ordinary · C29 The Fully Formed Heart
 
-**Thirty practices (PR01–PR30):**
+**Thirty practices.** Each name compresses a specific patristic teaching, and several do
+not survive being read at face value — tag from the definition, never from the name.
 
-PR01 The Moral Audit · PR02 Interior Diagnosis · PR03 Self-Accusation · PR04 The
-Discipline of Unknowing · PR05 Habitual Almsgiving · PR06 Non-Retaliation · PR07 The
-Daily Anchors · PR08 Sacred Lament · PR09 The Architecture of Peace · PR10 The
-Citizen-Stranger · PR11 The Failure Recovery Protocol · PR12 Watchfulness · PR13 The
-Hidden Life · PR14 The Discipline of Gradualism · PR15 Shedding Harshness · PR16
-Listening as Mercy · PR17 Covering Weakness · PR18 Absorbing the Blow · PR19
-Spontaneous Service · PR20 The Sacrifice of Routine · PR21 Verbal Almsgiving · PR22
-Unreciprocated Care · PR23 The Sacrament of the Ordinary · PR24 The Compass · PR25
-Deferential Seating · PR26 Unobligated Loyalty · PR27 Virtue Construction · PR28 The
-Heavenly Palace · PR29 Merciful Reintegration · PR30 The Secret Rhythmic Devotion
+| id | name | what it is |
+|---|---|---|
+| PR01 | The Moral Audit | A rigorous self-examination drawn from the letter of James, testing whether you are a doer of the word… |
+| PR02 | Interior Diagnosis | Cassian's method: tracing a visible failure back to the root that produced it, rather than treating the… |
+| PR03 | Self-Accusation | Dorotheos of Gaza's discipline: in any friction, looking at your own portion before assigning anyone else's |
+| PR04 | The Discipline of Unknowing | Ephrem's posture: the disciplined recognition that reality exceeds your grasp of it |
+| PR05 | Habitual Almsgiving | The regular, disciplined sharing of resources with the poor, the stranger, and the afflicted — a rhythm… |
+| PR06 | Non-Retaliation | The refusal to return evil for evil — in action, in speech, and in the small retaliations we barely… |
+| PR07 | The Daily Anchors | This is the practice that carries the most weight over a lifetime, and it costs perhaps five minutes a day |
+| PR08 | Sacred Lament | The honest expression of grief and confusion before God, without abandoning hope and without demanding… |
+| PR09 | The Architecture of Peace | Clement's approach to conflict: aiming at restoration rather than victory |
+| PR10 | The Citizen-Stranger | The posture of Diognetus: full participation in ordinary society while remaining anchored elsewhere |
+| PR11 | The Failure Recovery Protocol | This is the practice that preserves every other practice |
+| PR12 | Watchfulness | The desert discipline of nepsis: sustained attention to the movements of the heart, before they harden… |
+| PR13 | The Hidden Life | Aphrahat's teaching: steady, unglamorous, secret faithfulness |
+| PR14 | The Discipline of Gradualism | The Book of Steps' medicine for impatience: growth unfolds over a lifetime and cannot be hurried |
+| PR15 | Shedding Harshness | Isaac of Nineveh's summit: the widening of the circle of concern until no one stands outside it |
+| PR16 | Listening as Mercy | Give full, undivided attention before correcting or concluding |
+| PR17 | Covering Weakness | Modeled by the Desert Fathers: when someone's mistake would cause them deep public embarrassment, do not… |
+| PR18 | Absorbing the Blow | Dorotheos's teaching: view an angry person as someone suffering under their passions rather than as your… |
+| PR19 | Spontaneous Service | Pause your own work to help someone finish theirs |
+| PR20 | The Sacrifice of Routine | When a guest arrives, let hospitality override your personal discipline |
+| PR21 | Verbal Almsgiving | Dorotheos again: those without material wealth can still give alms through words |
+| PR22 | Unreciprocated Care | Bear with peevish, complaining, or ungrateful behavior from those you are helping |
+| PR23 | The Sacrament of the Ordinary | Locate the highest expression of this road in the least glamorous settings: loving patiently as a parent,… |
+| PR24 | The Compass | Dorotheos's image: the world as a circle, God at the center, human beings scattered on the circumference |
+| PR25 | Deferential Seating | From the Didascalia: in any gathering, watch for the poor, the elderly, the stranger |
+| PR26 | Unobligated Loyalty | The Ruth principle: fidelity to a person or community during a season of grief or difficulty, when you are… |
+| PR27 | Virtue Construction | Dorotheos's house of virtues: treat each friction as the specific material needed |
+| PR28 | The Heavenly Palace | From the Acts of Thomas: when a household or community comes into surplus, resist the pull toward… |
+| PR29 | Merciful Reintegration | From the Didascalia: receive the repentant back without lingering shame or permanent probation |
+| PR30 | The Secret Rhythmic Devotion | The Didache instructs those on the Way to pray the Lord's Prayer three times a day |
 
 **Two commitments that constrain this work:**
 

@@ -2,7 +2,7 @@
   "book": "Proverbs",
   "translation": "World English Bible (public domain)",
   "status": "chapters 1-9 (pericopes) and 10-29 (clusters); 30-31 pending",
-  "method_version": "0.5",
+  "method_version": "0.6",
   "text_source": "index/text/proverbs.json",
   "note": "Covers the nine discourse chapters. Chapters 10-29 are collections of independent couplets and do not submit to a pericope schema at all; see structural_note. Chapters 30-31 (Agur, Lemuel, the acrostic) are discourse-shaped and can be indexed on this pattern, but are held until the couplet question is settled so the whole book is finished under one method rather than two.",
   "structural_note": "Proverbs 1-9 is continuous instruction — a father to a son, and Wisdom calling in the street — and indexes exactly like James or Jonah. Proverbs 10-29 is roughly 600 free-standing couplets in no narrative or argumentative order. Indexed at the density used for the first two books, that section alone would produce several hundred single-verse entries, most of them near-duplicates, and the index would become longer and less usable than the text it serves. That section needs a cluster entry — one entry gathering non-contiguous verses on a single theme — which the current schema cannot express, since it assumes one contiguous range per entry. That is a real decision about what the index is, not a formatting detail, and it is left open here deliberately.",
@@ -407,13 +407,12 @@
       "chapters": [
         "C13"
       ],
-      "practices": [
-        "PR20"
-      ],
+      "practices": [],
       "mode": "exemplifies",
-      "connection": "The ant works without chief, overseer, or ruler, and the poverty arrives by increments of a little slumber. The Sacrifice of Routine grounded in unsupervised faithfulness, which is precisely what C13 means by ordinary.",
+      "connection": "The ant works without chief, overseer, or ruler, and poverty arrives by increments of a little slumber. Ordinary Faithfulness in its plainest form: work that no one is watching and no one will praise.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR20 removed at review. The reviewer was right and the error was the drafter's: PR20 is breaking a routine for a guest, not keeping one unsupervised. The tag was assigned from the practice's name without checking its definition."
     },
     {
       "ref": "Proverbs 6:12-19",
@@ -762,12 +761,13 @@
         "C13"
       ],
       "practices": [
-        "PR20"
+        "PR13"
       ],
       "mode": "prescribes",
-      "connection": "Steady unremarkable work set against the sluggard, who is portrayed as wise in his own eyes and hinged to his bed. Ordinary Faithfulness given its negative image, and the failure is comic rather than dramatic.",
+      "connection": "Steady unremarkable work set against the sluggard, who is portrayed as wise in his own eyes and hinged to his bed. The Hidden Life in its ordinary register — faithfulness no one supervises and no one applauds.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR20 removed. The same name-not-definition error corrected in Proverbs 6:6-11 had been repeated here; the cluster section was outside the reviewer's scope, so nothing external caught it. PR13 substituted, which the definition supports."
     },
     {
       "kind": "cluster",
@@ -992,5 +992,19 @@
       "prior": false
     }
   ],
-  "schema_note": "Two entry kinds. A pericope entry has a single contiguous 'ref'. A cluster entry has 'kind':'cluster' and a 'refs' array of non-contiguous verses gathered by theme, used for the aphorism collections where couplets on one subject are scattered across twenty chapters. A cluster claims thematic coverage, not verse coverage: verses not gathered into any cluster are not thereby judged to anchor nothing."
+  "schema_note": "Two entry kinds. A pericope entry has a single contiguous 'ref'. A cluster entry has 'kind':'cluster' and a 'refs' array of non-contiguous verses gathered by theme, used for the aphorism collections where couplets on one subject are scattered across twenty chapters. A cluster claims thematic coverage, not verse coverage: verses not gathered into any cluster are not thereby judged to anchor nothing.",
+  "review_log": [
+    {
+      "pass": 2,
+      "reviewer": "second model (Gemini Spark)",
+      "scope": "the 30 pericope entries only; the 12 cluster entries were not reviewed",
+      "verdicts": {
+        "sound": 29,
+        "overreach": 1
+      },
+      "record": "index/reviews/proverbs-pass2.json",
+      "adjudication": "1 accepted in full. The flag exposed that the drafter had been assigning practice tags from practice names rather than from their definitions in WMT A1; see method_rule."
+    }
+  ],
+  "method_rule": "Practice tags are assigned from the definition in the Praxis Appendix, never from the practice's name. PR20 (The Sacrifice of Routine) means breaking one's routine for a guest — the routine is what is given up. Read from the name alone it appears to mean the opposite, and was tagged that way. Every practice name in this curriculum is a compression of a specific patristic teaching and several do not survive being read at face value."
 }

@@ -123,7 +123,15 @@ def check(path):
             total_have += have
             total_want += want
             gaps = sorted(set(range(1, want + 1)) - {v for (c, v) in seen if c == ch})
-            gap_s = f"  uncovered: {gaps}" if gaps else ""
+            if have == 0:
+                print(f"  ch{ch}: not indexed")
+                continue
+            if gaps:
+                shown = ", ".join(str(g) for g in gaps[:12])
+                more = f" (+{len(gaps)-12} more)" if len(gaps) > 12 else ""
+                gap_s = f"  uncovered: {shown}{more}"
+            else:
+                gap_s = ""
             print(f"  ch{ch}: {have}/{want}{gap_s}")
         print(f"  total: {total_have}/{total_want}")
 

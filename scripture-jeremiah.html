@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0C0B08">
+<title>Jeremiah — Scripture Index — The Way of Mercy and Truth</title>
+<meta name="description" content="Every passage of Jeremiah mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta property="og:type" content="book">
+<meta property="og:title" content="Jeremiah — Scripture Index — The Way of Mercy and Truth">
+<meta property="og:description" content="Every passage of Jeremiah mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%230C0B08%27/%3E%3Cpath d=%27M16 6 L16 26 M9 13 H23%27 stroke=%27%23C9A227%27 stroke-width=%272.6%27 stroke-linecap=%27round%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0C0B08; --bg-raised:#15140F;
+  --gold:#C9A227; --gold-bright:#E3C158; --gold-pale:#EADFC4; --gold-dim:#8A7327;
+  --text:#E4DCC6; --text-soft:#BFB49A; --text-muted:#8A8069;
+  --truth:#7FA9B5; --mercy:#C4795F; --spec:#9C8AB2;
+  --rule:rgba(201,162,39,0.22); --rule-strong:rgba(201,162,39,0.45);
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 10px 30px rgba(0,0,0,.35);
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0;
+  color:var(--text);
+  background-color:var(--bg);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(201,162,39,.07), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 110%, rgba(201,162,39,.05), transparent 70%);
+  background-attachment:fixed;
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-color:rgba(201,162,39,.45);text-underline-offset:3px;}
+a:hover{color:var(--gold-bright);text-decoration-color:var(--gold-bright);}
+:focus-visible{outline:2px solid var(--gold-bright);outline-offset:3px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule-strong);}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Cormorant Garamond','Iowan Old Style',Georgia,serif;font-weight:600;}
+
+.rule-orn{display:flex;align-items:center;gap:14px;margin:0;color:var(--gold-dim);}
+.rule-orn::before,.rule-orn::after{content:"";height:1px;flex:1;
+  background:linear-gradient(90deg,transparent,var(--rule-strong),transparent);}
+.rule-orn span{font-size:13px;letter-spacing:.3em;}
+
+.setup{background:rgba(196,121,95,.14);border-bottom:1px solid var(--rule-strong);
+  color:var(--gold-pale);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(201,162,39,.18);padding:1px 6px;font-size:13px;color:var(--gold-bright);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:62px 0 44px;text-align:center;}
+header.masthead::after{content:"";display:block;height:1px;margin-top:38px;
+  background:linear-gradient(90deg,transparent,var(--rule-strong) 20%,var(--rule-strong) 80%,transparent);}
+.crest{width:64px;height:64px;margin:0 auto 22px;display:block;color:var(--gold);opacity:.92;}
+.kicker{font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 16px;}
+h1.title{font-size:clamp(34px,9vw,58px);line-height:1.04;margin:0 0 12px;color:var(--gold-pale);
+  font-weight:600;letter-spacing:.005em;}
+.subtitle{font-size:clamp(15px,3.4vw,18px);color:var(--text-soft);font-style:italic;
+  margin:0 auto 30px;max-width:44ch;}
+blockquote.epigraph{margin:0 auto 30px;padding:20px 24px;max-width:52ch;
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  font-size:clamp(15.5px,3.4vw,18px);color:var(--text-soft);line-height:1.5;font-style:italic;}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;justify-content:center;}
+.badge{font-size:11px;letter-spacing:.08em;padding:5px 11px;text-transform:uppercase;
+  border:1px solid var(--rule);color:var(--text-muted);background:rgba(201,162,39,.05);white-space:nowrap;}
+.badge.gold{border-color:var(--rule-strong);color:var(--gold);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;}
+.btn{display:inline-block;padding:14px 26px;text-decoration:none;font-size:15px;font-weight:600;
+  letter-spacing:.02em;border:1px solid var(--gold-dim);background:transparent;color:var(--gold);min-height:44px;}
+.btn:hover{background:rgba(201,162,39,.1);border-color:var(--gold);color:var(--gold-bright);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#100E08;}
+.btn.primary:hover{background:var(--gold-bright);border-color:var(--gold-bright);color:#100E08;}
+
+section{padding:50px 0;}
+section + section{border-top:1px solid var(--rule);}
+h2.sec{font-size:clamp(23px,5vw,30px);margin:0 0 8px;color:var(--gold-pale);font-weight:600;}
+.section-note{color:var(--text-soft);margin:0 0 26px;max-width:62ch;}
+
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--rule);padding:19px 21px;box-shadow:var(--shadow);}
+.card .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 9px;}
+.card p{margin:0;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:11px 0 0;padding-top:11px;border-top:1px solid var(--rule);}
+
+.pull{background:rgba(201,162,39,.06);border-top:2px solid var(--gold-dim);
+  border-bottom:2px solid var(--gold-dim);padding:24px 26px;margin:30px 0 0;}
+.pull p{margin:0;font-size:clamp(16.5px,3.5vw,19px);line-height:1.45;color:var(--gold-pale);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:12px;letter-spacing:.05em;font-style:italic;}
+
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:26px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--rule);padding:18px 14px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;display:block;
+  margin-bottom:5px;color:var(--gold-pale);letter-spacing:.06em;}
+.pillar span{font-size:13px;color:var(--text-muted);}
+.pillar.t{border-top:2px solid var(--truth);}
+.pillar.h{border-top:2px solid var(--gold);}
+.pillar.m{border-top:2px solid var(--mercy);}
+
+.stage{border:1px solid var(--rule);background:var(--bg-raised);margin-bottom:12px;box-shadow:var(--shadow);}
+.stage summary{cursor:pointer;padding:17px 19px;list-style:none;display:flex;gap:15px;
+  align-items:center;min-height:44px;}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(201,162,39,.06);}
+.stage .snum{flex:none;width:34px;height:34px;border-radius:50%;background:transparent;
+  border:1px solid var(--gold-dim);color:var(--gold);display:inline-flex;align-items:center;
+  justify-content:center;font-size:14px;font-weight:600;}
+.stage[open] .snum{background:var(--gold);color:#100E08;border-color:var(--gold);}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;
+  font-weight:600;color:var(--gold-pale);letter-spacing:.05em;}
+.stage .sname span{display:block;font-size:14px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:11px;letter-spacing:.06em;}
+.stage .body{padding:4px 19px 17px;border-top:1px solid var(--rule);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li + li{border-top:1px solid var(--rule);}
+ol.chapters a{display:flex;gap:12px;align-items:baseline;padding:13px 2px;text-decoration:none;
+  color:var(--text);min-height:44px;}
+ol.chapters a:hover{color:var(--gold-bright);}
+ol.chapters .cid{flex:none;font-size:11px;color:var(--text-muted);width:42px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:14px;font-size:14px;}
+
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--rule);box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:16px 19px;text-decoration:none;color:var(--text);min-height:44px;}
+ul.linklist a:hover{background:rgba(201,162,39,.06);}
+ul.linklist .lt{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:19px;
+  display:block;color:var(--gold-pale);letter-spacing:.03em;}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:4px;}
+.flag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;margin-left:9px;
+  vertical-align:2px;white-space:nowrap;border:1px solid;}
+.flag.partial{border-color:var(--gold-dim);color:var(--gold);}
+.flag.speculative{border-color:var(--spec);color:var(--spec);}
+
+.warn{border:1px solid var(--rule);border-left:3px solid var(--mercy);
+  background:rgba(196,121,95,.07);padding:22px 24px;}
+.warn h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;margin:0 0 10px;
+  color:var(--mercy);letter-spacing:.02em;}
+.warn p{margin:0 0 11px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+.license{background:var(--bg-raised);border:1px solid var(--rule);padding:24px 26px;}
+.license .big{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:600;
+  margin:0 0 12px;color:var(--gold-pale);letter-spacing:.03em;}
+.license ul{margin:0 0 14px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:6px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+footer{padding:36px 0 64px;font-size:13px;color:var(--text-muted);
+  border-top:1px solid var(--rule);margin-top:20px;}
+footer p{margin:0 0 7px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+/* ================= reading pages ================= */
+.topbar{position:sticky;top:0;z-index:20;background:rgba(12,11,8,.94);
+  border-bottom:1px solid var(--rule);}
+@supports ((backdrop-filter:blur(8px)) or (-webkit-backdrop-filter:blur(8px))){
+  .topbar{-webkit-backdrop-filter:saturate(140%) blur(8px);backdrop-filter:saturate(140%) blur(8px);}
+}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:50px;}
+.topbar a.home{font-size:13.5px;text-decoration:none;color:var(--gold);white-space:nowrap;}
+.topbar .where{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.progress{height:2px;}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold-dim),var(--gold));}
+
+article{max-width:680px;margin:0 auto;padding:44px 22px 0;}
+.doc-head{margin-bottom:38px;padding-bottom:26px;border-bottom:1px solid var(--rule);text-align:center;}
+.doc-kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 14px;}
+.doc-title{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,7vw,44px);
+  line-height:1.1;margin:0;font-weight:600;color:var(--gold-pale);letter-spacing:.01em;}
+.doc-sub{font-size:15px;color:var(--truth);margin:12px 0 0;font-style:italic;}
+.doc-meta{font-size:12px;color:var(--text-muted);margin:14px 0 0;letter-spacing:.06em;}
+
+.doc-body{font-size:18px;line-height:1.75;color:var(--text);}
+.doc-body p{margin:0 0 1.25em;}
+.doc-body > p:first-of-type::first-letter{float:left;font-family:'Cormorant Garamond',Georgia,serif;
+  font-size:3.4em;line-height:.82;padding:.06em .1em 0 0;color:var(--gold);font-weight:600;}
+.doc-body h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;font-weight:600;
+  margin:2em 0 .7em;color:var(--gold-pale);letter-spacing:.03em;}
+.doc-body h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;font-weight:600;
+  margin:1.9em 0 .6em;color:var(--gold);letter-spacing:.03em;}
+blockquote.scripture{margin:1.7em 0;padding:16px 0 16px 22px;border-left:2px solid var(--gold-dim);
+  background:rgba(201,162,39,.04);}
+blockquote.scripture p{margin:0;font-style:italic;color:var(--gold-pale);font-size:17px;line-height:1.6;}
+blockquote.scripture cite{display:block;margin-top:9px;font-style:normal;font-size:12.5px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+
+.docnav{max-width:680px;margin:56px auto 0;padding:0 22px 70px;}
+.docnav .orn{margin-bottom:26px;}
+.navgrid{display:grid;grid-template-columns:1fr;gap:12px;}
+@media (min-width:560px){ .navgrid{grid-template-columns:1fr 1fr;} }
+.nav-btn{display:block;padding:17px 20px;border:1px solid var(--rule);text-decoration:none;
+  background:var(--bg-raised);min-height:44px;}
+.nav-btn:hover{background:rgba(201,162,39,.07);border-color:var(--gold-dim);}
+.nav-btn .nav-label{display:block;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--gold-dim);margin-bottom:5px;}
+.nav-btn .nav-title{display:block;font-size:15.5px;color:var(--text);line-height:1.3;}
+.nav-btn:hover .nav-title{color:var(--gold-bright);}
+.nav-btn.next{text-align:right;}
+.nav-btn.disabled{opacity:.42;}
+.nav-hub{text-align:center;margin-top:20px;font-size:13.5px;}
+.kbd-hint{text-align:center;margin-top:14px;font-size:11.5px;color:var(--text-muted);letter-spacing:.05em;}
+@media (hover:none){ .kbd-hint{display:none;} }
+
+.notfound{text-align:center;padding:90px 22px;}
+.notfound h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,8vw,46px);
+  color:var(--gold-pale);margin:0 0 14px;font-weight:600;}
+.notfound p{color:var(--text-soft);max-width:44ch;margin:0 auto 26px;}
+
+@media print{
+  body{background:#fff;color:#000;}
+  .topbar,.docnav,.skip,.setup,footer,.kbd-hint{display:none !important;}
+  article{max-width:none;padding:0;}
+  .doc-title,.doc-body h2,.doc-body h3{color:#000;}
+  .doc-body{font-size:12pt;}
+  blockquote.scripture{border-left:2px solid #999;background:none;}
+  blockquote.scripture p{color:#222;}
+  a{color:#000;text-decoration:none;}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<style>
+.entry{border-top:1px solid var(--rule);padding:34px 0;}
+.entry:first-of-type{border-top:0;}
+.entry-ref{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 6px;}
+.entry-name{font-family:'Cormorant Garamond',Georgia,serif;font-size:25px;font-weight:600;
+  color:var(--gold-pale);margin:0 0 18px;letter-spacing:.02em;}
+.passage{border-left:2px solid var(--gold-dim);padding:4px 0 4px 20px;margin:0 0 20px;
+  background:rgba(201,162,39,.04);}
+.passage p{margin:0 0 .7em;font-size:17px;line-height:1.65;color:var(--gold-pale);font-style:italic;}
+.passage p:last-child{margin-bottom:0;}
+.passage .vn{font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:10.5px;
+  color:var(--text-muted);vertical-align:3px;margin-right:5px;}
+.conn{font-size:16.5px;line-height:1.6;color:var(--text);margin:0 0 16px;}
+.tags{display:flex;flex-wrap:wrap;gap:7px;align-items:center;}
+.tag{font-size:11px;letter-spacing:.06em;padding:4px 10px;border:1px solid var(--rule);
+  color:var(--text-soft);text-decoration:none;white-space:nowrap;}
+a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
+.tag.pillar{text-transform:uppercase;letter-spacing:.12em;}
+.tag.pillar.t{border-color:var(--truth);color:var(--truth);}
+.tag.pillar.m{border-color:var(--mercy);color:var(--mercy);}
+.tag.pillar.h{border-color:var(--gold);color:var(--gold);}
+.tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
+.tag.corrected{border-color:var(--gold);color:var(--gold);}
+.tag.reviewed{border-color:var(--truth);color:var(--truth);}
+.passage.cluster p{font-style:normal;color:var(--text);}
+.passage.cluster .cref{color:var(--gold-dim);font-size:10.5px;margin-right:9px;vertical-align:2px;}
+.cluster-note{font-size:12px;color:var(--text-muted);letter-spacing:.06em;margin:0 0 12px;font-style:italic;}
+.entry-ref.cluster-label{color:var(--gold);}
+.tag.kind{border-style:solid;border-color:var(--gold-dim);color:var(--gold);
+  text-transform:uppercase;letter-spacing:.12em;font-size:10px;}
+.tag.mode{text-transform:uppercase;letter-spacing:.12em;font-size:10px;border-style:dotted;}
+.tag.mode.prescribes{border-color:var(--gold);color:var(--gold);}
+.tag.mode.exemplifies{border-color:var(--truth);color:var(--truth);}
+.tag.mode.counter{border-color:var(--mercy);color:var(--mercy);}
+.booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
+.stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
+@media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
+.stat div{border:1px solid var(--rule);background:var(--bg-raised);padding:14px;text-align:center;}
+.stat b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;
+  color:var(--gold-pale);font-weight:600;}
+.stat span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+</style>
+<div class="topbar"><div class="wrap">
+<a class="home" href="index.html">✦ The Way of Mercy and Truth</a>
+<span class="where mono">Jeremiah · index</span>
+</div><div class="progress"><i></i></div></div>
+<main id="main"><article>
+<div class="doc-head">
+<p class="doc-kicker">Scripture Index</p>
+<h1 class="doc-title">Jeremiah</h1>
+<p class="doc-sub">World English Bible · public domain</p>
+<p class="doc-meta mono">22 passages · 138 of 1364 verses</p>
+</div>
+<div class="doc-body">
+<div class="entry">
+<p class="entry-ref">Jeremiah 1:4-10</p>
+<h2 class="entry-name">Before I formed you in the belly, I knew you</h2>
+<div class="passage">
+<p><span class="vn">4</span>Now the word of Yahweh came to me, saying,</p>
+<p><span class="vn">5</span>“Before I formed you in the belly, I knew you. Before you came forth out of the womb, I sanctified you. I have appointed you a prophet to the nations.”</p>
+<p><span class="vn">6</span>Then I said, “Ah, Lord Yahweh! Behold, I don’t know how to speak; for I am a child.”</p>
+<p><span class="vn">7</span>But Yahweh said to me, “Don’t say, ‘I am a child;’ for to whoever I shall send you, you shall go, and whatever I shall command you, you shall speak.</p>
+<p><span class="vn">8</span>Don’t be afraid because of them; for I am with you to deliver you,” says Yahweh.</p>
+<p><span class="vn">9</span>Then Yahweh put forth his hand, and touched my mouth; and Yahweh said to me, “Behold, I have put my words in your mouth.</p>
+<p><span class="vn">10</span>Behold, I have this day set you over the nations and over the kingdoms, to pluck up and to break down and to destroy and to overthrow, to build and to plant.”</p>
+</div>
+<p class="conn">The objection raised is inadequacy — I don't know how to speak, I am a child — and it is answered by removing the question of adequacy rather than by disputing it. Formation described as preceding the person's awareness of it, which is why C25 treats growth as something already underway before it is noticed.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c23.html">C23</a>
+<a class="tag" href="c25.html">C25</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 1:11-19</p>
+<h2 class="entry-name">What do you see? A branch of an almond tree</h2>
+<div class="passage">
+<p><span class="vn">11</span>Moreover the word of Yahweh came to me, saying, “Jeremiah, what do you see?” I said, “I see a branch of an almond tree.”</p>
+<p><span class="vn">12</span>Then Yahweh said to me, “You have seen well; for I watch over my word to perform it.”</p>
+<p><span class="vn">13</span>The word of Yahweh came to me the second time, saying, “What do you see?” I said, “I see a boiling caldron; and it is tipping away from the north.”</p>
+<p><span class="vn">14</span>Then Yahweh said to me, “Out of the north evil will break out on all the inhabitants of the land.</p>
+<p><span class="vn">15</span>For, behold, I will call all the families of the kingdoms of the north,” says Yahweh; “and they shall come, and they shall each set his throne at the entrance of the gates of Jerusalem, and against all its walls all around, and against all the cities of Judah.</p>
+<p><span class="vn">16</span>I will utter my judgments against them touching all their wickedness, in that they have forsaken me, and have burned incense to other gods, and worshiped the works of their own hands.</p>
+<p><span class="vn">17</span>“You therefore put your belt on your waist, arise, and speak to them all that I command you. Don’t be dismayed at them, lest I dismay you before them.</p>
+<p><span class="vn">18</span>For, behold, I have made you this day a fortified city, and an iron pillar, and bronze walls, against the whole land, against the kings of Judah, against its princes, against its priests, and against the people of the land.</p>
+<p><span class="vn">19</span>They will fight against you; but they will not prevail against you; for I am with you,” says Yahweh, “to deliver you.”</p>
+</div>
+<p class="conn">The prophet is asked twice what he sees and told he has seen well, before he is told anything. Perception trained by being questioned about the ordinary — a branch, a pot — rather than by being given a vision he could not have looked at himself.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c06.html">C06</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 2:1-8</p>
+<h2 class="entry-name">What unrighteousness have your fathers found in me?</h2>
+<div class="passage">
+<p><span class="vn">1</span>The word of Yahweh came to me, saying,</p>
+<p><span class="vn">2</span>“Go, and cry in the ears of Jerusalem, saying, ‘Thus says Yahweh, “I remember for you the kindness of your youth, the love of your weddings; how you went after me in the wilderness, in a land that was not sown.</p>
+<p><span class="vn">3</span>Israel was holiness to Yahweh, the first fruits of his increase. All who devour him shall be held guilty. Evil shall come on them,”’ says Yahweh.”</p>
+<p><span class="vn">4</span>Hear the word of Yahweh, O house of Jacob, and all the families of the house of Israel!</p>
+<p><span class="vn">5</span>Thus says Yahweh, “What unrighteousness have your fathers found in me, that they have gone far from me, and have walked after vanity, and are become vain?</p>
+<p><span class="vn">6</span>Neither did they say, ‘Where is Yahweh who brought us up out of the land of Egypt, who led us through the wilderness, through a land of deserts and of pits, through a land of drought and of the shadow of death, through a land that none passed through, and where no man lived?’</p>
+<p><span class="vn">7</span>I brought you into a plentiful land, to eat its fruit and its goodness; but when you entered, you defiled my land, and made my heritage an abomination.</p>
+<p><span class="vn">8</span>The priests didn’t say, ‘Where is Yahweh?’ and those who handle the law didn’t know me. The rulers also transgressed against me, and the prophets prophesied by Baal, and walked after things that do not profit.</p>
+</div>
+<p class="conn">The indictment opens by remembering the kindness of her youth and then asking what fault was found. Grievance framed as a question about the injured party's own conduct, which is the same move Micah 6:3 makes and the opposite of how accusation usually begins.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 2:9-13</p>
+<h2 class="entry-name">Two evils: the forsaken spring, and broken cisterns</h2>
+<div class="passage">
+<p><span class="vn">9</span>“Therefore I will yet contend with you,” says Yahweh, “and I will contend with your children’s children.</p>
+<p><span class="vn">10</span>For pass over to the islands of Kittim, and see; and send to Kedar, and consider diligently; and see if there has been such a thing.</p>
+<p><span class="vn">11</span>Has a nation changed its gods, which really are no gods? But my people have changed their glory for that which does not profit.</p>
+<p><span class="vn">12</span>“Be astonished, you heavens, at this, and be horribly afraid. Be very desolate,” says Yahweh.</p>
+<p><span class="vn">13</span>“For my people have committed two evils: they have forsaken me, the spring of living waters, and cut them out cisterns, broken cisterns, that can hold no water.</p>
+</div>
+<p class="conn">Two evils, not one: leaving the living water, and then the labour of cutting cisterns that cannot hold it. Holy Detachment argued from futility rather than from asceticism — the effort is real, the workmanship is real, and the container leaks.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c18.html">C18</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 2:19-25</p>
+<h2 class="entry-name">Your own wickedness will correct you</h2>
+<div class="passage">
+<p><span class="vn">19</span>“Your own wickedness shall correct you, and your backsliding shall reprove you. Know therefore and see that it is an evil thing and a bitter, that you have forsaken Yahweh your God, and that my fear is not in you,” says the Lord, Yahweh of Armies.</p>
+<p><span class="vn">20</span>“For of old time I have broken your yoke, and burst your bonds; and you said, ‘I will not serve;’ for on every high hill and under every green tree you bowed yourself, playing the prostitute.</p>
+<p><span class="vn">21</span>Yet I had planted you a noble vine, wholly a right seed. How then have you turned into the degenerate branches of a foreign vine to me?</p>
+<p><span class="vn">22</span>For though you wash yourself with lye, and use much soap, yet your iniquity is marked before me,” says the Lord Yahweh.</p>
+<p><span class="vn">23</span>“How can you say, ‘I am not defiled. I have not gone after the Baals’? See your way in the valley. Know what you have done. You are a swift dromedary traversing her ways;</p>
+<p><span class="vn">24</span>a wild donkey used to the wilderness, that snuffs up the wind in her desire. When she is in heat, who can turn her away? All those who seek her will not weary themselves. In her month, they will find her.</p>
+<p><span class="vn">25</span>“Withhold your foot from being unshod, and your throat from thirst. But you said, ‘It is in vain. No, for I have loved strangers, and I will go after them.’</p>
+</div>
+<p class="conn">Consequence described as self-administered — your own wickedness corrects you, your backsliding reproves you — and then the denial is quoted back: I am not defiled. Interior Diagnosis blocked by the one thing that defeats it, which is a confident account of one's own innocence.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c01.html">C01</a>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="a1.html">PR02</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 2:32-35</p>
+<h2 class="entry-name">Yet you said, I am innocent</h2>
+<div class="passage">
+<p><span class="vn">32</span>“Can a virgin forget her ornaments, or a bride her attire? Yet my people have forgotten me for days without number.</p>
+<p><span class="vn">33</span>How well you prepare your way to seek love! Therefore you have taught even the wicked women your ways.</p>
+<p><span class="vn">34</span>Also the blood of the souls of the innocent poor is found in your skirts. You did not find them breaking in; but it is because of all these things.</p>
+<p><span class="vn">35</span>“Yet you said, ‘I am innocent. Surely his anger has turned away from me.’ “Behold, I will judge you, because you say, ‘I have not sinned.’</p>
+</div>
+<p class="conn">The claim of innocence is made with the evidence still visible on the skirts. The Moral Audit shown failing at the only point where it matters — not from ignorance of the standard but from a verdict reached before the looking.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="a1.html">PR01</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 3:12-14</p>
+<h2 class="entry-name">Only acknowledge your iniquity; return</h2>
+<div class="passage">
+<p><span class="vn">12</span>Go, and proclaim these words toward the north, and say, ‘Return, you backsliding Israel,’ says Yahweh; ‘I will not look in anger on you; for I am merciful,’ says Yahweh. ‘I will not keep anger forever.</p>
+<p><span class="vn">13</span>Only acknowledge your iniquity, that you have transgressed against Yahweh your God, and have scattered your ways to the strangers under every green tree, and you have not obeyed my voice,’ says Yahweh.”</p>
+<p><span class="vn">14</span>“Return, backsliding children,” says Yahweh; “for I am a husband to you. I will take you one of a city, and two of a family, and I will bring you to Zion.</p>
+</div>
+<p class="conn">Return is commanded four times in three verses, and the single condition attached is acknowledgement — nothing else is required first. The Failure Recovery Protocol with its terms stated at their lowest: name it, and come back.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c29.html">C29</a>
+<a class="tag" href="a1.html">PR11</a>
+<a class="tag" href="a1.html">PR29</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 4:1-4</p>
+<h2 class="entry-name">Break up your fallow ground; don't sow among thorns</h2>
+<div class="passage">
+<p><span class="vn">1</span>“If you will return, Israel,” says Yahweh, “if you will return to me, and if you will put away your abominations out of my sight; then you shall not be removed;</p>
+<p><span class="vn">2</span>and you shall swear, ‘As Yahweh lives,’ in truth, in justice, and in righteousness. The nations shall bless themselves in him, and in him shall they glory.”</p>
+<p><span class="vn">3</span>For thus says Yahweh to the men of Judah and to Jerusalem, “Break up your fallow ground, and don’t sow among thorns.</p>
+<p><span class="vn">4</span>Circumcise yourselves to Yahweh, and take away the foreskins of your heart, you men of Judah and inhabitants of Jerusalem; lest my wrath go forth like fire, and burn so that none can quench it, because of the evil of your doings.</p>
+</div>
+<p class="conn">Already cited in the curriculum. Ground is prepared before anything is planted, and the alternative named is not barrenness but sowing into thorns — effort that produces a crop which is then choked. The circumcision of the heart in the next verse locates the fallow ground precisely.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c05.html">C05</a>
+<a class="tag" href="c25.html">C25</a>
+<a class="tag" href="a1.html">PR14</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 4:19-22</p>
+<h2 class="entry-name">My anguish; I can't hold my peace</h2>
+<div class="passage">
+<p><span class="vn">19</span>My anguish, my anguish! I am pained at my very heart; my heart is disquieted in me; I can’t hold my peace; because you have heard, O my soul, the sound of the trumpet, the alarm of war.</p>
+<p><span class="vn">20</span>Destruction on destruction is cried; for the whole land is laid waste: suddenly are my tents destroyed, and my curtains in a moment.</p>
+<p><span class="vn">21</span>How long shall I see the standard, and hear the sound of the trumpet?</p>
+<p><span class="vn">22</span>“For my people are foolish, they don’t know me. They are foolish children, and they have no understanding. They are skillful in doing evil, but to do good they have no knowledge.”</p>
+</div>
+<p class="conn">The prophet's body registers the judgment he is announcing — pained at the heart, unable to keep silent. Sacred Lament performed on behalf of people who are not lamenting, which is the form it takes when the sufferer does not yet know what is happening.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR08</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 5:1-5</p>
+<h2 class="entry-name">Run through the streets and see if you can find a man</h2>
+<div class="passage">
+<p><span class="vn">1</span>“Run back and forth through the streets of Jerusalem, and see now, and know, and seek in the broad places of it, if you can find a man, if there are any who does justly, who seeks truth; and I will pardon her.</p>
+<p><span class="vn">2</span>Though they say, ‘As Yahweh lives;’ surely they swear falsely.”</p>
+<p><span class="vn">3</span>O Yahweh, don’t your eyes look on truth? You have stricken them, but they were not grieved. You have consumed them, but they have refused to receive correction. They have made their faces harder than a rock. They have refused to return.</p>
+<p><span class="vn">4</span>Then I said, “Surely these are poor. They are foolish; for they don’t know the way of Yahweh, nor the law of their God.</p>
+<p><span class="vn">5</span>I will go to the great men, and will speak to them; for they know the way of Yahweh, and the law of their God.” But these with one accord have broken the yoke, and burst the bonds.</p>
+</div>
+<p class="conn">He looks among the poor and excuses them as untaught, then goes to the great men who do know the way — and finds the same thing. An honest search that refuses the easy conclusion that ignorance explains the failure.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c08.html">C08</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 5:20-31</p>
+<h2 class="entry-name">Eyes that don't see; my people love to have it so</h2>
+<div class="passage">
+<p><span class="vn">20</span>“Declare this in the house of Jacob, and publish it in Judah, saying,</p>
+<p><span class="vn">21</span>‘Hear now this, foolish people, and without understanding; who have eyes, and don’t see; who have ears, and don’t hear:</p>
+<p><span class="vn">22</span>Don’t you fear me?’ says Yahweh ‘Won’t you tremble at my presence, who have placed the sand for the bound of the sea, by a perpetual decree, that it can’t pass it? and though its waves toss themselves, yet they can’t prevail; though they roar, yet they can’t pass over it.’</p>
+<p><span class="vn">23</span>“But this people has a revolting and a rebellious heart; they have revolted and gone.</p>
+<p><span class="vn">24</span>Neither do they say in their heart, ‘Let us now fear Yahweh our God, who gives rain, both the former and the latter, in its season; who preserves to us the appointed weeks of the harvest.’</p>
+<p><span class="vn">25</span>“Your iniquities have turned away these things, and your sins have withheld good from you.</p>
+<p><span class="vn">26</span>For among my people are found wicked men. They watch, as fowlers lie in wait. They set a trap. They catch men.</p>
+<p><span class="vn">27</span>As a cage is full of birds, so are their houses full of deceit. Therefore they have become great, and grew rich.</p>
+<p><span class="vn">28</span>They have grown fat. They shine; yes, they excell in deeds of wickedness. They don’t plead the cause, the cause of the fatherless, that they may prosper; and they don’t judge the right of the needy.</p>
+<p><span class="vn">29</span>“Shall I not punish for these things?” says Yahweh. “Shall not my soul be avenged on such a nation as this?</p>
+<p><span class="vn">30</span>“An astonishing and horrible thing has happened in the land.</p>
+<p><span class="vn">31</span>The prophets prophesy falsely, and the priests rule by their own authority; and my people love to have it so. What will you do in the end of it?</p>
+</div>
+<p class="conn">The chapter ends by naming the audience's complicity: prophets prophesy falsely, priests rule by their own authority, and the people love to have it so. C08's fruit test given its hardest form, because the deception is jointly maintained rather than imposed.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c07.html">C07</a>
+<a class="tag" href="c08.html">C08</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 6:13-15</p>
+<h2 class="entry-name">Peace, peace, when there is no peace</h2>
+<div class="passage">
+<p><span class="vn">13</span>“For from their least even to their greatest, everyone is given to covetousness; and from the prophet even to the priest, everyone deals falsely.</p>
+<p><span class="vn">14</span>They have healed also the hurt of my people superficially, saying, ‘Peace, peace!’ when there is no peace.</p>
+<p><span class="vn">15</span>Were they ashamed when they had committed abomination? No, they were not at all ashamed, neither could they blush. Therefore they shall fall among those who fall; at the time that I visit them, they shall be cast down,” says Yahweh.</p>
+</div>
+<p class="conn">The wound is healed superficially by declaring peace over it. The Architecture of Peace defined by what counterfeits it — a settlement announced rather than reached, which is the failure C15 is built to prevent.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c15.html">C15</a>
+<a class="tag" href="a1.html">PR09</a>
+<span class="tag reviewed">amended at review</span>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 6:16-19</p>
+<h2 class="entry-name">Ask for the old paths, where the good way is</h2>
+<div class="passage">
+<p><span class="vn">16</span>Thus says Yahweh, “Stand in the ways and see, and ask for the old paths, ‘Where is the good way?’ and walk in it, and you will find rest for your souls. But they said, ‘We will not walk in it.’</p>
+<p><span class="vn">17</span>I set watchmen over you, saying, ‘Listen to the sound of the trumpet!’ But they said, ‘We will not listen!’</p>
+<p><span class="vn">18</span>Therefore hear, you nations, and know, congregation, what is among them.</p>
+<p><span class="vn">19</span>Hear, earth! Behold, I will bring evil on this people, even the fruit of their thoughts, because they have not listened to my words; and as for my law, they have rejected it.</p>
+</div>
+<p class="conn">Four verbs in order — stand, see, ask, walk — and then rest is promised to those who do. The Two Ways offered as a question to be asked at a junction rather than a doctrine to be accepted, and the refusal recorded is flat: we will not walk in it.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<a class="tag" href="c01.html">C01</a>
+<a class="tag" href="c02.html">C02</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 6:27-30</p>
+<h2 class="entry-name">I have made you a tester of metals</h2>
+<div class="passage">
+<p><span class="vn">27</span>“I have made you a tester of metals and a fortress among my people; that you may know and try their way.</p>
+<p><span class="vn">28</span>They are all grievous rebels, going about with slanders; they are brass and iron: they all of them deal corruptly.</p>
+<p><span class="vn">29</span>The bellows blow fiercely; the lead is consumed of the fire: in vain do they go on refining; for the wicked are not plucked away.</p>
+<p><span class="vn">30</span>Men will call them rejected silver, because Yahweh has rejected them.”</p>
+</div>
+<p class="conn">The prophet is given the office of assayer, and the refining is described as failing — the bellows blow, the lead is consumed, and the dross does not separate. Testing that reaches an honest negative result, which C08 has to allow for if the test is real.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c08.html">C08</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 7:1-15</p>
+<h2 class="entry-name">Don't trust in lying words: the temple of Yahweh</h2>
+<div class="passage">
+<p><span class="vn">1</span>The word that came to Jeremiah from Yahweh, saying,</p>
+<p><span class="vn">2</span>“Stand in the gate of Yahweh’s house, and proclaim there this word, and say, ‘Hear the word of Yahweh, all you of Judah, who enter in at these gates to worship Yahweh.</p>
+<p><span class="vn">3</span>Thus says Yahweh of Armies, the God of Israel, Amend your ways and your doings, and I will cause you to dwell in this place.</p>
+<p><span class="vn">4</span>Don’t trust in lying words, saying, The temple of Yahweh, the temple of Yahweh, the temple of Yahweh, are these.</p>
+<p><span class="vn">5</span>For if you thoroughly amend your ways and your doings; if you thoroughly execute justice between a man and his neighbor;</p>
+<p><span class="vn">6</span>if you don’t oppress the foreigner, the fatherless, and the widow, and don’t shed innocent blood in this place, neither walk after other gods to your own hurt:</p>
+<p><span class="vn">7</span>then will I cause you to dwell in this place, in the land that I gave to your fathers, from of old even forevermore.</p>
+<p><span class="vn">8</span>Behold, you trust in lying words, that can’t profit.</p>
+<p><span class="vn">9</span>Will you steal, murder, and commit adultery, and swear falsely, and burn incense to Baal, and walk after other gods that you have not known,</p>
+<p><span class="vn">10</span>and come and stand before me in this house, which is called by my name, and say, We are delivered; that you may do all these abominations?</p>
+<p><span class="vn">11</span>Is this house, which is called by my name, become a den of robbers in your eyes? Behold, I, even I, have seen it, says Yahweh.</p>
+<p><span class="vn">12</span>But go now to my place which was in Shiloh, where I caused my name to dwell at the first, and see what I did to it for the wickedness of my people Israel.</p>
+<p><span class="vn">13</span>Now, because you have done all these works, says Yahweh, and I spoke to you, rising up early and speaking, but you didn’t hear; and I called you, but you didn’t answer:</p>
+<p><span class="vn">14</span>therefore will I do to the house which is called by my name, in which you trust, and to the place which I gave to you and to your fathers, as I did to Shiloh.</p>
+<p><span class="vn">15</span>I will cast you out of my sight, as I have cast out all your brothers, even the whole seed of Ephraim.</p>
+</div>
+<p class="conn">A list of what they do — steal, murder, commit adultery, swear falsely — followed by standing in the house and saying they are delivered. The proof test of C12 applied to religious security itself: the building is real, the assurance is sincere, and neither is evidence.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<a class="tag" href="c12.html">C12</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 7:21-26</p>
+<h2 class="entry-name">I didn't command your fathers concerning burnt offerings</h2>
+<div class="passage">
+<p><span class="vn">21</span>Thus says Yahweh of Armies, the God of Israel: Add your burnt offerings to your sacrifices, and eat meat.</p>
+<p><span class="vn">22</span>For I didn’t speak to your fathers, nor command them in the day that I brought them out of the land of Egypt, concerning burnt offerings or sacrifices:</p>
+<p><span class="vn">23</span>but this thing I commanded them, saying, Listen to my voice, and I will be your God, and you shall be my people; and walk in all the way that I command you, that it may be well with you.</p>
+<p><span class="vn">24</span>But they didn’t listen nor turn their ear, but walked in their own counsels and in the stubbornness of their evil heart, and went backward, and not forward.</p>
+<p><span class="vn">25</span>Since the day that your fathers came forth out of the land of Egypt to this day, I have sent to you all my servants the prophets, daily rising up early and sending them:</p>
+<p><span class="vn">26</span>yet they didn’t listen to me, nor inclined their ear, but made their neck stiff: they did worse than their fathers.</p>
+</div>
+<p class="conn">Sacrifice set aside in favour of one instruction — listen to my voice and walk in the way I command. The same reduction Micah 6:6-8 performs, reached by a different route and arriving at obedience rather than at three requirements.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="c05.html">C05</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 8:4-7</p>
+<h2 class="entry-name">The stork knows her appointed times</h2>
+<div class="passage">
+<p><span class="vn">4</span>Moreover you shall tell them, Thus says Yahweh: Shall men fall, and not rise up again? Shall one turn away, and not return?</p>
+<p><span class="vn">5</span>Why then is this people of Jerusalem slidden back by a perpetual backsliding? they hold fast deceit, they refuse to return.</p>
+<p><span class="vn">6</span>I listened and heard, but they didn’t speak aright: no man repents him of his wickedness, saying, What have I done? everyone turns to his course, as a horse that rushes headlong in the battle.</p>
+<p><span class="vn">7</span>Yes, the stork in the sky knows her appointed times; and the turtledove and the swallow and the crane observe the time of their coming; but my people don’t know Yahweh’s law.</p>
+</div>
+<p class="conn">No man repents saying what have I done, and the contrast drawn is with migratory birds keeping their seasons. Perception shown as something the created order manages without effort and people fail at deliberately.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c06.html">C06</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 8:18-9:2</p>
+<h2 class="entry-name">Is there no balm in Gilead? Oh that my head were waters</h2>
+<div class="passage">
+<p><span class="vn">18</span>Oh that I could comfort myself against sorrow! My heart is faint within me.</p>
+<p><span class="vn">19</span>Behold, the voice of the cry of the daughter of my people from a land that is very far off: isn’t Yahweh in Zion? Isn’t her King in her? Why have they provoked me to anger with their engraved images, and with foreign vanities?</p>
+<p><span class="vn">20</span>The harvest is past, the summer is ended, and we are not saved.</p>
+<p><span class="vn">21</span>For the hurt of the daughter of my people am I hurt: I mourn; dismay has taken hold on me.</p>
+<p><span class="vn">22</span>Is there no balm in Gilead? is there no physician there? why then isn’t the health of the daughter of my people recovered?</p>
+<p><span class="vn">1</span>Oh that my head were waters, and my eyes a spring of tears, that I might weep day and night for the slain of the daughter of my people!</p>
+<p><span class="vn">2</span>Oh that I had in the wilderness a lodging place of wayfaring men; that I might leave my people, and go from them! for they are all adulterers, an assembly of treacherous men.</p>
+</div>
+<p class="conn">Three movements without resolution: the question about the balm, the wish for endless tears, and then the wish to leave his people altogether. Lament that includes the desire to abandon the people being lamented over, recorded without correction.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR08</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 9:3-8</p>
+<h2 class="entry-name">Take heed of your neighbor; trust no brother</h2>
+<div class="passage">
+<p><span class="vn">3</span>They bend their tongue, as their bow, for falsehood; and they are grown strong in the land, but not for truth: for they proceed from evil to evil, and they don’t know me, says Yahweh.</p>
+<p><span class="vn">4</span>Take heed everyone of his neighbor, and don’t trust in any brother; for every brother will utterly supplant, and every neighbor will go about with slanders.</p>
+<p><span class="vn">5</span>They will deceive everyone his neighbor, and will not speak the truth: they have taught their tongue to speak lies; they weary themselves to commit iniquity.</p>
+<p><span class="vn">6</span>Your habitation is in the midst of deceit; through deceit they refuse to know me, says Yahweh.</p>
+<p><span class="vn">7</span>Therefore thus says Yahweh of Armies, Behold, I will melt them, and try them; for how should I deal with the daughter of my people?</p>
+<p><span class="vn">8</span>Their tongue is a deadly arrow; it speaks deceit: one speaks peaceably to his neighbor with his mouth, but in his heart he lays wait for him.</p>
+</div>
+<p class="conn">Speech described as a drawn bow and a deadly arrow, with peace spoken while ambush is intended. The same collapse of trust Micah 7:5-6 records, located specifically in the tongue rather than in the household.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c15.html">C15</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 9:23-24</p>
+<h2 class="entry-name">Let him who glories glory in this, that he knows me</h2>
+<div class="passage">
+<p><span class="vn">23</span>Thus says Yahweh, Don’t let the wise man glory in his wisdom, neither let the mighty man glory in his might, don’t let the rich man glory in his riches;</p>
+<p><span class="vn">24</span>but let him who glories glory in this, that he has understanding, and knows me, that I am Yahweh who exercises loving kindness, justice, and righteousness, in the earth: for in these things I delight, says Yahweh.</p>
+</div>
+<p class="conn">Wisdom, might, and riches are each disqualified as grounds for boasting, and what replaces them is knowing a God who exercises lovingkindness, justice, and righteousness. The nearest parallel in the prophets to Micah 6:8 — a triad again, and hesed named first among the three.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c02.html">C02</a>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="c27.html">C27</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 10:1-16</p>
+<h2 class="entry-name">They must be carried, because they can't go</h2>
+<div class="passage">
+<p><span class="vn">1</span>Hear the word which Yahweh speaks to you, house of Israel!</p>
+<p><span class="vn">2</span>Thus says Yahweh, “Don’t learn the way of the nations, and don’t be dismayed at the signs of the sky; for the nations are dismayed at them.</p>
+<p><span class="vn">3</span>For the customs of the peoples are vanity; for one cuts a tree out of the forest, the work of the hands of the workman with the axe.</p>
+<p><span class="vn">4</span>They deck it with silver and with gold; they fasten it with nails and with hammers, that it not move.</p>
+<p><span class="vn">5</span>They are like a palm tree, of turned work, and don’t speak: they must be carried, because they can’t go. Don’t be afraid of them; for they can’t do evil, neither is it in them to do good.”</p>
+<p><span class="vn">6</span>There is none like you, Yahweh; you are great, and your name is great in might.</p>
+<p><span class="vn">7</span>Who should not fear you, King of the nations? For it appertains to you; because among all the wise men of the nations, and in all their royal estate, there is none like you.</p>
+<p><span class="vn">8</span>But they are together brutish and foolish: the instruction of idols! it is but a stock.</p>
+<p><span class="vn">9</span>There is silver beaten into plates, which is brought from Tarshish, and gold from Uphaz, the work of the artificer and of the hands of the goldsmith; blue and purple for their clothing; they are all the work of skillful men.</p>
+<p><span class="vn">10</span>But Yahweh is the true God; he is the living God, and an everlasting King: at his wrath the earth trembles, and the nations are not able to withstand his indignation.</p>
+<p><span class="vn">11</span>You shall say this to them: The gods that have not made the heavens and the earth, these shall perish from the earth, and from under the heavens.</p>
+<p><span class="vn">12</span>He has made the earth by his power, he has established the world by his wisdom, and by his understanding has he stretched out the heavens:</p>
+<p><span class="vn">13</span>when he utters his voice, there is a tumult of waters in the heavens, and he causes the vapors to ascend from the ends of the earth; he makes lightnings for the rain, and brings forth the wind out of his treasuries.</p>
+<p><span class="vn">14</span>Every man has become brutish and without knowledge; every goldsmith is disappointed by his engraved image; for his molten image is falsehood, and there is no breath in them.</p>
+<p><span class="vn">15</span>They are vanity, a work of delusion: in the time of their visitation they shall perish.</p>
+<p><span class="vn">16</span>The portion of Jacob is not like these; for he is the former of all things; and Israel is the tribe of his inheritance: Yahweh of Armies is his name.</p>
+</div>
+<p class="conn">The idol is described by its manufacture — cut, plated, nailed down so it will not topple — and then by the fact that it must be carried. What a person leans on is shown to be something they are actually holding up.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c18.html">C18</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Jeremiah 10:23-25</p>
+<h2 class="entry-name">The way of man is not in himself; correct me, but in measure</h2>
+<div class="passage">
+<p><span class="vn">23</span>Yahweh, I know that the way of man is not in himself: it is not in man who walks to direct his steps.</p>
+<p><span class="vn">24</span>Yahweh, correct me, but in measure: not in your anger, lest you bring me to nothing.</p>
+<p><span class="vn">25</span>Pour out your wrath on the nations that don’t know you, and on the families that don’t call on your name: for they have devoured Jacob, yes, they have devoured him and consumed him, and have laid waste his habitation.</p>
+</div>
+<p class="conn">Two admissions in consecutive verses: a man cannot direct his own steps, and correction is asked for with a limit attached. The Discipline of Unknowing applied to one's own agency, and the request for measured correction is asked rather than assumed.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c24.html">C24</a>
+<a class="tag" href="a1.html">PR04</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+</div>
+</article>
+<nav class="docnav">
+<p class="rule-orn orn"><span>✦</span></p>
+<p class="nav-hub"><a href="scripture.html">All indexed books</a> · <a href="index.html">Table of contents</a></p>
+</nav>
+</main></body></html>

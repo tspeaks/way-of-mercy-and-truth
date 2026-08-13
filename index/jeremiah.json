@@ -1,0 +1,442 @@
+{
+  "book": "Jeremiah",
+  "translation": "World English Bible (public domain)",
+  "status": "partial — chapters 1-10 only; the remaining forty-two chapters follow in sections",
+  "method_version": "1.5",
+  "text_source": "index/text/jeremiah.json",
+  "note": "The longest book in the canon at 1,364 verses, indexed in sections along its own seams: the call and early oracles (1-10), the confessions (11-20), kings and false prophets (21-29), the Book of Consolation (30-33), the fall narratives (34-45), and the oracles against the nations (46-52). This file covers the first section.",
+  "sectioning_note": "Sectioning is a practical necessity, not a claim about the book's unity. Each section is indexed against the same standard and validated the same way, and the file's status field names what is done. A reader should be able to see at a glance that the index is partial rather than inferring it from the absence of entries.",
+  "entries": [
+    {
+      "ref": "Jeremiah 1:4-10",
+      "pericope": "Before I formed you in the belly, I knew you",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The objection raised is inadequacy — I don't know how to speak, I am a child — and it is answered by removing the question of adequacy rather than by disputing it. Formation described as preceding the person's awareness of it, which is why C25 treats growth as something already underway before it is noticed.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 1:11-19",
+      "pericope": "What do you see? A branch of an almond tree",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C06"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The prophet is asked twice what he sees and told he has seen well, before he is told anything. Perception trained by being questioned about the ordinary — a branch, a pot — rather than by being given a vision he could not have looked at himself.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 2:1-8",
+      "pericope": "What unrighteousness have your fathers found in me?",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The indictment opens by remembering the kindness of her youth and then asking what fault was found. Grievance framed as a question about the injured party's own conduct, which is the same move Micah 6:3 makes and the opposite of how accusation usually begins.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 2:9-13",
+      "pericope": "Two evils: the forsaken spring, and broken cisterns",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Two evils, not one: leaving the living water, and then the labour of cutting cisterns that cannot hold it. Holy Detachment argued from futility rather than from asceticism — the effort is real, the workmanship is real, and the container leaks.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 2:19-25",
+      "pericope": "Your own wickedness will correct you",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C01",
+        "C21"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "mode": "counter-example",
+      "connection": "Consequence described as self-administered — your own wickedness corrects you, your backsliding reproves you — and then the denial is quoted back: I am not defiled. Interior Diagnosis blocked by the one thing that defeats it, which is a confident account of one's own innocence.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 2:32-35",
+      "pericope": "Yet you said, I am innocent",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C04"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "counter-example",
+      "connection": "The claim of innocence is made with the evidence still visible on the skirts. The Moral Audit shown failing at the only point where it matters — not from ignorance of the standard but from a verdict reached before the looking.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 3:12-14",
+      "pericope": "Only acknowledge your iniquity; return",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C29"
+      ],
+      "practices": [
+        "PR11",
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "Return is commanded four times in three verses, and the single condition attached is acknowledgement — nothing else is required first. The Failure Recovery Protocol with its terms stated at their lowest: name it, and come back.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 4:1-4",
+      "pericope": "Break up your fallow ground; don't sow among thorns",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C05",
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "Already cited in the curriculum. Ground is prepared before anything is planted, and the alternative named is not barrenness but sowing into thorns — effort that produces a crop which is then choked. The circumcision of the heart in the next verse locates the fallow ground precisely.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Jeremiah 4:19-22",
+      "pericope": "My anguish; I can't hold my peace",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The prophet's body registers the judgment he is announcing — pained at the heart, unable to keep silent. Sacred Lament performed on behalf of people who are not lamenting, which is the form it takes when the sufferer does not yet know what is happening.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 5:1-5",
+      "pericope": "Run through the streets and see if you can find a man",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "He looks among the poor and excuses them as untaught, then goes to the great men who do know the way — and finds the same thing. An honest search that refuses the easy conclusion that ignorance explains the failure.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 5:20-31",
+      "pericope": "Eyes that don't see; my people love to have it so",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C07",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The chapter ends by naming the audience's complicity: prophets prophesy falsely, priests rule by their own authority, and the people love to have it so. C08's fruit test given its hardest form, because the deception is jointly maintained rather than imposed.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 6:13-15",
+      "pericope": "Peace, peace, when there is no peace",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
+      "practices": [
+        "PR09"
+      ],
+      "mode": "counter-example",
+      "connection": "The wound is healed superficially by declaring peace over it. The Architecture of Peace defined by what counterfeits it — a settlement announced rather than reached, which is the failure C15 is built to prevent.",
+      "confidence": "high",
+      "prior": false,
+      "review": "PR09 added before publication — caught by the build-time counter-example check, not by a reviewer. The prose named the Architecture of Peace and the practices array was empty. A wound healed superficially by declaring peace over it is precisely the failure the practice exists to prevent, so the tag was owed."
+    },
+    {
+      "ref": "Jeremiah 6:16-19",
+      "pericope": "Ask for the old paths, where the good way is",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01",
+        "C02"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Four verbs in order — stand, see, ask, walk — and then rest is promised to those who do. The Two Ways offered as a question to be asked at a junction rather than a doctrine to be accepted, and the refusal recorded is flat: we will not walk in it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 6:27-30",
+      "pericope": "I have made you a tester of metals",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The prophet is given the office of assayer, and the refining is described as failing — the bellows blow, the lead is consumed, and the dross does not separate. Testing that reaches an honest negative result, which C08 has to allow for if the test is real.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 7:1-15",
+      "pericope": "Don't trust in lying words: the temple of Yahweh",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C12"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "A list of what they do — steal, murder, commit adultery, swear falsely — followed by standing in the house and saying they are delivered. The proof test of C12 applied to religious security itself: the building is real, the assurance is sincere, and neither is evidence.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 7:21-26",
+      "pericope": "I didn't command your fathers concerning burnt offerings",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C03",
+        "C05"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Sacrifice set aside in favour of one instruction — listen to my voice and walk in the way I command. The same reduction Micah 6:6-8 performs, reached by a different route and arriving at obedience rather than at three requirements.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 8:4-7",
+      "pericope": "The stork knows her appointed times",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C06"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "No man repents saying what have I done, and the contrast drawn is with migratory birds keeping their seasons. Perception shown as something the created order manages without effort and people fail at deliberately.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 8:18-9:2",
+      "pericope": "Is there no balm in Gilead? Oh that my head were waters",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "Three movements without resolution: the question about the balm, the wish for endless tears, and then the wish to leave his people altogether. Lament that includes the desire to abandon the people being lamented over, recorded without correction.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 9:3-8",
+      "pericope": "Take heed of your neighbor; trust no brother",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Speech described as a drawn bow and a deadly arrow, with peace spoken while ambush is intended. The same collapse of trust Micah 7:5-6 records, located specifically in the tongue rather than in the household.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 9:23-24",
+      "pericope": "Let him who glories glory in this, that he knows me",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C02",
+        "C03",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Wisdom, might, and riches are each disqualified as grounds for boasting, and what replaces them is knowing a God who exercises lovingkindness, justice, and righteousness. The nearest parallel in the prophets to Micah 6:8 — a triad again, and hesed named first among the three.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 10:1-16",
+      "pericope": "They must be carried, because they can't go",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The idol is described by its manufacture — cut, plated, nailed down so it will not topple — and then by the fact that it must be carried. What a person leans on is shown to be something they are actually holding up.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 10:23-25",
+      "pericope": "The way of man is not in himself; correct me, but in measure",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "Two admissions in consecutive verses: a man cannot direct his own steps, and correction is asked for with a limit attached. The Discipline of Unknowing applied to one's own agency, and the request for measured correction is asked rather than assumed.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

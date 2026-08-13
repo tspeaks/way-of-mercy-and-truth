@@ -47,7 +47,25 @@ def verse_counts(book):
     return dict(sorted(out.items()))
 
 # Book names may be multi-word ("Song of Solomon") or numbered ("1 Corinthians").
-REF_RE = re.compile(r"^(.+?)\s+(\d+):(\d+)(?:[-–](\d+))?$")
+# Ranges may cross a chapter boundary ("1 John 2:28-3:3"), because the chapter
+# divisions are medieval and frequently fall in the middle of an argument.
+REF_RE = re.compile(r"^(.+?)\s+(\d+):(\d+)(?:[-–](?:(\d+):)?(\d+))?$")
+
+
+def expand(m, counts=None):
+    """Yield (chapter, verse) for a parsed reference, crossing chapters if needed."""
+    c1, v1 = int(m.group(2)), int(m.group(3))
+    c2 = int(m.group(4)) if m.group(4) else c1
+    v2 = int(m.group(5)) if m.group(5) else v1
+    if c2 == c1:
+        for v in range(v1, v2 + 1):
+            yield (c1, v)
+        return
+    for c in range(c1, c2 + 1):
+        lo = v1 if c == c1 else 1
+        hi = v2 if c == c2 else (counts or {}).get(c, 200)
+        for v in range(lo, hi + 1):
+            yield (c, v)
 
 
 def check(path):
@@ -99,15 +117,7 @@ def check(path):
         if not m:
             errors.append(f"{where}: unparseable reference")
             continue
-        ch, lo = int(m.group(3) and m.group(2)), int(m.group(3))
-        hi = int(m.group(4) or lo)
-        if hi < lo:
-            errors.append(f"{where}: reversed verse range")
-        for v in range(lo, hi + 1):
-            covered.setdefault(ch, set()).add(v)
-            if sum(1 for x in entries
-                   if x.get("ref", "").startswith(f"{book} {ch}:")) and False:
-                pass
+        pass
 
     # overlap detection
     seen = {}
@@ -117,14 +127,12 @@ def check(path):
             for r in e.get("refs", []):
                 mm = REF_RE.match(r)
                 if mm:
-                    clustered.add((int(mm.group(2)), int(mm.group(3))))
+                    clustered.update(expand(mm, verse_counts(book)))
             continue
         m = REF_RE.match(e.get("ref", ""))
         if not m:
             continue
-        ch, lo = int(m.group(2)), int(m.group(3))
-        hi = int(m.group(4) or lo)
-        for v in range(lo, hi + 1):
+        for (ch, v) in expand(m, verse_counts(book)):
             if (ch, v) in seen:
                 warnings.append(f"{e['ref']}: verse {ch}:{v} also in {seen[(ch, v)]}")
             seen[(ch, v)] = e["ref"]

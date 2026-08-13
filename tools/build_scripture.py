@@ -82,32 +82,47 @@ a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
 """
 
 
-def parse_ref(ref):
-    m = re.match(r"^(.+?)\s+(\d+):(\d+)(?:[-–](\d+))?$", ref)
-    ch, lo = int(m.group(2)), int(m.group(3))
-    return ch, lo, int(m.group(4) or lo)
+REF_RE = re.compile(r"^(.+?)\s+(\d+):(\d+)(?:[-–](?:(\d+):)?(\d+))?$")
+
+
+def ref_verses(text_data, ref):
+    """(chapter, verse) pairs for a reference, crossing chapter boundaries if needed."""
+    m = REF_RE.match(ref)
+    if not m:
+        return []
+    c1, v1 = int(m.group(2)), int(m.group(3))
+    c2 = int(m.group(4)) if m.group(4) else c1
+    v2 = int(m.group(5)) if m.group(5) else v1
+    counts = {}
+    for k in text_data["verses"]:
+        c, v = (int(x) for x in k.split(":"))
+        counts[c] = max(counts.get(c, 0), v)
+    out = []
+    for c in range(c1, c2 + 1):
+        lo = v1 if c == c1 else 1
+        hi = v2 if c == c2 else counts.get(c, 0)
+        for v in range(lo, hi + 1):
+            body = text_data["verses"].get(f"{c}:{v}")
+            if body:
+                out.append((f"{c}:{v}", body))
+    return out
+
 
 
 def render_cluster(text_data, refs):
     """A cluster gathers scattered verses on one theme; render each with its reference."""
     out = ['<div class="passage cluster">']
     for r in refs:
-        ch, lo, hi = parse_ref(r)
-        for v in range(lo, hi + 1):
-            body = text_data["verses"].get(f"{ch}:{v}")
-            if body:
-                out.append(f'<p><span class="cref mono">{ch}:{v}</span>{esc(body)}</p>')
+        for vref, body in ref_verses(text_data, r):
+            out.append(f'<p><span class="cref mono">{vref}</span>{esc(body)}</p>')
     out.append("</div>")
     return "\n".join(out)
 
 
 def render_passage(text_data, ref):
-    ch, lo, hi = parse_ref(ref)
     out = ['<div class="passage">']
-    for v in range(lo, hi + 1):
-        body = text_data["verses"].get(f"{ch}:{v}")
-        if body:
-            out.append(f'<p><span class="vn">{v}</span>{esc(body)}</p>')
+    for vref, body in ref_verses(text_data, ref):
+        out.append(f'<p><span class="vn">{vref.split(":")[1]}</span>{esc(body)}</p>')
     out.append("</div>")
     return "\n".join(out)
 
@@ -134,8 +149,7 @@ def book_page(data, text_data):
     covered = set()
     for e in entries:
         for r in (e["refs"] if e.get("kind") == "cluster" else [e["ref"]]):
-            c, lo, hi = parse_ref(r)
-            covered |= {(c, v) for v in range(lo, hi + 1)}
+            covered |= {v for v, _ in ref_verses(text_data, r)}
     a(f'<p class="doc-meta mono">{len(entries)} passages · '
       f'{len(covered)} of {len(text_data["verses"])} verses</p>')
     a("</div>")

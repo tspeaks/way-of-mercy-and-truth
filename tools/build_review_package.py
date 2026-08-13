@@ -31,7 +31,31 @@ INDEX = ROOT / "index"
 TEXT = INDEX / "text"
 OUT = INDEX / "reviews"
 
-REF_RE = re.compile(r"^(.+?)\s+(\d+):(\d+)(?:[-–](\d+))?$")
+REF_RE = re.compile(r"^(.+?)\s+(\d+):(\d+)(?:[-–](?:(\d+):)?(\d+))?$")
+
+
+def ref_verses(text_data, ref):
+    """(chapter, verse) pairs for a reference, crossing chapter boundaries if needed."""
+    m = REF_RE.match(ref)
+    if not m:
+        return []
+    c1, v1 = int(m.group(2)), int(m.group(3))
+    c2 = int(m.group(4)) if m.group(4) else c1
+    v2 = int(m.group(5)) if m.group(5) else v1
+    counts = {}
+    for k in text_data["verses"]:
+        c, v = (int(x) for x in k.split(":"))
+        counts[c] = max(counts.get(c, 0), v)
+    out = []
+    for c in range(c1, c2 + 1):
+        lo = v1 if c == c1 else 1
+        hi = v2 if c == c2 else counts.get(c, 0)
+        for v in range(lo, hi + 1):
+            body = text_data["verses"].get(f"{c}:{v}")
+            if body:
+                out.append((f"{c}:{v}", body))
+    return out
+
 
 MODE_GLOSS = {
     "prescribes": "the passage commands this practice",
@@ -41,17 +65,7 @@ MODE_GLOSS = {
 
 
 def verses_for(text_data, ref):
-    m = REF_RE.match(ref)
-    if not m:
-        return []
-    ch, lo = int(m.group(2)), int(m.group(3))
-    hi = int(m.group(4) or lo)
-    out = []
-    for v in range(lo, hi + 1):
-        body = text_data["verses"].get(f"{ch}:{v}")
-        if body:
-            out.append((f"{ch}:{v}", body))
-    return out
+    return ref_verses(text_data, ref)
 
 
 def build_book(slug):

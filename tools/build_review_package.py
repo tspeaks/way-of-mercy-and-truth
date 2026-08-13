@@ -98,6 +98,8 @@ def build_book(slug):
                        ("interpretive_note", "Interpretive note"),
                        ("coverage_note", "Coverage note"),
                        ("boundary_note", "Boundary note"),
+                       ("architecture_note", "Architecture note"),
+                       ("pairing_note", "Pairing note"),
                        ("method_rule", "Method rule")):
         if d.get(key):
             a(f"**{label}.** {d[key]}")

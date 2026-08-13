@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0C0B08">
+<title>Micah — Scripture Index — The Way of Mercy and Truth</title>
+<meta name="description" content="Every passage of Micah mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta property="og:type" content="book">
+<meta property="og:title" content="Micah — Scripture Index — The Way of Mercy and Truth">
+<meta property="og:description" content="Every passage of Micah mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%230C0B08%27/%3E%3Cpath d=%27M16 6 L16 26 M9 13 H23%27 stroke=%27%23C9A227%27 stroke-width=%272.6%27 stroke-linecap=%27round%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0C0B08; --bg-raised:#15140F;
+  --gold:#C9A227; --gold-bright:#E3C158; --gold-pale:#EADFC4; --gold-dim:#8A7327;
+  --text:#E4DCC6; --text-soft:#BFB49A; --text-muted:#8A8069;
+  --truth:#7FA9B5; --mercy:#C4795F; --spec:#9C8AB2;
+  --rule:rgba(201,162,39,0.22); --rule-strong:rgba(201,162,39,0.45);
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 10px 30px rgba(0,0,0,.35);
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0;
+  color:var(--text);
+  background-color:var(--bg);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(201,162,39,.07), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 110%, rgba(201,162,39,.05), transparent 70%);
+  background-attachment:fixed;
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-color:rgba(201,162,39,.45);text-underline-offset:3px;}
+a:hover{color:var(--gold-bright);text-decoration-color:var(--gold-bright);}
+:focus-visible{outline:2px solid var(--gold-bright);outline-offset:3px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule-strong);}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Cormorant Garamond','Iowan Old Style',Georgia,serif;font-weight:600;}
+
+.rule-orn{display:flex;align-items:center;gap:14px;margin:0;color:var(--gold-dim);}
+.rule-orn::before,.rule-orn::after{content:"";height:1px;flex:1;
+  background:linear-gradient(90deg,transparent,var(--rule-strong),transparent);}
+.rule-orn span{font-size:13px;letter-spacing:.3em;}
+
+.setup{background:rgba(196,121,95,.14);border-bottom:1px solid var(--rule-strong);
+  color:var(--gold-pale);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(201,162,39,.18);padding:1px 6px;font-size:13px;color:var(--gold-bright);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:62px 0 44px;text-align:center;}
+header.masthead::after{content:"";display:block;height:1px;margin-top:38px;
+  background:linear-gradient(90deg,transparent,var(--rule-strong) 20%,var(--rule-strong) 80%,transparent);}
+.crest{width:64px;height:64px;margin:0 auto 22px;display:block;color:var(--gold);opacity:.92;}
+.kicker{font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 16px;}
+h1.title{font-size:clamp(34px,9vw,58px);line-height:1.04;margin:0 0 12px;color:var(--gold-pale);
+  font-weight:600;letter-spacing:.005em;}
+.subtitle{font-size:clamp(15px,3.4vw,18px);color:var(--text-soft);font-style:italic;
+  margin:0 auto 30px;max-width:44ch;}
+blockquote.epigraph{margin:0 auto 30px;padding:20px 24px;max-width:52ch;
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  font-size:clamp(15.5px,3.4vw,18px);color:var(--text-soft);line-height:1.5;font-style:italic;}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;justify-content:center;}
+.badge{font-size:11px;letter-spacing:.08em;padding:5px 11px;text-transform:uppercase;
+  border:1px solid var(--rule);color:var(--text-muted);background:rgba(201,162,39,.05);white-space:nowrap;}
+.badge.gold{border-color:var(--rule-strong);color:var(--gold);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;}
+.btn{display:inline-block;padding:14px 26px;text-decoration:none;font-size:15px;font-weight:600;
+  letter-spacing:.02em;border:1px solid var(--gold-dim);background:transparent;color:var(--gold);min-height:44px;}
+.btn:hover{background:rgba(201,162,39,.1);border-color:var(--gold);color:var(--gold-bright);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#100E08;}
+.btn.primary:hover{background:var(--gold-bright);border-color:var(--gold-bright);color:#100E08;}
+
+section{padding:50px 0;}
+section + section{border-top:1px solid var(--rule);}
+h2.sec{font-size:clamp(23px,5vw,30px);margin:0 0 8px;color:var(--gold-pale);font-weight:600;}
+.section-note{color:var(--text-soft);margin:0 0 26px;max-width:62ch;}
+
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--rule);padding:19px 21px;box-shadow:var(--shadow);}
+.card .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 9px;}
+.card p{margin:0;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:11px 0 0;padding-top:11px;border-top:1px solid var(--rule);}
+
+.pull{background:rgba(201,162,39,.06);border-top:2px solid var(--gold-dim);
+  border-bottom:2px solid var(--gold-dim);padding:24px 26px;margin:30px 0 0;}
+.pull p{margin:0;font-size:clamp(16.5px,3.5vw,19px);line-height:1.45;color:var(--gold-pale);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:12px;letter-spacing:.05em;font-style:italic;}
+
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:26px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--rule);padding:18px 14px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;display:block;
+  margin-bottom:5px;color:var(--gold-pale);letter-spacing:.06em;}
+.pillar span{font-size:13px;color:var(--text-muted);}
+.pillar.t{border-top:2px solid var(--truth);}
+.pillar.h{border-top:2px solid var(--gold);}
+.pillar.m{border-top:2px solid var(--mercy);}
+
+.stage{border:1px solid var(--rule);background:var(--bg-raised);margin-bottom:12px;box-shadow:var(--shadow);}
+.stage summary{cursor:pointer;padding:17px 19px;list-style:none;display:flex;gap:15px;
+  align-items:center;min-height:44px;}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(201,162,39,.06);}
+.stage .snum{flex:none;width:34px;height:34px;border-radius:50%;background:transparent;
+  border:1px solid var(--gold-dim);color:var(--gold);display:inline-flex;align-items:center;
+  justify-content:center;font-size:14px;font-weight:600;}
+.stage[open] .snum{background:var(--gold);color:#100E08;border-color:var(--gold);}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;
+  font-weight:600;color:var(--gold-pale);letter-spacing:.05em;}
+.stage .sname span{display:block;font-size:14px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:11px;letter-spacing:.06em;}
+.stage .body{padding:4px 19px 17px;border-top:1px solid var(--rule);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li + li{border-top:1px solid var(--rule);}
+ol.chapters a{display:flex;gap:12px;align-items:baseline;padding:13px 2px;text-decoration:none;
+  color:var(--text);min-height:44px;}
+ol.chapters a:hover{color:var(--gold-bright);}
+ol.chapters .cid{flex:none;font-size:11px;color:var(--text-muted);width:42px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:14px;font-size:14px;}
+
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--rule);box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:16px 19px;text-decoration:none;color:var(--text);min-height:44px;}
+ul.linklist a:hover{background:rgba(201,162,39,.06);}
+ul.linklist .lt{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:19px;
+  display:block;color:var(--gold-pale);letter-spacing:.03em;}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:4px;}
+.flag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;margin-left:9px;
+  vertical-align:2px;white-space:nowrap;border:1px solid;}
+.flag.partial{border-color:var(--gold-dim);color:var(--gold);}
+.flag.speculative{border-color:var(--spec);color:var(--spec);}
+
+.warn{border:1px solid var(--rule);border-left:3px solid var(--mercy);
+  background:rgba(196,121,95,.07);padding:22px 24px;}
+.warn h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;margin:0 0 10px;
+  color:var(--mercy);letter-spacing:.02em;}
+.warn p{margin:0 0 11px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+.license{background:var(--bg-raised);border:1px solid var(--rule);padding:24px 26px;}
+.license .big{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:600;
+  margin:0 0 12px;color:var(--gold-pale);letter-spacing:.03em;}
+.license ul{margin:0 0 14px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:6px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+footer{padding:36px 0 64px;font-size:13px;color:var(--text-muted);
+  border-top:1px solid var(--rule);margin-top:20px;}
+footer p{margin:0 0 7px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+/* ================= reading pages ================= */
+.topbar{position:sticky;top:0;z-index:20;background:rgba(12,11,8,.94);
+  border-bottom:1px solid var(--rule);}
+@supports ((backdrop-filter:blur(8px)) or (-webkit-backdrop-filter:blur(8px))){
+  .topbar{-webkit-backdrop-filter:saturate(140%) blur(8px);backdrop-filter:saturate(140%) blur(8px);}
+}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:50px;}
+.topbar a.home{font-size:13.5px;text-decoration:none;color:var(--gold);white-space:nowrap;}
+.topbar .where{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.progress{height:2px;}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold-dim),var(--gold));}
+
+article{max-width:680px;margin:0 auto;padding:44px 22px 0;}
+.doc-head{margin-bottom:38px;padding-bottom:26px;border-bottom:1px solid var(--rule);text-align:center;}
+.doc-kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 14px;}
+.doc-title{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,7vw,44px);
+  line-height:1.1;margin:0;font-weight:600;color:var(--gold-pale);letter-spacing:.01em;}
+.doc-sub{font-size:15px;color:var(--truth);margin:12px 0 0;font-style:italic;}
+.doc-meta{font-size:12px;color:var(--text-muted);margin:14px 0 0;letter-spacing:.06em;}
+
+.doc-body{font-size:18px;line-height:1.75;color:var(--text);}
+.doc-body p{margin:0 0 1.25em;}
+.doc-body > p:first-of-type::first-letter{float:left;font-family:'Cormorant Garamond',Georgia,serif;
+  font-size:3.4em;line-height:.82;padding:.06em .1em 0 0;color:var(--gold);font-weight:600;}
+.doc-body h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;font-weight:600;
+  margin:2em 0 .7em;color:var(--gold-pale);letter-spacing:.03em;}
+.doc-body h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;font-weight:600;
+  margin:1.9em 0 .6em;color:var(--gold);letter-spacing:.03em;}
+blockquote.scripture{margin:1.7em 0;padding:16px 0 16px 22px;border-left:2px solid var(--gold-dim);
+  background:rgba(201,162,39,.04);}
+blockquote.scripture p{margin:0;font-style:italic;color:var(--gold-pale);font-size:17px;line-height:1.6;}
+blockquote.scripture cite{display:block;margin-top:9px;font-style:normal;font-size:12.5px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+
+.docnav{max-width:680px;margin:56px auto 0;padding:0 22px 70px;}
+.docnav .orn{margin-bottom:26px;}
+.navgrid{display:grid;grid-template-columns:1fr;gap:12px;}
+@media (min-width:560px){ .navgrid{grid-template-columns:1fr 1fr;} }
+.nav-btn{display:block;padding:17px 20px;border:1px solid var(--rule);text-decoration:none;
+  background:var(--bg-raised);min-height:44px;}
+.nav-btn:hover{background:rgba(201,162,39,.07);border-color:var(--gold-dim);}
+.nav-btn .nav-label{display:block;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--gold-dim);margin-bottom:5px;}
+.nav-btn .nav-title{display:block;font-size:15.5px;color:var(--text);line-height:1.3;}
+.nav-btn:hover .nav-title{color:var(--gold-bright);}
+.nav-btn.next{text-align:right;}
+.nav-btn.disabled{opacity:.42;}
+.nav-hub{text-align:center;margin-top:20px;font-size:13.5px;}
+.kbd-hint{text-align:center;margin-top:14px;font-size:11.5px;color:var(--text-muted);letter-spacing:.05em;}
+@media (hover:none){ .kbd-hint{display:none;} }
+
+.notfound{text-align:center;padding:90px 22px;}
+.notfound h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,8vw,46px);
+  color:var(--gold-pale);margin:0 0 14px;font-weight:600;}
+.notfound p{color:var(--text-soft);max-width:44ch;margin:0 auto 26px;}
+
+@media print{
+  body{background:#fff;color:#000;}
+  .topbar,.docnav,.skip,.setup,footer,.kbd-hint{display:none !important;}
+  article{max-width:none;padding:0;}
+  .doc-title,.doc-body h2,.doc-body h3{color:#000;}
+  .doc-body{font-size:12pt;}
+  blockquote.scripture{border-left:2px solid #999;background:none;}
+  blockquote.scripture p{color:#222;}
+  a{color:#000;text-decoration:none;}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<style>
+.entry{border-top:1px solid var(--rule);padding:34px 0;}
+.entry:first-of-type{border-top:0;}
+.entry-ref{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 6px;}
+.entry-name{font-family:'Cormorant Garamond',Georgia,serif;font-size:25px;font-weight:600;
+  color:var(--gold-pale);margin:0 0 18px;letter-spacing:.02em;}
+.passage{border-left:2px solid var(--gold-dim);padding:4px 0 4px 20px;margin:0 0 20px;
+  background:rgba(201,162,39,.04);}
+.passage p{margin:0 0 .7em;font-size:17px;line-height:1.65;color:var(--gold-pale);font-style:italic;}
+.passage p:last-child{margin-bottom:0;}
+.passage .vn{font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:10.5px;
+  color:var(--text-muted);vertical-align:3px;margin-right:5px;}
+.conn{font-size:16.5px;line-height:1.6;color:var(--text);margin:0 0 16px;}
+.tags{display:flex;flex-wrap:wrap;gap:7px;align-items:center;}
+.tag{font-size:11px;letter-spacing:.06em;padding:4px 10px;border:1px solid var(--rule);
+  color:var(--text-soft);text-decoration:none;white-space:nowrap;}
+a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
+.tag.pillar{text-transform:uppercase;letter-spacing:.12em;}
+.tag.pillar.t{border-color:var(--truth);color:var(--truth);}
+.tag.pillar.m{border-color:var(--mercy);color:var(--mercy);}
+.tag.pillar.h{border-color:var(--gold);color:var(--gold);}
+.tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
+.tag.corrected{border-color:var(--gold);color:var(--gold);}
+.tag.reviewed{border-color:var(--truth);color:var(--truth);}
+.passage.cluster p{font-style:normal;color:var(--text);}
+.passage.cluster .cref{color:var(--gold-dim);font-size:10.5px;margin-right:9px;vertical-align:2px;}
+.cluster-note{font-size:12px;color:var(--text-muted);letter-spacing:.06em;margin:0 0 12px;font-style:italic;}
+.entry-ref.cluster-label{color:var(--gold);}
+.tag.kind{border-style:solid;border-color:var(--gold-dim);color:var(--gold);
+  text-transform:uppercase;letter-spacing:.12em;font-size:10px;}
+.tag.mode{text-transform:uppercase;letter-spacing:.12em;font-size:10px;border-style:dotted;}
+.tag.mode.prescribes{border-color:var(--gold);color:var(--gold);}
+.tag.mode.exemplifies{border-color:var(--truth);color:var(--truth);}
+.tag.mode.counter{border-color:var(--mercy);color:var(--mercy);}
+.booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
+.stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
+@media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
+.stat div{border:1px solid var(--rule);background:var(--bg-raised);padding:14px;text-align:center;}
+.stat b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;
+  color:var(--gold-pale);font-weight:600;}
+.stat span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+</style>
+<div class="topbar"><div class="wrap">
+<a class="home" href="index.html">✦ The Way of Mercy and Truth</a>
+<span class="where mono">Micah · index</span>
+</div><div class="progress"><i></i></div></div>
+<main id="main"><article>
+<div class="doc-head">
+<p class="doc-kicker">Scripture Index</p>
+<h1 class="doc-title">Micah</h1>
+<p class="doc-sub">World English Bible · public domain</p>
+<p class="doc-meta mono">18 passages · 92 of 105 verses</p>
+</div>
+<div class="doc-body">
+<div class="entry">
+<p class="entry-ref">Micah 1:1-7</p>
+<h2 class="entry-name">Yahweh comes down and treads the high places</h2>
+<div class="passage">
+<p><span class="vn">1</span>The word of Yahweh that came to Micah the Morashtite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.</p>
+<p><span class="vn">2</span>Hear, you peoples, all of you. Listen, O earth, and all that is therein: and let the Lord Yahweh be witness against you, the Lord from his holy temple.</p>
+<p><span class="vn">3</span>For, behold, Yahweh comes forth out of his place, and will come down and tread on the high places of the earth.</p>
+<p><span class="vn">4</span>The mountains melt under him, and the valleys split apart, like wax before the fire, like waters that are poured down a steep place.</p>
+<p><span class="vn">5</span>“All this is for the disobedience of Jacob, and for the sins of the house of Israel. What is the disobedience of Jacob? Isn’t it Samaria? And what are the high places of Judah? Aren’t they Jerusalem?</p>
+<p><span class="vn">6</span>Therefore I will make Samaria like a rubble heap of the field, like places for planting vineyards; and I will pour down its stones into the valley, and I will uncover its foundations.</p>
+<p><span class="vn">7</span>All her idols will be beaten to pieces, and all her temple gifts will be burned with fire, and all her images I will destroy; for of the hire of a prostitute has she gathered them, and to the hire of a prostitute shall they return.”</p>
+</div>
+<p class="conn">The mountains melt and the valleys split, and the cause named is not power but disobedience. Moral structure presented as something the physical world responds to, which is C01's claim about the grain of things stated at its largest scale.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<a class="tag" href="c01.html">C01</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 1:8-16</p>
+<h2 class="entry-name">For this I will lament and wail</h2>
+<div class="passage">
+<p><span class="vn">8</span>For this I will lament and wail; I will go stripped and naked; I will howl like the jackals, and moan like the daughters of owls.</p>
+<p><span class="vn">9</span>For her wounds are incurable; for it has come even to Judah. It reaches to the gate of my people, even to Jerusalem.</p>
+<p><span class="vn">10</span>Don’t tell it in Gath. Don’t weep at all. At Beth Ophrah I have rolled myself in the dust.</p>
+<p><span class="vn">11</span>Pass on, inhabitant of Shaphir, in nakedness and shame. The inhabitant of Zaanan won’t come out. The wailing of Beth Ezel will take from you his protection.</p>
+<p><span class="vn">12</span>For the inhabitant of Maroth waits anxiously for good, because evil has come down from Yahweh to the gate of Jerusalem.</p>
+<p><span class="vn">13</span>Harness the chariot to the swift steed, inhabitant of Lachish. She was the beginning of sin to the daughter of Zion; For the transgressions of Israel were found in you.</p>
+<p><span class="vn">14</span>Therefore you will give a parting gift to Moresheth Gath. The houses of Achzib will be a deceitful thing to the kings of Israel.</p>
+<p><span class="vn">15</span>I will yet bring to you, inhabitant of Mareshah. He who is the glory of Israel will come to Adullam.</p>
+<p><span class="vn">16</span>Shave your heads, and cut off your hair for the children of your delight. Enlarge your baldness like the vulture; for they have gone into captivity from you!</p>
+</div>
+<p class="conn">The prophet mourns the judgment he has just announced, going stripped and howling like a jackal. Sacred Lament performed by the man delivering the verdict, which forecloses reading lament as the response of the innocent only.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR08</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 2:1-5</p>
+<h2 class="entry-name">They devise iniquity on their beds</h2>
+<div class="passage">
+<p><span class="vn">1</span>Woe to those who devise iniquity and work evil on their beds! When the morning is light, they practice it, because it is in the power of their hand.</p>
+<p><span class="vn">2</span>They covet fields, and seize them; and houses, and take them away: and they oppress a man and his house, even a man and his heritage.</p>
+<p><span class="vn">3</span>Therefore thus says Yahweh: “Behold, I am planning against these people a disaster, from which you will not remove your necks, neither will you walk haughtily; for it is an evil time.</p>
+<p><span class="vn">4</span>In that day they will take up a parable against you, and lament with a doleful lamentation, saying, ‘We are utterly ruined! My people’s possession is divided up. Indeed he takes it from me and assigns our fields to traitors!’”</p>
+<p><span class="vn">5</span>Therefore you will have no one who divides the land by lot in the assembly of Yahweh.</p>
+</div>
+<p class="conn">The sequence is exact: they plan it in the night, and do it in the morning because it is in the power of their hand. Interior Diagnosis run on a social sin — the coveting is upstream of the seizure, and the passage traces it there deliberately.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c18.html">C18</a>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="a1.html">PR02</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 2:6-11</p>
+<h2 class="entry-name">Don't prophesy; a man who prophesies of wine</h2>
+<div class="passage">
+<p><span class="vn">6</span>“Don’t prophesy!” They prophesy. “Don’t prophesy about these things. Disgrace won’t overtake us.”</p>
+<p><span class="vn">7</span>Shall it be said, O house of Jacob: “Is the Spirit of Yahweh angry? Are these his doings? Don’t my words do good to him who walks blamelessly?”</p>
+<p><span class="vn">8</span>But lately my people have risen up as an enemy. You strip the robe and clothing from those who pass by without a care, returning from battle.</p>
+<p><span class="vn">9</span>You drive the women of my people out from their pleasant houses; from their young children you take away my blessing forever.</p>
+<p><span class="vn">10</span>Arise, and depart! For this is not your resting place, because of uncleanness that destroys, even with a grievous destruction.</p>
+<p><span class="vn">11</span>If a man walking in a spirit of falsehood lies: “I will prophesy to you of wine and of strong drink;” he would be the prophet of this people.</p>
+</div>
+<p class="conn">The people instruct the prophets what not to say, and the prophet they would accept is one promising wine and strong drink. The fruit test of C08 inverted: here the audience selects the message, and the criterion is comfort.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c08.html">C08</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 3:1-4</p>
+<h2 class="entry-name">You who hate the good and love the evil</h2>
+<div class="passage">
+<p><span class="vn">1</span>I said, “Please listen, you heads of Jacob, and rulers of the house of Israel: Isn’t it for you to know justice?</p>
+<p><span class="vn">2</span>You who hate the good, and love the evil; who tear off their skin, and their flesh from off their bones;</p>
+<p><span class="vn">3</span>who also eat the flesh of my people, and flay their skin from off them, and break their bones, and chop them in pieces, as for the pot, and as flesh within the caldron.</p>
+<p><span class="vn">4</span>Then they will cry to Yahweh, but he will not answer them. Yes, he will hide his face from them at that time, because they made their deeds evil.”</p>
+</div>
+<p class="conn">Rulers charged first with an inverted affection and only then with the acts that follow from it. The Two Ways described as a disposition that produces conduct, in the order C01 insists on.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<a class="tag" href="c01.html">C01</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 3:5-8</p>
+<h2 class="entry-name">They cry peace when their teeth are fed</h2>
+<div class="passage">
+<p><span class="vn">5</span>Thus says Yahweh concerning the prophets who lead my people astray; for those who feed their teeth, they proclaim, “Peace!” and whoever doesn’t provide for their mouths, they prepare war against him:</p>
+<p><span class="vn">6</span>“Therefore night is over you, with no vision, and it is dark to you, that you may not divine; and the sun will go down on the prophets, and the day will be black over them.</p>
+<p><span class="vn">7</span>The seers shall be disappointed, and the diviners confounded. Yes, they shall all cover their lips; for there is no answer from God.”</p>
+<p><span class="vn">8</span>But as for me, I am full of power by the Spirit of Yahweh, and of judgment, and of might, to declare to Jacob his disobedience, and to Israel his sin.</p>
+</div>
+<p class="conn">The false prophet's message is shown to track his payment — peace to whoever feeds him, war against whoever does not. A test C08 can apply without any access to the man's sincerity: watch what his message costs him.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c08.html">C08</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 3:9-12</p>
+<h2 class="entry-name">They lean on Yahweh and say, is not Yahweh among us?</h2>
+<div class="passage">
+<p><span class="vn">9</span>Please listen to this, you heads of the house of Jacob, and rulers of the house of Israel, who abhor justice, and pervert all equity.</p>
+<p><span class="vn">10</span>They build up Zion with blood, and Jerusalem with iniquity.</p>
+<p><span class="vn">11</span>Her leaders judge for bribes, and her priests teach for a price, and her prophets of it tell fortunes for money: yet they lean on Yahweh, and say, “Isn’t Yahweh in the midst of us? No disaster will come on us.”</p>
+<p><span class="vn">12</span>Therefore Zion for your sake will be plowed like a field, and Jerusalem will become heaps of rubble, and the mountain of the temple like the high places of a forest.</p>
+</div>
+<p class="conn">Leaders judging for bribes, priests teaching for a price, prophets divining for money — and all of them confident that no evil can come because Yahweh is among them. The proof test of C12 at its most damning: assurance held simultaneously with the conduct that disproves it.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<a class="tag" href="c12.html">C12</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 4:1-5</p>
+<h2 class="entry-name">They will beat their swords into plowshares</h2>
+<div class="passage">
+<p><span class="vn">1</span>But in the latter days, it will happen that the mountain of Yahweh’s temple will be established on the top of the mountains, and it will be exalted above the hills; and peoples will stream to it.</p>
+<p><span class="vn">2</span>Many nations will go and say, “Come, and let us go up to the mountain of Yahweh, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths.” For out of Zion will go forth the law, and the word of Yahweh from Jerusalem;</p>
+<p><span class="vn">3</span>and he will judge between many peoples, and will decide concerning strong nations afar off. They will beat their swords into plowshares, and their spears into pruning hooks. Nation will not lift up sword against nation, neither will they learn war any more.</p>
+<p><span class="vn">4</span>But they will sit every man under his vine and under his fig tree; and no one will make them afraid: For the mouth of Yahweh of Armies has spoken.</p>
+<p><span class="vn">5</span>Indeed all the nations may walk in the name of their gods; but we will walk in the name of Yahweh our God forever and ever.</p>
+</div>
+<p class="conn">Weapons are not destroyed but converted into farming tools, and the peace is described by what people sit under rather than by what has stopped. The Architecture of Peace given a picture: not the absence of conflict but the repurposing of what conflict was made from.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c15.html">C15</a>
+<a class="tag" href="a1.html">PR09</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 4:6-8</p>
+<h2 class="entry-name">I will assemble that which is lame</h2>
+<div class="passage">
+<p><span class="vn">6</span>“In that day,” says Yahweh, “I will assemble that which is lame, and I will gather that which is driven away, and that which I have afflicted;</p>
+<p><span class="vn">7</span>and I will make that which was lame a remnant, and that which was cast far off a strong nation: and Yahweh will reign over them on Mount Zion from then on, even forever.”</p>
+<p><span class="vn">8</span>You, tower of the flock, the hill of the daughter of Zion, to you it will come, yes, the former dominion will come, the kingdom of the daughter of Jerusalem.</p>
+</div>
+<p class="conn">The lame and the driven away are gathered and then made the remnant — not merely readmitted but constituted as the core. Merciful Reintegration performed by God, with the restored placed at the centre rather than at the edge.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c29.html">C29</a>
+<a class="tag" href="a1.html">PR29</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 5:1-6</p>
+<h2 class="entry-name">Bethlehem Ephrathah, small among the clans</h2>
+<div class="passage">
+<p><span class="vn">1</span>Now you shall gather yourself in troops, daughter of troops. He has laid siege against us. They will strike the judge of Israel with a rod on the cheek.</p>
+<p><span class="vn">2</span>But you, Bethlehem Ephrathah, being small among the clans of Judah, out of you one will come forth to me that is to be ruler in Israel; whose goings forth are from of old, from everlasting.</p>
+<p><span class="vn">3</span>Therefore he will abandon them until the time that she who is in labor gives birth. Then the rest of his brothers will return to the children of Israel.</p>
+<p><span class="vn">4</span>He shall stand, and shall shepherd in the strength of Yahweh, in the majesty of the name of Yahweh his God: and they will live, for then he will be great to the ends of the earth.</p>
+<p><span class="vn">5</span>He will be our peace when Assyria invades our land, and when he marches through our fortresses, then we will raise against him seven shepherds, and eight leaders of men.</p>
+<p><span class="vn">6</span>They will rule the land of Assyria with the sword, and the land of Nimrod in its gates. He will deliver us from the Assyrian, when he invades our land, and when he marches within our border.</p>
+</div>
+<p class="conn">The smallness of the town is stated as the very ground of the promise rather than despite it. The Hidden Life at the scale of a place: what is overlooked is where the thing is actually happening.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c23.html">C23</a>
+<a class="tag" href="a1.html">PR13</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 5:10-15</p>
+<h2 class="entry-name">I will cut off your horses and tear down your strongholds</h2>
+<div class="passage">
+<p><span class="vn">10</span>“It will happen in that day,” says Yahweh, “That I will cut off your horses out of the midst of you, and will destroy your chariots.</p>
+<p><span class="vn">11</span>I will cut off the cities of your land, and will tear down all your strongholds.</p>
+<p><span class="vn">12</span>I will destroy witchcraft from your hand; and you shall have no soothsayers.</p>
+<p><span class="vn">13</span>I will cut off your engraved images and your pillars out of your midst; and you shall no more worship the work of your hands.</p>
+<p><span class="vn">14</span>I will uproot your Asherim out of your midst; and I will destroy your cities.</p>
+<p><span class="vn">15</span>I will execute vengeance in anger, and wrath on the nations that didn’t listen.”</p>
+</div>
+<p class="conn">Horses, chariots, cities, strongholds, sorceries, and images removed in one list, with no distinction drawn between military and religious props. Holy Detachment applied to everything a people had been leaning on, including the leaning itself.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c18.html">C18</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 6:1-5</p>
+<h2 class="entry-name">My people, what have I done to you?</h2>
+<div class="passage">
+<p><span class="vn">1</span>Listen now to what Yahweh says: “Arise, plead your case before the mountains, and let the hills hear what you have to say.</p>
+<p><span class="vn">2</span>Hear, you mountains, Yahweh’s controversy, and you enduring foundations of the earth; for Yahweh has a controversy with his people, and he will contend with Israel.</p>
+<p><span class="vn">3</span>My people, what have I done to you? How have I burdened you? Answer me!</p>
+<p><span class="vn">4</span>For I brought you up out of the land of Egypt, and redeemed you out of the house of bondage. I sent before you Moses, Aaron, and Miriam.</p>
+<p><span class="vn">5</span>My people, remember now what Balak king of Moab devised, and what Balaam the son of Beor answered him from Shittim to Gilgal, that you may know the righteous acts of Yahweh.”</p>
+</div>
+<p class="conn">The lawsuit opens with the plaintiff asking how he has burdened the defendant, and the evidence offered is a rescue. Grievance framed as an invitation to answer rather than as a verdict, which is the tone C03 describes mercy conducting itself in.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="c19.html">C19</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 6:6-8</p>
+<h2 class="entry-name">What does Yahweh require of you?</h2>
+<div class="passage">
+<p><span class="vn">6</span>How shall I come before Yahweh, and bow myself before the exalted God? Shall I come before him with burnt offerings, with calves a year old?</p>
+<p><span class="vn">7</span>Will Yahweh be pleased with thousands of rams? With tens of thousands of rivers of oil? Shall I give my firstborn for my disobedience? The fruit of my body for the sin of my soul?</p>
+<p><span class="vn">8</span>He has shown you, O man, what is good. What does Yahweh require of you, but to act justly, to love mercy, and to walk humbly with your God?</p>
+</div>
+<p class="conn">The verse this entire road is built on, and the escalation before it matters: burnt offerings, thousands of rams, rivers of oil, a firstborn child — each rejected in favour of three requirements that cost no money at all. Justice, mercy, humility, which the curriculum maps to its three pillars. See the architecture note on this book.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c01.html">C01</a>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="c27.html">C27</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 6:9-16</p>
+<h2 class="entry-name">The short ephah and the bag of deceitful weights</h2>
+<div class="passage">
+<p><span class="vn">9</span>Yahweh’s voice calls to the city, and wisdom sees your name: “Listen to the rod, and he who appointed it.</p>
+<p><span class="vn">10</span>Are there yet treasures of wickedness in the house of the wicked, and a short ephah that is accursed?</p>
+<p><span class="vn">11</span>Shall I be pure with dishonest scales, and with a bag of deceitful weights?</p>
+<p><span class="vn">12</span>Her rich men are full of violence, her inhabitants speak lies, and their tongue is deceitful in their speech.</p>
+<p><span class="vn">13</span>Therefore I also have struck you with a grievous wound. I have made you desolate because of your sins.</p>
+<p><span class="vn">14</span>You shall eat, but not be satisfied. Your humiliation will be in your midst. You will store up, but not save; and that which you save I will give up to the sword.</p>
+<p><span class="vn">15</span>You will sow, but won’t reap. You will tread the olives, but won’t anoint yourself with oil; and crush grapes, but won’t drink the wine.</p>
+<p><span class="vn">16</span>For the statutes of Omri are kept, and all the works of the house of Ahab. You walk in their counsels, that I may make you a ruin, and her inhabitants a hissing; And you will bear the reproach of my people.”</p>
+</div>
+<p class="conn">Immediately after the summary of what is required, the indictment is commercial: a short measure, a dishonest scale, rich men full of violence. Whatever act justly means, this passage treats the scale as where it is measured.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c01.html">C01</a>
+<a class="tag" href="c17.html">C17</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 7:1-6</p>
+<h2 class="entry-name">Don't trust a neighbor; a man's enemies are his own household</h2>
+<div class="passage">
+<p><span class="vn">1</span>Misery is mine! Indeed, I am like one who gathers the summer fruits, as gleanings of the vineyard: There is no cluster of grapes to eat. My soul desires to eat the early fig.</p>
+<p><span class="vn">2</span>The godly man has perished out of the earth, and there is no one upright among men. They all lie in wait for blood; every man hunts his brother with a net.</p>
+<p><span class="vn">3</span>Their hands are on that which is evil to do it diligently. The ruler and judge ask for a bribe; and the powerful man dictates the evil desire of his soul. Thus they conspire together.</p>
+<p><span class="vn">4</span>The best of them is like a brier. The most upright is worse than a thorn hedge. The day of your watchmen, even your visitation, has come; now is the time of their confusion.</p>
+<p><span class="vn">5</span>Don’t trust in a neighbor. Don’t put confidence in a friend. With the woman lying in your embrace, be careful of the words of your mouth!</p>
+<p><span class="vn">6</span>For the son dishonors the father, the daughter rises up against her mother, the daughter-in-law against her mother-in-law; a man’s enemies are the men of his own house.</p>
+</div>
+<p class="conn">Trust described as collapsing from the outside inward — neighbour, friend, wife, son, daughter, daughter-in-law — until the household itself is the last place it fails. The condition C15's architecture is built against, stated without any softening.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c15.html">C15</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 7:7-10</p>
+<h2 class="entry-name">When I fall, I will arise</h2>
+<div class="passage">
+<p><span class="vn">7</span>But as for me, I will look to Yahweh. I will wait for the God of my salvation. My God will hear me.</p>
+<p><span class="vn">8</span>Don’t rejoice against me, my enemy. When I fall, I will arise. When I sit in darkness, Yahweh will be a light to me.</p>
+<p><span class="vn">9</span>I will bear the indignation of Yahweh, because I have sinned against him, until he pleads my case, and executes judgment for me. He will bring me forth to the light. I will see his righteousness.</p>
+<p><span class="vn">10</span>Then my enemy will see it, and shame will cover her who said to me, where is Yahweh your God? Then my enemy will see me and will cover her shame. Now she will be trodden down like the mire of the streets.</p>
+</div>
+<p class="conn">The fall is granted rather than denied, and so is the guilt — I will bear the indignation, because I have sinned. Rising is expected on the far side of an accurate verdict, which is the Failure Recovery Protocol without a single mitigating clause.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR11</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 7:14-17</p>
+<h2 class="entry-name">Shepherd your people with your staff</h2>
+<div class="passage">
+<p><span class="vn">14</span>Shepherd your people with your staff, the flock of your heritage, who dwell by themselves in a forest, in the midst of fertile pasture land, let them feed; in Bashan and Gilead, as in the days of old.</p>
+<p><span class="vn">15</span>“As in the days of your coming forth out of the land of Egypt, I will show them marvelous things.”</p>
+<p><span class="vn">16</span>The nations will see and be ashamed of all their might. They will lay their hand on their mouth. Their ears will be deaf.</p>
+<p><span class="vn">17</span>They will lick the dust like a serpent. Like crawling things of the earth they shall come trembling out of their dens. They will come with fear to Yahweh our God, and will be afraid because of you.</p>
+</div>
+<p class="conn">A request that the flock be fed in the old pastures, made on their behalf by someone with no power to feed them. Intercession as an act of service performed by the powerless, which is the direction C16 argues service actually runs.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c16.html">C16</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Micah 7:18-20</p>
+<h2 class="entry-name">Who is a God like you? Truth to Jacob, and mercy to Abraham</h2>
+<div class="passage">
+<p><span class="vn">18</span>Who is a God like you, who pardons iniquity, and passes over the disobedience of the remnant of his heritage? He doesn’t retain his anger forever, because he delights in loving kindness.</p>
+<p><span class="vn">19</span>He will again have compassion on us. He will tread our iniquities under foot; and you will cast all their sins into the depths of the sea.</p>
+<p><span class="vn">20</span>You will give truth to Jacob, and mercy to Abraham, as you have sworn to our fathers from the days of old.</p>
+</div>
+<p class="conn">Already load-bearing in C27. Pardon is said to be delighted in rather than merely granted, and the iniquities are cast into the depths of the sea. The book then ends on truth and mercy together — the pairing this road is named for, arrived at as a conclusion rather than issued as an instruction.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="a1.html">PR15</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+</div>
+</article>
+<nav class="docnav">
+<p class="rule-orn orn"><span>✦</span></p>
+<p class="nav-hub"><a href="scripture.html">All indexed books</a> · <a href="index.html">Table of contents</a></p>
+</nav>
+</main></body></html>

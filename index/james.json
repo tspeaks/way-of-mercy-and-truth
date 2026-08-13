@@ -2,7 +2,7 @@
   "book": "James",
   "translation": "World English Bible (public domain)",
   "status": "pilot",
-  "method_version": "0.3",
+  "method_version": "0.4",
   "note": "Second draft. Entries marked prior:true were already cited in WMT A3 before this index existed. Entries marked author_corrected:true were reassigned by the author after the first pass; treat those placements as settled. Confidence is the drafter's, not the author's — every medium and low entry is a question, not a claim.",
   "entries": [
     {
@@ -483,12 +483,12 @@
         "C22",
         "C23"
       ],
-      "practices": [
-        "PR13"
-      ],
+      "practices": [],
       "connection": "Grace described as conditional on posture rather than performance. Sits under the Hidden Life: the humble receive because they are positioned to, not because they earned it.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "author_corrected": true,
+      "review": "Author ruling: PR13 is read as Aphrahat's secret faithfulness — steady, unglamorous, unsupervised work. Removed here because grace directed toward humility is a statement about how God gives, not a practice of hidden faithfulness. The reviewer called these sound; the author's reading of his own practice governs."
     },
     {
       "ref": "James 4:7-10",

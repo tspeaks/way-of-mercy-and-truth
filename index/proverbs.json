@@ -2,7 +2,7 @@
   "book": "Proverbs",
   "translation": "World English Bible (public domain)",
   "status": "chapters 1-9 (pericopes) and 10-29 (clusters); 30-31 pending",
-  "method_version": "0.6",
+  "method_version": "0.7",
   "text_source": "index/text/proverbs.json",
   "note": "Covers the nine discourse chapters. Chapters 10-29 are collections of independent couplets and do not submit to a pericope schema at all; see structural_note. Chapters 30-31 (Agur, Lemuel, the acrostic) are discourse-shaped and can be indexed on this pattern, but are held until the couplet question is settled so the whole book is finished under one method rather than two.",
   "structural_note": "Proverbs 1-9 is continuous instruction — a father to a son, and Wisdom calling in the street — and indexes exactly like James or Jonah. Proverbs 10-29 is roughly 600 free-standing couplets in no narrative or argumentative order. Indexed at the density used for the first two books, that section alone would produce several hundred single-verse entries, most of them near-duplicates, and the index would become longer and less usable than the text it serves. That section needs a cluster entry — one entry gathering non-contiguous verses on a single theme — which the current schema cannot express, since it assumes one contiguous range per entry. That is a real decision about what the index is, not a formatting detail, and it is left open here deliberately.",
@@ -272,13 +272,13 @@
       "chapters": [
         "C23"
       ],
-      "practices": [
-        "PR13"
-      ],
+      "practices": [],
       "mode": "prescribes",
       "connection": "The verse James 4:6 and 1 Peter 5:5 both quote, in its original setting. Grace described as directed by posture, which is the whole architecture of the Hidden Life.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "author_corrected": true,
+      "review": "Author ruling: PR13 is read as Aphrahat's secret faithfulness — steady, unglamorous, unsupervised work. Removed here because grace directed toward humility is a statement about how God gives, not a practice of hidden faithfulness. The reviewer called these sound; the author's reading of his own practice governs."
     },
     {
       "ref": "Proverbs 4:1-9",
@@ -694,13 +694,13 @@
       "chapters": [
         "C23"
       ],
-      "practices": [
-        "PR13"
-      ],
+      "practices": [],
       "mode": "prescribes",
       "connection": "Humility placed before honor as a matter of sequence, not reward — the low place comes first or the honor does not come. The pattern is stated so often it functions as a structural law, which is what the Hidden Life assumes.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "author_corrected": true,
+      "review": "Author ruling: PR13 is read as Aphrahat's secret faithfulness — steady, unglamorous, unsupervised work. Removed here because grace directed toward humility is a statement about how God gives, not a practice of hidden faithfulness. The reviewer called these sound; the author's reading of his own practice governs."
     },
     {
       "kind": "cluster",
@@ -997,14 +997,14 @@
     {
       "pass": 2,
       "reviewer": "second model (Gemini Spark)",
-      "scope": "the 30 pericope entries only; the 12 cluster entries were not reviewed",
+      "scope": "all 42 entries — 30 pericopes and 12 clusters",
       "verdicts": {
-        "sound": 29,
-        "overreach": 1
+        "sound": 40,
+        "overreach": 2
       },
       "record": "index/reviews/proverbs-pass2.json",
-      "adjudication": "1 accepted in full. The flag exposed that the drafter had been assigning practice tags from practice names rather than from their definitions in WMT A1; see method_rule."
+      "adjudication": "Both flags accepted; both were the same error — PR20 assigned from the practice's name rather than its definition. The cluster instance had already been found and corrected independently while auditing, so the reviewer confirms it rather than discovering it. A separate author ruling then removed PR13 from the grace-to-humility entries."
     }
   ],
-  "method_rule": "Practice tags are assigned from the definition in the Praxis Appendix, never from the practice's name. PR20 (The Sacrifice of Routine) means breaking one's routine for a guest — the routine is what is given up. Read from the name alone it appears to mean the opposite, and was tagged that way. Every practice name in this curriculum is a compression of a specific patristic teaching and several do not survive being read at face value."
+  "method_rule": "Practice tags are assigned from the definition in the Praxis Appendix, never from the practice's name. PR20 means breaking one's routine for a guest — the routine is what is given up — and read from the name alone it appears to mean the opposite. PR13 is secret faithfulness, not the receiving of grace by the humble."
 }

@@ -1,16 +1,729 @@
 # John — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 13-21 only; chapters 1-12 pending. Method version 1.1.
+Scripture: World English Bible (public domain). Index status: complete. Method version 1.2.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
-**Note.** Indexed from chapter 13 forward because this section was the stated test of a prediction: that C11 and C28, unreached by any of the first three books, would close here. Chapters 1-12 follow. Practice tags are assigned from the definitions in WMT A1, not from practice names.
+**Note.** Complete. Chapters 13-21 were indexed first because they were the stated test of a prediction about C11 and C28; chapters 1-12 followed. Entries carry a mode field, and practice tags are assigned from the definitions in WMT A1 rather than from practice names.
 
 **Prediction note.** The prediction was only half a genuine test. C11 quotes John 1:14 in its own text, so John was always going to close it — that is a foregone conclusion, not a confirmed forecast, and the honest anchor for C11 is John 15 rather than anything predicted. C28 was the real test: it argues for rhythm and continuity over intensity, drawn from the Didache rather than from John, and nothing guaranteed a Johannine anchor. John 21:1-14 supplies one.
 
 ---
 
-## 1. John 13:1-11 — He laid aside his outer garments and washed their feet
+## 1. John 1:1-5 — In the beginning was the Word
+
+> **1:1** In the beginning was the Word, and the Word was with God, and the Word was God.
+> **1:2** The same was in the beginning with God.
+> **1:3** All things were made through him. Without him was not anything made that has been made.
+> **1:4** In him was life, and the life was the light of men.
+> **1:5** The light shines in the darkness, and the darkness hasn’t overcome it.
+
+**Claim.** Creation, life, and light stated as one continuous act, with the darkness said not to have overcome the light rather than not to have understood it. The cosmological ground C24 stands on: the order a person is formed into is the order the world was made by.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S6 · chapters: C24, C26 · practices: none · confidence: high
+
+---
+
+## 2. John 1:6-13 — He came to his own, and his own didn't receive him
+
+> **1:6** There came a man, sent from God, whose name was John.
+> **1:7** The same came as a witness, that he might testify about the light, that all might believe through him.
+> **1:8** He was not the light, but was sent that he might testify about the light.
+> **1:9** The true light that enlightens everyone was coming into the world.
+> **1:10** He was in the world, and the world was made through him, and the world didn’t recognize him.
+> **1:11** He came to his own, and those who were his own didn’t receive him.
+> **1:12** But as many as received him, to them he gave the right to become God’s children, to those who believe in his name:
+> **1:13** who were born not of blood, nor of the will of the flesh, nor of the will of man, but of God.
+
+**Claim.** The witness is careful to say what he is not — he was not the light — and the world that was made through him fails to recognise him. Failure of recognition is located in the seer rather than in any obscurity of the thing seen.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S2 · chapters: C08 · practices: none · confidence: high
+
+---
+
+## 3. John 1:14-18 — The Word became flesh; grace and truth
+
+> **1:14** The Word became flesh, and lived among us. We saw his glory, such glory as of the one and only Son of the Father, full of grace and truth.
+> **1:15** John testified about him. He cried out, saying, “This was he of whom I said, ‘He who comes after me has surpassed me, for he was before me.’”
+> **1:16** From his fullness we all received grace upon grace.
+> **1:17** For the law was given through Moses. Grace and truth were realized through Jesus Christ.
+> **1:18** No one has seen God at any time. The one and only Son, who is in the bosom of the Father, he has declared him.
+
+**Claim.** The verse C11 quotes in its own text, and the pairing that gives this road its name: grace and truth realised together in one person, not balanced against each other. He pitched his tent among us, which is why abiding is a place before it is a discipline.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S1, S3 · chapters: C03, C11 · practices: none · confidence: high
+
+---
+
+## 4. John 1:19-28 — I am not the Christ
+
+> **1:19** This is John’s testimony, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?”
+> **1:20** He declared, and didn’t deny, but he declared, “I am not the Christ.”
+> **1:21** They asked him, “What then? Are you Elijah?” He said, “I am not.” “Are you the prophet?” He answered, “No.”
+> **1:22** They said therefore to him, “Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?”
+> **1:23** He said, “I am the voice of one crying in the wilderness, ‘Make straight the way of the Lord,’ as Isaiah the prophet said.”
+> **1:24** The ones who had been sent were from the Pharisees.
+> **1:25** They asked him, “Why then do you baptize, if you are not the Christ, nor Elijah, nor the prophet?”
+> **1:26** John answered them, “I baptize in water, but among you stands one whom you don’t know.
+> **1:27** He is the one who comes after me, who is preferred before me, whose sandal strap I’m not worthy to loosen.”
+> **1:28** These things were done in Bethany beyond the Jordan, where John was baptizing.
+
+**Claim.** Asked four times who he is, he answers three times in the negative before offering a voice and a road. The Hidden Life under direct interrogation, where the temptation to accept an offered status is strongest.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S6 · chapters: C23 · practices: PR13 · confidence: high
+
+---
+
+## 5. John 1:29-34 — Behold, the Lamb of God
+
+> **1:29** The next day, he saw Jesus coming to him, and said, “Behold, the Lamb of God, who takes away the sin of the world!
+> **1:30** This is he of whom I said, ‘After me comes a man who is preferred before me, for he was before me.’
+> **1:31** I didn’t know him, but for this reason I came baptizing in water: that he would be revealed to Israel.”
+> **1:32** John testified, saying, “I have seen the Spirit descending like a dove out of heaven, and it remained on him.
+> **1:33** I didn’t recognize him, but he who sent me to baptize in water, he said to me, ‘On whomever you will see the Spirit descending, and remaining on him, the same is he who baptizes in the Holy Spirit.’
+> **1:34** I have seen, and have testified that this is the Son of God.”
+
+**Claim.** He says twice that he did not know him, and grounds the testimony in what he was shown rather than in his own discernment. A prophet's credential given as received sight, which is the humility C08 requires of the one doing the testing.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S2 · chapters: C08 · practices: none · confidence: high
+
+---
+
+## 6. John 1:35-42 — What are you looking for? Come and see
+
+> **1:35** Again, the next day, John was standing with two of his disciples,
+> **1:36** and he looked at Jesus as he walked, and said, “Behold, the Lamb of God!”
+> **1:37** The two disciples heard him speak, and they followed Jesus.
+> **1:38** Jesus turned, and saw them following, and said to them, “What are you looking for?” They said to him, “Rabbi” (which is to say, being interpreted, Teacher), “where are you staying?”
+> **1:39** He said to them, “Come, and see.” They came and saw where he was staying, and they stayed with him that day. It was about the tenth hour.
+> **1:40** One of the two who heard John, and followed him, was Andrew, Simon Peter’s brother.
+> **1:41** He first found his own brother, Simon, and said to him, “We have found the Messiah!” (which is, being interpreted, Christ).
+> **1:42** He brought him to Jesus. Jesus looked at him, and said, “You are Simon the son of Jonah. You shall be called Cephas” (which is by interpretation, Peter).
+
+**Claim.** The first words he speaks in this Gospel are a question about desire, and the answer to where he is staying is an invitation to come and look. C06's perception trained by proximity rather than by explanation.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S2 · chapters: C06 · practices: none · confidence: high
+
+---
+
+## 7. John 1:43-51 — Nathanael under the fig tree
+
+> **1:43** On the next day, he was determined to go out into Galilee, and he found Philip. Jesus said to him, “Follow me.”
+> **1:44** Now Philip was from Bethsaida, of the city of Andrew and Peter.
+> **1:45** Philip found Nathanael, and said to him, “We have found him, of whom Moses in the law, and the prophets, wrote: Jesus of Nazareth, the son of Joseph.”
+> **1:46** Nathanael said to him, “Can any good thing come out of Nazareth?” Philip said to him, “Come and see.”
+> **1:47** Jesus saw Nathanael coming to him, and said about him, “Behold, an Israelite indeed, in whom is no deceit!”
+> **1:48** Nathanael said to him, “How do you know me?” Jesus answered him, “Before Philip called you, when you were under the fig tree, I saw you.”
+> **1:49** Nathanael answered him, “Rabbi, you are the Son of God! You are King of Israel!”
+> **1:50** Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!”
+> **1:51** He said to him, “Most certainly, I tell you, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”
+
+**Claim.** A man who has just asked whether anything good can come from Nazareth is called one in whom there is no deceit. Prejudice and guilelessness held in the same person, and the cure is being seen accurately before he has seen anything.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S2 · chapters: C06, C07 · practices: none · confidence: high
+
+---
+
+## 8. John 2:1-11 — The wedding at Cana
+
+> **2:1** The third day, there was a marriage in Cana of Galilee. Jesus’ mother was there.
+> **2:2** Jesus also was invited, with his disciples, to the marriage.
+> **2:3** When the wine ran out, Jesus’ mother said to him, “They have no wine.”
+> **2:4** Jesus said to her, “Woman, what does that have to do with you and me? My hour has not yet come.”
+> **2:5** His mother said to the servants, “Whatever he says to you, do it.”
+> **2:6** Now there were six water pots of stone set there after the Jews’ way of purifying, containing two or three metretes apiece.
+> **2:7** Jesus said to them, “Fill the water pots with water.” They filled them up to the brim.
+> **2:8** He said to them, “Now draw some out, and take it to the ruler of the feast.” So they took it.
+> **2:9** When the ruler of the feast tasted the water now become wine, and didn’t know where it came from (but the servants who had drawn the water knew), the ruler of the feast called the bridegroom,
+> **2:10** and said to him, “Everyone serves the good wine first, and when the guests have drunk freely, then that which is worse. You have kept the good wine until now!”
+> **2:11** This beginning of his signs Jesus did in Cana of Galilee, and revealed his glory; and his disciples believed in him.
+
+**Claim.** The first sign is performed at a village wedding to spare a host embarrassment over the drink running out, and only the servants know where it came from. Glory revealed inside an ordinary domestic emergency, which is the Sacrament of the Ordinary given its first instance.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S6, S7 · chapters: C24, C28 · practices: PR23 · confidence: high
+
+---
+
+## 9. John 2:13-22 — The temple cleared
+
+> **2:13** The Passover of the Jews was at hand, and Jesus went up to Jerusalem.
+> **2:14** He found in the temple those who sold oxen, sheep, and doves, and the changers of money sitting.
+> **2:15** He made a whip of cords, and threw all out of the temple, both the sheep and the oxen; and he poured out the changers’ money, and overthrew their tables.
+> **2:16** To those who sold the doves, he said, “Take these things out of here! Don’t make my Father’s house a marketplace!”
+> **2:17** His disciples remembered that it was written, “Zeal for your house will eat me up.”
+> **2:18** The Jews therefore answered him, “What sign do you show us, seeing that you do these things?”
+> **2:19** Jesus answered them, “Destroy this temple, and in three days I will raise it up.”
+> **2:20** The Jews therefore said, “It took forty-six years to build this temple! Will you raise it up in three days?”
+> **2:21** But he spoke of the temple of his body.
+> **2:22** When therefore he was raised from the dead, his disciples remembered that he said this, and they believed the Scripture, and the word which Jesus had said.
+
+**Claim.** Zeal enacted physically against commerce conducted in a place set apart. The moral order treated as having a grain that can be violated by arrangement rather than only by intention.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S1 · chapters: C01 · practices: none · confidence: medium
+
+---
+
+## 10. John 2:23-25 — He didn't trust himself to them, for he knew what was in man
+
+> **2:23** Now when he was in Jerusalem at the Passover, during the feast, many believed in his name, observing his signs which he did.
+> **2:24** But Jesus didn’t trust himself to them, because he knew everyone,
+> **2:25** and because he didn’t need for anyone to testify concerning man; for he himself knew what was in man.
+
+**Claim.** Belief produced by signs is met with reserve rather than welcome. Reading people by what is actually in them rather than by their profession, and the passage treats that as ordinary discernment and not suspicion.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S2 · chapters: C07 · practices: none · confidence: high
+
+---
+
+## 11. John 3:1-8 — You must be born anew; the wind blows where it wants
+
+> **3:1** Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.
+> **3:2** The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”
+> **3:3** Jesus answered him, “Most certainly, I tell you, unless one is born anew, he can’t see the Kingdom of God.”
+> **3:4** Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”
+> **3:5** Jesus answered, “Most certainly I tell you, unless one is born of water and spirit, he can’t enter into the Kingdom of God!
+> **3:6** That which is born of the flesh is flesh. That which is born of the Spirit is spirit.
+> **3:7** Don’t marvel that I said to you, ‘You must be born anew.’
+> **3:8** The wind blows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”
+
+**Claim.** A teacher of Israel is told he does not understand, and the process is illustrated by something whose origin and destination cannot be traced. The Discipline of Unknowing applied to one's own formation: the change is real and its mechanism is not available for inspection.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S6 · chapters: C25 · practices: PR04 · confidence: high
+
+---
+
+## 12. John 3:16-21 — He who does the truth comes to the light
+
+> **3:16** For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.
+> **3:17** For God didn’t send his Son into the world to judge the world, but that the world should be saved through him.
+> **3:18** He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.
+> **3:19** This is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.
+> **3:20** For everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.
+> **3:21** But he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”
+
+**Claim.** The judgment is located in a preference — men loved the darkness — and evil deeds are said to avoid light specifically so they will not be exposed. The Moral Audit's premise stated as a diagnosis: willingness to be seen is itself the test.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S1, S2 · chapters: C04, C07 · practices: PR01 · confidence: high
+
+---
+
+## 13. John 3:22-30 — He must increase, but I must decrease
+
+> **3:22** After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.
+> **3:23** John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.
+> **3:24** For John was not yet thrown into prison.
+> **3:25** There arose therefore a questioning on the part of John’s disciples with some Jews about purification.
+> **3:26** They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”
+> **3:27** John answered, “A man can receive nothing, unless it has been given him from heaven.
+> **3:28** You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’
+> **3:29** He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.
+> **3:30** He must increase, but I must decrease.
+
+**Claim.** His own disciples report that the crowds are leaving him, and he answers with the friend of the bridegroom, whose joy is complete precisely in not being the one married. The clearest statement of the Hidden Life anywhere in the Gospels, spoken while it costs something.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S6 · chapters: C23 · practices: PR13 · confidence: high
+
+---
+
+## 14. John 4:1-15 — The woman at the well; living water
+
+> **4:1** Therefore when the Lord knew that the Pharisees had heard that Jesus was making and baptizing more disciples than John
+> **4:2** (although Jesus himself didn’t baptize, but his disciples),
+> **4:3** he left Judea, and departed into Galilee.
+> **4:4** He needed to pass through Samaria.
+> **4:5** So he came to a city of Samaria, called Sychar, near the parcel of ground that Jacob gave to his son, Joseph.
+> **4:6** Jacob’s well was there. Jesus therefore, being tired from his journey, sat down by the well. It was about the sixth hour.
+> **4:7** A woman of Samaria came to draw water. Jesus said to her, “Give me a drink.”
+> **4:8** For his disciples had gone away into the city to buy food.
+> **4:9** The Samaritan woman therefore said to him, “How is it that you, being a Jew, ask for a drink from me, a Samaritan woman?” (For Jews have no dealings with Samaritans.)
+> **4:10** Jesus answered her, “If you knew the gift of God, and who it is who says to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.”
+> **4:11** The woman said to him, “Sir, you have nothing to draw with, and the well is deep. From where then have you that living water?
+> **4:12** Are you greater than our father, Jacob, who gave us the well, and drank of it himself, as did his children, and his livestock?”
+> **4:13** Jesus answered her, “Everyone who drinks of this water will thirst again,
+> **4:14** but whoever drinks of the water that I will give him will never thirst again; but the water that I will give him will become in him a well of water springing up to eternal life.”
+> **4:15** The woman said to him, “Sir, give me this water, so that I don’t get thirsty, neither come all the way here to draw.”
+
+**Claim.** He is tired, sitting, and asks her for a drink, which places him in her debt before he offers her anything. Two boundaries crossed at once, and the approach is made from need rather than from strength.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4 · chapters: C16, C17 · practices: none · confidence: high
+
+---
+
+## 15. John 4:16-26 — Five husbands; worship in spirit and truth
+
+> **4:16** Jesus said to her, “Go, call your husband, and come here.”
+> **4:17** The woman answered, “I have no husband.” Jesus said to her, “You said well, ‘I have no husband,’
+> **4:18** for you have had five husbands; and he whom you now have is not your husband. This you have said truly.”
+> **4:19** The woman said to him, “Sir, I perceive that you are a prophet.
+> **4:20** Our fathers worshiped in this mountain, and you Jews say that in Jerusalem is the place where people ought to worship.”
+> **4:21** Jesus said to her, “Woman, believe me, the hour comes, when neither in this mountain, nor in Jerusalem, will you worship the Father.
+> **4:22** You worship that which you don’t know. We worship that which we know; for salvation is from the Jews.
+> **4:23** But the hour comes, and now is, when the true worshippers will worship the Father in spirit and truth, for the Father seeks such to be his worshippers.
+> **4:24** God is spirit, and those who worship him must worship in spirit and truth.”
+> **4:25** The woman said to him, “I know that Messiah comes,” (he who is called Christ). “When he has come, he will declare to us all things.”
+> **4:26** Jesus said to her, “I am he, the one who speaks to you.”
+
+**Claim.** Her situation is named exactly and without condemnation, and she is not asked to repent before the conversation continues to worship. Truth told plainly at the point where it would be easiest to soften or to shame.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S1, S2 · chapters: C04, C07 · practices: PR01 · confidence: high
+
+---
+
+## 16. John 4:27-38 — My food is to do the will of him who sent me
+
+> **4:27** At this, his disciples came. They marveled that he was speaking with a woman; yet no one said, “What are you looking for?” or, “Why do you speak with her?”
+> **4:28** So the woman left her water pot, and went away into the city, and said to the people,
+> **4:29** “Come, see a man who told me everything that I did. Can this be the Christ?”
+> **4:30** They went out of the city, and were coming to him.
+> **4:31** In the meanwhile, the disciples urged him, saying, “Rabbi, eat.”
+> **4:32** But he said to them, “I have food to eat that you don’t know about.”
+> **4:33** The disciples therefore said one to another, “Has anyone brought him something to eat?”
+> **4:34** Jesus said to them, “My food is to do the will of him who sent me, and to accomplish his work.
+> **4:35** Don’t you say, ‘There are yet four months until the harvest?’ Behold, I tell you, lift up your eyes, and look at the fields, that they are white for harvest already.
+> **4:36** He who reaps receives wages, and gathers fruit to eternal life; that both he who sows and he who reaps may rejoice together.
+> **4:37** For in this the saying is true, ‘One sows, and another reaps.’
+> **4:38** I sent you to reap that for which you haven’t labored. Others have labored, and you have entered into their labor.”
+
+**Claim.** Sustenance relocated into the work itself, and then the harvest is said to be already white while the disciples are calculating four months. Ordinary Faithfulness given its motive: the doing is the eating.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S4 · chapters: C13 · practices: none · confidence: high
+
+---
+
+## 17. John 4:39-42 — Now we believe, not because of your speaking
+
+> **4:39** From that city many of the Samaritans believed in him because of the word of the woman, who testified, “He told me everything that I did.”
+> **4:40** So when the Samaritans came to him, they begged him to stay with them. He stayed there two days.
+> **4:41** Many more believed because of his word.
+> **4:42** They said to the woman, “Now we believe, not because of your speaking; for we have heard for ourselves, and know that this is indeed the Christ, the Savior of the world.”
+
+**Claim.** The Samaritans move from second-hand testimony to first-hand hearing and say so plainly. Witness that succeeds by making itself unnecessary, which is the mark C08 looks for in a teacher.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S2, S3 · chapters: C08, C12 · practices: none · confidence: high
+
+---
+
+## 18. John 5:1-9 — Do you want to be made well?
+
+> **5:1** After these things, there was a feast of the Jews, and Jesus went up to Jerusalem.
+> **5:2** Now in Jerusalem by the sheep gate, there is a pool, which is called in Hebrew, “Bethesda,” having five porches.
+> **5:3** In these lay a great multitude of those who were sick, blind, lame, or paralyzed, waiting for the moving of the water;
+> **5:4** for an angel went down at certain times into the pool, and stirred up the water. Whoever stepped in first after the stirring of the water was made whole of whatever disease he had.
+> **5:5** A certain man was there, who had been sick for thirty-eight years.
+> **5:6** When Jesus saw him lying there, and knew that he had been sick for a long time, he asked him, “Do you want to be made well?”
+> **5:7** The sick man answered him, “Sir, I have no one to put me into the pool when the water is stirred up, but while I’m coming, another steps down before me.”
+> **5:8** Jesus said to him, “Arise, take up your mat, and walk.”
+> **5:9** Immediately, the man was made well, and took up his mat and walked. Now it was the Sabbath on that day.
+
+**Claim.** Thirty-eight years, and the question asked is whether he wants it. The man answers with an explanation of why he cannot rather than with yes, which is the honest shape of long illness and is not held against him.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S5 · chapters: C19 · practices: none · confidence: high
+
+---
+
+## 19. John 5:19-30 — The Son can do nothing of himself
+
+> **5:19** Jesus therefore answered them, “Most certainly, I tell you, the Son can do nothing of himself, but what he sees the Father doing. For whatever things he does, these the Son also does likewise.
+> **5:20** For the Father has affection for the Son, and shows him all things that he himself does. He will show him greater works than these, that you may marvel.
+> **5:21** For as the Father raises the dead and gives them life, even so the Son also gives life to whom he desires.
+> **5:22** For the Father judges no one, but he has given all judgment to the Son,
+> **5:23** that all may honor the Son, even as they honor the Father. He who doesn’t honor the Son doesn’t honor the Father who sent him.
+> **5:24** “Most certainly I tell you, he who hears my word, and believes him who sent me, has eternal life, and doesn’t come into judgment, but has passed out of death into life.
+> **5:25** Most certainly, I tell you, the hour comes, and now is, when the dead will hear the Son of God’s voice; and those who hear will live.
+> **5:26** For as the Father has life in himself, even so he gave to the Son also to have life in himself.
+> **5:27** He also gave him authority to execute judgment, because he is a son of man.
+> **5:28** Don’t marvel at this, for the hour comes, in which all that are in the tombs will hear his voice,
+> **5:29** and will come out; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgment.
+> **5:30** I can of myself do nothing. As I hear, I judge, and my judgment is righteous; because I don’t seek my own will, but the will of my Father who sent me.
+
+**Claim.** The dependence that C11 states as a branch to a vine is stated here as a claim about the Son himself. Nothing of himself, only what he sees — which forecloses reading dependence as a concession made to human weakness.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S3 · chapters: C10, C11 · practices: none · confidence: high
+
+---
+
+## 20. John 5:39-47 — You search the Scriptures, yet you will not come to me
+
+> **5:39** “You search the Scriptures, because you think that in them you have eternal life; and these are they which testify about me.
+> **5:40** Yet you will not come to me, that you may have life.
+> **5:41** I don’t receive glory from men.
+> **5:42** But I know you, that you don’t have God’s love in yourselves.
+> **5:43** I have come in my Father’s name, and you don’t receive me. If another comes in his own name, you will receive him.
+> **5:44** How can you believe, who receive glory from one another, and you don’t seek the glory that comes from the only God?
+> **5:45** “Don’t think that I will accuse you to the Father. There is one who accuses you, even Moses, on whom you have set your hope.
+> **5:46** For if you believed Moses, you would believe me; for he wrote about me.
+> **5:47** But if you don’t believe his writings, how will you believe my words?”
+
+**Claim.** Diligent study named as the very thing standing in for what it points to, and then the motive is exposed: they receive glory from one another. Learning that has become a substitute for the life it describes.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S1, S2 · chapters: C02, C12 · practices: none · confidence: high
+
+---
+
+## 21. John 6:1-15 — Five loaves; gather up the broken pieces
+
+> **6:1** After these things, Jesus went away to the other side of the sea of Galilee, which is also called the Sea of Tiberias.
+> **6:2** A great multitude followed him, because they saw his signs which he did on those who were sick.
+> **6:3** Jesus went up into the mountain, and he sat there with his disciples.
+> **6:4** Now the Passover, the feast of the Jews, was at hand.
+> **6:5** Jesus therefore lifting up his eyes, and seeing that a great multitude was coming to him, said to Philip, “Where are we to buy bread, that these may eat?”
+> **6:6** This he said to test him, for he himself knew what he would do.
+> **6:7** Philip answered him, “Two hundred denarii worth of bread is not sufficient for them, that everyone of them may receive a little.”
+> **6:8** One of his disciples, Andrew, Simon Peter’s brother, said to him,
+> **6:9** “There is a boy here who has five barley loaves and two fish, but what are these among so many?”
+> **6:10** Jesus said, “Have the people sit down.” Now there was much grass in that place. So the men sat down, in number about five thousand.
+> **6:11** Jesus took the loaves; and having given thanks, he distributed to the disciples, and the disciples to those who were sitting down; likewise also of the fish as much as they desired.
+> **6:12** When they were filled, he said to his disciples, “Gather up the broken pieces which are left over, that nothing be lost.”
+> **6:13** So they gathered them up, and filled twelve baskets with broken pieces from the five barley loaves, which were left over by those who had eaten.
+> **6:14** When therefore the people saw the sign which Jesus did, they said, “This is truly the prophet who comes into the world.”
+> **6:15** Jesus therefore, perceiving that they were about to come and take him by force, to make him king, withdrew again to the mountain by himself.
+
+**Claim.** Everyone is fed, the fragments are collected so that nothing is lost, and he withdraws alone when they come to make him king. Provision and refusal of acclaim placed in the same scene.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4, S6 · chapters: C16, C23 · practices: PR13 · confidence: high
+
+---
+
+## 22. John 6:26-40 — I am the bread of life
+
+> **6:26** Jesus answered them, “Most certainly I tell you, you seek me, not because you saw signs, but because you ate of the loaves, and were filled.
+> **6:27** Don’t work for the food which perishes, but for the food which remains to eternal life, which the Son of Man will give to you. For God the Father has sealed him.”
+> **6:28** They said therefore to him, “What must we do, that we may work the works of God?”
+> **6:29** Jesus answered them, “This is the work of God, that you believe in him whom he has sent.”
+> **6:30** They said therefore to him, “What then do you do for a sign, that we may see, and believe you? What work do you do?
+> **6:31** Our fathers ate the manna in the wilderness. As it is written, ‘He gave them bread out of heaven to eat.’”
+> **6:32** Jesus therefore said to them, “Most certainly, I tell you, it wasn’t Moses who gave you the bread out of heaven, but my Father gives you the true bread out of heaven.
+> **6:33** For the bread of God is that which comes down out of heaven, and gives life to the world.”
+> **6:34** They said therefore to him, “Lord, always give us this bread.”
+> **6:35** Jesus said to them, “I am the bread of life. He who comes to me will not be hungry, and he who believes in me will never be thirsty.
+> **6:36** But I told you that you have seen me, and yet you don’t believe.
+> **6:37** All those whom the Father gives me will come to me. He who comes to me I will in no way throw out.
+> **6:38** For I have come down from heaven, not to do my own will, but the will of him who sent me.
+> **6:39** This is the will of my Father who sent me, that of all he has given to me I should lose nothing, but should raise him up at the last day.
+> **6:40** This is the will of the one who sent me, that everyone who sees the Son, and believes in him, should have eternal life; and I will raise him up at the last day.”
+
+**Claim.** The crowd is told plainly that they came because they were fed, and then offered food that does not perish. Coming and never being cast out is stated as the terms of remaining before any conditions are named.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S3 · chapters: C10, C11 · practices: none · confidence: high
+
+---
+
+## 23. John 6:52-59 — He who eats my flesh lives in me, and I in him
+
+> **6:52** The Jews therefore contended with one another, saying, “How can this man give us his flesh to eat?”
+> **6:53** Jesus therefore said to them, “Most certainly I tell you, unless you eat the flesh of the Son of Man and drink his blood, you don’t have life in yourselves.
+> **6:54** He who eats my flesh and drinks my blood has eternal life, and I will raise him up at the last day.
+> **6:55** For my flesh is food indeed, and my blood is drink indeed.
+> **6:56** He who eats my flesh and drinks my blood lives in me, and I in him.
+> **6:57** As the living Father sent me, and I live because of the Father; so he who feeds on me, he will also live because of me.
+> **6:58** This is the bread which came down out of heaven—not as our fathers ate the manna, and died. He who eats this bread will live forever.”
+> **6:59** He said these things in the synagogue, as he taught in Capernaum.
+
+**Claim.** The mutual indwelling of C11 stated in the most physical language available, deliberately scandalous and not softened when the hearers object. Abiding as ingestion rather than as sentiment.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S3 · chapters: C11 · practices: none · confidence: high
+
+---
+
+## 24. John 6:60-71 — This is a hard saying; many went back
+
+> **6:60** Therefore many of his disciples, when they heard this, said, “This is a hard saying! Who can listen to it?”
+> **6:61** But Jesus knowing in himself that his disciples murmured at this, said to them, “Does this cause you to stumble?
+> **6:62** Then what if you would see the Son of Man ascending to where he was before?
+> **6:63** It is the spirit who gives life. The flesh profits nothing. The words that I speak to you are spirit, and are life.
+> **6:64** But there are some of you who don’t believe.” For Jesus knew from the beginning who they were who didn’t believe, and who it was who would betray him.
+> **6:65** He said, “For this cause have I said to you that no one can come to me, unless it is given to him by my Father.”
+> **6:66** At this, many of his disciples went back, and walked no more with him.
+> **6:67** Jesus said therefore to the twelve, “You don’t also want to go away, do you?”
+> **6:68** Simon Peter answered him, “Lord, to whom would we go? You have the words of eternal life.
+> **6:69** We have come to believe and know that you are the Christ, the Son of the living God.”
+> **6:70** Jesus answered them, “Didn’t I choose you, the twelve, and one of you is a devil?”
+> **6:71** Now he spoke of Judas, the son of Simon Iscariot, for it was he who would betray him, being one of the twelve.
+
+**Claim.** Disciples leave over teaching rather than over persecution, and he lets them go without amending it. Peter's answer is not agreement but the absence of an alternative — to whom would we go — which is a more durable ground than enthusiasm.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S3 · chapters: C12 · practices: none · confidence: high
+
+---
+
+## 25. John 7:1-13 — Even his brothers didn't believe in him
+
+> **7:1** After these things, Jesus was walking in Galilee, for he wouldn’t walk in Judea, because the Jews sought to kill him.
+> **7:2** Now the feast of the Jews, the Feast of Booths, was at hand.
+> **7:3** His brothers therefore said to him, “Depart from here, and go into Judea, that your disciples also may see your works which you do.
+> **7:4** For no one does anything in secret, and himself seeks to be known openly. If you do these things, reveal yourself to the world.”
+> **7:5** For even his brothers didn’t believe in him.
+> **7:6** Jesus therefore said to them, “My time has not yet come, but your time is always ready.
+> **7:7** The world can’t hate you, but it hates me, because I testify about it, that its works are evil.
+> **7:8** You go up to the feast. I am not yet going up to this feast, because my time is not yet fulfilled.”
+> **7:9** Having said these things to them, he stayed in Galilee.
+> **7:10** But when his brothers had gone up to the feast, then he also went up, not publicly, but as it were in secret.
+> **7:11** The Jews therefore sought him at the feast, and said, “Where is he?”
+> **7:12** There was much murmuring among the multitudes concerning him. Some said, “He is a good man.” Others said, “Not so, but he leads the multitude astray.”
+> **7:13** Yet no one spoke openly of him for fear of the Jews.
+
+**Claim.** His brothers advise him to work publicly since no one seeking recognition acts in secret, and he goes up privately instead. The Hidden Life declining direct family pressure to make itself visible.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S6 · chapters: C23 · practices: PR13 · confidence: high
+
+---
+
+## 26. John 7:14-24 — If anyone desires to do his will, he will know
+
+> **7:14** But when it was now the midst of the feast, Jesus went up into the temple and taught.
+> **7:15** The Jews therefore marveled, saying, “How does this man know letters, having never been educated?”
+> **7:16** Jesus therefore answered them, “My teaching is not mine, but his who sent me.
+> **7:17** If anyone desires to do his will, he will know about the teaching, whether it is from God, or if I am speaking from myself.
+> **7:18** He who speaks from himself seeks his own glory, but he who seeks the glory of him who sent him is true, and no unrighteousness is in him.
+> **7:19** Didn’t Moses give you the law, and yet none of you keeps the law? Why do you seek to kill me?”
+> **7:20** The multitude answered, “You have a demon! Who seeks to kill you?”
+> **7:21** Jesus answered them, “I did one work, and you all marvel because of it.
+> **7:22** Moses has given you circumcision (not that it is of Moses, but of the fathers), and on the Sabbath you circumcise a boy.
+> **7:23** If a boy receives circumcision on the Sabbath, that the law of Moses may not be broken, are you angry with me, because I made a man completely healthy on the Sabbath?
+> **7:24** Don’t judge according to appearance, but judge righteous judgment.”
+
+**Claim.** Willingness to obey is placed before understanding rather than after it, which reverses the order most people assume. The chapter then closes with the instruction not to judge by appearance, which is C07's whole argument in a sentence.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S2, S3 · chapters: C07, C12 · practices: none · confidence: high
+
+---
+
+## 27. John 7:37-39 — Rivers of living water
+
+> **7:37** Now on the last and greatest day of the feast, Jesus stood and cried out, “If anyone is thirsty, let him come to me and drink!
+> **7:38** He who believes in me, as the Scripture has said, from within him will flow rivers of living water.”
+> **7:39** But he said this about the Spirit, which those believing in him were to receive. For the Holy Spirit was not yet given, because Jesus wasn’t yet glorified.
+
+**Claim.** Thirst is the only qualification named, and what is received becomes a source rather than a supply. Interior life described as overflowing outward by nature, not by additional effort.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S3 · chapters: C09, C11 · practices: none · confidence: high
+
+---
+
+## 28. John 7:45-52 — Does our law judge a man before it hears him?
+
+> **7:45** The officers therefore came to the chief priests and Pharisees, and they said to them, “Why didn’t you bring him?”
+> **7:46** The officers answered, “No man ever spoke like this man!”
+> **7:47** The Pharisees therefore answered them, “You aren’t also led astray, are you?
+> **7:48** Have any of the rulers believed in him, or of the Pharisees?
+> **7:49** But this multitude that doesn’t know the law is accursed.”
+> **7:50** Nicodemus (he who came to him by night, being one of them) said to them,
+> **7:51** “Does our law judge a man, unless it first hears from him personally and knows what he does?”
+> **7:52** They answered him, “Are you also from Galilee? Search, and see that no prophet has arisen out of Galilee.”
+
+**Claim.** Nicodemus intervenes not on the merits but on procedure — the man has not been heard — and is answered with an insult about his origins. Listening as Mercy stated as a legal principle, and refused.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S4 · chapters: C15 · practices: PR16 · confidence: high
+
+---
+
+## 29. John 8:1-11 — Neither do I condemn you
+
+> **8:1** but Jesus went to the Mount of Olives.
+> **8:2** Now very early in the morning, he came again into the temple, and all the people came to him. He sat down, and taught them.
+> **8:3** The scribes and the Pharisees brought a woman taken in adultery. Having set her in the midst,
+> **8:4** they told him, “Teacher, we found this woman in adultery, in the very act.
+> **8:5** Now in our law, Moses commanded us to stone such. What then do you say about her?”
+> **8:6** They said this testing him, that they might have something to accuse him of. But Jesus stooped down, and wrote on the ground with his finger.
+> **8:7** But when they continued asking him, he looked up and said to them, “He who is without sin among you, let him throw the first stone at her.”
+> **8:8** Again he stooped down, and with his finger wrote on the ground.
+> **8:9** They, when they heard it, being convicted by their conscience, went out one by one, beginning from the oldest, even to the last. Jesus was left alone with the woman where she was, in the middle.
+> **8:10** Jesus, standing up, saw her and said, “Woman, where are your accusers? Did no one condemn you?”
+> **8:11** She said, “No one, Lord.” Jesus said, “Neither do I condemn you. Go your way. From now on, sin no more.”
+
+**Claim.** The accusers are turned to their own condition and leave from the eldest down, and the woman is neither condemned nor told that nothing happened. The Moral Audit and Merciful Reintegration performed in a single scene, with go and sin no more kept intact.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S1, S7 · chapters: C04, C29 · practices: PR01, PR29 · confidence: high
+
+---
+
+## 30. John 8:31-36 — If you remain in my word, the truth will make you free
+
+> **8:31** Jesus therefore said to those Jews who had believed him, “If you remain in my word, then you are truly my disciples.
+> **8:32** You will know the truth, and the truth will make you free.”
+> **8:33** They answered him, “We are Abraham’s seed, and have never been in bondage to anyone. How do you say, ‘You will be made free?’”
+> **8:34** Jesus answered them, “Most certainly I tell you, everyone who commits sin is the bondservant of sin.
+> **8:35** A bondservant doesn’t live in the house forever. A son remains forever.
+> **8:36** If therefore the Son makes you free, you will be free indeed.
+
+**Claim.** Freedom is made the outcome of remaining rather than its precondition, and the bondage named is to sin rather than to any external power. Abiding stated as the mechanism by which a person stops being owned.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S3 · chapters: C10, C11 · practices: none · confidence: high
+
+---
+
+## 31. John 9:1-12 — Who sinned, this man or his parents?
+
+> **9:1** As he passed by, he saw a man blind from birth.
+> **9:2** His disciples asked him, “Rabbi, who sinned, this man or his parents, that he was born blind?”
+> **9:3** Jesus answered, “Neither did this man sin, nor his parents; but, that the works of God might be revealed in him.
+> **9:4** I must work the works of him who sent me, while it is day. The night is coming, when no one can work.
+> **9:5** While I am in the world, I am the light of the world.”
+> **9:6** When he had said this, he spat on the ground, made mud with the saliva, anointed the blind man’s eyes with the mud,
+> **9:7** and said to him, “Go, wash in the pool of Siloam” (which means “Sent”). So he went away, washed, and came back seeing.
+> **9:8** The neighbors therefore, and those who saw that he was blind before, said, “Isn’t this he who sat and begged?”
+> **9:9** Others were saying, “It is he.” Still others were saying, “He looks like him.” He said, “I am he.”
+> **9:10** They therefore were asking him, “How were your eyes opened?”
+> **9:11** He answered, “A man called Jesus made mud, anointed my eyes, and said to me, ‘Go to the pool of Siloam, and wash.’ So I went away and washed, and I received sight.”
+> **9:12** Then they asked him, “Where is he?” He said, “I don’t know.”
+
+**Claim.** The disciples propose a diagnosis before asking whether one is needed, and the premise is rejected outright. Interior Diagnosis has a boundary here: not every affliction has a moral root, and assuming one is its characteristic failure.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, mercy · stages: S5 · chapters: C21 · practices: PR02 · confidence: high
+
+---
+
+## 32. John 9:24-34 — One thing I know: I was blind, and now I see
+
+> **9:24** So they called the man who was blind a second time, and said to him, “Give glory to God. We know that this man is a sinner.”
+> **9:25** He therefore answered, “I don’t know if he is a sinner. One thing I do know: that though I was blind, now I see.”
+> **9:26** They said to him again, “What did he do to you? How did he open your eyes?”
+> **9:27** He answered them, “I told you already, and you didn’t listen. Why do you want to hear it again? You don’t also want to become his disciples, do you?”
+> **9:28** They insulted him and said, “You are his disciple, but we are disciples of Moses.
+> **9:29** We know that God has spoken to Moses. But as for this man, we don’t know where he comes from.”
+> **9:30** The man answered them, “How amazing! You don’t know where he comes from, yet he opened my eyes.
+> **9:31** We know that God doesn’t listen to sinners, but if anyone is a worshipper of God, and does his will, he listens to him.
+> **9:32** Since the world began it has never been heard of that anyone opened the eyes of someone born blind.
+> **9:33** If this man were not from God, he could do nothing.”
+> **9:34** They answered him, “You were altogether born in sins, and do you teach us?” They threw him out.
+
+**Claim.** Pressed twice by people with more standing, he refuses to speculate beyond what happened to him and is expelled for it. Testimony limited to experience, which turns out to be the hardest kind to overturn.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S2, S3 · chapters: C06, C12 · practices: none · confidence: high
+
+---
+
+## 33. John 9:35-41 — If you were blind, you would have no sin
+
+> **9:35** Jesus heard that they had thrown him out, and finding him, he said, “Do you believe in the Son of God?”
+> **9:36** He answered, “Who is he, Lord, that I may believe in him?”
+> **9:37** Jesus said to him, “You have both seen him, and it is he who speaks with you.”
+> **9:38** He said, “Lord, I believe!” and he worshiped him.
+> **9:39** Jesus said, “I came into this world for judgment, that those who don’t see may see; and that those who see may become blind.”
+> **9:40** Those of the Pharisees who were with him heard these things, and said to him, “Are we also blind?”
+> **9:41** Jesus said to them, “If you were blind, you would have no sin; but now you say, ‘We see.’ Therefore your sin remains.
+
+**Claim.** The chapter ends by inverting its own subject: the man born blind sees, and those certain of their sight are the ones who remain in it. C07's central claim, that sight is a moral condition rather than an optical one, argued to its sharpest point.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S2 · chapters: C07 · practices: none · confidence: high
+
+---
+
+## 34. John 10:7-18 — The good shepherd and the hired hand
+
+> **10:7** Jesus therefore said to them again, “Most certainly, I tell you, I am the sheep’s door.
+> **10:8** All who came before me are thieves and robbers, but the sheep didn’t listen to them.
+> **10:9** I am the door. If anyone enters in by me, he will be saved, and will go in and go out, and will find pasture.
+> **10:10** The thief only comes to steal, kill, and destroy. I came that they may have life, and may have it abundantly.
+> **10:11** I am the good shepherd. The good shepherd lays down his life for the sheep.
+> **10:12** He who is a hired hand, and not a shepherd, who doesn’t own the sheep, sees the wolf coming, leaves the sheep, and flees. The wolf snatches the sheep, and scatters them.
+> **10:13** The hired hand flees because he is a hired hand, and doesn’t care for the sheep.
+> **10:14** I am the good shepherd. I know my own, and I’m known by my own;
+> **10:15** even as the Father knows me, and I know the Father. I lay down my life for the sheep.
+> **10:16** I have other sheep, which are not of this fold. I must bring them also, and they will hear my voice. They will become one flock with one shepherd.
+> **10:17** Therefore the Father loves me, because I lay down my life, that I may take it again.
+> **10:18** No one takes it away from me, but I lay it down by myself. I have power to lay it down, and I have power to take it again. I received this commandment from my Father.”
+
+**Claim.** The hireling flees because the sheep are not his own, which locates the difference in ownership rather than in courage. Unobligated Loyalty given its clearest contrast: staying when nothing but the bond compels it.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4 · chapters: C16 · practices: PR26 · confidence: high
+
+---
+
+## 35. John 11:1-16 — He stayed two days where he was
+
+> **11:1** Now a certain man was sick, Lazarus from Bethany, of the village of Mary and her sister, Martha.
+> **11:2** It was that Mary who had anointed the Lord with ointment, and wiped his feet with her hair, whose brother, Lazarus, was sick.
+> **11:3** The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.”
+> **11:4** But when Jesus heard it, he said, “This sickness is not to death, but for the glory of God, that God’s Son may be glorified by it.”
+> **11:5** Now Jesus loved Martha, and her sister, and Lazarus.
+> **11:6** When therefore he heard that he was sick, he stayed two days in the place where he was.
+> **11:7** Then after this he said to the disciples, “Let’s go into Judea again.”
+> **11:8** The disciples told him, “Rabbi, the Jews were just trying to stone you, and are you going there again?”
+> **11:9** Jesus answered, “Aren’t there twelve hours of daylight? If a man walks in the day, he doesn’t stumble, because he sees the light of this world.
+> **11:10** But if a man walks in the night, he stumbles, because the light isn’t in him.”
+> **11:11** He said these things, and after that, he said to them, “Our friend, Lazarus, has fallen asleep, but I am going so that I may awake him out of sleep.”
+> **11:12** The disciples therefore said, “Lord, if he has fallen asleep, he will recover.”
+> **11:13** Now Jesus had spoken of his death, but they thought that he spoke of taking rest in sleep.
+> **11:14** So Jesus said to them plainly then, “Lazarus is dead.
+> **11:15** I am glad for your sakes that I was not there, so that you may believe. Nevertheless, let’s go to him.”
+> **11:16** Thomas therefore, who is called Didymus, said to his fellow disciples, “Let’s go also, that we may die with him.”
+
+**Claim.** The delay is stated flatly and immediately after the statement that he loved them, so the two cannot be read against each other. Waiting that is neither indifference nor inability, and the text offers no relief from how it must have felt.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S5, S6 · chapters: C19, C25 · practices: PR14 · confidence: high
+
+---
+
+## 36. John 11:28-37 — Jesus wept
+
+> **11:28** When she had said this, she went away, and called Mary, her sister, secretly, saying, “The Teacher is here, and is calling you.”
+> **11:29** When she heard this, she arose quickly, and went to him.
+> **11:30** Now Jesus had not yet come into the village, but was in the place where Martha met him.
+> **11:31** Then the Jews who were with her in the house, and were consoling her, when they saw Mary, that she rose up quickly and went out, followed her, saying, “She is going to the tomb to weep there.”
+> **11:32** Therefore when Mary came to where Jesus was, and saw him, she fell down at his feet, saying to him, “Lord, if you would have been here, my brother wouldn’t have died.”
+> **11:33** When Jesus therefore saw her weeping, and the Jews weeping who came with her, he groaned in the spirit, and was troubled,
+> **11:34** and said, “Where have you laid him?” They told him, “Lord, come and see.”
+> **11:35** Jesus wept.
+> **11:36** The Jews therefore said, “See how much affection he had for him!”
+> **11:37** Some of them said, “Couldn’t this man, who opened the eyes of him who was blind, have also kept this man from dying?”
+
+**Claim.** He groans, is troubled, and weeps at a grave he is about to open. Grief expressed fully in full knowledge that it will shortly be answered, which forecloses treating lament as something faith should have made unnecessary.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S5 · chapters: C19 · practices: PR08 · confidence: high
+
+---
+
+## 37. John 12:1-8 — The ointment poured out
+
+> **12:1** Then six days before the Passover, Jesus came to Bethany, where Lazarus was, who had been dead, whom he raised from the dead.
+> **12:2** So they made him a supper there. Martha served, but Lazarus was one of those who sat at the table with him.
+> **12:3** Mary, therefore, took a pound of ointment of pure nard, very precious, and anointed the feet of Jesus, and wiped his feet with her hair. The house was filled with the fragrance of the ointment.
+> **12:4** Then Judas Iscariot, Simon’s son, one of his disciples, who would betray him, said,
+> **12:5** “Why wasn’t this ointment sold for three hundred denarii, and given to the poor?”
+> **12:6** Now he said this, not because he cared for the poor, but because he was a thief, and having the money box, used to steal what was put into it.
+> **12:7** But Jesus said, “Leave her alone. She has kept this for the day of my burial.
+> **12:8** For you always have the poor with you, but you don’t always have me.”
+
+**Claim.** An extravagance is defended against an objection framed in terms of the poor, and the objector's motive is named by the narrator rather than by Jesus. Attachment and its opposite shown at the same table.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4, S7 · chapters: C18, C28 · practices: none · confidence: high
+
+---
+
+## 38. John 12:20-26 — Unless a grain of wheat falls into the earth and dies
+
+> **12:20** Now there were certain Greeks among those that went up to worship at the feast.
+> **12:21** These, therefore, came to Philip, who was from Bethsaida of Galilee, and asked him, saying, “Sir, we want to see Jesus.”
+> **12:22** Philip came and told Andrew, and in turn, Andrew came with Philip, and they told Jesus.
+> **12:23** Jesus answered them, “The time has come for the Son of Man to be glorified.
+> **12:24** Most certainly I tell you, unless a grain of wheat falls into the earth and dies, it remains by itself alone. But if it dies, it bears much fruit.
+> **12:25** He who loves his life will lose it. He who hates his life in this world will keep it to eternal life.
+> **12:26** If anyone serves me, let him follow me. Where I am, there will my servant also be. If anyone serves me, the Father will honor him.
+
+**Claim.** Fruitfulness made conditional on a burial, with the alternative being remaining alone. The Discipline of Gradualism given its hardest image: the interval is not merely slow, it looks like loss while it lasts.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S6 · chapters: C25 · practices: PR14 · confidence: high
+
+---
+
+## 39. John 12:37-43 — They loved men's praise more than God's praise
+
+> **12:37** But though he had done so many signs before them, yet they didn’t believe in him,
+> **12:38** that the word of Isaiah the prophet might be fulfilled, which he spoke, “Lord, who has believed our report? To whom has the arm of the Lord been revealed?”
+> **12:39** For this cause they couldn’t believe, for Isaiah said again,
+> **12:40** “He has blinded their eyes and he hardened their heart, lest they should see with their eyes, and perceive with their heart, and would turn, and I would heal them.”
+> **12:41** Isaiah said these things when he saw his glory, and spoke of him.
+> **12:42** Nevertheless even of the rulers many believed in him, but because of the Pharisees they didn’t confess it, so that they wouldn’t be put out of the synagogue,
+> **12:43** for they loved men’s praise more than God’s praise.
+
+**Claim.** Rulers who believed would not confess it, and the reason given is the weighing of two audiences. The Hidden Life inverted — belief kept secret for reputation rather than practice kept secret for God.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility · stages: S6 · chapters: C23 · practices: PR13 · confidence: high
+
+---
+
+## 40. John 13:1-11 — He laid aside his outer garments and washed their feet
 
 > **13:1** Now before the feast of the Passover, Jesus, knowing that his time had come that he would depart from this world to the Father, having loved his own who were in the world, he loved them to the end.
 > **13:2** During supper, the devil having already put into the heart of Judas Iscariot, Simon’s son, to betray him,
@@ -32,7 +745,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 2. John 13:12-17 — I have given you an example
+## 41. John 13:12-17 — I have given you an example
 
 > **13:12** So when he had washed their feet, put his outer garment back on, and sat down again, he said to them, “Do you know what I have done to you?
 > **13:13** You call me, ‘Teacher’ and ‘Lord.’ You say so correctly, for so I am.
@@ -47,7 +760,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 3. John 13:18-30 — He gave the morsel to the one who would betray him
+## 42. John 13:18-30 — He gave the morsel to the one who would betray him
 
 > **13:18** I don’t speak concerning all of you. I know whom I have chosen. But that the Scripture may be fulfilled, ‘He who eats bread with me has lifted up his heel against me.’
 > **13:19** From now on, I tell you before it happens, that when it happens, you may believe that I am he.
@@ -69,7 +782,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 4. John 13:31-35 — A new commandment: love one another as I have loved you
+## 43. John 13:31-35 — A new commandment: love one another as I have loved you
 
 > **13:31** When he had gone out, Jesus said, “Now the Son of Man has been glorified, and God has been glorified in him.
 > **13:32** If God has been glorified in him, God will also glorify him in himself, and he will glorify him immediately.
@@ -83,7 +796,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 5. John 13:36-38 — The rooster will not crow until you have denied me three times
+## 44. John 13:36-38 — The rooster will not crow until you have denied me three times
 
 > **13:36** Simon Peter said to him, “Lord, where are you going?” Jesus answered, “Where I am going, you can’t follow now, but you will follow afterwards.”
 > **13:37** Peter said to him, “Lord, why can’t I follow you now? I will lay down my life for you.”
@@ -95,7 +808,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 6. John 14:1-14 — I am the way, the truth, and the life
+## 45. John 14:1-14 — I am the way, the truth, and the life
 
 > **14:1** “Don’t let your heart be troubled. Believe in God. Believe also in me.
 > **14:2** In my Father’s house are many homes. If it weren’t so, I would have told you. I am going to prepare a place for you.
@@ -118,7 +831,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 7. John 14:15-24 — We will come to him and make our home with him
+## 46. John 14:15-24 — We will come to him and make our home with him
 
 > **14:15** If you love me, keep my commandments.
 > **14:16** I will pray to the Father, and he will give you another Counselor, that he may be with you forever,—
@@ -137,7 +850,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 8. John 14:25-31 — Peace I leave with you, not as the world gives
+## 47. John 14:25-31 — Peace I leave with you, not as the world gives
 
 > **14:25** I have said these things to you, while still living with you.
 > **14:26** But the Counselor, the Holy Spirit, whom the Father will send in my name, he will teach you all things, and will remind you of all that I said to you.
@@ -153,7 +866,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 9. John 15:1-8 — I am the true vine; remain in me
+## 48. John 15:1-8 — I am the true vine; remain in me
 
 > **15:1** “I am the true vine, and my Father is the farmer.
 > **15:2** Every branch in me that doesn’t bear fruit, he takes away. Every branch that bears fruit, he prunes, that it may bear more fruit.
@@ -170,7 +883,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 10. John 15:9-17 — Remain in my love; no longer do I call you servants
+## 49. John 15:9-17 — Remain in my love; no longer do I call you servants
 
 > **15:9** Even as the Father has loved me, I also have loved you. Remain in my love.
 > **15:10** If you keep my commandments, you will remain in my love; even as I have kept my Father’s commandments, and remain in his love.
@@ -188,7 +901,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 11. John 15:18-27 — If the world hates you, it hated me first
+## 50. John 15:18-27 — If the world hates you, it hated me first
 
 > **15:18** If the world hates you, you know that it has hated me before it hated you.
 > **15:19** If you were of the world, the world would love its own. But because you are not of the world, since I chose you out of the world, therefore the world hates you.
@@ -207,7 +920,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 12. John 16:1-15 — The Spirit of truth will guide you into all truth
+## 51. John 16:1-15 — The Spirit of truth will guide you into all truth
 
 > **16:1** “These things have I spoken to you, so that you wouldn’t be caused to stumble.
 > **16:2** They will put you out of the synagogues. Yes, the time comes that whoever kills you will think that he offers service to God.
@@ -231,7 +944,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 13. John 16:16-24 — Your sorrow will be turned into joy
+## 52. John 16:16-24 — Your sorrow will be turned into joy
 
 > **16:16** A little while, and you will not see me. Again a little while, and you will see me.”
 > **16:17** Some of his disciples therefore said to one another, “What is this that he says to us, ‘A little while, and you won’t see me, and again a little while, and you will see me;’ and, ‘Because I go to the Father?’”
@@ -249,7 +962,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 14. John 16:25-33 — In the world you have oppression; but cheer up
+## 53. John 16:25-33 — In the world you have oppression; but cheer up
 
 > **16:25** I have spoken these things to you in figures of speech. But the time is coming when I will no more speak to you in figures of speech, but will tell you plainly about the Father.
 > **16:26** In that day you will ask in my name; and I don’t say to you, that I will pray to the Father for you,
@@ -267,7 +980,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 15. John 17:1-8 — This is eternal life, that they should know you
+## 54. John 17:1-8 — This is eternal life, that they should know you
 
 > **17:1** Jesus said these things, and lifting up his eyes to heaven, he said, “Father, the time has come. Glorify your Son, that your Son may also glorify you;
 > **17:2** even as you gave him authority over all flesh, he will give eternal life to all whom you have given him.
@@ -284,7 +997,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 16. John 17:9-19 — Not that you take them from the world, but keep them from the evil one
+## 55. John 17:9-19 — Not that you take them from the world, but keep them from the evil one
 
 > **17:9** I pray for them. I don’t pray for the world, but for those whom you have given me, for they are yours.
 > **17:10** All things that are mine are yours, and yours are mine, and I am glorified in them.
@@ -304,7 +1017,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 17. John 17:20-26 — That they may all be one
+## 56. John 17:20-26 — That they may all be one
 
 > **17:20** Not for these only do I pray, but for those also who believe in me through their word,
 > **17:21** that they may all be one; even as you, Father, are in me, and I in you, that they also may be one in us; that the world may believe that you sent me.
@@ -320,7 +1033,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 18. John 18:1-14 — Put the sword into its sheath
+## 57. John 18:1-14 — Put the sword into its sheath
 
 > **18:1** When Jesus had spoken these words, he went out with his disciples over the brook Kidron, where there was a garden, into which he and his disciples entered.
 > **18:2** Now Judas, who betrayed him, also knew the place, for Jesus often met there with his disciples.
@@ -343,7 +1056,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 19. John 18:15-27 — Peter warming himself at the fire of coals
+## 58. John 18:15-27 — Peter warming himself at the fire of coals
 
 > **18:15** Simon Peter followed Jesus, as did another disciple. Now that disciple was known to the high priest, and entered in with Jesus into the court of the high priest;
 > **18:16** but Peter was standing at the door outside. So the other disciple, who was known to the high priest, went out and spoke to her who kept the door, and brought in Peter.
@@ -365,7 +1078,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 20. John 18:28-40 — What is truth?
+## 59. John 18:28-40 — What is truth?
 
 > **18:28** They led Jesus therefore from Caiaphas into the Praetorium. It was early, and they themselves didn’t enter into the Praetorium, that they might not be defiled, but might eat the Passover.
 > **18:29** Pilate therefore went out to them, and said, “What accusation do you bring against this man?”
@@ -387,7 +1100,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 21. John 19:1-16 — The crown of thorns and the judgment seat
+## 60. John 19:1-16 — The crown of thorns and the judgment seat
 
 > **19:1** So Pilate then took Jesus, and flogged him.
 > **19:2** The soldiers twisted thorns into a crown, and put it on his head, and dressed him in a purple garment.
@@ -412,7 +1125,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 22. John 19:17-30 — Behold your mother; it is finished
+## 61. John 19:17-30 — Behold your mother; it is finished
 
 > **19:17** He went out, bearing his cross, to the place called “The Place of a Skull,” which is called in Hebrew, “Golgotha,”
 > **19:18** where they crucified him, and with him two others, on either side one, and Jesus in the middle.
@@ -437,7 +1150,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 23. John 19:31-42 — Joseph and Nicodemus take the body
+## 62. John 19:31-42 — Joseph and Nicodemus take the body
 
 > **19:31** Therefore the Jews, because it was the Preparation Day, so that the bodies wouldn’t remain on the cross on the Sabbath (for that Sabbath was a special one), asked of Pilate that their legs might be broken, and that they might be taken away.
 > **19:32** Therefore the soldiers came, and broke the legs of the first, and of the other who was crucified with him;
@@ -458,7 +1171,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 24. John 20:1-18 — Mary at the tomb; he calls her by name
+## 63. John 20:1-18 — Mary at the tomb; he calls her by name
 
 > **20:1** Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw the stone taken away from the tomb.
 > **20:2** Therefore she ran and came to Simon Peter, and to the other disciple whom Jesus loved, and said to them, “They have taken away the Lord out of the tomb, and we don’t know where they have laid him!”
@@ -487,7 +1200,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 25. John 20:19-23 — As the Father has sent me, even so I send you
+## 64. John 20:19-23 — As the Father has sent me, even so I send you
 
 > **20:19** When therefore it was evening, on that day, the first day of the week, and when the doors were locked where the disciples were assembled, for fear of the Jews, Jesus came and stood in the midst, and said to them, “Peace be to you.”
 > **20:20** When he had said this, he showed them his hands and his side. The disciples therefore were glad when they saw the Lord.
@@ -501,7 +1214,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 26. John 20:24-31 — Thomas, and those who have not seen
+## 65. John 20:24-31 — Thomas, and those who have not seen
 
 > **20:24** But Thomas, one of the twelve, called Didymus, wasn’t with them when Jesus came.
 > **20:25** The other disciples therefore said to him, “We have seen the Lord!” But he said to them, “Unless I see in his hands the print of the nails, and put my hand into his side, I will not believe.”
@@ -518,7 +1231,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 27. John 21:1-14 — Breakfast on the shore
+## 66. John 21:1-14 — Breakfast on the shore
 
 > **21:1** After these things, Jesus revealed himself again to the disciples at the sea of Tiberias. He revealed himself this way.
 > **21:2** Simon Peter, Thomas called Didymus, Nathanael of Cana in Galilee, and the sons of Zebedee, and two others of his disciples were together.
@@ -541,7 +1254,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 28. John 21:15-19 — Simon, do you love me? Feed my sheep
+## 67. John 21:15-19 — Simon, do you love me? Feed my sheep
 
 > **21:15** So when they had eaten their breakfast, Jesus said to Simon Peter, “Simon, son of Jonah, do you love me more than these?” He said to him, “Yes, Lord; you know that I have affection for you.” He said to him, “Feed my lambs.”
 > **21:16** He said to him again a second time, “Simon, son of Jonah, do you love me?” He said to him, “Yes, Lord; you know that I have affection for you.” He said to him, “Tend my sheep.”
@@ -555,7 +1268,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 29. John 21:20-25 — What is that to you? You follow me
+## 68. John 21:20-25 — What is that to you? You follow me
 
 > **21:20** Then Peter, turning around, saw a disciple following. This was the disciple whom Jesus sincerely loved, the one who had also leaned on Jesus’ breast at the supper and asked, “Lord, who is going to betray You?”
 > **21:21** Peter seeing him, said to Jesus, “Lord, what about this man?”

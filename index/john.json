@@ -1,12 +1,784 @@
 {
   "book": "John",
   "translation": "World English Bible (public domain)",
-  "status": "partial — chapters 13-21 only; chapters 1-12 pending",
-  "method_version": "1.1",
+  "status": "complete",
+  "method_version": "1.2",
   "text_source": "index/text/john.json",
-  "note": "Indexed from chapter 13 forward because this section was the stated test of a prediction: that C11 and C28, unreached by any of the first three books, would close here. Chapters 1-12 follow. Practice tags are assigned from the definitions in WMT A1, not from practice names.",
+  "note": "Complete. Chapters 13-21 were indexed first because they were the stated test of a prediction about C11 and C28; chapters 1-12 followed. Entries carry a mode field, and practice tags are assigned from the definitions in WMT A1 rather than from practice names.",
   "prediction_note": "The prediction was only half a genuine test. C11 quotes John 1:14 in its own text, so John was always going to close it — that is a foregone conclusion, not a confirmed forecast, and the honest anchor for C11 is John 15 rather than anything predicted. C28 was the real test: it argues for rhythm and continuity over intensity, drawn from the Didache rather than from John, and nothing guaranteed a Johannine anchor. John 21:1-14 supplies one.",
   "entries": [
+    {
+      "ref": "John 1:1-5",
+      "pericope": "In the beginning was the Word",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C26"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Creation, life, and light stated as one continuous act, with the darkness said not to have overcome the light rather than not to have understood it. The cosmological ground C24 stands on: the order a person is formed into is the order the world was made by.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 1:6-13",
+      "pericope": "He came to his own, and his own didn't receive him",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The witness is careful to say what he is not — he was not the light — and the world that was made through him fails to recognise him. Failure of recognition is located in the seer rather than in any obscurity of the thing seen.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 1:14-18",
+      "pericope": "The Word became flesh; grace and truth",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C03",
+        "C11"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The verse C11 quotes in its own text, and the pairing that gives this road its name: grace and truth realised together in one person, not balanced against each other. He pitched his tent among us, which is why abiding is a place before it is a discipline.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 1:19-28",
+      "pericope": "I am not the Christ",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "Asked four times who he is, he answers three times in the negative before offering a voice and a road. The Hidden Life under direct interrogation, where the temptation to accept an offered status is strongest.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 1:29-34",
+      "pericope": "Behold, the Lamb of God",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "He says twice that he did not know him, and grounds the testimony in what he was shown rather than in his own discernment. A prophet's credential given as received sight, which is the humility C08 requires of the one doing the testing.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 1:35-42",
+      "pericope": "What are you looking for? Come and see",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C06"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The first words he speaks in this Gospel are a question about desire, and the answer to where he is staying is an invitation to come and look. C06's perception trained by proximity rather than by explanation.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 1:43-51",
+      "pericope": "Nathanael under the fig tree",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C06",
+        "C07"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "A man who has just asked whether anything good can come from Nazareth is called one in whom there is no deceit. Prejudice and guilelessness held in the same person, and the cure is being seen accurately before he has seen anything.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 2:1-11",
+      "pericope": "The wedding at Cana",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C24",
+        "C28"
+      ],
+      "practices": [
+        "PR23"
+      ],
+      "mode": "exemplifies",
+      "connection": "The first sign is performed at a village wedding to spare a host embarrassment over the drink running out, and only the servants know where it came from. Glory revealed inside an ordinary domestic emergency, which is the Sacrament of the Ordinary given its first instance.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 2:13-22",
+      "pericope": "The temple cleared",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Zeal enacted physically against commerce conducted in a place set apart. The moral order treated as having a grain that can be violated by arrangement rather than only by intention.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "John 2:23-25",
+      "pericope": "He didn't trust himself to them, for he knew what was in man",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C07"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Belief produced by signs is met with reserve rather than welcome. Reading people by what is actually in them rather than by their profession, and the passage treats that as ordinary discernment and not suspicion.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 3:1-8",
+      "pericope": "You must be born anew; the wind blows where it wants",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "A teacher of Israel is told he does not understand, and the process is illustrated by something whose origin and destination cannot be traced. The Discipline of Unknowing applied to one's own formation: the change is real and its mechanism is not available for inspection.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 3:16-21",
+      "pericope": "He who does the truth comes to the light",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C04",
+        "C07"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "prescribes",
+      "connection": "The judgment is located in a preference — men loved the darkness — and evil deeds are said to avoid light specifically so they will not be exposed. The Moral Audit's premise stated as a diagnosis: willingness to be seen is itself the test.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 3:22-30",
+      "pericope": "He must increase, but I must decrease",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "His own disciples report that the crowds are leaving him, and he answers with the friend of the bridegroom, whose joy is complete precisely in not being the one married. The clearest statement of the Hidden Life anywhere in the Gospels, spoken while it costs something.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 4:1-15",
+      "pericope": "The woman at the well; living water",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "He is tired, sitting, and asks her for a drink, which places him in her debt before he offers her anything. Two boundaries crossed at once, and the approach is made from need rather than from strength.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 4:16-26",
+      "pericope": "Five husbands; worship in spirit and truth",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C04",
+        "C07"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "exemplifies",
+      "connection": "Her situation is named exactly and without condemnation, and she is not asked to repent before the conversation continues to worship. Truth told plainly at the point where it would be easiest to soften or to shame.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 4:27-38",
+      "pericope": "My food is to do the will of him who sent me",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Sustenance relocated into the work itself, and then the harvest is said to be already white while the disciples are calculating four months. Ordinary Faithfulness given its motive: the doing is the eating.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 4:39-42",
+      "pericope": "Now we believe, not because of your speaking",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S3"
+      ],
+      "chapters": [
+        "C08",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The Samaritans move from second-hand testimony to first-hand hearing and say so plainly. Witness that succeeds by making itself unnecessary, which is the mark C08 looks for in a teacher.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 5:1-9",
+      "pericope": "Do you want to be made well?",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Thirty-eight years, and the question asked is whether he wants it. The man answers with an explanation of why he cannot rather than with yes, which is the honest shape of long illness and is not held against him.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 5:19-30",
+      "pericope": "The Son can do nothing of himself",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C10",
+        "C11"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The dependence that C11 states as a branch to a vine is stated here as a claim about the Son himself. Nothing of himself, only what he sees — which forecloses reading dependence as a concession made to human weakness.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 5:39-47",
+      "pericope": "You search the Scriptures, yet you will not come to me",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C02",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Diligent study named as the very thing standing in for what it points to, and then the motive is exposed: they receive glory from one another. Learning that has become a substitute for the life it describes.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 6:1-15",
+      "pericope": "Five loaves; gather up the broken pieces",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C16",
+        "C23"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "Everyone is fed, the fragments are collected so that nothing is lost, and he withdraws alone when they come to make him king. Provision and refusal of acclaim placed in the same scene.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 6:26-40",
+      "pericope": "I am the bread of life",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C10",
+        "C11"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The crowd is told plainly that they came because they were fed, and then offered food that does not perish. Coming and never being cast out is stated as the terms of remaining before any conditions are named.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 6:52-59",
+      "pericope": "He who eats my flesh lives in me, and I in him",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C11"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The mutual indwelling of C11 stated in the most physical language available, deliberately scandalous and not softened when the hearers object. Abiding as ingestion rather than as sentiment.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 6:60-71",
+      "pericope": "This is a hard saying; many went back",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C12"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Disciples leave over teaching rather than over persecution, and he lets them go without amending it. Peter's answer is not agreement but the absence of an alternative — to whom would we go — which is a more durable ground than enthusiasm.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 7:1-13",
+      "pericope": "Even his brothers didn't believe in him",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "His brothers advise him to work publicly since no one seeking recognition acts in secret, and he goes up privately instead. The Hidden Life declining direct family pressure to make itself visible.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 7:14-24",
+      "pericope": "If anyone desires to do his will, he will know",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S3"
+      ],
+      "chapters": [
+        "C07",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Willingness to obey is placed before understanding rather than after it, which reverses the order most people assume. The chapter then closes with the instruction not to judge by appearance, which is C07's whole argument in a sentence.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 7:37-39",
+      "pericope": "Rivers of living water",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C09",
+        "C11"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Thirst is the only qualification named, and what is received becomes a source rather than a supply. Interior life described as overflowing outward by nature, not by additional effort.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 7:45-52",
+      "pericope": "Does our law judge a man before it hears him?",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
+      "practices": [
+        "PR16"
+      ],
+      "mode": "prescribes",
+      "connection": "Nicodemus intervenes not on the merits but on procedure — the man has not been heard — and is answered with an insult about his origins. Listening as Mercy stated as a legal principle, and refused.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 8:1-11",
+      "pericope": "Neither do I condemn you",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C04",
+        "C29"
+      ],
+      "practices": [
+        "PR01",
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "The accusers are turned to their own condition and leave from the eldest down, and the woman is neither condemned nor told that nothing happened. The Moral Audit and Merciful Reintegration performed in a single scene, with go and sin no more kept intact.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 8:31-36",
+      "pericope": "If you remain in my word, the truth will make you free",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C10",
+        "C11"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Freedom is made the outcome of remaining rather than its precondition, and the bondage named is to sin rather than to any external power. Abiding stated as the mechanism by which a person stops being owned.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 9:1-12",
+      "pericope": "Who sinned, this man or his parents?",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "mode": "counter-example",
+      "connection": "The disciples propose a diagnosis before asking whether one is needed, and the premise is rejected outright. Interior Diagnosis has a boundary here: not every affliction has a moral root, and assuming one is its characteristic failure.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 9:24-34",
+      "pericope": "One thing I know: I was blind, and now I see",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S3"
+      ],
+      "chapters": [
+        "C06",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Pressed twice by people with more standing, he refuses to speculate beyond what happened to him and is expelled for it. Testimony limited to experience, which turns out to be the hardest kind to overturn.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 9:35-41",
+      "pericope": "If you were blind, you would have no sin",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C07"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The chapter ends by inverting its own subject: the man born blind sees, and those certain of their sight are the ones who remain in it. C07's central claim, that sight is a moral condition rather than an optical one, argued to its sharpest point.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 10:7-18",
+      "pericope": "The good shepherd and the hired hand",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [
+        "PR26"
+      ],
+      "mode": "prescribes",
+      "connection": "The hireling flees because the sheep are not his own, which locates the difference in ownership rather than in courage. Unobligated Loyalty given its clearest contrast: staying when nothing but the bond compels it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 11:1-16",
+      "pericope": "He stayed two days where he was",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "counter-example",
+      "connection": "The delay is stated flatly and immediately after the statement that he loved them, so the two cannot be read against each other. Waiting that is neither indifference nor inability, and the text offers no relief from how it must have felt.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 11:28-37",
+      "pericope": "Jesus wept",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "He groans, is troubled, and weeps at a grave he is about to open. Grief expressed fully in full knowledge that it will shortly be answered, which forecloses treating lament as something faith should have made unnecessary.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 12:1-8",
+      "pericope": "The ointment poured out",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C18",
+        "C28"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "An extravagance is defended against an objection framed in terms of the poor, and the objector's motive is named by the narrator rather than by Jesus. Attachment and its opposite shown at the same table.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 12:20-26",
+      "pericope": "Unless a grain of wheat falls into the earth and dies",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "Fruitfulness made conditional on a burial, with the alternative being remaining alone. The Discipline of Gradualism given its hardest image: the interval is not merely slow, it looks like loss while it lasts.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "John 12:37-43",
+      "pericope": "They loved men's praise more than God's praise",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "counter-example",
+      "connection": "Rulers who believed would not confess it, and the reason given is the weighing of two audiences. The Hidden Life inverted — belief kept secret for reputation rather than practice kept secret for God.",
+      "confidence": "high",
+      "prior": false
+    },
     {
       "ref": "John 13:1-11",
       "pericope": "He laid aside his outer garments and washed their feet",

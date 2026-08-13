@@ -2,7 +2,7 @@
   "book": "John",
   "translation": "World English Bible (public domain)",
   "status": "complete",
-  "method_version": "1.2",
+  "method_version": "1.3",
   "text_source": "index/text/john.json",
   "note": "Complete. Chapters 13-21 were indexed first because they were the stated test of a prediction about C11 and C28; chapters 1-12 followed. Entries carry a mode field, and practice tags are assigned from the definitions in WMT A1 rather than from practice names.",
   "prediction_note": "The prediction was only half a genuine test. C11 quotes John 1:14 in its own text, so John was always going to close it — that is a foregone conclusion, not a confirmed forecast, and the honest anchor for C11 is John 15 rather than anything predicted. C28 was the real test: it argues for rhythm and continuity over intensity, drawn from the Didache rather than from John, and nothing guaranteed a Johannine anchor. John 21:1-14 supplies one.",
@@ -1385,14 +1385,24 @@
   "review_log": [
     {
       "pass": 2,
+      "section": "chapters 13-21",
       "reviewer": "second model (Gemini Spark)",
-      "scope": "chapters 13-21 (29 entries)",
       "verdicts": {
         "sound": 28,
         "overreach": 1
       },
       "record": "index/reviews/john-pass2.json",
-      "adjudication": "Accepted in full. Third instance of the same failure: a practice tag assigned from the practice's name rather than its definition. Notable because the definitions had already been added to the reviewer's brief after the first two instances — the reviewer caught this one using the very reference the drafter had supplied and then failed to consult himself."
+      "adjudication": "PR22 corrected to PR23 on 19:17-30. Two gaps later added via the synthesis pass: PR17 on 13:1-11, PR16 on 20:1-18."
+    },
+    {
+      "pass": 2,
+      "section": "chapters 1-12",
+      "reviewer": "second model (Gemini Spark)",
+      "verdicts": {
+        "sound": 39
+      },
+      "record": "index/reviews/john-1-12-pass2.json",
+      "adjudication": "Clean pass, no changes. Whole-Gospel synthesis confirmed the abiding progression through chapters 6, 14, 15 and 17, and read the prediction note correctly including its retraction."
     }
   ]
 }

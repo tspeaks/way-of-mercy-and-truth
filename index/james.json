@@ -1,7 +1,7 @@
 {
   "book": "James",
   "translation": "World English Bible (public domain)",
-  "status": "pilot",
+  "status": "complete — 107 of 108 verses; only the epistolary greeting at 1:1 is unindexed; reviewed",
   "method_version": "0.4",
   "note": "Second draft. Entries marked prior:true were already cited in WMT A3 before this index existed. Entries marked author_corrected:true were reassigned by the author after the first pass; treat those placements as settled. Confidence is the drafter's, not the author's — every medium and low entry is a question, not a claim.",
   "entries": [

@@ -1,0 +1,10 @@
+{
+  "scope": "John 1-12 (39 entries), with a whole-Gospel synthesis across all 68",
+  "verdicts": {
+    "sound": 39
+  },
+  "clean_pass": true,
+  "gaps_proposed": "None for chapters 1-12. The only gaps named were the two already applied to chapters 13-21 in the earlier synthesis pass — PR17 on 13:1-11 and PR16 on 20:1-18 — which the reviewer correctly identified as already corrected rather than proposing them again.",
+  "reviewer_self_correction": "The prediction note was read correctly this time, including the retraction inside it. The earlier John pass called that note fully validated without registering that half of it had been withdrawn — C11 quotes John 1:14 in its own text, so John was always going to close it. This pass states the half-a-test qualification in its own words and identifies John 15:1-8 as the genuine structural anchor. A reviewer catching its own prior miss is worth recording alongside the ones it caught in the drafter.",
+  "note": "First book reviewed in two passes and cleared in both. No proposed additions this time, which breaks the run of three consecutive additions that failed the definition test — though with no additions offered, the asymmetry between the reviewer's rejections and its generations was not tested here."
+}

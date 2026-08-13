@@ -1,6 +1,6 @@
 # Jonah — review package
 
-Scripture: World English Bible (public domain). Index status: first pass. Method version 0.4.
+Scripture: World English Bible (public domain). Index status: complete — all 48 verses; reviewed. Method version 0.4.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 

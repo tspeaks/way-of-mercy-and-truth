@@ -255,7 +255,7 @@ def hub_page(books):
         a(f'<li><a href="scripture-{d["book"].lower().replace(" ", "-")}.html">'
           f'<span class="lt">{esc(d["book"])}</span>'
           f'<span class="ld">{len(d["entries"])} passages · '
-          f'{len(b["text"]["verses"])} verses · method v{esc(d.get("method_version","?"))}</span>'
+          f'{esc(d.get("status", "complete"))}</span>'
           "</a></li>")
     a("</ul>")
     a('<p class="section-note" style="margin-top:22px;">The rest of the canon is not yet done. '

@@ -1,7 +1,7 @@
 {
   "book": "Jonah",
   "translation": "World English Bible (public domain)",
-  "status": "first pass",
+  "status": "complete — all 48 verses; reviewed",
   "method_version": "0.4",
   "text_source": "index/text/jonah.json",
   "note": "First indexed narrative book. Two method changes were forced by the genre. (1) A 'mode' field distinguishes a passage that prescribes a practice, one that exemplifies it, and one that shows its absence — Jonah teaches largely by counter-example, and a tag that could not say so would misrepresent the text. (2) The stricter practice test from the James review is applied throughout: a practice is tagged only where the passage prescribes or enacts it, never where it merely shares its subject matter.",

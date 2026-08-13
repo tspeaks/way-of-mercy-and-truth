@@ -1,6 +1,6 @@
 # James — review package
 
-Scripture: World English Bible (public domain). Index status: pilot. Method version 0.4.
+Scripture: World English Bible (public domain). Index status: complete — 107 of 108 verses; only the epistolary greeting at 1:1 is unindexed; reviewed. Method version 0.4.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 

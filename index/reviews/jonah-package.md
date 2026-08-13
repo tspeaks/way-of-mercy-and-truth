@@ -145,9 +145,11 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** The man with the most status to lose descends first and furthest, and the city follows from greatest to least. The decree names the evil way and the violence in their hands outright, which is corporate self-accusation, and clothes it in fasting and ashes.
 
-**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S4 · chapters: C16 · practices: PR03, PR08 · confidence: high
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S4 · chapters: C16 · practices: PR03 · confidence: high
 
-**Amended at review** — PR25 removed at review and PR03, PR08 substituted — the reviewer was right that Deferential Seating concerns placement in an assembly, not penitential ritual. C18 declined: the robe comes off as mourning dress, which the text frames penitentially rather than as detachment practiced as a discipline.
+**Author placed** — settled by the author. Note disagreement if you have it, but do not propose a change.
+
+**Amended at review** — Removed on audit and confirmed by the author. PR08 is grief and confusion expressed honestly before God; Nineveh's sackcloth is repentance, which is a different movement. The tag was added on a reviewer's suggestion and accepted without checking the definition.
 
 ---
 

@@ -214,14 +214,14 @@
         "C16"
       ],
       "practices": [
-        "PR03",
-        "PR08"
+        "PR03"
       ],
       "mode": "exemplifies",
       "connection": "The man with the most status to lose descends first and furthest, and the city follows from greatest to least. The decree names the evil way and the violence in their hands outright, which is corporate self-accusation, and clothes it in fasting and ashes.",
       "confidence": "high",
       "prior": false,
-      "review": "PR25 removed at review and PR03, PR08 substituted — the reviewer was right that Deferential Seating concerns placement in an assembly, not penitential ritual. C18 declined: the robe comes off as mourning dress, which the text frames penitentially rather than as detachment practiced as a discipline."
+      "review": "Removed on audit and confirmed by the author. PR08 is grief and confusion expressed honestly before God; Nineveh's sackcloth is repentance, which is a different movement. The tag was added on a reviewer's suggestion and accepted without checking the definition.",
+      "author_corrected": true
     },
     {
       "ref": "Jonah 3:10",

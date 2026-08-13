@@ -1,0 +1,132 @@
+{
+  "book": "Song of Solomon",
+  "translation": "World English Bible (public domain)",
+  "status": "complete — selective by design; see coverage_note",
+  "method_version": "1.0",
+  "text_source": "index/text/song-of-solomon.json",
+  "note": "The shortest indexed book and the one that anchors least. That is the finding, not a shortfall in the work.",
+  "interpretive_note": "This book has been read allegorically for most of Christian history — the bride and bridegroom as the soul and God, or the church and Christ. On that reading it would anchor almost the whole curriculum: the search scenes would become the dark night, the mutual belonging would become abiding, the locked garden would become the interior life. The index does not take that route, and the reason is method rather than doctrine. WMT's genealogy nowhere adopts an allegorical hermeneutic, and an index that quietly supplied one would be importing an interpretive commitment the curriculum never made, under cover of tagging. So the book is indexed on its plain sense: love between two people, desired, sought, lost, found, and finally declared unpurchasable. Anyone who wants the allegorical layer should add it deliberately, as its own decision, and record it.",
+  "coverage_note": "Roughly half the book is not indexed. The wasfs — the extended descriptions of the beloved's body in 4:1-7, 5:10-16, 6:4-10, and 7:1-9 — are the largest omission. They are poetry of desire and admiration, and on a plain reading they anchor nothing in a curriculum of formation. Indexing them would have required either allegory or a stretched tag, and both were declined. The dream-search sequences are indexed once rather than twice, since the second repeats the first with a darker ending. Verses left out are not judged to be of lesser worth; they are judged to have no anchor here.",
+  "entries": [
+    {
+      "ref": "Song of Solomon 1:5-6",
+      "pericope": "My own vineyard I have not kept",
+      "pillars": ["truth", "humility"],
+      "stages": ["S1"],
+      "chapters": ["C04"],
+      "practices": ["PR01"],
+      "mode": "exemplifies",
+      "connection": "She reports plainly that she was made keeper of the vineyards and did not keep her own. A clear-eyed account of one's own neglect, offered without excuse and without self-punishment, which is the tone the Moral Audit is meant to be conducted in.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Song of Solomon 2:7",
+      "pericope": "Do not awaken love until it so desires",
+      "pillars": ["humility"],
+      "stages": ["S6"],
+      "chapters": ["C25"],
+      "practices": ["PR14"],
+      "mode": "prescribes",
+      "connection": "The book's recurring adjuration, repeated at 3:5 and 8:4. Love is described as having its own timing, which cannot be advanced by wanting it sooner. The Discipline of Gradualism stated about desire rather than about growth, and it is the only instruction the Song gives three times.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Song of Solomon 2:8-13",
+      "pericope": "The winter is past; arise and come away",
+      "pillars": ["truth"],
+      "stages": ["S6"],
+      "chapters": ["C24"],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Delight in the created world catalogued item by item — the rain gone, the flowers up, the turtledove heard, the fig ripening. Attention to the ordinary world as a form of gladness rather than as evidence for anything, which is how C24 describes the landscape opening.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Song of Solomon 2:14-17",
+      "pericope": "The little foxes; my beloved is mine",
+      "pillars": ["mercy"],
+      "stages": ["S4"],
+      "chapters": ["C14"],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The threat named is not a predator but the little foxes that spoil vineyards in blossom. Small unattended damage treated as the real danger to a bond, which is the household's ordinary work rather than its crises.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Song of Solomon 3:1-5",
+      "pericope": "By night I sought him whom my soul loves",
+      "pillars": ["truth"],
+      "stages": ["S5"],
+      "chapters": ["C19"],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Absence is met by getting up and going out to look rather than by waiting for the feeling to return. Sought, not found, sought again, found — a shape the road repeats elsewhere, though here it is a woman looking for a man and nothing in the text asks to be read as more than that.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Song of Solomon 4:12-16",
+      "pericope": "A locked garden, a sealed fountain",
+      "pillars": ["truth"],
+      "stages": ["S4"],
+      "chapters": ["C14"],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Exclusivity described as the thing that makes the garden worth entering rather than as a restriction placed on it. Fidelity argued positively, as Proverbs 5:15-23 argues it — from the goodness of what is kept, not the danger of what is forbidden.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Song of Solomon 5:2-8",
+      "pericope": "I was asleep, but my heart was awake",
+      "pillars": ["truth"],
+      "stages": ["S5"],
+      "chapters": ["C20"],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "He knocks; she hesitates over small comforts — the robe already off, the feet already washed — and by the time she opens he is gone. Delay costs the moment, and the excuses are trivial in exactly the way real ones are.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Song of Solomon 6:3",
+      "pericope": "I am my beloved's, and my beloved is mine",
+      "pillars": ["mercy"],
+      "stages": ["S4"],
+      "chapters": ["C14"],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Mutual possession stated in both directions and in that order, with the self given before the claim. The formula recurs at 2:16 and 7:10, each time balanced, which is the structure of the household C14 describes.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Song of Solomon 8:5-7",
+      "pericope": "Set me as a seal upon your heart; love is strong as death",
+      "pillars": ["mercy", "truth"],
+      "stages": ["S4", "S7"],
+      "chapters": ["C14", "C27"],
+      "practices": ["PR26"],
+      "mode": "prescribes",
+      "connection": "The summit of the book and the only place it stops describing love and defines it. Love is set against death and floods and finally against money — a man offering the whole wealth of his house would be utterly scorned. Fidelity that cannot be purchased is exactly what Unobligated Loyalty means, and this is its strongest statement anywhere in Scripture.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Song of Solomon 8:11-12",
+      "pericope": "Solomon's vineyard, and my own before me",
+      "pillars": ["truth"],
+      "stages": ["S4"],
+      "chapters": ["C18"],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Solomon's leased vineyard with its thousand shekels is set beside her own, which is simply before her. A refusal of scale as the measure of worth, and the tenders are paid their portion without complaint — stewardship of what is actually yours rather than of what is largest.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

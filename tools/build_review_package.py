@@ -81,6 +81,8 @@ def build_book(slug):
                        ("prediction_note", "Prediction note"),
                        ("schema_note", "Schema note"),
                        ("synoptic_note", "Synoptic note"),
+                       ("interpretive_note", "Interpretive note"),
+                       ("coverage_note", "Coverage note"),
                        ("method_rule", "Method rule")):
         if d.get(key):
             a(f"**{label}.** {d[key]}")

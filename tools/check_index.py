@@ -46,7 +46,8 @@ def verse_counts(book):
         out[c] = max(out.get(c, 0), v)
     return dict(sorted(out.items()))
 
-REF_RE = re.compile(r"^([1-3]?\s?[A-Z][a-z]+)\s+(\d+):(\d+)(?:[-–](\d+))?$")
+# Book names may be multi-word ("Song of Solomon") or numbered ("1 Corinthians").
+REF_RE = re.compile(r"^(.+?)\s+(\d+):(\d+)(?:[-–](\d+))?$")
 
 
 def check(path):

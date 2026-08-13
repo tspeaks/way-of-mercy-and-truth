@@ -114,11 +114,15 @@ Discipline of Unknowing and prescribes nothing of the kind; that tag was an erro
 Apply this test to every practice tag and flag any that fails it.
 
 **The test runs both ways.** Apply it as strictly to any tag you propose *adding* as to
-any you propose removing. Across the books reviewed so far, every rejection you have
-made has been correct and every addition you have proposed has failed this test — PR03
-and PR19 on 1 John, PR26 on 3 John, all three read from the practice's name rather than
-its definition. Before proposing a tag, quote the definition to yourself and check that
-the passage does what it says.
+any you propose removing. The record so far: of eleven additions proposed, four were
+accepted, one in part, and six declined. Every rejection you have made has been correct,
+so roughly a third of your additions land while nearly all of your removals do. The six
+declines — PR03 and PR19 on 1 John, PR26 on 3 John, PR25 on Proverbs 25:6-7, PR01 and
+PR18 on Micah — were each read from the practice's name rather than its definition.
+Before proposing a tag, quote the definition to yourself and check that the passage does
+what it says. A passage that describes the *condition a practice addresses* is not an
+anchor for it: Micah 7:1-6 shows trust collapsing, which is what the Architecture of
+Peace exists to repair, and that is not the same as showing the practice or its absence.
 
 **Also bad:** stretching a passage to fill a gap. If a practice has no genuine anchor
 in this book, that absence is data. Do not invent one.

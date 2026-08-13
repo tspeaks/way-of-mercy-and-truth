@@ -1,0 +1,26 @@
+{
+  "scope": "all 18 entries",
+  "verdicts": {
+    "sound": 18
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "Micah 6:6-8",
+      "proposed": "PR01",
+      "verdict": "declined",
+      "reason": "PR01 is self-examination against one's own conduct — whether one is a doer of the word rather than a hearer. Verses 6-7 are a worshipper escalating what he might bring, not a man examining what he has done. The reviewer's word 'audit' is doing the work here, not the definition."
+    },
+    {
+      "ref": "Micah 7:1-6",
+      "proposed": "PR18",
+      "verdict": "declined",
+      "reason": "The reviewer's own wording gives the reason: it calls this the social breakdown that Absorbing the Blow is built to heal. A passage describing the condition a practice addresses is not an anchor for that practice. Nobody in these verses is absorbing a blow or failing to; trust has simply gone. This is a new error type worth naming — condition mistaken for practice, distinct from the name-versus-definition error."
+    }
+  ],
+  "record_correction": "A claim written into the review brief two rounds ago — that every addition the reviewer had proposed failed the definition test — was inaccurate when written. The synthesis pass had already produced four accepted additions. The running tally is eleven proposed: four accepted, one in part, six declined. The brief has been corrected to state the record rather than the three failures that were front of mind.",
+  "stated_claims_confirmed": [
+    "Architecture note — the justice-to-Truth mapping is acknowledged and defended rather than assumed.",
+    "Pairing note — Micah 7:20 is the third independent occurrence of emet and hesed, arriving as conclusion rather than instruction."
+  ]
+}

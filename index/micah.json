@@ -2,7 +2,7 @@
   "book": "Micah",
   "translation": "World English Bible (public domain)",
   "status": "complete",
-  "method_version": "1.3",
+  "method_version": "1.4",
   "text_source": "index/text/micah.json",
   "note": "The source text of the curriculum's architecture. Micah 6:8 supplies the three pillars, and the Scriptural Appendix calls it the supreme summary of the whole book, with everything in the twenty-nine chapters described as commentary on that one sentence.",
   "architecture_note": "Micah 6:8 requires three things: act justly, love mercy, walk humbly. The curriculum's pillars are Truth, Mercy, Humility. The substitution of Truth for justice is deliberate and already recorded — the Scriptural Appendix maps the terms explicitly rather than passing over the difference — so the index registers it as a decision made in the open rather than a silent swap. It is worth naming plainly all the same: justice is what one does about what is so, and truth is what is so. The curriculum takes the second as the ground of the first, which is a defensible reading of the verse and is not the only one. A reader who wanted the pillar to be justice rather than truth would find the Hebrew on their side, and should be able to see that from the index rather than having to notice it.",
@@ -11,9 +11,15 @@
     {
       "ref": "Micah 1:1-7",
       "pericope": "Yahweh comes down and treads the high places",
-      "pillars": ["truth"],
-      "stages": ["S1"],
-      "chapters": ["C01"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
       "practices": [],
       "mode": "exemplifies",
       "connection": "The mountains melt and the valleys split, and the cause named is not power but disobedience. Moral structure presented as something the physical world responds to, which is C01's claim about the grain of things stated at its largest scale.",
@@ -23,10 +29,18 @@
     {
       "ref": "Micah 1:8-16",
       "pericope": "For this I will lament and wail",
-      "pillars": ["mercy"],
-      "stages": ["S5"],
-      "chapters": ["C19"],
-      "practices": ["PR08"],
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
       "mode": "exemplifies",
       "connection": "The prophet mourns the judgment he has just announced, going stripped and howling like a jackal. Sacred Lament performed by the man delivering the verdict, which forecloses reading lament as the response of the innocent only.",
       "confidence": "high",
@@ -35,10 +49,20 @@
     {
       "ref": "Micah 2:1-5",
       "pericope": "They devise iniquity on their beds",
-      "pillars": ["truth"],
-      "stages": ["S4", "S5"],
-      "chapters": ["C18", "C21"],
-      "practices": ["PR02"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C18",
+        "C21"
+      ],
+      "practices": [
+        "PR02"
+      ],
       "mode": "counter-example",
       "connection": "The sequence is exact: they plan it in the night, and do it in the morning because it is in the power of their hand. Interior Diagnosis run on a social sin — the coveting is upstream of the seizure, and the passage traces it there deliberately.",
       "confidence": "high",
@@ -47,9 +71,15 @@
     {
       "ref": "Micah 2:6-11",
       "pericope": "Don't prophesy; a man who prophesies of wine",
-      "pillars": ["truth"],
-      "stages": ["S2"],
-      "chapters": ["C08"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
       "practices": [],
       "mode": "counter-example",
       "connection": "The people instruct the prophets what not to say, and the prophet they would accept is one promising wine and strong drink. The fruit test of C08 inverted: here the audience selects the message, and the criterion is comfort.",
@@ -59,9 +89,15 @@
     {
       "ref": "Micah 3:1-4",
       "pericope": "You who hate the good and love the evil",
-      "pillars": ["truth"],
-      "stages": ["S1"],
-      "chapters": ["C01"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
       "practices": [],
       "mode": "counter-example",
       "connection": "Rulers charged first with an inverted affection and only then with the acts that follow from it. The Two Ways described as a disposition that produces conduct, in the order C01 insists on.",
@@ -71,9 +107,15 @@
     {
       "ref": "Micah 3:5-8",
       "pericope": "They cry peace when their teeth are fed",
-      "pillars": ["truth"],
-      "stages": ["S2"],
-      "chapters": ["C08"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
       "practices": [],
       "mode": "counter-example",
       "connection": "The false prophet's message is shown to track his payment — peace to whoever feeds him, war against whoever does not. A test C08 can apply without any access to the man's sincerity: watch what his message costs him.",
@@ -83,9 +125,15 @@
     {
       "ref": "Micah 3:9-12",
       "pericope": "They lean on Yahweh and say, is not Yahweh among us?",
-      "pillars": ["truth"],
-      "stages": ["S3"],
-      "chapters": ["C12"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C12"
+      ],
       "practices": [],
       "mode": "counter-example",
       "connection": "Leaders judging for bribes, priests teaching for a price, prophets divining for money — and all of them confident that no evil can come because Yahweh is among them. The proof test of C12 at its most damning: assurance held simultaneously with the conduct that disproves it.",
@@ -95,10 +143,18 @@
     {
       "ref": "Micah 4:1-5",
       "pericope": "They will beat their swords into plowshares",
-      "pillars": ["mercy"],
-      "stages": ["S4"],
-      "chapters": ["C15"],
-      "practices": ["PR09"],
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
+      "practices": [
+        "PR09"
+      ],
       "mode": "exemplifies",
       "connection": "Weapons are not destroyed but converted into farming tools, and the peace is described by what people sit under rather than by what has stopped. The Architecture of Peace given a picture: not the absence of conflict but the repurposing of what conflict was made from.",
       "confidence": "high",
@@ -107,10 +163,18 @@
     {
       "ref": "Micah 4:6-8",
       "pericope": "I will assemble that which is lame",
-      "pillars": ["mercy"],
-      "stages": ["S7"],
-      "chapters": ["C29"],
-      "practices": ["PR29"],
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C29"
+      ],
+      "practices": [
+        "PR29"
+      ],
       "mode": "exemplifies",
       "connection": "The lame and the driven away are gathered and then made the remnant — not merely readmitted but constituted as the core. Merciful Reintegration performed by God, with the restored placed at the centre rather than at the edge.",
       "confidence": "high",
@@ -119,10 +183,18 @@
     {
       "ref": "Micah 5:1-6",
       "pericope": "Bethlehem Ephrathah, small among the clans",
-      "pillars": ["humility"],
-      "stages": ["S6"],
-      "chapters": ["C23"],
-      "practices": ["PR13"],
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23"
+      ],
+      "practices": [
+        "PR13"
+      ],
       "mode": "exemplifies",
       "connection": "The smallness of the town is stated as the very ground of the promise rather than despite it. The Hidden Life at the scale of a place: what is overlooked is where the thing is actually happening.",
       "confidence": "high",
@@ -131,9 +203,15 @@
     {
       "ref": "Micah 5:10-15",
       "pericope": "I will cut off your horses and tear down your strongholds",
-      "pillars": ["humility"],
-      "stages": ["S4"],
-      "chapters": ["C18"],
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
       "practices": [],
       "mode": "prescribes",
       "connection": "Horses, chariots, cities, strongholds, sorceries, and images removed in one list, with no distinction drawn between military and religious props. Holy Detachment applied to everything a people had been leaning on, including the leaning itself.",
@@ -143,9 +221,17 @@
     {
       "ref": "Micah 6:1-5",
       "pericope": "My people, what have I done to you?",
-      "pillars": ["mercy"],
-      "stages": ["S1", "S5"],
-      "chapters": ["C03", "C19"],
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C03",
+        "C19"
+      ],
       "practices": [],
       "mode": "exemplifies",
       "connection": "The lawsuit opens with the plaintiff asking how he has burdened the defendant, and the evidence offered is a rescue. Grievance framed as an invitation to answer rather than as a verdict, which is the tone C03 describes mercy conducting itself in.",
@@ -155,9 +241,20 @@
     {
       "ref": "Micah 6:6-8",
       "pericope": "What does Yahweh require of you?",
-      "pillars": ["truth", "mercy", "humility"],
-      "stages": ["S1", "S7"],
-      "chapters": ["C01", "C03", "C27"],
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C01",
+        "C03",
+        "C27"
+      ],
       "practices": [],
       "mode": "prescribes",
       "connection": "The verse this entire road is built on, and the escalation before it matters: burnt offerings, thousands of rams, rivers of oil, a firstborn child — each rejected in favour of three requirements that cost no money at all. Justice, mercy, humility, which the curriculum maps to its three pillars. See the architecture note on this book.",
@@ -167,9 +264,17 @@
     {
       "ref": "Micah 6:9-16",
       "pericope": "The short ephah and the bag of deceitful weights",
-      "pillars": ["truth"],
-      "stages": ["S1", "S4"],
-      "chapters": ["C01", "C17"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C01",
+        "C17"
+      ],
       "practices": [],
       "mode": "counter-example",
       "connection": "Immediately after the summary of what is required, the indictment is commercial: a short measure, a dishonest scale, rich men full of violence. Whatever act justly means, this passage treats the scale as where it is measured.",
@@ -179,9 +284,15 @@
     {
       "ref": "Micah 7:1-6",
       "pericope": "Don't trust a neighbor; a man's enemies are his own household",
-      "pillars": ["truth"],
-      "stages": ["S4"],
-      "chapters": ["C15"],
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
       "practices": [],
       "mode": "counter-example",
       "connection": "Trust described as collapsing from the outside inward — neighbour, friend, wife, son, daughter, daughter-in-law — until the household itself is the last place it fails. The condition C15's architecture is built against, stated without any softening.",
@@ -191,10 +302,19 @@
     {
       "ref": "Micah 7:7-10",
       "pericope": "When I fall, I will arise",
-      "pillars": ["humility", "mercy"],
-      "stages": ["S5"],
-      "chapters": ["C19"],
-      "practices": ["PR11"],
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR11"
+      ],
       "mode": "prescribes",
       "connection": "The fall is granted rather than denied, and so is the guilt — I will bear the indignation, because I have sinned. Rising is expected on the far side of an accurate verdict, which is the Failure Recovery Protocol without a single mitigating clause.",
       "confidence": "high",
@@ -203,9 +323,15 @@
     {
       "ref": "Micah 7:14-17",
       "pericope": "Shepherd your people with your staff",
-      "pillars": ["mercy"],
-      "stages": ["S4"],
-      "chapters": ["C16"],
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
       "practices": [],
       "mode": "prescribes",
       "connection": "A request that the flock be fed in the old pastures, made on their behalf by someone with no power to feed them. Intercession as an act of service performed by the powerless, which is the direction C16 argues service actually runs.",
@@ -215,14 +341,35 @@
     {
       "ref": "Micah 7:18-20",
       "pericope": "Who is a God like you? Truth to Jacob, and mercy to Abraham",
-      "pillars": ["mercy", "truth"],
-      "stages": ["S7"],
-      "chapters": ["C27"],
-      "practices": ["PR15"],
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [
+        "PR15"
+      ],
       "mode": "exemplifies",
       "connection": "Already load-bearing in C27. Pardon is said to be delighted in rather than merely granted, and the iniquities are cast into the depths of the sea. The book then ends on truth and mercy together — the pairing this road is named for, arrived at as a conclusion rather than issued as an instruction.",
       "confidence": "high",
       "prior": true
+    }
+  ],
+  "review_log": [
+    {
+      "pass": 2,
+      "reviewer": "second model (Gemini Spark)",
+      "scope": "all 18 entries",
+      "verdicts": {
+        "sound": 18
+      },
+      "record": "index/reviews/micah-pass2.json",
+      "adjudication": "Clean pass. Two gap additions proposed and both declined; no entry changed."
     }
   ]
 }

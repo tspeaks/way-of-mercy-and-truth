@@ -1,6 +1,6 @@
 # Micah — review package
 
-Scripture: World English Bible (public domain). Index status: complete. Method version 1.3.
+Scripture: World English Bible (public domain). Index status: complete. Method version 1.4.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 

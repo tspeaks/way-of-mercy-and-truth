@@ -1,0 +1,24 @@
+{
+  "scope": "all 21 entries",
+  "verdicts": {
+    "sound": 21
+  },
+  "first_clean_pass": true,
+  "synthesis_questions": "Answered for the first time in seven review rounds. Every prior pass returned only the per-entry array and skipped overreach, gaps, redundancy, confidence, and stated claims. The change coincides with the first use of the review package, which puts the scripture beside the claim — the questions about gaps and stated claims are not answerable without the text.",
+  "gaps_proposed": [
+    {
+      "ref": "1 John 1:8-10",
+      "proposed": "PR03",
+      "verdict": "declined",
+      "reason": "PR03 is Dorotheos's discipline: in any friction, look at your own portion before assigning anyone else's. It requires a second party and a conflict. This passage concerns admitting that one has sin at all, before God, with no friction in view. The reviewer restated PR03 as a refusal to self-justify before God and neighbour, which is the practice read from its name rather than its definition."
+    },
+    {
+      "ref": "1 John 3:16-18",
+      "proposed": "PR19",
+      "verdict": "declined",
+      "reason": "PR19 is pausing one's own work to help someone finish theirs, with interruptions treated as the actual work. This passage is laying down life and sharing goods with a brother in need — already tagged PR05. Nothing here involves interrupting a task."
+    }
+  ],
+  "note": "Both proposed additions fail the strict practice test the reviewer has itself been enforcing since the PR20 correction — the fourth and fifth instances of the name-versus-definition error in this project, and the first two committed by the reviewer rather than the drafter. The reviewer's own synthesis states that every tag complies with the WMT A1 definitions, and then proposes two that do not.",
+  "confidence_note": "The reviewer proposed upgrading 1:1-4 and 5:6-12 from medium to high, and miscounted the medium entries as three rather than two. Not acted on: confidence markings have predicted flags weakly across all books and are not worth adjusting on a second opinion alone."
+}

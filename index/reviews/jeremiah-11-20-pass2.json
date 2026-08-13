@@ -1,0 +1,27 @@
+{
+  "scope": "chapters 11-20, all 19 entries; synthesis across all 41 in chapters 1-20",
+  "verdicts": {
+    "sound": 19
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "Jeremiah 18:18-23",
+      "proposed": "PR06 and PR15",
+      "verdict": "PR06 accepted, PR15 declined",
+      "reason": "Retaliation is requested outright after intercession is recalled, so PR06 is the practice abandoned and the counter-example anchor is real. PR15 was declined as duplicative and less precise — harshness is present, but the specific refusal here is of non-retaliation."
+    },
+    {
+      "ref": "Jeremiah 13:1-11",
+      "proposed": "C17",
+      "verdict": "declined",
+      "reason": "Proposed on the grounds that burying the belt at the Euphrates anticipates the exile. That reads forward into events the passage does not discuss. The text's own subject is clinging and rot; the river is where he was sent, not what the sign is about."
+    }
+  ],
+  "tooling_note": "This entry was a counter-example with an empty practices array and did not trip the build-time check, because that check only fires when the prose names a practice. A counter-example that shows a practice being abandoned without naming it passes silently. The check catches the loud version of the error and not the quiet one, which is worth knowing rather than fixing by guessing at synonyms.",
+  "running_tally": "Seventeen additions proposed across all books: seven accepted, one in part, nine declined.",
+  "stated_claims_confirmed": [
+    "Sectioning along the book's own seams — the confessions form a cohesive unit.",
+    "Lament without forced resolution — 20:14-18 preserved as it stands, ending in darkness immediately after praise."
+  ]
+}

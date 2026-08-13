@@ -1,6 +1,6 @@
 # Jeremiah — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 1-10 only; the remaining forty-two chapters follow in sections. Method version 1.6.
+Scripture: World English Bible (public domain). Index status: partial — chapters 1-20; the remaining thirty-two chapters follow in sections. Method version 1.8.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -349,6 +349,286 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** Two admissions in consecutive verses: a man cannot direct his own steps, and correction is asked for with a limit attached. The Discipline of Unknowing applied to one's own agency, and the request for measured correction is asked rather than assumed.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S6 · chapters: C24 · practices: PR04 · confidence: high
+
+---
+
+## 23. Jeremiah 11:18-23 — I was like a gentle lamb led to the slaughter
+
+> **11:18** Yahweh gave me knowledge of it, and I knew it: then you showed me their doings.
+> **11:19** But I was like a gentle lamb that is led to the slaughter; and I didn’t know that they had devised devices against me, saying, Let us destroy the tree with its fruit, and let us cut him off from the land of the living, that his name may be no more remembered.
+> **11:20** But, Yahweh of Armies, who judges righteously, who tests the heart and the mind, I shall see your vengeance on them; for to you have I revealed my cause.
+> **11:21** Therefore thus says Yahweh concerning the men of Anathoth, who seek your life, saying, You shall not prophesy in the name of Yahweh, that you not die by our hand;
+> **11:22** therefore thus says Yahweh of Armies, Behold, I will punish them: the young men shall die by the sword; their sons and their daughters shall die by famine;
+> **11:23** and there shall be no remnant to them: for I will bring evil on the men of Anathoth, even the year of their visitation.
+
+**Claim.** He is told about the plot rather than discovering it, and the admission is that he had not known. Interior Diagnosis performed on him from outside — the danger he could not see in his own village was the one nearest to him.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S5 · chapters: C21 · practices: PR02 · confidence: high
+
+---
+
+## 24. Jeremiah 12:1-4 — Why does the way of the wicked prosper?
+
+> **12:1** You are righteous, Yahweh, when I contend with you; yet I would reason the cause with you: why does the way of the wicked prosper? why are all they at ease who deal very treacherously?
+> **12:2** You have planted them, yes, they have taken root; they grow, yes, they bring forth fruit: you are near in their mouth, and far from their heart.
+> **12:3** But you, Yahweh, know me; you see me, and try my heart toward you: pull them out like sheep for the slaughter, and prepare them for the day of slaughter.
+> **12:4** How long shall the land mourn, and the herbs of the whole country wither? for the wickedness of those who dwell therein, the animals are consumed, and the birds; because they said, He shall not see our latter end.
+
+**Claim.** The complaint is prefaced by conceding the point — you are righteous when I contend with you — and then made anyway. Sacred Lament conducted without withdrawing the concession, which is what separates it from accusation.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S5 · chapters: C19 · practices: PR08 · confidence: high
+
+---
+
+## 25. Jeremiah 12:5-6 — If you have run with footmen and they have wearied you
+
+> **12:5** If you have run with the footmen, and they have wearied you, then how can you contend with horses? and though in a land of peace you are secure, yet how will you do in the pride of the Jordan?
+> **12:6** For even your brothers, and the house of your father, even they have dealt treacherously with you; even they have cried aloud after you: don’t believe them, though they speak beautiful words to you.
+
+**Claim.** The answer to the complaint is not relief but notice that harder is coming — horses after footmen, the swelling of the Jordan after the land of peace. Gradualism stated as escalation, with the present difficulty reframed as the early part of the training.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S6 · chapters: C25 · practices: PR14 · confidence: high
+
+---
+
+## 26. Jeremiah 13:1-11 — The linen belt hidden by the Euphrates
+
+> **13:1** Thus says Yahweh to me, Go, and buy yourself a linen belt, and put it on your waist, and don’t put it in water.
+> **13:2** So I bought a belt according to the word of Yahweh, and put it on my waist.
+> **13:3** The word of Yahweh came to me the second time, saying,
+> **13:4** Take the belt that you have bought, which is on your waist, and arise, go to the Euphrates, and hide it there in a cleft of the rock.
+> **13:5** So I went, and hid it by the Euphrates, as Yahweh commanded me.
+> **13:6** It happened after many days, that Yahweh said to me, Arise, go to the Euphrates, and take the belt from there, which I commanded you to hide there.
+> **13:7** Then I went to the Euphrates, and dug, and took the belt from the place where I had hidden it; and behold, the belt was marred, it was profitable for nothing.
+> **13:8** Then the word of Yahweh came to me, saying,
+> **13:9** Thus says Yahweh, In this way I will mar the pride of Judah, and the great pride of Jerusalem.
+> **13:10** This evil people, who refuse to hear my words, who walk in the stubbornness of their heart, and are gone after other gods to serve them, and to worship them, shall even be as this belt, which is profitable for nothing.
+> **13:11** For as the belt clings to the waist of a man, so have I caused to cling to me the whole house of Israel and the whole house of Judah, says Yahweh; that they may be to me for a people, and for a name, and for a praise, and for a glory: but they would not hear.
+
+**Claim.** The belt is worn against the body, then buried, then found ruined — and the point made is clinging. C11's abiding given a physical figure whose failure mode is separation followed by rot rather than by dramatic loss.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S3 · chapters: C11 · practices: none · confidence: high
+
+---
+
+## 27. Jeremiah 13:15-17 — My soul will weep in secret for your pride
+
+> **13:15** Hear, and give ear; don’t be proud; for Yahweh has spoken.
+> **13:16** Give glory to Yahweh your God, before he causes darkness, and before your feet stumble on the dark mountains, and, while you look for light, he turns it into the shadow of death, and makes it gross darkness.
+> **13:17** But if you will not hear it, my soul shall weep in secret for your pride; and my eye shall weep bitterly, and run down with tears, because Yahweh’s flock is taken captive.
+
+**Claim.** The warning is issued publicly and the grief over its rejection is kept private. Sacred Lament conducted where no one will see it, which is the Hidden Life applied to sorrow rather than to good works.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S5, S6 · chapters: C19, C23 · practices: PR08, PR13 · confidence: high
+
+---
+
+## 28. Jeremiah 14:1-9 — Though our iniquities testify against us, work for your name's sake
+
+> **14:1** The word of Yahweh that came to Jeremiah concerning the drought.
+> **14:2** Judah mourns, and its gates languish, they sit in black on the ground; and the cry of Jerusalem is gone up.
+> **14:3** Their nobles send their little ones to the waters: they come to the cisterns, and find no water; they return with their vessels empty; they are disappointed and confounded, and cover their heads.
+> **14:4** Because of the ground which is cracked, because no rain has been in the land, the plowmen are disappointed, they cover their heads.
+> **14:5** Yes, the hind also in the field calves, and forsakes her young, because there is no grass.
+> **14:6** The wild donkeys stand on the bare heights, they pant for air like jackals; their eyes fail, because there is no herbage.
+> **14:7** Though our iniquities testify against us, work for your name’s sake, Yahweh; for our backslidings are many; we have sinned against you.
+> **14:8** You hope of Israel, its Savior in the time of trouble, why should you be as a foreigner in the land, and as a wayfaring man who turns aside to stay for a night?
+> **14:9** Why should you be like a scared man, as a mighty man who can’t save? Yet you, Yahweh, are in the midst of us, and we are called by your name; don’t leave us.
+
+**Claim.** The prayer concedes the charge in full and then appeals to something other than merit. A recovery plea that does not argue innocence and does not despair either, which is the narrow ground the Failure Recovery Protocol occupies.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S5 · chapters: C19 · practices: PR11 · confidence: high
+
+---
+
+## 29. Jeremiah 14:13-16 — The prophets prophesy lies in my name
+
+> **14:13** Then I said, Ah, Lord Yahweh! behold, the prophets tell them, You shall not see the sword, neither shall you have famine; but I will give you assured peace in this place.
+> **14:14** Then Yahweh said to me, The prophets prophesy lies in my name; I didn’t send them, neither have I commanded them, neither spoke I to them: they prophesy to you a lying vision, and divination, and a thing of nothing, and the deceit of their own heart.
+> **14:15** Therefore thus says Yahweh concerning the prophets who prophesy in my name, and I didn’t send them, yet they say, Sword and famine shall not be in this land: By sword and famine shall those prophets be consumed.
+> **14:16** The people to whom they prophesy shall be cast out in the streets of Jerusalem because of the famine and the sword; and they shall have none to bury them—them, their wives, nor their sons, nor their daughters: for I will pour their wickedness on them.
+
+**Claim.** Jeremiah defends the people by blaming their prophets, and the defence is rejected — both are held responsible. C08's fruit test extended to the hearers: being deceived is not treated as exculpating when the deception was welcome.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S2 · chapters: C08 · practices: none · confidence: high
+
+---
+
+## 30. Jeremiah 15:10-14 — Woe is me, my mother, that you have borne me
+
+> **15:10** Woe is me, my mother, that you have borne me a man of strife and a man of contention to the whole earth! I have not lent, neither have men lent to me; yet everyone of them curses me.
+> **15:11** Yahweh said, Most certainly I will strengthen you for good; most certainly I will cause the enemy to make supplication to you in the time of evil and in the time of affliction.
+> **15:12** Can one break iron, even iron from the north, and brass?
+> **15:13** Your substance and your treasures will I give for a spoil without price, and that for all your sins, even in all your borders.
+> **15:14** I will make them to pass with your enemies into a land which you don’t know; for a fire is kindled in my anger, which shall burn on you.
+
+**Claim.** He states that he has neither lent nor borrowed and is cursed by everyone anyway. Lament that includes the observation that the suffering is undeserved, which the text records without correcting.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S5 · chapters: C19 · practices: PR08 · confidence: high
+
+---
+
+## 31. Jeremiah 15:15-18 — Will you be to me as a deceitful brook?
+
+> **15:15** Yahweh, you know; remember me, and visit me, and avenge me of my persecutors; don’t take me away in your longsuffering: know that for your sake I have suffered reproach.
+> **15:16** Your words were found, and I ate them; and your words were to me a joy and the rejoicing of my heart: for I am called by your name, Yahweh, God of Armies.
+> **15:17** I didn’t sit in the assembly of those who make merry, nor rejoiced; I sat alone because of your hand; for you have filled me with indignation.
+> **15:18** Why is my pain perpetual, and my wound incurable, which refuses to be healed? Will you indeed be to me as a deceitful brook, as waters that fail?
+
+**Claim.** He describes eating the words as a joy and then asks whether God will prove to be a stream that dries up in summer. The sharpest accusation in the confessions, and it follows immediately from the account of delight — the two are not in different moods.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S5 · chapters: C19, C21 · practices: PR08 · confidence: high
+
+---
+
+## 32. Jeremiah 15:19-21 — If you take out the precious from the vile, you shall be as my mouth
+
+> **15:19** Therefore thus says Yahweh, If you return, then will I bring you again, that you may stand before me; and if you take forth the precious from the vile, you shall be as my mouth: they shall return to you, but you shall not return to them.
+> **15:20** I will make you to this people a fortified bronze wall; and they shall fight against you, but they shall not prevail against you; for I am with you to save you and to deliver you, says Yahweh.
+> **15:21** I will deliver you out of the hand of the wicked, and I will redeem you out of the hand of the terrible.
+
+**Claim.** The answer to the complaint is a condition: return, and separate the precious from the worthless, and then you may speak. Restoration offered with discrimination as its requirement — the audit is what qualifies him, and it is asked of the accuser rather than the accused.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S1, S5 · chapters: C04, C19 · practices: PR01, PR11 · confidence: high
+
+---
+
+## 33. Jeremiah 16:1-9 — Don't enter the house of mourning; don't go to the house of feasting
+
+> **16:1** The word of Yahweh came also to me, saying,
+> **16:2** You shall not take a wife, neither shall you have sons or daughters, in this place.
+> **16:3** For thus says Yahweh concerning the sons and concerning the daughters who are born in this place, and concerning their mothers who bore them, and concerning their fathers who became their father in this land:
+> **16:4** They shall die grievous deaths: they shall not be lamented, neither shall they be buried; they shall be as dung on the surface of the ground; and they shall be consumed by the sword, and by famine; and their dead bodies shall be food for the birds of the sky, and for the animals of the earth.
+> **16:5** For thus says Yahweh, Don’t enter into the house of mourning, neither go to lament, neither bemoan them; for I have taken away my peace from this people, says Yahweh, even loving kindness and tender mercies.
+> **16:6** Both great and small shall die in this land; they shall not be buried, neither shall men lament for them, nor cut themselves, nor make themselves bald for them;
+> **16:7** neither shall men break bread for them in mourning, to comfort them for the dead; neither shall men give them the cup of consolation to drink for their father or for their mother.
+> **16:8** You shall not go into the house of feasting to sit with them, to eat and to drink.
+> **16:9** For thus says Yahweh of Armies, the God of Israel: Behold, I will cause to cease out of this place, before your eyes and in your days, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride.
+
+**Claim.** He is forbidden marriage, mourning, and feasting — the three occasions on which a community gathers. The Citizen-Stranger at its most costly: a man kept present in the town and excluded from every ordinary rite in it.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S4 · chapters: C13, C17 · practices: none · confidence: high
+
+---
+
+## 34. Jeremiah 17:5-8 — The heath in the desert, and the tree planted by the waters
+
+> **17:5** Thus says Yahweh: Cursed is the man who trusts in man, and makes flesh his arm, and whose heart departs from Yahweh.
+> **17:6** For he shall be like the heath in the desert, and shall not see when good comes, but shall inhabit the parched places in the wilderness, a salt land and not inhabited.
+> **17:7** Blessed is the man who trusts in Yahweh, and whose trust Yahweh is.
+> **17:8** For he shall be as a tree planted by the waters, who spreads out its roots by the river, and shall not fear when heat comes, but its leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit.
+
+**Claim.** The blessed tree is not spared the heat; it does not fear it, and its leaf stays green through drought. Abiding described by what it withstands rather than by what it avoids, which is the same correction John 15 makes about pruning.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S3 · chapters: C10, C11 · practices: none · confidence: high
+
+---
+
+## 35. Jeremiah 17:9-10 — The heart is deceitful above all things; who can know it?
+
+> **17:9** The heart is deceitful above all things, and it is exceedingly corrupt: who can know it?
+> **17:10** I, Yahweh, search the mind, I try the heart, even to give every man according to his ways, according to the fruit of his doings.
+
+**Claim.** Self-knowledge is declared unavailable by ordinary inspection, and the searching is assigned to someone else. The Moral Audit's necessity and its limit stated in two verses: the examination is required, and it cannot be completed from inside.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S1, S2 · chapters: C04, C07 · practices: PR01, PR02 · confidence: high
+
+---
+
+## 36. Jeremiah 17:14-18 — Heal me, and I shall be healed
+
+> **17:14** Heal me, O Yahweh, and I shall be healed; save me, and I shall be saved: for you are my praise.
+> **17:15** Behold, they tell me, Where is the word of Yahweh? let it come now.
+> **17:16** As for me, I have not hurried from being a shepherd after you; neither have I desired the woeful day; you know: that which came out of my lips was before your face.
+> **17:17** Don’t be a terror to me: you are my refuge in the day of evil.
+> **17:18** Let them be disappointed who persecute me, but let not me be disappointed; let them be dismayed, but don’t let me be dismayed; bring on them the day of evil, and destroy them with double destruction.
+
+**Claim.** Healing asked for as something only received, with the recovery stated as complete before it has begun. The petition then turns bitter against his persecutors, and both halves are kept.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S5 · chapters: C19 · practices: PR11 · confidence: medium
+
+---
+
+## 37. Jeremiah 18:1-12 — The potter and the marred vessel
+
+> **18:1** The word which came to Jeremiah from Yahweh, saying,
+> **18:2** Arise, and go down to the potter’s house, and there I will cause you to hear my words.
+> **18:3** Then I went down to the potter’s house, and behold, he was making a work on the wheels.
+> **18:4** When the vessel that he made of the clay was marred in the hand of the potter, he made it again another vessel, as seemed good to the potter to make it.
+> **18:5** Then the word of Yahweh came to me, saying,
+> **18:6** House of Israel, can’t I do with you as this potter? says Yahweh. Behold, as the clay in the potter’s hand, so are you in my hand, house of Israel.
+> **18:7** At what instant I shall speak concerning a nation, and concerning a kingdom, to pluck up and to break down and to destroy it;
+> **18:8** if that nation, concerning which I have spoken, turn from their evil, I will repent of the evil that I thought to do to them.
+> **18:9** At what instant I shall speak concerning a nation, and concerning a kingdom, to build and to plant it;
+> **18:10** if they do that which is evil in my sight, that they not obey my voice, then I will repent of the good, with which I said I would benefit them.
+> **18:11** Now therefore, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Thus says Yahweh: Behold, I frame evil against you, and devise a device against you: return you now everyone from his evil way, and amend your ways and your doings.
+> **18:12** But they say, It is in vain; for we will walk after our own devices, and we will do everyone after the stubbornness of his evil heart.
+
+**Claim.** The vessel is marred in the potter's hand and made again — not discarded, and not repaired on the wheel where it failed. The Architecture of Growth given its plainest image, and the clay's condition is what determines the shape rather than the potter's disappointment.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S6 · chapters: C25 · practices: PR14 · confidence: high
+
+---
+
+## 38. Jeremiah 18:18-23 — They have dug a pit for my soul
+
+> **18:18** Then they said, Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us strike him with the tongue, and let us not give heed to any of his words.
+> **18:19** Give heed to me, Yahweh, and listen to the voice of those who contend with me.
+> **18:20** Shall evil be recompensed for good? for they have dug a pit for my soul. Remember how I stood before you to speak good for them, to turn away your wrath from them.
+> **18:21** Therefore deliver up their children to the famine, and give them over to the power of the sword; and let their wives become childless, and widows; and let their men be slain of death, and their young men struck of the sword in battle.
+> **18:22** Let a cry be heard from their houses, when you shall bring a troop suddenly on them; for they have dug a pit to take me, and hid snares for my feet.
+> **18:23** Yet, Yahweh, you know all their counsel against me to kill me; don’t forgive their iniquity, neither blot out their sin from your sight; but let them be overthrown before you; deal you with them in the time of your anger.
+
+**Claim.** He recalls having stood before God to speak good for them, and then asks that their children be given to famine. The confession that most resists being made edifying: intercession remembered and vengeance requested in consecutive breaths, preserved without comment.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S5 · chapters: C21 · practices: PR06 · confidence: high
+
+**Amended at review** — PR06 added at review. He recalls interceding for these people and then asks that their children be given to famine — retaliation requested outright, which is the practice being abandoned. PR15 was proposed alongside and declined: harshness is present, but Non-Retaliation is the specific refusal, and one precise tag serves better than two loose ones.
+
+---
+
+## 39. Jeremiah 20:1-6 — Pashhur put Jeremiah in the stocks
+
+> **20:1** Now Pashhur, the son of Immer the priest, who was chief officer in the house of Yahweh, heard Jeremiah prophesying these things.
+> **20:2** Then Pashhur struck Jeremiah the prophet, and put him in the stocks that were in the upper gate of Benjamin, which was in the house of Yahweh.
+> **20:3** It happened on the next day, that Pashhur brought forth Jeremiah out of the stocks. Then Jeremiah said to him, Yahweh has not called your name Pashhur, but Magormissabib.
+> **20:4** For thus says Yahweh, Behold, I will make you a terror to yourself, and to all your friends; and they shall fall by the sword of their enemies, and your eyes shall see it; and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive to Babylon, and shall kill them with the sword.
+> **20:5** Moreover I will give all the riches of this city, and all its gains, and all the precious things of it, yes, all the treasures of the kings of Judah will I give into the hand of their enemies; and they shall make them a prey, and take them, and carry them to Babylon.
+> **20:6** You, Pashhur, and all who dwell in your house shall go into captivity; and you shall come to Babylon, and there you shall die, and there you shall be buried, you, and all your friends, to whom you have prophesied falsely.
+
+**Claim.** The chief officer of the temple beats the prophet and confines him overnight. Opposition arriving from inside the institution rather than from outside it, which is where C17 locates the stranger's actual difficulty.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S4 · chapters: C17 · practices: none · confidence: high
+
+---
+
+## 40. Jeremiah 20:7-13 — A burning fire shut up in my bones
+
+> **20:7** Yahweh, you have persuaded me, and I was persuaded; you are stronger than I, and have prevailed: I am become a laughing-stock all the day, every one mocks me.
+> **20:8** For as often as I speak, I cry out; I cry, Violence and destruction! because the word of Yahweh is made a reproach to me, and a derision, all the day.
+> **20:9** If I say, I will not make mention of him, nor speak any more in his name, then there is in my heart as it were a burning fire shut up in my bones, and I am weary with forbearing, and I can’t.
+> **20:10** For I have heard the defaming of many, terror on every side. Denounce, and we will denounce him, say all my familiar friends, those who watch for my fall; perhaps he will be persuaded, and we shall prevail against him, and we shall take our revenge on him.
+> **20:11** But Yahweh is with me as an awesome mighty one: therefore my persecutors shall stumble, and they shall not prevail; they shall be utterly disappointed, because they have not dealt wisely, even with an everlasting dishonor which shall never be forgotten.
+> **20:12** But, Yahweh of Armies, who tests the righteous, who sees the heart and the mind, let me see your vengeance on them; for to you have I revealed my cause.
+> **20:13** Sing to Yahweh, praise Yahweh; for he has delivered the soul of the needy from the hand of evildoers.
+
+**Claim.** He says he was persuaded and overpowered, that the word has made him a laughingstock, and that holding it in is worse than speaking it. Lament that names God as the cause of the trouble and continues anyway, ending in praise without having withdrawn the charge.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S5 · chapters: C19 · practices: PR08 · confidence: high
+
+---
+
+## 41. Jeremiah 20:14-18 — Cursed is the day in which I was born
+
+> **20:14** Cursed is the day in which I was born: don’t let the day in which my mother bore me be blessed.
+> **20:15** Cursed is the man who brought news to my father, saying, A boy is born to you; making him very glad.
+> **20:16** Let that man be as the cities which Yahweh overthrew, and didn’t repent: and let him hear a cry in the morning, and shouting at noontime;
+> **20:17** because he didn’t kill me from the womb; and so my mother would have been my grave, and her womb always great.
+> **20:18** Why came I forth out of the womb to see labor and sorrow, that my days should be consumed with shame?
+
+**Claim.** The confessions end here, immediately after the praise of the previous verses, with no resolution and no return. Habakkuk closes with yet I will rejoice; this closes with why did I come out of the womb. Scripture preserves both endings, which means Sacred Lament is not required to arrive anywhere in order to be legitimate.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S5 · chapters: C19 · practices: PR08 · confidence: high
 
 ---
 

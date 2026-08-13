@@ -1,8 +1,8 @@
 {
   "book": "Jeremiah",
   "translation": "World English Bible (public domain)",
-  "status": "partial — chapters 1-10 only; the remaining forty-two chapters follow in sections",
-  "method_version": "1.6",
+  "status": "partial — chapters 1-20; the remaining thirty-two chapters follow in sections",
+  "method_version": "1.8",
   "text_source": "index/text/jeremiah.json",
   "note": "The longest book in the canon at 1,364 verses, indexed in sections along its own seams: the call and early oracles (1-10), the confessions (11-20), kings and false prophets (21-29), the Book of Consolation (30-33), the fall narratives (34-45), and the oracles against the nations (46-52). This file covers the first section.",
   "sectioning_note": "Sectioning is a practical necessity, not a claim about the book's unity. Each section is indexed against the same standard and validated the same way, and the file's status field names what is done. A reader should be able to see at a glance that the index is partial rather than inferring it from the absence of entries.",
@@ -441,18 +441,413 @@
       "connection": "Two admissions in consecutive verses: a man cannot direct his own steps, and correction is asked for with a limit attached. The Discipline of Unknowing applied to one's own agency, and the request for measured correction is asked rather than assumed.",
       "confidence": "high",
       "prior": false
+    },
+    {
+      "ref": "Jeremiah 11:18-23",
+      "pericope": "I was like a gentle lamb led to the slaughter",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "mode": "exemplifies",
+      "connection": "He is told about the plot rather than discovering it, and the admission is that he had not known. Interior Diagnosis performed on him from outside — the danger he could not see in his own village was the one nearest to him.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 12:1-4",
+      "pericope": "Why does the way of the wicked prosper?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "prescribes",
+      "connection": "The complaint is prefaced by conceding the point — you are righteous when I contend with you — and then made anyway. Sacred Lament conducted without withdrawing the concession, which is what separates it from accusation.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 12:5-6",
+      "pericope": "If you have run with footmen and they have wearied you",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "The answer to the complaint is not relief but notice that harder is coming — horses after footmen, the swelling of the Jordan after the land of peace. Gradualism stated as escalation, with the present difficulty reframed as the early part of the training.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 13:1-11",
+      "pericope": "The linen belt hidden by the Euphrates",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C11"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The belt is worn against the body, then buried, then found ruined — and the point made is clinging. C11's abiding given a physical figure whose failure mode is separation followed by rot rather than by dramatic loss.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 13:15-17",
+      "pericope": "My soul will weep in secret for your pride",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C23"
+      ],
+      "practices": [
+        "PR08",
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "The warning is issued publicly and the grief over its rejection is kept private. Sacred Lament conducted where no one will see it, which is the Hidden Life applied to sorrow rather than to good works.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 14:1-9",
+      "pericope": "Though our iniquities testify against us, work for your name's sake",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "prescribes",
+      "connection": "The prayer concedes the charge in full and then appeals to something other than merit. A recovery plea that does not argue innocence and does not despair either, which is the narrow ground the Failure Recovery Protocol occupies.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 14:13-16",
+      "pericope": "The prophets prophesy lies in my name",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Jeremiah defends the people by blaming their prophets, and the defence is rejected — both are held responsible. C08's fruit test extended to the hearers: being deceived is not treated as exculpating when the deception was welcome.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 15:10-14",
+      "pericope": "Woe is me, my mother, that you have borne me",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "He states that he has neither lent nor borrowed and is cursed by everyone anyway. Lament that includes the observation that the suffering is undeserved, which the text records without correcting.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 15:15-18",
+      "pericope": "Will you be to me as a deceitful brook?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C21"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "He describes eating the words as a joy and then asks whether God will prove to be a stream that dries up in summer. The sharpest accusation in the confessions, and it follows immediately from the account of delight — the two are not in different moods.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 15:19-21",
+      "pericope": "If you take out the precious from the vile, you shall be as my mouth",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C19"
+      ],
+      "practices": [
+        "PR01",
+        "PR11"
+      ],
+      "mode": "prescribes",
+      "connection": "The answer to the complaint is a condition: return, and separate the precious from the worthless, and then you may speak. Restoration offered with discrimination as its requirement — the audit is what qualifies him, and it is asked of the accuser rather than the accused.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 16:1-9",
+      "pericope": "Don't enter the house of mourning; don't go to the house of feasting",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "He is forbidden marriage, mourning, and feasting — the three occasions on which a community gathers. The Citizen-Stranger at its most costly: a man kept present in the town and excluded from every ordinary rite in it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 17:5-8",
+      "pericope": "The heath in the desert, and the tree planted by the waters",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C10",
+        "C11"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The blessed tree is not spared the heat; it does not fear it, and its leaf stays green through drought. Abiding described by what it withstands rather than by what it avoids, which is the same correction John 15 makes about pruning.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 17:9-10",
+      "pericope": "The heart is deceitful above all things; who can know it?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C04",
+        "C07"
+      ],
+      "practices": [
+        "PR01",
+        "PR02"
+      ],
+      "mode": "prescribes",
+      "connection": "Self-knowledge is declared unavailable by ordinary inspection, and the searching is assigned to someone else. The Moral Audit's necessity and its limit stated in two verses: the examination is required, and it cannot be completed from inside.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 17:14-18",
+      "pericope": "Heal me, and I shall be healed",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "prescribes",
+      "connection": "Healing asked for as something only received, with the recovery stated as complete before it has begun. The petition then turns bitter against his persecutors, and both halves are kept.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 18:1-12",
+      "pericope": "The potter and the marred vessel",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "exemplifies",
+      "connection": "The vessel is marred in the potter's hand and made again — not discarded, and not repaired on the wheel where it failed. The Architecture of Growth given its plainest image, and the clay's condition is what determines the shape rather than the potter's disappointment.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 18:18-23",
+      "pericope": "They have dug a pit for my soul",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21"
+      ],
+      "practices": [
+        "PR06"
+      ],
+      "mode": "counter-example",
+      "connection": "He recalls having stood before God to speak good for them, and then asks that their children be given to famine. The confession that most resists being made edifying: intercession remembered and vengeance requested in consecutive breaths, preserved without comment.",
+      "confidence": "high",
+      "prior": false,
+      "review": "PR06 added at review. He recalls interceding for these people and then asks that their children be given to famine — retaliation requested outright, which is the practice being abandoned. PR15 was proposed alongside and declined: harshness is present, but Non-Retaliation is the specific refusal, and one precise tag serves better than two loose ones."
+    },
+    {
+      "ref": "Jeremiah 20:1-6",
+      "pericope": "Pashhur put Jeremiah in the stocks",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The chief officer of the temple beats the prophet and confines him overnight. Opposition arriving from inside the institution rather than from outside it, which is where C17 locates the stranger's actual difficulty.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 20:7-13",
+      "pericope": "A burning fire shut up in my bones",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "He says he was persuaded and overpowered, that the word has made him a laughingstock, and that holding it in is worse than speaking it. Lament that names God as the cause of the trouble and continues anyway, ending in praise without having withdrawn the charge.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 20:14-18",
+      "pericope": "Cursed is the day in which I was born",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The confessions end here, immediately after the praise of the previous verses, with no resolution and no return. Habakkuk closes with yet I will rejoice; this closes with why did I come out of the womb. Scripture preserves both endings, which means Sacred Lament is not required to arrive anywhere in order to be legitimate.",
+      "confidence": "high",
+      "prior": false
     }
   ],
   "review_log": [
     {
       "pass": 2,
+      "section": "chapters 1-10",
       "reviewer": "second model (Gemini Spark)",
-      "scope": "chapters 1-10, all 22 entries",
       "verdicts": {
         "sound": 22
       },
       "record": "index/reviews/jeremiah-1-10-pass2.json",
-      "adjudication": "Clean pass. Two gaps proposed: PR01 on 8:4-7 accepted, PR12 on 9:3-8 declined."
+      "adjudication": "Clean pass. PR01 accepted on 8:4-7; PR12 declined on 9:3-8."
+    },
+    {
+      "pass": 2,
+      "section": "chapters 11-20",
+      "reviewer": "second model (Gemini Spark)",
+      "verdicts": {
+        "sound": 19
+      },
+      "record": "index/reviews/jeremiah-11-20-pass2.json",
+      "adjudication": "Clean pass. PR06 accepted on 18:18-23; PR15 declined as duplicative; C17 declined on 13:1-11."
     }
   ]
 }

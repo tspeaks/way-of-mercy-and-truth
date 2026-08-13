@@ -1,0 +1,99 @@
+---
+id: "WMT G09"
+title: "Architecture, Boundaries, and Cautions"
+kind: genealogy
+---
+
+# Architecture, Boundaries, and Cautions
+
+## The current architecture
+
+As of the first release, the Way of Mercy and Truth is a developing ecosystem of
+interconnected layers:
+
+| # | Layer | Content |
+|---|---|---|
+| 1 | **Historical foundation** | James, Didache, Johannine literature, early Christian witnesses; Post-Priestly Torah and Q *(superseded — passed-through stage, not structural; see `WMT G02`)* |
+| 2 | **Spiritual formation** | Aphrahat, Ephrem, Book of Steps, Macarian Homilies, Isaac of Nineveh |
+| 3 | **Cosmological framework** | Second Temple Jewish cosmology, Enochic material, early Christian imagination |
+| 4 | **Theoretical framework** | God, humanity, good and evil, Truth, Mercy, freedom, suffering, death, redemption, transformation, stewardship |
+| 5 | **Praxis** | Daily discipleship, ethical development, habit formation, spiritual practice, relational transformation |
+| 6 | **Developmental architecture** | The seven-stage path bridging beginning discipleship and mature transformation |
+| 7 | **Narrative expression** | Christ, the Harrowing, the Titans, the Iapetids, cosmic redemption — *speculative* |
+| 8 | **Applied ecosystem** | Stewardship, practical ethical formation, educational and discipleship resources |
+
+**Only layers 5 and 6 are the trunk.** Layers 1–4 are the sourcing and reasoning behind
+it; layer 7 is experimental; layer 8 is downstream application.
+
+## What WMT is not
+
+Several negative definitions matter, because the project is easy to mistake for adjacent
+things it is not. WMT is not:
+
+- a new denomination
+- an anti-Pauline theology
+- an academic reconstruction of historical Christianity
+- a collection of favorite ancient texts
+- a mystical system detached from ethics
+- an ethical system detached from spirituality
+- a self-help program
+- a mythology project
+
+It incorporates elements of several of these fields without being reducible to any one.
+Its distinguishing characteristic is **integration**.
+
+## The principle of integration
+
+The genealogy can be read as the progressive reunification of things that had become
+separated:
+
+> History and faith. Ethics and spirituality. Truth and Mercy. Practice and doctrine.
+> Outer conduct and inner transformation. Individual formation and social responsibility.
+> Human discipleship and cosmic redemption.
+
+The central wager is that these should not ultimately be divided, and that the mature
+human being is one in whom they have become integrated.
+
+## Cautions for anyone developing this further
+
+**Do not treat any single layer as the whole project.**
+
+- The earliest sources should not be flattened into the Syriac tradition.
+- The Syriac tradition should not replace the historical Jesus.
+- Historical reconstruction should not eliminate spiritual interpretation.
+- Spiritual interpretation should not override historical distinctions.
+- The philosophical genealogy should not be confused with the historical genealogy.
+- The Harrowing material should not be mistaken for the historical foundation.
+- The seven stages should not be treated as arbitrary self-help stages.
+- The stewardship ecosystem should not become detached from the principles it arose from.
+- Post-Priestly Torah and Q should not be reintroduced as load-bearing without
+  deliberately reversing this decision — they are retained for historical honesty, not as
+  an ongoing commitment.
+
+Maintain the genealogical distinctions while showing how the layers cooperate.
+
+## Development posture
+
+This is a **living synthesis still under development**, and it should be described that
+way rather than as a finished system.
+
+The historical sources provide the genealogy. The philosophical search provides the
+existential pressure. The early Christian witnesses provide the ethical core. John
+provides interior depth. The Syriac tradition provides developmental spirituality. Enoch
+provides cosmological context. The seven stages provide developmental architecture. Mercy
+and Truth provide the governing polarity. Theory and Praxis provide systemic form.
+
+The project moves:
+
+> recovery → synthesis → formation → application → narrative embodiment → ecosystem
+
+The curriculum in `trunk/` is the *formation* stage of that arc, completed and stable.
+Everything after it is in progress.
+
+## The question underneath all of it
+
+> If the earliest ethical teachings of Jesus, the formative wisdom of James and the
+> Didache, the interior spirituality of John, the cosmological world of early Judaism and
+> Christianity, and the transformative insights of the Syriac tradition were allowed to
+> cooperate without erasing their historical differences, what kind of human being — and
+> ultimately what kind of human community — could emerge?

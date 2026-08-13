@@ -1,0 +1,82 @@
+---
+id: "WMT C16"
+title: "Chapter Sixteen: The Logic of Service"
+kind: chapter
+words: 934
+---
+
+# Chapter Sixteen: The Logic of Service
+
+Stage Four — Community: How should people live together?
+
+My friend,
+
+We come to authority, which corrupts nearly everyone who holds it, including people who began well.
+
+You hold some. Everyone does — over children, employees, students, a committee, a household budget, or simply the quiet influence of being someone whose opinion carries in a room. The question is never whether you have power. It is what your power is for.
+
+### The Standard
+
+God presides in the great assembly. He judges among the gods. "How long will you judge unjustly, and show partiality to the wicked?" "Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed. Rescue the weak and needy. Deliver them out of the hand of the wicked." — Psalm 82:1–4
+
+This Psalm is addressed to those who hold authority, and its measure of them is singular, and it is not competence or results. It is how the weak fare under their hands.
+
+And there is a line in it that has never left me: elsewhere the Psalm says that when the afflicted are ignored, all the foundations of the earth are shaken. Not "a regrettable outcome occurs." The foundations shake. Injustice toward the powerless is treated as a structural event in the moral universe.
+
+### The Didascalia and What Authority Is For
+
+The Didascalia Apostolorum looks, at a glance, like dry administration — bishops, deacons, widows, the ordering of a congregation. Beneath the administrative surface
+
+is something I have come to call the Logic of Service, and it inverts everything the world assumes about position.
+
+Authority is never the right to command. It is the obligation to carry weight.
+
+### Three marks follow, and they are diagnostic:
+
+A heart turned toward practical care. Responsibility is measured by how the widow, the orphan, the poor, and the stranger actually fare. Not by the community's reputation, budget, or growth. If those people are forgotten, the community has lost its soul regardless of what else is flourishing.
+
+Authority as shield, not sceptre. It exists to protect the vulnerable from harm — including, sometimes, harm from within the community itself. A leader who protects the institution's reputation at the expense of the person it failed has abandoned this entirely, and I have seen that failure destroy more faith than any argument from outside ever did.
+
+Restoration over punishment. When someone stumbles, the aim is to return them to the Way, not to crush them under the weight of what they did.
+
+### Worldly Power and Authority in the Way
+
+Truth. Worldly power uses information for control and the preservation of status — what is disclosed, and when, is calculated. Authority in the Way aligns the shared life with reality even when reality is unflattering to the leadership.
+
+Humility. Worldly power treats the leader as a superior figure to be served and insulated from ordinary needs. Authority in the Way knows itself to be a fellow traveler who happens to be carrying a particular load.
+
+Mercy. Worldly power maintains order by condemnation, because fear is efficient. Authority in the Way maintains it by healing, because fear produces compliance and not character.
+
+### Why the Vulnerable Specifically
+
+The Didascalia is precise about where the eyes go: the widow, the orphan, the poor, the stranger.
+
+There is a shrewdness in that list. These are people who cannot give anything back. No status, no money, no influence, no useful connection. They cannot advance your position.
+
+Which makes them the only reliable test. Service to those who can repay you proves nothing — a purely self-interested man would do exactly the same. How you treat those who can do nothing for you is the one measurement that cannot be faked.
+
+A community is not as strong as its most impressive members. It is as strong as its most vulnerable one is safe.
+
+### The Witness
+
+You know that the rulers of the nations lord it over them, and their great ones exercise authority over them. It shall not be so among you, but whoever desires to become great among you shall be your servant... even as the Son of Man came not to be served, but to serve, and to give his life as a ransom for many. — Matthew 20:25–28
+
+It shall not be so among you. A clean break with how power works everywhere else.
+
+And note the grounding. He does not argue that servant leadership is more effective, though it may be. He grounds it in what He Himself did — came down, served, and paid. The ethic is downstream of the cross, which means it is a response rather than a strategy.
+
+### The Practice: The Logic of Service
+
+Audit your own authority. Name the places you hold power, including the small informal ones. For each, ask: who is vulnerable to me here?
+
+Serve one who cannot repay. This week, do something substantial for someone with nothing to offer you — and tell no one about it.
+
+Watch the seating. Notice whose opinion you seek out and whose you let pass. Partiality is nearly always unconscious, which is why it must be looked for deliberately.
+
+Ask yourself this week: If the least powerful person in my sphere described me honestly, what would they say? Where have I used a position to be served rather than to carry weight?
+
+A Blessing
+
+May you find the strength to decrease so that others are lifted.
+
+May you be truthful without harshness, humble without self-contempt, merciful without partiality. And may you be the sort of person under whose authority the weak are safe.

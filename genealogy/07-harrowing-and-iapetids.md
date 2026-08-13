@@ -1,0 +1,62 @@
+---
+id: "WMT G07"
+title: "The Harrowing and the Iapetids"
+kind: genealogy
+status: speculative
+---
+
+# The Harrowing and the Iapetids
+
+> **Status: speculative.** This section is a narrative and theological experiment. It is
+> not curriculum, not doctrine, and not required for anything in `trunk/`. It is recorded
+> here because it is a real part of the project's development, and because burying it
+> would be its own kind of dishonesty. Read it as a laboratory, not a conclusion.
+
+## The cosmic expansion
+
+The project has expanded beyond individual discipleship into a theological interpretation
+of the **Harrowing of Hell** — the descent of Christ into the realm of death.
+
+The Harrowing provides a setting in which the Way can be dramatized at cosmic scale. The
+governing question shifts from
+
+> "How should a person live?"
+
+to
+
+> "What does the Way of Mercy and Truth mean for the redemption of humanity at the deepest
+> level?"
+
+## The Iapetid family
+
+Within this treatment, Christ encounters not generic "evil" but the deep structures of the
+human condition, represented through the primordial figures of the Titans and
+particularly the **Iapetid family**.
+
+The central conceptual move: Christ does not merely destroy the powers associated with
+humanity's broken condition. He **approaches** them. He confronts them with Truth. He
+offers Mercy. And he lays before them the possibility of another way.
+
+The Harrowing thus becomes an enacted demonstration of the Way itself:
+
+> Christ does not redeem humanity by abandoning Truth. Nor does he redeem humanity by
+> exercising power without Mercy. He embodies the union.
+
+The Iapetid family becomes a dramatic embodiment of the distortions the Way must heal.
+
+## Why it is fenced
+
+Three reasons this material is quarantined from the curriculum:
+
+1. **It is mythological in idiom.** Using Titanic figures as archetypes of human
+   distortion is a literary and theological device, not a historical or doctrinal claim.
+   Readers from most Christian traditions will and should treat it differently from the
+   sourcing in `WMT G02`.
+2. **It is not needed.** Nothing in the twenty-nine chapters depends on it. A person can
+   walk the entire Way without encountering it.
+3. **It is the most easily misread part of the project.** Presented alongside the
+   curriculum without a fence, it would change what readers think the curriculum is
+   claiming.
+
+If this material is ever developed into a finished work, it belongs in its own repository
+under its own name — related to the Way, not folded into it.

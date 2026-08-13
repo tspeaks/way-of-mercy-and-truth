@@ -1,0 +1,157 @@
+{
+  "work": "The Way of Mercy and Truth",
+  "source": "trunk/appendices/praxis-appendix.md",
+  "note": "Practice IDs are permanent. Take up two and hold them for a year before adding a third.",
+  "practices": [
+    {
+      "id": "WMT PR01",
+      "number": 1,
+      "title": "The Moral Audit"
+    },
+    {
+      "id": "WMT PR02",
+      "number": 2,
+      "title": "Interior Diagnosis"
+    },
+    {
+      "id": "WMT PR03",
+      "number": 3,
+      "title": "Self-Accusation"
+    },
+    {
+      "id": "WMT PR04",
+      "number": 4,
+      "title": "The Discipline of Unknowing"
+    },
+    {
+      "id": "WMT PR05",
+      "number": 5,
+      "title": "Habitual Almsgiving"
+    },
+    {
+      "id": "WMT PR06",
+      "number": 6,
+      "title": "Non-Retaliation"
+    },
+    {
+      "id": "WMT PR07",
+      "number": 7,
+      "title": "The Daily Anchors"
+    },
+    {
+      "id": "WMT PR08",
+      "number": 8,
+      "title": "Sacred Lament"
+    },
+    {
+      "id": "WMT PR09",
+      "number": 9,
+      "title": "The Architecture of Peace"
+    },
+    {
+      "id": "WMT PR10",
+      "number": 10,
+      "title": "The Citizen-Stranger"
+    },
+    {
+      "id": "WMT PR11",
+      "number": 11,
+      "title": "The Failure Recovery Protocol"
+    },
+    {
+      "id": "WMT PR12",
+      "number": 12,
+      "title": "Watchfulness"
+    },
+    {
+      "id": "WMT PR13",
+      "number": 13,
+      "title": "The Hidden Life"
+    },
+    {
+      "id": "WMT PR14",
+      "number": 14,
+      "title": "The Discipline of Gradualism"
+    },
+    {
+      "id": "WMT PR15",
+      "number": 15,
+      "title": "Shedding Harshness"
+    },
+    {
+      "id": "WMT PR16",
+      "number": 16,
+      "title": "Listening as Mercy"
+    },
+    {
+      "id": "WMT PR17",
+      "number": 17,
+      "title": "Covering Weakness"
+    },
+    {
+      "id": "WMT PR18",
+      "number": 18,
+      "title": "Absorbing the Blow"
+    },
+    {
+      "id": "WMT PR19",
+      "number": 19,
+      "title": "Spontaneous Service"
+    },
+    {
+      "id": "WMT PR20",
+      "number": 20,
+      "title": "The Sacrifice of Routine"
+    },
+    {
+      "id": "WMT PR21",
+      "number": 21,
+      "title": "Verbal Almsgiving"
+    },
+    {
+      "id": "WMT PR22",
+      "number": 22,
+      "title": "Unreciprocated Care"
+    },
+    {
+      "id": "WMT PR23",
+      "number": 23,
+      "title": "The Sacrament of the Ordinary"
+    },
+    {
+      "id": "WMT PR24",
+      "number": 24,
+      "title": "The Compass"
+    },
+    {
+      "id": "WMT PR25",
+      "number": 25,
+      "title": "Deferential Seating"
+    },
+    {
+      "id": "WMT PR26",
+      "number": 26,
+      "title": "Unobligated Loyalty"
+    },
+    {
+      "id": "WMT PR27",
+      "number": 27,
+      "title": "Virtue Construction"
+    },
+    {
+      "id": "WMT PR28",
+      "number": 28,
+      "title": "The Heavenly Palace"
+    },
+    {
+      "id": "WMT PR29",
+      "number": 29,
+      "title": "Merciful Reintegration"
+    },
+    {
+      "id": "WMT PR30",
+      "number": 30,
+      "title": "The Secret Rhythmic Devotion"
+    }
+  ]
+}

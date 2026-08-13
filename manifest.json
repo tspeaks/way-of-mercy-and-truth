@@ -1,0 +1,414 @@
+{
+  "work": "The Way of Mercy and Truth",
+  "subtitle": "A Curriculum of Formation in Three Pillars and Seven Stages",
+  "author": "A. Pilgrim",
+  "version": "1.0.1",
+  "license": "CC0 1.0 Universal (public domain dedication)",
+  "total_words": 50765,
+  "section_count": 40,
+  "full_text": "dist/wmt-full.txt",
+  "sections": [
+    {
+      "id": "WMT P0",
+      "title": "Preface: How This Road Was Found",
+      "kind": "front-matter",
+      "words": 2895,
+      "markdown": "trunk/preface.md",
+      "plain_text": "dist/preface.txt"
+    },
+    {
+      "id": "WMT S1",
+      "title": "Stage One \u2014 FOUNDATIONS",
+      "kind": "stage",
+      "words": 603,
+      "markdown": "trunk/stages/s1-foundations.md",
+      "plain_text": "dist/s1-foundations.txt"
+    },
+    {
+      "id": "WMT S2",
+      "title": "Stage Two \u2014 PERCEPTION",
+      "kind": "stage",
+      "words": 458,
+      "markdown": "trunk/stages/s2-perception.md",
+      "plain_text": "dist/s2-perception.txt"
+    },
+    {
+      "id": "WMT S3",
+      "title": "Stage Three \u2014 ABIDING",
+      "kind": "stage",
+      "words": 403,
+      "markdown": "trunk/stages/s3-abiding.md",
+      "plain_text": "dist/s3-abiding.txt"
+    },
+    {
+      "id": "WMT S4",
+      "title": "Stage Four \u2014 COMMUNITY",
+      "kind": "stage",
+      "words": 404,
+      "markdown": "trunk/stages/s4-community.md",
+      "plain_text": "dist/s4-community.txt"
+    },
+    {
+      "id": "WMT S5",
+      "title": "Stage Five \u2014 HEALING",
+      "kind": "stage",
+      "words": 490,
+      "markdown": "trunk/stages/s5-healing.md",
+      "plain_text": "dist/s5-healing.txt"
+    },
+    {
+      "id": "WMT S6",
+      "title": "Stage Six \u2014 TRANSFORMATION",
+      "kind": "stage",
+      "words": 349,
+      "markdown": "trunk/stages/s6-transformation.md",
+      "plain_text": "dist/s6-transformation.txt"
+    },
+    {
+      "id": "WMT S7",
+      "title": "Stage Seven \u2014 MATURE MERCY",
+      "kind": "stage",
+      "words": 302,
+      "markdown": "trunk/stages/s7-mature-mercy.md",
+      "plain_text": "dist/s7-mature-mercy.txt"
+    },
+    {
+      "id": "WMT C01",
+      "title": "Chapter One: The Ground Beneath Everything",
+      "kind": "chapter",
+      "words": 2142,
+      "markdown": "trunk/chapters/c01-the-ground-beneath-everything.md",
+      "plain_text": "dist/c01-the-ground-beneath-everything.txt"
+    },
+    {
+      "id": "WMT C02",
+      "title": "Chapter Two: The Skill of Living",
+      "kind": "chapter",
+      "words": 1623,
+      "markdown": "trunk/chapters/c02-the-skill-of-living.md",
+      "plain_text": "dist/c02-the-skill-of-living.txt"
+    },
+    {
+      "id": "WMT C03",
+      "title": "Chapter Three: The Blueprint of Mercy",
+      "kind": "chapter",
+      "words": 1820,
+      "markdown": "trunk/chapters/c03-the-blueprint-of-mercy.md",
+      "plain_text": "dist/c03-the-blueprint-of-mercy.txt"
+    },
+    {
+      "id": "WMT C04",
+      "title": "Chapter Four: The Mirror",
+      "kind": "chapter",
+      "words": 1451,
+      "markdown": "trunk/chapters/c04-the-mirror.md",
+      "plain_text": "dist/c04-the-mirror.txt"
+    },
+    {
+      "id": "WMT C05",
+      "title": "Chapter Five: The Apprenticeship",
+      "kind": "chapter",
+      "words": 1825,
+      "markdown": "trunk/chapters/c05-the-apprenticeship.md",
+      "plain_text": "dist/c05-the-apprenticeship.txt"
+    },
+    {
+      "id": "WMT C06",
+      "title": "Chapter Six: The Opening of the Eyes",
+      "kind": "chapter",
+      "words": 1588,
+      "markdown": "trunk/chapters/c06-the-opening-of-the-eyes.md",
+      "plain_text": "dist/c06-the-opening-of-the-eyes.txt"
+    },
+    {
+      "id": "WMT C07",
+      "title": "Chapter Seven: Cleansing the Eyes",
+      "kind": "chapter",
+      "words": 1149,
+      "markdown": "trunk/chapters/c07-cleansing-the-eyes.md",
+      "plain_text": "dist/c07-cleansing-the-eyes.txt"
+    },
+    {
+      "id": "WMT C08",
+      "title": "Chapter Eight: The True Prophet",
+      "kind": "chapter",
+      "words": 1309,
+      "markdown": "trunk/chapters/c08-the-true-prophet.md",
+      "plain_text": "dist/c08-the-true-prophet.txt"
+    },
+    {
+      "id": "WMT C09",
+      "title": "Chapter Nine: The Secret Place",
+      "kind": "chapter",
+      "words": 1181,
+      "markdown": "trunk/chapters/c09-the-secret-place.md",
+      "plain_text": "dist/c09-the-secret-place.txt"
+    },
+    {
+      "id": "WMT C10",
+      "title": "Chapter Ten: The Delight of Remaining",
+      "kind": "chapter",
+      "words": 1072,
+      "markdown": "trunk/chapters/c10-the-delight-of-remaining.md",
+      "plain_text": "dist/c10-the-delight-of-remaining.txt"
+    },
+    {
+      "id": "WMT C11",
+      "title": "Chapter Eleven: The Vine",
+      "kind": "chapter",
+      "words": 996,
+      "markdown": "trunk/chapters/c11-the-vine.md",
+      "plain_text": "dist/c11-the-vine.txt"
+    },
+    {
+      "id": "WMT C12",
+      "title": "Chapter Twelve: The Proof",
+      "kind": "chapter",
+      "words": 1148,
+      "markdown": "trunk/chapters/c12-the-proof.md",
+      "plain_text": "dist/c12-the-proof.txt"
+    },
+    {
+      "id": "WMT C13",
+      "title": "Chapter Thirteen: Ordinary Faithfulness",
+      "kind": "chapter",
+      "words": 909,
+      "markdown": "trunk/chapters/c13-ordinary-faithfulness.md",
+      "plain_text": "dist/c13-ordinary-faithfulness.txt"
+    },
+    {
+      "id": "WMT C14",
+      "title": "Chapter Fourteen: The Household",
+      "kind": "chapter",
+      "words": 1244,
+      "markdown": "trunk/chapters/c14-the-household.md",
+      "plain_text": "dist/c14-the-household.txt"
+    },
+    {
+      "id": "WMT C15",
+      "title": "Chapter Fifteen: The Architecture of Peace",
+      "kind": "chapter",
+      "words": 930,
+      "markdown": "trunk/chapters/c15-the-architecture-of-peace.md",
+      "plain_text": "dist/c15-the-architecture-of-peace.txt"
+    },
+    {
+      "id": "WMT C16",
+      "title": "Chapter Sixteen: The Logic of Service",
+      "kind": "chapter",
+      "words": 933,
+      "markdown": "trunk/chapters/c16-the-logic-of-service.md",
+      "plain_text": "dist/c16-the-logic-of-service.txt"
+    },
+    {
+      "id": "WMT C17",
+      "title": "Chapter Seventeen: The Citizen-Stranger",
+      "kind": "chapter",
+      "words": 887,
+      "markdown": "trunk/chapters/c17-the-citizen-stranger.md",
+      "plain_text": "dist/c17-the-citizen-stranger.txt"
+    },
+    {
+      "id": "WMT C18",
+      "title": "Chapter Eighteen: Holy Detachment",
+      "kind": "chapter",
+      "words": 1204,
+      "markdown": "trunk/chapters/c18-holy-detachment.md",
+      "plain_text": "dist/c18-holy-detachment.txt"
+    },
+    {
+      "id": "WMT C19",
+      "title": "Chapter Nineteen: The Door, Not the Wall",
+      "kind": "chapter",
+      "words": 1165,
+      "markdown": "trunk/chapters/c19-the-door-not-the-wall.md",
+      "plain_text": "dist/c19-the-door-not-the-wall.txt"
+    },
+    {
+      "id": "WMT C20",
+      "title": "Chapter Twenty: The Watchman at the Gate",
+      "kind": "chapter",
+      "words": 1026,
+      "markdown": "trunk/chapters/c20-the-watchman-at-the-gate.md",
+      "plain_text": "dist/c20-the-watchman-at-the-gate.txt"
+    },
+    {
+      "id": "WMT C21",
+      "title": "Chapter Twenty-One: The Physician's Manual",
+      "kind": "chapter",
+      "words": 923,
+      "markdown": "trunk/chapters/c21-the-physician-s-manual.md",
+      "plain_text": "dist/c21-the-physician-s-manual.txt"
+    },
+    {
+      "id": "WMT C22",
+      "title": "Chapter Twenty-Two: The Quiet Soul",
+      "kind": "chapter",
+      "words": 1187,
+      "markdown": "trunk/chapters/c22-the-quiet-soul.md",
+      "plain_text": "dist/c22-the-quiet-soul.txt"
+    },
+    {
+      "id": "WMT C23",
+      "title": "Chapter Twenty-Three: The Hidden Life",
+      "kind": "chapter",
+      "words": 965,
+      "markdown": "trunk/chapters/c23-the-hidden-life.md",
+      "plain_text": "dist/c23-the-hidden-life.txt"
+    },
+    {
+      "id": "WMT C24",
+      "title": "Chapter Twenty-Four: The Landscape of Wonder",
+      "kind": "chapter",
+      "words": 924,
+      "markdown": "trunk/chapters/c24-the-landscape-of-wonder.md",
+      "plain_text": "dist/c24-the-landscape-of-wonder.txt"
+    },
+    {
+      "id": "WMT C25",
+      "title": "Chapter Twenty-Five: The Architecture of Growth",
+      "kind": "chapter",
+      "words": 1021,
+      "markdown": "trunk/chapters/c25-the-architecture-of-growth.md",
+      "plain_text": "dist/c25-the-architecture-of-growth.txt"
+    },
+    {
+      "id": "WMT C26",
+      "title": "Chapter Twenty-Six: The Temple of Light",
+      "kind": "chapter",
+      "words": 1505,
+      "markdown": "trunk/chapters/c26-the-temple-of-light.md",
+      "plain_text": "dist/c26-the-temple-of-light.txt"
+    },
+    {
+      "id": "WMT C27",
+      "title": "Chapter Twenty-Seven: The Ocean",
+      "kind": "chapter",
+      "words": 1712,
+      "markdown": "trunk/chapters/c27-the-ocean.md",
+      "plain_text": "dist/c27-the-ocean.txt"
+    },
+    {
+      "id": "WMT C28",
+      "title": "Chapter Twenty-Eight: The Liturgy of the Ordinary",
+      "kind": "chapter",
+      "words": 1085,
+      "markdown": "trunk/chapters/c28-the-liturgy-of-the-ordinary.md",
+      "plain_text": "dist/c28-the-liturgy-of-the-ordinary.txt"
+    },
+    {
+      "id": "WMT C29",
+      "title": "Chapter Twenty-Nine: The Fully Formed Heart",
+      "kind": "chapter",
+      "words": 1419,
+      "markdown": "trunk/chapters/c29-the-fully-formed-heart.md",
+      "plain_text": "dist/c29-the-fully-formed-heart.txt"
+    },
+    {
+      "id": "WMT A1",
+      "title": "PRAXIS APPENDIX",
+      "kind": "appendix",
+      "words": 4407,
+      "markdown": "trunk/appendices/praxis-appendix.md",
+      "plain_text": "dist/praxis-appendix.txt"
+    },
+    {
+      "id": "WMT A2",
+      "title": "CROSS-REFERENCE INDEX",
+      "kind": "appendix",
+      "words": 793,
+      "markdown": "trunk/appendices/cross-reference-index.md",
+      "plain_text": "dist/cross-reference-index.txt"
+    },
+    {
+      "id": "WMT A3",
+      "title": "SCRIPTURAL APPENDIX",
+      "kind": "appendix",
+      "words": 3318,
+      "markdown": "trunk/appendices/scriptural-appendix.md",
+      "plain_text": "dist/scriptural-appendix.txt"
+    }
+  ],
+  "genealogy": [
+    {
+      "id": "WMT G00",
+      "title": "The Genealogy \u2014 How to Read This Layer",
+      "words": 672,
+      "markdown": "genealogy/README.md",
+      "plain_text": "dist/genealogy-README.txt",
+      "status": "stable"
+    },
+    {
+      "id": "WMT G01",
+      "title": "The Philosophical Prehistory",
+      "words": 338,
+      "markdown": "genealogy/01-philosophical-prehistory.md",
+      "plain_text": "dist/genealogy-01-philosophical-prehistory.txt",
+      "status": "stable"
+    },
+    {
+      "id": "WMT G02",
+      "title": "The Ethical Nucleus",
+      "words": 730,
+      "markdown": "genealogy/02-ethical-nucleus.md",
+      "plain_text": "dist/genealogy-02-ethical-nucleus.txt",
+      "status": "partial"
+    },
+    {
+      "id": "WMT G03",
+      "title": "Interiorization and Early Witnesses",
+      "words": 222,
+      "markdown": "genealogy/03-interiorization-and-witnesses.md",
+      "plain_text": "dist/genealogy-03-interiorization-and-witnesses.txt",
+      "status": "stable"
+    },
+    {
+      "id": "WMT G04",
+      "title": "Syriac Formation and the Problem of the Gap",
+      "words": 313,
+      "markdown": "genealogy/04-syriac-formation.md",
+      "plain_text": "dist/genealogy-04-syriac-formation.txt",
+      "status": "stable"
+    },
+    {
+      "id": "WMT G05",
+      "title": "Cosmological Context",
+      "words": 150,
+      "markdown": "genealogy/05-cosmological-context.md",
+      "plain_text": "dist/genealogy-05-cosmological-context.txt",
+      "status": "stable"
+    },
+    {
+      "id": "WMT G06",
+      "title": "Integration: Theory and Praxis",
+      "words": 645,
+      "markdown": "genealogy/06-integration.md",
+      "plain_text": "dist/genealogy-06-integration.txt",
+      "status": "stable"
+    },
+    {
+      "id": "WMT G07",
+      "title": "The Harrowing and the Iapetids",
+      "words": 395,
+      "markdown": "genealogy/07-harrowing-and-iapetids.md",
+      "plain_text": "dist/genealogy-07-harrowing-and-iapetids.txt",
+      "status": "speculative"
+    },
+    {
+      "id": "WMT G08",
+      "title": "Civilizational Praxis and Stewardship",
+      "words": 338,
+      "markdown": "genealogy/08-civilizational-praxis.md",
+      "plain_text": "dist/genealogy-08-civilizational-praxis.txt",
+      "status": "stable"
+    },
+    {
+      "id": "WMT G09",
+      "title": "Architecture, Boundaries, and Cautions",
+      "words": 692,
+      "markdown": "genealogy/09-architecture-and-cautions.md",
+      "plain_text": "dist/genealogy-09-architecture-and-cautions.txt",
+      "status": "stable"
+    }
+  ]
+}

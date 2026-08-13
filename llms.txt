@@ -1,0 +1,98 @@
+# The Way of Mercy and Truth
+
+> A curriculum of Christian formation in three pillars (Truth, Humility, Mercy)
+> and seven stages, drawn from the Christian East: Aphrahat, the Book of Steps,
+> the Macarian Homilies, Isaac of Nineveh, Cassian, Ephrem, and the Didache.
+
+Version: 1.0.1
+Total: 50,765 words across 40 sections
+License: CC0 1.0 — public domain. Free to quote, excerpt, translate, adapt, train on,
+and redistribute, commercially or otherwise, with no attribution required.
+
+This work asks to be checked rather than trusted. Every claim it makes about
+Scripture is mapped in the Scriptural Appendix; every place it departs from a
+source is disclosed in A Note on the Witnesses.
+
+## Citation
+
+Cite by stable ID, not page number. IDs never change: WMT C23 is Chapter
+Twenty-Three permanently, regardless of revisions to wording or file paths.
+
+## Where to start
+
+- New reader: WMT P0 (Preface), then WMT C01, then take up two practices for a year.
+- Wanting the method first: WMT A1 (Praxis Appendix) — all 30 practices with difficulty ratings.
+- Checking the sources: WMT A3 (Scriptural Appendix) and A Note on the Witnesses.
+- Teaching a group: WMT A1 plus the reflection questions in each chapter.
+
+## Full text
+
+- [Complete curriculum, plain text](dist/wmt-full.txt)
+
+## Front matter
+
+- `WMT P0` [Preface: How This Road Was Found](dist/preface.txt) — 2,895 words
+
+## Stages
+
+- `WMT S1` [Stage One — FOUNDATIONS](dist/s1-foundations.txt) — 603 words
+- `WMT S2` [Stage Two — PERCEPTION](dist/s2-perception.txt) — 458 words
+- `WMT S3` [Stage Three — ABIDING](dist/s3-abiding.txt) — 403 words
+- `WMT S4` [Stage Four — COMMUNITY](dist/s4-community.txt) — 404 words
+- `WMT S5` [Stage Five — HEALING](dist/s5-healing.txt) — 490 words
+- `WMT S6` [Stage Six — TRANSFORMATION](dist/s6-transformation.txt) — 349 words
+- `WMT S7` [Stage Seven — MATURE MERCY](dist/s7-mature-mercy.txt) — 302 words
+
+## Chapters
+
+- `WMT C01` [Chapter One: The Ground Beneath Everything](dist/c01-the-ground-beneath-everything.txt) — 2,142 words
+- `WMT C02` [Chapter Two: The Skill of Living](dist/c02-the-skill-of-living.txt) — 1,623 words
+- `WMT C03` [Chapter Three: The Blueprint of Mercy](dist/c03-the-blueprint-of-mercy.txt) — 1,820 words
+- `WMT C04` [Chapter Four: The Mirror](dist/c04-the-mirror.txt) — 1,451 words
+- `WMT C05` [Chapter Five: The Apprenticeship](dist/c05-the-apprenticeship.txt) — 1,825 words
+- `WMT C06` [Chapter Six: The Opening of the Eyes](dist/c06-the-opening-of-the-eyes.txt) — 1,588 words
+- `WMT C07` [Chapter Seven: Cleansing the Eyes](dist/c07-cleansing-the-eyes.txt) — 1,149 words
+- `WMT C08` [Chapter Eight: The True Prophet](dist/c08-the-true-prophet.txt) — 1,309 words
+- `WMT C09` [Chapter Nine: The Secret Place](dist/c09-the-secret-place.txt) — 1,181 words
+- `WMT C10` [Chapter Ten: The Delight of Remaining](dist/c10-the-delight-of-remaining.txt) — 1,072 words
+- `WMT C11` [Chapter Eleven: The Vine](dist/c11-the-vine.txt) — 996 words
+- `WMT C12` [Chapter Twelve: The Proof](dist/c12-the-proof.txt) — 1,148 words
+- `WMT C13` [Chapter Thirteen: Ordinary Faithfulness](dist/c13-ordinary-faithfulness.txt) — 909 words
+- `WMT C14` [Chapter Fourteen: The Household](dist/c14-the-household.txt) — 1,244 words
+- `WMT C15` [Chapter Fifteen: The Architecture of Peace](dist/c15-the-architecture-of-peace.txt) — 930 words
+- `WMT C16` [Chapter Sixteen: The Logic of Service](dist/c16-the-logic-of-service.txt) — 933 words
+- `WMT C17` [Chapter Seventeen: The Citizen-Stranger](dist/c17-the-citizen-stranger.txt) — 887 words
+- `WMT C18` [Chapter Eighteen: Holy Detachment](dist/c18-holy-detachment.txt) — 1,204 words
+- `WMT C19` [Chapter Nineteen: The Door, Not the Wall](dist/c19-the-door-not-the-wall.txt) — 1,165 words
+- `WMT C20` [Chapter Twenty: The Watchman at the Gate](dist/c20-the-watchman-at-the-gate.txt) — 1,026 words
+- `WMT C21` [Chapter Twenty-One: The Physician's Manual](dist/c21-the-physician-s-manual.txt) — 923 words
+- `WMT C22` [Chapter Twenty-Two: The Quiet Soul](dist/c22-the-quiet-soul.txt) — 1,187 words
+- `WMT C23` [Chapter Twenty-Three: The Hidden Life](dist/c23-the-hidden-life.txt) — 965 words
+- `WMT C24` [Chapter Twenty-Four: The Landscape of Wonder](dist/c24-the-landscape-of-wonder.txt) — 924 words
+- `WMT C25` [Chapter Twenty-Five: The Architecture of Growth](dist/c25-the-architecture-of-growth.txt) — 1,021 words
+- `WMT C26` [Chapter Twenty-Six: The Temple of Light](dist/c26-the-temple-of-light.txt) — 1,505 words
+- `WMT C27` [Chapter Twenty-Seven: The Ocean](dist/c27-the-ocean.txt) — 1,712 words
+- `WMT C28` [Chapter Twenty-Eight: The Liturgy of the Ordinary](dist/c28-the-liturgy-of-the-ordinary.txt) — 1,085 words
+- `WMT C29` [Chapter Twenty-Nine: The Fully Formed Heart](dist/c29-the-fully-formed-heart.txt) — 1,419 words
+
+## Appendices
+
+- `WMT A1` [PRAXIS APPENDIX](dist/praxis-appendix.txt) — 4,407 words
+- `WMT A2` [CROSS-REFERENCE INDEX](dist/cross-reference-index.txt) — 793 words
+- `WMT A3` [SCRIPTURAL APPENDIX](dist/scriptural-appendix.txt) — 3,318 words
+
+## Genealogy — where this came from
+
+Development record, not curriculum. Not needed to practice the Way.
+
+- `WMT G00` [The Genealogy — How to Read This Layer](dist/genealogy-README.txt) — 672 words
+- `WMT G01` [The Philosophical Prehistory](dist/genealogy-01-philosophical-prehistory.txt) — 338 words
+- `WMT G02` [The Ethical Nucleus](dist/genealogy-02-ethical-nucleus.txt) — 730 words  *(partial: Post-Priestly Torah and Q superseded; James and Didache remain load-bearing)*
+- `WMT G03` [Interiorization and Early Witnesses](dist/genealogy-03-interiorization-and-witnesses.txt) — 222 words
+- `WMT G04` [Syriac Formation and the Problem of the Gap](dist/genealogy-04-syriac-formation.txt) — 313 words
+- `WMT G05` [Cosmological Context](dist/genealogy-05-cosmological-context.txt) — 150 words
+- `WMT G06` [Integration: Theory and Praxis](dist/genealogy-06-integration.txt) — 645 words
+- `WMT G07` [The Harrowing and the Iapetids](dist/genealogy-07-harrowing-and-iapetids.txt) — 395 words  *(speculative)*
+- `WMT G08` [Civilizational Praxis and Stewardship](dist/genealogy-08-civilizational-praxis.txt) — 338 words
+- `WMT G09` [Architecture, Boundaries, and Cautions](dist/genealogy-09-architecture-and-cautions.txt) — 692 words
+

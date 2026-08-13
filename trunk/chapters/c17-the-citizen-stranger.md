@@ -1,0 +1,78 @@
+---
+id: "WMT C17"
+title: "Chapter Seventeen: The Citizen-Stranger"
+kind: chapter
+words: 890
+---
+
+# Chapter Seventeen: The Citizen-Stranger
+
+Stage Four — Community: How should people live together?
+
+My friend,
+
+We step outside the gate now.
+
+You have learned to be loyal to a person, faithful in a household, peaceful in a congregation, and honest with power. All of that has been among your own. But most of your life is spent among people who do not share this road at all — at work, in the street, in the civic business of the place you live.
+
+There are two easy answers here and both are wrong.
+
+Withdrawal says: retreat into an enclave of the like-minded and keep the world at a distance. It is comfortable, it feels like integrity, and it slowly produces people who cannot speak to anyone unlike themselves.
+
+Assimilation says: dissolve. Take on the ambitions, fears, and enthusiasms of whatever room you are in, until nothing distinguishes you. This is more common, and it happens so gradually that no one notices the moment they stopped being anything in particular.
+
+The third way is harder and has no obvious name, so the tradition made one: the citizen-stranger.
+
+### Diognetus
+
+The ancient Epistle to Diognetus describes people who are not marked out by strange speech or separate cities. They live in their own countries — but as though they were resident foreigners. They share fully in civic life as citizens, and they bear its difficulties as strangers do. Every foreign land is a homeland to them, and every homeland a foreign land. They obey the laws, and then quietly exceed them in the way they actually live.
+
+Presence without assimilation. Participation without compromise.
+
+You are a resident of a different country, bringing the customs of your true home into the neighborhood where you currently live. Not a tourist, indifferent to the place. Not a rebel trying to tear it down. A resident with another citizenship.
+
+### A Rule for the Public Square
+
+In your work, aim at excellence and honesty — but not as a ladder. Work well because good work serves your neighbor, and let the question of advancement sit more lightly than the people around you hold it.
+
+Let your goodness be ordinary. Hold your tongue when a conversation turns to gossip. Help in small unnoticed ways. Most witness is not eloquent; it is a pattern of small decencies that other people cannot account for.
+
+Obey the laws gladly, while keeping your ultimate loyalty for the Truth that stands above any human decree. Both halves matter. A person with no civic loyalty is not free, merely detached; a person with nothing above the civic order has no ground to stand on when it goes wrong.
+
+Practice wide hospitality. Open your resources to people outside your circle. This is where the citizen-stranger is most visible and most useful.
+
+### The Pillars in the Marketplace
+
+Truth in public is an anchor, not a club. Speak it honestly even at cost — and always aimed at restoration rather than defeat. The world is full of people telling accurate truths for the pleasure of the damage.
+
+Humility, and with it the discipline of unknowing. You know the Way. You do not know the whole of your neighbor's life, or what has shaped their motives, or what they are carrying today. This is the guard against the arrogance of certainty, which is currently poisoning a great deal of public discourse and is not less poisonous when the certain person happens to be right. When the square becomes a storm of accusation, let your humility be what allows you to listen while everyone else is shouting.
+
+Mercy is a cool cloth on a fevered brow. Respond to failures around you by seeking to heal what is broken instead of cataloguing the pieces.
+
+### The Witness
+
+I am a stranger on the earth. Don't hide your commandments from me. — Psalm 119:19
+
+### Peter gives the pattern in full:
+
+Beloved, I beg you as foreigners and pilgrims... having good behavior among the nations, so in that of which they speak against you as evildoers, they may by your good works, which they see, glorify God in the day of visitation. — 1 Peter 2:11–12
+
+Note the mechanism. It is neither argument nor power, but good works, which they see. The transformation of a place happens through the accumulated weight of merciful conduct that people cannot explain.
+
+Test this. Jesus set the boundaries Himself on His last night: I pray not that you would take them from the world, but that you would keep them from the evil one (John 17:15). Not extraction. Preservation, inside it.
+
+### The Practice: Faithful Presence
+
+Refuse one contempt. Identify a group you have permitted yourself to despise — political, religious, generational. Refuse the contempt for a week. Not the disagreement; the contempt.
+
+One excellence without ambition. Do a piece of work well this week where no credit is available.
+
+Widen the table. One act of hospitality toward someone entirely outside your circle.
+
+Ask yourself this week: Where have I assimilated without noticing? Where have I withdrawn and called it faithfulness?
+
+### A Blessing
+
+May you be a citizen who serves with joy and a stranger who hopes with confidence.
+
+May your strangeness be a blessing to your city rather than a rebuke to it. And may your ordinary goodness be the thing your neighbors cannot quite explain.

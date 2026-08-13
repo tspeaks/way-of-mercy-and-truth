@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>The Way of Mercy and Truth — A Curriculum of Formation in Three Pillars and Seven Stages</title>
+<meta name="description" content="A twenty-nine chapter curriculum of Christian formation in three pillars and seven stages. Free and in the public domain.">
+<meta name="author" content="A. Pilgrim">
+<meta property="og:type" content="book">
+<meta property="og:title" content="The Way of Mercy and Truth">
+<meta property="og:description" content="A Curriculum of Formation in Three Pillars and Seven Stages. Public domain (CC0).">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%276%27 fill=%27%23375A66%27/%3E%3Cpath d=%27M16 6 L16 26 M8 13 L24 13%27 stroke=%27%23EFE9DB%27 stroke-width=%272.5%27 stroke-linecap=%27round%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --parchment:#EFE9DB; --paper:#F6F2E8; --raised:#E4DCC8;
+  --ink:#222C26; --ink-soft:#3D4A42; --muted:#7E7461;
+  --truth:#375A66; --mercy:#A6533B; --gold:#A9822F; --gold-line:#C9A227;
+  --spec:#6B5B7B;
+  --line:rgba(34,44,38,0.13); --line-strong:rgba(34,44,38,0.28);
+  --focus:#375A66;
+  --shadow:0 1px 2px rgba(34,44,38,.06), 0 4px 14px rgba(34,44,38,.05);
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --parchment:#191E1B; --paper:#1F2622; --raised:#28312B;
+    --ink:#E9E3D5; --ink-soft:#C3BDAF; --muted:#948B79;
+    --truth:#8FB6C1; --mercy:#D89578; --gold:#D4AC53; --gold-line:#C9A227;
+    --spec:#B4A2C4;
+    --line:rgba(233,227,213,0.14); --line-strong:rgba(233,227,213,0.3);
+    --focus:#8FB6C1;
+    --shadow:0 1px 2px rgba(0,0,0,.3), 0 4px 14px rgba(0,0,0,.22);
+  }
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0; background:var(--parchment); color:var(--ink);
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.6;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--truth);text-decoration-thickness:1px;text-underline-offset:2px;}
+a:hover{text-decoration-thickness:2px;}
+:focus-visible{outline:2px solid var(--focus);outline-offset:3px;border-radius:2px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 20px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--paper);color:var(--ink);
+  padding:10px 16px;z-index:99;border:1px solid var(--line-strong);border-radius:0 0 6px 0;}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Fraunces','Iowan Old Style',Georgia,serif;font-weight:600;letter-spacing:-.012em;}
+
+/* ---------- setup banner (disappears once configured) ---------- */
+.setup{background:var(--mercy);color:#fff;font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(255,255,255,.18);padding:1px 6px;border-radius:3px;font-size:13px;}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:56px 0 40px;border-bottom:1px solid var(--line);}
+.kicker{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin:0 0 14px;}
+h1.title{font-size:clamp(32px,8vw,54px);line-height:1.03;margin:0 0 10px;}
+.subtitle{font-size:clamp(16px,3.4vw,19px);color:var(--ink-soft);font-style:italic;margin:0 0 26px;}
+blockquote.epigraph{
+  margin:0 0 26px; padding:0 0 0 18px; border-left:2px solid var(--gold-line);
+  font-size:clamp(16px,3.5vw,19px); color:var(--ink-soft); line-height:1.45;
+}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:26px;}
+.badge{font-size:11.5px;letter-spacing:.04em;padding:5px 10px;border-radius:999px;
+  border:1px solid var(--line-strong);color:var(--ink-soft);background:var(--paper);white-space:nowrap;}
+.badge.gold{border-color:var(--gold-line);color:var(--gold);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;}
+.btn{
+  display:inline-block;padding:13px 22px;border-radius:6px;text-decoration:none;
+  font-size:15.5px;font-weight:600;border:1px solid var(--line-strong);
+  background:var(--paper);color:var(--ink);box-shadow:var(--shadow);
+  min-height:44px;
+}
+.btn:hover{background:var(--raised);}
+.btn.primary{background:var(--truth);border-color:var(--truth);color:#fff;}
+.btn.primary:hover{filter:brightness(1.08);}
+@media (prefers-color-scheme: dark){ .btn.primary{color:#12191B;} }
+
+/* ---------- generic section ---------- */
+section{padding:46px 0;border-bottom:1px solid var(--line);}
+section:last-of-type{border-bottom:0;}
+h2{font-size:clamp(22px,5vw,28px);margin:0 0 6px;}
+.section-note{color:var(--ink-soft);margin:0 0 24px;max-width:62ch;}
+h3{font-size:17px;margin:0 0 4px;}
+
+/* ---------- start-here cards ---------- */
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:18px 20px;box-shadow:var(--shadow);}
+.card .who{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:0 0 8px;}
+.card p{margin:0 0 12px;font-size:15px;color:var(--ink-soft);}
+.card .then{font-size:14px;color:var(--muted);margin:10px 0 0;padding-top:10px;border-top:1px dashed var(--line);}
+
+/* ---------- pull quote ---------- */
+.pull{
+  background:var(--raised);border:1px solid var(--gold-line);border-left-width:4px;
+  border-radius:8px;padding:22px 24px;margin:28px 0 0;
+}
+.pull p{margin:0;font-size:clamp(17px,3.6vw,20px);line-height:1.4;}
+.pull .src{font-size:13px;color:var(--muted);margin-top:10px;letter-spacing:.04em;}
+
+/* ---------- stages ---------- */
+.stage{border:1px solid var(--line);border-radius:8px;background:var(--paper);
+  margin-bottom:12px;box-shadow:var(--shadow);overflow:hidden;}
+.stage summary{
+  cursor:pointer;padding:16px 18px;list-style:none;display:flex;gap:14px;align-items:baseline;
+  min-height:44px;
+}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:var(--raised);}
+.stage .snum{
+  flex:none;width:30px;height:30px;border-radius:50%;background:var(--truth);color:#fff;
+  display:inline-flex;align-items:center;justify-content:center;font-size:13.5px;font-weight:600;
+  align-self:center;
+}
+@media (prefers-color-scheme: dark){ .stage .snum{color:#12191B;} }
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Fraunces',Georgia,serif;font-size:17px;font-weight:600;}
+.stage .sname span{display:block;font-size:14.5px;color:var(--ink-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--muted);font-size:12px;align-self:center;}
+.stage[open] .chev{transform:rotate(180deg);}
+.stage .body{padding:0 18px 16px;border-top:1px solid var(--line);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li{border-bottom:1px solid var(--line);}
+ol.chapters li:last-child{border-bottom:0;}
+ol.chapters a{
+  display:flex;gap:12px;align-items:baseline;padding:12px 2px;text-decoration:none;color:var(--ink);
+  min-height:44px;
+}
+ol.chapters a:hover{color:var(--truth);}
+ol.chapters .cid{flex:none;font-size:11.5px;color:var(--muted);width:58px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11.5px;color:var(--muted);}
+.stage-link{display:inline-block;margin-top:12px;font-size:14px;}
+
+/* ---------- plain link list ---------- */
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--paper);border:1px solid var(--line);border-radius:8px;box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:15px 18px;text-decoration:none;color:var(--ink);min-height:44px;}
+ul.linklist a:hover{background:var(--raised);}
+ul.linklist .lt{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:16px;display:block;}
+ul.linklist .ld{font-size:14px;color:var(--ink-soft);display:block;margin-top:3px;}
+.flag{font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:3px;margin-left:8px;vertical-align:2px;white-space:nowrap;}
+.flag.partial{background:rgba(169,130,47,.18);color:var(--gold);}
+.flag.speculative{background:rgba(107,91,123,.18);color:var(--spec);}
+
+/* ---------- pillars ---------- */
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:22px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--line);border-radius:8px;padding:16px;text-align:center;background:var(--paper);}
+.pillar b{font-family:'Fraunces',Georgia,serif;font-size:18px;display:block;margin-bottom:4px;}
+.pillar span{font-size:13.5px;color:var(--ink-soft);}
+.pillar.t{border-top:3px solid var(--truth);}
+.pillar.h{border-top:3px solid var(--gold-line);}
+.pillar.m{border-top:3px solid var(--mercy);}
+
+/* ---------- not-this ---------- */
+.warn{border:1px solid var(--mercy);border-left-width:4px;border-radius:8px;background:var(--paper);padding:20px 22px;}
+.warn h3{font-family:'Fraunces',Georgia,serif;font-size:17px;margin:0 0 8px;color:var(--mercy);}
+.warn p{margin:0 0 10px;font-size:15px;color:var(--ink-soft);}
+.warn p:last-child{margin-bottom:0;}
+
+/* ---------- license ---------- */
+.license{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:22px 24px;}
+.license .big{font-family:'Fraunces',Georgia,serif;font-size:20px;font-weight:600;margin:0 0 10px;}
+.license ul{margin:0 0 12px;padding-left:20px;font-size:15px;color:var(--ink-soft);}
+.license li{margin-bottom:5px;}
+.license .fine{font-size:13.5px;color:var(--muted);margin:0;}
+
+/* ---------- footer ---------- */
+footer{padding:34px 0 60px;font-size:13px;color:var(--muted);}
+footer p{margin:0 0 6px;}
+footer a{color:var(--muted);}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead"><div class="wrap">
+<p class="kicker mono">Public domain · Free forever</p>
+<h1 class="title display">The Way of Mercy and Truth</h1>
+<p class="subtitle">A Curriculum of Formation in Three Pillars and Seven Stages</p>
+<blockquote class="epigraph">Truth without mercy turns harsh. Mercy without truth turns sentimental. Humility keeps them both honest.</blockquote>
+<div class="badges">
+<span class="badge gold mono">v1.0.1</span>
+<span class="badge mono">CC0 1.0 — public domain</span>
+<span class="badge mono">29 chapters</span>
+<span class="badge mono">50,765 words</span>
+<span class="badge mono">~29 weeks at the intended pace</span>
+</div>
+<div class="cta-row">
+<a class="btn primary" href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/preface.md">Start with the Preface</a>
+<a class="btn" href="dist/wmt-full.txt">Read the full text</a>
+</div>
+</div></header>
+<main id="main">
+<section><div class="wrap">
+<h2 class="display">Start here</h2>
+<p class="section-note"><strong>Do not read this quickly.</strong> One chapter per week is the intended pace — twenty-nine weeks, rather more than half a year. That is not slow; it is the natural speed of the thing.</p>
+<div class="cards">
+<div class="card">
+<p class="who mono">New to this</p>
+<p><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/preface.md">Preface</a> — about fifteen minutes.</p>
+<p class="then">Then <a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c01-the-ground-beneath-everything.md">Chapter One</a>, and one chapter per week.</p>
+</div>
+<div class="card">
+<p class="who mono">Wanting the method first</p>
+<p><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/appendices/praxis-appendix.md">Praxis Appendix</a> — all thirty practices, rated by difficulty.</p>
+<p class="then">Pick <strong>two</strong>. Hold them a year. Then add one more.</p>
+</div>
+<div class="card">
+<p class="who mono">Checking the sources</p>
+<p><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/appendices/scriptural-appendix.md">Scriptural Appendix</a>.</p>
+<p class="then">Then the genealogy — where this departs from each source, and why.</p>
+</div>
+<div class="card">
+<p class="who mono">Leading a group</p>
+<p><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/appendices/praxis-appendix.md">Praxis Appendix</a>.</p>
+<p class="then">Use the reflection questions in each chapter — not the discussion questions you'll be tempted to invent.</p>
+</div>
+</div>
+<div class="pull"><p><strong>The single most important instruction in the book:</strong> take up two practices, not thirty. Hold them for a year. The person who attempts all of them will keep none of them past Thursday.</p></div>
+</div></section>
+<section><div class="wrap">
+<h2 class="display">The shape of it</h2>
+<p class="section-note">Seven stages, each answering one question, ordered not by chronology or theological importance but according to the order in which a human being actually changes. Tap a stage to see its chapters.</p>
+<div class="pillars">
+<div class="pillar t"><b>Truth</b><span>What is actually so</span></div>
+<div class="pillar h"><b>Humility</b><span>Keeps them both honest</span></div>
+<div class="pillar m"><b>Mercy</b><span>What love does with it</span></div>
+</div>
+<details class="stage">
+<summary>
+<span class="snum mono">1</span>
+<span class="sname"><b>Foundations</b><span>How should one live?</span></span>
+<span class="chev mono">5 ch ▾</span>
+</summary>
+<div class="body">
+<ol class="chapters">
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c01-the-ground-beneath-everything.md"><span class="cid mono">C01</span><span class="ctitle">The Ground Beneath Everything</span><span class="cwords mono">2,142w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c02-the-skill-of-living.md"><span class="cid mono">C02</span><span class="ctitle">The Skill of Living</span><span class="cwords mono">1,623w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c03-the-blueprint-of-mercy.md"><span class="cid mono">C03</span><span class="ctitle">The Blueprint of Mercy</span><span class="cwords mono">1,820w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c04-the-mirror.md"><span class="cid mono">C04</span><span class="ctitle">The Mirror</span><span class="cwords mono">1,451w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c05-the-apprenticeship.md"><span class="cid mono">C05</span><span class="ctitle">The Apprenticeship</span><span class="cwords mono">1,825w</span></a></li>
+</ol>
+<a class="stage-link" href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/stages/s1-foundations.md">Read the word before this stage →</a>
+</div></details>
+<details class="stage">
+<summary>
+<span class="snum mono">2</span>
+<span class="sname"><b>Perception</b><span>How should one see?</span></span>
+<span class="chev mono">3 ch ▾</span>
+</summary>
+<div class="body">
+<ol class="chapters">
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c06-the-opening-of-the-eyes.md"><span class="cid mono">C06</span><span class="ctitle">The Opening of the Eyes</span><span class="cwords mono">1,588w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c07-cleansing-the-eyes.md"><span class="cid mono">C07</span><span class="ctitle">Cleansing the Eyes</span><span class="cwords mono">1,149w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c08-the-true-prophet.md"><span class="cid mono">C08</span><span class="ctitle">The True Prophet</span><span class="cwords mono">1,309w</span></a></li>
+</ol>
+<a class="stage-link" href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/stages/s2-perception.md">Read the word before this stage →</a>
+</div></details>
+<details class="stage">
+<summary>
+<span class="snum mono">3</span>
+<span class="sname"><b>Abiding</b><span>How does one remain?</span></span>
+<span class="chev mono">4 ch ▾</span>
+</summary>
+<div class="body">
+<ol class="chapters">
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c09-the-secret-place.md"><span class="cid mono">C09</span><span class="ctitle">The Secret Place</span><span class="cwords mono">1,181w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c10-the-delight-of-remaining.md"><span class="cid mono">C10</span><span class="ctitle">The Delight of Remaining</span><span class="cwords mono">1,072w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c11-the-vine.md"><span class="cid mono">C11</span><span class="ctitle">The Vine</span><span class="cwords mono">996w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c12-the-proof.md"><span class="cid mono">C12</span><span class="ctitle">The Proof</span><span class="cwords mono">1,148w</span></a></li>
+</ol>
+<a class="stage-link" href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/stages/s3-abiding.md">Read the word before this stage →</a>
+</div></details>
+<details class="stage">
+<summary>
+<span class="snum mono">4</span>
+<span class="sname"><b>Community</b><span>How should people live together?</span></span>
+<span class="chev mono">6 ch ▾</span>
+</summary>
+<div class="body">
+<ol class="chapters">
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c13-ordinary-faithfulness.md"><span class="cid mono">C13</span><span class="ctitle">Ordinary Faithfulness</span><span class="cwords mono">909w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c14-the-household.md"><span class="cid mono">C14</span><span class="ctitle">The Household</span><span class="cwords mono">1,244w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c15-the-architecture-of-peace.md"><span class="cid mono">C15</span><span class="ctitle">The Architecture of Peace</span><span class="cwords mono">930w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c16-the-logic-of-service.md"><span class="cid mono">C16</span><span class="ctitle">The Logic of Service</span><span class="cwords mono">933w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c17-the-citizen-stranger.md"><span class="cid mono">C17</span><span class="ctitle">The Citizen-Stranger</span><span class="cwords mono">887w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c18-holy-detachment.md"><span class="cid mono">C18</span><span class="ctitle">Holy Detachment</span><span class="cwords mono">1,204w</span></a></li>
+</ol>
+<a class="stage-link" href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/stages/s4-community.md">Read the word before this stage →</a>
+</div></details>
+<details class="stage">
+<summary>
+<span class="snum mono">5</span>
+<span class="sname"><b>Healing</b><span>How is the heart healed?</span></span>
+<span class="chev mono">4 ch ▾</span>
+</summary>
+<div class="body">
+<ol class="chapters">
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c19-the-door-not-the-wall.md"><span class="cid mono">C19</span><span class="ctitle">The Door, Not the Wall</span><span class="cwords mono">1,165w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c20-the-watchman-at-the-gate.md"><span class="cid mono">C20</span><span class="ctitle">The Watchman at the Gate</span><span class="cwords mono">1,026w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c21-the-physician-s-manual.md"><span class="cid mono">C21</span><span class="ctitle">The Physician's Manual</span><span class="cwords mono">923w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c22-the-quiet-soul.md"><span class="cid mono">C22</span><span class="ctitle">The Quiet Soul</span><span class="cwords mono">1,187w</span></a></li>
+</ol>
+<a class="stage-link" href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/stages/s5-healing.md">Read the word before this stage →</a>
+</div></details>
+<details class="stage">
+<summary>
+<span class="snum mono">6</span>
+<span class="sname"><b>Transformation</b><span>How does the heart change?</span></span>
+<span class="chev mono">4 ch ▾</span>
+</summary>
+<div class="body">
+<ol class="chapters">
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c23-the-hidden-life.md"><span class="cid mono">C23</span><span class="ctitle">The Hidden Life</span><span class="cwords mono">965w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c24-the-landscape-of-wonder.md"><span class="cid mono">C24</span><span class="ctitle">The Landscape of Wonder</span><span class="cwords mono">924w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c25-the-architecture-of-growth.md"><span class="cid mono">C25</span><span class="ctitle">The Architecture of Growth</span><span class="cwords mono">1,021w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c26-the-temple-of-light.md"><span class="cid mono">C26</span><span class="ctitle">The Temple of Light</span><span class="cwords mono">1,505w</span></a></li>
+</ol>
+<a class="stage-link" href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/stages/s6-transformation.md">Read the word before this stage →</a>
+</div></details>
+<details class="stage">
+<summary>
+<span class="snum mono">7</span>
+<span class="sname"><b>Mature Mercy</b><span>What does the transformed person become?</span></span>
+<span class="chev mono">3 ch ▾</span>
+</summary>
+<div class="body">
+<ol class="chapters">
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c27-the-ocean.md"><span class="cid mono">C27</span><span class="ctitle">The Ocean</span><span class="cwords mono">1,712w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c28-the-liturgy-of-the-ordinary.md"><span class="cid mono">C28</span><span class="ctitle">The Liturgy of the Ordinary</span><span class="cwords mono">1,085w</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/chapters/c29-the-fully-formed-heart.md"><span class="cid mono">C29</span><span class="ctitle">The Fully Formed Heart</span><span class="cwords mono">1,419w</span></a></li>
+</ol>
+<a class="stage-link" href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/stages/s7-mature-mercy.md">Read the word before this stage →</a>
+</div></details>
+<div class="pull"><p>Grace provides the fire. Faith prepares the altar. Works are the fruit that preserves the walk.</p><p class="src mono">You are not building a ladder. You are building an altar.</p></div>
+</div></section>
+<section><div class="wrap">
+<h2 class="display">The apparatus</h2>
+<p class="section-note">The practices themselves, an index for finding your way back to them, and the scriptural grounding.</p>
+<ul class="linklist">
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/appendices/praxis-appendix.md"><span class="lt">Praxis Appendix</span><span class="ld">All thirty practices — rated by pillar, stage, difficulty, and frequency. · 4,407 words</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/appendices/cross-reference-index.md"><span class="lt">Cross-Reference Index</span><span class="ld">Cross-reference index: every practice, sorted four ways. · 793 words</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/trunk/appendices/scriptural-appendix.md"><span class="lt">Scriptural Appendix</span><span class="ld">Scriptural appendix, with a note on where this departs from each witness. · 3,318 words</span></a></li>
+</ul>
+</div></section>
+<section><div class="wrap">
+<h2 class="display">Where this came from</h2>
+<p class="section-note">A separate layer from the curriculum: the development record. It is not needed to practice the Way, and it is kept apart on purpose so the curriculum can stay stable while the account of its own history stays honest. Sections carry a status flag where their standing has changed.</p>
+<ul class="linklist">
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/genealogy/README.md"><span class="lt">The Genealogy — How to Read This Layer</span><span class="ld">Development record, standing as recorded.</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/genealogy/01-philosophical-prehistory.md"><span class="lt">The Philosophical Prehistory</span><span class="ld">Development record, standing as recorded.</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/genealogy/02-ethical-nucleus.md"><span class="lt">The Ethical Nucleus<span class="flag partial mono">partial</span></span><span class="ld">Some claims superseded; others still load-bearing.</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/genealogy/03-interiorization-and-witnesses.md"><span class="lt">Interiorization and Early Witnesses</span><span class="ld">Development record, standing as recorded.</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/genealogy/04-syriac-formation.md"><span class="lt">Syriac Formation and the Problem of the Gap</span><span class="ld">Development record, standing as recorded.</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/genealogy/05-cosmological-context.md"><span class="lt">Cosmological Context</span><span class="ld">Development record, standing as recorded.</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/genealogy/06-integration.md"><span class="lt">Integration: Theory and Praxis</span><span class="ld">Development record, standing as recorded.</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/genealogy/07-harrowing-and-iapetids.md"><span class="lt">The Harrowing and the Iapetids<span class="flag speculative mono">speculative</span></span><span class="ld">Narrative and theological experiment. Nothing depends on it.</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/genealogy/08-civilizational-praxis.md"><span class="lt">Civilizational Praxis and Stewardship</span><span class="ld">Development record, standing as recorded.</span></a></li>
+<li><a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/genealogy/09-architecture-and-cautions.md"><span class="lt">Architecture, Boundaries, and Cautions</span><span class="ld">Development record, standing as recorded.</span></a></li>
+</ul>
+</div></section>
+<section><div class="wrap">
+<h2 class="display">What this is not</h2>
+<div class="warn">
+<h3>This is not a church, and it is not a substitute for one.</h3>
+<p>It is a curriculum of formation. It does not baptize, it does not absolve, it does not gather a congregation, and it does not ordain anyone. If reading it pulls you away from a body of believers rather than deeper into one, something has gone wrong.</p>
+<p>It is also not a diagnosis or a treatment. Several stages deal with grief, shame, and the healing of the heart. That is spiritual formation, not clinical care, and it is not a replacement for the help of a doctor or counselor where that help is needed.</p>
+</div>
+</div></section>
+<section><div class="wrap">
+<h2 class="display">Take it and use it</h2>
+<div class="license">
+<p class="big">CC0 1.0 — dedicated to the public domain</p>
+<ul>
+<li>Read it, print it, teach it, preach it.</li>
+<li>Translate it into any language, without asking.</li>
+<li>Quote it at any length, with or without attribution.</li>
+<li>Sell it, adapt it, build a curriculum on top of it.</li>
+<li>Train models on it. Ingest the whole thing.</li>
+</ul>
+<p class="fine">No permission is required, and none can be revoked. Attribution is welcome but never required. Nothing in this layer is paywalled, gated, upsold, or used as a funnel for anything else — and that is a governance commitment, not a current pricing decision.</p>
+</div>
+</div></section>
+</main>
+<footer><div class="wrap">
+<p class="mono">The Way of Mercy and Truth · v1.0.1 · A. Pilgrim</p>
+<p><a href="https://github.com/tspeaks/way-of-mercy-and-truth">Source repository</a> · <a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/GOVERNANCE.md">Governance</a> · <a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/ORGANIZATION.md">Organization</a> · <a href="https://github.com/tspeaks/way-of-mercy-and-truth/blob/main/LICENSE">License</a></p>
+<p>Dedicated to the public domain. Go and do likewise.</p>
+</div></footer>
+</body></html>

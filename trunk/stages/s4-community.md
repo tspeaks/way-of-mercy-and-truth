@@ -1,0 +1,38 @@
+---
+id: "WMT S4"
+title: "Stage Four — COMMUNITY"
+kind: stage
+words: 401
+---
+
+# Stage Four — COMMUNITY
+
+How should people live together?
+
+## A Word Before the Fourth Stage
+
+My friend,
+
+This is the longest stage in the book, and it is the one where the road stops being private.
+
+Everything until now could, in principle, have been done alone. You could have worked through Foundations in a rented room. You could have cleansed your perception without another soul knowing. Abiding is by its nature something that happens between you and God in a place nobody else can enter.
+
+That is over now. From here the work happens in front of witnesses, most of whom did not volunteer.
+
+I want to say something about why this stage comes fourth rather than first, because the ordering is deliberate and it took me years to understand it.
+
+A person who has not learned to remain will not love his neighbor. He will use his neighbor — to steady himself, to confirm his worth, to fill a silence he cannot bear. This is possible to do for decades while appearing devoted, and the people being used often cannot name what is wrong. They only notice that they leave the encounter tired.
+
+You had to learn to stand alone before you could stand next to someone without leaning.
+
+Now for the warning, and it is a real one. This stage will show you things about yourself that the first three concealed.
+
+In solitude I was patient. In solitude I was humble and forgiving and slow to anger, and I had considerable evidence for all of it. Then somebody disagreed with me in front of others, and I discovered a man I had not met — quick, cold, and extremely interested in winning.
+
+That man had been there the whole time. Solitude simply never gave him anything to do.
+
+So expect to be embarrassed here. Expect to find that virtues you believed you possessed were merely untested. This is not a sign that the earlier stages failed. It is what they were for. You could not have survived this discovery in Chapter Two. You can survive it now.
+
+Six chapters. We begin at the smallest scale — one loyal person — and work outward: the household, the congregation, the question of authority, the wider world, and finally the freedom that lets you live in all of it without being owned by any of it.
+
+Go slowly. This is where the gold gets proved.

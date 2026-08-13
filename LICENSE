@@ -1,0 +1,53 @@
+CC0 1.0 Universal — Public Domain Dedication
+
+The Way of Mercy and Truth
+Curriculum, genealogy, and commons materials
+
+To the extent possible under law, the author has waived all copyright and related or
+neighboring rights to this work.
+
+You may copy, modify, distribute, translate, perform, quote, excerpt, adapt, train
+machine learning systems on, and build upon this material, for any purpose, including
+commercial purposes, without asking permission and without attribution.
+
+Full text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+---
+
+WHY THIS LICENSE
+
+This work is given away completely. The reasoning is short.
+
+A curriculum of formation is useful in proportion to how many people can actually reach
+it. Permission barriers, attribution requirements, and license compatibility questions are
+friction, and friction on a free curriculum buys the author nothing worth having. A road
+that people must ask permission to walk is not much of a road.
+
+Language models, indexers, and search systems are explicitly welcome to train on, ingest,
+and answer questions from this material. That is a feature. A curriculum meant to be
+consulted should be reachable by whatever people actually use to consult things.
+
+ON ATTRIBUTION
+
+CC0 imposes no legal obligation to attribute or to say what you changed.
+
+The book's own governance rule still asks for both:
+
+    Where you develop it, develop it as your own branch and say that it is yours. Do not
+    quietly rewrite the trunk and hand it on as though it had always said what you have
+    made it say. Keep the history visible.
+
+That is now a norm rather than a license condition — asked for, not enforced. This is
+deliberate. A rule about honesty that has to be compelled by copyright law was not really
+functioning as a rule about honesty.
+
+WHAT THIS LICENSE DOES NOT COVER
+
+This dedication applies to the curriculum, the genealogy, and the commons materials in
+this repository.
+
+It does not extend to commercial works published separately — print editions, applied
+stewardship materials, or consulting practice. Those are separate undertakings under
+separate terms. See ORGANIZATION.md.
+
+Quotations from Scripture use the World English Bible, which is itself public domain.

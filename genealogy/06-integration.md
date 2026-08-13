@@ -1,0 +1,113 @@
+---
+id: "WMT G06"
+title: "Integration: Theory and Praxis"
+kind: genealogy
+---
+
+# Integration: Theory and Praxis
+
+## Where the streams converge
+
+```
+Philosophical search
+   ↓
+Mainländer / confrontation with pessimism and nihilism
+   ↓
+Historical-critical investigation
+   ↓
+Tabor / historically credible Jesus
+   ↓
+Early ethical nucleus
+   ↓
+James + Didache (extant witnesses — retained)
+   ↑
+   ┆  Post-Priestly Torah + Q
+   ┆  (reconstructive stage — passed through, not structural)
+   ↓
+Johannine interiorization
+   ↓
+Early Christian witnesses
+   ↓
+Syriac spiritual formation
+   ↓
+Aphrahat + Ephrem + Book of Steps + Macarius + Isaac
+   ↓
+The Upright / Perfect problem
+   ↓
+Seven-stage developmental bridge
+   ↓
+The Way of Mercy and Truth
+```
+
+The result is not a reconstructed historical Christianity. It is a **developmental
+synthesis**.
+
+**Where the glue actually is.** The historical-critical stream — Tabor's reconstruction
+of a historically credible Jesus, extended into Post-Priestly Torah and Q — was necessary
+to get the search moving, but it is not what integrates the layers. James and the
+Didache, which the project actually possesses as texts, carry the ethical nucleus forward
+on their own. What binds the whole architecture together — historical, spiritual,
+cosmological — is the seven-stage developmental path itself: a path a person can walk
+regardless of which historical reconstruction they find persuasive. Post-Priestly Torah
+and Q were a stage the project passed through, honestly recorded in `WMT G02`, not the
+foundation the project currently stands on.
+
+## The generative question
+
+The project reduces to a single question:
+
+> If the earliest ethical teachings of Jesus, the formative wisdom of James and the
+> Didache, the interior spirituality of John, and the transformative insights of the
+> Syriac tradition were allowed to cooperate, what kind of person would emerge?
+
+This is more fundamental than any individual doctrine. WMT is ultimately concerned with
+the formation of a particular kind of human being — characterized by the convergence of
+mercy, truth, righteousness, wisdom, humility, self-control, generosity, courage,
+forgiveness, non-retaliation, stewardship, and progressively integrated love.
+
+## What the framework organizes
+
+Once the developmental architecture was established, WMT ceased to be merely a historical
+reconstruction. It became a framework organizing several dimensions at once:
+
+| Dimension | Question |
+|---|---|
+| Historical recovery | What can be recovered about the earliest Jesus movement? |
+| Ethical formation | What practices constitute the Way? |
+| Interior transformation | What must happen within a person for those practices to become natural? |
+| Mystical transformation | How does a person become progressively united with divine goodness? |
+| Early Christian continuity | How does the tradition preserve, modify, or obscure the earliest way? |
+| Syriac spirituality | What does that tradition teach about actual transformation? |
+| Practical discipleship | How does a person walk the Way today? |
+
+## Theory and Praxis
+
+The project matured into the **Theory and Praxis** of the Way. The Way is simultaneously:
+
+**Theory** — an account of reality, humanity, God, evil, redemption, moral development,
+and the structure of existence.
+
+**Praxis** — a way of living, practicing, forming habits, relating to others, handling
+possessions, exercising stewardship, responding to suffering, and being transformed.
+
+The two cannot be separated. A theory that does not produce a way of life is inadequate.
+A praxis without a truthful account of reality lacks orientation.
+
+> Truth must become practice, and practice must be governed by Truth.
+
+## Mercy and Truth as governing principle
+
+At maturity, "Mercy and Truth" stops functioning as a title and becomes the organizing
+principle.
+
+**Mercy** concerns the movement of love toward the other: compassion, forgiveness,
+patience, generosity, restoration, refusal of vengeance.
+
+**Truth** concerns reality and fidelity: honesty, righteousness, discernment, integrity,
+responsibility, recognition of what is actually the case.
+
+The Way requires both. Mercy without Truth enables disorder. Truth without Mercy becomes
+oppressive. The mature Way seeks **merciful truth and truthful mercy**.
+
+*In the curriculum, this appears as the three pillars — Truth, Humility, Mercy — with
+Humility as the term that keeps the other two honest.*

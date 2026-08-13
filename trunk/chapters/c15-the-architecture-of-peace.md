@@ -1,0 +1,88 @@
+---
+id: "WMT C15"
+title: "Chapter Fifteen: The Architecture of Peace"
+kind: chapter
+words: 930
+---
+
+# Chapter Fifteen: The Architecture of Peace
+
+Stage Four — Community: How should people live together?
+
+My friend,
+
+Now conflict, because it is coming and pretending otherwise helps nobody.
+
+Wherever two people share a life, there will be disagreement. This is not a symptom of a defective community. A community without visible conflict is usually not peaceful; it is merely one where disagreement has gone underground, which is a considerably worse condition and much harder to treat.
+
+The question is not how to avoid conflict. It is: how are disagreements handled without destroying the fellowship?
+
+### Peace Is Built, Not Found
+
+For this we turn to the letter called 1 Clement, written to a church in Corinth that had torn itself apart over rivalry and a hunger for position.
+
+The central insight is in the word I have used for the chapter title. Peace is an architecture. It is a structure. Structures are designed, built, and maintained, and they fall down when neglected.
+
+Peace is not what remains when nobody is arguing. It is something you construct.
+
+Truth is the load-bearing frame — knowing where you fit and carrying your portion of the weight. Truthful without harshness, so that honesty builds rather than demolishes.
+
+Humility is the mortar between the stones. Without it the stones grind against each other until they crumble. Note that mortar is invisible in a finished wall and the wall does not stand without it.
+
+Mercy is what keeps the structure from becoming brittle. When a stone is chipped or a beam overloaded, mercy responds with compassion rather than a cold demand for perfection.
+
+Victory or Restoration
+
+Here is the distinction that changes how you fight.
+
+In the world, disagreement is aimed at victory. You want to be shown right, and your opponent shown wrong, and ideally in front of people.
+
+In this Way we aim at restoration — the repair of the relationship and of the image of God in the person opposite you.
+
+### Set them side by side:
+
+The Way of Victory runs on pride and the need to be right. It uses harsh judgment to silence and shame. It seeks status. It produces factions and division.
+
+The Way of Restoration runs on humility and a desire for peace. It uses mercy to understand and to cover faults. It seeks reconciliation. It produces a stronger fellowship.
+
+And the sentence to keep: if you win the argument and lose your brother, you have lost.
+
+I have won a great many arguments. I can remember the winning and I can no longer always remember what they were about. What I remember with painful clarity is the faces of the people I won them against, several of whom never came back.
+
+Order and the Body
+
+Think of the community as a building or a body.
+
+A building settles into its foundation, and if one stone refuses its share of the load the whole wall begins to lean. In a body, when the hand is injured the whole person walks differently. Ignore the pain of the smallest part of a community and the entire gait becomes labored.
+
+Order here means nothing more than taking responsibility for your own role. The foot does not envy the eye; the eye does not mock the foot. Each serves the whole, and stability follows — not because anyone is being controlled but because everyone is carrying something.
+
+### The Witness
+
+Who is someone who desires life, and loves many days, that he may see good? Keep your tongue from evil, and your lips from speaking lies. Depart from evil, and do good. seek peace, and pursue it. — Psalm 34:12–14
+
+Pursue is an active verb. You chase peace; it does not wander into your house on its own.
+
+### Paul gives the mechanism:
+
+doing nothing through rivalry or through conceit, but in humility, each counting others better than himself; each of you not just looking to his own things, but each of you also to the things of others. — Philippians 2:3–4
+
+Each counting others better than himself. This is not a request that you believe something false about your own abilities. It is an instruction about attention — that in any dispute you weight the other person's interests as heavily as your own, which is precisely what pride refuses to do.
+
+Test this. Jesus put it in a single line: Blessed are the peacemakers, for they shall be called children of God (Matthew 5:9). Not the peaceful. The peacemakers — those who go and do the work of building it.
+
+### The Practice: Architecture of Peace
+
+One conflict, re-aimed. Take a current disagreement and change your objective in it. Not how do I prevail but what would repair look like. Then act toward that even if the other person does not.
+
+Concede one thing. In your next disagreement, find something the other person is right about and say so out loud, early. This costs almost nothing and changes the temperature of a room faster than anything else I know.
+
+The unsent reply. When you compose a devastating response, do not send it that day. Read it the next morning. You will send perhaps one in ten, and it will be better.
+
+Ask yourself this week: Where am I currently trying to win something I should be trying to repair? Whose peace am I sacrificing to protect my standing?
+
+### A Blessing
+
+May you handle the peace of your fellowship as you would a glass vessel.
+
+May truth guide you into reality, humility steady your hands, and mercy surround every step you take toward someone you disagree with.

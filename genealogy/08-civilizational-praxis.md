@@ -1,0 +1,60 @@
+---
+id: "WMT G08"
+title: "Civilizational Praxis and Stewardship"
+kind: genealogy
+---
+
+# Civilizational Praxis and Stewardship
+
+## From formation to civilization
+
+The project has also moved beyond individual spiritual formation toward stewardship,
+economics, vocation, work, responsibility, social order, institutional ethics, and
+practical service.
+
+The underlying logic is consistent. If the Way transforms the person, then transformed
+persons must transform the manner in which they work, possess, lead, create, govern,
+serve, trade, and steward resources.
+
+The expansion runs:
+
+> personal formation → relational formation → economic stewardship → social and
+> institutional formation
+
+*In the curriculum, the first two of these are already present:* Stage Four, Community
+(`WMT S4`), Chapter Fourteen, The Household (`WMT C14`), and Chapter Eighteen, Holy
+Detachment (`WMT C18`). The third and fourth are not — they are development beyond the
+trunk.
+
+## Stewardship as applied praxis
+
+The stewardship dimension is not separate from the Way. It is an applied expression of the
+same principle: resources are things **entrusted** to human beings rather than possessions
+for self-maximization.
+
+Stewardship therefore asks:
+
+- What has been entrusted to me?
+- What is its proper purpose?
+- How can it produce good?
+- How do I avoid exploitation?
+- How do I serve both Truth and Mercy through its use?
+- How can resources contribute to human flourishing?
+
+## Why this can travel outside religious contexts
+
+A person does not need to adopt the theological framework to benefit from responsible
+stewardship, integrity, service, ethical decision-making, disciplined formation, and
+long-term responsibility.
+
+This mirrors something the curriculum already says of itself: the Way can be walked, and
+walked profitably, by someone who does not yet believe. Its psychology is sound whether or
+not its theology is accepted.
+
+**A boundary worth stating.** Applied stewardship work is the layer of this project most
+likely to touch money. When it does, it should be organizationally separate from the
+curriculum — which is free, and stays free. See [ORGANIZATION.md](../ORGANIZATION.md).
+
+The stewardship ecosystem must not become detached from the spiritual and ethical
+principles from which it arose. Detached, it is just consulting with religious vocabulary
+attached, which would discredit both halves.

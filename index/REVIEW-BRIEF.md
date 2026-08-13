@@ -78,14 +78,42 @@ The connection explains why the passage belongs where it is placed.
 **Bad:** James 3:3-6 → C20. *Both are about the tongue.*
 True, and useless. Shared vocabulary is not a thematic connection.
 
+**The practice test.** Four of the five errors caught in the first review were practice
+tags attached to passages whose chapter and stage placement was correct. So practice
+tags carry a stricter burden than chapter tags. Before a practice is tagged, it must
+pass this question:
+
+> Does the passage prescribe this practice, enact it, or show what its absence costs —
+> or does it merely share the practice's subject matter?
+
+Only the first three qualify. *Asking God for wisdom* shares subject matter with the
+Discipline of Unknowing and prescribes nothing of the kind; that tag was an error.
+Apply this test to every practice tag and flag any that fails it.
+
 **Also bad:** stretching a passage to fill a gap. If a practice has no genuine anchor
 in this book, that absence is data. Do not invent one.
 
 ---
 
+## Narrative books and the `mode` field
+
+Entries in a narrative book carry a `mode` field with one of three values:
+
+- `prescribes` — the passage commands the practice
+- `exemplifies` — someone in the passage does it
+- `counter-example` — the passage shows what its absence costs
+
+This exists because narrative teaches differently from instruction. Jonah holds correct
+doctrine and refuses the mercy that follows from it for four chapters, so most of what
+that book anchors, it anchors negatively. A counter-example is a real anchor, not a weak
+one — but a tag that could not distinguish the two would misrepresent the text.
+
+When reviewing a narrative book, check the mode as carefully as the tags. A passage
+marked `exemplifies` where the character is in fact failing is a substantive error.
+
 ## Your task
 
-Review every entry in `james.json` and return your findings as JSON. For each entry you
+Review every entry in the index file you are given and return your findings as JSON. For each entry you
 would change, give:
 
 ```json

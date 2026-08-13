@@ -61,6 +61,11 @@ a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
 .tag.pillar.h{border-color:var(--gold);color:var(--gold);}
 .tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
 .tag.corrected{border-color:var(--gold);color:var(--gold);}
+.tag.reviewed{border-color:var(--truth);color:var(--truth);}
+.tag.mode{text-transform:uppercase;letter-spacing:.12em;font-size:10px;border-style:dotted;}
+.tag.mode.prescribes{border-color:var(--gold);color:var(--gold);}
+.tag.mode.exemplifies{border-color:var(--truth);color:var(--truth);}
+.tag.mode.counter{border-color:var(--mercy);color:var(--mercy);}
 .booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
 .stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
 @media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
@@ -123,6 +128,12 @@ def book_page(data, text_data):
         a(render_passage(text_data, e["ref"]))
         a(f'<p class="conn">{esc(e["connection"])}</p>')
         a('<div class="tags">')
+        if e.get("mode"):
+            cls = {"prescribes":"prescribes","exemplifies":"exemplifies",
+                   "counter-example":"counter"}[e["mode"]]
+            label = {"prescribes":"commands it","exemplifies":"shows it done",
+                     "counter-example":"shows its absence"}[e["mode"]]
+            a(f'<span class="tag mode {cls}">{esc(label)}</span>')
         for p in e["pillars"]:
             a(f'<span class="tag pillar {PILLAR_CLASS[p]}">{esc(p)}</span>')
         for s in e["stages"]:
@@ -134,6 +145,8 @@ def book_page(data, text_data):
             a(f'<a class="tag" href="a1.html">{esc(pr)}</a>')
         if e.get("author_corrected"):
             a('<span class="tag corrected">author placed</span>')
+        if e.get("review"):
+            a('<span class="tag reviewed">amended at review</span>')
         a(f'<span class="tag conf mono">{esc(e["confidence"])}</span>')
         a("</div>")
         a("</div>")
@@ -245,6 +258,7 @@ def build():
         print(f"  scripture-{slug}.html — {len(data['entries'])} passages, "
               f"{len(text['verses'])} verses")
 
+    books.sort(key=lambda b: b["text"].get("canonical_order") or 999)
     (ROOT / "scripture.html").write_text(hub_page(books), encoding="utf-8")
     print(f"Built scripture.html + {len(books)} book page(s)")
 

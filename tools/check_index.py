@@ -28,14 +28,23 @@ CHAPTERS = {f"C{i:02d}" for i in range(1, 30)}
 PRACTICES = {f"PR{i:02d}" for i in range(1, 31)}
 PILLARS = {"truth", "mercy", "humility"}
 CONFIDENCE = {"high", "medium", "low"}
+# Narrative books need to say whether a passage commands a practice, shows it done,
+# or shows what its absence costs. Optional: didactic books often need no mode.
+MODES = {"prescribes", "exemplifies", "counter-example"}
 REQUIRED = ["ref", "pericope", "pillars", "stages", "chapters",
             "practices", "connection", "confidence", "prior"]
 
-# Verse counts for books as they get indexed. Used for coverage reporting only;
-# a book absent from here is validated but not coverage-checked.
-VERSE_COUNTS = {
-    "James": {1: 27, 2: 26, 3: 18, 4: 17, 5: 20},
-}
+def verse_counts(book):
+    """Chapter->verse-count for a book, read from its ingested text file."""
+    p = ROOT / "index" / "text" / f"{book.lower().replace(' ', '-')}.json"
+    if not p.exists():
+        return None
+    verses = json.loads(p.read_text(encoding="utf-8"))["verses"]
+    out = {}
+    for k in verses:
+        c, v = (int(x) for x in k.split(":"))
+        out[c] = max(out.get(c, 0), v)
+    return dict(sorted(out.items()))
 
 REF_RE = re.compile(r"^([1-3]?\s?[A-Z][a-z]+)\s+(\d+):(\d+)(?:[-–](\d+))?$")
 
@@ -61,6 +70,9 @@ def check(path):
             for v in e.get(field, []):
                 if v not in valid:
                     errors.append(f"{where}: invalid {field[:-1]} '{v}'")
+
+        if "mode" in e and e["mode"] not in MODES:
+            errors.append(f"{where}: mode must be one of {sorted(MODES)}")
 
         if e.get("confidence") not in CONFIDENCE:
             errors.append(f"{where}: confidence must be one of {sorted(CONFIDENCE)}")
@@ -102,10 +114,11 @@ def check(path):
             seen[(ch, v)] = e["ref"]
 
     # coverage
-    if book in VERSE_COUNTS:
+    vc = verse_counts(book)
+    if vc:
         print("\nverse coverage")
         total_have = total_want = 0
-        for ch, want in sorted(VERSE_COUNTS[book].items()):
+        for ch, want in sorted(vc.items()):
             have = len({v for (c, v) in seen if c == ch})
             total_have += have
             total_want += want
@@ -116,6 +129,8 @@ def check(path):
 
     print("\ndistribution")
     print("  confidence:", dict(Counter(e.get("confidence") for e in entries)))
+    if any("mode" in e for e in entries):
+        print("  mode:      ", dict(Counter(e.get("mode","-") for e in entries)))
     print("  pillars:   ", dict(Counter(p for e in entries for p in e.get("pillars", []))))
     print("  stages:    ", dict(sorted(Counter(
         s for e in entries for s in e.get("stages", [])).items())))

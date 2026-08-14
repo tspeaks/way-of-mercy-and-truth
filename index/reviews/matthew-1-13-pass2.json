@@ -1,0 +1,23 @@
+{
+  "scope": "chapters 1-4 and 8-13, all 21 new entries; synthesis across the 43-entry Matthew 1-13 index",
+  "verdicts": {
+    "sound": 21
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "Matthew 9:9-13",
+      "proposed": "PR22 and PR10",
+      "verdict": "both declined",
+      "reason": "PR22 is bearing with peevish or ungrateful behaviour from those one is helping; the tax collectors are welcoming him, and the Pharisees objecting are not being helped. PR10 is full participation in society while anchored elsewhere, which is a posture rather than a meal. The reviewer's phrase — cross-boundary mercy — is accurate and is not either definition. PR29 already carries the passage."
+    },
+    {
+      "ref": "Matthew 13:44-46",
+      "proposed": "PR13",
+      "verdict": "declined, flagged for the author",
+      "reason": "The man hides the treasure again before liquidating, which reads as a purchase strategy rather than secret faithfulness. Declined on the narrow reading of PR13. But the author has ruled that PR13 reaches the whole posture — the low place held without display — and under that broader reading the concealment becomes arguable. Left off and recorded rather than settled silently, because the broadening was the author's and so is this call."
+    }
+  ],
+  "running_tally": "Twenty-six additions proposed across all books: ten accepted, one in part, fifteen declined.",
+  "reviewer_note": "A third consecutive round in which every proposed addition was declined. The drafter's declines are themselves worth watching for reflex — each was checked against the definition rather than dismissed, and the 13:44-46 case was escalated rather than closed."
+}

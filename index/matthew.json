@@ -1,12 +1,113 @@
 {
   "book": "Matthew",
   "translation": "World English Bible (public domain)",
-  "status": "partial — the Sermon on the Mount (chapters 5-7) only",
-  "method_version": "1.1",
+  "status": "partial — chapters 1-13; chapters 14-28 follow",
+  "method_version": "2.3",
   "text_source": "index/text/matthew.json",
   "note": "Indexed on Matthew's own structure — the five discourses and the narrative blocks between them — beginning with the first discourse. Practice tags are assigned from the definitions in WMT A1, not from practice names.",
   "synoptic_note": "Entries carry an optional synoptic_parallel field recording the corresponding passage in Luke. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Matthew's own arrangement, so a parallel sometimes covers only part of an entry. All scripture is WEB, per the standing rule in WMT G10.",
   "entries": [
+    {
+      "ref": "Matthew 1:1-17",
+      "pericope": "Tamar, Rahab, Ruth, and the wife of Uriah",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C29"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Four women are named in a patrilineal genealogy, and each is attached to an irregularity the list makes no attempt to smooth over. The line is presented complete with what would ordinarily be edited out of it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 1:18-25",
+      "pericope": "Not willing to make her a public example",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
+      "practices": [
+        "PR17"
+      ],
+      "mode": "exemplifies",
+      "connection": "Joseph is called righteous in the same sentence that says he intended to divorce her quietly. Covering Weakness enacted at real cost to himself and before he has any reason to think she is innocent — the protection is extended on the assumption of guilt.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 2:13-18",
+      "pericope": "Rachel weeping for her children",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The escape into Egypt is placed beside the killing of the children who did not escape, and Jeremiah's line is quoted rather than resolved — she refused to be comforted, because they are no more. The Gospel records a deliverance and the grief it did not prevent, side by side.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 3:7-12",
+      "pericope": "Bring forth fruit worthy of repentance",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S3"
+      ],
+      "chapters": [
+        "C08",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Descent from Abraham is dismissed as evidence, and the demand is for fruit rather than lineage or ceremony. C12's proof test stated at the entry point of the Gospel, before anything else is asked.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 4:1-11",
+      "pericope": "Man shall not live by bread alone",
+      "synoptic_parallel": "Luke 4:1-13",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "exemplifies",
+      "connection": "Three proposals, each answered from what he already carried rather than from argument, and each refused at the moment it is made. Watchfulness at the gate — nothing is weighed on its merits before being turned away.",
+      "confidence": "high",
+      "prior": false
+    },
     {
       "ref": "Matthew 5:1-12",
       "pericope": "The Beatitudes",
@@ -472,6 +573,333 @@
       "connection": "Both men hear; only one does. The storm is identical for both, which removes circumstance as the variable and leaves only whether the words were acted on — the Moral Audit's premise, and the reason the Sermon ends here rather than on a promise.",
       "confidence": "high",
       "prior": false
+    },
+    {
+      "ref": "Matthew 8:1-4",
+      "pericope": "I want to. Be made clean",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The leper's doubt is about willingness rather than power, and the answer touches him before it speaks. The one gesture forbidden by the purity code is the one performed first.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 8:18-22",
+      "pericope": "The Son of Man has nowhere to lay his head",
+      "synoptic_parallel": "Luke 9:57-62",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C05",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A volunteer is warned about homelessness and a disciple asking for a delay is refused it. Neither request is called wrong; both are answered by naming what following actually costs.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 9:9-13",
+      "pericope": "I desire mercy, and not sacrifice",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C03",
+        "C29"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "Matthew is called from the tax booth and immediately hosts a table of his former colleagues. The objection is answered with Hosea, and the instruction given to the objectors is to go and learn what the sentence means — mercy set explicitly above religious observance.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 9:35-38",
+      "pericope": "He was moved with compassion, because they were harassed and scattered",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The crowd is described as sheep without a shepherd, and the diagnosis is exhaustion rather than wickedness. Compassion given a cause the text names precisely, and the response is a request for more workers rather than a rebuke.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 10:5-15",
+      "pericope": "Freely you received, freely give",
+      "synoptic_parallel": "Luke 10:1-12",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [
+        "PR20"
+      ],
+      "mode": "prescribes",
+      "connection": "Sent without gold, bag, spare coat, or staff, and told to stay in one household rather than move to a better one. The instruction binds host and guest alike — arrivals who own nothing, and workers forbidden to shop for lodging.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 10:16-25",
+      "pericope": "Wise as serpents and harmless as doves",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C08",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Shrewdness and harmlessness required together, and the persecution described comes through councils, synagogues, and families rather than from strangers. The Citizen-Stranger's difficulty located inside the institutions the person belongs to.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 10:40-42",
+      "pericope": "A cup of cold water to one of these little ones",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C13",
+        "C28"
+      ],
+      "practices": [
+        "PR23"
+      ],
+      "mode": "prescribes",
+      "connection": "The discourse on persecution and division ends on the smallest possible act of hospitality, with a reward attached to it. The Sacrament of the Ordinary placed deliberately at the close of the hardest chapter.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 11:20-24",
+      "pericope": "Woe to you, Chorazin",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The cities that saw the most are judged more severely than the cities that saw nothing, and Sodom is named as the comparison. Exposure treated as a burden rather than an advantage.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 11:28-30",
+      "pericope": "My yoke is easy, and my burden is light",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C01",
+        "C10"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Rest offered to the labouring and burdened, and then a yoke handed to them — the relief is a change of what is carried rather than the removal of all load. The reason given is his own character: gentle and lowly in heart.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 12:1-14",
+      "pericope": "I desire mercy, and not sacrifice",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Hosea quoted a second time, now over hungry disciples and a withered hand. The argument runs from the sheep pulled out of a pit — the rule already bends for property, and the question is whether it bends for a person.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 12:15-21",
+      "pericope": "He won't break a bruised reed",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C21",
+        "C27"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "Isaiah cited to describe a method: no striving, no shouting, no voice raised in the streets, and nothing already damaged finished off. The gentlest description of the work anywhere in the Gospels, and it is given as a fulfilment rather than an aspiration.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 12:33-37",
+      "pericope": "Out of the abundance of the heart, the mouth speaks",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C08",
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "The fruit test applied to speech and then traced back to its source, with idle words named as the thing accounted for. Watchfulness required at the mouth because the mouth is reporting on the heart.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 13:1-23",
+      "pericope": "The seed among thorns: the cares of this age",
+      "synoptic_parallel": "Luke 8:4-15",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C12",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Four soils and one seed, with the failure in the third case being neither rejection nor shallowness but slow strangulation by ordinary anxieties and the deceit of riches. Fruit borne over time is the only distinguishing mark.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 13:24-30",
+      "pericope": "Let both grow together until the harvest",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C15",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The servants propose weeding and are refused, on the grounds that pulling the darnel would uproot the wheat with it. Premature separation forbidden because the sorting cannot yet be done without damage.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 13:44-46",
+      "pericope": "He sold all that he had and bought that field",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C18",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Two men liquidate everything, and both do it with joy rather than reluctance. Holy Detachment shown as the arithmetic of someone who has found something worth more, which is a different motive from renunciation.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 13:54-58",
+      "pericope": "Isn't this the carpenter's son?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C07"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Familiarity presented as the specific obstacle — they can list his mother, his brothers, his sisters, and his trade, and the accuracy of the inventory is what blocks them. Sight prevented by information rather than by its absence.",
+      "confidence": "high",
+      "prior": false
     }
   ],
   "review_log": [
@@ -485,6 +913,16 @@
       },
       "record": "index/reviews/matthew-pass2.json",
       "adjudication": "Accepted in full, and the flag triggered an audit of every PR17 tag in the index. Four of five failed the same test; three of those four had been marked sound in earlier reviews. Fourth instance of assigning a practice from its name rather than its definition."
+    },
+    {
+      "pass": 2,
+      "section": "chapters 1-4 and 8-13",
+      "reviewer": "second model (Gemini Spark)",
+      "verdicts": {
+        "sound": 21
+      },
+      "record": "index/reviews/matthew-1-13-pass2.json",
+      "adjudication": "Clean pass. Two gap proposals declined; one flagged for the author."
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Proverbs — review package
 
-Scripture: World English Bible (public domain). Index status: complete — pericopes for chapters 1-9 and 30-31, thematic clusters for 10-29. Method version 2.0.
+Scripture: World English Bible (public domain). Index status: chapters 1-9 (pericopes) and 10-29 (clusters); 30-31 pending. Method version 0.6.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -10,7 +10,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Schema note.** Two entry kinds. A pericope entry has a single contiguous 'ref'. A cluster entry has 'kind':'cluster' and a 'refs' array of non-contiguous verses gathered by theme, used for the aphorism collections where couplets on one subject are scattered across twenty chapters. A cluster claims thematic coverage, not verse coverage: verses not gathered into any cluster are not thereby judged to anchor nothing.
 
-**Method rule.** Practice tags are assigned from the definition in the Praxis Appendix, never from the practice's name. PR20 means breaking one's routine for a guest — the routine is what is given up — and read from the name alone it appears to mean the opposite.
+**Method rule.** Practice tags are assigned from the definition in the Praxis Appendix, never from the practice's name. PR20 (The Sacrifice of Routine) means breaking one's routine for a guest — the routine is what is given up. Read from the name alone it appears to mean the opposite, and was tagged that way. Every practice name in this curriculum is a compression of a specific patristic teaching and several do not survive being read at face value.
 
 ---
 
@@ -231,10 +231,6 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** The verse James 4:6 and 1 Peter 5:5 both quote, in its original setting. Grace described as directed by posture, which is the whole architecture of the Hidden Life.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S6 · chapters: C23 · practices: PR13 · confidence: high
-
-**Author placed** — settled by the author. Note disagreement if you have it, but do not propose a change.
-
-**Amended at review** — PR13 retained after author review. The drafter argued these were a name-reading error and the reviewer marked all three sound; the author reversed the removal on reflection. The Hidden Life is read here as reaching the whole posture — the low place held without display, which is what grace is said to be given to — not only unsupervised work.
 
 ---
 
@@ -535,9 +531,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** Correction is triaged by the hearer rather than owed to everyone equally — reproving a mocker buys only insult. A restraint on rebuke that Covering Weakness needs, and one of the few places Scripture instructs a person to withhold a true word.
 
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S4 · chapters: C15 · practices: none · confidence: high
-
-**Amended at review** — PR17 removed on audit. PR17 is protecting someone from public embarrassment by absorbing the inconvenience oneself. This passage concerns triage of whom correction will profit, which is a different act. The tag was assigned from the practice's name — the fourth instance of that error, and the one that exposed three more.
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S4 · chapters: C15 · practices: PR17 · confidence: high
 
 ---
 
@@ -605,7 +599,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ## 33. Proverbs · Pride and the low place — Pride and the low place
 
-*Thematic cluster — 10 passages gathered from across the book.*
+*Thematic cluster — 8 passages gathered from across the book.*
 
 > **11:2** When pride comes, then comes shame, but with humility comes wisdom.
 > **15:33** The fear of Yahweh teaches wisdom. Before honor is humility.
@@ -614,17 +608,11 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **16:19** It is better to be of a lowly spirit with the poor, than to divide the plunder with the proud.
 > **18:12** Before destruction the heart of man is proud, but before honor is humility.
 > **22:4** The result of humility and the fear of Yahweh is wealth, honor, and life.
-> **25:6** Don’t exalt yourself in the presence of the king, or claim a place among great men;
-> **25:7** for it is better that it be said to you, “Come up here,” than that you should be put lower in the presence of the prince, whom your eyes have seen.
 > **29:23** A man’s pride brings him low, but one of lowly spirit gains honor.
 
-**Claim.** Humility placed before honour as a matter of sequence, not reward — the low place comes first or the honour does not come. 25:6-7 gives the principle its scene: better to be told come up here than to be moved down in front of everyone.
+**Claim.** Humility placed before honor as a matter of sequence, not reward — the low place comes first or the honor does not come. The pattern is stated so often it functions as a structural law, which is what the Hidden Life assumes.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S6 · chapters: C23 · practices: PR13 · confidence: high
-
-**Author placed** — settled by the author. Note disagreement if you have it, but do not propose a change.
-
-**Amended at review** — 25:6-7 added on synthesis review. The reviewer proposed it as the Old Testament source for PR25, and the verses plainly belong in this cluster — but PR25 was declined. PR25 is watching for the poor, the elderly and the stranger and giving up your own seat to them; 25:6-7 is prudent self-placement, which is the other half of the same scene and not the practice.
 
 ---
 
@@ -791,146 +779,6 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** Friendship defined by adversity rather than by affinity, and the wounds of a friend rated above an enemy's kisses. Unobligated Loyalty grounded here: the friend who sticks closer than a brother is bound by nothing but choice.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S4 · chapters: C14, C16 · practices: PR26 · confidence: high
-
----
-
-## 43. Proverbs 30:1-6 — Surely I am the most ignorant man
-
-> **30:1** The words of Agur the son of Jakeh, the oracle: the man says to Ithiel, to Ithiel and Ucal:
-> **30:2** “Surely I am the most ignorant man, and don’t have a man’s understanding.
-> **30:3** I have not learned wisdom, neither do I have the knowledge of the Holy One.
-> **30:4** Who has ascended up into heaven, and descended? Who has gathered the wind in his fists? Who has bound the waters in his garment? Who has established all the ends of the earth? What is his name, and what is his son’s name, if you know?
-> **30:5** “Every word of God is flawless. He is a shield to those who take refuge in him.
-> **30:6** Don’t you add to his words, lest he reprove you, and you be found a liar.
-
-**Claim.** The oracle opens by disclaiming wisdom and knowledge, then asks four questions no one can answer — who gathered the wind, who bound the waters. The Discipline of Unknowing stated as a credential rather than a confession, and the warning against adding to God's words follows directly from it.
-
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S6 · chapters: C23, C24 · practices: PR04 · confidence: high
-
----
-
-## 44. Proverbs 30:7-9 — Give me neither poverty nor riches
-
-> **30:7** “Two things I have asked of you; don’t deny me before I die:
-> **30:8** Remove far from me falsehood and lies. Give me neither poverty nor riches. Feed me with the food that is needful for me;
-> **30:9** lest I be full, deny you, and say, ‘Who is Yahweh?’ or lest I be poor, and steal, and so dishonor the name of my God.
-
-**Claim.** The only prayer in the book, and it asks for a bounded portion — enough food, no more — with the reason given for both directions: fullness produces denial, want produces theft. Holy Detachment argued as a request rather than a discipline, and it treats one's own likely failure as the thing to plan around.
-
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S4 · chapters: C18 · practices: PR04 · confidence: high
-
----
-
-## 45. Proverbs 30:11-14 — A generation pure in their own eyes, yet not washed
-
-> **30:11** There is a generation that curses their father, and doesn’t bless their mother.
-> **30:12** There is a generation that is pure in their own eyes, yet are not washed from their filthiness.
-> **30:13** There is a generation, oh how lofty are their eyes! Their eyelids are lifted up.
-> **30:14** There is a generation whose teeth are like swords, and their jaws like knives, to devour the poor from the earth, and the needy from among men.
-
-**Claim.** Four generations catalogued, and the second is self-acquittal — pure in their own eyes and not washed from their filthiness. The Moral Audit shown failing at the same point Proverbs 20:9 and 21:2 name, with the verdict reached before the looking.
-
-**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S1, S2 · chapters: C04, C07 · practices: PR01 · confidence: high
-
----
-
-## 46. Proverbs 30:15-17 — Three things never satisfied; four that don't say enough
-
-> **30:15** “The leach has two daughters: ‘Give, give.’ “There are three things that are never satisfied; four that don’t say, ‘Enough:’
-> **30:16** Sheol, the barren womb; the earth that is not satisfied with water; and the fire that doesn’t say, ‘Enough.’
-> **30:17** “The eye that mocks at his father, and scorns obedience to his mother: the ravens of the valley shall pick it out, the young eagles shall eat it.
-
-**Claim.** The leech's two daughters cry give, give, and the list that follows is of appetites with no terminus. Holy Detachment argued from the structure of wanting rather than from the worth of what is wanted.
-
-**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S4 · chapters: C18 · practices: none · confidence: high
-
----
-
-## 47. Proverbs 30:18-20 — She eats and wipes her mouth and says, I have done nothing wrong
-
-> **30:18** “There are three things which are too amazing for me, four which I don’t understand:
-> **30:19** The way of an eagle in the air; the way of a serpent on a rock; the way of a ship in the midst of the sea; and the way of a man with a maiden.
-> **30:20** “So is the way of an adulterous woman: she eats and wipes her mouth, and says, ‘I have done nothing wrong.’
-
-**Claim.** Four wonders whose tracks cannot be traced, and then a fifth that is not wonderful at all: a wrong done and immediately erased in the doer's own account. The audit defeated not by concealment from others but by a clean conscience arrived at too quickly.
-
-**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S1 · chapters: C04 · practices: PR01 · confidence: high
-
----
-
-## 48. Proverbs 30:24-28 — Four things little on the earth, but exceedingly wise
-
-> **30:24** “There are four things which are little on the earth, but they are exceedingly wise:
-> **30:25** the ants are not a strong people, yet they provide their food in the summer.
-> **30:26** The conies are but a feeble folk, yet make they their houses in the rocks.
-> **30:27** The locusts have no king, yet they advance in ranks.
-> **30:28** You can catch a lizard with your hands, yet it is in kings’ palaces.
-
-**Claim.** Ants without strength, conies without power, locusts without a king, a lizard in a palace — each described by what it lacks and then by what it accomplishes anyway. The Hidden Life in its smallest register: work done without oversight, and wisdom located in the doing rather than in the capacity.
-
-**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4 · chapters: C13 · practices: PR13 · confidence: high
-
-**Amended at review** — PR20 assigned in drafting and removed by the drafter before publication. It is the third time this passage type has pulled PR20 in — after 6:6-11 and the 'Diligence and the sluggard' cluster, both corrected earlier in this same book — and it was made after the known-attractor note naming PR20 had already been written into the review brief. PR13 substituted: unsupervised faithfulness is what the four creatures actually show.
-
----
-
-## 49. Proverbs 30:32-33 — Put your hand over your mouth
-
-> **30:32** “If you have done foolishly in lifting up yourself, or if you have thought evil, put your hand over your mouth.
-> **30:33** For as the churning of milk brings forth butter, and the wringing of the nose brings forth blood; so the forcing of wrath brings forth strife.”
-
-**Claim.** If you have exalted yourself or merely thought evil, stop the mouth. The final image is mechanical — churning produces butter, wringing produces blood, forcing wrath produces strife — so restraint is presented as the interruption of a process already running.
-
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S5 · chapters: C20, C22 · practices: PR12 · confidence: high
-
----
-
-## 50. Proverbs 31:1-9 — Open your mouth for the mute
-
-> **31:1** The words of king Lemuel; the oracle which his mother taught him.
-> **31:2** “Oh, my son! Oh, son of my womb! Oh, son of my vows!
-> **31:3** Don’t give your strength to women, nor your ways to that which destroys kings.
-> **31:4** It is not for kings, Lemuel; it is not for kings to drink wine; nor for princes to say, ‘Where is strong drink?’
-> **31:5** lest they drink, and forget the law, and pervert the justice due to anyone who is afflicted.
-> **31:6** Give strong drink to him who is ready to perish; and wine to the bitter in soul:
-> **31:7** Let him drink, and forget his poverty, and remember his misery no more.
-> **31:8** Open your mouth for the mute, in the cause of all who are left desolate.
-> **31:9** Open your mouth, judge righteously, and serve justice to the poor and needy.”
-
-**Claim.** A king is told what to do with his voice: not to spend it on drink, and to spend it on those who have none. Speech treated as an office held on behalf of the desolate, and the instruction comes from his mother.
-
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4 · chapters: C16, C17 · practices: none · confidence: high
-
----
-
-## 51. Proverbs 31:10-31 — She opens her arms to the poor; her works praise her in the gates
-
-> **31:10** Who can find a worthy woman? For her price is far above rubies.
-> **31:11** The heart of her husband trusts in her. He shall have no lack of gain.
-> **31:12** She does him good, and not harm, all the days of her life.
-> **31:13** She seeks wool and flax, and works eagerly with her hands.
-> **31:14** She is like the merchant ships. She brings her bread from afar.
-> **31:15** She rises also while it is yet night, gives food to her household, and portions for her servant girls.
-> **31:16** She considers a field, and buys it. With the fruit of her hands, she plants a vineyard.
-> **31:17** She arms her waist with strength, and makes her arms strong.
-> **31:18** She perceives that her merchandise is profitable. Her lamp doesn’t go out by night.
-> **31:19** She lays her hands to the distaff, and her hands hold the spindle.
-> **31:20** She opens her arms to the poor; yes, she extends her hands to the needy.
-> **31:21** She is not afraid of the snow for her household; for all her household are clothed with scarlet.
-> **31:22** She makes for herself carpets of tapestry. Her clothing is fine linen and purple.
-> **31:23** Her husband is respected in the gates, when he sits among the elders of the land.
-> **31:24** She makes linen garments and sells them, and delivers sashes to the merchant.
-> **31:25** Strength and dignity are her clothing. She laughs at the time to come.
-> **31:26** She opens her mouth with wisdom. Faithful instruction is on her tongue.
-> **31:27** She looks well to the ways of her household, and doesn’t eat the bread of idleness.
-> **31:28** Her children rise up and call her blessed. Her husband also praises her:
-> **31:29** “Many women do noble things, but you excel them all.”
-> **31:30** Charm is deceitful, and beauty is vain; but a woman who fears Yahweh, she shall be praised.
-> **31:31** Give her of the fruit of her hands! Let her works praise her in the gates!
-
-**Claim.** Twenty-two verses of ordinary labour — wool, flax, a field, a lamp burning late — with the reach to the poor set inside the household economy rather than beside it. The book ends not on a maxim but on a portrait, and what is praised is the fruit of her hands rather than her character described in the abstract.
-
-**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S4 · chapters: C13, C14 · practices: PR05 · confidence: high
 
 ---
 

@@ -82,7 +82,19 @@ a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
 """
 
 
-def parse_ref(ref):
+def _safe_ref(ref):
+    m = re.match(r"^(.+?)\s+(\d+):(\d+)(?:[-\u2013](?:(\d+):)?(\d+))?$", ref)
+    if not m:
+        return (0, 1, 0)
+    c1, v1 = int(m.group(2)), int(m.group(3))
+    v2 = int(m.group(5)) if m.group(5) else v1
+    return (c1, v1, v2 if not m.group(4) else 200)
+
+
+parse_ref = _safe_ref
+
+
+def _old_parse_ref(ref):
     m = re.match(r"^(.+?)\s+(\d+):(\d+)(?:[-–](\d+))?$", ref)
     ch, lo = int(m.group(2)), int(m.group(3))
     return ch, lo, int(m.group(4) or lo)
@@ -102,7 +114,7 @@ def render_cluster(text_data, refs):
 
 
 def render_passage(text_data, ref):
-    ch, lo, hi = parse_ref(ref)
+    ch, lo, hi = _safe_ref(ref)
     out = ['<div class="passage">']
     for v in range(lo, hi + 1):
         body = text_data["verses"].get(f"{ch}:{v}")
@@ -134,7 +146,7 @@ def book_page(data, text_data):
     covered = set()
     for e in entries:
         for r in (e["refs"] if e.get("kind") == "cluster" else [e["ref"]]):
-            c, lo, hi = parse_ref(r)
+            c, lo, hi = _safe_ref(r)
             covered |= {(c, v) for v in range(lo, hi + 1)}
     a(f'<p class="doc-meta mono">{len(entries)} passages · '
       f'{len(covered)} of {len(text_data["verses"])} verses</p>')

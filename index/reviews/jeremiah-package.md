@@ -1,6 +1,6 @@
 # Jeremiah — review package
 
-Scripture: World English Bible (public domain). Index status: complete — selective across chapters 34-52; see coverage_note. Method version 2.1.
+Scripture: World English Bible (public domain). Index status: complete — selective across chapters 34-52; see coverage_note. Method version 2.2.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -1092,7 +1092,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** Baruch has written the scroll twice, been hunted for it, and says he is weary with his groaning and finds no rest. The answer grants the exhaustion, refuses the ambition beneath it, and promises only his life as spoils wherever he goes. Five verses, and they are the whole of what the Hidden Life costs.
 
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S6 · chapters: C23 · practices: PR13 · confidence: high
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S6 · chapters: C23 · practices: PR08, PR13 · confidence: high
+
+**Amended at review** — PR08 added at review. Baruch's complaint — sorrow added to pain, weary with groaning, no rest found — is lament spoken plainly and preserved, and the answer grants the exhaustion before refusing the ambition beneath it.
 
 ---
 

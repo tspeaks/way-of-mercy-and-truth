@@ -1,0 +1,26 @@
+{
+  "scope": "chapters 34-52, all 11 entries; synthesis across the complete 67-entry book",
+  "verdicts": {
+    "sound": 11
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "Jeremiah 45:1-5",
+      "proposed": "PR08",
+      "verdict": "accepted",
+      "reason": "Baruch's complaint is lament spoken plainly and preserved, and it is answered rather than rebuked. PR08 and PR13 now sit on the same five verses, which no other entry in the index does — exhaustion granted and ambition refused in one reply."
+    },
+    {
+      "ref": "Jeremiah 38:1-13",
+      "proposed": "PR22",
+      "verdict": "declined",
+      "reason": "PR22 is bearing with peevish, complaining or ungrateful behaviour from those one is helping. Jeremiah shows none. The reviewer's ground was that he had no means to repay, which is unrepayable rather than ungrateful — the same substitution declined on the Good Samaritan at Luke 10:25-37."
+    }
+  ],
+  "running_tally": "Thirty-two additions proposed across all books: twelve accepted, one in part, nineteen declined.",
+  "stated_claims_confirmed": [
+    "Selective coverage of 34-52 — omitting the oracles against the nations rather than forcing allegory, on the Song of Solomon precedent.",
+    "Jeremiah 45:5 as the definitive Old Testament anchor for the Hidden Life."
+  ]
+}

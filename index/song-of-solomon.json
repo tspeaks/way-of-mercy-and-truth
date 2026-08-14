@@ -2,7 +2,7 @@
   "book": "Song of Solomon",
   "translation": "World English Bible (public domain)",
   "status": "complete — selective by design; see coverage_note",
-  "method_version": "1.1",
+  "method_version": "2.3",
   "text_source": "index/text/song-of-solomon.json",
   "note": "The shortest indexed book and the one that anchors least. That is the finding, not a shortfall in the work.",
   "interpretive_note": "This book has been read allegorically for most of Christian history — the bride and bridegroom as the soul and God, or the church and Christ. On that reading it would anchor almost the whole curriculum: the search scenes would become the dark night, the mutual belonging would become abiding, the locked garden would become the interior life. The index does not take that route, and the reason is method rather than doctrine. WMT's genealogy nowhere adopts an allegorical hermeneutic, and an index that quietly supplied one would be importing an interpretive commitment the curriculum never made, under cover of tagging. So the book is indexed on its plain sense: love between two people, desired, sought, lost, found, and finally declared unpurchasable. Anyone who wants the allegorical layer should add it deliberately, as its own decision, and record it.",
@@ -200,6 +200,18 @@
       "connection": "Solomon's leased vineyard with its thousand shekels is set beside her own, which is simply before her. A refusal of scale as the measure of worth, and the tenders are paid their portion without complaint — stewardship of what is actually yours rather than of what is largest.",
       "confidence": "medium",
       "prior": false
+    }
+  ],
+  "review_log": [
+    {
+      "pass": 2,
+      "reviewer": "second model (Gemini Spark)",
+      "scope": "all 10 entries",
+      "verdicts": {
+        "sound": 10
+      },
+      "record": "index/reviews/song-of-solomon-pass2.json",
+      "adjudication": "Clean pass, no gaps proposed, no entry changed. The last of the fourteen books to receive a second pass — it was indexed before the review package existed."
     }
   ]
 }

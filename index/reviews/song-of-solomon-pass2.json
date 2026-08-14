@@ -1,0 +1,15 @@
+{
+  "scope": "all 10 entries",
+  "verdicts": {
+    "sound": 10
+  },
+  "clean_pass": true,
+  "gaps_proposed": [],
+  "prospective_attractor_use": "The reviewer declined to propose PR22 on 8:5-7 and PR12 on 2:14-17, citing the known-attractor rule before offering them rather than after being corrected. First instance of the brief guarding the reviewer's own generation, matching the drafter's first prospective use at Luke 9:46-48.",
+  "stated_claims_confirmed": [
+    "Plain-sense hermeneutic — declining the allegorical reading rather than importing an interpretive commitment the curriculum never made.",
+    "Coverage note — the wasfs omitted because admiration of physical beauty neither prescribes, enacts, nor shows the absence of a practice.",
+    "Minimal anchoring — the book anchors less than any other, and that is a finding rather than a shortfall."
+  ],
+  "milestone": "With this pass, all fourteen indexed books have been through second-pass review."
+}

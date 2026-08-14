@@ -1,10 +1,10 @@
 {
   "book": "Luke",
   "translation": "World English Bible (public domain)",
-  "status": "partial — chapters 1-16; chapters 17-24 follow",
-  "method_version": "2.1",
+  "status": "complete",
+  "method_version": "2.2",
   "text_source": "index/text/luke.json",
-  "note": "Indexed in sections along the book's own seams: the infancy narratives and Galilean opening (1-6), the Galilean ministry (7-9:50), the travel narrative (9:51-19:27), Jerusalem (19:28-21), and the passion and resurrection (22-24). This file covers the first section. Four entries carry prior citations from the curriculum, all in chapter 6.",
+  "note": "Complete. Indexed in four sections along the book's own seams: the infancy narratives and Galilean opening (1-6), the Galilean ministry (7-9), the travel narrative (10-16), and Jerusalem through the resurrection (17-24). Luke 23:34 carries a prior citation from the curriculum.",
   "synoptic_note": "Entries carry an optional synoptic_parallel field recording the corresponding passage in Matthew where one exists. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Luke's own arrangement. All scripture is WEB, per the standing rule in WMT G10.",
   "entries": [
     {
@@ -1166,6 +1166,388 @@
       ],
       "mode": "counter-example",
       "connection": "The rich man is not charged with cruelty; the beggar was simply at his gate every day and was stepped past. He knows Lazarus by name from across the gulf, which establishes that he had noticed him all along.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 17:1-10",
+      "pericope": "If he sins against you seven times in the day, forgive him",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C15",
+        "C29"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "Forgiveness required as often as repentance is offered, with no cap and no probation between offences. The apostles respond by asking for more faith, and are answered with a parable about servants who claim no credit for doing what was assigned.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 17:11-19",
+      "pericope": "Where are the nine?",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21"
+      ],
+      "practices": [
+        "PR22"
+      ],
+      "mode": "exemplifies",
+      "connection": "All ten are healed and one returns. The question about the nine is asked aloud and left unanswered, and nothing is withdrawn from them. Unreciprocated Care with the ingratitude counted precisely and the benefit left standing.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 18:1-8",
+      "pericope": "They must always pray, and not give up",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C09"
+      ],
+      "practices": [
+        "PR07"
+      ],
+      "mode": "prescribes",
+      "connection": "A widow with no standing wears down a judge who fears neither God nor man. The argument runs from the worse case to the better: if persistence moves a corrupt official, it is not wasted elsewhere.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 18:9-14",
+      "pericope": "God, be merciful to me, a sinner",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C22"
+      ],
+      "practices": [
+        "PR01",
+        "PR03"
+      ],
+      "mode": "prescribes",
+      "connection": "Two men pray in the same building. One inventories his conduct accurately — he really does fast and tithe — and the accuracy is what condemns him, because the audit is conducted against another man. The other looks at no one else and goes home justified.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 18:18-30",
+      "pericope": "You still lack one thing",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "A man who has kept the commandments from youth is given one instruction and cannot take it. The narrator says he became very sad rather than angry, and the account does not report him leaving — only the sadness, and the observation that follows it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 19:1-10",
+      "pericope": "Half of my goods I give to the poor",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C29"
+      ],
+      "practices": [
+        "PR05",
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "Jesus invites himself to the house of a man everyone is prepared to condemn, and the restitution comes afterward and unprompted — half given away, fourfold to anyone defrauded. Reintegration precedes the reform rather than waiting on it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 19:41-44",
+      "pericope": "He saw the city and wept over it",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The weeping happens in the middle of the procession, while the crowd is still shouting. Lament over people who are celebrating, for something they cannot see and he cannot prevent.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 20:45-21:4",
+      "pericope": "She, out of her poverty, put in all that she had",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C05",
+        "C23"
+      ],
+      "practices": [
+        "PR05",
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "Set directly against scribes who devour widows' houses and make long prayers for show. Two coins measured not by their size but by what fraction remained afterward, and the giver never knows she was seen.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 21:34-36",
+      "pericope": "Be watchful all the time",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "The dangers named first are not persecution but carousing, drunkenness, and the cares of this life — the heart weighed down gradually rather than seized suddenly. Watchfulness directed at what accumulates.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 22:24-30",
+      "pericope": "Let him become as the younger; I am among you as one who serves",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "An argument about rank breaks out at the table during the last meal. The correction is not that rank is wrong but that its direction is inverted, and the claim made is a description of what he is doing at that moment.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 22:31-34",
+      "pericope": "When once you have turned again, establish your brothers",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C29"
+      ],
+      "practices": [
+        "PR11",
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "The failure is foretold and the commission past it is issued in the same breath — when, not if. Restoration assigned as a task before the fall has happened, which makes the denial a stage rather than a disqualification.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 22:39-46",
+      "pericope": "Not my will, but yours be done",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C23"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The request to have the cup removed is made plainly and is not withdrawn when it is refused. Agony, sweat, an angel, and disciples asleep from grief — the submission is stated once and the distress continues around it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 22:47-53",
+      "pericope": "He touched his ear and healed him",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [
+        "PR06"
+      ],
+      "mode": "exemplifies",
+      "connection": "A disciple draws a sword in his defence and the last act before the arrest is repairing the damage. Non-Retaliation performed on behalf of the man who came to seize him.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 22:54-62",
+      "pericope": "The Lord turned and looked at Peter",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "mode": "counter-example",
+      "connection": "Three denials over roughly an hour, each smaller than the last would suggest, and the reckoning arrives not through argument but through being looked at. Interior Diagnosis triggered by a glance rather than a rebuke.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 23:26-31",
+      "pericope": "Don't weep for me, but weep for yourselves",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "prescribes",
+      "connection": "On the way to execution he redirects the mourning of the women toward what is coming for them and their children. Lament turned outward by the person it was offered to.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Luke 23:32-43",
+      "pericope": "Father, forgive them; today you will be with me in Paradise",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C29"
+      ],
+      "practices": [
+        "PR06",
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "Already load-bearing in the curriculum. Forgiveness asked for the executioners while the work is in progress, with ignorance offered as the ground. Then a condemned man asks only to be remembered and is promised presence — the last reintegration performed with nothing left to verify it by.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Luke 24:13-35",
+      "pericope": "Weren't our hearts burning within us?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S7"
+      ],
+      "chapters": [
+        "C06",
+        "C28"
+      ],
+      "practices": [
+        "PR23"
+      ],
+      "mode": "exemplifies",
+      "connection": "Seven miles of conversation and a full exposition of Scripture do not open their eyes; the breaking of bread does. Recognition arrives in an ordinary domestic act after the argument has failed, and he is gone the moment it lands.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 24:36-53",
+      "pericope": "Do you have anything here to eat?",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C24",
+        "C28"
+      ],
+      "practices": [
+        "PR23"
+      ],
+      "mode": "exemplifies",
+      "connection": "He answers their terror by asking for food and eating in front of them. The resurrection body is demonstrated by a piece of broiled fish, and the Gospel closes with them in the temple daily — back in the ordinary rhythm.",
       "confidence": "high",
       "prior": false
     }

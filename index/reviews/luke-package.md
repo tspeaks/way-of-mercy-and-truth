@@ -1,10 +1,10 @@
 # Luke — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 1-16; chapters 17-24 follow. Method version 2.1.
+Scripture: World English Bible (public domain). Index status: complete. Method version 2.2.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
-**Note.** Indexed in sections along the book's own seams: the infancy narratives and Galilean opening (1-6), the Galilean ministry (7-9:50), the travel narrative (9:51-19:27), Jerusalem (19:28-21), and the passion and resurrection (22-24). This file covers the first section. Four entries carry prior citations from the curriculum, all in chapter 6.
+**Note.** Complete. Indexed in four sections along the book's own seams: the infancy narratives and Galilean opening (1-6), the Galilean ministry (7-9), the travel narrative (10-16), and Jerusalem through the resurrection (17-24). Luke 23:34 carries a prior citation from the curriculum.
 
 **Synoptic note.** Entries carry an optional synoptic_parallel field recording the corresponding passage in Matthew where one exists. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Luke's own arrangement. All scripture is WEB, per the standing rule in WMT G10.
 
@@ -1043,6 +1043,334 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** The rich man is not charged with cruelty; the beggar was simply at his gate every day and was stepped past. He knows Lazarus by name from across the gulf, which establishes that he had noticed him all along.
 
 **Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: mercy, truth · stages: S4, S7 · chapters: C16, C18 · practices: PR05 · confidence: high
+
+---
+
+## 57. Luke 17:1-10 — If he sins against you seven times in the day, forgive him
+
+> **17:1** He said to the disciples, “It is impossible that no occasions of stumbling should come, but woe to him through whom they come!
+> **17:2** It would be better for him if a millstone were hung around his neck, and he were thrown into the sea, rather than that he should cause one of these little ones to stumble.
+> **17:3** Be careful. If your brother sins against you, rebuke him. If he repents, forgive him.
+> **17:4** If he sins against you seven times in the day, and seven times returns, saying, ‘I repent,’ you shall forgive him.”
+> **17:5** The apostles said to the Lord, “Increase our faith.”
+> **17:6** The Lord said, “If you had faith like a grain of mustard seed, you would tell this sycamore tree, ‘Be uprooted, and be planted in the sea,’ and it would obey you.
+> **17:7** But who is there among you, having a servant plowing or keeping sheep, that will say, when he comes in from the field, ‘Come immediately and sit down at the table,’
+> **17:8** and will not rather tell him, ‘Prepare my supper, clothe yourself properly, and serve me, while I eat and drink. Afterward you shall eat and drink’?
+> **17:9** Does he thank that servant because he did the things that were commanded? I think not.
+> **17:10** Even so you also, when you have done all the things that are commanded you, say, ‘We are unworthy servants. We have done our duty.’”
+
+**Claim.** Forgiveness required as often as repentance is offered, with no cap and no probation between offences. The apostles respond by asking for more faith, and are answered with a parable about servants who claim no credit for doing what was assigned.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility · stages: S4, S7 · chapters: C15, C29 · practices: PR29 · confidence: high
+
+---
+
+## 58. Luke 17:11-19 — Where are the nine?
+
+> **17:11** It happened as he was on his way to Jerusalem, that he was passing along the borders of Samaria and Galilee.
+> **17:12** As he entered into a certain village, ten men who were lepers met him, who stood at a distance.
+> **17:13** They lifted up their voices, saying, “Jesus, Master, have mercy on us!”
+> **17:14** When he saw them, he said to them, “Go and show yourselves to the priests.” It happened that as they went, they were cleansed.
+> **17:15** One of them, when he saw that he was healed, turned back, glorifying God with a loud voice.
+> **17:16** He fell on his face at Jesus’ feet, giving him thanks; and he was a Samaritan.
+> **17:17** Jesus answered, “Weren’t the ten cleansed? But where are the nine?
+> **17:18** Were there none found who returned to give glory to God, except this stranger?”
+> **17:19** Then he said to him, “Get up, and go your way. Your faith has healed you.”
+
+**Claim.** All ten are healed and one returns. The question about the nine is asked aloud and left unanswered, and nothing is withdrawn from them. Unreciprocated Care with the ingratitude counted precisely and the benefit left standing.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S5 · chapters: C21 · practices: PR22 · confidence: high
+
+---
+
+## 59. Luke 18:1-8 — They must always pray, and not give up
+
+> **18:1** He also spoke a parable to them that they must always pray, and not give up,
+> **18:2** saying, “There was a judge in a certain city who didn’t fear God, and didn’t respect man.
+> **18:3** A widow was in that city, and she often came to him, saying, ‘Defend me from my adversary!’
+> **18:4** He wouldn’t for a while, but afterward he said to himself, ‘Though I neither fear God, nor respect man,
+> **18:5** yet because this widow bothers me, I will defend her, or else she will wear me out by her continual coming.’”
+> **18:6** The Lord said, “Listen to what the unrighteous judge says.
+> **18:7** Won’t God avenge his chosen ones, who are crying out to him day and night, and yet he exercises patience with them?
+> **18:8** I tell you that he will avenge them quickly. Nevertheless, when the Son of Man comes, will he find faith on the earth?”
+
+**Claim.** A widow with no standing wears down a judge who fears neither God nor man. The argument runs from the worse case to the better: if persistence moves a corrupt official, it is not wasted elsewhere.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S3 · chapters: C09 · practices: PR07 · confidence: high
+
+---
+
+## 60. Luke 18:9-14 — God, be merciful to me, a sinner
+
+> **18:9** He spoke also this parable to certain people who were convinced of their own righteousness, and who despised all others.
+> **18:10** “Two men went up into the temple to pray; one was a Pharisee, and the other was a tax collector.
+> **18:11** The Pharisee stood and prayed to himself like this: ‘God, I thank you, that I am not like the rest of men, extortioners, unrighteous, adulterers, or even like this tax collector.
+> **18:12** I fast twice a week. I give tithes of all that I get.’
+> **18:13** But the tax collector, standing far away, wouldn’t even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’
+> **18:14** I tell you, this man went down to his house justified rather than the other; for everyone who exalts himself will be humbled, but he who humbles himself will be exalted.”
+
+**Claim.** Two men pray in the same building. One inventories his conduct accurately — he really does fast and tithe — and the accuracy is what condemns him, because the audit is conducted against another man. The other looks at no one else and goes home justified.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S1, S5 · chapters: C04, C22 · practices: PR01, PR03 · confidence: high
+
+---
+
+## 61. Luke 18:18-30 — You still lack one thing
+
+> **18:18** A certain ruler asked him, saying, “Good Teacher, what shall I do to inherit eternal life?”
+> **18:19** Jesus asked him, “Why do you call me good? No one is good, except one—God.
+> **18:20** You know the commandments: ‘Don’t commit adultery,’ ‘Don’t murder,’ ‘Don’t steal,’ ‘Don’t give false testimony,’ ‘Honor your father and your mother.’”
+> **18:21** He said, “I have observed all these things from my youth up.”
+> **18:22** When Jesus heard these things, he said to him, “You still lack one thing. Sell all that you have, and distribute it to the poor. You will have treasure in heaven. Come, follow me.”
+> **18:23** But when he heard these things, he became very sad, for he was very rich.
+> **18:24** Jesus, seeing that he became very sad, said, “How hard it is for those who have riches to enter into the Kingdom of God!
+> **18:25** For it is easier for a camel to enter in through a needle’s eye, than for a rich man to enter into the Kingdom of God.”
+> **18:26** Those who heard it said, “Then who can be saved?”
+> **18:27** But he said, “The things which are impossible with men are possible with God.”
+> **18:28** Peter said, “Look, we have left everything, and followed you.”
+> **18:29** He said to them, “Most certainly I tell you, there is no one who has left house, or wife, or brothers, or parents, or children, for the Kingdom of God’s sake,
+> **18:30** who will not receive many times more in this time, and in the world to come, eternal life.”
+
+**Claim.** A man who has kept the commandments from youth is given one instruction and cannot take it. The narrator says he became very sad rather than angry, and the account does not report him leaving — only the sadness, and the observation that follows it.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility · stages: S4 · chapters: C18 · practices: none · confidence: high
+
+---
+
+## 62. Luke 19:1-10 — Half of my goods I give to the poor
+
+> **19:1** He entered and was passing through Jericho.
+> **19:2** There was a man named Zacchaeus. He was a chief tax collector, and he was rich.
+> **19:3** He was trying to see who Jesus was, and couldn’t because of the crowd, because he was short.
+> **19:4** He ran on ahead, and climbed up into a sycamore tree to see him, for he was to pass that way.
+> **19:5** When Jesus came to the place, he looked up and saw him, and said to him, “Zacchaeus, hurry and come down, for today I must stay at your house.”
+> **19:6** He hurried, came down, and received him joyfully.
+> **19:7** When they saw it, they all murmured, saying, “He has gone in to lodge with a man who is a sinner.”
+> **19:8** Zacchaeus stood and said to the Lord, “Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.”
+> **19:9** Jesus said to him, “Today, salvation has come to this house, because he also is a son of Abraham.
+> **19:10** For the Son of Man came to seek and to save that which was lost.”
+
+**Claim.** Jesus invites himself to the house of a man everyone is prepared to condemn, and the restitution comes afterward and unprompted — half given away, fourfold to anyone defrauded. Reintegration precedes the reform rather than waiting on it.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S5, S7 · chapters: C29 · practices: PR05, PR29 · confidence: high
+
+---
+
+## 63. Luke 19:41-44 — He saw the city and wept over it
+
+> **19:41** When he drew near, he saw the city and wept over it,
+> **19:42** saying, “If you, even you, had known today the things which belong to your peace! But now, they are hidden from your eyes.
+> **19:43** For the days will come on you, when your enemies will throw up a barricade against you, surround you, hem you in on every side,
+> **19:44** and will dash you and your children within you to the ground. They will not leave in you one stone on another, because you didn’t know the time of your visitation.”
+
+**Claim.** The weeping happens in the middle of the procession, while the crowd is still shouting. Lament over people who are celebrating, for something they cannot see and he cannot prevent.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S5 · chapters: C19 · practices: PR08 · confidence: high
+
+---
+
+## 64. Luke 20:45-21:4 — She, out of her poverty, put in all that she had
+
+> **20:45** In the hearing of all the people, he said to his disciples,
+> **20:46** “Beware of the scribes, who like to walk in long robes, and love greetings in the marketplaces, the best seats in the synagogues, and the best places at feasts;
+> **20:47** who devour widows’ houses, and for a pretense make long prayers: these will receive greater condemnation.”
+> **21:1** He looked up, and saw the rich people who were putting their gifts into the treasury.
+> **21:2** He saw a certain poor widow casting in two small brass coins.
+> **21:3** He said, “Truly I tell you, this poor widow put in more than all of them,
+> **21:4** for all these put in gifts for God from their abundance, but she, out of her poverty, put in all that she had to live on.”
+
+**Claim.** Set directly against scribes who devour widows' houses and make long prayers for show. Two coins measured not by their size but by what fraction remained afterward, and the giver never knows she was seen.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S1, S6 · chapters: C05, C23 · practices: PR05, PR13 · confidence: high
+
+---
+
+## 65. Luke 21:34-36 — Be watchful all the time
+
+> **21:34** “So be careful, or your hearts will be loaded down with carousing, drunkenness, and cares of this life, and that day will come on you suddenly.
+> **21:35** For it will come like a snare on all those who dwell on the surface of all the earth.
+> **21:36** Therefore be watchful all the time, praying that you may be counted worthy to escape all these things that will happen, and to stand before the Son of Man.”
+
+**Claim.** The dangers named first are not persecution but carousing, drunkenness, and the cares of this life — the heart weighed down gradually rather than seized suddenly. Watchfulness directed at what accumulates.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S5 · chapters: C20 · practices: PR12 · confidence: high
+
+---
+
+## 66. Luke 22:24-30 — Let him become as the younger; I am among you as one who serves
+
+> **22:24** There arose also a contention among them, which of them was considered to be greatest.
+> **22:25** He said to them, “The kings of the nations lord it over them, and those who have authority over them are called ‘benefactors.’
+> **22:26** But not so with you. But one who is the greater among you, let him become as the younger, and one who is governing, as one who serves.
+> **22:27** For who is greater, one who sits at the table, or one who serves? Isn’t it he who sits at the table? But I am in the midst of you as one who serves.
+> **22:28** But you are those who have continued with me in my trials.
+> **22:29** I confer on you a kingdom, even as my Father conferred on me,
+> **22:30** that you may eat and drink at my table in my Kingdom. You will sit on thrones, judging the twelve tribes of Israel.”
+
+**Claim.** An argument about rank breaks out at the table during the last meal. The correction is not that rank is wrong but that its direction is inverted, and the claim made is a description of what he is doing at that moment.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, mercy · stages: S4 · chapters: C16 · practices: none · confidence: high
+
+---
+
+## 67. Luke 22:31-34 — When once you have turned again, establish your brothers
+
+> **22:31** The Lord said, “Simon, Simon, behold, Satan asked to have you, that he might sift you as wheat,
+> **22:32** but I prayed for you, that your faith wouldn’t fail. You, when once you have turned again, establish your brothers.”
+> **22:33** He said to him, “Lord, I am ready to go with you both to prison and to death!”
+> **22:34** He said, “I tell you, Peter, the rooster will by no means crow today until you deny that you know me three times.”
+
+**Claim.** The failure is foretold and the commission past it is issued in the same breath — when, not if. Restoration assigned as a task before the fall has happened, which makes the denial a stage rather than a disqualification.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S5, S7 · chapters: C19, C29 · practices: PR11, PR29 · confidence: high
+
+---
+
+## 68. Luke 22:39-46 — Not my will, but yours be done
+
+> **22:39** He came out, and went, as his custom was, to the Mount of Olives. His disciples also followed him.
+> **22:40** When he was at the place, he said to them, “Pray that you don’t enter into temptation.”
+> **22:41** He was withdrawn from them about a stone’s throw, and he knelt down and prayed,
+> **22:42** saying, “Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”
+> **22:43** An angel from heaven appeared to him, strengthening him.
+> **22:44** Being in agony he prayed more earnestly. His sweat became like great drops of blood falling down on the ground.
+> **22:45** When he rose up from his prayer, he came to the disciples, and found them sleeping because of grief,
+> **22:46** and said to them, “Why do you sleep? Rise and pray that you may not enter into temptation.”
+
+**Claim.** The request to have the cup removed is made plainly and is not withdrawn when it is refused. Agony, sweat, an angel, and disciples asleep from grief — the submission is stated once and the distress continues around it.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S5, S6 · chapters: C19, C23 · practices: PR08 · confidence: high
+
+---
+
+## 69. Luke 22:47-53 — He touched his ear and healed him
+
+> **22:47** While he was still speaking, behold, a multitude, and he who was called Judas, one of the twelve, was leading them. He came near to Jesus to kiss him.
+> **22:48** But Jesus said to him, “Judas, do you betray the Son of Man with a kiss?”
+> **22:49** When those who were around him saw what was about to happen, they said to him, “Lord, shall we strike with the sword?”
+> **22:50** A certain one of them struck the servant of the high priest, and cut off his right ear.
+> **22:51** But Jesus answered, “Let me at least do this”—and he touched his ear, and healed him.
+> **22:52** Jesus said to the chief priests, captains of the temple, and elders, who had come against him, “Have you come out as against a robber, with swords and clubs?
+> **22:53** When I was with you in the temple daily, you didn’t stretch out your hands against me. But this is your hour, and the power of darkness.”
+
+**Claim.** A disciple draws a sword in his defence and the last act before the arrest is repairing the damage. Non-Retaliation performed on behalf of the man who came to seize him.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S7 · chapters: C27 · practices: PR06 · confidence: high
+
+---
+
+## 70. Luke 22:54-62 — The Lord turned and looked at Peter
+
+> **22:54** They seized him, and led him away, and brought him into the high priest’s house. But Peter followed from a distance.
+> **22:55** When they had kindled a fire in the middle of the courtyard, and had sat down together, Peter sat among them.
+> **22:56** A certain servant girl saw him as he sat in the light, and looking intently at him, said, “This man also was with him.”
+> **22:57** He denied Jesus, saying, “Woman, I don’t know him.”
+> **22:58** After a little while someone else saw him, and said, “You also are one of them!” But Peter answered, “Man, I am not!”
+> **22:59** After about one hour passed, another confidently affirmed, saying, “Truly this man also was with him, for he is a Galilean!”
+> **22:60** But Peter said, “Man, I don’t know what you are talking about!” Immediately, while he was still speaking, a rooster crowed.
+> **22:61** The Lord turned, and looked at Peter. Then Peter remembered the Lord’s word, how he said to him, “Before the rooster crows you will deny me three times.”
+> **22:62** He went out, and wept bitterly.
+
+**Claim.** Three denials over roughly an hour, each smaller than the last would suggest, and the reckoning arrives not through argument but through being looked at. Interior Diagnosis triggered by a glance rather than a rebuke.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S5 · chapters: C21 · practices: PR02 · confidence: high
+
+---
+
+## 71. Luke 23:26-31 — Don't weep for me, but weep for yourselves
+
+> **23:26** When they led him away, they grabbed one Simon of Cyrene, coming from the country, and laid on him the cross, to carry it after Jesus.
+> **23:27** A great multitude of the people followed him, including women who also mourned and lamented him.
+> **23:28** But Jesus, turning to them, said, “Daughters of Jerusalem, don’t weep for me, but weep for yourselves and for your children.
+> **23:29** For behold, the days are coming in which they will say, ‘Blessed are the barren, the wombs that never bore, and the breasts that never nursed.’
+> **23:30** Then they will begin to tell the mountains, ‘Fall on us!’ and tell the hills, ‘Cover us.’
+> **23:31** For if they do these things in the green tree, what will be done in the dry?”
+
+**Claim.** On the way to execution he redirects the mourning of the women toward what is coming for them and their children. Lament turned outward by the person it was offered to.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S5 · chapters: C19 · practices: PR08 · confidence: medium
+
+---
+
+## 72. Luke 23:32-43 — Father, forgive them; today you will be with me in Paradise
+
+> **23:32** There were also others, two criminals, led with him to be put to death.
+> **23:33** When they came to the place that is called The Skull, they crucified him there with the criminals, one on the right and the other on the left.
+> **23:34** Jesus said, “Father, forgive them, for they don’t know what they are doing.” Dividing his garments among them, they cast lots.
+> **23:35** The people stood watching. The rulers with them also scoffed at him, saying, “He saved others. Let him save himself, if this is the Christ of God, his chosen one!”
+> **23:36** The soldiers also mocked him, coming to him and offering him vinegar,
+> **23:37** and saying, “If you are the King of the Jews, save yourself!”
+> **23:38** An inscription was also written over him in letters of Greek, Latin, and Hebrew: “THIS IS THE KING OF THE JEWS.”
+> **23:39** One of the criminals who was hanged insulted him, saying, “If you are the Christ, save yourself and us!”
+> **23:40** But the other answered, and rebuking him said, “Don’t you even fear God, seeing you are under the same condemnation?
+> **23:41** And we indeed justly, for we receive the due reward for our deeds, but this man has done nothing wrong.”
+> **23:42** He said to Jesus, “Lord, remember me when you come into your Kingdom.”
+> **23:43** Jesus said to him, “Assuredly I tell you, today you will be with me in Paradise.”
+
+**Claim.** Already load-bearing in the curriculum. Forgiveness asked for the executioners while the work is in progress, with ignorance offered as the ground. Then a condemned man asks only to be remembered and is promised presence — the last reintegration performed with nothing left to verify it by.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S7 · chapters: C27, C29 · practices: PR06, PR29 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 73. Luke 24:13-35 — Weren't our hearts burning within us?
+
+> **24:13** Behold, two of them were going that very day to a village named Emmaus, which was sixty stadia from Jerusalem.
+> **24:14** They talked with each other about all of these things which had happened.
+> **24:15** It happened, while they talked and questioned together, that Jesus himself came near, and went with them.
+> **24:16** But their eyes were kept from recognizing him.
+> **24:17** He said to them, “What are you talking about as you walk, and are sad?”
+> **24:18** One of them, named Cleopas, answered him, “Are you the only stranger in Jerusalem who doesn’t know the things which have happened there in these days?”
+> **24:19** He said to them, “What things?” They said to him, “The things concerning Jesus, the Nazarene, who was a prophet mighty in deed and word before God and all the people;
+> **24:20** and how the chief priests and our rulers delivered him up to be condemned to death, and crucified him.
+> **24:21** But we were hoping that it was he who would redeem Israel. Yes, and besides all this, it is now the third day since these things happened.
+> **24:22** Also, certain women of our company amazed us, having arrived early at the tomb;
+> **24:23** and when they didn’t find his body, they came saying that they had also seen a vision of angels, who said that he was alive.
+> **24:24** Some of us went to the tomb, and found it just like the women had said, but they didn’t see him.”
+> **24:25** He said to them, “Foolish men, and slow of heart to believe in all that the prophets have spoken!
+> **24:26** Didn’t the Christ have to suffer these things and to enter into his glory?”
+> **24:27** Beginning from Moses and from all the prophets, he explained to them in all the Scriptures the things concerning himself.
+> **24:28** They drew near to the village, where they were going, and he acted like he would go further.
+> **24:29** They urged him, saying, “Stay with us, for it is almost evening, and the day is almost over.” He went in to stay with them.
+> **24:30** It happened, that when he had sat down at the table with them, he took the bread and gave thanks. Breaking it, he gave to them.
+> **24:31** Their eyes were opened, and they recognized him, and he vanished out of their sight.
+> **24:32** They said one to another, “Weren’t our hearts burning within us, while he spoke to us along the way, and while he opened the Scriptures to us?”
+> **24:33** They rose up that very hour, returned to Jerusalem, and found the eleven gathered together, and those who were with them,
+> **24:34** saying, “The Lord is risen indeed, and has appeared to Simon!”
+> **24:35** They related the things that happened along the way, and how he was recognized by them in the breaking of the bread.
+
+**Claim.** Seven miles of conversation and a full exposition of Scripture do not open their eyes; the breaking of bread does. Recognition arrives in an ordinary domestic act after the argument has failed, and he is gone the moment it lands.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S2, S7 · chapters: C06, C28 · practices: PR23 · confidence: high
+
+---
+
+## 74. Luke 24:36-53 — Do you have anything here to eat?
+
+> **24:36** As they said these things, Jesus himself stood among them, and said to them, “Peace be to you.”
+> **24:37** But they were terrified and filled with fear, and supposed that they had seen a spirit.
+> **24:38** He said to them, “Why are you troubled? Why do doubts arise in your hearts?
+> **24:39** See my hands and my feet, that it is truly me. Touch me and see, for a spirit doesn’t have flesh and bones, as you see that I have.”
+> **24:40** When he had said this, he showed them his hands and his feet.
+> **24:41** While they still didn’t believe for joy, and wondered, he said to them, “Do you have anything here to eat?”
+> **24:42** They gave him a piece of a broiled fish and some honeycomb.
+> **24:43** He took them, and ate in front of them.
+> **24:44** He said to them, “This is what I told you, while I was still with you, that all things which are written in the law of Moses, the prophets, and the psalms, concerning me must be fulfilled.”
+> **24:45** Then he opened their minds, that they might understand the Scriptures.
+> **24:46** He said to them, “Thus it is written, and thus it was necessary for the Christ to suffer and to rise from the dead the third day,
+> **24:47** and that repentance and remission of sins should be preached in his name to all the nations, beginning at Jerusalem.
+> **24:48** You are witnesses of these things.
+> **24:49** Behold, I send forth the promise of my Father on you. But wait in the city of Jerusalem until you are clothed with power from on high.”
+> **24:50** He led them out as far as Bethany, and he lifted up his hands, and blessed them.
+> **24:51** It happened, while he blessed them, that he withdrew from them, and was carried up into heaven.
+> **24:52** They worshiped him, and returned to Jerusalem with great joy,
+> **24:53** and were continually in the temple, praising and blessing God. Amen.
+
+**Claim.** He answers their terror by asking for food and eating in front of them. The resurrection body is demonstrated by a piece of broiled fish, and the Gospel closes with them in the temple daily — back in the ordinary rhythm.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S6, S7 · chapters: C24, C28 · practices: PR23 · confidence: high
 
 ---
 

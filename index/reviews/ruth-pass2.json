@@ -1,0 +1,17 @@
+{
+  "scope": "all 10 entries",
+  "verdicts": {
+    "sound": 10
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "Ruth 2:8-16",
+      "proposed": "PR22",
+      "verdict": "declined",
+      "reason": "PR22 is bearing with peevish, complaining or ungrateful behaviour from those one is helping. Ruth is conspicuously grateful — she falls on her face and asks why she has found favour. The reviewer's ground was her inability to repay, which is unrepayable rather than ungrateful. Third instance of this substitution, after Luke 10:25-37 and Jeremiah 38:1-13."
+    }
+  ],
+  "pattern": "PR22 has now attracted three proposals on the same mistaken ground across three books. It is added to the known-attractor list in the review brief. The distinguishing question: does someone in the passage behave badly toward the helper, or are they merely unable to repay? Only the first is the practice.",
+  "running_tally": "Thirty-three additions proposed across all books: twelve accepted, one in part, twenty declined."
+}

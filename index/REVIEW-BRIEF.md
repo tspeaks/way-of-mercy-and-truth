@@ -132,7 +132,14 @@ routine when a guest arrives. PR21 (Verbal Almsgiving) has attracted a passage a
 commanded to speak for the destitute, where the practice is specifically for those *without*
 material means offering encouragement to the discouraged. PR17 (Covering Weakness) attracted
 four passages about withholding or restraint before being cut back to one. Check all four
-against their definitions every time. A passage that describes the *condition a practice addresses* is not an
+against their definitions every time.
+
+PR22 (Unreciprocated Care) has attracted three passages in which the recipient simply
+could not repay — the man in the ditch, a prophet in a cistern, a destitute widow
+gleaning. The practice is bearing with *peevish, complaining or ungrateful behaviour*
+from those you are helping. The question that settles it: does someone in the passage
+behave badly toward the helper, or are they merely unable to repay? Only the first is
+the practice. A passage that describes the *condition a practice addresses* is not an
 anchor for it: Micah 7:1-6 shows trust collapsing, which is what the Architecture of
 Peace exists to repair, and that is not the same as showing the practice or its absence.
 

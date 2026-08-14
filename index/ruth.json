@@ -2,7 +2,7 @@
   "book": "Ruth",
   "translation": "World English Bible (public domain)",
   "status": "complete",
-  "method_version": "2.2",
+  "method_version": "2.3",
   "text_source": "index/text/ruth.json",
   "note": "Eighty-five verses, and the named source of a practice. WMT PR26 is defined in the Praxis Appendix as the Ruth principle — fidelity to a person or community during a season of grief or difficulty, when one is free to walk away. Until now the practice had anchors elsewhere but none in the book it is named for.",
   "entries": [
@@ -210,6 +210,18 @@
       "connection": "The woman who arrived empty is handed a child to nurse, and the neighbours name him. The book closes on a genealogy running to David, and the Moabite widow is in it — the outsider whose loyalty was uncompelled becomes the line the whole story was waiting for.",
       "confidence": "high",
       "prior": false
+    }
+  ],
+  "review_log": [
+    {
+      "pass": 2,
+      "reviewer": "second model (Gemini Spark)",
+      "scope": "all 10 entries",
+      "verdicts": {
+        "sound": 10
+      },
+      "record": "index/reviews/ruth-pass2.json",
+      "adjudication": "Clean pass. One gap proposal declined; no entry changed."
     }
   ]
 }

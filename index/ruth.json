@@ -1,0 +1,215 @@
+{
+  "book": "Ruth",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.2",
+  "text_source": "index/text/ruth.json",
+  "note": "Eighty-five verses, and the named source of a practice. WMT PR26 is defined in the Praxis Appendix as the Ruth principle — fidelity to a person or community during a season of grief or difficulty, when one is free to walk away. Until now the practice had anchors elsewhere but none in the book it is named for.",
+  "entries": [
+    {
+      "ref": "Ruth 1:1-5",
+      "pericope": "A famine, a sojourn, and three graves in Moab",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Five verses cover a decade: a famine, a move abroad, two marriages, and three deaths. The narrator supplies no explanation for any of it, and the woman left at the end is named only in relation to the men who are gone.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ruth 1:6-14",
+      "pericope": "Go, return each of you to her mother's house",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Naomi releases both daughters-in-law three times, arguing against her own interest each time and offering them a future she cannot provide. Orpah takes the release, which the text records without a word of censure.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ruth 1:15-18",
+      "pericope": "Where you go, I will go",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C14",
+        "C26"
+      ],
+      "practices": [
+        "PR26"
+      ],
+      "mode": "prescribes",
+      "connection": "The practice this curriculum names for her is stated here in its original form: she binds herself to a bereaved older woman with nothing to offer, in a season of grief, when she has been formally released three times and could return home without reproach. Fidelity chosen where nothing compels it, sworn with an oath and a burial place.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ruth 1:19-22",
+      "pericope": "Call me Mara, for the Almighty has dealt bitterly with me",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "She names God as the cause of her emptiness twice in two verses, in public, on arrival. Lament stated as an accusation and preserved without correction, and the book lets her keep saying it — nobody argues her out of the name.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ruth 2:1-7",
+      "pericope": "Let me glean among the ears of grain",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "A foreign widow asks permission, works from morning without pause, and the narrator notes that she happened to come to Boaz's field. Ordinary faithfulness under the gleaning provision, taken up by someone with no claim on it beyond the law itself.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ruth 2:8-16",
+      "pericope": "Let her glean even among the sheaves, and don't rebuke her",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C05",
+        "C16"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "Boaz exceeds the gleaning law at every point — access to his field, water, a place at the meal, protection from the young men, and instructions to pull grain from the bundles and leave it for her. Almsgiving arranged so that the recipient does not have to ask twice or be seen receiving.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ruth 2:17-23",
+      "pericope": "She brought out and gave her what she had left after she was satisfied",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C14"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "An ephah of barley beaten out and carried back, and then the portion she had saved from her own meal handed to Naomi. The care runs in both directions, and the household economy is the whole of it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ruth 3:1-13",
+      "pericope": "You have shown more kindness at the latter end than at the first",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C14",
+        "C27"
+      ],
+      "practices": [
+        "PR26"
+      ],
+      "mode": "exemplifies",
+      "connection": "She takes an enormous risk on Naomi's instruction and asks a man to act as redeemer. Boaz reads the request as kindness rather than as advance, names a nearer kinsman before claiming anything, and protects her reputation at the threshing floor. Loyalty acknowledged as loyalty by the person it costs.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ruth 4:1-12",
+      "pericope": "I can't redeem it, lest I mar my own inheritance",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The nearer kinsman is willing to buy the field and refuses once Ruth comes with it. His reasoning is stated plainly and is not wicked — protecting his own inheritance — and it is exactly what Boaz declines to protect. The whole book turns on one man's calculation and another's refusal to make it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ruth 4:13-22",
+      "pericope": "Your daughter-in-law, who loves you, is better to you than seven sons",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C29"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "The woman who arrived empty is handed a child to nurse, and the neighbours name him. The book closes on a genealogy running to David, and the Moabite widow is in it — the outsider whose loyalty was uncompelled becomes the line the whole story was waiting for.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

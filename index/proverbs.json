@@ -1,8 +1,8 @@
 {
   "book": "Proverbs",
   "translation": "World English Bible (public domain)",
-  "status": "chapters 1-9 (pericopes) and 10-29 (clusters); 30-31 pending",
-  "method_version": "1.1",
+  "status": "complete — pericopes for chapters 1-9 and 30-31, thematic clusters for 10-29",
+  "method_version": "2.0",
   "text_source": "index/text/proverbs.json",
   "note": "Covers the nine discourse chapters. Chapters 10-29 are collections of independent couplets and do not submit to a pericope schema at all; see structural_note. Chapters 30-31 (Agur, Lemuel, the acrostic) are discourse-shaped and can be indexed on this pattern, but are held until the couplet question is settled so the whole book is finished under one method rather than two.",
   "structural_note": "Proverbs 1-9 is continuous instruction — a father to a son, and Wisdom calling in the street — and indexes exactly like James or Jonah. Proverbs 10-29 is roughly 600 free-standing couplets in no narrative or argumentative order. Indexed at the density used for the first two books, that section alone would produce several hundred single-verse entries, most of them near-duplicates, and the index would become longer and less usable than the text it serves. That section needs a cluster entry — one entry gathering non-contiguous verses on a single theme — which the current schema cannot express, since it assumes one contiguous range per entry. That is a real decision about what the index is, not a formatting detail, and it is left open here deliberately.",
@@ -993,6 +993,192 @@
       ],
       "mode": "prescribes",
       "connection": "Friendship defined by adversity rather than by affinity, and the wounds of a friend rated above an enemy's kisses. Unobligated Loyalty grounded here: the friend who sticks closer than a brother is bound by nothing but choice.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Proverbs 30:1-6",
+      "pericope": "Surely I am the most ignorant man",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "The oracle opens by disclaiming wisdom and knowledge, then asks four questions no one can answer — who gathered the wind, who bound the waters. The Discipline of Unknowing stated as a credential rather than a confession, and the warning against adding to God's words follows directly from it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Proverbs 30:7-9",
+      "pericope": "Give me neither poverty nor riches",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "The only prayer in the book, and it asks for a bounded portion — enough food, no more — with the reason given for both directions: fullness produces denial, want produces theft. Holy Detachment argued as a request rather than a discipline, and it treats one's own likely failure as the thing to plan around.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Proverbs 30:11-14",
+      "pericope": "A generation pure in their own eyes, yet not washed",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C04",
+        "C07"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "counter-example",
+      "connection": "Four generations catalogued, and the second is self-acquittal — pure in their own eyes and not washed from their filthiness. The Moral Audit shown failing at the same point Proverbs 20:9 and 21:2 name, with the verdict reached before the looking.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Proverbs 30:15-17",
+      "pericope": "Three things never satisfied; four that don't say enough",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The leech's two daughters cry give, give, and the list that follows is of appetites with no terminus. Holy Detachment argued from the structure of wanting rather than from the worth of what is wanted.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Proverbs 30:18-20",
+      "pericope": "She eats and wipes her mouth and says, I have done nothing wrong",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C04"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "counter-example",
+      "connection": "Four wonders whose tracks cannot be traced, and then a fifth that is not wonderful at all: a wrong done and immediately erased in the doer's own account. The audit defeated not by concealment from others but by a clean conscience arrived at too quickly.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Proverbs 30:24-28",
+      "pericope": "Four things little on the earth, but exceedingly wise",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "Ants without strength, conies without power, locusts without a king, a lizard in a palace — each described by what it lacks and then by what it accomplishes anyway. The Hidden Life in its smallest register: work done without oversight, and wisdom located in the doing rather than in the capacity.",
+      "confidence": "high",
+      "prior": false,
+      "review": "PR20 assigned in drafting and removed by the drafter before publication. It is the third time this passage type has pulled PR20 in — after 6:6-11 and the 'Diligence and the sluggard' cluster, both corrected earlier in this same book — and it was made after the known-attractor note naming PR20 had already been written into the review brief. PR13 substituted: unsupervised faithfulness is what the four creatures actually show."
+    },
+    {
+      "ref": "Proverbs 30:32-33",
+      "pericope": "Put your hand over your mouth",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C22"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "If you have exalted yourself or merely thought evil, stop the mouth. The final image is mechanical — churning produces butter, wringing produces blood, forcing wrath produces strife — so restraint is presented as the interruption of a process already running.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Proverbs 31:1-9",
+      "pericope": "Open your mouth for the mute",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A king is told what to do with his voice: not to spend it on drink, and to spend it on those who have none. Speech treated as an office held on behalf of the desolate, and the instruction comes from his mother.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Proverbs 31:10-31",
+      "pericope": "She opens her arms to the poor; her works praise her in the gates",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C14"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "Twenty-two verses of ordinary labour — wool, flax, a field, a lamp burning late — with the reach to the poor set inside the household economy rather than beside it. The book ends not on a maxim but on a portrait, and what is praised is the fruit of her hands rather than her character described in the abstract.",
       "confidence": "high",
       "prior": false
     }

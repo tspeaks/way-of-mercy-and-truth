@@ -1,6 +1,6 @@
 # Jeremiah — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 1-20; the remaining thirty-two chapters follow in sections. Method version 1.8.
+Scripture: World English Bible (public domain). Index status: partial — chapters 1-33; chapters 34-52 follow. Method version 1.9.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -629,6 +629,257 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** The confessions end here, immediately after the praise of the previous verses, with no resolution and no return. Habakkuk closes with yet I will rejoice; this closes with why did I come out of the womb. Scripture preserves both endings, which means Sacred Lament is not required to arrive anywhere in order to be legitimate.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S5 · chapters: C19 · practices: PR08 · confidence: high
+
+---
+
+## 42. Jeremiah 22:1-9 — Deliver him who is robbed out of the hand of the oppressor
+
+> **22:1** Thus said Yahweh: Go down to the house of the king of Judah, and speak there this word,
+> **22:2** Say, Hear the word of Yahweh, king of Judah, who sits on the throne of David, you, and your servants, and your people who enter in by these gates.
+> **22:3** Thus says Yahweh: Execute justice and righteousness, and deliver him who is robbed out of the hand of the oppressor: and do no wrong, do no violence, to the foreigner, the fatherless, nor the widow; neither shed innocent blood in this place.
+> **22:4** For if you do this thing indeed, then shall there enter in by the gates of this house kings sitting on the throne of David, riding in chariots and on horses, he, and his servants, and his people.
+> **22:5** But if you will not hear these words, I swear by myself, says Yahweh, that this house shall become a desolation.
+> **22:6** For thus says Yahweh concerning the house of the king of Judah: You are Gilead to me, the head of Lebanon. Yet surely I will make you a wilderness, cities which are not inhabited.
+> **22:7** I will prepare destroyers against you, everyone with his weapons; and they shall cut down your choice cedars, and cast them into the fire.
+> **22:8** Many nations shall pass by this city, and they shall say every man to his neighbor, Why has Yahweh done thus to this great city?
+> **22:9** Then they shall answer, Because they forsook the covenant of Yahweh their God, and worshiped other gods, and served them.
+
+**Claim.** The instruction to the palace is administrative before it is devotional — justice executed, the robbed delivered, no wrong done to the sojourner, the fatherless, or the widow. The throne's continuance is made conditional on it.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S1, S4 · chapters: C01, C16 · practices: PR05 · confidence: high
+
+---
+
+## 43. Jeremiah 22:13-17 — He judged the cause of the poor and needy; wasn't this to know me?
+
+> **22:13** Woe to him who builds his house by unrighteousness, and his rooms by injustice; who uses his neighbor’s service without wages, and doesn’t give him his hire;
+> **22:14** who says, I will build me a wide house and spacious rooms, and cuts him out windows; and it is ceiling with cedar, and painted with vermilion.
+> **22:15** Shall you reign, because you strive to excel in cedar? Didn’t your father eat and drink, and do justice and righteousness? then it was well with him.
+> **22:16** He judged the cause of the poor and needy; then it was well. Wasn’t this to know me? says Yahweh.
+> **22:17** But your eyes and your heart are not but for your covetousness, and for shedding innocent blood, and for oppression, and for violence, to do it.
+
+**Claim.** A king who builds by unrighteousness and pays no wages is set against his father, who ate and drank and did justice. Then the sentence that reframes everything: judging the cause of the poor is named as what knowing God consists of, not as evidence for it.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, mercy · stages: S1, S3 · chapters: C02, C12 · practices: none · confidence: high
+
+---
+
+## 44. Jeremiah 23:9-15 — Both prophet and priest are profane
+
+> **23:9** Concerning the prophets. My heart within me is broken, all my bones shake; I am like a drunken man, and like a man whom wine has overcome, because of Yahweh, and because of his holy words.
+> **23:10** For the land is full of adulterers; for because of swearing the land mourns; the pastures of the wilderness are dried up. Their course is evil, and their might is not right;
+> **23:11** for both prophet and priest are profane; yes, in my house have I found their wickedness, says Yahweh.
+> **23:12** Therefore their way shall be to them as slippery places in the darkness: they shall be driven on, and fall therein; for I will bring evil on them, even the year of their visitation, says Yahweh.
+> **23:13** I have seen folly in the prophets of Samaria; they prophesied by Baal, and caused my people Israel to err.
+> **23:14** In the prophets of Jerusalem also I have seen a horrible thing: they commit adultery, and walk in lies; and they strengthen the hands of evildoers, so that none does return from his wickedness: they are all of them become to me as Sodom, and its inhabitants as Gomorrah.
+> **23:15** Therefore thus says Yahweh of Armies concerning the prophets: Behold, I will feed them with wormwood, and make them drink the water of gall; for from the prophets of Jerusalem is ungodliness gone forth into all the land.
+
+**Claim.** The prophet's own bones shake at what he has to say about prophets, and the corruption is located inside the temple itself. C08's fruit test applied where the tester and the tested share an office.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S2 · chapters: C08 · practices: none · confidence: high
+
+---
+
+## 45. Jeremiah 23:16-22 — If they had stood in my council
+
+> **23:16** Thus says Yahweh of Armies, Don’t listen to the words of the prophets who prophesy to you: they teach you vanity; they speak a vision of their own heart, and not out of the mouth of Yahweh.
+> **23:17** They say continually to those who despise me, Yahweh has said, You shall have peace; and to everyone who walks in the stubbornness of his own heart they say, No evil shall come on you.
+> **23:18** For who has stood in the council of Yahweh, that he should perceive and hear his word? who has marked my word, and heard it?
+> **23:19** Behold, the storm of Yahweh, his wrath, has gone forth. Yes, a whirling storm. It shall burst on the head of the wicked.
+> **23:20** The anger of Yahweh shall not return, until he has executed, and until he have performed the intents of his heart: in the latter days you shall understand it perfectly.
+> **23:21** I sent not these prophets, yet they ran: I didn’t speak to them, yet they prophesied.
+> **23:22** But if they had stood in my council, then had they caused my people to hear my words, and had turned them from their evil way, and from the evil of their doings.
+
+**Claim.** The false prophets are identified not by doctrine but by outcome — they say peace to those who despise, and no one turns from their evil way. The test given is whether the message turns people, and behind it a claim about where the message came from.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S2, S3 · chapters: C08, C09 · practices: none · confidence: high
+
+---
+
+## 46. Jeremiah 23:23-32 — Isn't my word like fire, and like a hammer?
+
+> **23:23** Am I a God at hand, says Yahweh, and not a God afar off?
+> **23:24** Can any hide himself in secret places so that I shall not see him? says Yahweh. Don’t I fill heaven and earth? says Yahweh.
+> **23:25** I have heard what the prophets have said, who prophesy lies in my name, saying, I have dreamed, I have dreamed.
+> **23:26** How long shall this be in the heart of the prophets who prophesy lies, even the prophets of the deceit of their own heart?
+> **23:27** who think to cause my people to forget my name by their dreams which they tell every man to his neighbor, as their fathers forgot my name for Baal.
+> **23:28** The prophet who has a dream, let him tell a dream; and he who has my word, let him speak my word faithfully. What is the straw to the wheat? says Yahweh.
+> **23:29** Isn’t my word like fire? says Yahweh; and like a hammer that breaks the rock in pieces?
+> **23:30** Therefore, behold, I am against the prophets, says Yahweh, who steal my words everyone from his neighbor.
+> **23:31** Behold, I am against the prophets, says Yahweh, who use their tongues, and say, He says.
+> **23:32** Behold, I am against those who prophesy lying dreams, says Yahweh, and do tell them, and cause my people to err by their lies, and by their vain boasting: yet I didn’t send them, nor commanded them; neither do they profit this people at all, says Yahweh.
+
+**Claim.** Let the dreamer tell his dream and the one with the word speak the word — the distinction is left to be made by what each does. Chaff and wheat separated by weight rather than by inspection.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S2 · chapters: C08 · practices: none · confidence: high
+
+---
+
+## 47. Jeremiah 26:1-16 — Amend your ways; as for me, I am in your hand
+
+> **26:1** In the beginning of the reign of Jehoiakim the son of Josiah, king of Judah, came this word from Yahweh, saying,
+> **26:2** Thus says Yahweh: Stand in the court of Yahweh’s house, and speak to all the cities of Judah, which come to worship in Yahweh’s house, all the words that I command you to speak to them; don’t diminish a word.
+> **26:3** It may be they will listen, and turn every man from his evil way; that I may repent me of the evil which I purpose to do to them because of the evil of their doings.
+> **26:4** You shall tell them, Thus says Yahweh: If you will not listen to me, to walk in my law, which I have set before you,
+> **26:5** to listen to the words of my servants the prophets, whom I send to you, even rising up early and sending them, but you have not listened;
+> **26:6** then will I make this house like Shiloh, and will make this city a curse to all the nations of the earth.
+> **26:7** The priests and the prophets and all the people heard Jeremiah speaking these words in the house of Yahweh.
+> **26:8** It happened, when Jeremiah had made an end of speaking all that Yahweh had commanded him to speak to all the people, that the priests and the prophets and all the people laid hold on him, saying, You shall surely die.
+> **26:9** Why have you prophesied in the name of Yahweh, saying, This house shall be like Shiloh, and this city shall be desolate, without inhabitant? All the people were gathered to Jeremiah in the house of Yahweh.
+> **26:10** When the princes of Judah heard these things, they came up from the king’s house to the house of Yahweh; and they sat in the entry of the new gate of Yahweh’s house.
+> **26:11** Then spoke the priests and the prophets to the princes and to all the people, saying, This man is worthy of death; for he has prophesied against this city, as you have heard with your ears.
+> **26:12** Then spoke Jeremiah to all the princes and to all the people, saying, Yahweh sent me to prophesy against this house and against this city all the words that you have heard.
+> **26:13** Now therefore amend your ways and your doings, and obey the voice of Yahweh your God; and Yahweh will repent him of the evil that he has pronounced against you.
+> **26:14** But as for me, behold, I am in your hand: do with me as is good and right in your eyes.
+> **26:15** Only know for certain that, if you put me to death, you will bring innocent blood on yourselves, and on this city, and on its inhabitants; for of a truth Yahweh has sent me to you to speak all these words in your ears.
+> **26:16** Then the princes and all the people said to the priests and to the prophets: This man is not worthy of death; for he has spoken to us in the name of Yahweh our God.
+
+**Claim.** He delivers the sermon that gets him arrested, then tells the court to do with him as seems good, adding only that killing him would bring innocent blood on them. No defence entered, and the princes rule in his favour.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4 · chapters: C17 · practices: none · confidence: high
+
+---
+
+## 48. Jeremiah 26:17-24 — Micah the Morashtite prophesied, and Hezekiah did not put him to death
+
+> **26:17** Then rose up certain of the elders of the land, and spoke to all the assembly of the people, saying,
+> **26:18** Micah the Morashtite prophesied in the days of Hezekiah king of Judah; and he spoke to all the people of Judah, saying, Thus says Yahweh of Armies: Zion shall be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of a forest.
+> **26:19** Did Hezekiah king of Judah and all Judah put him to death? Didn’t he fear Yahweh, and entreat the favor of Yahweh, and Yahweh relented of the disaster which he had pronounced against them? Thus should we commit great evil against our own souls.
+> **26:20** There was also a man who prophesied in the name of Yahweh, Uriah the son of Shemaiah of Kiriath Jearim; and he prophesied against this city and against this land according to all the words of Jeremiah:
+> **26:21** and when Jehoiakim the king, with all his mighty men, and all the princes, heard his words, the king sought to put him to death; but when Uriah heard it, he was afraid, and fled, and went into Egypt:
+> **26:22** and Jehoiakim the king sent men into Egypt, Elnathan the son of Achbor, and certain men with him, into Egypt;
+> **26:23** and they fetched forth Uriah out of Egypt, and brought him to Jehoiakim the king, who killed him with the sword, and cast his dead body into the graves of the common people.
+> **26:24** But the hand of Ahikam the son of Shaphan was with Jeremiah, that they should not give him into the hand of the people to put him to death.
+
+**Claim.** Elders save his life by citing a precedent from a century earlier, and the narrator then records a second prophet who was extradited and killed. Both outcomes preserved, so the precedent is shown to be a reason rather than a guarantee.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S4 · chapters: C15 · practices: none · confidence: high
+
+---
+
+## 49. Jeremiah 29:4-9 — Build houses; plant gardens; seek the peace of the city
+
+> **29:4** Thus says Yahweh of Armies, the God of Israel, to all the captivity, whom I have caused to be carried away captive from Jerusalem to Babylon:
+> **29:5** Build houses, and dwell in them; and plant gardens, and eat their fruit.
+> **29:6** Take wives, and father sons and daughters; and take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters; and multiply there, and don’t be diminished.
+> **29:7** Seek the peace of the city where I have caused you to be carried away captive, and pray to Yahweh for it; for in its peace you shall have peace.
+> **29:8** For thus says Yahweh of Armies, the God of Israel: Don’t let your prophets who are in the midst of you, and your diviners, deceive you; neither listen to your dreams which you cause to be dreamed.
+> **29:9** For they prophesy falsely to you in my name: I have not sent them, says Yahweh.
+
+**Claim.** The exiles are told to settle, marry, multiply, and pray for the welfare of the place holding them captive — because in its peace they will have peace. The Citizen-Stranger given its founding instruction, and the city in question is Babylon.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility · stages: S4 · chapters: C17 · practices: PR10 · confidence: high
+
+---
+
+## 50. Jeremiah 29:10-14 — You shall seek me and find me, when you search with all your heart
+
+> **29:10** For thus says Yahweh, After seventy years are accomplished for Babylon, I will visit you, and perform my good word toward you, in causing you to return to this place.
+> **29:11** For I know the thoughts that I think toward you, says Yahweh, thoughts of peace, and not of evil, to give you hope and a future.
+> **29:12** You shall call on me, and you shall go and pray to me, and I will listen to you.
+> **29:13** You shall seek me, and find me, when you shall search for me with all your heart.
+> **29:14** I will be found by you, says Yahweh, and I will turn again your captivity, and I will gather you from all the nations, and from all the places where I have driven you, says Yahweh; and I will bring you again to the place from where I caused you to be carried away captive.
+
+**Claim.** The famous promise of a future and a hope is attached to seventy years, not to relief — the plans are announced to people who will die before they see them. Seeking with the whole heart is the condition, and the timescale is the point.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S3 · chapters: C09 · practices: PR07 · confidence: high
+
+---
+
+## 51. Jeremiah 31:15-20 — Refrain your voice from weeping; there is hope for your latter end
+
+> **31:15** Thus says Yahweh: A voice is heard in Ramah, lamentation, and bitter weeping, Rachel weeping for her children; she refuses to be comforted for her children, because they are no more.
+> **31:16** Thus says Yahweh: Refrain your voice from weeping, and your eyes from tears; for your work shall be rewarded, says Yahweh; and they shall come again from the land of the enemy.
+> **31:17** There is hope for your latter end, says Yahweh; and your children shall come again to their own border.
+> **31:18** I have surely heard Ephraim bemoaning himself thus, You have chastised me, and I was chastised, as an untrained calf: turn me, and I shall be turned; for you are Yahweh my God.
+> **31:19** Surely after that I was turned, I repented; and after that I was instructed, I struck on my thigh: I was ashamed, yes, even confounded, because I bore the reproach of my youth.
+> **31:20** Is Ephraim my dear son? is he a darling child? for as often as I speak against him, I do earnestly remember him still: therefore my heart yearns for him; I will surely have mercy on him, says Yahweh.
+
+**Claim.** Rachel refusing comfort is answered rather than corrected — the weeping is addressed, given a reason to stop, and the reason is that the children come back. Then Ephraim is quoted bemoaning his own chastisement, and the response is that God's heart is troubled for him.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S5 · chapters: C19 · practices: PR08, PR11 · confidence: high
+
+---
+
+## 52. Jeremiah 31:29-30 — Everyone shall die for his own iniquity
+
+> **31:29** In those days they shall say no more, The fathers have eaten sour grapes, and the children’s teeth are set on edge.
+> **31:30** But everyone shall die for his own iniquity: every man who eats the sour grapes, his teeth shall be set on edge.
+
+**Claim.** The proverb about fathers eating sour grapes and children's teeth being set on edge is retired by name. Inherited blame refused, and responsibility located in the person doing the eating.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S1, S5 · chapters: C04, C21 · practices: PR01 · confidence: high
+
+---
+
+## 53. Jeremiah 31:31-34 — I will write it in their hearts
+
+> **31:31** Behold, the days come, says Yahweh, that I will make a new covenant with the house of Israel, and with the house of Judah:
+> **31:32** not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they broke, although I was a husband to them, says Yahweh.
+> **31:33** But this is the covenant that I will make with the house of Israel after those days, says Yahweh: I will put my law in their inward parts, and in their heart will I write it; and I will be their God, and they shall be my people:
+> **31:34** and they shall teach no more every man his neighbor, and every man his brother, saying, Know Yahweh; for they shall all know me, from their least to their greatest, says Yahweh: for I will forgive their iniquity, and their sin will I remember no more.
+
+**Claim.** The new covenant is described by where the law is kept rather than by what it contains — put within them, written on the heart, so that teaching one another becomes unnecessary. Formation described as interior relocation, and it closes on forgiveness rather than on obedience.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, mercy · stages: S6 · chapters: C26 · practices: none · confidence: high
+
+---
+
+## 54. Jeremiah 32:6-15 — Houses and fields and vineyards shall yet again be bought in this land
+
+> **32:6** Jeremiah said, The word of Yahweh came to me, saying,
+> **32:7** Behold, Hanamel the son of Shallum your uncle shall come to you, saying, Buy my field that is in Anathoth; for the right of redemption is yours to buy it.
+> **32:8** So Hanamel my uncle’s son came to me in the court of the guard according to the word of Yahweh, and said to me, Please buy my field that is in Anathoth, which is in the land of Benjamin; for the right of inheritance is yours, and the redemption is yours; buy it for yourself. Then I knew that this was the word of Yahweh.
+> **32:9** I bought the field that was in Anathoth of Hanamel my uncle’s son, and weighed him the money, even seventeen shekels of silver.
+> **32:10** I subscribed the deed, and sealed it, and called witnesses, and weighed him the money in the balances.
+> **32:11** So I took the deed of the purchase, both that which was sealed, containing the terms and conditions, and that which was open;
+> **32:12** and I delivered the deed of the purchase to Baruch the son of Neriah, the son of Mahseiah, in the presence of Hanamel my uncle’s son, and in the presence of the witnesses who subscribed the deed of the purchase, before all the Jews who sat in the court of the guard.
+> **32:13** I commanded Baruch before them, saying,
+> **32:14** Thus says Yahweh of Armies, the God of Israel: Take these deeds, this deed of the purchase which is sealed, and this deed which is open, and put them in an earthen vessel; that they may continue many days.
+> **32:15** For thus says Yahweh of Armies, the God of Israel: Houses and fields and vineyards shall yet again be bought in this land.
+
+**Claim.** He buys a field in a town already overrun, weighs out the silver, signs the deed before witnesses, and has it sealed in a clay jar to last a long time. Hope enacted as a property transaction conducted from inside a besieged city, with the paperwork done correctly.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S6 · chapters: C25 · practices: PR14 · confidence: high
+
+---
+
+## 55. Jeremiah 32:16-27 — Ah Lord Yahweh; is there anything too hard for you?
+
+> **32:16** Now after I had delivered the deed of the purchase to Baruch the son of Neriah, I prayed to Yahweh, saying,
+> **32:17** Ah Lord Yahweh! Behold, you have made the heavens and the earth by your great power and by your outstretched arm; there is nothing too hard for you,
+> **32:18** who show loving kindness to thousands, and recompense the iniquity of the fathers into the bosom of their children after them; the great, the mighty God, Yahweh of Armies is his name;
+> **32:19** great in counsel, and mighty in work; whose eyes are open on all the ways of the sons of men, to give everyone according to his ways, and according to the fruit of his doings:
+> **32:20** who performed signs and wonders in the land of Egypt, even to this day, both in Israel and among other men; and made yourself a name, as in this day;
+> **32:21** and brought forth your people Israel out of the land of Egypt with signs, and with wonders, and with a strong hand, and with an outstretched arm, and with great terror;
+> **32:22** and gave them this land, which you swore to their fathers to give them, a land flowing with milk and honey;
+> **32:23** and they came in, and possessed it, but they didn’t obey your voice, neither walked in your law; they have done nothing of all that you commanded them to do: therefore you have caused all this evil to come on them.
+> **32:24** Behold, the mounds, they have come to the city to take it; and the city is given into the hand of the Chaldeans who fight against it, because of the sword, and of the famine, and of the pestilence; and what you have spoken has happened; and behold, you see it.
+> **32:25** You have said to me, Lord Yahweh, Buy the field for money, and call witnesses; whereas the city is given into the hand of the Chaldeans.
+> **32:26** Then came the word of Yahweh to Jeremiah, saying,
+> **32:27** Behold, I am Yahweh, the God of all flesh: is there anything too hard for me?
+
+**Claim.** Having obeyed, he immediately prays that he does not understand — the siege mounds are at the wall and he has just bought land. Obedience first and comprehension not at all, with the question left standing rather than answered.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S5, S6 · chapters: C19, C24 · practices: PR04 · confidence: high
+
+---
+
+## 56. Jeremiah 33:1-9 — Call to me, and I will answer you
+
+> **33:1** Moreover the word of Yahweh came to Jeremiah the second time, while he was yet shut up in the court of the guard, saying,
+> **33:2** Thus says Yahweh who does it, Yahweh who forms it to establish it; Yahweh is his name:
+> **33:3** Call to me, and I will answer you, and will show you great things, and difficult, which you don’t know.
+> **33:4** For thus says Yahweh, the God of Israel, concerning the houses of this city, and concerning the houses of the kings of Judah, which are broken down to make a defense against the mounds and against the sword;
+> **33:5** while men come to fight with the Chaldeans, and to fill them with the dead bodies of men, whom I have killed in my anger and in my wrath, and for all whose wickedness I have hidden my face from this city:
+> **33:6** Behold, I will bring it health and cure, and I will cure them; and I will reveal to them abundance of peace and truth.
+> **33:7** I will cause the captivity of Judah and the captivity of Israel to return, and will build them, as at the first.
+> **33:8** I will cleanse them from all their iniquity, by which they have sinned against me; and I will pardon all their iniquities, by which they have sinned against me, and by which they have transgressed against me.
+> **33:9** This city shall be to me for a name of joy, for a praise and for a glory, before all the nations of the earth, which shall hear all the good that I do to them, and shall fear and tremble for all the good and for all the peace that I procure to it.
+
+**Claim.** Spoken while he is still shut up in the court of the guard, and the promise is health, cure, and abundance of peace to a city about to fall. The invitation to call is issued to a man already imprisoned for the message.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S5 · chapters: C19 · practices: PR07 · confidence: high
 
 ---
 

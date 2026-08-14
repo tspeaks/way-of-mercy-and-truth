@@ -1,8 +1,8 @@
 {
   "book": "Jeremiah",
   "translation": "World English Bible (public domain)",
-  "status": "partial — chapters 1-20; the remaining thirty-two chapters follow in sections",
-  "method_version": "1.8",
+  "status": "partial — chapters 1-33; chapters 34-52 follow",
+  "method_version": "1.9",
   "text_source": "index/text/jeremiah.json",
   "note": "The longest book in the canon at 1,364 verses, indexed in sections along its own seams: the call and early oracles (1-10), the confessions (11-20), kings and false prophets (21-29), the Book of Consolation (30-33), the fall narratives (34-45), and the oracles against the nations (46-52). This file covers the first section.",
   "sectioning_note": "Sectioning is a practical necessity, not a claim about the book's unity. Each section is indexed against the same standard and validated the same way, and the file's status field names what is done. A reader should be able to see at a glance that the index is partial rather than inferring it from the absence of entries.",
@@ -824,6 +824,309 @@
       ],
       "mode": "exemplifies",
       "connection": "The confessions end here, immediately after the praise of the previous verses, with no resolution and no return. Habakkuk closes with yet I will rejoice; this closes with why did I come out of the womb. Scripture preserves both endings, which means Sacred Lament is not required to arrive anywhere in order to be legitimate.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 22:1-9",
+      "pericope": "Deliver him who is robbed out of the hand of the oppressor",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C01",
+        "C16"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "The instruction to the palace is administrative before it is devotional — justice executed, the robbed delivered, no wrong done to the sojourner, the fatherless, or the widow. The throne's continuance is made conditional on it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 22:13-17",
+      "pericope": "He judged the cause of the poor and needy; wasn't this to know me?",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C02",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A king who builds by unrighteousness and pays no wages is set against his father, who ate and drank and did justice. Then the sentence that reframes everything: judging the cause of the poor is named as what knowing God consists of, not as evidence for it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 23:9-15",
+      "pericope": "Both prophet and priest are profane",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The prophet's own bones shake at what he has to say about prophets, and the corruption is located inside the temple itself. C08's fruit test applied where the tester and the tested share an office.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 23:16-22",
+      "pericope": "If they had stood in my council",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S3"
+      ],
+      "chapters": [
+        "C08",
+        "C09"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The false prophets are identified not by doctrine but by outcome — they say peace to those who despise, and no one turns from their evil way. The test given is whether the message turns people, and behind it a claim about where the message came from.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 23:23-32",
+      "pericope": "Isn't my word like fire, and like a hammer?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Let the dreamer tell his dream and the one with the word speak the word — the distinction is left to be made by what each does. Chaff and wheat separated by weight rather than by inspection.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 26:1-16",
+      "pericope": "Amend your ways; as for me, I am in your hand",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "He delivers the sermon that gets him arrested, then tells the court to do with him as seems good, adding only that killing him would bring innocent blood on them. No defence entered, and the princes rule in his favour.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 26:17-24",
+      "pericope": "Micah the Morashtite prophesied, and Hezekiah did not put him to death",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Elders save his life by citing a precedent from a century earlier, and the narrator then records a second prophet who was extradited and killed. Both outcomes preserved, so the precedent is shown to be a reason rather than a guarantee.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 29:4-9",
+      "pericope": "Build houses; plant gardens; seek the peace of the city",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "prescribes",
+      "connection": "The exiles are told to settle, marry, multiply, and pray for the welfare of the place holding them captive — because in its peace they will have peace. The Citizen-Stranger given its founding instruction, and the city in question is Babylon.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 29:10-14",
+      "pericope": "You shall seek me and find me, when you search with all your heart",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C09"
+      ],
+      "practices": [
+        "PR07"
+      ],
+      "mode": "prescribes",
+      "connection": "The famous promise of a future and a hope is attached to seventy years, not to relief — the plans are announced to people who will die before they see them. Seeking with the whole heart is the condition, and the timescale is the point.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 31:15-20",
+      "pericope": "Refrain your voice from weeping; there is hope for your latter end",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08",
+        "PR11"
+      ],
+      "mode": "prescribes",
+      "connection": "Rachel refusing comfort is answered rather than corrected — the weeping is addressed, given a reason to stop, and the reason is that the children come back. Then Ephraim is quoted bemoaning his own chastisement, and the response is that God's heart is troubled for him.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 31:29-30",
+      "pericope": "Everyone shall die for his own iniquity",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C21"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "prescribes",
+      "connection": "The proverb about fathers eating sour grapes and children's teeth being set on edge is retired by name. Inherited blame refused, and responsibility located in the person doing the eating.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 31:31-34",
+      "pericope": "I will write it in their hearts",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C26"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The new covenant is described by where the law is kept rather than by what it contains — put within them, written on the heart, so that teaching one another becomes unnecessary. Formation described as interior relocation, and it closes on forgiveness rather than on obedience.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 32:6-15",
+      "pericope": "Houses and fields and vineyards shall yet again be bought in this land",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "exemplifies",
+      "connection": "He buys a field in a town already overrun, weighs out the silver, signs the deed before witnesses, and has it sealed in a clay jar to last a long time. Hope enacted as a property transaction conducted from inside a besieged city, with the paperwork done correctly.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 32:16-27",
+      "pericope": "Ah Lord Yahweh; is there anything too hard for you?",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "Having obeyed, he immediately prays that he does not understand — the siege mounds are at the wall and he has just bought land. Obedience first and comprehension not at all, with the question left standing rather than answered.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 33:1-9",
+      "pericope": "Call to me, and I will answer you",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR07"
+      ],
+      "mode": "prescribes",
+      "connection": "Spoken while he is still shut up in the court of the guard, and the promise is health, cure, and abundance of peace to a city about to fall. The invitation to call is issued to a man already imprisoned for the message.",
       "confidence": "high",
       "prior": false
     }

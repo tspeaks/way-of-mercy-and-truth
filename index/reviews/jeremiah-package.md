@@ -1,6 +1,6 @@
 # Jeremiah — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 1-33; chapters 34-52 follow. Method version 1.9.
+Scripture: World English Bible (public domain). Index status: partial — chapters 1-33; chapters 34-52 follow. Method version 2.0.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 

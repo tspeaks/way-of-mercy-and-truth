@@ -2,7 +2,7 @@
   "book": "Jeremiah",
   "translation": "World English Bible (public domain)",
   "status": "partial — chapters 1-33; chapters 34-52 follow",
-  "method_version": "1.9",
+  "method_version": "2.0",
   "text_source": "index/text/jeremiah.json",
   "note": "The longest book in the canon at 1,364 verses, indexed in sections along its own seams: the call and early oracles (1-10), the confessions (11-20), kings and false prophets (21-29), the Book of Consolation (30-33), the fall narratives (34-45), and the oracles against the nations (46-52). This file covers the first section.",
   "sectioning_note": "Sectioning is a practical necessity, not a claim about the book's unity. Each section is indexed against the same standard and validated the same way, and the file's status field names what is done. A reader should be able to see at a glance that the index is partial rather than inferring it from the absence of entries.",
@@ -1151,6 +1151,16 @@
       },
       "record": "index/reviews/jeremiah-11-20-pass2.json",
       "adjudication": "Clean pass. PR06 accepted on 18:18-23; PR15 declined as duplicative; C17 declined on 13:1-11."
+    },
+    {
+      "pass": 2,
+      "section": "chapters 21-33",
+      "reviewer": "second model (Gemini Spark)",
+      "verdicts": {
+        "sound": 15
+      },
+      "record": "index/reviews/jeremiah-21-33-pass2.json",
+      "adjudication": "Clean pass. Two gap proposals declined, both on established precedents."
     }
   ]
 }

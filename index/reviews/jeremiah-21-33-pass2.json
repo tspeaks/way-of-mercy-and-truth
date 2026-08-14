@@ -1,0 +1,23 @@
+{
+  "scope": "chapters 21-33, all 15 entries; synthesis across the 56-entry Jeremiah 1-33 index",
+  "verdicts": {
+    "sound": 15
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "Jeremiah 22:13-17",
+      "proposed": "PR05",
+      "verdict": "declined",
+      "reason": "PR05 is regular disciplined sharing of one's own resources with the poor, the stranger and the afflicted. This passage condemns a king for withholding wages and commends his father for judging the cause of the poor — judicial advocacy exercised from the throne. Declined on the precedent set for PR21 at Proverbs 31:8-9: advocacy from power is not the practice, however closely it shares the subject."
+    },
+    {
+      "ref": "Jeremiah 31:31-34",
+      "proposed": "PR23",
+      "verdict": "declined",
+      "reason": "PR23 locates the highest expression of the road in the least glamorous settings. The new covenant passage concerns where the law is kept and who knows God, not ordinary settings. Subject-matter mistaken for practice, as declined on Micah 7:1-6 and Luke 9:10-17."
+    }
+  ],
+  "running_tally": "Thirty additions proposed across all books: eleven accepted, one in part, eighteen declined.",
+  "precedent_note": "Both declines rest on rulings already recorded rather than on fresh judgement, which is the point of keeping the review files: the same substitution should get the same answer regardless of which book it appears in."
+}

@@ -1,8 +1,8 @@
 {
   "book": "Matthew",
   "translation": "World English Bible (public domain)",
-  "status": "partial — chapters 1-13; chapters 14-28 follow",
-  "method_version": "2.3",
+  "status": "partial — chapters 1-18; chapters 19-28 follow",
+  "method_version": "2.4",
   "text_source": "index/text/matthew.json",
   "note": "Indexed on Matthew's own structure — the five discourses and the narrative blocks between them — beginning with the first discourse. Practice tags are assigned from the definitions in WMT A1, not from practice names.",
   "synoptic_note": "Entries carry an optional synoptic_parallel field recording the corresponding passage in Luke. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Matthew's own arrangement, so a parallel sometimes covers only part of an entry. All scripture is WEB, per the standing rule in WMT G10.",
@@ -898,6 +898,261 @@
       "practices": [],
       "mode": "counter-example",
       "connection": "Familiarity presented as the specific obstacle — they can list his mother, his brothers, his sisters, and his trade, and the accuracy of the inventory is what blocks them. Sight prevented by information rather than by its absence.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 14:1-13",
+      "pericope": "His disciples came, took the body, and buried it",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "John is executed to satisfy an oath made at a party, his disciples bury him and bring word, and the response recorded is withdrawal to a deserted place. Grief given somewhere to go before anything else is asked of him.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 14:22-33",
+      "pericope": "Immediately he stretched out his hand and took hold of him",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "exemplifies",
+      "connection": "Peter asks to come, walks, sees the wind, and sinks — and the rescue is immediate, before the question about doubt is asked. The order matters: he is pulled out first and examined afterward.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 15:1-20",
+      "pericope": "What proceeds out of the mouth comes out of the heart",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C20"
+      ],
+      "practices": [
+        "PR01",
+        "PR02"
+      ],
+      "mode": "prescribes",
+      "connection": "A dispute about handwashing is answered by relocating defilement to its source, and then the list is given plainly — evil thoughts first, and the acts after them. Interior Diagnosis stated as the order in which things actually occur.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 15:21-28",
+      "pericope": "Even the dogs eat the crumbs",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C17",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "She is met with silence, then a refusal, then a hard saying, and she takes the terms she is given and argues inside them rather than against them. Persistence conducted without indignation, from entirely outside the boundary.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 16:13-20",
+      "pericope": "Flesh and blood has not revealed this to you",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C06"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The right answer is given and immediately credited to someone other than the man who gave it. Perception treated as received rather than achieved, at the moment it would be most natural to congratulate the perceiver.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 16:21-28",
+      "pericope": "Get behind me, Satan",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C20",
+        "C23"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "counter-example",
+      "connection": "The same man is called blessed and then a stumbling block within six verses, for a rebuke made out of affection. Opposition arriving through someone close and well-meaning, which is the case watchfulness is least prepared for.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 17:14-21",
+      "pericope": "Because of your unbelief",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C09",
+        "C25"
+      ],
+      "practices": [
+        "PR07"
+      ],
+      "mode": "counter-example",
+      "connection": "The disciples fail publicly and ask privately why. The answer names their unbelief and then adds that this kind requires prayer and fasting — a deficiency in the ordinary disciplines rather than in technique.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 17:24-27",
+      "pericope": "Lest we cause them to stumble",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C17"
+      ],
+      "practices": [
+        "PR18"
+      ],
+      "mode": "prescribes",
+      "connection": "He establishes that the children are exempt and then pays anyway, specifically to avoid giving offence. A right conceded rather than asserted, with the reasoning stated so it cannot be mistaken for obligation.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 18:1-5",
+      "pericope": "Unless you turn and become as little children",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C16",
+        "C23"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The question about rank is answered by a child placed in the middle, and greatness is redefined as a direction of travel rather than a position reached. Humbling oneself named as the whole of it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 18:10-14",
+      "pericope": "He rejoices over it more than over the ninety-nine",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C29"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "The shepherd leaves the ninety-nine on the hills and goes searching, and the arithmetic is stated as disproportionate on purpose. Set inside a warning against despising the little ones, which makes the search a duty rather than a sentiment.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 18:15-20",
+      "pericope": "Go, show him his fault between you and him alone",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
+      "practices": [
+        "PR17",
+        "PR09"
+      ],
+      "mode": "prescribes",
+      "connection": "Correction begins privately and widens only on refusal — one witness, then two, then the assembly. Covering Weakness built into the procedure itself: exposure is the last resort rather than the first, and every stage is aimed at gaining the brother rather than at establishing the fault.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 18:21-35",
+      "pericope": "Shouldn't you also have had mercy?",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C22",
+        "C29"
+      ],
+      "practices": [
+        "PR22",
+        "PR29"
+      ],
+      "mode": "counter-example",
+      "connection": "Peter proposes seven times and is answered with seventy-seven, then given a parable where the sums are incommensurable — ten thousand talents against a hundred denarii. The servant is not punished for the debt but for what he did with the release, and the fellow servants who report it are the ones who cannot bear the sight.",
       "confidence": "high",
       "prior": false
     }

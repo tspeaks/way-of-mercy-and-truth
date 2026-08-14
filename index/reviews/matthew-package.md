@@ -1,6 +1,6 @@
 # Matthew — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 1-13; chapters 14-28 follow. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: partial — chapters 1-18; chapters 19-28 follow. Method version 2.4.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -707,6 +707,226 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** Familiarity presented as the specific obstacle — they can list his mother, his brothers, his sisters, and his trade, and the accuracy of the inventory is what blocks them. Sight prevented by information rather than by its absence.
 
 **Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S2 · chapters: C07 · practices: none · confidence: high
+
+---
+
+## 44. Matthew 14:1-13 — His disciples came, took the body, and buried it
+
+> **14:1** At that time, Herod the tetrarch heard the report concerning Jesus,
+> **14:2** and said to his servants, “This is John the Baptizer. He is risen from the dead. That is why these powers work in him.”
+> **14:3** For Herod had laid hold of John, and bound him, and put him in prison for the sake of Herodias, his brother Philip’s wife.
+> **14:4** For John said to him, “It is not lawful for you to have her.”
+> **14:5** When he would have put him to death, he feared the multitude, because they counted him as a prophet.
+> **14:6** But when Herod’s birthday came, the daughter of Herodias danced among them and pleased Herod.
+> **14:7** Whereupon he promised with an oath to give her whatever she should ask.
+> **14:8** She, being prompted by her mother, said, “Give me here on a platter the head of John the Baptizer.”
+> **14:9** The king was grieved, but for the sake of his oaths, and of those who sat at the table with him, he commanded it to be given,
+> **14:10** and he sent and beheaded John in the prison.
+> **14:11** His head was brought on a platter, and given to the young lady: and she brought it to her mother.
+> **14:12** His disciples came, and took the body, and buried it; and they went and told Jesus.
+> **14:13** Now when Jesus heard this, he withdrew from there in a boat, to a deserted place apart. When the multitudes heard it, they followed him on foot from the cities.
+
+**Claim.** John is executed to satisfy an oath made at a party, his disciples bury him and bring word, and the response recorded is withdrawal to a deserted place. Grief given somewhere to go before anything else is asked of him.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S5 · chapters: C19 · practices: PR08 · confidence: high
+
+---
+
+## 45. Matthew 14:22-33 — Immediately he stretched out his hand and took hold of him
+
+> **14:22** Immediately Jesus made the disciples get into the boat, and to go ahead of him to the other side, while he sent the multitudes away.
+> **14:23** After he had sent the multitudes away, he went up into the mountain by himself to pray. When evening had come, he was there alone.
+> **14:24** But the boat was now in the middle of the sea, distressed by the waves, for the wind was contrary.
+> **14:25** In the fourth watch of the night, Jesus came to them, walking on the sea.
+> **14:26** When the disciples saw him walking on the sea, they were troubled, saying, “It’s a ghost!” and they cried out for fear.
+> **14:27** But immediately Jesus spoke to them, saying “Cheer up! It is I! Don’t be afraid.”
+> **14:28** Peter answered him and said, “Lord, if it is you, command me to come to you on the waters.”
+> **14:29** He said, “Come!” Peter stepped down from the boat, and walked on the waters to come to Jesus.
+> **14:30** But when he saw that the wind was strong, he was afraid, and beginning to sink, he cried out, saying, “Lord, save me!”
+> **14:31** Immediately Jesus stretched out his hand, took hold of him, and said to him, “You of little faith, why did you doubt?”
+> **14:32** When they got up into the boat, the wind ceased.
+> **14:33** Those who were in the boat came and worshiped him, saying, “You are truly the Son of God!”
+
+**Claim.** Peter asks to come, walks, sees the wind, and sinks — and the rescue is immediate, before the question about doubt is asked. The order matters: he is pulled out first and examined afterward.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S5 · chapters: C19 · practices: PR11 · confidence: high
+
+---
+
+## 46. Matthew 15:1-20 — What proceeds out of the mouth comes out of the heart
+
+> **15:1** Then Pharisees and scribes came to Jesus from Jerusalem, saying,
+> **15:2** “Why do your disciples disobey the tradition of the elders? For they don’t wash their hands when they eat bread.”
+> **15:3** He answered them, “Why do you also disobey the commandment of God because of your tradition?
+> **15:4** For God commanded, ‘Honor your father and your mother,’ and, ‘He who speaks evil of father or mother, let him be put to death.’
+> **15:5** But you say, ‘Whoever may tell his father or his mother, “Whatever help you might otherwise have gotten from me is a gift devoted to God,”
+> **15:6** he shall not honor his father or mother.’ You have made the commandment of God void because of your tradition.
+> **15:7** You hypocrites! Well did Isaiah prophesy of you, saying,
+> **15:8** ‘These people draw near to me with their mouth, and honor me with their lips; but their heart is far from me.
+> **15:9** And in vain do they worship me, teaching as doctrine rules made by men.’”
+> **15:10** He summoned the multitude, and said to them, “Hear, and understand.
+> **15:11** That which enters into the mouth doesn’t defile the man; but that which proceeds out of the mouth, this defiles the man.”
+> **15:12** Then the disciples came, and said to him, “Do you know that the Pharisees were offended, when they heard this saying?”
+> **15:13** But he answered, “Every plant which my heavenly Father didn’t plant will be uprooted.
+> **15:14** Leave them alone. They are blind guides of the blind. If the blind guide the blind, both will fall into a pit.”
+> **15:15** Peter answered him, “Explain the parable to us.”
+> **15:16** So Jesus said, “Do you also still not understand?
+> **15:17** Don’t you understand that whatever goes into the mouth passes into the belly, and then out of the body?
+> **15:18** But the things which proceed out of the mouth come out of the heart, and they defile the man.
+> **15:19** For out of the heart come forth evil thoughts, murders, adulteries, sexual sins, thefts, false testimony, and blasphemies.
+> **15:20** These are the things which defile the man; but to eat with unwashed hands doesn’t defile the man.”
+
+**Claim.** A dispute about handwashing is answered by relocating defilement to its source, and then the list is given plainly — evil thoughts first, and the acts after them. Interior Diagnosis stated as the order in which things actually occur.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S1, S5 · chapters: C04, C20 · practices: PR01, PR02 · confidence: high
+
+---
+
+## 47. Matthew 15:21-28 — Even the dogs eat the crumbs
+
+> **15:21** Jesus went out from there, and withdrew into the region of Tyre and Sidon.
+> **15:22** Behold, a Canaanite woman came out from those borders, and cried, saying, “Have mercy on me, Lord, you son of David! My daughter is severely demonized!”
+> **15:23** But he answered her not a word. His disciples came and begged him, saying, “Send her away; for she cries after us.”
+> **15:24** But he answered, “I wasn’t sent to anyone but the lost sheep of the house of Israel.”
+> **15:25** But she came and worshiped him, saying, “Lord, help me.”
+> **15:26** But he answered, “It is not appropriate to take the children’s bread and throw it to the dogs.”
+> **15:27** But she said, “Yes, Lord, but even the dogs eat the crumbs which fall from their masters’ table.”
+> **15:28** Then Jesus answered her, “Woman, great is your faith! Be it done to you even as you desire.” And her daughter was healed from that hour.
+
+**Claim.** She is met with silence, then a refusal, then a hard saying, and she takes the terms she is given and argues inside them rather than against them. Persistence conducted without indignation, from entirely outside the boundary.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S4, S5 · chapters: C17, C19 · practices: none · confidence: high
+
+---
+
+## 48. Matthew 16:13-20 — Flesh and blood has not revealed this to you
+
+> **16:13** Now when Jesus came into the parts of Caesarea Philippi, he asked his disciples, saying, “Who do men say that I, the Son of Man, am?”
+> **16:14** They said, “Some say John the Baptizer, some, Elijah, and others, Jeremiah, or one of the prophets.”
+> **16:15** He said to them, “But who do you say that I am?”
+> **16:16** Simon Peter answered, “You are the Christ, the Son of the living God.”
+> **16:17** Jesus answered him, “Blessed are you, Simon Bar Jonah, for flesh and blood has not revealed this to you, but my Father who is in heaven.
+> **16:18** I also tell you that you are Peter, and on this rock I will build my assembly, and the gates of Hades will not prevail against it.
+> **16:19** I will give to you the keys of the Kingdom of Heaven, and whatever you bind on earth will have been bound in heaven; and whatever you release on earth will have been released in heaven.”
+> **16:20** Then he commanded the disciples that they should tell no one that he was Jesus the Christ.
+
+**Claim.** The right answer is given and immediately credited to someone other than the man who gave it. Perception treated as received rather than achieved, at the moment it would be most natural to congratulate the perceiver.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S2 · chapters: C06 · practices: none · confidence: high
+
+---
+
+## 49. Matthew 16:21-28 — Get behind me, Satan
+
+> **16:21** From that time, Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders, chief priests, and scribes, and be killed, and the third day be raised up.
+> **16:22** Peter took him aside, and began to rebuke him, saying, “Far be it from you, Lord! This will never be done to you.”
+> **16:23** But he turned, and said to Peter, “Get behind me, Satan! You are a stumbling block to me, for you are not setting your mind on the things of God, but on the things of men.”
+> **16:24** Then Jesus said to his disciples, “If anyone desires to come after me, let him deny himself, and take up his cross, and follow me.
+> **16:25** For whoever desires to save his life will lose it, and whoever will lose his life for my sake will find it.
+> **16:26** For what will it profit a man, if he gains the whole world, and forfeits his life? Or what will a man give in exchange for his life?
+> **16:27** For the Son of Man will come in the glory of his Father with his angels, and then he will render to everyone according to his deeds.
+> **16:28** Most certainly I tell you, there are some standing here who will in no way taste of death, until they see the Son of Man coming in his Kingdom.”
+
+**Claim.** The same man is called blessed and then a stumbling block within six verses, for a rebuke made out of affection. Opposition arriving through someone close and well-meaning, which is the case watchfulness is least prepared for.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S5, S6 · chapters: C20, C23 · practices: PR12 · confidence: high
+
+---
+
+## 50. Matthew 17:14-21 — Because of your unbelief
+
+> **17:14** When they came to the multitude, a man came to him, kneeling down to him, saying,
+> **17:15** “Lord, have mercy on my son, for he is epileptic, and suffers grievously; for he often falls into the fire, and often into the water.
+> **17:16** So I brought him to your disciples, and they could not cure him.”
+> **17:17** Jesus answered, “Faithless and perverse generation! How long will I be with you? How long will I bear with you? Bring him here to me.”
+> **17:18** Jesus rebuked him, the demon went out of him, and the boy was cured from that hour.
+> **17:19** Then the disciples came to Jesus privately, and said, “Why weren’t we able to cast it out?”
+> **17:20** He said to them, “Because of your unbelief. For most certainly I tell you, if you have faith as a grain of mustard seed, you will tell this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible for you.
+> **17:21** But this kind doesn’t go out except by prayer and fasting.”
+
+**Claim.** The disciples fail publicly and ask privately why. The answer names their unbelief and then adds that this kind requires prayer and fasting — a deficiency in the ordinary disciplines rather than in technique.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility · stages: S3, S6 · chapters: C09, C25 · practices: PR07 · confidence: high
+
+---
+
+## 51. Matthew 17:24-27 — Lest we cause them to stumble
+
+> **17:24** When they had come to Capernaum, those who collected the didrachma coins came to Peter, and said, “Doesn’t your teacher pay the didrachma?”
+> **17:25** He said, “Yes.” When he came into the house, Jesus anticipated him, saying, “What do you think, Simon? From whom do the kings of the earth receive toll or tribute? From their children, or from strangers?”
+> **17:26** Peter said to him, “From strangers.” Jesus said to him, “Therefore the children are exempt.
+> **17:27** But, lest we cause them to stumble, go to the sea, cast a hook, and take up the first fish that comes up. When you have opened its mouth, you will find a stater coin. Take that, and give it to them for me and you.”
+
+**Claim.** He establishes that the children are exempt and then pays anyway, specifically to avoid giving offence. A right conceded rather than asserted, with the reasoning stated so it cannot be mistaken for obligation.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, mercy · stages: S4 · chapters: C15, C17 · practices: PR18 · confidence: high
+
+---
+
+## 52. Matthew 18:1-5 — Unless you turn and become as little children
+
+> **18:1** In that hour the disciples came to Jesus, saying, “Who then is greatest in the Kingdom of Heaven?”
+> **18:2** Jesus called a little child to himself, and set him in their midst,
+> **18:3** and said, “Most certainly I tell you, unless you turn, and become as little children, you will in no way enter into the Kingdom of Heaven.
+> **18:4** Whoever therefore humbles himself as this little child, the same is the greatest in the Kingdom of Heaven.
+> **18:5** Whoever receives one such little child in my name receives me,
+
+**Claim.** The question about rank is answered by a child placed in the middle, and greatness is redefined as a direction of travel rather than a position reached. Humbling oneself named as the whole of it.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S4, S6 · chapters: C16, C23 · practices: none · confidence: high
+
+---
+
+## 53. Matthew 18:10-14 — He rejoices over it more than over the ninety-nine
+
+> **18:10** See that you don’t despise one of these little ones, for I tell you that in heaven their angels always see the face of my Father who is in heaven.
+> **18:11** For the Son of Man came to save that which was lost.
+> **18:12** “What do you think? If a man has one hundred sheep, and one of them goes astray, doesn’t he leave the ninety-nine, go to the mountains, and seek that which has gone astray?
+> **18:13** If he finds it, most certainly I tell you, he rejoices over it more than over the ninety-nine which have not gone astray.
+> **18:14** Even so it is not the will of your Father who is in heaven that one of these little ones should perish.
+
+**Claim.** The shepherd leaves the ninety-nine on the hills and goes searching, and the arithmetic is stated as disproportionate on purpose. Set inside a warning against despising the little ones, which makes the search a duty rather than a sentiment.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S7 · chapters: C29 · practices: PR29 · confidence: high
+
+---
+
+## 54. Matthew 18:15-20 — Go, show him his fault between you and him alone
+
+> **18:15** “If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother.
+> **18:16** But if he doesn’t listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established.
+> **18:17** If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector.
+> **18:18** Most certainly I tell you, whatever things you bind on earth will have been bound in heaven, and whatever things you release on earth will have been released in heaven.
+> **18:19** Again, assuredly I tell you, that if two of you will agree on earth concerning anything that they will ask, it will be done for them by my Father who is in heaven.
+> **18:20** For where two or three are gathered together in my name, there I am in their midst.”
+
+**Claim.** Correction begins privately and widens only on refusal — one witness, then two, then the assembly. Covering Weakness built into the procedure itself: exposure is the last resort rather than the first, and every stage is aimed at gaining the brother rather than at establishing the fault.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S4 · chapters: C15 · practices: PR17, PR09 · confidence: high
+
+---
+
+## 55. Matthew 18:21-35 — Shouldn't you also have had mercy?
+
+> **18:21** Then Peter came and said to him, “Lord, how often shall my brother sin against me, and I forgive him? Until seven times?”
+> **18:22** Jesus said to him, “I don’t tell you until seven times, but, until seventy times seven.
+> **18:23** Therefore the Kingdom of Heaven is like a certain king, who wanted to reconcile accounts with his servants.
+> **18:24** When he had begun to reconcile, one was brought to him who owed him ten thousand talents.
+> **18:25** But because he couldn’t pay, his lord commanded him to be sold, with his wife, his children, and all that he had, and payment to be made.
+> **18:26** The servant therefore fell down and kneeled before him, saying, ‘Lord, have patience with me, and I will repay you all!’
+> **18:27** The lord of that servant, being moved with compassion, released him, and forgave him the debt.
+> **18:28** “But that servant went out, and found one of his fellow servants, who owed him one hundred denarii, and he grabbed him, and took him by the throat, saying, ‘Pay me what you owe!’
+> **18:29** “So his fellow servant fell down at his feet and begged him, saying, ‘Have patience with me, and I will repay you!’
+> **18:30** He would not, but went and cast him into prison, until he should pay back that which was due.
+> **18:31** So when his fellow servants saw what was done, they were exceedingly sorry, and came and told to their lord all that was done.
+> **18:32** Then his lord called him in, and said to him, ‘You wicked servant! I forgave you all that debt, because you begged me.
+> **18:33** Shouldn’t you also have had mercy on your fellow servant, even as I had mercy on you?’
+> **18:34** His lord was angry, and delivered him to the tormentors, until he should pay all that was due to him.
+> **18:35** So my heavenly Father will also do to you, if you don’t each forgive your brother from your hearts for his misdeeds.”
+
+**Claim.** Peter proposes seven times and is answered with seventy-seven, then given a parable where the sums are incommensurable — ten thousand talents against a hundred denarii. The servant is not punished for the debt but for what he did with the release, and the fellow servants who report it are the ones who cannot bear the sight.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: mercy · stages: S5, S7 · chapters: C22, C29 · practices: PR22, PR29 · confidence: high
 
 ---
 

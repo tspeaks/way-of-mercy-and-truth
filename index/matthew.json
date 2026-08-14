@@ -2,7 +2,7 @@
   "book": "Matthew",
   "translation": "World English Bible (public domain)",
   "status": "complete",
-  "method_version": "2.5",
+  "method_version": "2.6",
   "text_source": "index/text/matthew.json",
   "note": "Complete. Indexed in sections following Matthew's five-discourse architecture: the infancy and beginnings (1-4), the Sermon on the Mount (5-7), narrative and mission (8-10), controversy and parables (11-13), the community discourse (14-18), and Jerusalem through the resurrection (19-28).",
   "synoptic_note": "Entries carry an optional synoptic_parallel field recording the corresponding passage in Luke. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Matthew's own arrangement, so a parallel sometimes covers only part of an entry. All scripture is WEB, per the standing rule in WMT G10.",
@@ -1411,16 +1411,19 @@
       ],
       "chapters": [
         "C16",
-        "C27"
+        "C27",
+        "C28"
       ],
       "practices": [
         "PR05",
-        "PR22"
+        "PR22",
+        "PR23"
       ],
       "mode": "prescribes",
       "connection": "Six acts, all of them ordinary and material: food, drink, welcome for a stranger, clothing, visiting the sick and the imprisoned. Both groups ask when they saw him, so neither recognised what they were doing — the criterion is what was done, not what was understood.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR23 and C28 added at review. Six acts — food, drink, welcome, clothing, a sick visit, a prison visit — none of them glamorous, each identified with the King. The Sacrament of the Ordinary given its eschatological form, and Matthew's second anchor for it after the cup of cold water at 10:40-42."
     },
     {
       "ref": "Matthew 26:6-13",
@@ -1543,6 +1546,16 @@
       },
       "record": "index/reviews/matthew-1-13-pass2.json",
       "adjudication": "Clean pass. Two gap proposals declined; one flagged for the author."
+    },
+    {
+      "pass": 2,
+      "section": "chapters 14-28",
+      "reviewer": "second model (Gemini Spark)",
+      "verdicts": {
+        "sound": 30
+      },
+      "record": "index/reviews/matthew-14-28-pass2.json",
+      "adjudication": "Clean pass. PR23 accepted on 25:31-46; PR03 declined on 18:15-20."
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "scope": "chapters 14-28, all 30 entries; synthesis across the complete 73-entry book",
+  "verdicts": {
+    "sound": 30
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "Matthew 25:31-46",
+      "proposed": "PR23",
+      "verdict": "accepted",
+      "reason": "Six ordinary material acts identified with the King himself. PR23 locates the highest expression of the road in the least glamorous settings, which is precisely the structure of the judgment scene. C28 added alongside."
+    },
+    {
+      "ref": "Matthew 18:15-20",
+      "proposed": "PR03",
+      "verdict": "declined",
+      "reason": "PR03 is looking at one's own portion first in any friction. The passage prescribes privacy — go show him his fault between you and him alone — not self-examination. The reviewer argued that doing it well requires self-examination, which is an inference about what the practice demands rather than what the text prescribes. PR17 already carries the passage."
+    }
+  ],
+  "running_tally": "Twenty-eight additions proposed across all books: eleven accepted, one in part, sixteen declined.",
+  "note": "Breaks a run of three consecutive rounds in which every proposed addition was declined. The drafter had flagged that run as worth watching for reflex rather than judgement."
+}

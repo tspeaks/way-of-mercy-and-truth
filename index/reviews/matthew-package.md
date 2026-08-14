@@ -1,6 +1,6 @@
 # Matthew — review package
 
-Scripture: World English Bible (public domain). Index status: complete. Method version 2.5.
+Scripture: World English Bible (public domain). Index status: complete. Method version 2.6.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -1182,7 +1182,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** Six acts, all of them ordinary and material: food, drink, welcome for a stranger, clothing, visiting the sick and the imprisoned. Both groups ask when they saw him, so neither recognised what they were doing — the criterion is what was done, not what was understood.
 
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4, S7 · chapters: C16, C27 · practices: PR05, PR22 · confidence: high
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4, S7 · chapters: C16, C27, C28 · practices: PR05, PR22, PR23 · confidence: high
+
+**Amended at review** — PR23 and C28 added at review. Six acts — food, drink, welcome, clothing, a sick visit, a prison visit — none of them glamorous, each identified with the King. The Sacrament of the Ordinary given its eschatological form, and Matthew's second anchor for it after the cup of cold water at 10:40-42.
 
 ---
 

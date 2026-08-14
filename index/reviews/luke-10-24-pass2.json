@@ -1,0 +1,23 @@
+{
+  "scope": "chapters 10-24, all 35 entries; synthesis across the complete 74-entry book",
+  "verdicts": {
+    "sound": 35
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "Luke 15:11-32",
+      "proposed": "PR03",
+      "verdict": "accepted",
+      "reason": "PR03 is looking at one's own portion before assigning anyone else's. The son has a famine, a citizen who sent him to the pigs, and misfortune available as explanation and uses none of them."
+    },
+    {
+      "ref": "Luke 10:25-37",
+      "proposed": "PR22",
+      "verdict": "declined",
+      "reason": "PR22 is bearing with peevish, complaining or ungrateful behaviour from those one is helping. The man in the ditch is unconscious and expresses nothing. The reviewer's own phrase — cross-boundary generosity — is accurate and is not the definition. Subject matter mistaken for practice, the same substitution declined on Micah 7:1-6 and Luke 9:10-17."
+    }
+  ],
+  "book_summary": "One overreach across 74 entries, caught in the first section. Luke supplies the primary anchors for PR25 (14:7-14), PR22 (6:27-36, 17:11-19), PR19 (10:25-37), PR23 (2:1-7, 24:13-35) and PR29 (15:11-32, 23:32-43) — more first-anchors than any other book in the index.",
+  "running_tally": "Twenty-three additions proposed across all books: ten accepted, one in part, twelve declined."
+}

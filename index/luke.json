@@ -2,7 +2,7 @@
   "book": "Luke",
   "translation": "World English Bible (public domain)",
   "status": "complete",
-  "method_version": "2.2",
+  "method_version": "2.3",
   "text_source": "index/text/luke.json",
   "note": "Complete. Indexed in four sections along the book's own seams: the infancy narratives and Galilean opening (1-6), the Galilean ministry (7-9), the travel narrative (10-16), and Jerusalem through the resurrection (17-24). Luke 23:34 carries a prior citation from the curriculum.",
   "synoptic_note": "Entries carry an optional synoptic_parallel field recording the corresponding passage in Matthew where one exists. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Luke's own arrangement. All scripture is WEB, per the standing rule in WMT G10.",
@@ -1119,13 +1119,15 @@
         "C29"
       ],
       "practices": [
+        "PR03",
         "PR11",
         "PR29"
       ],
       "mode": "prescribes",
       "connection": "The father is watching the road, runs, and interrupts the rehearsed confession before the demotion clause can be spoken. Then the elder son refuses to go in, and the father comes out to him as well — the same going-out performed twice, in opposite directions, and the parable ends without saying whether the second one worked.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR03 added at review. The son had a famine, a citizen who sent him to the pigs, and plain bad luck available as explanation, and assigns none of it — I have sinned against heaven and in your sight. Self-Accusation as the human gateway to the recovery that follows."
     },
     {
       "ref": "Luke 16:1-13",
@@ -1556,7 +1558,6 @@
     {
       "pass": 2,
       "section": "chapters 1-6",
-      "reviewer": "second model (Gemini Spark)",
       "verdicts": {
         "sound": 21,
         "overreach": 1
@@ -1567,12 +1568,20 @@
     {
       "pass": 2,
       "section": "chapters 7-9",
-      "reviewer": "second model (Gemini Spark)",
       "verdicts": {
         "sound": 17
       },
       "record": "index/reviews/luke-7-9-pass2.json",
-      "adjudication": "Clean pass. PR16 accepted on 8:40-56; PR05 declined on 9:10-17."
+      "adjudication": "Clean. PR16 accepted on 8:40-56; PR05 declined on 9:10-17."
+    },
+    {
+      "pass": 2,
+      "section": "chapters 10-24",
+      "verdicts": {
+        "sound": 35
+      },
+      "record": "index/reviews/luke-10-24-pass2.json",
+      "adjudication": "Clean. PR03 accepted on 15:11-32; PR22 declined on 10:25-37."
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Luke — review package
 
-Scripture: World English Bible (public domain). Index status: complete. Method version 2.2.
+Scripture: World English Bible (public domain). Index status: complete. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -998,7 +998,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** The father is watching the road, runs, and interrupts the rehearsed confession before the demotion clause can be spoken. Then the elder son refuses to go in, and the father comes out to him as well — the same going-out performed twice, in opposite directions, and the parable ends without saying whether the second one worked.
 
-**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S5, S7 · chapters: C19, C29 · practices: PR11, PR29 · confidence: high
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S5, S7 · chapters: C19, C29 · practices: PR03, PR11, PR29 · confidence: high
+
+**Amended at review** — PR03 added at review. The son had a famine, a citizen who sent him to the pigs, and plain bad luck available as explanation, and assigns none of it — I have sinned against heaven and in your sight. Self-Accusation as the human gateway to the recovery that follows.
 
 ---
 

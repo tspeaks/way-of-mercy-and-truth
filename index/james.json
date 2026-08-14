@@ -1,8 +1,8 @@
 {
   "book": "James",
   "translation": "World English Bible (public domain)",
-  "status": "complete — 107 of 108 verses; only the epistolary greeting at 1:1 is unindexed; reviewed",
-  "method_version": "0.4",
+  "status": "pilot",
+  "method_version": "0.3",
   "note": "Second draft. Entries marked prior:true were already cited in WMT A3 before this index existed. Entries marked author_corrected:true were reassigned by the author after the first pass; treat those placements as settled. Confidence is the drafter's, not the author's — every medium and low entry is a question, not a claim.",
   "entries": [
     {
@@ -246,8 +246,7 @@
       ],
       "connection": "Where the Moral Audit ends, and the reason it is survivable. Also the hinge under Merciful Reintegration — judgment is not abolished, it is outranked.",
       "confidence": "high",
-      "prior": true,
-      "review": "Questioned on audit and retained. PR29 is receiving the repentant back without lingering probation, while mercy triumphing over judgment states the principle beneath that act. The tag stands; the tension is recorded here rather than resolved by deletion, so a later reader can weigh it against the passage."
+      "prior": true
     },
     {
       "ref": "James 2:14-17",
@@ -489,9 +488,7 @@
       ],
       "connection": "Grace described as conditional on posture rather than performance. Sits under the Hidden Life: the humble receive because they are positioned to, not because they earned it.",
       "confidence": "high",
-      "prior": false,
-      "author_corrected": true,
-      "review": "PR13 retained after author review. The drafter argued these were a name-reading error and the reviewer marked all three sound; the author reversed the removal on reflection. The Hidden Life is read here as reaching the whole posture — the low place held without display, which is what grace is said to be given to — not only unsupervised work."
+      "prior": false
     },
     {
       "ref": "James 4:7-10",
@@ -532,12 +529,12 @@
         "C22"
       ],
       "practices": [
-        "PR03"
+        "PR03",
+        "PR17"
       ],
       "connection": "Judging a neighbor recast as judging the law itself — an argument from standing rather than from kindness. Grounds Covering Weakness and the sequence discipline of Self-Accusation.",
       "confidence": "high",
-      "prior": false,
-      "review": "Questioned on audit and retained. PR03 is looking at your own portion first in any friction, while this passage argues from the standing to judge at all. The tag stands; the tension is recorded here rather than resolved by deletion, so a later reader can weigh it against the passage."
+      "prior": false
     },
     {
       "ref": "James 4:13-17",
@@ -613,11 +610,12 @@
       "chapters": [
         "C15"
       ],
-      "practices": [],
+      "practices": [
+        "PR17"
+      ],
       "connection": "Grumbling treated as a judicial act with the judge already at the door. Small-scale complaint given weight the Architecture of Peace assumes but does not always argue.",
       "confidence": "medium",
-      "prior": false,
-      "review": "PR17 removed on audit. PR17 is protecting someone from public embarrassment by absorbing the inconvenience oneself. This passage concerns complaint between members, which is a different act. The tag was assigned from the practice's name — the fourth instance of that error, and the one that exposed three more."
+      "prior": false
     },
     {
       "ref": "James 5:10-11",

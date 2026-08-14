@@ -1,7 +1,7 @@
 {
   "book": "Jonah",
   "translation": "World English Bible (public domain)",
-  "status": "complete — all 48 verses; reviewed",
+  "status": "first pass",
   "method_version": "0.4",
   "text_source": "index/text/jonah.json",
   "note": "First indexed narrative book. Two method changes were forced by the genre. (1) A 'mode' field distinguishes a passage that prescribes a practice, one that exemplifies it, and one that shows its absence — Jonah teaches largely by counter-example, and a tag that could not say so would misrepresent the text. (2) The stricter practice test from the James review is applied throughout: a practice is tagged only where the passage prescribes or enacts it, never where it merely shares its subject matter.",
@@ -221,7 +221,7 @@
       "connection": "The man with the most status to lose descends first and furthest, and the city follows from greatest to least. The decree names the evil way and the violence in their hands outright, which is corporate self-accusation, and clothes it in fasting and ashes.",
       "confidence": "high",
       "prior": false,
-      "review": "Questioned on audit and retained. PR08 is grief and confusion expressed honestly before God, while Nineveh's sackcloth is penitential. The tag stands; the tension is recorded here rather than resolved by deletion, so a later reader can weigh it against the passage."
+      "review": "PR25 removed at review and PR03, PR08 substituted — the reviewer was right that Deferential Seating concerns placement in an assembly, not penitential ritual. C18 declined: the robe comes off as mourning dress, which the text frames penitentially rather than as detachment practiced as a discipline."
     },
     {
       "ref": "Jonah 3:10",

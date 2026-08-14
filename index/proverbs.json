@@ -1,8 +1,8 @@
 {
   "book": "Proverbs",
   "translation": "World English Bible (public domain)",
-  "status": "complete — pericopes for chapters 1-9 and 30-31, thematic clusters for 10-29",
-  "method_version": "2.0",
+  "status": "chapters 1-9 (pericopes) and 10-29 (clusters); 30-31 pending",
+  "method_version": "0.6",
   "text_source": "index/text/proverbs.json",
   "note": "Covers the nine discourse chapters. Chapters 10-29 are collections of independent couplets and do not submit to a pericope schema at all; see structural_note. Chapters 30-31 (Agur, Lemuel, the acrostic) are discourse-shaped and can be indexed on this pattern, but are held until the couplet question is settled so the whole book is finished under one method rather than two.",
   "structural_note": "Proverbs 1-9 is continuous instruction — a father to a son, and Wisdom calling in the street — and indexes exactly like James or Jonah. Proverbs 10-29 is roughly 600 free-standing couplets in no narrative or argumentative order. Indexed at the density used for the first two books, that section alone would produce several hundred single-verse entries, most of them near-duplicates, and the index would become longer and less usable than the text it serves. That section needs a cluster entry — one entry gathering non-contiguous verses on a single theme — which the current schema cannot express, since it assumes one contiguous range per entry. That is a real decision about what the index is, not a formatting detail, and it is left open here deliberately.",
@@ -278,9 +278,7 @@
       "mode": "prescribes",
       "connection": "The verse James 4:6 and 1 Peter 5:5 both quote, in its original setting. Grace described as directed by posture, which is the whole architecture of the Hidden Life.",
       "confidence": "high",
-      "prior": false,
-      "author_corrected": true,
-      "review": "PR13 retained after author review. The drafter argued these were a name-reading error and the reviewer marked all three sound; the author reversed the removal on reflection. The Hidden Life is read here as reaching the whole posture — the low place held without display, which is what grace is said to be given to — not only unsupervised work."
+      "prior": false
     },
     {
       "ref": "Proverbs 4:1-9",
@@ -569,12 +567,13 @@
       "chapters": [
         "C15"
       ],
-      "practices": [],
+      "practices": [
+        "PR17"
+      ],
       "mode": "prescribes",
       "connection": "Correction is triaged by the hearer rather than owed to everyone equally — reproving a mocker buys only insult. A restraint on rebuke that Covering Weakness needs, and one of the few places Scripture instructs a person to withhold a true word.",
       "confidence": "high",
-      "prior": false,
-      "review": "PR17 removed on audit. PR17 is protecting someone from public embarrassment by absorbing the inconvenience oneself. This passage concerns triage of whom correction will profit, which is a different act. The tag was assigned from the practice's name — the fourth instance of that error, and the one that exposed three more."
+      "prior": false
     },
     {
       "ref": "Proverbs 9:13-18",
@@ -683,8 +682,6 @@
         "Proverbs 16:19",
         "Proverbs 18:12",
         "Proverbs 22:4",
-        "Proverbs 25:6",
-        "Proverbs 25:7",
         "Proverbs 29:23"
       ],
       "pericope": "Pride and the low place",
@@ -701,11 +698,9 @@
         "PR13"
       ],
       "mode": "prescribes",
-      "connection": "Humility placed before honour as a matter of sequence, not reward — the low place comes first or the honour does not come. 25:6-7 gives the principle its scene: better to be told come up here than to be moved down in front of everyone.",
+      "connection": "Humility placed before honor as a matter of sequence, not reward — the low place comes first or the honor does not come. The pattern is stated so often it functions as a structural law, which is what the Hidden Life assumes.",
       "confidence": "high",
-      "prior": false,
-      "author_corrected": true,
-      "review": "25:6-7 added on synthesis review. The reviewer proposed it as the Old Testament source for PR25, and the verses plainly belong in this cluster — but PR25 was declined. PR25 is watching for the poor, the elderly and the stranger and giving up your own seat to them; 25:6-7 is prudent self-placement, which is the other half of the same scene and not the practice."
+      "prior": false
     },
     {
       "kind": "cluster",
@@ -995,192 +990,6 @@
       "connection": "Friendship defined by adversity rather than by affinity, and the wounds of a friend rated above an enemy's kisses. Unobligated Loyalty grounded here: the friend who sticks closer than a brother is bound by nothing but choice.",
       "confidence": "high",
       "prior": false
-    },
-    {
-      "ref": "Proverbs 30:1-6",
-      "pericope": "Surely I am the most ignorant man",
-      "pillars": [
-        "humility"
-      ],
-      "stages": [
-        "S6"
-      ],
-      "chapters": [
-        "C23",
-        "C24"
-      ],
-      "practices": [
-        "PR04"
-      ],
-      "mode": "prescribes",
-      "connection": "The oracle opens by disclaiming wisdom and knowledge, then asks four questions no one can answer — who gathered the wind, who bound the waters. The Discipline of Unknowing stated as a credential rather than a confession, and the warning against adding to God's words follows directly from it.",
-      "confidence": "high",
-      "prior": false
-    },
-    {
-      "ref": "Proverbs 30:7-9",
-      "pericope": "Give me neither poverty nor riches",
-      "pillars": [
-        "humility",
-        "truth"
-      ],
-      "stages": [
-        "S4"
-      ],
-      "chapters": [
-        "C18"
-      ],
-      "practices": [
-        "PR04"
-      ],
-      "mode": "prescribes",
-      "connection": "The only prayer in the book, and it asks for a bounded portion — enough food, no more — with the reason given for both directions: fullness produces denial, want produces theft. Holy Detachment argued as a request rather than a discipline, and it treats one's own likely failure as the thing to plan around.",
-      "confidence": "high",
-      "prior": false
-    },
-    {
-      "ref": "Proverbs 30:11-14",
-      "pericope": "A generation pure in their own eyes, yet not washed",
-      "pillars": [
-        "truth"
-      ],
-      "stages": [
-        "S1",
-        "S2"
-      ],
-      "chapters": [
-        "C04",
-        "C07"
-      ],
-      "practices": [
-        "PR01"
-      ],
-      "mode": "counter-example",
-      "connection": "Four generations catalogued, and the second is self-acquittal — pure in their own eyes and not washed from their filthiness. The Moral Audit shown failing at the same point Proverbs 20:9 and 21:2 name, with the verdict reached before the looking.",
-      "confidence": "high",
-      "prior": false
-    },
-    {
-      "ref": "Proverbs 30:15-17",
-      "pericope": "Three things never satisfied; four that don't say enough",
-      "pillars": [
-        "truth"
-      ],
-      "stages": [
-        "S4"
-      ],
-      "chapters": [
-        "C18"
-      ],
-      "practices": [],
-      "mode": "counter-example",
-      "connection": "The leech's two daughters cry give, give, and the list that follows is of appetites with no terminus. Holy Detachment argued from the structure of wanting rather than from the worth of what is wanted.",
-      "confidence": "high",
-      "prior": false
-    },
-    {
-      "ref": "Proverbs 30:18-20",
-      "pericope": "She eats and wipes her mouth and says, I have done nothing wrong",
-      "pillars": [
-        "truth"
-      ],
-      "stages": [
-        "S1"
-      ],
-      "chapters": [
-        "C04"
-      ],
-      "practices": [
-        "PR01"
-      ],
-      "mode": "counter-example",
-      "connection": "Four wonders whose tracks cannot be traced, and then a fifth that is not wonderful at all: a wrong done and immediately erased in the doer's own account. The audit defeated not by concealment from others but by a clean conscience arrived at too quickly.",
-      "confidence": "high",
-      "prior": false
-    },
-    {
-      "ref": "Proverbs 30:24-28",
-      "pericope": "Four things little on the earth, but exceedingly wise",
-      "pillars": [
-        "truth",
-        "humility"
-      ],
-      "stages": [
-        "S4"
-      ],
-      "chapters": [
-        "C13"
-      ],
-      "practices": [
-        "PR13"
-      ],
-      "mode": "exemplifies",
-      "connection": "Ants without strength, conies without power, locusts without a king, a lizard in a palace — each described by what it lacks and then by what it accomplishes anyway. The Hidden Life in its smallest register: work done without oversight, and wisdom located in the doing rather than in the capacity.",
-      "confidence": "high",
-      "prior": false,
-      "review": "PR20 assigned in drafting and removed by the drafter before publication. It is the third time this passage type has pulled PR20 in — after 6:6-11 and the 'Diligence and the sluggard' cluster, both corrected earlier in this same book — and it was made after the known-attractor note naming PR20 had already been written into the review brief. PR13 substituted: unsupervised faithfulness is what the four creatures actually show."
-    },
-    {
-      "ref": "Proverbs 30:32-33",
-      "pericope": "Put your hand over your mouth",
-      "pillars": [
-        "humility"
-      ],
-      "stages": [
-        "S5"
-      ],
-      "chapters": [
-        "C20",
-        "C22"
-      ],
-      "practices": [
-        "PR12"
-      ],
-      "mode": "prescribes",
-      "connection": "If you have exalted yourself or merely thought evil, stop the mouth. The final image is mechanical — churning produces butter, wringing produces blood, forcing wrath produces strife — so restraint is presented as the interruption of a process already running.",
-      "confidence": "high",
-      "prior": false
-    },
-    {
-      "ref": "Proverbs 31:1-9",
-      "pericope": "Open your mouth for the mute",
-      "pillars": [
-        "mercy"
-      ],
-      "stages": [
-        "S4"
-      ],
-      "chapters": [
-        "C16",
-        "C17"
-      ],
-      "practices": [],
-      "mode": "prescribes",
-      "connection": "A king is told what to do with his voice: not to spend it on drink, and to spend it on those who have none. Speech treated as an office held on behalf of the desolate, and the instruction comes from his mother.",
-      "confidence": "high",
-      "prior": false
-    },
-    {
-      "ref": "Proverbs 31:10-31",
-      "pericope": "She opens her arms to the poor; her works praise her in the gates",
-      "pillars": [
-        "mercy",
-        "truth"
-      ],
-      "stages": [
-        "S4"
-      ],
-      "chapters": [
-        "C13",
-        "C14"
-      ],
-      "practices": [
-        "PR05"
-      ],
-      "mode": "exemplifies",
-      "connection": "Twenty-two verses of ordinary labour — wool, flax, a field, a lamp burning late — with the reach to the poor set inside the household economy rather than beside it. The book ends not on a maxim but on a portrait, and what is praised is the fruit of her hands rather than her character described in the abstract.",
-      "confidence": "high",
-      "prior": false
     }
   ],
   "schema_note": "Two entry kinds. A pericope entry has a single contiguous 'ref'. A cluster entry has 'kind':'cluster' and a 'refs' array of non-contiguous verses gathered by theme, used for the aphorism collections where couplets on one subject are scattered across twenty chapters. A cluster claims thematic coverage, not verse coverage: verses not gathered into any cluster are not thereby judged to anchor nothing.",
@@ -1188,14 +997,14 @@
     {
       "pass": 2,
       "reviewer": "second model (Gemini Spark)",
-      "scope": "all 42 entries — 30 pericopes and 12 clusters",
+      "scope": "the 30 pericope entries only; the 12 cluster entries were not reviewed",
       "verdicts": {
-        "sound": 40,
-        "overreach": 2
+        "sound": 29,
+        "overreach": 1
       },
       "record": "index/reviews/proverbs-pass2.json",
-      "adjudication": "Both flags accepted; both were the same error — PR20 assigned from the practice's name rather than its definition. The cluster instance had already been found and corrected independently while auditing, so the reviewer confirms it rather than discovering it. A proposed removal of PR13 from the grace-to-humility entries was raised by the drafter, rejected by the reviewer, and finally declined by the author; those tags stand."
+      "adjudication": "1 accepted in full. The flag exposed that the drafter had been assigning practice tags from practice names rather than from their definitions in WMT A1; see method_rule."
     }
   ],
-  "method_rule": "Practice tags are assigned from the definition in the Praxis Appendix, never from the practice's name. PR20 means breaking one's routine for a guest — the routine is what is given up — and read from the name alone it appears to mean the opposite."
+  "method_rule": "Practice tags are assigned from the definition in the Praxis Appendix, never from the practice's name. PR20 (The Sacrifice of Routine) means breaking one's routine for a guest — the routine is what is given up. Read from the name alone it appears to mean the opposite, and was tagged that way. Every practice name in this curriculum is a compression of a specific patristic teaching and several do not survive being read at face value."
 }

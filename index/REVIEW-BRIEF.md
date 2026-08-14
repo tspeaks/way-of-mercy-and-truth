@@ -113,25 +113,6 @@ Only the first three qualify. *Asking God for wisdom* shares subject matter with
 Discipline of Unknowing and prescribes nothing of the kind; that tag was an error.
 Apply this test to every practice tag and flag any that fails it.
 
-**The test runs both ways.** Apply it as strictly to any tag you propose *adding* as to
-any you propose removing. The record so far: of eleven additions proposed, four were
-accepted, one in part, and six declined. Every rejection you have made has been correct,
-so roughly a third of your additions land while nearly all of your removals do. The six
-declines — PR03 and PR19 on 1 John, PR26 on 3 John, PR25 on Proverbs 25:6-7, PR01 and
-PR18 on Micah — were each read from the practice's name rather than its definition.
-Before proposing a tag, quote the definition to yourself and check that the passage does
-what it says.
-
-**Known attractors.** Two practices repeatedly pull in passages that share their subject
-but not their definition. PR25 (Deferential Seating) has attracted three status-reversal
-passages — a king leaving his throne, a proverb about not seating yourself too high, and
-the Magnificat — where the practice is specifically about giving your own seat to the
-poor, the elderly, or the stranger in a gathering. PR20 (The Sacrifice of Routine) has
-attracted two passages about unsupervised diligence, where the practice is breaking your
-routine when a guest arrives. Check both against their definitions every time. A passage that describes the *condition a practice addresses* is not an
-anchor for it: Micah 7:1-6 shows trust collapsing, which is what the Architecture of
-Peace exists to repair, and that is not the same as showing the practice or its absence.
-
 **Also bad:** stretching a passage to fill a gap. If a practice has no genuine anchor
 in this book, that absence is data. Do not invent one.
 
@@ -186,24 +167,9 @@ A cluster claims thematic coverage, not verse coverage. Verses gathered into no 
 are not thereby judged to anchor nothing — say so if you think a theme is absent
 entirely.
 
-## What you should be reading from
-
-Ask for the **review package** — `index/reviews/<book>-package.md`. It contains every
-entry with its scripture printed in full, followed by the claim made about it.
-
-If you have been given only the index file, say so before reviewing. That file carries
-references, not scripture, and reviewing from it means judging every connection from a
-verse number and the drafter's own summary of the passage — that is, from recall rather
-than from the text. The first four books were reviewed that way, and it shows: every
-flag raised concerned a practice definition, and not one concerned a misreading of a
-passage. That is the review a reader can do without the text in front of them, and it
-is only half the job.
-
-Read the passage before the claim.
-
 ## Your task
 
-Review every entry in the package you are given and return your findings as JSON. For each entry you
+Review every entry in the index file you are given and return your findings as JSON. For each entry you
 would change, give:
 
 ```json
@@ -221,42 +187,28 @@ Then answer four questions about the set as a whole:
    framework into a passage that does not support it? Be specific and be blunt — this
    is the failure mode most worth catching.
 
-2. **Gaps.** Which passages carry weight in this book that the index underplays or
-   misses? Note especially anything the drafter may have skipped because it did not fit
-   the framework neatly.
+2. **Gaps.** Which passages carry weight in James that the index underplays or misses?
+   Note especially anything the drafter may have skipped because it did not fit the
+   framework neatly.
 
 3. **Redundancy.** Where do several entries make the same connection? Which should be
    consolidated?
 
-4. **Confidence calibration.** Every entry carries a confidence marking. Which `high`
-   entries should be downgraded? Which `medium` ones are actually solid? Across the
-   first three books, confidence has barely predicted which entries got flagged — roughly
-   12% of `high` entries versus 22% of `medium` — so treat the markings as weak evidence
-   rather than as a guide to where to look.
-
-5. **Stated claims.** Where a book file contains a `prediction_note`, `structural_note`,
-   or `genre_note`, the drafter is making an argument about the book, not just tagging
-   it. Check those claims against the text. The drafter has in one case graded his own
-   prediction, which is exactly the kind of thing a second reader exists to catch.
+4. **Confidence calibration.** The drafter marked 26 entries `high` and 9 `medium`.
+   Which `high` entries should be downgraded? Which `medium` ones are actually solid?
 
 ---
 
-## Three things worth knowing before you start
+## Two things worth knowing before you start
 
-**Entries marked `prior: true`** were already cited in the curriculum before this index
-existed. They are the author's own prior judgments, not the drafter's — treat them as the
-calibration set. If your reading diverges sharply, say so, but note that you are
-disagreeing with the author rather than with the drafter.
+**Seven entries are marked `prior: true`.** These were already cited in the curriculum
+before this index existed — they are the author's own prior judgments, not the
+drafter's. Treat them as the calibration set. If your reading of them diverges sharply
+from what is recorded, say so, but note that you are disagreeing with the author rather
+than with the drafter.
 
-**Entries marked `author_corrected: true`** were placed or reversed by the author
-directly. These are settled. Note a disagreement if you have one, but do not propose
-changing them.
-
-**Coverage is deliberately uneven, and the unevenness is the evidence.** Every book so
-far anchors a different subset of the thirty practices and twenty-nine chapters: James
-reaches speech and community, Jonah reaches harshness, Proverbs reaches diligence and
-honest dealing, John reaches abiding and the ordinary. A book that anchored everything
-would be evidence of a badly built index, not a rich one. So when a practice or chapter
-goes untouched, that is a claim about the book, and it should be tested rather than
-filled. If you think a missing connection is real, name it — but do not manufacture one
-to close a gap.
+**The coverage is deliberately uneven.** Thirteen of the thirty practices have no anchor
+in James, and five chapters have none. The drafter's position is that this reflects what
+James actually is — a letter about wisdom, speech, partiality, and community, not about
+contemplative interiority. Test that claim rather than assuming it. If you think a
+missing connection is real, name it.

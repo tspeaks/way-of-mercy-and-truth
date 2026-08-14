@@ -1,8 +1,8 @@
 {
   "book": "Luke",
   "translation": "World English Bible (public domain)",
-  "status": "partial — chapters 1-9:62; the travel narrative and beyond follow in sections",
-  "method_version": "2.0",
+  "status": "partial — chapters 1-16; chapters 17-24 follow",
+  "method_version": "2.1",
   "text_source": "index/text/luke.json",
   "note": "Indexed in sections along the book's own seams: the infancy narratives and Galilean opening (1-6), the Galilean ministry (7-9:50), the travel narrative (9:51-19:27), Jerusalem (19:28-21), and the passion and resurrection (22-24). This file covers the first section. Four entries carry prior citations from the curriculum, all in chapter 6.",
   "synoptic_note": "Entries carry an optional synoptic_parallel field recording the corresponding passage in Matthew where one exists. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Luke's own arrangement. All scripture is WEB, per the standing rule in WMT G10.",
@@ -812,6 +812,360 @@
       "practices": [],
       "mode": "prescribes",
       "connection": "Three would-be followers, and the two who volunteer are the two who are refused — each attaching a reasonable delay. Nothing is said about the requests being wrong, only that the plough does not accommodate them.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 10:1-12",
+      "pericope": "Eat what is set before you",
+      "synoptic_parallel": "Matthew 10:5-15",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [
+        "PR20"
+      ],
+      "mode": "prescribes",
+      "connection": "The seventy are sent with no purse and no provisions, told to stay in one house and eat whatever is put in front of them. The instruction cuts both ways — the host's routine is interrupted by arrivals who own nothing, and the guests are forbidden their own preferences about food or lodging.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Luke 10:17-20",
+      "pericope": "Don't rejoice that the spirits are subject to you",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "prescribes",
+      "connection": "They return elated at what worked, and the elation is redirected rather than shared. Effectiveness in ministry named as the wrong thing to be glad about, which is the correction the Hidden Life makes to visible success.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 10:25-37",
+      "pericope": "Which of these proved to be a neighbor?",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27"
+      ],
+      "practices": [
+        "PR19"
+      ],
+      "mode": "prescribes",
+      "connection": "The lawyer asks who qualifies as his neighbour and is answered with a question about who acted like one. Two men with religious duties pass by, and the one who stops is the ethnic outsider — he interrupts his journey, spends his own oil, wine, animal and money, and commits to more. The question is not answered; it is replaced.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 10:38-42",
+      "pericope": "Martha was distracted with much serving",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C09",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Martha is doing the hospitality and is the one gently corrected — anxious and troubled about many things, when one is needed. Not a rebuke of service but of service that has become agitation, and Mary sitting is what gets defended.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 11:5-13",
+      "pericope": "The friend at midnight",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C09",
+        "C13"
+      ],
+      "practices": [
+        "PR07",
+        "PR19"
+      ],
+      "mode": "prescribes",
+      "connection": "A man wakes a neighbour at midnight because a traveller has arrived and he has nothing to set before him. The request is granted for persistence rather than friendship, and the whole scene is one household's routine broken open by another's unexpected guest.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 11:37-44",
+      "pericope": "You cleanse the outside of the cup",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C04",
+        "C07"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "counter-example",
+      "connection": "The complaint is about unwashed hands and the answer is about what the vessel contains. The Moral Audit's premise stated as an accusation: the exterior can be maintained indefinitely while the interior goes unexamined.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 12:13-21",
+      "pericope": "The rich fool: this night your soul is required",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "A man reasons with himself about barns and hears no other voice until God's. The soliloquy is the point — nine first-person pronouns and no mention of anyone else — and the goods survive him.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 12:22-34",
+      "pericope": "Consider the ravens; consider the lilies",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C18",
+        "C24"
+      ],
+      "practices": [
+        "PR04",
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "Anxiety answered by observation, and then the instruction turns concrete: sell what you have and give to the needy. Where the heart is said to follow the treasure rather than direct it, which makes giving a means of relocating the heart rather than a result of having done so.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 12:35-48",
+      "pericope": "To whom much is given, much will be required",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The master returning at an unknown hour finds servants either watching or presuming on the delay, and the passage closes by scaling responsibility to knowledge. Ordinary Faithfulness measured by what is done in the interval when no one is checking.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 13:1-9",
+      "pericope": "Let it alone this year also",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C21",
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "Two disasters are raised and the assumption behind them is refused — those who died were not worse offenders. Then a barren tree gets another year with digging and fertilizer rather than the axe. The Discipline of Gradualism argued as an intercession.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 13:10-17",
+      "pericope": "Ought not this woman be freed on the Sabbath?",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Eighteen years bent double, and the objection raised is scheduling. The argument made is from the ox led to water daily — the rule already bends for livestock, and the question is only whether it bends for a person.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 14:7-14",
+      "pericope": "Go and sit in the lowest place; invite those who cannot repay",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [
+        "PR25"
+      ],
+      "mode": "prescribes",
+      "connection": "The text the Didascalia's instruction descends from, and the practice appears here in both halves: take the low seat yourself, and then fill the table with the poor, the maimed, the lame and the blind — chosen specifically because they have no means of repayment.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 14:25-33",
+      "pericope": "Which of you, desiring to build a tower, doesn't first count the cost?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C05"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Two parables about calculating before committing, set inside the hardest demand in the Gospel. Discipleship is presented as something to be estimated soberly rather than entered on enthusiasm.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 15:1-10",
+      "pericope": "Joy over one sinner who repents",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C29"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "The shepherd leaves ninety-nine to go after one, and the woman lights a lamp and sweeps until she finds the coin. Both stories end not in recovery but in a party, which locates the practice in the celebrating rather than in the retrieval.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 15:11-32",
+      "pericope": "While he was still far off, his father saw him",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C29"
+      ],
+      "practices": [
+        "PR11",
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "The father is watching the road, runs, and interrupts the rehearsed confession before the demotion clause can be spoken. Then the elder son refuses to go in, and the father comes out to him as well — the same going-out performed twice, in opposite directions, and the parable ends without saying whether the second one worked.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 16:1-13",
+      "pericope": "He who is faithful in very little is faithful also in much",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A dishonest manager is commended for shrewdness, not for honesty, and the lesson drawn is about the handling of money as a test of what can be entrusted. Stewardship of a small and compromised thing treated as the qualification for anything larger.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Luke 16:19-31",
+      "pericope": "Lazarus was laid at his gate",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C18"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "counter-example",
+      "connection": "The rich man is not charged with cruelty; the beggar was simply at his gate every day and was stepped past. He knows Lazarus by name from across the gulf, which establishes that he had noticed him all along.",
       "confidence": "high",
       "prior": false
     }

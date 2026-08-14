@@ -1,0 +1,17 @@
+{
+  "scope": "chapters 30-31, all 9 entries; synthesis across the complete 51-entry book",
+  "verdicts": {
+    "sound": 9
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "Proverbs 31:1-9",
+      "proposed": "PR21",
+      "verdict": "declined",
+      "reason": "PR21 is Dorotheos's practice for those without material wealth: seek out the discouraged and the isolated and offer a good word, treating encouragement as genuine alms. This passage instructs a king to use judicial authority on behalf of the mute and the destitute — advocacy exercised from power, which is close to the inverse of the practice's premise. Speech directed toward the poor is PR21's surface, not its definition. A fourth attractor case, alongside PR25, PR20 and PR17."
+    }
+  ],
+  "independent_confirmation": "The drafter caught and corrected the PR20 tag on 30:24-28 before publication, and this review reached the same verdict without prompting. The third instance of that error in a single book, and the first the drafter caught unaided.",
+  "running_tally": "Twenty-one additions proposed across all books: nine accepted, one in part, eleven declined."
+}

@@ -1,6 +1,6 @@
 # Luke — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 1-9:62; the travel narrative and beyond follow in sections. Method version 2.0.
+Scripture: World English Bible (public domain). Index status: partial — chapters 1-16; chapters 17-24 follow. Method version 2.1.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -709,6 +709,340 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** Three would-be followers, and the two who volunteer are the two who are refused — each attaching a reasonable delay. Nothing is said about the requests being wrong, only that the plough does not accommodate them.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S1, S3 · chapters: C05, C10 · practices: none · confidence: high
+
+---
+
+## 40. Luke 10:1-12 — Eat what is set before you
+
+> **10:1** Now after these things, the Lord also appointed seventy others, and sent them two by two ahead of him into every city and place, where he was about to come.
+> **10:2** Then he said to them, “The harvest is indeed plentiful, but the laborers are few. Pray therefore to the Lord of the harvest, that he may send out laborers into his harvest.
+> **10:3** Go your ways. Behold, I send you out as lambs among wolves.
+> **10:4** Carry no purse, nor wallet, nor sandals. Greet no one on the way.
+> **10:5** Into whatever house you enter, first say, ‘Peace be to this house.’
+> **10:6** If a son of peace is there, your peace will rest on him; but if not, it will return to you.
+> **10:7** Remain in that same house, eating and drinking the things they give, for the laborer is worthy of his wages. Don’t go from house to house.
+> **10:8** Into whatever city you enter, and they receive you, eat the things that are set before you.
+> **10:9** Heal the sick who are therein, and tell them, ‘The Kingdom of God has come near to you.’
+> **10:10** But into whatever city you enter, and they don’t receive you, go out into its streets and say,
+> **10:11** ‘Even the dust from your city that clings to us, we wipe off against you. Nevertheless know this, that the Kingdom of God has come near to you.’
+> **10:12** I tell you, it will be more tolerable in that day for Sodom than for that city.
+
+*Also in Luke: Matthew 10:5-15*
+
+**Claim.** The seventy are sent with no purse and no provisions, told to stay in one house and eat whatever is put in front of them. The instruction cuts both ways — the host's routine is interrupted by arrivals who own nothing, and the guests are forbidden their own preferences about food or lodging.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility · stages: S4 · chapters: C17 · practices: PR20 · confidence: medium
+
+---
+
+## 41. Luke 10:17-20 — Don't rejoice that the spirits are subject to you
+
+> **10:17** The seventy returned with joy, saying, “Lord, even the demons are subject to us in your name!”
+> **10:18** He said to them, “I saw Satan having fallen like lightning from heaven.
+> **10:19** Behold, I give you authority to tread on serpents and scorpions, and over all the power of the enemy. Nothing will in any way hurt you.
+> **10:20** Nevertheless, don’t rejoice in this, that the spirits are subject to you, but rejoice that your names are written in heaven.”
+
+**Claim.** They return elated at what worked, and the elation is redirected rather than shared. Effectiveness in ministry named as the wrong thing to be glad about, which is the correction the Hidden Life makes to visible success.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S6 · chapters: C23 · practices: PR13 · confidence: high
+
+---
+
+## 42. Luke 10:25-37 — Which of these proved to be a neighbor?
+
+> **10:25** Behold, a certain lawyer stood up and tested him, saying, “Teacher, what shall I do to inherit eternal life?”
+> **10:26** He said to him, “What is written in the law? How do you read it?”
+> **10:27** He answered, “You shall love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind; and your neighbor as yourself.”
+> **10:28** He said to him, “You have answered correctly. Do this, and you will live.”
+> **10:29** But he, desiring to justify himself, asked Jesus, “Who is my neighbor?”
+> **10:30** Jesus answered, “A certain man was going down from Jerusalem to Jericho, and he fell among robbers, who both stripped him and beat him, and departed, leaving him half dead.
+> **10:31** By chance a certain priest was going down that way. When he saw him, he passed by on the other side.
+> **10:32** In the same way a Levite also, when he came to the place, and saw him, passed by on the other side.
+> **10:33** But a certain Samaritan, as he traveled, came where he was. When he saw him, he was moved with compassion,
+> **10:34** came to him, and bound up his wounds, pouring on oil and wine. He set him on his own animal, and brought him to an inn, and took care of him.
+> **10:35** On the next day, when he departed, he took out two denarii, and gave them to the host, and said to him, ‘Take care of him. Whatever you spend beyond that, I will repay you when I return.’
+> **10:36** Now which of these three do you think seemed to be a neighbor to him who fell among the robbers?”
+> **10:37** He said, “He who showed mercy on him.” Then Jesus said to him, “Go and do likewise.”
+
+**Claim.** The lawyer asks who qualifies as his neighbour and is answered with a question about who acted like one. Two men with religious duties pass by, and the one who stops is the ethnic outsider — he interrupts his journey, spends his own oil, wine, animal and money, and commits to more. The question is not answered; it is replaced.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4, S7 · chapters: C16, C27 · practices: PR19 · confidence: high
+
+---
+
+## 43. Luke 10:38-42 — Martha was distracted with much serving
+
+> **10:38** It happened as they went on their way, he entered into a certain village, and a certain woman named Martha received him into her house.
+> **10:39** She had a sister called Mary, who also sat at Jesus’ feet, and heard his word.
+> **10:40** But Martha was distracted with much serving, and she came up to him, and said, “Lord, don’t you care that my sister left me to serve alone? Ask her therefore to help me.”
+> **10:41** Jesus answered her, “Martha, Martha, you are anxious and troubled about many things,
+> **10:42** but one thing is needed. Mary has chosen the good part, which will not be taken away from her.”
+
+**Claim.** Martha is doing the hospitality and is the one gently corrected — anxious and troubled about many things, when one is needed. Not a rebuke of service but of service that has become agitation, and Mary sitting is what gets defended.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S3, S4 · chapters: C09, C13 · practices: none · confidence: high
+
+---
+
+## 44. Luke 11:5-13 — The friend at midnight
+
+> **11:5** He said to them, “Which of you, if you go to a friend at midnight, and tell him, ‘Friend, lend me three loaves of bread,
+> **11:6** for a friend of mine has come to me from a journey, and I have nothing to set before him,’
+> **11:7** and he from within will answer and say, ‘Don’t bother me. The door is now shut, and my children are with me in bed. I can’t get up and give it to you’?
+> **11:8** I tell you, although he will not rise and give it to him because he is his friend, yet because of his persistence, he will get up and give him as many as he needs.
+> **11:9** “I tell you, keep asking, and it will be given you. Keep seeking, and you will find. Keep knocking, and it will be opened to you.
+> **11:10** For everyone who asks receives. He who seeks finds. To him who knocks it will be opened.
+> **11:11** “Which of you fathers, if your son asks for bread, will give him a stone? Or if he asks for a fish, he won’t give him a snake instead of a fish, will he?
+> **11:12** Or if he asks for an egg, he won’t give him a scorpion, will he?
+> **11:13** If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask him?”
+
+**Claim.** A man wakes a neighbour at midnight because a traveller has arrived and he has nothing to set before him. The request is granted for persistence rather than friendship, and the whole scene is one household's routine broken open by another's unexpected guest.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S3, S4 · chapters: C09, C13 · practices: PR07, PR19 · confidence: high
+
+---
+
+## 45. Luke 11:37-44 — You cleanse the outside of the cup
+
+> **11:37** Now as he spoke, a certain Pharisee asked him to dine with him. He went in, and sat at the table.
+> **11:38** When the Pharisee saw it, he marveled that he had not first washed himself before dinner.
+> **11:39** The Lord said to him, “Now you Pharisees cleanse the outside of the cup and of the platter, but your inward part is full of extortion and wickedness.
+> **11:40** You foolish ones, didn’t he who made the outside make the inside also?
+> **11:41** But give for gifts to the needy those things which are within, and behold, all things will be clean to you.
+> **11:42** But woe to you Pharisees! For you tithe mint and rue and every herb, but you bypass justice and the love of God. You ought to have done these, and not to have left the other undone.
+> **11:43** Woe to you Pharisees! For you love the best seats in the synagogues, and the greetings in the marketplaces.
+> **11:44** Woe to you, scribes and Pharisees, hypocrites! For you are like hidden graves, and the men who walk over them don’t know it.”
+
+**Claim.** The complaint is about unwashed hands and the answer is about what the vessel contains. The Moral Audit's premise stated as an accusation: the exterior can be maintained indefinitely while the interior goes unexamined.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S1, S2 · chapters: C04, C07 · practices: PR01 · confidence: high
+
+---
+
+## 46. Luke 12:13-21 — The rich fool: this night your soul is required
+
+> **12:13** One of the multitude said to him, “Teacher, tell my brother to divide the inheritance with me.”
+> **12:14** But he said to him, “Man, who made me a judge or an arbitrator over you?”
+> **12:15** He said to them, “Beware! Keep yourselves from covetousness, for a man’s life doesn’t consist of the abundance of the things which he possesses.”
+> **12:16** He spoke a parable to them, saying, “The ground of a certain rich man brought forth abundantly.
+> **12:17** He reasoned within himself, saying, ‘What will I do, because I don’t have room to store my crops?’
+> **12:18** He said, ‘This is what I will do. I will pull down my barns, and build bigger ones, and there I will store all my grain and my goods.
+> **12:19** I will tell my soul, “Soul, you have many goods laid up for many years. Take your ease, eat, drink, be merry.”’
+> **12:20** “But God said to him, ‘You foolish one, tonight your soul is required of you. The things which you have prepared—whose will they be?’
+> **12:21** So is he who lays up treasure for himself, and is not rich toward God.”
+
+**Claim.** A man reasons with himself about barns and hears no other voice until God's. The soliloquy is the point — nine first-person pronouns and no mention of anyone else — and the goods survive him.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, humility · stages: S4 · chapters: C18 · practices: none · confidence: high
+
+---
+
+## 47. Luke 12:22-34 — Consider the ravens; consider the lilies
+
+> **12:22** He said to his disciples, “Therefore I tell you, don’t be anxious for your life, what you will eat, nor yet for your body, what you will wear.
+> **12:23** Life is more than food, and the body is more than clothing.
+> **12:24** Consider the ravens: they don’t sow, they don’t reap, they have no warehouse or barn, and God feeds them. How much more valuable are you than birds!
+> **12:25** Which of you by being anxious can add a cubit to his height?
+> **12:26** If then you aren’t able to do even the least things, why are you anxious about the rest?
+> **12:27** Consider the lilies, how they grow. They don’t toil, neither do they spin; yet I tell you, even Solomon in all his glory was not arrayed like one of these.
+> **12:28** But if this is how God clothes the grass in the field, which today exists, and tomorrow is cast into the oven, how much more will he clothe you, O you of little faith?
+> **12:29** Don’t seek what you will eat or what you will drink; neither be anxious.
+> **12:30** For the nations of the world seek after all of these things, but your Father knows that you need these things.
+> **12:31** But seek God’s Kingdom, and all these things will be added to you.
+> **12:32** Don’t be afraid, little flock, for it is your Father’s good pleasure to give you the Kingdom.
+> **12:33** Sell that which you have, and give gifts to the needy. Make for yourselves purses which don’t grow old, a treasure in the heavens that doesn’t fail, where no thief approaches, neither moth destroys.
+> **12:34** For where your treasure is, there will your heart be also.
+
+**Claim.** Anxiety answered by observation, and then the instruction turns concrete: sell what you have and give to the needy. Where the heart is said to follow the treasure rather than direct it, which makes giving a means of relocating the heart rather than a result of having done so.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S4, S6 · chapters: C18, C24 · practices: PR04, PR05 · confidence: high
+
+---
+
+## 48. Luke 12:35-48 — To whom much is given, much will be required
+
+> **12:35** “Let your waist be dressed and your lamps burning.
+> **12:36** Be like men watching for their lord, when he returns from the marriage feast; that, when he comes and knocks, they may immediately open to him.
+> **12:37** Blessed are those servants, whom the lord will find watching when he comes. Most certainly I tell you, that he will dress himself, and make them recline, and will come and serve them.
+> **12:38** They will be blessed if he comes in the second or third watch, and finds them so.
+> **12:39** But know this, that if the master of the house had known in what hour the thief was coming, he would have watched, and not allowed his house to be broken into.
+> **12:40** Therefore be ready also, for the Son of Man is coming in an hour that you don’t expect him.”
+> **12:41** Peter said to him, “Lord, are you telling this parable to us, or to everybody?”
+> **12:42** The Lord said, “Who then is the faithful and wise steward, whom his lord will set over his household, to give them their portion of food at the right times?
+> **12:43** Blessed is that servant whom his lord will find doing so when he comes.
+> **12:44** Truly I tell you, that he will set him over all that he has.
+> **12:45** But if that servant says in his heart, ‘My lord delays his coming,’ and begins to beat the menservants and the maidservants, and to eat and drink, and to be drunken,
+> **12:46** then the lord of that servant will come in a day when he isn’t expecting him, and in an hour that he doesn’t know, and will cut him in two, and place his portion with the unfaithful.
+> **12:47** That servant, who knew his lord’s will, and didn’t prepare, nor do what he wanted, will be beaten with many stripes,
+> **12:48** but he who didn’t know, and did things worthy of stripes, will be beaten with few stripes. To whomever much is given, of him will much be required; and to whom much was entrusted, of him more will be asked.
+
+**Claim.** The master returning at an unknown hour finds servants either watching or presuming on the delay, and the passage closes by scaling responsibility to knowledge. Ordinary Faithfulness measured by what is done in the interval when no one is checking.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S4 · chapters: C13 · practices: none · confidence: high
+
+---
+
+## 49. Luke 13:1-9 — Let it alone this year also
+
+> **13:1** Now there were some present at the same time who told him about the Galileans, whose blood Pilate had mixed with their sacrifices.
+> **13:2** Jesus answered them, “Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered such things?
+> **13:3** I tell you, no, but unless you repent, you will all perish in the same way.
+> **13:4** Or those eighteen, on whom the tower in Siloam fell, and killed them; do you think that they were worse offenders than all the men who dwell in Jerusalem?
+> **13:5** I tell you, no, but, unless you repent, you will all perish in the same way.”
+> **13:6** He spoke this parable. “A certain man had a fig tree planted in his vineyard, and he came seeking fruit on it, and found none.
+> **13:7** He said to the vine dresser, ‘Behold, these three years I have come looking for fruit on this fig tree, and found none. Cut it down. Why does it waste the soil?’
+> **13:8** He answered, ‘Lord, leave it alone this year also, until I dig around it, and fertilize it.
+> **13:9** If it bears fruit, fine; but if not, after that, you can cut it down.’”
+
+**Claim.** Two disasters are raised and the assumption behind them is refused — those who died were not worse offenders. Then a barren tree gets another year with digging and fertilizer rather than the axe. The Discipline of Gradualism argued as an intercession.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility · stages: S5, S6 · chapters: C21, C25 · practices: PR14 · confidence: high
+
+---
+
+## 50. Luke 13:10-17 — Ought not this woman be freed on the Sabbath?
+
+> **13:10** He was teaching in one of the synagogues on the Sabbath day.
+> **13:11** Behold, there was a woman who had a spirit of infirmity eighteen years, and she was bent over, and could in no way straighten herself up.
+> **13:12** When Jesus saw her, he called her, and said to her, “Woman, you are freed from your infirmity.”
+> **13:13** He laid his hands on her, and immediately she stood up straight, and glorified God.
+> **13:14** The ruler of the synagogue, being indignant because Jesus had healed on the Sabbath, said to the multitude, “There are six days in which men ought to work. Therefore come on those days and be healed, and not on the Sabbath day!”
+> **13:15** Therefore the Lord answered him, “You hypocrites! Doesn’t each one of you free his ox or his donkey from the stall on the Sabbath, and lead him away to water?
+> **13:16** Ought not this woman, being a daughter of Abraham, whom Satan had bound eighteen long years, be freed from this bondage on the Sabbath day?”
+> **13:17** As he said these things, all his adversaries were disappointed, and all the multitude rejoiced for all the glorious things that were done by him.
+
+**Claim.** Eighteen years bent double, and the objection raised is scheduling. The argument made is from the ox led to water daily — the rule already bends for livestock, and the question is only whether it bends for a person.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4 · chapters: C16 · practices: none · confidence: high
+
+---
+
+## 51. Luke 14:7-14 — Go and sit in the lowest place; invite those who cannot repay
+
+> **14:7** He spoke a parable to those who were invited, when he noticed how they chose the best seats, and said to them,
+> **14:8** “When you are invited by anyone to a marriage feast, don’t sit in the best seat, since perhaps someone more honorable than you might be invited by him,
+> **14:9** and he who invited both of you would come and tell you, ‘Make room for this person.’ Then you would begin, with shame, to take the lowest place.
+> **14:10** But when you are invited, go and sit in the lowest place, so that when he who invited you comes, he may tell you, ‘Friend, move up higher.’ Then you will be honored in the presence of all who sit at the table with you.
+> **14:11** For everyone who exalts himself will be humbled, and whoever humbles himself will be exalted.”
+> **14:12** He also said to the one who had invited him, “When you make a dinner or a supper, don’t call your friends, nor your brothers, nor your kinsmen, nor rich neighbors, or perhaps they might also return the favor, and pay you back.
+> **14:13** But when you make a feast, ask the poor, the maimed, the lame, or the blind;
+> **14:14** and you will be blessed, because they don’t have the resources to repay you. For you will be repaid in the resurrection of the righteous.”
+
+**Claim.** The text the Didascalia's instruction descends from, and the practice appears here in both halves: take the low seat yourself, and then fill the table with the poor, the maimed, the lame and the blind — chosen specifically because they have no means of repayment.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, mercy · stages: S4 · chapters: C16 · practices: PR25 · confidence: high
+
+---
+
+## 52. Luke 14:25-33 — Which of you, desiring to build a tower, doesn't first count the cost?
+
+> **14:25** Now great multitudes were going with him. He turned and said to them,
+> **14:26** “If anyone comes to me, and doesn’t disregard his own father, mother, wife, children, brothers, and sisters, yes, and his own life also, he can’t be my disciple.
+> **14:27** Whoever doesn’t bear his own cross, and come after me, can’t be my disciple.
+> **14:28** For which of you, desiring to build a tower, doesn’t first sit down and count the cost, to see if he has enough to complete it?
+> **14:29** Or perhaps, when he has laid a foundation, and is not able to finish, everyone who sees begins to mock him,
+> **14:30** saying, ‘This man began to build, and wasn’t able to finish.’
+> **14:31** Or what king, as he goes to encounter another king in war, will not sit down first and consider whether he is able with ten thousand to meet him who comes against him with twenty thousand?
+> **14:32** Or else, while the other is yet a great way off, he sends an envoy, and asks for conditions of peace.
+> **14:33** So therefore whoever of you who doesn’t renounce all that he has, he can’t be my disciple.
+
+**Claim.** Two parables about calculating before committing, set inside the hardest demand in the Gospel. Discipleship is presented as something to be estimated soberly rather than entered on enthusiasm.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S1 · chapters: C05 · practices: none · confidence: high
+
+---
+
+## 53. Luke 15:1-10 — Joy over one sinner who repents
+
+> **15:1** Now all the tax collectors and sinners were coming close to him to hear him.
+> **15:2** The Pharisees and the scribes murmured, saying, “This man welcomes sinners, and eats with them.”
+> **15:3** He told them this parable.
+> **15:4** “Which of you men, if you had one hundred sheep, and lost one of them, wouldn’t leave the ninety-nine in the wilderness, and go after the one that was lost, until he found it?
+> **15:5** When he has found it, he carries it on his shoulders, rejoicing.
+> **15:6** When he comes home, he calls together his friends and his neighbors, saying to them, ‘Rejoice with me, for I have found my sheep which was lost!’
+> **15:7** I tell you that even so there will be more joy in heaven over one sinner who repents, than over ninety-nine righteous people who need no repentance.
+> **15:8** Or what woman, if she had ten drachma coins, if she lost one drachma coin, wouldn’t light a lamp, sweep the house, and seek diligently until she found it?
+> **15:9** When she has found it, she calls together her friends and neighbors, saying, ‘Rejoice with me, for I have found the drachma which I had lost.’
+> **15:10** Even so, I tell you, there is joy in the presence of the angels of God over one sinner repenting.”
+
+**Claim.** The shepherd leaves ninety-nine to go after one, and the woman lights a lamp and sweeps until she finds the coin. Both stories end not in recovery but in a party, which locates the practice in the celebrating rather than in the retrieval.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S7 · chapters: C29 · practices: PR29 · confidence: high
+
+---
+
+## 54. Luke 15:11-32 — While he was still far off, his father saw him
+
+> **15:11** He said, “A certain man had two sons.
+> **15:12** The younger of them said to his father, ‘Father, give me my share of your property.’ He divided his livelihood between them.
+> **15:13** Not many days after, the younger son gathered all of this together and traveled into a far country. There he wasted his property with riotous living.
+> **15:14** When he had spent all of it, there arose a severe famine in that country, and he began to be in need.
+> **15:15** He went and joined himself to one of the citizens of that country, and he sent him into his fields to feed pigs.
+> **15:16** He wanted to fill his belly with the husks that the pigs ate, but no one gave him any.
+> **15:17** But when he came to himself he said, ‘How many hired servants of my father’s have bread enough to spare, and I’m dying with hunger!
+> **15:18** I will get up and go to my father, and will tell him, “Father, I have sinned against heaven, and in your sight.
+> **15:19** I am no more worthy to be called your son. Make me as one of your hired servants.”’
+> **15:20** “He arose, and came to his father. But while he was still far off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.
+> **15:21** The son said to him, ‘Father, I have sinned against heaven, and in your sight. I am no longer worthy to be called your son.’
+> **15:22** “But the father said to his servants, ‘Bring out the best robe, and put it on him. Put a ring on his hand, and shoes on his feet.
+> **15:23** Bring the fattened calf, kill it, and let us eat, and celebrate;
+> **15:24** for this, my son, was dead, and is alive again. He was lost, and is found.’ They began to celebrate.
+> **15:25** “Now his elder son was in the field. As he came near to the house, he heard music and dancing.
+> **15:26** He called one of the servants to him, and asked what was going on.
+> **15:27** He said to him, ‘Your brother has come, and your father has killed the fattened calf, because he has received him back safe and healthy.’
+> **15:28** But he was angry, and would not go in. Therefore his father came out, and begged him.
+> **15:29** But he answered his father, ‘Behold, these many years I have served you, and I never disobeyed a commandment of yours, but you never gave me a goat, that I might celebrate with my friends.
+> **15:30** But when this, your son, came, who has devoured your living with prostitutes, you killed the fattened calf for him.’
+> **15:31** “He said to him, ‘Son, you are always with me, and all that is mine is yours.
+> **15:32** But it was appropriate to celebrate and be glad, for this, your brother, was dead, and is alive again. He was lost, and is found.’”
+
+**Claim.** The father is watching the road, runs, and interrupts the rehearsed confession before the demotion clause can be spoken. Then the elder son refuses to go in, and the father comes out to him as well — the same going-out performed twice, in opposite directions, and the parable ends without saying whether the second one worked.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S5, S7 · chapters: C19, C29 · practices: PR11, PR29 · confidence: high
+
+---
+
+## 55. Luke 16:1-13 — He who is faithful in very little is faithful also in much
+
+> **16:1** He also said to his disciples, “There was a certain rich man who had a manager. An accusation was made to him that this man was wasting his possessions.
+> **16:2** He called him, and said to him, ‘What is this that I hear about you? Give an accounting of your management, for you can no longer be manager.’
+> **16:3** “The manager said within himself, ‘What will I do, seeing that my lord is taking away the management position from me? I don’t have strength to dig. I am ashamed to beg.
+> **16:4** I know what I will do, so that when I am removed from management, they may receive me into their houses.’
+> **16:5** Calling each one of his lord’s debtors to him, he said to the first, ‘How much do you owe to my lord?’
+> **16:6** He said, ‘A hundred batos of oil.’ He said to him, ‘Take your bill, and sit down quickly and write fifty.’
+> **16:7** Then he said to another, ‘How much do you owe?’ He said, ‘A hundred cors of wheat.’ He said to him, ‘Take your bill, and write eighty.’
+> **16:8** “His lord commended the dishonest manager because he had done wisely, for the children of this world are, in their own generation, wiser than the children of the light.
+> **16:9** I tell you, make for yourselves friends by means of unrighteous mammon, so that when you fail, they may receive you into the eternal tents.
+> **16:10** He who is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much.
+> **16:11** If therefore you have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?
+> **16:12** If you have not been faithful in that which is another’s, who will give you that which is your own?
+> **16:13** No servant can serve two masters, for either he will hate the one, and love the other; or else he will hold to one, and despise the other. You aren’t able to serve God and mammon.”
+
+**Claim.** A dishonest manager is commended for shrewdness, not for honesty, and the lesson drawn is about the handling of money as a test of what can be entrusted. Stewardship of a small and compromised thing treated as the qualification for anything larger.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S4 · chapters: C13, C18 · practices: none · confidence: medium
+
+---
+
+## 56. Luke 16:19-31 — Lazarus was laid at his gate
+
+> **16:19** “Now there was a certain rich man, and he was clothed in purple and fine linen, living in luxury every day.
+> **16:20** A certain beggar, named Lazarus, was laid at his gate, full of sores,
+> **16:21** and desiring to be fed with the crumbs that fell from the rich man’s table. Yes, even the dogs came and licked his sores.
+> **16:22** It happened that the beggar died, and that he was carried away by the angels to Abraham’s bosom. The rich man also died, and was buried.
+> **16:23** In Hades, he lifted up his eyes, being in torment, and saw Abraham far off, and Lazarus at his bosom.
+> **16:24** He cried and said, ‘Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue! For I am in anguish in this flame.’
+> **16:25** “But Abraham said, ‘Son, remember that you, in your lifetime, received your good things, and Lazarus, in the same way, bad things. But now here he is comforted and you are in anguish.
+> **16:26** Besides all this, between us and you there is a great gulf fixed, that those who want to pass from here to you are not able, and that none may cross over from there to us.’
+> **16:27** “He said, ‘I ask you therefore, father, that you would send him to my father’s house;
+> **16:28** for I have five brothers, that he may testify to them, so they won’t also come into this place of torment.’
+> **16:29** “But Abraham said to him, ‘They have Moses and the prophets. Let them listen to them.’
+> **16:30** “He said, ‘No, father Abraham, but if one goes to them from the dead, they will repent.’
+> **16:31** “He said to him, ‘If they don’t listen to Moses and the prophets, neither will they be persuaded if one rises from the dead.’”
+
+**Claim.** The rich man is not charged with cruelty; the beggar was simply at his gate every day and was stepped past. He knows Lazarus by name from across the gulf, which establishes that he had noticed him all along.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: mercy, truth · stages: S4, S7 · chapters: C16, C18 · practices: PR05 · confidence: high
 
 ---
 

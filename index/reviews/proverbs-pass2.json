@@ -1,6 +1,27 @@
-{"scope":"pericope entries only (30 of 42); cluster entries not reviewed in this pass",
- "verdicts":{"sound":29,"overreach":1},
- "flagged":[{"ref":"Proverbs 6:6-11","verdict":"overreach",
-   "note":"Tagging PR20 fails the strict practice test. The ant's unprompted diligence illustrates Ordinary Faithfulness (C13), not setting aside routine to perform mercy.",
-   "suggested_change":{"chapters":["C13"],"practices":[]},
-   "adjudication":"Accepted in full. The reviewer was right and the cause was worse than a judgment call: the tag had been assigned from the practice's name without checking its definition in WMT A1. The identical error was then found and corrected in the 'Diligence and the sluggard' cluster, which was outside this review's scope."}]}
+{
+  "scope": "all 42 entries — 30 pericopes and 12 clusters",
+  "verdicts": {
+    "sound": 40,
+    "overreach": 2
+  },
+  "flagged": [
+    {
+      "ref": "Proverbs 6:6-11",
+      "verdict": "overreach",
+      "note": "Tagging PR20 fails the strict practice test. The ant's unprompted labor illustrates Ordinary Faithfulness (C13), not setting aside personal routine to perform mercy.",
+      "adjudication": "Accepted. Cause was worse than a judgment call: the tag was assigned from the practice's name without checking its definition in WMT A1."
+    },
+    {
+      "ref": "Proverbs · Diligence and the sluggard",
+      "verdict": "overreach",
+      "note": "Tagging PR20 over this cluster fails the same test; steady labor represents Ordinary Faithfulness, not surrendering routine for mercy.",
+      "adjudication": "Accepted, and independently found and corrected during the drafter's own audit before this review arrived. Two routes to the same correction. PR13 substituted."
+    }
+  ],
+  "author_ruling": {
+    "practice": "PR13",
+    "history": "The drafter proposed removing PR13 from James 4:4-6, Proverbs 3:32-35, and the 'Pride and the low place' cluster, arguing that grace given to the humble is not the same as hidden faithfulness. The reviewer marked all three sound. The author first accepted the removal, then reversed it on reflection.",
+    "ruling": "PR13 stands on all four entries. The Hidden Life reaches the whole posture — the low place held without display — not only unsupervised work.",
+    "status": "settled"
+  }
+}

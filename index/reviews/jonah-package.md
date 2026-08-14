@@ -1,6 +1,6 @@
 # Jonah — review package
 
-Scripture: World English Bible (public domain). Index status: first pass. Method version 0.4.
+Scripture: World English Bible (public domain). Index status: complete — all 48 verses; reviewed. Method version 0.4.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -147,7 +147,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S4 · chapters: C16 · practices: PR03, PR08 · confidence: high
 
-**Amended at review** — PR25 removed at review and PR03, PR08 substituted — the reviewer was right that Deferential Seating concerns placement in an assembly, not penitential ritual. C18 declined: the robe comes off as mourning dress, which the text frames penitentially rather than as detachment practiced as a discipline.
+**Amended at review** — Questioned on audit and retained. PR08 is grief and confusion expressed honestly before God, while Nineveh's sackcloth is penitential. The tag stands; the tension is recorded here rather than resolved by deletion, so a later reader can weigh it against the passage.
 
 ---
 

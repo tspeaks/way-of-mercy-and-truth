@@ -1,6 +1,6 @@
 # James — review package
 
-Scripture: World English Bible (public domain). Index status: pilot. Method version 0.3.
+Scripture: World English Bible (public domain). Index status: complete — 107 of 108 verses; only the epistolary greeting at 1:1 is unindexed; reviewed. Method version 0.4.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -167,6 +167,8 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
 
+**Amended at review** — Questioned on audit and retained. PR29 is receiving the repentant back without lingering probation, while mercy triumphing over judgment states the principle beneath that act. The tag stands; the tension is recorded here rather than resolved by deletion, so a later reader can weigh it against the passage.
+
 ---
 
 ## 13. James 2:14-17 — Faith without works is dead
@@ -324,6 +326,10 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Tags.** pillars: humility · stages: S5, S6 · chapters: C22, C23 · practices: PR13 · confidence: high
 
+**Author placed** — settled by the author. Note disagreement if you have it, but do not propose a change.
+
+**Amended at review** — PR13 retained after author review. The drafter argued these were a name-reading error and the reviewer marked all three sound; the author reversed the removal on reflection. The Hidden Life is read here as reaching the whole posture — the low place held without display, which is what grace is said to be given to — not only unsupervised work.
+
 ---
 
 ## 25. James 4:7-10 — Draw near to God and he will draw near to you
@@ -348,7 +354,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** Judging a neighbor recast as judging the law itself — an argument from standing rather than from kindness. Grounds Covering Weakness and the sequence discipline of Self-Accusation.
 
-**Tags.** pillars: mercy, humility · stages: S4, S5 · chapters: C15, C22 · practices: PR03, PR17 · confidence: high
+**Tags.** pillars: mercy, humility · stages: S4, S5 · chapters: C15, C22 · practices: PR03 · confidence: high
+
+**Amended at review** — Questioned on audit and retained. PR03 is looking at your own portion first in any friction, while this passage argues from the standing to judge at all. The tag stands; the tension is recorded here rather than resolved by deletion, so a later reader can weigh it against the passage.
 
 ---
 
@@ -398,7 +406,9 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Claim.** Grumbling treated as a judicial act with the judge already at the door. Small-scale complaint given weight the Architecture of Peace assumes but does not always argue.
 
-**Tags.** pillars: mercy · stages: S4 · chapters: C15 · practices: PR17 · confidence: medium
+**Tags.** pillars: mercy · stages: S4 · chapters: C15 · practices: none · confidence: medium
+
+**Amended at review** — PR17 removed on audit. PR17 is protecting someone from public embarrassment by absorbing the inconvenience oneself. This passage concerns complaint between members, which is a different act. The tag was assigned from the practice's name — the fourth instance of that error, and the one that exposed three more.
 
 ---
 

@@ -1,6 +1,6 @@
 # Luke — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 1-6 only; the remaining eighteen chapters follow in sections. Method version 1.9.
+Scripture: World English Bible (public domain). Index status: partial — chapters 1-9:62; the travel narrative and beyond follow in sections. Method version 1.9.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -416,6 +416,297 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** The question is asked directly before the parable rather than left implicit in it, and the builder who succeeds is the one who dug deep. The proof test of C12 with the labour named — the foundation is invisible and is the whole difference.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S3 · chapters: C12 · practices: PR01 · confidence: high
+
+---
+
+## 23. Luke 7:1-10 — I am not worthy that you should come under my roof
+
+> **7:1** After he had finished speaking in the hearing of the people, he entered into Capernaum.
+> **7:2** A certain centurion’s servant, who was dear to him, was sick and at the point of death.
+> **7:3** When he heard about Jesus, he sent to him elders of the Jews, asking him to come and save his servant.
+> **7:4** When they came to Jesus, they begged him earnestly, saying, “He is worthy for you to do this for him,
+> **7:5** for he loves our nation, and he built our synagogue for us.”
+> **7:6** Jesus went with them. When he was now not far from the house, the centurion sent friends to him, saying to him, “Lord, don’t trouble yourself, for I am not worthy for you to come under my roof.
+> **7:7** Therefore I didn’t even think myself worthy to come to you; but say the word, and my servant will be healed.
+> **7:8** For I also am a man placed under authority, having under myself soldiers. I tell this one, ‘Go!’ and he goes; and to another, ‘Come!’ and he comes; and to my servant, ‘Do this,’ and he does it.”
+> **7:9** When Jesus heard these things, he marveled at him, and turned and said to the multitude who followed him, “I tell you, I have not found such great faith, no, not in Israel.”
+> **7:10** Those who were sent, returning to the house, found that the servant who had been sick was well.
+
+*Also in Luke: Matthew 8:5-13*
+
+**Claim.** The elders argue that he is worthy because he built their synagogue; he sends word that he is not. Two assessments of the same man, and the one the text commends is his own, made from outside the covenant community entirely.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S4, S6 · chapters: C17, C23 · practices: none · confidence: high
+
+---
+
+## 24. Luke 7:11-17 — He had compassion on her, and gave him to his mother
+
+> **7:11** It happened soon afterwards, that he went to a city called Nain. Many of his disciples, along with a great multitude, went with him.
+> **7:12** Now when he drew near to the gate of the city, behold, one who was dead was carried out, the only son of his mother, and she was a widow. Many people of the city were with her.
+> **7:13** When the Lord saw her, he had compassion on her, and said to her, “Don’t cry.”
+> **7:14** He came near and touched the coffin, and the bearers stood still. He said, “Young man, I tell you, arise!”
+> **7:15** He who was dead sat up, and began to speak. And he gave him to his mother.
+> **7:16** Fear took hold of all, and they glorified God, saying, “A great prophet has arisen among us!” and, “God has visited his people!”
+> **7:17** This report went out concerning him in the whole of Judea, and in all the surrounding region.
+
+**Claim.** No one asks. He sees a widow following her only son's coffin, and the narrator gives the motive before the miracle. Mercy initiated by sight rather than by request, and the child is handed back to his mother rather than kept.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4, S7 · chapters: C16, C27 · practices: none · confidence: high
+
+---
+
+## 25. Luke 7:18-23 — Are you the one, or should we look for another?
+
+> **7:18** The disciples of John told him about all these things.
+> **7:19** John, calling to himself two of his disciples, sent them to Jesus, saying, “Are you the one who is coming, or should we look for another?”
+> **7:20** When the men had come to him, they said, “John the Baptizer has sent us to you, saying, ‘Are you he who comes, or should we look for another?’”
+> **7:21** In that hour he cured many of diseases and plagues and evil spirits; and to many who were blind he gave sight.
+> **7:22** Jesus answered them, “Go and tell John the things which you have seen and heard: that the blind receive their sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised up, and the poor have good news preached to them.
+> **7:23** Blessed is he who finds no occasion for stumbling in me.”
+
+**Claim.** The man who announced him asks from prison whether he was right. Doubt in the most credentialed witness available, answered with evidence rather than reassurance and without a word of rebuke.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S2, S5 · chapters: C08, C19 · practices: none · confidence: high
+
+---
+
+## 26. Luke 7:24-35 — Wisdom is justified by all her children
+
+> **7:24** When John’s messengers had departed, he began to tell the multitudes about John, “What did you go out into the wilderness to see? A reed shaken by the wind?
+> **7:25** But what did you go out to see? A man clothed in soft clothing? Behold, those who are gorgeously dressed, and live delicately, are in kings’ courts.
+> **7:26** But what did you go out to see? A prophet? Yes, I tell you, and much more than a prophet.
+> **7:27** This is he of whom it is written, ‘Behold, I send my messenger before your face, who will prepare your way before you.’
+> **7:28** “For I tell you, among those who are born of women there is not a greater prophet than John the Baptizer, yet he who is least in the Kingdom of God is greater than he.”
+> **7:29** When all the people and the tax collectors heard this, they declared God to be just, having been baptized with John’s baptism.
+> **7:30** But the Pharisees and the lawyers rejected the counsel of God, not being baptized by him themselves.
+> **7:31** “To what then will I liken the people of this generation? What are they like?
+> **7:32** They are like children who sit in the marketplace, and call one to another, saying, ‘We piped to you, and you didn’t dance. We mourned, and you didn’t weep.’
+> **7:33** For John the Baptizer came neither eating bread nor drinking wine, and you say, ‘He has a demon.’
+> **7:34** The Son of Man has come eating and drinking, and you say, ‘Behold, a gluttonous man, and a drunkard; a friend of tax collectors and sinners!’
+> **7:35** Wisdom is justified by all her children.”
+
+**Claim.** John came neither eating nor drinking and was called demon-possessed; the Son of Man came eating and drinking and was called a glutton. The generation is shown rejecting both available options, which exposes the objection as prior to the evidence.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S2 · chapters: C08 · practices: none · confidence: high
+
+---
+
+## 27. Luke 7:36-50 — He to whom little is forgiven loves little
+
+> **7:36** One of the Pharisees invited him to eat with him. He entered into the Pharisee’s house, and sat at the table.
+> **7:37** Behold, a woman in the city who was a sinner, when she knew that he was reclining in the Pharisee’s house, she brought an alabaster jar of ointment.
+> **7:38** Standing behind at his feet weeping, she began to wet his feet with her tears, and she wiped them with the hair of her head, kissed his feet, and anointed them with the ointment.
+> **7:39** Now when the Pharisee who had invited him saw it, he said to himself, “This man, if he were a prophet, would have perceived who and what kind of woman this is who touches him, that she is a sinner.”
+> **7:40** Jesus answered him, “Simon, I have something to tell you.” He said, “Teacher, say on.”
+> **7:41** “A certain lender had two debtors. The one owed five hundred denarii, and the other fifty.
+> **7:42** When they couldn’t pay, he forgave them both. Which of them therefore will love him most?”
+> **7:43** Simon answered, “He, I suppose, to whom he forgave the most.” He said to him, “You have judged correctly.”
+> **7:44** Turning to the woman, he said to Simon, “Do you see this woman? I entered into your house, and you gave me no water for my feet, but she has wet my feet with her tears, and wiped them with the hair of her head.
+> **7:45** You gave me no kiss, but she, since the time I came in, has not ceased to kiss my feet.
+> **7:46** You didn’t anoint my head with oil, but she has anointed my feet with ointment.
+> **7:47** Therefore I tell you, her sins, which are many, are forgiven, for she loved much. But to whom little is forgiven, the same loves little.”
+> **7:48** He said to her, “Your sins are forgiven.”
+> **7:49** Those who sat at the table with him began to say to themselves, “Who is this who even forgives sins?”
+> **7:50** He said to the woman, “Your faith has saved you. Go in peace.”
+
+**Claim.** Simon's judgment is silent and interior, and it is answered with a parable about arithmetic. The woman's extravagance is then itemized against his omissions — no water, no kiss, no oil — so the accusation is turned by comparison rather than by defence.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility · stages: S5, S7 · chapters: C22, C29 · practices: PR29, PR03 · confidence: high
+
+---
+
+## 28. Luke 8:1-3 — Who served them from their possessions
+
+> **8:1** It happened soon afterwards, that he went about through cities and villages, preaching and bringing the good news of the Kingdom of God. With him were the twelve,
+> **8:2** and certain women who had been healed of evil spirits and infirmities: Mary who was called Magdalene, from whom seven demons had gone out;
+> **8:3** and Joanna, the wife of Chuzas, Herod’s steward; Susanna; and many others; who served them from their possessions.
+
+**Claim.** Named women funding the work out of their own means, listed as plainly as the twelve. Habitual Almsgiving recorded as infrastructure rather than as an incident — the ministry ran on it.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S1, S4 · chapters: C05, C13 · practices: PR05 · confidence: high
+
+---
+
+## 29. Luke 8:4-15 — The seed among thorns; cares, riches, and pleasures
+
+> **8:4** When a great multitude came together, and people from every city were coming to him, he spoke by a parable.
+> **8:5** “The farmer went out to sow his seed. As he sowed, some fell along the road, and it was trampled under foot, and the birds of the sky devoured it.
+> **8:6** Other seed fell on the rock, and as soon as it grew, it withered away, because it had no moisture.
+> **8:7** Other fell amid the thorns, and the thorns grew with it, and choked it.
+> **8:8** Other fell into the good ground, and grew, and brought forth fruit one hundred times.” As he said these things, he called out, “He who has ears to hear, let him hear!”
+> **8:9** Then his disciples asked him, “What does this parable mean?”
+> **8:10** He said, “To you it is given to know the mysteries of the Kingdom of God, but to the rest in parables; that ‘seeing they may not see, and hearing they may not understand.’
+> **8:11** Now the parable is this: The seed is the word of God.
+> **8:12** Those along the road are those who hear, then the devil comes, and takes away the word from their heart, that they may not believe and be saved.
+> **8:13** Those on the rock are they who, when they hear, receive the word with joy; but these have no root, who believe for a while, then fall away in time of temptation.
+> **8:14** That which fell among the thorns, these are those who have heard, and as they go on their way they are choked with cares, riches, and pleasures of life, and bring no fruit to maturity.
+> **8:15** That in the good ground, these are such as in an honest and good heart, having heard the word, hold it tightly, and bring forth fruit with patience.
+
+**Claim.** Three failures and one success, and the thorn ground is the one that grows and then goes on being choked over time. Fruit produced with patience is what distinguishes the good ground, which makes duration part of the definition.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S3, S6 · chapters: C12, C25 · practices: none · confidence: high
+
+---
+
+## 30. Luke 8:16-18 — Be careful therefore how you hear
+
+> **8:16** “No one, when he has lit a lamp, covers it with a container, or puts it under a bed; but puts it on a stand, that those who enter in may see the light.
+> **8:17** For nothing is hidden, that will not be revealed; nor anything secret, that will not be known and come to light.
+> **8:18** Be careful therefore how you hear. For whoever has, to him will be given; and whoever doesn’t have, from him will be taken away even that which he thinks he has.”
+
+**Claim.** The instruction is not what to hear but how, placed between a lamp that must not be covered and a warning that what seems possessed can be taken away. Watchfulness applied to reception itself.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S2, S5 · chapters: C06, C20 · practices: PR12 · confidence: high
+
+---
+
+## 31. Luke 8:40-56 — Who touched me? — and Jairus waits
+
+> **8:40** It happened, when Jesus returned, that the multitude welcomed him, for they were all waiting for him.
+> **8:41** Behold, there came a man named Jairus, and he was a ruler of the synagogue. He fell down at Jesus’ feet, and begged him to come into his house,
+> **8:42** for he had an only daughter, about twelve years of age, and she was dying. But as he went, the multitudes pressed against him.
+> **8:43** A woman who had a flow of blood for twelve years, who had spent all her living on physicians, and could not be healed by any,
+> **8:44** came behind him, and touched the fringe of his cloak, and immediately the flow of her blood stopped.
+> **8:45** Jesus said, “Who touched me?” When all denied it, Peter and those with him said, “Master, the multitudes press and jostle you, and you say, ‘Who touched me?’”
+> **8:46** But Jesus said, “Someone did touch me, for I perceived that power has gone out of me.”
+> **8:47** When the woman saw that she was not hidden, she came trembling, and falling down before him declared to him in the presence of all the people the reason why she had touched him, and how she was healed immediately.
+> **8:48** He said to her, “Daughter, cheer up. Your faith has made you well. Go in peace.”
+> **8:49** While he still spoke, one from the ruler of the synagogue’s house came, saying to him, “Your daughter is dead. Don’t trouble the Teacher.”
+> **8:50** But Jesus hearing it, answered him, “Don’t be afraid. Only believe, and she will be healed.”
+> **8:51** When he came to the house, he didn’t allow anyone to enter in, except Peter, John, James, the father of the child, and her mother.
+> **8:52** All were weeping and mourning her, but he said, “Don’t weep. She isn’t dead, but sleeping.”
+> **8:53** They were ridiculing him, knowing that she was dead.
+> **8:54** But he put them all outside, and taking her by the hand, he called, saying, “Child, arise!”
+> **8:55** Her spirit returned, and she rose up immediately. He commanded that something be given to her to eat.
+> **8:56** Her parents were amazed, but he commanded them to tell no one what had been done.
+
+**Claim.** He is en route to a dying child when an interruption stops him, and he stops fully — asking, waiting, letting the woman tell the whole story while the clock runs out. Spontaneous Service at its most expensive: the interruption is treated as the work, and the delay costs the girl her life before it is undone.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4 · chapters: C16 · practices: PR19 · confidence: high
+
+---
+
+## 32. Luke 9:10-17 — You give them something to eat
+
+> **9:10** The apostles, when they had returned, told him what things they had done. He took them, and withdrew apart to a deserted place of a city called Bethsaida.
+> **9:11** But the multitudes, perceiving it, followed him. He welcomed them, and spoke to them of the Kingdom of God, and he cured those who needed healing.
+> **9:12** The day began to wear away; and the twelve came, and said to him, “Send the multitude away, that they may go into the surrounding villages and farms, and lodge, and get food, for we are here in a deserted place.”
+> **9:13** But he said to them, “You give them something to eat.” They said, “We have no more than five loaves and two fish, unless we should go and buy food for all these people.”
+> **9:14** For they were about five thousand men. He said to his disciples, “Make them sit down in groups of about fifty each.”
+> **9:15** They did so, and made them all sit down.
+> **9:16** He took the five loaves and the two fish, and looking up to the sky, he blessed them, and broke them, and gave them to the disciples to set before the multitude.
+> **9:17** They ate, and were all filled. They gathered up twelve baskets of broken pieces that were left over.
+
+**Claim.** The disciples propose sending the crowd away to fend for themselves and are told to feed them instead. The impossibility is not disputed; the responsibility is simply not transferred.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4 · chapters: C16 · practices: none · confidence: high
+
+---
+
+## 33. Luke 9:18-27 — Let him deny himself and take up his cross daily
+
+> **9:18** It happened, as he was praying alone, that the disciples were with him, and he asked them, “Who do the multitudes say that I am?”
+> **9:19** They answered, “‘John the Baptizer,’ but others say, ‘Elijah,’ and others, that one of the old prophets is risen again.”
+> **9:20** He said to them, “But who do you say that I am?” Peter answered, “The Christ of God.”
+> **9:21** But he warned them, and commanded them to tell this to no one,
+> **9:22** saying, “The Son of Man must suffer many things, and be rejected by the elders, chief priests, and scribes, and be killed, and the third day be raised up.”
+> **9:23** He said to all, “If anyone desires to come after me, let him deny himself, take up his cross, and follow me.
+> **9:24** For whoever desires to save his life will lose it, but whoever will lose his life for my sake, the same will save it.
+> **9:25** For what does it profit a man if he gains the whole world, and loses or forfeits his own self?
+> **9:26** For whoever will be ashamed of me and of my words, of him will the Son of Man be ashamed, when he comes in his glory, and the glory of the Father, and of the holy angels.
+> **9:27** But I tell you the truth: There are some of those who stand here, who will in no way taste of death, until they see the Kingdom of God.”
+
+**Claim.** The word daily is Luke's, and it changes the instruction from a single decisive act into an ordinary repeated one. Self-denial relocated from martyrdom into the calendar.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S4, S6 · chapters: C18, C23 · practices: none · confidence: high
+
+---
+
+## 34. Luke 9:28-36 — It is good for us to be here — not knowing what he said
+
+> **9:28** It happened about eight days after these sayings, that he took with him Peter, John, and James, and went up onto the mountain to pray.
+> **9:29** As he was praying, the appearance of his face was altered, and his clothing became white and dazzling.
+> **9:30** Behold, two men were talking with him, who were Moses and Elijah,
+> **9:31** who appeared in glory, and spoke of his departure, which he was about to accomplish at Jerusalem.
+> **9:32** Now Peter and those who were with him were heavy with sleep, but when they were fully awake, they saw his glory, and the two men who stood with him.
+> **9:33** It happened, as they were parting from him, that Peter said to Jesus, “Master, it is good for us to be here. Let’s make three tents: one for you, and one for Moses, and one for Elijah,” not knowing what he said.
+> **9:34** While he said these things, a cloud came and overshadowed them, and they were afraid as they entered into the cloud.
+> **9:35** A voice came out of the cloud, saying, “This is my beloved Son. Listen to him!”
+> **9:36** When the voice came, Jesus was found alone. They were silent, and told no one in those days any of the things which they had seen.
+
+**Claim.** Peter proposes three shelters to keep the moment, and the narrator notes he did not know what he was saying. The Discipline of Unknowing shown by its absence at the exact point where the impulse is to build something permanent on an experience.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility · stages: S6 · chapters: C24, C26 · practices: PR04 · confidence: high
+
+---
+
+## 35. Luke 9:37-43 — How long shall I be with you and bear with you?
+
+> **9:37** It happened on the next day, when they had come down from the mountain, that a great multitude met him.
+> **9:38** Behold, a man from the crowd called out, saying, “Teacher, I beg you to look at my son, for he is my only child.
+> **9:39** Behold, a spirit takes him, he suddenly cries out, and it convulses him so that he foams, and it hardly departs from him, bruising him severely.
+> **9:40** I begged your disciples to cast it out, and they couldn’t.”
+> **9:41** Jesus answered, “Faithless and perverse generation, how long shall I be with you and bear with you? Bring your son here.”
+> **9:42** While he was still coming, the demon threw him down and convulsed him violently. But Jesus rebuked the unclean spirit, and healed the boy, and gave him back to his father.
+> **9:43** They were all astonished at the majesty of God. But while all were marveling at all the things which Jesus did, he said to his disciples,
+
+**Claim.** The disciples have failed, the father is desperate, and the exasperation is stated aloud before the boy is healed and handed back. Unreciprocated Care with the cost audible — the bearing is named as bearing.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S5 · chapters: C21 · practices: PR22 · confidence: medium
+
+---
+
+## 36. Luke 9:46-48 — He who is least among you all is great
+
+> **9:46** There arose an argument among them about which of them was the greatest.
+> **9:47** Jesus, perceiving the reasoning of their hearts, took a little child, and set him by his side,
+> **9:48** and said to them, “Whoever receives this little child in my name receives me. Whoever receives me receives him who sent me. For whoever is least among you all, this one will be great.”
+
+**Claim.** An argument about rank is answered by setting a child beside him and speaking about reception rather than about status. The measure offered is not who defers to whom but who is received when nothing is gained by it.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S4 · chapters: C16 · practices: none · confidence: high
+
+---
+
+## 37. Luke 9:49-50 — Don't forbid him, for he who is not against us is for us
+
+> **9:49** John answered, “Master, we saw someone casting out demons in your name, and we forbade him, because he doesn’t follow with us.”
+> **9:50** Jesus said to him, “Don’t forbid him, for he who is not against us is for us.”
+
+**Claim.** John reports having stopped someone outside the group from acting in the name, expecting approval. The boundary he enforced is dissolved rather than defended, immediately after the lesson about greatness.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4 · chapters: C15, C17 · practices: none · confidence: high
+
+---
+
+## 38. Luke 9:51-56 — You don't know of what kind of spirit you are
+
+> **9:51** It came to pass, when the days were near that he should be taken up, he intently set his face to go to Jerusalem,
+> **9:52** and sent messengers before his face. They went, and entered into a village of the Samaritans, so as to prepare for him.
+> **9:53** They didn’t receive him, because he was traveling with his face set towards Jerusalem.
+> **9:54** When his disciples, James and John, saw this, they said, “Lord, do you want us to command fire to come down from the sky, and destroy them, just as Elijah did?”
+> **9:55** But he turned and rebuked them, “You don’t know of what kind of spirit you are.
+> **9:56** For the Son of Man didn’t come to destroy men’s lives, but to save them.” They went to another village.
+
+**Claim.** A Samaritan village refuses hospitality and two disciples propose fire from heaven. The rebuke goes to them rather than to the village, and it names the disposition rather than the tactic — Non-Retaliation enforced against his own men.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: mercy · stages: S5, S7 · chapters: C22, C27 · practices: PR06 · confidence: high
+
+---
+
+## 39. Luke 9:57-62 — No one who puts his hand to the plow and looks back
+
+> **9:57** As they went on the way, a certain man said to him, “I want to follow you wherever you go, Lord.”
+> **9:58** Jesus said to him, “The foxes have holes, and the birds of the sky have nests, but the Son of Man has no place to lay his head.”
+> **9:59** He said to another, “Follow me!” But he said, “Lord, allow me first to go and bury my father.”
+> **9:60** But Jesus said to him, “Leave the dead to bury their own dead, but you go and announce the Kingdom of God.”
+> **9:61** Another also said, “I want to follow you, Lord, but first allow me to say good-bye to those who are at my house.”
+> **9:62** But Jesus said to him, “No one, having put his hand to the plow, and looking back, is fit for the Kingdom of God.”
+
+**Claim.** Three would-be followers, and the two who volunteer are the two who are refused — each attaching a reasonable delay. Nothing is said about the requests being wrong, only that the plough does not accommodate them.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S1, S3 · chapters: C05, C10 · practices: none · confidence: high
 
 ---
 

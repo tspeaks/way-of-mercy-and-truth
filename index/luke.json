@@ -1,7 +1,7 @@
 {
   "book": "Luke",
   "translation": "World English Bible (public domain)",
-  "status": "partial — chapters 1-6 only; the remaining eighteen chapters follow in sections",
+  "status": "partial — chapters 1-9:62; the travel narrative and beyond follow in sections",
   "method_version": "1.9",
   "text_source": "index/text/luke.json",
   "note": "Indexed in sections along the book's own seams: the infancy narratives and Galilean opening (1-6), the Galilean ministry (7-9:50), the travel narrative (9:51-19:27), Jerusalem (19:28-21), and the passion and resurrection (22-24). This file covers the first section. Four entries carry prior citations from the curriculum, all in chapter 6.",
@@ -464,6 +464,352 @@
       ],
       "mode": "prescribes",
       "connection": "The question is asked directly before the parable rather than left implicit in it, and the builder who succeeds is the one who dug deep. The proof test of C12 with the labour named — the foundation is invisible and is the whole difference.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 7:1-10",
+      "pericope": "I am not worthy that you should come under my roof",
+      "synoptic_parallel": "Matthew 8:5-13",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C17",
+        "C23"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The elders argue that he is worthy because he built their synagogue; he sends word that he is not. Two assessments of the same man, and the one the text commends is his own, made from outside the covenant community entirely.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 7:11-17",
+      "pericope": "He had compassion on her, and gave him to his mother",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "No one asks. He sees a widow following her only son's coffin, and the narrator gives the motive before the miracle. Mercy initiated by sight rather than by request, and the child is handed back to his mother rather than kept.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 7:18-23",
+      "pericope": "Are you the one, or should we look for another?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C08",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The man who announced him asks from prison whether he was right. Doubt in the most credentialed witness available, answered with evidence rather than reassurance and without a word of rebuke.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 7:24-35",
+      "pericope": "Wisdom is justified by all her children",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "John came neither eating nor drinking and was called demon-possessed; the Son of Man came eating and drinking and was called a glutton. The generation is shown rejecting both available options, which exposes the objection as prior to the evidence.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 7:36-50",
+      "pericope": "He to whom little is forgiven loves little",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C22",
+        "C29"
+      ],
+      "practices": [
+        "PR29",
+        "PR03"
+      ],
+      "mode": "prescribes",
+      "connection": "Simon's judgment is silent and interior, and it is answered with a parable about arithmetic. The woman's extravagance is then itemized against his omissions — no water, no kiss, no oil — so the accusation is turned by comparison rather than by defence.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 8:1-3",
+      "pericope": "Who served them from their possessions",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C05",
+        "C13"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "Named women funding the work out of their own means, listed as plainly as the twelve. Habitual Almsgiving recorded as infrastructure rather than as an incident — the ministry ran on it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 8:4-15",
+      "pericope": "The seed among thorns; cares, riches, and pleasures",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C12",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Three failures and one success, and the thorn ground is the one that grows and then goes on being choked over time. Fruit produced with patience is what distinguishes the good ground, which makes duration part of the definition.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 8:16-18",
+      "pericope": "Be careful therefore how you hear",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C06",
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "The instruction is not what to hear but how, placed between a lamp that must not be covered and a warning that what seems possessed can be taken away. Watchfulness applied to reception itself.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 8:40-56",
+      "pericope": "Who touched me? — and Jairus waits",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [
+        "PR19"
+      ],
+      "mode": "exemplifies",
+      "connection": "He is en route to a dying child when an interruption stops him, and he stops fully — asking, waiting, letting the woman tell the whole story while the clock runs out. Spontaneous Service at its most expensive: the interruption is treated as the work, and the delay costs the girl her life before it is undone.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 9:10-17",
+      "pericope": "You give them something to eat",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The disciples propose sending the crowd away to fend for themselves and are told to feed them instead. The impossibility is not disputed; the responsibility is simply not transferred.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 9:18-27",
+      "pericope": "Let him deny himself and take up his cross daily",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C18",
+        "C23"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The word daily is Luke's, and it changes the instruction from a single decisive act into an ordinary repeated one. Self-denial relocated from martyrdom into the calendar.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 9:28-36",
+      "pericope": "It is good for us to be here — not knowing what he said",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C26"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "counter-example",
+      "connection": "Peter proposes three shelters to keep the moment, and the narrator notes he did not know what he was saying. The Discipline of Unknowing shown by its absence at the exact point where the impulse is to build something permanent on an experience.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 9:37-43",
+      "pericope": "How long shall I be with you and bear with you?",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21"
+      ],
+      "practices": [
+        "PR22"
+      ],
+      "mode": "exemplifies",
+      "connection": "The disciples have failed, the father is desperate, and the exasperation is stated aloud before the boy is healed and handed back. Unreciprocated Care with the cost audible — the bearing is named as bearing.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Luke 9:46-48",
+      "pericope": "He who is least among you all is great",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "An argument about rank is answered by setting a child beside him and speaking about reception rather than about status. The measure offered is not who defers to whom but who is received when nothing is gained by it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 9:49-50",
+      "pericope": "Don't forbid him, for he who is not against us is for us",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "John reports having stopped someone outside the group from acting in the name, expecting approval. The boundary he enforced is dissolved rather than defended, immediately after the lesson about greatness.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 9:51-56",
+      "pericope": "You don't know of what kind of spirit you are",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C22",
+        "C27"
+      ],
+      "practices": [
+        "PR06"
+      ],
+      "mode": "counter-example",
+      "connection": "A Samaritan village refuses hospitality and two disciples propose fire from heaven. The rebuke goes to them rather than to the village, and it names the disposition rather than the tactic — Non-Retaliation enforced against his own men.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Luke 9:57-62",
+      "pericope": "No one who puts his hand to the plow and looks back",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C05",
+        "C10"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Three would-be followers, and the two who volunteer are the two who are refused — each attaching a reasonable delay. Nothing is said about the requests being wrong, only that the plough does not accommodate them.",
       "confidence": "high",
       "prior": false
     }

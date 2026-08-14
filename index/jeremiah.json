@@ -1,8 +1,8 @@
 {
   "book": "Jeremiah",
   "translation": "World English Bible (public domain)",
-  "status": "partial — chapters 1-33; chapters 34-52 follow",
-  "method_version": "2.0",
+  "status": "complete — selective across chapters 34-52; see coverage_note",
+  "method_version": "2.1",
   "text_source": "index/text/jeremiah.json",
   "note": "The longest book in the canon at 1,364 verses, indexed in sections along its own seams: the call and early oracles (1-10), the confessions (11-20), kings and false prophets (21-29), the Book of Consolation (30-33), the fall narratives (34-45), and the oracles against the nations (46-52). This file covers the first section.",
   "sectioning_note": "Sectioning is a practical necessity, not a claim about the book's unity. Each section is indexed against the same standard and validated the same way, and the file's status field names what is done. A reader should be able to see at a glance that the index is partial rather than inferring it from the absence of entries.",
@@ -1129,6 +1129,225 @@
       "connection": "Spoken while he is still shut up in the court of the guard, and the promise is health, cure, and abundance of peace to a city about to fall. The invitation to call is issued to a man already imprisoned for the message.",
       "confidence": "high",
       "prior": false
+    },
+    {
+      "ref": "Jeremiah 35:1-19",
+      "pericope": "The Rechabites, who would not drink the wine",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C13",
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "exemplifies",
+      "connection": "Wine is set before them in the temple itself and they decline, citing an instruction from an ancestor generations back. The point drawn is not abstinence but continuity — a command kept for two centuries by ordinary people, set against a nation that would not keep one delivered directly.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 36:1-26",
+      "pericope": "The king cut it with the knife and cast it into the fire",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Three or four columns at a time, cut off and burned while the fire is going, and the narrator records that the king and his servants were not afraid and did not tear their garments. Three men intercede and are ignored. Rejection performed as an administrative act.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 36:27-32",
+      "pericope": "Take another scroll, and write in it all the former words",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C25"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "prescribes",
+      "connection": "The response to the destroyed work is to do it again, with more added. No lament over the loss is recorded and no protection is promised for the second scroll.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 37:11-21",
+      "pericope": "I am not falling away to the Chaldeans",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Arrested at the gate on a false charge of desertion, beaten, and imprisoned in a vaulted cell. When the king asks secretly whether there is a word, he gives the same answer that put him there, and then asks not to be sent back to that house.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 38:1-13",
+      "pericope": "Ebedmelech took the rags and the worn-out clothes",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C17"
+      ],
+      "practices": [
+        "PR19"
+      ],
+      "mode": "exemplifies",
+      "connection": "A foreign eunuch goes to the king unprompted, gets a hearing, and pulls a man out of a cistern with thirty helpers. The detail preserved is that he sent down old rags first, to pad the ropes under Jeremiah's armpits — kindness attending to what would have hurt.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 38:14-28",
+      "pericope": "If I give you counsel, you will not listen to me",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C08",
+        "C15"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "A private consultation in which the king wants the answer without the consequences and is afraid of his own officials. The prophet names the fear accurately, gives the counsel anyway, and then agrees to a cover story to keep them both alive.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 39:15-18",
+      "pericope": "Because you have put your trust in me",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C17",
+        "C29"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The single promise of deliverance in the fall of the city goes to the Ethiopian who pulled him out of the mud. Delivered in the middle of a national catastrophe, to a foreigner, for one act.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 42:1-6",
+      "pericope": "Whether it be good, or whether it be evil, we will obey",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C12"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The remnant swears to obey whatever answer comes, before it comes, and calls God a true and faithful witness against them if they do not. Ten days pass before the word arrives.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 42:7-22",
+      "pericope": "You dealt deceitfully against your own souls",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C04",
+        "C12"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "counter-example",
+      "connection": "They had decided before they asked. The charge is that they dealt deceitfully against their own souls — self-deception named as the mechanism, with the oath they swore ten days earlier quoted back to them.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 45:1-5",
+      "pericope": "Do you seek great things for yourself? Don't seek them",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "prescribes",
+      "connection": "Baruch has written the scroll twice, been hunted for it, and says he is weary with his groaning and finds no rest. The answer grants the exhaustion, refuses the ambition beneath it, and promises only his life as spoils wherever he goes. Five verses, and they are the whole of what the Hidden Life costs.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Jeremiah 52:1-16",
+      "pericope": "They left of the poorest of the land to be vineyard keepers",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The book closes with an inventory: the breach, the famine, the sons killed before their father's eyes, the eyes then put out, the house burned. And the poorest are left behind to tend the vines — the last detail recorded is who remained.",
+      "confidence": "high",
+      "prior": false
     }
   ],
   "review_log": [
@@ -1162,5 +1381,6 @@
       "record": "index/reviews/jeremiah-21-33-pass2.json",
       "adjudication": "Clean pass. Two gap proposals declined, both on established precedents."
     }
-  ]
+  ],
+  "coverage_note": "Chapters 34-52 are indexed selectively. The narrative material — the Rechabites, the burned scroll, the cistern, the flight to Egypt, Baruch's word, the fall — is covered. The oracles against the nations in chapters 46-51 are not: six chapters of judgment on Egypt, Moab, Ammon, Edom, Damascus, Kedar, Elam and Babylon, which on a plain reading anchor nothing in a curriculum of personal formation. Indexing them would have required either allegory or a stretched tag, and both were declined, as with the wasfs in Song of Solomon."
 }

@@ -1,10 +1,12 @@
 # Jeremiah — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 1-33; chapters 34-52 follow. Method version 2.0.
+Scripture: World English Bible (public domain). Index status: complete — selective across chapters 34-52; see coverage_note. Method version 2.1.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
 **Note.** The longest book in the canon at 1,364 verses, indexed in sections along its own seams: the call and early oracles (1-10), the confessions (11-20), kings and false prophets (21-29), the Book of Consolation (30-33), the fall narratives (34-45), and the oracles against the nations (46-52). This file covers the first section.
+
+**Coverage note.** Chapters 34-52 are indexed selectively. The narrative material — the Rechabites, the burned scroll, the cistern, the flight to Egypt, Baruch's word, the fall — is covered. The oracles against the nations in chapters 46-51 are not: six chapters of judgment on Egypt, Moab, Ammon, Edom, Damascus, Kedar, Elam and Babylon, which on a plain reading anchor nothing in a curriculum of personal formation. Indexing them would have required either allegory or a stretched tag, and both were declined, as with the wasfs in Song of Solomon.
 
 **Sectioning note.** Sectioning is a practical necessity, not a claim about the book's unity. Each section is indexed against the same standard and validated the same way, and the file's status field names what is done. A reader should be able to see at a glance that the index is partial rather than inferring it from the absence of entries.
 
@@ -880,6 +882,242 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** Spoken while he is still shut up in the court of the guard, and the promise is health, cure, and abundance of peace to a city about to fall. The invitation to call is issued to a man already imprisoned for the message.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S5 · chapters: C19 · practices: PR07 · confidence: high
+
+---
+
+## 57. Jeremiah 35:1-19 — The Rechabites, who would not drink the wine
+
+> **35:1** The word which came to Jeremiah from Yahweh in the days of Jehoiakim the son of Josiah, king of Judah, saying,
+> **35:2** Go to the house of the Rechabites, and speak to them, and bring them into the house of Yahweh, into one of the rooms, and give them wine to drink.
+> **35:3** Then I took Jaazaniah the son of Jeremiah, the son of Habazziniah, and his brothers, and all his sons, and the whole house of the Rechabites;
+> **35:4** and I brought them into the house of Yahweh, into the room of the sons of Hanan the son of Igdaliah, the man of God, which was by the room of the princes, which was above the room of Maaseiah the son of Shallum, the keeper of the threshold.
+> **35:5** I set before the sons of the house of the Rechabites bowls full of wine, and cups; and I said to them, Drink wine!
+> **35:6** But they said, We will drink no wine; for Jonadab the son of Rechab, our father, commanded us, saying, You shall drink no wine, neither you, nor your sons, forever:
+> **35:7** neither shall you build house, nor sow seed, nor plant vineyard, nor have any; but all your days you shall dwell in tents; that you may live many days in the land in which you live.
+> **35:8** We have obeyed the voice of Jonadab the son of Rechab, our father, in all that he commanded us, to drink no wine all our days, we, our wives, our sons, or our daughters;
+> **35:9** nor to build houses for us to dwell in; neither have we vineyard, nor field, nor seed:
+> **35:10** but we have lived in tents, and have obeyed, and done according to all that Jonadab our father commanded us.
+> **35:11** But it happened, when Nebuchadnezzar king of Babylon came up into the land, that we said, Come, and let us go to Jerusalem for fear of the army of the Chaldeans, and for fear of the army of the Syrians; so we dwell at Jerusalem.
+> **35:12** Then came the word of Yahweh to Jeremiah, saying,
+> **35:13** Thus says Yahweh of Armies, the God of Israel: Go, and tell the men of Judah and the inhabitants of Jerusalem, Will you not receive instruction to listen to my words? says Yahweh.
+> **35:14** The words of Jonadab the son of Rechab, that he commanded his sons, not to drink wine, are performed; and to this day they drink none, for they obey their father’s commandment: but I have spoken to you, rising up early and speaking; and you have not listened to me.
+> **35:15** I have sent also to you all my servants the prophets, rising up early and sending them, saying, Return now every man from his evil way, and amend your doings, and don’t go after other gods to serve them, and you shall dwell in the land which I have given to you and to your fathers: but you have not inclined your ear, nor listened to me.
+> **35:16** Because the sons of Jonadab the son of Rechab have performed the commandment of their father which he commanded them, but this people has not listened to me;
+> **35:17** therefore thus says Yahweh, the God of Armies, the God of Israel: Behold, I will bring on Judah and on all the inhabitants of Jerusalem all the evil that I have pronounced against them; because I have spoken to them, but they have not heard; and I have called to them, but they have not answered.
+> **35:18** Jeremiah said to the house of the Rechabites, Thus says Yahweh of Armies, the God of Israel: Because you have obeyed the commandment of Jonadab your father, and kept all his precepts, and done according to all that he commanded you;
+> **35:19** therefore thus says Yahweh of Armies, the God of Israel: Jonadab the son of Rechab shall not want a man to stand before me forever.
+
+**Claim.** Wine is set before them in the temple itself and they decline, citing an instruction from an ancestor generations back. The point drawn is not abstinence but continuity — a command kept for two centuries by ordinary people, set against a nation that would not keep one delivered directly.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4, S6 · chapters: C13, C25 · practices: PR14 · confidence: high
+
+---
+
+## 58. Jeremiah 36:1-26 — The king cut it with the knife and cast it into the fire
+
+> **36:1** It happened in the fourth year of Jehoiakim the son of Josiah, king of Judah, that this word came to Jeremiah from Yahweh, saying,
+> **36:2** Take a scroll of a book, and write therein all the words that I have spoken to you against Israel, and against Judah, and against all the nations, from the day I spoke to you, from the days of Josiah, even to this day.
+> **36:3** It may be that the house of Judah will hear all the evil which I purpose to do to them; that they may return every man from his evil way; that I may forgive their iniquity and their sin.
+> **36:4** Then Jeremiah called Baruch the son of Neriah; and Baruch wrote from the mouth of Jeremiah all the words of Yahweh, which he had spoken to him, on a scroll of a book.
+> **36:5** Jeremiah commanded Baruch, saying, I am shut up; I can’t go into the house of Yahweh:
+> **36:6** therefore you go, and read in the scroll, which you have written from my mouth, the words of Yahweh in the ears of the people in Yahweh’s house on the fast day; and also you shall read them in the ears of all Judah who come out of their cities.
+> **36:7** It may be they will present their supplication before Yahweh, and will return everyone from his evil way; for great is the anger and the wrath that Yahweh has pronounced against this people.
+> **36:8** Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of Yahweh in Yahweh’s house.
+> **36:9** Now it happened in the fifth year of Jehoiakim the son of Josiah, king of Judah, in the ninth month, that all the people in Jerusalem, and all the people who came from the cities of Judah to Jerusalem, proclaimed a fast before Yahweh.
+> **36:10** Then read Baruch in the book the words of Jeremiah in the house of Yahweh, in the room of Gemariah the son of Shaphan, the scribe, in the upper court, at the entry of the new gate of Yahweh’s house, in the ears of all the people.
+> **36:11** When Micaiah the son of Gemariah, the son of Shaphan, had heard out of the book all the words of Yahweh,
+> **36:12** he went down into the king’s house, into the scribe’s room: and behold, all the princes were sitting there, Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes.
+> **36:13** Then Micaiah declared to them all the words that he had heard, when Baruch read the book in the ears of the people.
+> **36:14** Therefore all the princes sent Jehudi the son of Nethaniah, the son of Shelemiah, the son of Cushi, to Baruch, saying, Take in your hand the scroll in which you have read in the ears of the people, and come. So Baruch the son of Neriah took the scroll in his hand, and came to them.
+> **36:15** They said to him, Sit down now, and read it in our ears. So Baruch read it in their ears.
+> **36:16** Now it happened, when they had heard all the words, they turned in fear one toward another, and said to Baruch, We will surely tell the king of all these words.
+> **36:17** They asked Baruch, saying, Tell us now, How did you write all these words at his mouth?
+> **36:18** Then Baruch answered them, He pronounced all these words to me with his mouth, and I wrote them with ink in the book.
+> **36:19** Then the princes said to Baruch, Go, hide, you and Jeremiah; and let no man know where you are.
+> **36:20** They went in to the king into the court; but they had laid up the scroll in the room of Elishama the scribe; and they told all the words in the ears of the king.
+> **36:21** So the king sent Jehudi to get the scroll; and he took it out of the room of Elishama the scribe. Jehudi read it in the ears of the king, and in the ears of all the princes who stood beside the king.
+> **36:22** Now the king was sitting in the winter house in the ninth month: and there was a fire in the brazier burning before him.
+> **36:23** It happened, when Jehudi had read three or four leaves, that the king cut it with the penknife, and cast it into the fire that was in the brazier, until all the scroll was consumed in the fire that was in the brazier.
+> **36:24** They were not afraid, nor tore their garments, neither the king, nor any of his servants who heard all these words.
+> **36:25** Moreover Elnathan and Delaiah and Gemariah had made intercession to the king that he would not burn the scroll; but he would not hear them.
+> **36:26** The king commanded Jerahmeel the king’s son, and Seraiah the son of Azriel, and Shelemiah the son of Abdeel, to take Baruch the scribe and Jeremiah the prophet; but Yahweh hid them.
+
+**Claim.** Three or four columns at a time, cut off and burned while the fire is going, and the narrator records that the king and his servants were not afraid and did not tear their garments. Three men intercede and are ignored. Rejection performed as an administrative act.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S2 · chapters: C08 · practices: none · confidence: high
+
+---
+
+## 59. Jeremiah 36:27-32 — Take another scroll, and write in it all the former words
+
+> **36:27** Then the word of Yahweh came to Jeremiah, after that the king had burned the scroll, and the words which Baruch wrote at the mouth of Jeremiah, saying,
+> **36:28** Take again another scroll, and write in it all the former words that were in the first scroll, which Jehoiakim the king of Judah has burned.
+> **36:29** Concerning Jehoiakim king of Judah you shall say, Thus says Yahweh: You have burned this scroll, saying, Why have you written therein, saying, The king of Babylon shall certainly come and destroy this land, and shall cause to cease from there man and animal?
+> **36:30** Therefore thus says Yahweh concerning Jehoiakim king of Judah: He shall have none to sit on the throne of David; and his dead body shall be cast out in the day to the heat, and in the night to the frost.
+> **36:31** I will punish him and his seed and his servants for their iniquity; and I will bring on them, and on the inhabitants of Jerusalem, and on the men of Judah, all the evil that I have pronounced against them, but they didn’t listen.
+> **36:32** Then took Jeremiah another scroll, and gave it to Baruch the scribe, the son of Neriah, who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire; and there were added besides to them many like words.
+
+**Claim.** The response to the destroyed work is to do it again, with more added. No lament over the loss is recorded and no protection is promised for the second scroll.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S5, S6 · chapters: C19, C25 · practices: PR11 · confidence: high
+
+---
+
+## 60. Jeremiah 37:11-21 — I am not falling away to the Chaldeans
+
+> **37:11** It happened that, when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh’s army,
+> **37:12** then Jeremiah went forth out of Jerusalem to go into the land of Benjamin, to receive his portion there, in the midst of the people.
+> **37:13** When he was in the gate of Benjamin, a captain of the guard was there, whose name was Irijah, the son of Shelemiah, the son of Hananiah; and he laid hold on Jeremiah the prophet, saying, You are falling away to the Chaldeans.
+> **37:14** Then Jeremiah said, It is false; I am not falling away to the Chaldeans. But he didn’t listen to him; so Irijah laid hold on Jeremiah, and brought him to the princes.
+> **37:15** The princes were angry with Jeremiah, and struck him, and put him in prison in the house of Jonathan the scribe; for they had made that the prison.
+> **37:16** When Jeremiah had come into the dungeon house, and into the cells, and Jeremiah had remained there many days;
+> **37:17** Then Zedekiah the king sent, and fetched him: and the king asked him secretly in his house, and said, Is there any word from Yahweh? Jeremiah said, There is. He said also, You shall be delivered into the hand of the king of Babylon.
+> **37:18** Moreover Jeremiah said to king Zedekiah, Wherein have I sinned against you, or against your servants, or against this people, that you have put me in prison?
+> **37:19** Where now are your prophets who prophesied to you, saying, The king of Babylon shall not come against you, nor against this land?
+> **37:20** Now please hear, my lord the king: please let my supplication be presented before you, that you not cause me to return to the house of Jonathan the scribe, lest I die there.
+> **37:21** Then Zedekiah the king commanded, and they committed Jeremiah into the court of the guard; and they gave him daily a loaf of bread out of the bakers’ street, until all the bread in the city was spent. Thus Jeremiah remained in the court of the guard.
+
+**Claim.** Arrested at the gate on a false charge of desertion, beaten, and imprisoned in a vaulted cell. When the king asks secretly whether there is a word, he gives the same answer that put him there, and then asks not to be sent back to that house.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S4 · chapters: C17 · practices: none · confidence: high
+
+---
+
+## 61. Jeremiah 38:1-13 — Ebedmelech took the rags and the worn-out clothes
+
+> **38:1** Shephatiah the son of Mattan, and Gedaliah the son of Pashhur, and Jucal the son of Shelemiah, and Pashhur the son of Malchijah, heard the words that Jeremiah spoke to all the people, saying,
+> **38:2** Thus says Yahweh, He who remains in this city shall die by the sword, by the famine, and by the pestilence; but he who goes forth to the Chaldeans shall live, and his life shall be to him for a prey, and he shall live.
+> **38:3** Thus says Yahweh, This city shall surely be given into the hand of the army of the king of Babylon, and he shall take it.
+> **38:4** Then the princes said to the king, “Please let this man be put to death; because he weakens the hands of the men of war who remain in this city, and the hands of all the people, in speaking such words to them: for this man doesn’t seek the welfare of this people, but the hurt.”
+> **38:5** Zedekiah the king said, Behold, he is in your hand; for the king is not he who can do anything against you.
+> **38:6** Then took they Jeremiah, and cast him into the dungeon of Malchijah the king’s son, that was in the court of the guard: and they let down Jeremiah with cords. In the dungeon there was no water, but mire; and Jeremiah sank in the mire.
+> **38:7** Now when Ebedmelech the Ethiopian, a eunuch, who was in the king’s house, heard that they had put Jeremiah in the dungeon (the king then sitting in the gate of Benjamin),
+> **38:8** Ebedmelech went forth out of the king’s house, and spoke to the king, saying,
+> **38:9** My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is likely to die in the place where he is, because of the famine; for there is no more bread in the city.
+> **38:10** Then the king commanded Ebedmelech the Ethiopian, saying, Take from here thirty men with you, and take up Jeremiah the prophet out of the dungeon, before he dies.
+> **38:11** So Ebedmelech took the men with him, and went into the house of the king under the treasury, and took there rags and worn-out garments, and let them down by cords into the dungeon to Jeremiah.
+> **38:12** Ebedmelech the Ethiopian said to Jeremiah, Put now these rags and worn-out garments under your armpits under the cords. Jeremiah did so.
+> **38:13** So they drew up Jeremiah with the cords, and took him up out of the dungeon: and Jeremiah remained in the court of the guard.
+
+**Claim.** A foreign eunuch goes to the king unprompted, gets a hearing, and pulls a man out of a cistern with thirty helpers. The detail preserved is that he sent down old rags first, to pad the ropes under Jeremiah's armpits — kindness attending to what would have hurt.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4 · chapters: C16, C17 · practices: PR19 · confidence: high
+
+---
+
+## 62. Jeremiah 38:14-28 — If I give you counsel, you will not listen to me
+
+> **38:14** Then Zedekiah the king sent, and took Jeremiah the prophet to him into the third entry that is in the house of Yahweh: and the king said to Jeremiah, I will ask you something. Hide nothing from me.
+> **38:15** Then Jeremiah said to Zedekiah, If I declare it to you, will you not surely put me to death? and if I give you counsel, you will not listen to me.
+> **38:16** So Zedekiah the king swore secretly to Jeremiah, saying, As Yahweh lives, who made us this soul, I will not put you to death, neither will I give you into the hand of these men who seek your life.
+> **38:17** Then Jeremiah said to Zedekiah, Thus says Yahweh, the God of Armies, the God of Israel: If you will go forth to the king of Babylon’s princes, then your soul shall live, and this city shall not be burned with fire; and you shall live, and your house.
+> **38:18** But if you will not go forth to the king of Babylon’s princes, then shall this city be given into the hand of the Chaldeans, and they shall burn it with fire, and you shall not escape out of their hand.
+> **38:19** Zedekiah the king said to Jeremiah, I am afraid of the Jews who are fallen away to the Chaldeans, lest they deliver me into their hand, and they mock me.
+> **38:20** But Jeremiah said, They shall not deliver you. Obey, I beg you, the voice of Yahweh, in that which I speak to you: so it shall be well with you, and your soul shall live.
+> **38:21** But if you refuse to go forth, this is the word that Yahweh has shown me:
+> **38:22** behold, all the women who are left in the king of Judah’s house shall be brought forth to the king of Babylon’s princes, and those women shall say, Your familiar friends have set you on, and have prevailed over you. Your feet are sunk in the mire, they have turned away back.
+> **38:23** They shall bring out all your wives and your children to the Chaldeans; and you shall not escape out of their hand, but shall be taken by the hand of the king of Babylon: and you shall cause this city to be burned with fire.
+> **38:24** Then Zedekiah said to Jeremiah, Let no man know of these words, and you shall not die.
+> **38:25** But if the princes hear that I have talked with you, and they come to you, and tell you, Declare to us now what you have said to the king; don’t hide it from us, and we will not put you to death; also what the king said to you:
+> **38:26** then you shall tell them, I presented my supplication before the king, that he would not cause me to return to Jonathan’s house, to die there.
+> **38:27** Then came all the princes to Jeremiah, and asked him; and he told them according to all these words that the king had commanded. So they left off speaking with him; for the matter was not perceived.
+> **38:28** So Jeremiah stayed in the court of the guard until the day that Jerusalem was taken.
+
+**Claim.** A private consultation in which the king wants the answer without the consequences and is afraid of his own officials. The prophet names the fear accurately, gives the counsel anyway, and then agrees to a cover story to keep them both alive.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S2, S4 · chapters: C08, C15 · practices: none · confidence: medium
+
+---
+
+## 63. Jeremiah 39:15-18 — Because you have put your trust in me
+
+> **39:15** Now the word of Yahweh came to Jeremiah, while he was shut up in the court of the guard, saying,
+> **39:16** Go, and speak to Ebedmelech the Ethiopian, saying, Thus says Yahweh of Armies, the God of Israel: Behold, I will bring my words on this city for evil, and not for good; and they shall be accomplished before you in that day.
+> **39:17** But I will deliver you in that day, says Yahweh; and you shall not be given into the hand of the men of whom you are afraid.
+> **39:18** For I will surely save you, and you shall not fall by the sword, but your life shall be for a prey to you; because you have put your trust in me, says Yahweh.
+
+**Claim.** The single promise of deliverance in the fall of the city goes to the Ethiopian who pulled him out of the mud. Delivered in the middle of a national catastrophe, to a foreigner, for one act.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S7 · chapters: C17, C29 · practices: none · confidence: high
+
+---
+
+## 64. Jeremiah 42:1-6 — Whether it be good, or whether it be evil, we will obey
+
+> **42:1** Then all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even to the greatest, came near,
+> **42:2** and said to Jeremiah the prophet, Please let our supplication be presented before you, and pray for us to Yahweh your God, even for all this remnant; for we are left but a few of many, as your eyes do see us:
+> **42:3** that Yahweh your God may show us the way in which we should walk, and the thing that we should do.
+> **42:4** Then Jeremiah the prophet said to them, I have heard you; behold, I will pray to Yahweh your God according to your words; and it shall happen that whatever thing Yahweh shall answer you, I will declare it to you; I will keep nothing back from you.
+> **42:5** Then they said to Jeremiah, Yahweh be a true and faithful witness among us, if we don’t do according to all the word with which Yahweh your God shall send you to us.
+> **42:6** Whether it be good, or whether it be evil, we will obey the voice of Yahweh our God, to whom we send you; that it may be well with us, when we obey the voice of Yahweh our God.
+
+**Claim.** The remnant swears to obey whatever answer comes, before it comes, and calls God a true and faithful witness against them if they do not. Ten days pass before the word arrives.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S3 · chapters: C12 · practices: none · confidence: high
+
+---
+
+## 65. Jeremiah 42:7-22 — You dealt deceitfully against your own souls
+
+> **42:7** It happened after ten days, that the word of Yahweh came to Jeremiah.
+> **42:8** Then called he Johanan the son of Kareah, and all the captains of the forces who were with him, and all the people from the least even to the greatest,
+> **42:9** and said to them, Thus says Yahweh, the God of Israel, to whom you sent me to present your supplication before him:
+> **42:10** If you will still live in this land, then will I build you, and not pull you down, and I will plant you, and not pluck you up; for I grieve over the distress that I have brought on you.
+> **42:11** Don’t be afraid of the king of Babylon, of whom you are afraid; don’t be afraid of him, says Yahweh: for I am with you to save you, and to deliver you from his hand.
+> **42:12** I will grant you mercy, that he may have mercy on you, and cause you to return to your own land.
+> **42:13** But if you say, We will not dwell in this land; so that you don’t obey the voice of Yahweh your God,
+> **42:14** saying, No; but we will go into the land of Egypt, where we shall see no war, nor hear the sound of the trumpet, nor have hunger of bread; and there will we dwell:
+> **42:15** now therefore hear the word of Yahweh, O remnant of Judah: Thus says Yahweh of Armies, the God of Israel, If you indeed set your faces to enter into Egypt, and go to live there;
+> **42:16** then it shall happen, that the sword, which you fear, shall overtake you there in the land of Egypt; and the famine, about which you are afraid, shall follow close behind you there in Egypt; and there you shall die.
+> **42:17** So shall it be with all the men who set their faces to go into Egypt to live there: they shall die by the sword, by the famine, and by the pestilence; and none of them shall remain or escape from the evil that I will bring on them.
+> **42:18** For thus says Yahweh of Armies, the God of Israel: As my anger and my wrath has been poured forth on the inhabitants of Jerusalem, so shall my wrath be poured forth on you, when you shall enter into Egypt; and you shall be an object of horror, and an astonishment, and a curse, and a reproach; and you shall see this place no more.
+> **42:19** Yahweh has spoken concerning you, remnant of Judah, Don’t you go into Egypt: know certainly that I have testified to you this day.
+> **42:20** For you have dealt deceitfully against your own souls; for you sent me to Yahweh your God, saying, Pray for us to Yahweh our God; and according to all that Yahweh our God shall say, so declare to us, and we will do it:
+> **42:21** and I have this day declared it to you; but you have not obeyed the voice of Yahweh your God in anything for which he has sent me to you.
+> **42:22** Now therefore know certainly that you shall die by the sword, by the famine, and by the pestilence, in the place where you desire to go to live there.
+
+**Claim.** They had decided before they asked. The charge is that they dealt deceitfully against their own souls — self-deception named as the mechanism, with the oath they swore ten days earlier quoted back to them.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S1, S3 · chapters: C04, C12 · practices: PR01 · confidence: high
+
+---
+
+## 66. Jeremiah 45:1-5 — Do you seek great things for yourself? Don't seek them
+
+> **45:1** The message that Jeremiah the prophet spoke to Baruch the son of Neriah, when he wrote these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying,
+> **45:2** Thus says Yahweh, the God of Israel, to you, Baruch:
+> **45:3** You said, Woe is me now! for Yahweh has added sorrow to my pain; I am weary with my groaning, and I find no rest.
+> **45:4** You shall tell him, Thus says Yahweh: Behold, that which I have built will I break down, and that which I have planted I will pluck up; and this in the whole land.
+> **45:5** Do you seek great things for yourself? Don’t seek them; for, behold, I will bring evil on all flesh, says Yahweh; but your life will I give to you for a prey in all places where you go.
+
+**Claim.** Baruch has written the scroll twice, been hunted for it, and says he is weary with his groaning and finds no rest. The answer grants the exhaustion, refuses the ambition beneath it, and promises only his life as spoils wherever he goes. Five verses, and they are the whole of what the Hidden Life costs.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S6 · chapters: C23 · practices: PR13 · confidence: high
+
+---
+
+## 67. Jeremiah 52:1-16 — They left of the poorest of the land to be vineyard keepers
+
+> **52:1** Zedekiah was twenty-one years old when he began to reign; and he reigned eleven years in Jerusalem: and his mother’s name was Hamutal the daughter of Jeremiah of Libnah.
+> **52:2** He did that which was evil in the sight of Yahweh, according to all that Jehoiakim had done.
+> **52:3** For through the anger of Yahweh it happened in Jerusalem and Judah, until he had cast them out from his presence. Zedekiah rebelled against the king of Babylon.
+> **52:4** It happened in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadnezzar king of Babylon came, he and all his army, against Jerusalem, and encamped against it; and they built forts against it round about.
+> **52:5** So the city was besieged to the eleventh year of king Zedekiah.
+> **52:6** In the fourth month, in the ninth day of the month, the famine was severe in the city, so that there was no bread for the people of the land.
+> **52:7** Then a breach was made in the city, and all the men of war fled, and went forth out of the city by night by the way of the gate between the two walls, which was by the king’s garden; (now the Chaldeans were against the city all around;) and they went toward the Arabah.
+> **52:8** But the army of the Chaldeans pursued after the king, and overtook Zedekiah in the plains of Jericho; and all his army was scattered from him.
+> **52:9** Then they took the king, and carried him up to the king of Babylon to Riblah in the land of Hamath; and he gave judgment on him.
+> **52:10** The king of Babylon killed the sons of Zedekiah before his eyes: he killed also all the princes of Judah in Riblah.
+> **52:11** He put out the eyes of Zedekiah; and the king of Babylon bound him in fetters, and carried him to Babylon, and put him in prison until the day of his death.
+> **52:12** Now in the fifth month, in the tenth day of the month, which was the nineteenth year of king Nebuchadnezzar, king of Babylon, came Nebuzaradan the captain of the guard, who stood before the king of Babylon, into Jerusalem:
+> **52:13** and he burned the house of Yahweh, and the king’s house; and all the houses of Jerusalem, even every great house, burned he with fire.
+> **52:14** All the army of the Chaldeans, who were with the captain of the guard, broke down all the walls of Jerusalem all around.
+> **52:15** Then Nebuzaradan the captain of the guard carried away captive of the poorest of the people, and the residue of the people who were left in the city, and those who fell away, who fell to the king of Babylon, and the residue of the multitude.
+> **52:16** But Nebuzaradan the captain of the guard left of the poorest of the land to be vineyard keepers and farmers.
+
+**Claim.** The book closes with an inventory: the breach, the famine, the sons killed before their father's eyes, the eyes then put out, the house burned. And the poorest are left behind to tend the vines — the last detail recorded is who remained.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S1 · chapters: C01 · practices: none · confidence: high
 
 ---
 

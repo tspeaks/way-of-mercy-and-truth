@@ -1,6 +1,6 @@
 # Luke — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 1-9:62; the travel narrative and beyond follow in sections. Method version 1.9.
+Scripture: World English Bible (public domain). Index status: partial — chapters 1-9:62; the travel narrative and beyond follow in sections. Method version 2.0.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -581,9 +581,11 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **8:55** Her spirit returned, and she rose up immediately. He commanded that something be given to her to eat.
 > **8:56** Her parents were amazed, but he commanded them to tell no one what had been done.
 
-**Claim.** He is en route to a dying child when an interruption stops him, and he stops fully — asking, waiting, letting the woman tell the whole story while the clock runs out. Spontaneous Service at its most expensive: the interruption is treated as the work, and the delay costs the girl her life before it is undone.
+**Claim.** He is en route to a dying child when an interruption stops him, and he stops fully — asking, waiting, letting the woman tell the whole story in front of everyone while the clock runs out. The listening is what the interruption consists of, and the text says she saw that she was not hidden. Service treated as the interruption itself, at the price of the girl dying before it is undone.
 
-**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4 · chapters: C16 · practices: PR19 · confidence: high
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4 · chapters: C16 · practices: PR16, PR19 · confidence: high
+
+**Amended at review** — PR16 added at review. The drafter indexed the interruption and missed what it was made of: full attention given before any conclusion, and a hidden reality uncovered by the waiting, which is PR16's definition almost word for word.
 
 ---
 

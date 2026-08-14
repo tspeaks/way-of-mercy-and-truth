@@ -1,0 +1,23 @@
+{
+  "scope": "chapters 7:1-9:62, all 17 entries; synthesis across all 39 in chapters 1-9",
+  "verdicts": {
+    "sound": 17
+  },
+  "clean_pass": true,
+  "gaps_proposed": [
+    {
+      "ref": "Luke 8:40-56",
+      "proposed": "PR16",
+      "verdict": "accepted",
+      "reason": "The drafter tagged the interruption and missed its content. He asks, waits, and lets her declare the whole story before speaking — full attention before any conclusion — and the narrator records that she saw she was not hidden. PR16's definition names exactly that: listening that uncovers a hidden reality."
+    },
+    {
+      "ref": "Luke 9:10-17",
+      "proposed": "PR05",
+      "verdict": "declined",
+      "reason": "PR05 is regular disciplined sharing of resources with the poor, the stranger and the afflicted. This is a single miraculous provision in which the loaves are multiplied rather than shared with discipline. Feeding the hungry is the practice's subject matter, not the practice — the same condition-for-practice substitution declined on Micah 7:1-6."
+    }
+  ],
+  "running_tally": "Twenty additions proposed across all books: nine accepted, one in part, ten declined.",
+  "prospective_check": "PR25 was considered and declined on Luke 9:46-48 before review, applying the known-attractor note added to the brief after the Magnificat correction. First time that note has been used to prevent an error rather than to explain one."
+}

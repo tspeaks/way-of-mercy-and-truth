@@ -2,7 +2,7 @@
   "book": "Luke",
   "translation": "World English Bible (public domain)",
   "status": "partial — chapters 1-9:62; the travel narrative and beyond follow in sections",
-  "method_version": "1.9",
+  "method_version": "2.0",
   "text_source": "index/text/luke.json",
   "note": "Indexed in sections along the book's own seams: the infancy narratives and Galilean opening (1-6), the Galilean ministry (7-9:50), the travel narrative (9:51-19:27), Jerusalem (19:28-21), and the passion and resurrection (22-24). This file covers the first section. Four entries carry prior citations from the curriculum, all in chapter 6.",
   "synoptic_note": "Entries carry an optional synoptic_parallel field recording the corresponding passage in Matthew where one exists. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Luke's own arrangement. All scripture is WEB, per the standing rule in WMT G10.",
@@ -648,12 +648,14 @@
         "C16"
       ],
       "practices": [
+        "PR16",
         "PR19"
       ],
       "mode": "exemplifies",
-      "connection": "He is en route to a dying child when an interruption stops him, and he stops fully — asking, waiting, letting the woman tell the whole story while the clock runs out. Spontaneous Service at its most expensive: the interruption is treated as the work, and the delay costs the girl her life before it is undone.",
+      "connection": "He is en route to a dying child when an interruption stops him, and he stops fully — asking, waiting, letting the woman tell the whole story in front of everyone while the clock runs out. The listening is what the interruption consists of, and the text says she saw that she was not hidden. Service treated as the interruption itself, at the price of the girl dying before it is undone.",
       "confidence": "high",
-      "prior": false
+      "prior": false,
+      "review": "PR16 added at review. The drafter indexed the interruption and missed what it was made of: full attention given before any conclusion, and a hidden reality uncovered by the waiting, which is PR16's definition almost word for word."
     },
     {
       "ref": "Luke 9:10-17",
@@ -812,6 +814,29 @@
       "connection": "Three would-be followers, and the two who volunteer are the two who are refused — each attaching a reasonable delay. Nothing is said about the requests being wrong, only that the plough does not accommodate them.",
       "confidence": "high",
       "prior": false
+    }
+  ],
+  "review_log": [
+    {
+      "pass": 2,
+      "section": "chapters 1-6",
+      "reviewer": "second model (Gemini Spark)",
+      "verdicts": {
+        "sound": 21,
+        "overreach": 1
+      },
+      "record": "index/reviews/luke-1-6-pass2.json",
+      "adjudication": "PR25 removed from the Magnificat; PR22 added to 6:27-36, closing that practice."
+    },
+    {
+      "pass": 2,
+      "section": "chapters 7-9",
+      "reviewer": "second model (Gemini Spark)",
+      "verdicts": {
+        "sound": 17
+      },
+      "record": "index/reviews/luke-7-9-pass2.json",
+      "adjudication": "Clean pass. PR16 accepted on 8:40-56; PR05 declined on 9:10-17."
     }
   ]
 }

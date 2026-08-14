@@ -1,10 +1,10 @@
 # Matthew — review package
 
-Scripture: World English Bible (public domain). Index status: partial — chapters 1-18; chapters 19-28 follow. Method version 2.4.
+Scripture: World English Bible (public domain). Index status: complete. Method version 2.5.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
-**Note.** Indexed on Matthew's own structure — the five discourses and the narrative blocks between them — beginning with the first discourse. Practice tags are assigned from the definitions in WMT A1, not from practice names.
+**Note.** Complete. Indexed in sections following Matthew's five-discourse architecture: the infancy and beginnings (1-4), the Sermon on the Mount (5-7), narrative and mission (8-10), controversy and parables (11-13), the community discourse (14-18), and Jerusalem through the resurrection (19-28).
 
 **Synoptic note.** Entries carry an optional synoptic_parallel field recording the corresponding passage in Luke. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Matthew's own arrangement, so a parallel sometimes covers only part of an entry. All scripture is WEB, per the standing rule in WMT G10.
 
@@ -927,6 +927,349 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** Peter proposes seven times and is answered with seventy-seven, then given a parable where the sums are incommensurable — ten thousand talents against a hundred denarii. The servant is not punished for the debt but for what he did with the release, and the fellow servants who report it are the ones who cannot bear the sight.
 
 **Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: mercy · stages: S5, S7 · chapters: C22, C29 · practices: PR22, PR29 · confidence: high
+
+---
+
+## 56. Matthew 19:16-30 — Go, sell what you have, and give to the poor
+
+> **19:16** Behold, one came to him and said, “Good teacher, what good thing shall I do, that I may have eternal life?”
+> **19:17** He said to him, “Why do you call me good? No one is good but one, that is, God. But if you want to enter into life, keep the commandments.”
+> **19:18** He said to him, “Which ones?” Jesus said, “‘You shall not murder.’ ‘You shall not commit adultery.’ ‘You shall not steal.’ ‘You shall not offer false testimony.’
+> **19:19** ‘Honor your father and mother.’ And, ‘You shall love your neighbor as yourself.’”
+> **19:20** The young man said to him, “All these things I have observed from my youth. What do I still lack?”
+> **19:21** Jesus said to him, “If you want to be perfect, go, sell what you have, and give to the poor, and you will have treasure in heaven; and come, follow me.”
+> **19:22** But when the young man heard the saying, he went away sad, for he was one who had great possessions.
+> **19:23** Jesus said to his disciples, “Most certainly I say to you, a rich man will enter into the Kingdom of Heaven with difficulty.
+> **19:24** Again I tell you, it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the Kingdom of God.”
+> **19:25** When the disciples heard it, they were exceedingly astonished, saying, “Who then can be saved?”
+> **19:26** Looking at them, Jesus said, “With men this is impossible, but with God all things are possible.”
+> **19:27** Then Peter answered, “Behold, we have left everything, and followed you. What then will we have?”
+> **19:28** Jesus said to them, “Most certainly I tell you that you who have followed me, in the regeneration when the Son of Man will sit on the throne of his glory, you also will sit on twelve thrones, judging the twelve tribes of Israel.
+> **19:29** Everyone who has left houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, will receive one hundred times, and will inherit eternal life.
+> **19:30** But many will be last who are first; and first who are last.
+
+*Also in Luke: Luke 18:18-30*
+
+**Claim.** A man who has kept the commandments from youth is given one instruction and goes away sad. The disciples' astonishment is that anyone could be saved, and the answer relocates the possibility from the man to God.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility · stages: S4 · chapters: C18 · practices: PR05 · confidence: high
+
+---
+
+## 57. Matthew 20:1-16 — Is your eye evil because I am good?
+
+> **20:1** “For the Kingdom of Heaven is like a man who was the master of a household, who went out early in the morning to hire laborers for his vineyard.
+> **20:2** When he had agreed with the laborers for a denarius a day, he sent them into his vineyard.
+> **20:3** He went out about the third hour, and saw others standing idle in the marketplace.
+> **20:4** To them he said, ‘You also go into the vineyard, and whatever is right I will give you.’ So they went their way.
+> **20:5** Again he went out about the sixth and the ninth hour, and did likewise.
+> **20:6** About the eleventh hour he went out, and found others standing idle. He said to them, ‘Why do you stand here all day idle?’
+> **20:7** “They said to him, ‘Because no one has hired us.’ “He said to them, ‘You also go into the vineyard, and you will receive whatever is right.’
+> **20:8** When evening had come, the lord of the vineyard said to his manager, ‘Call the laborers and pay them their wages, beginning from the last to the first.’
+> **20:9** “When those who were hired at about the eleventh hour came, they each received a denarius.
+> **20:10** When the first came, they supposed that they would receive more; and they likewise each received a denarius.
+> **20:11** When they received it, they murmured against the master of the household,
+> **20:12** saying, ‘These last have spent one hour, and you have made them equal to us, who have borne the burden of the day and the scorching heat!’
+> **20:13** “But he answered one of them, ‘Friend, I am doing you no wrong. Didn’t you agree with me for a denarius?
+> **20:14** Take that which is yours, and go your way. It is my desire to give to this last just as much as to you.
+> **20:15** Isn’t it lawful for me to do what I want to with what I own? Or is your eye evil, because I am good?’
+> **20:16** So the last will be first, and the first last. For many are called, but few are chosen.”
+
+**Claim.** Everyone receives a denarius and the first-hired complain about equality rather than about shortfall. Nothing was taken from them; the grievance is entirely about what someone else received, and it is named as an evil eye rather than as unfairness.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4, S7 · chapters: C03, C27 · practices: none · confidence: high
+
+---
+
+## 58. Matthew 20:20-28 — Not to be served, but to serve
+
+> **20:20** Then the mother of the sons of Zebedee came to him with her sons, kneeling and asking a certain thing of him.
+> **20:21** He said to her, “What do you want?” She said to him, “Command that these, my two sons, may sit, one on your right hand, and one on your left hand, in your Kingdom.”
+> **20:22** But Jesus answered, “You don’t know what you are asking. Are you able to drink the cup that I am about to drink, and be baptized with the baptism that I am baptized with?” They said to him, “We are able.”
+> **20:23** He said to them, “You will indeed drink my cup, and be baptized with the baptism that I am baptized with, but to sit on my right hand and on my left hand is not mine to give; but it is for whom it has been prepared by my Father.”
+> **20:24** When the ten heard it, they were indignant with the two brothers.
+> **20:25** But Jesus summoned them, and said, “You know that the rulers of the nations lord it over them, and their great ones exercise authority over them.
+> **20:26** It shall not be so among you, but whoever desires to become great among you shall be your servant.
+> **20:27** Whoever desires to be first among you shall be your bondservant,
+> **20:28** even as the Son of Man came not to be served, but to serve, and to give his life as a ransom for many.”
+
+**Claim.** A mother asks for the two best seats and the other ten are indignant — the whole group is implicated, not just the two. Gentile authority is described accurately and then set aside, and greatness is redefined as a direction rather than a rank.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, mercy · stages: S4 · chapters: C16 · practices: none · confidence: high
+
+---
+
+## 59. Matthew 21:28-32 — Which of the two did the will of his father?
+
+> **21:28** But what do you think? A man had two sons, and he came to the first, and said, ‘Son, go work today in my vineyard.’
+> **21:29** He answered, ‘I will not,’ but afterward he changed his mind, and went.
+> **21:30** He came to the second, and said the same thing. He answered, ‘I go, sir,’ but he didn’t go.
+> **21:31** Which of the two did the will of his father?” They said to him, “The first.” Jesus said to them, “Most certainly I tell you that the tax collectors and the prostitutes are entering into the Kingdom of God before you.
+> **21:32** For John came to you in the way of righteousness, and you didn’t believe him, but the tax collectors and the prostitutes believed him. When you saw it, you didn’t even repent afterward, that you might believe him.
+
+**Claim.** One son says no and goes; the other says yes and doesn't. The question is put to the hearers so they convict themselves, and the answer they give is the one that condemns them.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S3 · chapters: C12 · practices: none · confidence: high
+
+---
+
+## 60. Matthew 22:15-22 — Give to Caesar the things that are Caesar's
+
+> **22:15** Then the Pharisees went and took counsel how they might entrap him in his talk.
+> **22:16** They sent their disciples to him, along with the Herodians, saying, “Teacher, we know that you are honest, and teach the way of God in truth, no matter whom you teach, for you aren’t partial to anyone.
+> **22:17** Tell us therefore, what do you think? Is it lawful to pay taxes to Caesar, or not?”
+> **22:18** But Jesus perceived their wickedness, and said, “Why do you test me, you hypocrites?
+> **22:19** Show me the tax money.” They brought to him a denarius.
+> **22:20** He asked them, “Whose is this image and inscription?”
+> **22:21** They said to him, “Caesar’s.” Then he said to them, “Give therefore to Caesar the things that are Caesar’s, and to God the things that are God’s.”
+> **22:22** When they heard it, they marveled, and left him, and went away.
+
+**Claim.** A trap requiring either sedition or collaboration is answered by asking whose image is on the coin. Dual obligation stated without collapsing either side into the other — the Citizen-Stranger's economics in one sentence.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S4 · chapters: C17 · practices: PR10 · confidence: high
+
+---
+
+## 61. Matthew 22:34-40 — On these two commandments depend the whole law
+
+> **22:34** But the Pharisees, when they heard that he had silenced the Sadducees, gathered themselves together.
+> **22:35** One of them, a lawyer, asked him a question, testing him.
+> **22:36** “Teacher, which is the greatest commandment in the law?”
+> **22:37** Jesus said to him, “‘You shall love the Lord your God with all your heart, with all your soul, and with all your mind.’
+> **22:38** This is the first and great commandment.
+> **22:39** A second likewise is this, ‘You shall love your neighbor as yourself.’
+> **22:40** The whole law and the prophets depend on these two commandments.”
+
+**Claim.** The whole law and the prophets made to hang on love of God and love of neighbour, with the second called like the first rather than subordinate to it. The compression C01 and C03 are built on.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S1 · chapters: C01, C03 · practices: none · confidence: high
+
+---
+
+## 62. Matthew 23:1-12 — They bind heavy burdens and won't lift a finger
+
+> **23:1** Then Jesus spoke to the multitudes and to his disciples,
+> **23:2** saying, “The scribes and the Pharisees sat on Moses’ seat.
+> **23:3** All things therefore whatever they tell you to observe, observe and do, but don’t do their works; for they say, and don’t do.
+> **23:4** For they bind heavy burdens that are grievous to be borne, and lay them on men’s shoulders; but they themselves will not lift a finger to help them.
+> **23:5** But all their works they do to be seen by men. They make their phylacteries broad, enlarge the fringes of their garments,
+> **23:6** and love the place of honor at feasts, the best seats in the synagogues,
+> **23:7** the salutations in the marketplaces, and to be called ‘Rabbi, Rabbi’ by men.
+> **23:8** But don’t you be called ‘Rabbi,’ for one is your teacher, the Christ, and all of you are brothers.
+> **23:9** Call no man on the earth your father, for one is your Father, he who is in heaven.
+> **23:10** Neither be called masters, for one is your master, the Christ.
+> **23:11** But he who is greatest among you will be your servant.
+> **23:12** Whoever exalts himself will be humbled, and whoever humbles himself will be exalted.
+
+**Claim.** The indictment is not that they teach wrongly but that they do everything to be seen — broadened phylacteries, the best seats, the salutations. The Hidden Life shown by its exact inversion, and the correction offered is that the greatest will be servant.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility · stages: S4, S6 · chapters: C16, C23 · practices: PR13 · confidence: high
+
+---
+
+## 63. Matthew 23:23-28 — You have left undone the weightier matters: justice, mercy, and faith
+
+> **23:23** “Woe to you, scribes and Pharisees, hypocrites! For you tithe mint, dill, and cumin, and have left undone the weightier matters of the law: justice, mercy, and faith. But you ought to have done these, and not to have left the other undone.
+> **23:24** You blind guides, who strain out a gnat, and swallow a camel!
+> **23:25** “Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and of the platter, but within they are full of extortion and unrighteousness.
+> **23:26** You blind Pharisee, first clean the inside of the cup and of the platter, that its outside may become clean also.
+> **23:27** “Woe to you, scribes and Pharisees, hypocrites! For you are like whitened tombs, which outwardly appear beautiful, but inwardly are full of dead men’s bones, and of all uncleanness.
+> **23:28** Even so you also outwardly appear righteous to men, but inwardly you are full of hypocrisy and iniquity.
+
+**Claim.** The tithing of mint, dill and cumin is not disputed — these ought to have been done. What is condemned is precision in the small thing alongside neglect of the weightier, and the list given is justice, mercy and faith. A triad set against ritual exactness, as in Micah 6:8.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: mercy, truth · stages: S1, S4 · chapters: C03, C04 · practices: PR01 · confidence: high
+
+---
+
+## 64. Matthew 23:37-39 — How often I wanted to gather your children
+
+> **23:37** “Jerusalem, Jerusalem, who kills the prophets, and stones those who are sent to her! How often I would have gathered your children together, even as a hen gathers her chicks under her wings, and you would not!
+> **23:38** Behold, your house is left to you desolate.
+> **23:39** For I tell you, you will not see me from now on, until you say, ‘Blessed is he who comes in the name of the Lord!’”
+
+**Claim.** The lament is spoken over the city that kills prophets, and the image is a hen gathering chicks. Grief expressed for people who refused, with the refusal stated plainly and the desire not withdrawn.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S5 · chapters: C19 · practices: PR08 · confidence: high
+
+---
+
+## 65. Matthew 24:42-51 — Blessed is that servant whom his lord finds so doing
+
+> **24:42** Watch therefore, for you don’t know in what hour your Lord comes.
+> **24:43** But know this, that if the master of the house had known in what watch of the night the thief was coming, he would have watched, and would not have allowed his house to be broken into.
+> **24:44** Therefore also be ready, for in an hour that you don’t expect, the Son of Man will come.
+> **24:45** “Who then is the faithful and wise servant, whom his lord has set over his household, to give them their food in due season?
+> **24:46** Blessed is that servant whom his lord finds doing so when he comes.
+> **24:47** Most certainly I tell you that he will set him over all that he has.
+> **24:48** But if that evil servant should say in his heart, ‘My lord is delaying his coming,’
+> **24:49** and begins to beat his fellow servants, and eat and drink with the drunkards,
+> **24:50** the lord of that servant will come in a day when he doesn’t expect it, and in an hour when he doesn’t know it,
+> **24:51** and will cut him in pieces, and appoint his portion with the hypocrites. There is where the weeping and grinding of teeth will be.
+
+**Claim.** The evil servant's reasoning is quoted — my lord is delaying — and what follows is beating fellow servants and drinking with drunkards. Watchfulness stated as continuing to do the assigned work rather than as scanning the horizon.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S4, S5 · chapters: C13, C20 · practices: PR12 · confidence: high
+
+---
+
+## 66. Matthew 25:1-13 — The wise took oil in their vessels
+
+> **25:1** “Then the Kingdom of Heaven will be like ten virgins, who took their lamps, and went out to meet the bridegroom.
+> **25:2** Five of them were foolish, and five were wise.
+> **25:3** Those who were foolish, when they took their lamps, took no oil with them,
+> **25:4** but the wise took oil in their vessels with their lamps.
+> **25:5** Now while the bridegroom delayed, they all slumbered and slept.
+> **25:6** But at midnight there was a cry, ‘Behold! The bridegroom is coming! Come out to meet him!’
+> **25:7** Then all those virgins arose, and trimmed their lamps.
+> **25:8** The foolish said to the wise, ‘Give us some of your oil, for our lamps are going out.’
+> **25:9** But the wise answered, saying, ‘What if there isn’t enough for us and you? You go rather to those who sell, and buy for yourselves.’
+> **25:10** While they went away to buy, the bridegroom came, and those who were ready went in with him to the marriage feast, and the door was shut.
+> **25:11** Afterward the other virgins also came, saying, ‘Lord, Lord, open to us.’
+> **25:12** But he answered, ‘Most certainly I tell you, I don’t know you.’
+> **25:13** Watch therefore, for you don’t know the day nor the hour in which the Son of Man is coming.
+
+**Claim.** All ten sleep, and the difference is what was prepared beforehand rather than what was done at midnight. Something that cannot be borrowed at the moment of need, which is the argument for gradualism stated as a warning.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility · stages: S6 · chapters: C25 · practices: PR14 · confidence: high
+
+---
+
+## 67. Matthew 25:14-30 — You have been faithful over a few things
+
+> **25:14** “For it is like a man, going into another country, who called his own servants, and entrusted his goods to them.
+> **25:15** To one he gave five talents, to another two, to another one; to each according to his own ability. Then he went on his journey.
+> **25:16** Immediately he who received the five talents went and traded with them, and made another five talents.
+> **25:17** In the same way, he also who got the two gained another two.
+> **25:18** But he who received the one went away and dug in the earth, and hid his lord’s money.
+> **25:19** “Now after a long time the lord of those servants came, and reconciled accounts with them.
+> **25:20** He who received the five talents came and brought another five talents, saying, ‘Lord, you delivered to me five talents. Behold, I have gained another five talents besides them.’
+> **25:21** “His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.’
+> **25:22** “He also who got the two talents came and said, ‘Lord, you delivered to me two talents. Behold, I have gained another two talents besides them.’
+> **25:23** “His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.’
+> **25:24** “He also who had received the one talent came and said, ‘Lord, I knew you that you are a hard man, reaping where you did not sow, and gathering where you did not scatter.
+> **25:25** I was afraid, and went away and hid your talent in the earth. Behold, you have what is yours.’
+> **25:26** “But his lord answered him, ‘You wicked and slothful servant. You knew that I reap where I didn’t sow, and gather where I didn’t scatter.
+> **25:27** You ought therefore to have deposited my money with the bankers, and at my coming I should have received back my own with interest.
+> **25:28** Take away therefore the talent from him, and give it to him who has the ten talents.
+> **25:29** For to everyone who has will be given, and he will have abundance, but from him who doesn’t have, even that which he has will be taken away.
+> **25:30** Throw out the unprofitable servant into the outer darkness, where there will be weeping and gnashing of teeth.’
+
+**Claim.** Three servants, unequal sums, and identical commendation for the two who traded. The third names fear as his reason and buries the thing — the fault is not loss but refusal to risk anything at all.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S4 · chapters: C13 · practices: none · confidence: high
+
+---
+
+## 68. Matthew 25:31-46 — Inasmuch as you did it to one of the least of these
+
+> **25:31** “But when the Son of Man comes in his glory, and all the holy angels with him, then he will sit on the throne of his glory.
+> **25:32** Before him all the nations will be gathered, and he will separate them one from another, as a shepherd separates the sheep from the goats.
+> **25:33** He will set the sheep on his right hand, but the goats on the left.
+> **25:34** Then the King will tell those on his right hand, ‘Come, blessed of my Father, inherit the Kingdom prepared for you from the foundation of the world;
+> **25:35** for I was hungry, and you gave me food to eat. I was thirsty, and you gave me drink. I was a stranger, and you took me in.
+> **25:36** I was naked, and you clothed me. I was sick, and you visited me. I was in prison, and you came to me.’
+> **25:37** “Then the righteous will answer him, saying, ‘Lord, when did we see you hungry, and feed you; or thirsty, and give you a drink?
+> **25:38** When did we see you as a stranger, and take you in; or naked, and clothe you?
+> **25:39** When did we see you sick, or in prison, and come to you?’
+> **25:40** “The King will answer them, ‘Most certainly I tell you, inasmuch as you did it to one of the least of these my brothers, you did it to me.’
+> **25:41** Then he will say also to those on the left hand, ‘Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels;
+> **25:42** for I was hungry, and you didn’t give me food to eat; I was thirsty, and you gave me no drink;
+> **25:43** I was a stranger, and you didn’t take me in; naked, and you didn’t clothe me; sick, and in prison, and you didn’t visit me.’
+> **25:44** “Then they will also answer, saying, ‘Lord, when did we see you hungry, or thirsty, or a stranger, or naked, or sick, or in prison, and didn’t help you?’
+> **25:45** “Then he will answer them, saying, ‘Most certainly I tell you, inasmuch as you didn’t do it to one of the least of these, you didn’t do it to me.’
+> **25:46** These will go away into eternal punishment, but the righteous into eternal life.”
+
+**Claim.** Six acts, all of them ordinary and material: food, drink, welcome for a stranger, clothing, visiting the sick and the imprisoned. Both groups ask when they saw him, so neither recognised what they were doing — the criterion is what was done, not what was understood.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4, S7 · chapters: C16, C27 · practices: PR05, PR22 · confidence: high
+
+---
+
+## 69. Matthew 26:6-13 — She has done a good work for me
+
+> **26:6** Now when Jesus was in Bethany, in the house of Simon the leper,
+> **26:7** a woman came to him having an alabaster jar of very expensive ointment, and she poured it on his head as he sat at the table.
+> **26:8** But when his disciples saw this, they were indignant, saying, “Why this waste?
+> **26:9** For this ointment might have been sold for much, and given to the poor.”
+> **26:10** However, knowing this, Jesus said to them, “Why do you trouble the woman? Because she has done a good work for me.
+> **26:11** For you always have the poor with you; but you don’t always have me.
+> **26:12** For in pouring this ointment on my body, she did it to prepare me for burial.
+> **26:13** Most certainly I tell you, wherever this Good News is preached in the whole world, what this woman has done will also be spoken of as a memorial of her.”
+
+**Claim.** The objection is framed in terms of the poor and is answered without disputing that the poor matter. An extravagant act defended as timely rather than as generous, and it is the one thing promised to be told wherever the news goes.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S7 · chapters: C28 · practices: none · confidence: medium
+
+---
+
+## 70. Matthew 26:36-46 — Watch and pray, that you don't enter into temptation
+
+> **26:36** Then Jesus came with them to a place called Gethsemane, and said to his disciples, “Sit here, while I go there and pray.”
+> **26:37** He took with him Peter and the two sons of Zebedee, and began to be sorrowful and severely troubled.
+> **26:38** Then he said to them, “My soul is exceedingly sorrowful, even to death. Stay here, and watch with me.”
+> **26:39** He went forward a little, fell on his face, and prayed, saying, “My Father, if it is possible, let this cup pass away from me; nevertheless, not what I desire, but what you desire.”
+> **26:40** He came to the disciples, and found them sleeping, and said to Peter, “What, couldn’t you watch with me for one hour?
+> **26:41** Watch and pray, that you don’t enter into temptation. The spirit indeed is willing, but the flesh is weak.”
+> **26:42** Again, a second time he went away, and prayed, saying, “My Father, if this cup can’t pass away from me unless I drink it, your desire be done.”
+> **26:43** He came again and found them sleeping, for their eyes were heavy.
+> **26:44** He left them again, went away, and prayed a third time, saying the same words.
+> **26:45** Then he came to his disciples, and said to them, “Sleep on now, and take your rest. Behold, the hour is at hand, and the Son of Man is betrayed into the hands of sinners.
+> **26:46** Arise, let’s be going. Behold, he who betrays me is at hand.”
+
+**Claim.** The petition is made three times and not withdrawn when it is refused, and the disciples sleep through it. Sorrowful even to death, and the instruction given between the prayers is to watch — grief and vigilance held together rather than traded off.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S5 · chapters: C19, C20 · practices: PR08, PR12 · confidence: high
+
+---
+
+## 71. Matthew 26:47-56 — Put your sword back into its place
+
+> **26:47** While he was still speaking, behold, Judas, one of the twelve, came, and with him a great multitude with swords and clubs, from the chief priest and elders of the people.
+> **26:48** Now he who betrayed him gave them a sign, saying, “Whoever I kiss, he is the one. Seize him.”
+> **26:49** Immediately he came to Jesus, and said, “Hail, Rabbi!” and kissed him.
+> **26:50** Jesus said to him, “Friend, why are you here?” Then they came and laid hands on Jesus, and took him.
+> **26:51** Behold, one of those who were with Jesus stretched out his hand, and drew his sword, and struck the servant of the high priest, and struck off his ear.
+> **26:52** Then Jesus said to him, “Put your sword back into its place, for all those who take the sword will die by the sword.
+> **26:53** Or do you think that I couldn’t ask my Father, and he would even now send me more than twelve legions of angels?
+> **26:54** How then would the Scriptures be fulfilled that it must be so?”
+> **26:55** In that hour Jesus said to the multitudes, “Have you come out as against a robber with swords and clubs to seize me? I sat daily in the temple teaching, and you didn’t arrest me.
+> **26:56** But all this has happened, that the Scriptures of the prophets might be fulfilled.” Then all the disciples left him, and fled.
+
+**Claim.** The defence offered is refused and the reason given is general rather than personal — all who take the sword will die by it. Twelve legions are named as available and declined.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S7 · chapters: C27 · practices: PR06 · confidence: high
+
+---
+
+## 72. Matthew 27:3-10 — I have sinned in that I betrayed innocent blood
+
+> **27:3** Then Judas, who betrayed him, when he saw that Jesus was condemned, felt remorse, and brought back the thirty pieces of silver to the chief priests and elders,
+> **27:4** saying, “I have sinned in that I betrayed innocent blood.” But they said, “What is that to us? You see to it.”
+> **27:5** He threw down the pieces of silver in the sanctuary, and departed. He went away and hanged himself.
+> **27:6** The chief priests took the pieces of silver, and said, “It’s not lawful to put them into the treasury, since it is the price of blood.”
+> **27:7** They took counsel, and bought the potter’s field with them, to bury strangers in.
+> **27:8** Therefore that field was called “The Field of Blood” to this day.
+> **27:9** Then that which was spoken through Jeremiah the prophet was fulfilled, saying, “They took the thirty pieces of silver, the price of him upon whom a price had been set, whom some of the children of Israel priced,
+> **27:10** and they gave them for the potter’s field, as the Lord commanded me.”
+
+**Claim.** The confession is accurate and complete, and it is made to men who answer that it is his problem. Remorse without anywhere to take it, set against Peter's weeping in the previous chapter — the same failure with a different ending.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S5 · chapters: C19, C21 · practices: none · confidence: high
+
+---
+
+## 73. Matthew 28:16-20 — When they saw him, they bowed down; but some doubted
+
+> **28:16** But the eleven disciples went into Galilee, to the mountain where Jesus had sent them.
+> **28:17** When they saw him, they bowed down to him, but some doubted.
+> **28:18** Jesus came to them and spoke to them, saying, “All authority has been given to me in heaven and on earth.
+> **28:19** Go, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
+> **28:20** teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.” Amen.
+
+**Claim.** The commission is given to a group that the narrator says includes doubters, and nothing is said about resolving that first. The sending is not withheld until the eleven are unanimous.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S2, S7 · chapters: C08, C29 · practices: none · confidence: high
 
 ---
 

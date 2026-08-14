@@ -1,10 +1,10 @@
 {
   "book": "Matthew",
   "translation": "World English Bible (public domain)",
-  "status": "partial — chapters 1-18; chapters 19-28 follow",
-  "method_version": "2.4",
+  "status": "complete",
+  "method_version": "2.5",
   "text_source": "index/text/matthew.json",
-  "note": "Indexed on Matthew's own structure — the five discourses and the narrative blocks between them — beginning with the first discourse. Practice tags are assigned from the definitions in WMT A1, not from practice names.",
+  "note": "Complete. Indexed in sections following Matthew's five-discourse architecture: the infancy and beginnings (1-4), the Sermon on the Mount (5-7), narrative and mission (8-10), controversy and parables (11-13), the community discourse (14-18), and Jerusalem through the resurrection (19-28).",
   "synoptic_note": "Entries carry an optional synoptic_parallel field recording the corresponding passage in Luke. It is a plain cross-reference: the same material appears in both Gospels, and a reader working through one may want the other. Pericope boundaries follow Matthew's own arrangement, so a parallel sometimes covers only part of an entry. All scripture is WEB, per the standing rule in WMT G10.",
   "entries": [
     {
@@ -1153,6 +1153,371 @@
       ],
       "mode": "counter-example",
       "connection": "Peter proposes seven times and is answered with seventy-seven, then given a parable where the sums are incommensurable — ten thousand talents against a hundred denarii. The servant is not punished for the debt but for what he did with the release, and the fellow servants who report it are the ones who cannot bear the sight.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 19:16-30",
+      "pericope": "Go, sell what you have, and give to the poor",
+      "synoptic_parallel": "Luke 18:18-30",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "counter-example",
+      "connection": "A man who has kept the commandments from youth is given one instruction and goes away sad. The disciples' astonishment is that anyone could be saved, and the answer relocates the possibility from the man to God.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 20:1-16",
+      "pericope": "Is your eye evil because I am good?",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C03",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Everyone receives a denarius and the first-hired complain about equality rather than about shortfall. Nothing was taken from them; the grievance is entirely about what someone else received, and it is named as an evil eye rather than as unfairness.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 20:20-28",
+      "pericope": "Not to be served, but to serve",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A mother asks for the two best seats and the other ten are indignant — the whole group is implicated, not just the two. Gentile authority is described accurately and then set aside, and greatness is redefined as a direction rather than a rank.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 21:28-32",
+      "pericope": "Which of the two did the will of his father?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C12"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "One son says no and goes; the other says yes and doesn't. The question is put to the hearers so they convict themselves, and the answer they give is the one that condemns them.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 22:15-22",
+      "pericope": "Give to Caesar the things that are Caesar's",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "prescribes",
+      "connection": "A trap requiring either sedition or collaboration is answered by asking whose image is on the coin. Dual obligation stated without collapsing either side into the other — the Citizen-Stranger's economics in one sentence.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 22:34-40",
+      "pericope": "On these two commandments depend the whole law",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01",
+        "C03"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The whole law and the prophets made to hang on love of God and love of neighbour, with the second called like the first rather than subordinate to it. The compression C01 and C03 are built on.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 23:1-12",
+      "pericope": "They bind heavy burdens and won't lift a finger",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C16",
+        "C23"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "counter-example",
+      "connection": "The indictment is not that they teach wrongly but that they do everything to be seen — broadened phylacteries, the best seats, the salutations. The Hidden Life shown by its exact inversion, and the correction offered is that the greatest will be servant.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 23:23-28",
+      "pericope": "You have left undone the weightier matters: justice, mercy, and faith",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C03",
+        "C04"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "counter-example",
+      "connection": "The tithing of mint, dill and cumin is not disputed — these ought to have been done. What is condemned is precision in the small thing alongside neglect of the weightier, and the list given is justice, mercy and faith. A triad set against ritual exactness, as in Micah 6:8.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 23:37-39",
+      "pericope": "How often I wanted to gather your children",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The lament is spoken over the city that kills prophets, and the image is a hen gathering chicks. Grief expressed for people who refused, with the refusal stated plainly and the desire not withdrawn.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 24:42-51",
+      "pericope": "Blessed is that servant whom his lord finds so doing",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C13",
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "The evil servant's reasoning is quoted — my lord is delaying — and what follows is beating fellow servants and drinking with drunkards. Watchfulness stated as continuing to do the assigned work rather than as scanning the horizon.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 25:1-13",
+      "pericope": "The wise took oil in their vessels",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "All ten sleep, and the difference is what was prepared beforehand rather than what was done at midnight. Something that cannot be borrowed at the moment of need, which is the argument for gradualism stated as a warning.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 25:14-30",
+      "pericope": "You have been faithful over a few things",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Three servants, unequal sums, and identical commendation for the two who traded. The third names fear as his reason and buries the thing — the fault is not loss but refusal to risk anything at all.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 25:31-46",
+      "pericope": "Inasmuch as you did it to one of the least of these",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27"
+      ],
+      "practices": [
+        "PR05",
+        "PR22"
+      ],
+      "mode": "prescribes",
+      "connection": "Six acts, all of them ordinary and material: food, drink, welcome for a stranger, clothing, visiting the sick and the imprisoned. Both groups ask when they saw him, so neither recognised what they were doing — the criterion is what was done, not what was understood.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 26:6-13",
+      "pericope": "She has done a good work for me",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C28"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The objection is framed in terms of the poor and is answered without disputing that the poor matter. An extravagant act defended as timely rather than as generous, and it is the one thing promised to be told wherever the news goes.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 26:36-46",
+      "pericope": "Watch and pray, that you don't enter into temptation",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C20"
+      ],
+      "practices": [
+        "PR08",
+        "PR12"
+      ],
+      "mode": "exemplifies",
+      "connection": "The petition is made three times and not withdrawn when it is refused, and the disciples sleep through it. Sorrowful even to death, and the instruction given between the prayers is to watch — grief and vigilance held together rather than traded off.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 26:47-56",
+      "pericope": "Put your sword back into its place",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [
+        "PR06"
+      ],
+      "mode": "prescribes",
+      "connection": "The defence offered is refused and the reason given is general rather than personal — all who take the sword will die by it. Twelve legions are named as available and declined.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 27:3-10",
+      "pericope": "I have sinned in that I betrayed innocent blood",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The confession is accurate and complete, and it is made to men who answer that it is his problem. Remorse without anywhere to take it, set against Peter's weeping in the previous chapter — the same failure with a different ending.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Matthew 28:16-20",
+      "pericope": "When they saw him, they bowed down; but some doubted",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S7"
+      ],
+      "chapters": [
+        "C08",
+        "C29"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The commission is given to a group that the narrator says includes doubters, and nothing is said about resolving that first. The sending is not withheld until the eleven are unanimous.",
       "confidence": "high",
       "prior": false
     }

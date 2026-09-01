@@ -11,6 +11,7 @@ the original plan and what changed.
 **Who serves what, and why:** [`docs/ROUTING.md`](docs/ROUTING.md).
 **The 8 GB card:** [`docs/LOCAL-MODELS.md`](docs/LOCAL-MODELS.md).
 **Moving machines:** [`docs/MIGRATION.md`](docs/MIGRATION.md).
+**Writing task prompts for Hermes (portable, any LLM):** [`docs/WRITING-FOR-HERMES.md`](docs/WRITING-FOR-HERMES.md).
 
 ## Shape
 

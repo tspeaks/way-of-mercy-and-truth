@@ -279,6 +279,11 @@ router_settings:
   # rescues an overflowing request mid-flight instead of failing it: the 8K
   # Cerebras cap, the 6K Groq TPM fence, and the 28K local window all land here.
   context_window_fallbacks:
+    # smart-router is the group every client actually calls -- without an
+    # entry keyed on it, a context-window failure inside the router (e.g.
+    # the local tier's 28K cap) has nowhere to look up an escalation chain
+    # and fails outright instead of rerouting. Verified live 2026-09-01.
+    - smart-router:       ["codestral", "nvidia-nemotron", "gemini-flash"]
     - local-coder:        ["codestral", "nvidia-nemotron", "gemini-flash"]
     - groq-fast:          ["codestral", "nvidia-nemotron", "gemini-flash"]
     - cerebras-fast:      ["nvidia-nemotron", "gemini-flash"]

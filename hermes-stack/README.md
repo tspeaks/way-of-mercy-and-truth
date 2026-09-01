@@ -13,6 +13,7 @@ the original plan and what changed.
 **Moving machines:** [`docs/MIGRATION.md`](docs/MIGRATION.md).
 **Writing task prompts for Hermes (portable, any LLM):** [`docs/WRITING-FOR-HERMES.md`](docs/WRITING-FOR-HERMES.md).
 **Bugs in Hermes/LiteLLM itself, not this config:** [`docs/KNOWN-ISSUES.md`](docs/KNOWN-ISSUES.md).
+**What v0.20–v0.21 is actually good for here:** [`docs/V0.21-OPPORTUNITIES.md`](docs/V0.21-OPPORTUNITIES.md).
 
 ## Shape
 

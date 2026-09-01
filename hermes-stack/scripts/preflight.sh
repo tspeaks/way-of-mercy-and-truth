@@ -66,9 +66,6 @@ echo "Provider reachability:"
 [[ -n "${AION_API_KEY:-}" ]] \
   && probe "aion labs" "https://api.aionlabs.ai/v1/models" "$(bearer "$AION_API_KEY")" || none "aion labs"
 
-[[ -n "${DASHSCOPE_API_KEY:-}" ]] \
-  && probe "qwen/dashscope" "${DASHSCOPE_API_BASE:?}/models" "$(bearer "$DASHSCOPE_API_KEY")" || none "qwen/dashscope"
-
 [[ -n "${CEREBRAS_API_KEY:-}" ]] \
   && probe "cerebras" "https://api.cerebras.ai/v1/models" "$(bearer "$CEREBRAS_API_KEY")" || none "cerebras"
 
@@ -100,8 +97,7 @@ if (( ! QUICK )); then
   check_model "groq-fast"          "groq"           "llama-3.3-70b-versatile"
   check_model "codestral"          "mistral"        "codestral-latest"
   check_model "sambanova-deepseek" "sambanova"      "DeepSeek-V3.1"
-  check_model "qwen3-coder"        "qwen/dashscope" "qwen3-coder-plus"
-  check_model "qwen3-flash"        "qwen/dashscope" "qwen3-coder-flash"
+  check_model "nvidia-llama4"      "nvidia nim"     "meta/llama-4-maverick-17b-128e-instruct"
   check_model "cerebras-fast"      "cerebras"       "gpt-oss-120b"
   check_model "offtopic"           "aion labs"      "aion-3.0-mini"
   check_model "local-coder"        "local (ollama)" "hermes-local"

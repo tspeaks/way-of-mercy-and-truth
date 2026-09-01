@@ -88,32 +88,33 @@ model_list:
       max_tokens: 8192
       supports_vision: false
 
-  # ── QWEN / DashScope ─────────────────────────────────────────────────────────
-  # Endpoint is env-driven so you can flip Beijing <-> International without
-  # editing this file (see DASHSCOPE_API_BASE in .env.example).
-  - model_name: qwen3-coder
-    litellm_params:
-      model: openai/qwen3-coder-plus
-      api_base: os.environ/DASHSCOPE_API_BASE
-      api_key: os.environ/DASHSCOPE_API_KEY
-      rpm: 120
-      tpm: 1000000
-    model_info:
-      max_input_tokens: 131072
-      max_tokens: 8192
-      supports_vision: false
-
-  - model_name: qwen3-flash
-    litellm_params:
-      model: openai/qwen3-coder-flash
-      api_base: os.environ/DASHSCOPE_API_BASE
-      api_key: os.environ/DASHSCOPE_API_KEY
-      rpm: 120
-      tpm: 1000000
-    model_info:
-      max_input_tokens: 131072
-      max_tokens: 8192
-      supports_vision: false
+  # ── QWEN / DashScope — DISABLED. No free tier for qwen3-coder-plus or
+  # qwen3-coder-flash (confirmed in the Model Studio console). Left commented
+  # rather than deleted in case a genuinely free Qwen model appears later.
+  #
+  # - model_name: qwen3-coder
+  #   litellm_params:
+  #     model: openai/qwen3-coder-plus
+  #     api_base: os.environ/DASHSCOPE_API_BASE
+  #     api_key: os.environ/DASHSCOPE_API_KEY
+  #     rpm: 120
+  #     tpm: 1000000
+  #   model_info:
+  #     max_input_tokens: 131072
+  #     max_tokens: 8192
+  #     supports_vision: false
+  #
+  # - model_name: qwen3-flash
+  #   litellm_params:
+  #     model: openai/qwen3-coder-flash
+  #     api_base: os.environ/DASHSCOPE_API_BASE
+  #     api_key: os.environ/DASHSCOPE_API_KEY
+  #     rpm: 120
+  #     tpm: 1000000
+  #   model_info:
+  #     max_input_tokens: 131072
+  #     max_tokens: 8192
+  #     supports_vision: false
 
   # ── CEREBRAS — very fast, but hard 8K context cap on the free tier ───────────
   # Free tier (verify in your dashboard, it moves): ~5 RPM / 30K TPM / 1M tok/day,
@@ -219,7 +220,7 @@ model_list:
         tiers:
           SIMPLE:    local-coder    # LOCAL-TIER-LINE free and unmetered; costs electricity
           MEDIUM:    codestral            # ~1B tokens/month, strongest free coder
-          COMPLEX:   qwen3-coder          # 131K context for multi-file work
+          COMPLEX:   nvidia-llama4        # 128K context, 40 RPM dev tier
           REASONING: sambanova-deepseek   # small daily budget, low-volume tier
 
         default_model: codestral
@@ -260,28 +261,25 @@ router_settings:
   # openrouter-free sits last because its lineup rotates and its per-model data
   # policies vary; gemini-flash sits just above it as the long-context rescue.
   fallbacks:
-    - smart-router:        ["codestral", "qwen3-coder", "sambanova-deepseek", "nvidia-llama4", "cloudflare-llama", "gemini-flash", "openrouter-free"]
-    - local-coder:         ["groq-fast", "qwen3-flash", "codestral"]
-    - groq-fast:           ["qwen3-flash", "codestral"]
-    - codestral:           ["qwen3-coder", "sambanova-deepseek", "cloudflare-llama", "openrouter-free"]
-    - qwen3-coder:         ["codestral", "sambanova-deepseek", "nvidia-llama4", "openrouter-free"]
-    - qwen3-flash:         ["groq-fast", "qwen3-coder", "cloudflare-llama"]
-    - sambanova-deepseek:  ["nvidia-llama4", "qwen3-coder", "openrouter-free"]
-    - cerebras-fast:       ["qwen3-coder"]
-    - nvidia-llama4:       ["qwen3-coder", "cloudflare-llama"]
-    - offtopic:            ["qwen3-flash", "openrouter-free"]
+    - smart-router:        ["codestral", "nvidia-llama4", "sambanova-deepseek", "cloudflare-llama", "gemini-flash", "openrouter-free"]
+    - local-coder:         ["groq-fast", "codestral", "nvidia-llama4"]
+    - groq-fast:           ["codestral", "nvidia-llama4"]
+    - codestral:           ["nvidia-llama4", "sambanova-deepseek", "cloudflare-llama", "openrouter-free"]
+    - sambanova-deepseek:  ["nvidia-llama4", "codestral", "openrouter-free"]
+    - cerebras-fast:       ["nvidia-llama4"]
+    - nvidia-llama4:       ["codestral", "cloudflare-llama"]
+    - offtopic:            ["cloudflare-llama", "openrouter-free"]
 
   # Separate chain for "prompt too long for that deployment". This is what
   # rescues an overflowing request mid-flight instead of failing it: the 8K
   # Cerebras cap, the 6K Groq TPM fence, and the 28K local window all land here.
   context_window_fallbacks:
-    - local-coder:        ["codestral", "qwen3-coder", "gemini-flash"]
-    - groq-fast:          ["qwen3-flash", "codestral", "gemini-flash"]
-    - cerebras-fast:      ["qwen3-coder", "gemini-flash"]
-    - sambanova-deepseek: ["qwen3-coder", "gemini-flash"]
-    - codestral:          ["qwen3-coder", "gemini-flash"]
-    - qwen3-flash:        ["qwen3-coder", "gemini-flash"]
-    - qwen3-coder:        ["gemini-flash"]
+    - local-coder:        ["codestral", "nvidia-llama4", "gemini-flash"]
+    - groq-fast:          ["codestral", "nvidia-llama4", "gemini-flash"]
+    - cerebras-fast:      ["nvidia-llama4", "gemini-flash"]
+    - sambanova-deepseek: ["nvidia-llama4", "gemini-flash"]
+    - codestral:          ["nvidia-llama4", "gemini-flash"]
+    - nvidia-llama4:      ["gemini-flash"]
     - offtopic:           ["gemini-flash"]
 
 litellm_settings:

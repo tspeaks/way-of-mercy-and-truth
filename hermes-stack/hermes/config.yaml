@@ -42,6 +42,28 @@ model:
   default: smart-router
   api_mode: chat_completions
 
+# Real command execution. Without this block, Hermes has no working terminal
+# tool at all -- it will describe commands in prose instead of running them,
+# which is what "no file system access" actually was. backend: local runs
+# directly on this machine (no Docker/SSH/cloud sandbox), since Hermes and
+# the thing it's editing are already on the same box. cwd matters for the
+# gateway/cron context (Telegram); an interactive CLI session always uses
+# whatever directory you launched `hermes` from instead.
+terminal:
+  backend: local
+  cwd: "${HOME}"
+  timeout: 180
+
+# Structured, typed file read/write as a second path alongside raw shell --
+# some operations are cleaner as read_file/write_file/list_directory than as
+# a bash one-liner. Scoped to the whole home directory per Tyler's request;
+# narrow this to specific project directories later if the blast radius of
+# "every file Hermes can touch" ever needs tightening.
+mcp_servers:
+  filesystem:
+    command: npx
+    args: ["-y", "@modelcontextprotocol/server-filesystem", "${HOME}"]
+
 # No fallback_providers here on purpose: LiteLLM owns failover. Two independent
 # fallback layers fighting each other is how you end up burning the last-resort
 # quota without noticing.

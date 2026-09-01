@@ -1,0 +1,88 @@
+# Hermes Agent — points at the local LiteLLM proxy and nothing else.
+#
+# Deploy to ~/.hermes/config.yaml (scripts/bootstrap.sh does this, backing up
+# any existing file first). Secrets come from ~/.hermes/.env via ${VAR}.
+#
+# Verify after deploying:  hermes config get model     (see docs/MIGRATION.md)
+#
+# Schema note: Hermes' current docs use the `providers:` dictionary. The older
+# `custom_providers:` list still loads and auto-migrates, but write new config
+# in this form.
+
+providers:
+  litellm:
+    api: http://127.0.0.1:4000/v1
+    name: "LiteLLM (local)"
+    api_key: "${LITELLM_MASTER_KEY}"
+    transport: chat_completions
+    default_model: smart-router
+    # Hermes probes /v1/models; the router advertises every deployment, and you
+    # do not want Hermes picking one directly. Pin the list instead.
+    discover_models: false
+    models:
+      smart-router:
+        # The router spans an 8K deployment and a 1M one. Declare the context
+        # you actually want Hermes to plan against -- Qwen's 131K, the tier that
+        # handles the bulk of traffic. LiteLLM's context_window_fallbacks catch
+        # anything that overflows a smaller deployment underneath.
+        context_length: 131072
+      qwen3-flash:
+        context_length: 131072
+      qwen3-coder:
+        context_length: 131072
+      gemini-flash:
+        context_length: 1048576
+
+model:
+  provider: litellm
+  default: smart-router
+  api_mode: chat_completions
+
+# No fallback_providers here on purpose: LiteLLM owns failover. Two independent
+# fallback layers fighting each other is how you end up burning Gemini quota
+# without noticing.
+fallback_providers: []
+
+auxiliary:
+  # Side tasks run on the cheap tier directly -- there is no reason to pay the
+  # router's classification pass to decide that a title needs a small model.
+  compression:
+    provider: litellm
+    model: qwen3-flash
+    timeout: 120
+    max_concurrency: 2
+  title_generation:
+    enabled: true
+    provider: litellm
+    timeout: 30
+  triage_specifier:
+    provider: litellm
+    timeout: 120
+  vision:
+    # Only Gemini in this stack takes images.
+    provider: litellm
+    model: gemini-flash
+    timeout: 120
+
+delegation:
+  # Subagents get the fast tier; the parent keeps the router and synthesises.
+  provider: litellm
+  model: qwen3-flash
+  api_mode: chat_completions
+
+compression:
+  enabled: true
+  threshold: 0.50
+  target_ratio: 0.20
+  protect_last_n: 20
+  protect_first_n: 3
+
+tool_output:
+  # Free tiers make every wasted token expensive. Trim tool output hard before
+  # reaching for a compression plugin.
+  max_bytes: 30000
+  max_lines: 1200
+  max_line_length: 2000
+
+agent:
+  api_max_retries: 2   # LiteLLM already retries once; do not stack deep retries

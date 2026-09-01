@@ -1,0 +1,203 @@
+# LiteLLM Proxy — Hermes routing tier
+#
+# Portable: nothing machine-specific lives in this file. All secrets and the one
+# account-scoped URL come from the environment (see .env.example).
+#
+# Validate offline before starting:   scripts/validate-config.py
+# Probe live endpoints:               scripts/preflight.sh
+#
+# Every model entry carries BOTH:
+#   max_input_tokens  -> used by enable_pre_call_checks to skip deployments whose
+#                        context window is too small for the current prompt
+#   max_tokens        -> max OUTPUT tokens (this is NOT the context window)
+# Getting this wrong is the single most common cause of mid-session 400s.
+
+model_list:
+
+  # ── QWEN / DashScope — primary workhorse, 131K context ───────────────────────
+  # Endpoint is env-driven so you can flip Beijing <-> International without
+  # editing this file (see DASHSCOPE_API_BASE in .env.example).
+  - model_name: qwen3-coder
+    litellm_params:
+      model: openai/qwen3-coder-plus
+      api_base: os.environ/DASHSCOPE_API_BASE
+      api_key: os.environ/DASHSCOPE_API_KEY
+      rpm: 120
+      tpm: 1000000
+    model_info:
+      max_input_tokens: 131072
+      max_tokens: 8192
+      supports_vision: false
+
+  - model_name: qwen3-flash
+    litellm_params:
+      model: openai/qwen3-coder-flash
+      api_base: os.environ/DASHSCOPE_API_BASE
+      api_key: os.environ/DASHSCOPE_API_KEY
+      rpm: 120
+      tpm: 1000000
+    model_info:
+      max_input_tokens: 131072
+      max_tokens: 8192
+      supports_vision: false
+
+  # ── CEREBRAS — very fast, but hard 8K context cap on the free tier ───────────
+  # Free tier (verify in your dashboard, it moves): ~5 RPM / 30K TPM / 1M tok/day,
+  # and free-tier models are currently gpt-oss-120b and GLM-4.7 — NOT qwen3-235b.
+  # tpm is set under the 30K account cap; rpm under the 5 RPM cap.
+  - model_name: cerebras-fast
+    litellm_params:
+      model: cerebras/gpt-oss-120b
+      api_key: os.environ/CEREBRAS_API_KEY
+      rpm: 4
+      tpm: 25000
+    model_info:
+      max_input_tokens: 8192
+      max_tokens: 4096
+      supports_vision: false
+
+  # ── NVIDIA NIM — dev tier, 40 RPM ────────────────────────────────────────────
+  - model_name: nvidia-llama4
+    litellm_params:
+      model: openai/meta/llama-4-maverick-17b-128e-instruct
+      api_base: https://integrate.api.nvidia.com/v1
+      api_key: os.environ/NVIDIA_API_KEY
+      rpm: 35
+      tpm: 200000
+    model_info:
+      max_input_tokens: 128000
+      max_tokens: 8192
+      supports_vision: false
+
+  # ── CLOUDFLARE WORKERS AI — small daily neuron budget, keep rpm low ──────────
+  # api_base MUST be a whole-value env lookup. LiteLLM expands "os.environ/NAME"
+  # only when it is the entire value — it does NOT interpolate mid-string, so
+  # ".../accounts/os.environ/CLOUDFLARE_ACCOUNT_ID/ai/v1" would be sent literally.
+  - model_name: cloudflare-llama
+    litellm_params:
+      model: openai/@cf/meta/llama-4-scout-17b-16e-instruct
+      api_base: os.environ/CLOUDFLARE_API_BASE
+      api_key: os.environ/CLOUDFLARE_API_KEY
+      rpm: 3
+      tpm: 50000
+    model_info:
+      max_input_tokens: 128000
+      max_tokens: 4096
+      supports_vision: false
+
+  # ── GEMINI — last resort only, native provider (not the OpenAI shim) ─────────
+  - model_name: gemini-flash
+    litellm_params:
+      model: gemini/gemini-2.5-flash
+      api_key: os.environ/GEMINI_API_KEY
+      rpm: 10
+      tpm: 100000
+    model_info:
+      max_input_tokens: 1048576
+      max_tokens: 8192
+      supports_vision: true
+
+  # ── POLLINATIONS — DISABLED BY DEFAULT. See docs/ASSESSMENT.md §2. ───────────
+  # This is a third-party relay of other vendors' models, not a first-party API.
+  # Enabling it is the one choice in this stack that contradicts the plan's own
+  # "direct API calls only" premise. Uncomment only if you have decided that
+  # deliberately, and keep it out of the tiers below if you have not.
+  #
+  # - model_name: pollinations-gpt5
+  #   litellm_params:
+  #     model: openai/gpt-5
+  #     api_base: https://text.pollinations.ai/openai
+  #     api_key: os.environ/POLLINATIONS_API_KEY
+  #     rpm: 60
+  #     tpm: 500000
+  #   model_info:
+  #     max_input_tokens: 128000
+  #     max_tokens: 8192
+
+  # ── LOCAL GPU SLOT — the migration hook. Empty until you have the hardware. ──
+  # After migration: fill LOCAL_API_BASE + LOCAL_MODEL in .env, uncomment this
+  # block, and move SIMPLE/MEDIUM onto it in the tiers below. Nothing else in
+  # the stack changes. See docs/LOCAL-MODELS.md for sizing.
+  #
+  # - model_name: local-coder
+  #   litellm_params:
+  #     model: openai/qwen2.5-coder-32b-instruct   # literal id your server serves
+  #     api_base: os.environ/LOCAL_API_BASE
+  #     api_key: os.environ/LOCAL_API_KEY
+  #     rpm: 600
+  #     tpm: 10000000
+  #   model_info:
+  #     max_input_tokens: 65536
+  #     max_tokens: 8192
+
+  # ── THE ROUTER — the only model name Hermes ever asks for ────────────────────
+  - model_name: smart-router
+    litellm_params:
+      model: auto_router/complexity_router
+      drop_params: true
+      complexity_router_default_model: qwen3-coder
+      complexity_router_config:
+        # One model per tier, deliberately.
+        # A list here is NOT an ordered preference list — LiteLLM picks from it
+        # with random.choice(), which is exactly the provider-bouncing behaviour
+        # this stack is trying to avoid. Ordered failover is the `fallbacks`
+        # block in router_settings below.
+        tiers:
+          SIMPLE:    qwen3-flash
+          MEDIUM:    qwen3-coder
+          COMPLEX:   qwen3-coder
+          REASONING: nvidia-llama4
+
+        default_model: qwen3-coder
+
+        # Deterministic overrides that run before the classifier.
+        keyword_tier_rules:
+          - keywords: ["refactor", "architecture", "design pattern", "system design", "trade-off"]
+            tier: REASONING
+          - keywords: ["fix", "bug", "error", "stack trace", "exception", "traceback"]
+            tier: COMPLEX
+          - keywords: ["rename", "format", "lint", "typo", "comment", "docstring"]
+            tier: SIMPLE
+
+        # Keep a conversation on one model: preserves prompt cache, avoids
+        # mid-session capability cliffs.
+        session_affinity: true
+        session_affinity_ttl_seconds: 1800
+
+        # Bandit-style re-selection off: with free tiers you want predictable
+        # placement, not exploration that quietly spends another provider's quota.
+        adaptive: false
+
+router_settings:
+  # THE important one. Without this, max_input_tokens is inert and a long prompt
+  # routed to an 8K deployment fails at the provider instead of being re-routed.
+  enable_pre_call_checks: true
+
+  num_retries: 1
+  timeout: 60
+  cooldown_time: 300
+  allowed_fails: 2
+
+  # Ordered failover on 429/5xx. Gemini sits last and only gets traffic once
+  # everything above it has failed or cooled down.
+  fallbacks:
+    - smart-router: ["qwen3-coder", "cerebras-fast", "nvidia-llama4", "cloudflare-llama", "gemini-flash"]
+    - qwen3-coder:  ["nvidia-llama4", "cloudflare-llama", "gemini-flash"]
+    - qwen3-flash:  ["qwen3-coder", "cloudflare-llama"]
+    - cerebras-fast: ["qwen3-coder"]
+    - nvidia-llama4: ["qwen3-coder", "cloudflare-llama"]
+
+  # Separate chain for "prompt too long for that deployment" — this is what
+  # actually rescues you from the Cerebras 8K wall, mid-request, transparently.
+  context_window_fallbacks:
+    - cerebras-fast: ["qwen3-coder", "gemini-flash"]
+    - qwen3-flash: ["qwen3-coder", "gemini-flash"]
+    - qwen3-coder: ["gemini-flash"]
+
+litellm_settings:
+  drop_params: true
+  set_verbose: false
+  request_timeout: 60
+
+general_settings:
+  master_key: os.environ/LITELLM_MASTER_KEY

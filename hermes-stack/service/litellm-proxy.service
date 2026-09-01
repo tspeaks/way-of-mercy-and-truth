@@ -1,0 +1,27 @@
+# systemd user unit — keeps the proxy up so Hermes never starts before it.
+#   mkdir -p ~/.config/systemd/user
+#   cp service/litellm-proxy.service ~/.config/systemd/user/
+#   systemctl --user daemon-reload && systemctl --user enable --now litellm-proxy
+#   loginctl enable-linger "$USER"    # survive logout / run headless
+[Unit]
+Description=LiteLLM proxy (Hermes model router)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+EnvironmentFile=%h/.litellm/.env
+ExecStart=%h/.litellm/venv/bin/litellm --config %h/.litellm/config.yaml --port 4000
+Restart=on-failure
+RestartSec=5
+# The proxy holds every provider key in memory; keep it fenced in.
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=%h/.litellm
+ProtectKernelTunables=true
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+
+[Install]
+WantedBy=default.target

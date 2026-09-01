@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- macOS launchd agent.
+     cp service/com.local.litellm.plist ~/Library/LaunchAgents/
+     launchctl load -w ~/Library/LaunchAgents/com.local.litellm.plist
+     Replace USERNAME below (launchd does not expand ~ or $HOME here). -->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.local.litellm</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>-lc</string>
+    <string>set -a; . "$HOME/.litellm/.env"; set +a; exec "$HOME/.litellm/venv/bin/litellm" --config "$HOME/.litellm/config.yaml" --port 4000</string>
+  </array>
+  <key>RunAtLoad</key><true/>
+  <key>KeepAlive</key><true/>
+  <key>StandardOutPath</key><string>/tmp/litellm.out.log</string>
+  <key>StandardErrorPath</key><string>/tmp/litellm.err.log</string>
+</dict>
+</plist>

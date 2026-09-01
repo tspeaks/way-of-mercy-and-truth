@@ -134,18 +134,25 @@ model_list:
       max_tokens: 4096
       supports_vision: false
 
-  # ── NVIDIA NIM — dev tier, 40 RPM ────────────────────────────────────────────
-  # Model id verified live 2026-09-01. Llama 4 Maverick is not listed for this
-  # account/region; Nemotron 70B is the closest large-context instruct model.
-  - model_name: nvidia-nemotron
+  # ── NVIDIA NIM — Kimi K3 (Moonshot AI), 1M context ───────────────────────────
+  # Model id verified live 2026-09-01 with a real completion (HTTP 200).
+  # Neither Llama 4 Maverick nor Nemotron 70B are actually invokable for this
+  # account (both 404 "Function not found"), despite appearing in /v1/models --
+  # that endpoint's listing does not reflect what's genuinely deployable.
+  # Kimi K3 is a reasoning model: short max_tokens budgets can be consumed
+  # entirely by reasoning_content before any final answer, so keep max_tokens
+  # generous. rpm/tpm below are the general NVIDIA NIM dev-tier defaults, not
+  # verified specifically for this model -- tighten with scripts/preflight.sh
+  # once real usage patterns are known.
+  - model_name: nvidia-kimi
     litellm_params:
-      model: openai/nvidia/llama-3.1-nemotron-70b-instruct
+      model: openai/moonshotai/kimi-k3
       api_base: https://integrate.api.nvidia.com/v1
       api_key: os.environ/NVIDIA_API_KEY
       rpm: 35
       tpm: 200000
     model_info:
-      max_input_tokens: 128000
+      max_input_tokens: 1000000
       max_tokens: 8192
       supports_vision: false
 
@@ -226,7 +233,7 @@ model_list:
         tiers:
           SIMPLE:    local-coder    # LOCAL-TIER-LINE free and unmetered; costs electricity
           MEDIUM:    codestral            # ~1B tokens/month, strongest free coder
-          COMPLEX:   nvidia-nemotron        # 128K context, 40 RPM dev tier
+          COMPLEX:   nvidia-kimi        # Kimi K3, 1M context, for multi-file work
           REASONING: gemini-flash         # low-volume tier; free-tier prompts may train Google's models
 
         default_model: codestral
@@ -267,12 +274,12 @@ router_settings:
   # openrouter-free sits last because its lineup rotates and its per-model data
   # policies vary; gemini-flash sits just above it as the long-context rescue.
   fallbacks:
-    - smart-router:        ["codestral", "nvidia-nemotron", "gemini-flash", "cloudflare-llama", "openrouter-free"]
-    - local-coder:         ["groq-fast", "codestral", "nvidia-nemotron"]
-    - groq-fast:           ["codestral", "nvidia-nemotron"]
-    - codestral:           ["nvidia-nemotron", "cloudflare-llama", "openrouter-free"]
-    - cerebras-fast:       ["nvidia-nemotron"]
-    - nvidia-nemotron:     ["codestral", "cloudflare-llama"]
+    - smart-router:        ["codestral", "nvidia-kimi", "gemini-flash", "cloudflare-llama", "openrouter-free"]
+    - local-coder:         ["groq-fast", "codestral", "nvidia-kimi"]
+    - groq-fast:           ["codestral", "nvidia-kimi"]
+    - codestral:           ["nvidia-kimi", "cloudflare-llama", "openrouter-free"]
+    - cerebras-fast:       ["nvidia-kimi"]
+    - nvidia-kimi:     ["codestral", "cloudflare-llama"]
     - offtopic:            ["cloudflare-llama", "openrouter-free"]
 
   # Separate chain for "prompt too long for that deployment". This is what
@@ -283,12 +290,12 @@ router_settings:
     # entry keyed on it, a context-window failure inside the router (e.g.
     # the local tier's 28K cap) has nowhere to look up an escalation chain
     # and fails outright instead of rerouting. Verified live 2026-09-01.
-    - smart-router:       ["codestral", "nvidia-nemotron", "gemini-flash"]
-    - local-coder:        ["codestral", "nvidia-nemotron", "gemini-flash"]
-    - groq-fast:          ["codestral", "nvidia-nemotron", "gemini-flash"]
-    - cerebras-fast:      ["nvidia-nemotron", "gemini-flash"]
-    - codestral:          ["nvidia-nemotron", "gemini-flash"]
-    - nvidia-nemotron:    ["gemini-flash"]
+    - smart-router:       ["codestral", "nvidia-kimi", "gemini-flash"]
+    - local-coder:        ["codestral", "nvidia-kimi", "gemini-flash"]
+    - groq-fast:          ["codestral", "nvidia-kimi", "gemini-flash"]
+    - cerebras-fast:      ["nvidia-kimi", "gemini-flash"]
+    - codestral:          ["nvidia-kimi", "gemini-flash"]
+    - nvidia-kimi:    ["gemini-flash"]
     - offtopic:           ["gemini-flash"]
 
 litellm_settings:

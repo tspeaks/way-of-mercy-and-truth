@@ -8,14 +8,14 @@ Verified against litellm 1.99.0 and a live proxy boot on 2026-09-01.
 |---|---|---|---|
 | SIMPLE | `local-coder` | Ollama, RTX 2070 | Free and unmetered. Most requests, least thinking. |
 | MEDIUM | `codestral` | Mistral | ~1B tokens/month is the largest free coding allowance in the stack. |
-| COMPLEX | `nvidia-nemotron` | NVIDIA NIM | 128K context, 40 RPM dev tier, for multi-file work. |
+| COMPLEX | `nvidia-kimi` | NVIDIA NIM (Kimi K3, Moonshot AI) | 1M context, built for agentic coding tasks. |
 | REASONING | `gemini-flash` | Google | Low-volume tier; the only remaining provider with real reasoning depth and headroom. Free-tier prompts may train Google's models. |
 
 Measured with `scripts/explain-routing.py` against the live config:
 
 ```
 rename the variable foo to bar                      SIMPLE     kw:rename    local-coder
-fix the TypeError in the login handler, stack ...   COMPLEX    kw:fix       nvidia-nemotron
+fix the TypeError in the login handler, stack ...   COMPLEX    kw:fix       nvidia-kimi
 write a function that parses ISO 8601 timestamps    SIMPLE     score        local-coder
 refactor the auth module to use dependency inj...   REASONING  kw:refactor  gemini-flash
 design a schema for multi-tenant billing with ...   MEDIUM     score        codestral
@@ -51,7 +51,7 @@ earns `rpm: 3`.
 
 **Qwen / DashScope is not in this stack.** No free tier exists for
 `qwen3-coder-plus` or `qwen3-coder-flash` — confirmed directly in the Model
-Studio console. `nvidia-nemotron` (128K context, 40 RPM) takes the COMPLEX slot
+Studio console. `nvidia-kimi` (Kimi K3, 1M context) takes the COMPLEX slot
 and the auxiliary roles (compression, triage, delegation) that Qwen would
 otherwise have filled. The commented-out block stays in `config.yaml` and
 `.env.example` in case Alibaba adds a genuinely free tier later.

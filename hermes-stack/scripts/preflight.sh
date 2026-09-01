@@ -107,7 +107,7 @@ if (( ! QUICK )); then
   }
   check_model "groq-fast"          "groq"           "openai/gpt-oss-20b"
   check_model "codestral"          "mistral"        "codestral-latest"
-  check_model "nvidia-nemotron"    "nvidia nim"     "nvidia/llama-3.1-nemotron-70b-instruct"
+  check_model "nvidia-kimi"    "nvidia nim"     "moonshotai/kimi-k3"
   check_model "cerebras-fast"      "cerebras"       "gpt-oss-120b"
   check_model "offtopic"           "aion labs"      "aion-labs/aion-3.0-mini"
   check_model "local-coder"        "local (ollama)" "hermes-local"

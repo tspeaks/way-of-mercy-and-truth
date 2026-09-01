@@ -17,7 +17,7 @@ the original plan and what changed.
 ```
 Hermes  ──►  LiteLLM :4000  ──►  SIMPLE     local-coder          (RTX 2070, free)
  (one          (all the          MEDIUM     codestral            (~1B tok/month)
-  model         routing,         COMPLEX    nvidia-nemotron        (128K context)
+  model         routing,         COMPLEX    nvidia-kimi        (Kimi K3, 1M context)
   name)         all the keys)    REASONING  gemini-flash         (1M context)
 
                                  short-prompt fallback  groq-fast   (6K TPM fence)

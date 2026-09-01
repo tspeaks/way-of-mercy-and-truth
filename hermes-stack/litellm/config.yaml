@@ -189,13 +189,15 @@ model_list:
       max_tokens: 8192
       supports_vision: false
 
-  # ── GEMINI — long-context rescue and late fallback ──────────────────────────
-  # PRIVACY: free-tier prompts may be used to improve Google's products. It is
-  # last in the chain partly for that reason, and it is the only deployment big
-  # enough to absorb a prompt nothing else can hold.
+  # ── GEMINI — REASONING tier and long-context rescue ──────────────────────────
+  # PRIVACY: free-tier prompts may be used to improve Google's products.
+  # Model id verified live 2026-09-01: gemini-2.5-flash still appears in
+  # /v1beta/models but 404s at generation time with "no longer available to
+  # new users" -- that listing endpoint is stale, same pattern as NVIDIA's.
+  # gemini-3.6-flash is Google's current recommended replacement.
   - model_name: gemini-flash
     litellm_params:
-      model: gemini/gemini-2.5-flash
+      model: gemini/gemini-3.6-flash
       api_key: os.environ/GEMINI_API_KEY
       rpm: 10
       tpm: 100000

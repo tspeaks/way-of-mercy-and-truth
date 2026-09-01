@@ -34,7 +34,9 @@ probe() {
   case "$code" in
     200)
       MODELS_JSON[$label]="$(head -n-1 <<<"$body")"
-      local n; n=$(grep -o '"id"' <<<"${MODELS_JSON[$label]}" | wc -l | tr -d ' ')
+      # Most catalogs key each entry "id"; Gemini's uses "name" instead.
+      # Count either so a real listing never reports as "0 models visible".
+      local n; n=$(grep -oE '"id"|"name"' <<<"${MODELS_JSON[$label]}" | wc -l | tr -d ' ')
       ok "$label" "$n models visible" ;;
     401|403) bad "$label" "HTTP $code — key rejected" ;;
     404) bad "$label" "HTTP $code — wrong base URL or path" ;;
@@ -111,6 +113,10 @@ if (( ! QUICK )); then
   check_model "cerebras-fast"      "cerebras"       "gpt-oss-120b"
   check_model "offtopic"           "aion labs"      "aion-labs/aion-3.0-mini"
   check_model "local-coder"        "local (ollama)" "hermes-local"
+  # Presence in this listing is necessary but not sufficient -- Google kept
+  # gemini-2.5-flash listed here for months after 404ing it at generation
+  # time for new accounts. This only catches outright removal.
+  check_model "gemini-flash"       "gemini"         "models/gemini-3.6-flash"
   # openrouter-free is regenerated from the live list, so it is checked there
   if [[ -n "${MODELS_JSON[openrouter]:-}" ]] && [[ -f "$REPO/litellm/openrouter-free.yaml" ]]; then
     want=$(grep -o 'model: openrouter/[^ ]*' "$REPO/litellm/openrouter-free.yaml" | head -1 | sed 's|model: openrouter/||')

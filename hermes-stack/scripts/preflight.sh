@@ -88,7 +88,10 @@ if (( ! QUICK )); then
     local dep="$1" label="$2" want="$3"
     local json="${MODELS_JSON[$label]:-}"
     [[ -z "$json" ]] && { none "$dep" "$label not reachable"; return; }
-    if grep -q "\"$want\"" <<<"$json"; then
+    # Tag-tolerant: Ollama returns local models as "name:tag" (e.g.
+    # "hermes-local:latest"), so an exact quoted match on the bare name
+    # never matches. Accept an optional ":anything" before the closing quote.
+    if grep -Eq "\"${want}(:[^\"]*)?\"" <<<"$json"; then
       ok "$dep" "$want"
     else
       bad "$dep" "$label does not list '$want' — edit config.yaml"

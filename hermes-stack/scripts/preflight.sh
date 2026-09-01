@@ -38,6 +38,17 @@ probe() {
       ok "$label" "$n models visible" ;;
     401|403) bad "$label" "HTTP $code — key rejected" ;;
     404) bad "$label" "HTTP $code — wrong base URL or path" ;;
+    405)
+      if [[ "$label" == "cloudflare" ]]; then
+        # Cloudflare's OpenAI-compatible endpoint does not implement GET
+        # /models (confirmed: error 7001 "GET not supported for requested
+        # URI"). This is not a key or config problem -- verified 2026-09-01
+        # with a real POST /chat/completions, which returned 200. Not
+        # re-tested here on every run to avoid spending real neuron budget.
+        none "$label" "GET /models unsupported by this provider; verify with a real completion instead"
+      else
+        bad "$label" "HTTP $code"
+      fi ;;
     429) bad "$label" "HTTP $code — rate limited or quota exhausted" ;;
     *)   bad "$label" "HTTP $code" ;;
   esac

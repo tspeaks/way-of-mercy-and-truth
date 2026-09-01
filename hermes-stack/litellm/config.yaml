@@ -66,9 +66,28 @@ model_list:
   # at console.mistral.ai -> Admin -> Privacy. Do that before the first request.
   # RATE: Mistral no longer publishes free-tier RPM. rpm below is deliberately
   # conservative; raise it to whatever your Admin Console -> Limits shows.
+  # NOT tool-capable: confirmed live 2026-09-01 that codestral-latest returns
+  # tool_calls: null and writes the call as plain text instead. Demoted from
+  # MEDIUM/default to a fallback -- still useful for pure code generation,
+  # just not for anything Hermes needs to actually execute.
   - model_name: codestral
     litellm_params:
       model: mistral/codestral-latest
+      api_key: os.environ/MISTRAL_API_KEY
+      rpm: 6
+      tpm: 300000
+    model_info:
+      max_input_tokens: 128000
+      max_tokens: 8192
+      supports_vision: false
+
+  # ── MISTRAL SMALL — the MEDIUM tier and default_model ────────────────────────
+  # Same account/key/quota as codestral above; mistral-small-latest is a
+  # general instruct model with real function-calling support, unlike
+  # codestral. This is the one Hermes actually needs for everyday tool use.
+  - model_name: mistral-tools
+    litellm_params:
+      model: mistral/mistral-small-latest
       api_key: os.environ/MISTRAL_API_KEY
       rpm: 6
       tpm: 300000
@@ -224,7 +243,7 @@ model_list:
   - model_name: smart-router
     litellm_params:
       model: auto_router/complexity_router
-      complexity_router_default_model: codestral
+      complexity_router_default_model: mistral-tools
       complexity_router_config:
         # One model per tier, deliberately.
         # A list here is NOT an ordered preference list — LiteLLM picks from it
@@ -233,11 +252,11 @@ model_list:
         # block in router_settings below.
         tiers:
           SIMPLE:    local-coder    # LOCAL-TIER-LINE free and unmetered; costs electricity
-          MEDIUM:    codestral            # ~1B tokens/month, strongest free coder
+          MEDIUM:    mistral-tools        # mistral-small-latest, tool-capable, same account as codestral
           COMPLEX:   nvidia-kimi        # Kimi K3, 1M context, for multi-file work
           REASONING: gemini-flash         # low-volume tier; free-tier prompts may train Google's models
 
-        default_model: codestral
+        default_model: mistral-tools
 
         # Deterministic overrides that run before the classifier. On the default
         # tier_boundaries the heuristic scorer sends most real coding prompts to
@@ -274,13 +293,19 @@ router_settings:
   # first-party tiers, then the metered ones, then the aggregator.
   # openrouter-free sits last because its lineup rotates and its per-model data
   # policies vary; gemini-flash sits just above it as the long-context rescue.
+  # Tool-capable deployments (mistral-tools, nvidia-kimi, gemini-flash) are
+  # preferred throughout -- codestral works for plain text but silently can't
+  # call a tool if a fallback lands there, so it sits later in each chain
+  # rather than being removed outright; it's still useful as a last resort
+  # before the aggregator.
   fallbacks:
-    - smart-router:        ["codestral", "nvidia-kimi", "gemini-flash", "cloudflare-llama", "openrouter-free"]
-    - local-coder:         ["groq-fast", "cerebras-fast", "codestral", "nvidia-kimi", "openrouter-free"]
-    - groq-fast:           ["cerebras-fast", "codestral", "nvidia-kimi", "openrouter-free"]
+    - smart-router:        ["mistral-tools", "nvidia-kimi", "gemini-flash", "cloudflare-llama", "codestral", "openrouter-free"]
+    - local-coder:         ["groq-fast", "cerebras-fast", "mistral-tools", "nvidia-kimi", "openrouter-free"]
+    - groq-fast:           ["cerebras-fast", "mistral-tools", "nvidia-kimi", "openrouter-free"]
+    - mistral-tools:       ["nvidia-kimi", "cloudflare-llama", "codestral", "openrouter-free"]
     - codestral:           ["nvidia-kimi", "cloudflare-llama", "openrouter-free"]
     - cerebras-fast:       ["nvidia-kimi", "openrouter-free"]
-    - nvidia-kimi:         ["codestral", "cloudflare-llama", "openrouter-free"]
+    - nvidia-kimi:         ["mistral-tools", "cloudflare-llama", "openrouter-free"]
     - offtopic:            ["cloudflare-llama", "openrouter-free"]
 
   # Separate chain for "prompt too long for that deployment". This is what
@@ -291,10 +316,11 @@ router_settings:
     # entry keyed on it, a context-window failure inside the router (e.g.
     # the local tier's 28K cap) has nowhere to look up an escalation chain
     # and fails outright instead of rerouting. Verified live 2026-09-01.
-    - smart-router:       ["codestral", "nvidia-kimi", "gemini-flash"]
-    - local-coder:        ["codestral", "nvidia-kimi", "gemini-flash"]
-    - groq-fast:          ["codestral", "nvidia-kimi", "gemini-flash"]
+    - smart-router:       ["mistral-tools", "nvidia-kimi", "gemini-flash"]
+    - local-coder:        ["mistral-tools", "nvidia-kimi", "gemini-flash"]
+    - groq-fast:          ["mistral-tools", "nvidia-kimi", "gemini-flash"]
     - cerebras-fast:      ["nvidia-kimi", "gemini-flash"]
+    - mistral-tools:      ["nvidia-kimi", "gemini-flash"]
     - codestral:          ["nvidia-kimi", "gemini-flash"]
     - nvidia-kimi:    ["gemini-flash"]
     - offtopic:           ["gemini-flash"]

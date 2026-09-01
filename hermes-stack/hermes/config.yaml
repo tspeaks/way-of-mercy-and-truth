@@ -30,6 +30,8 @@ providers:
         context_length: 1000000
       codestral:
         context_length: 128000
+      mistral-tools:
+        context_length: 128000
       local-coder:
         context_length: 28672
       offtopic:

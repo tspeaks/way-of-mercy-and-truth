@@ -8,14 +8,14 @@ Verified against litellm 1.99.0 and a live proxy boot on 2026-09-01.
 |---|---|---|---|
 | SIMPLE | `local-coder` | Ollama, RTX 2070 | Free and unmetered. Most requests, least thinking. |
 | MEDIUM | `codestral` | Mistral | ~1B tokens/month is the largest free coding allowance in the stack. |
-| COMPLEX | `nvidia-llama4` | NVIDIA NIM | 128K context, 40 RPM dev tier, for multi-file work. |
+| COMPLEX | `nvidia-nemotron` | NVIDIA NIM | 128K context, 40 RPM dev tier, for multi-file work. |
 | REASONING | `sambanova-deepseek` | SambaNova | 200K tokens/day suits a tier that is a few percent of traffic. |
 
 Measured with `scripts/explain-routing.py` against the live config:
 
 ```
 rename the variable foo to bar                      SIMPLE     kw:rename    local-coder
-fix the TypeError in the login handler, stack ...   COMPLEX    kw:fix       nvidia-llama4
+fix the TypeError in the login handler, stack ...   COMPLEX    kw:fix       nvidia-nemotron
 write a function that parses ISO 8601 timestamps    SIMPLE     score        local-coder
 refactor the auth module to use dependency inj...   REASONING  kw:refactor  sambanova-deepseek
 design a schema for multi-tenant billing with ...   MEDIUM     score        codestral
@@ -49,7 +49,7 @@ earns `rpm: 3`.
 
 **Qwen / DashScope is not in this stack.** No free tier exists for
 `qwen3-coder-plus` or `qwen3-coder-flash` — confirmed directly in the Model
-Studio console. `nvidia-llama4` (128K context, 40 RPM) takes the COMPLEX slot
+Studio console. `nvidia-nemotron` (128K context, 40 RPM) takes the COMPLEX slot
 and the auxiliary roles (compression, triage, delegation) that Qwen would
 otherwise have filled. The commented-out block stays in `config.yaml` and
 `.env.example` in case Alibaba adds a genuinely free tier later.

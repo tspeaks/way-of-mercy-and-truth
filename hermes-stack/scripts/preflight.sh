@@ -94,12 +94,12 @@ if (( ! QUICK )); then
       bad "$dep" "$label does not list '$want' — edit config.yaml"
     fi
   }
-  check_model "groq-fast"          "groq"           "llama-3.3-70b-versatile"
+  check_model "groq-fast"          "groq"           "openai/gpt-oss-20b"
   check_model "codestral"          "mistral"        "codestral-latest"
   check_model "sambanova-deepseek" "sambanova"      "DeepSeek-V3.1"
-  check_model "nvidia-llama4"      "nvidia nim"     "meta/llama-4-maverick-17b-128e-instruct"
+  check_model "nvidia-nemotron"    "nvidia nim"     "nvidia/llama-3.1-nemotron-70b-instruct"
   check_model "cerebras-fast"      "cerebras"       "gpt-oss-120b"
-  check_model "offtopic"           "aion labs"      "aion-3.0-mini"
+  check_model "offtopic"           "aion labs"      "aion-labs/aion-3.0-mini"
   check_model "local-coder"        "local (ollama)" "hermes-local"
   # openrouter-free is regenerated from the live list, so it is checked there
   if [[ -n "${MODELS_JSON[openrouter]:-}" ]] && [[ -f "$REPO/litellm/openrouter-free.yaml" ]]; then

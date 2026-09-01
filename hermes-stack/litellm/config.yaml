@@ -47,9 +47,12 @@ model_list:
   # The 6K TPM cap is the real constraint: one 6K-token request per minute. Kept
   # for short, high-frequency turns, and fenced off from long prompts by
   # max_input_tokens rather than by hoping the classifier keeps them away.
+  # Model id verified live 2026-09-01 -- Groq retired llama-3.3-70b-versatile;
+  # gpt-oss-20b is the closest fit for a fast, short-prompt tier. Re-check with
+  # scripts/preflight.sh periodically, this lineup rotates.
   - model_name: groq-fast
     litellm_params:
-      model: groq/llama-3.3-70b-versatile
+      model: groq/openai/gpt-oss-20b
       api_key: os.environ/GROQ_API_KEY
       rpm: 25
       tpm: 5500
@@ -131,9 +134,11 @@ model_list:
       supports_vision: false
 
   # ── NVIDIA NIM — dev tier, 40 RPM ────────────────────────────────────────────
-  - model_name: nvidia-llama4
+  # Model id verified live 2026-09-01. Llama 4 Maverick is not listed for this
+  # account/region; Nemotron 70B is the closest large-context instruct model.
+  - model_name: nvidia-nemotron
     litellm_params:
-      model: openai/meta/llama-4-maverick-17b-128e-instruct
+      model: openai/nvidia/llama-3.1-nemotron-70b-instruct
       api_base: https://integrate.api.nvidia.com/v1
       api_key: os.environ/NVIDIA_API_KEY
       rpm: 35
@@ -166,7 +171,7 @@ model_list:
   # a fifth complexity tier.
   - model_name: offtopic
     litellm_params:
-      model: openai/aion-3.0-mini
+      model: openai/aion-labs/aion-3.0-mini
       api_base: https://api.aionlabs.ai/v1
       api_key: os.environ/AION_API_KEY
       rpm: 12
@@ -220,7 +225,7 @@ model_list:
         tiers:
           SIMPLE:    local-coder    # LOCAL-TIER-LINE free and unmetered; costs electricity
           MEDIUM:    codestral            # ~1B tokens/month, strongest free coder
-          COMPLEX:   nvidia-llama4        # 128K context, 40 RPM dev tier
+          COMPLEX:   nvidia-nemotron        # 128K context, 40 RPM dev tier
           REASONING: sambanova-deepseek   # small daily budget, low-volume tier
 
         default_model: codestral
@@ -261,25 +266,25 @@ router_settings:
   # openrouter-free sits last because its lineup rotates and its per-model data
   # policies vary; gemini-flash sits just above it as the long-context rescue.
   fallbacks:
-    - smart-router:        ["codestral", "nvidia-llama4", "sambanova-deepseek", "cloudflare-llama", "gemini-flash", "openrouter-free"]
-    - local-coder:         ["groq-fast", "codestral", "nvidia-llama4"]
-    - groq-fast:           ["codestral", "nvidia-llama4"]
-    - codestral:           ["nvidia-llama4", "sambanova-deepseek", "cloudflare-llama", "openrouter-free"]
-    - sambanova-deepseek:  ["nvidia-llama4", "codestral", "openrouter-free"]
-    - cerebras-fast:       ["nvidia-llama4"]
-    - nvidia-llama4:       ["codestral", "cloudflare-llama"]
+    - smart-router:        ["codestral", "nvidia-nemotron", "sambanova-deepseek", "cloudflare-llama", "gemini-flash", "openrouter-free"]
+    - local-coder:         ["groq-fast", "codestral", "nvidia-nemotron"]
+    - groq-fast:           ["codestral", "nvidia-nemotron"]
+    - codestral:           ["nvidia-nemotron", "sambanova-deepseek", "cloudflare-llama", "openrouter-free"]
+    - sambanova-deepseek:  ["nvidia-nemotron", "codestral", "openrouter-free"]
+    - cerebras-fast:       ["nvidia-nemotron"]
+    - nvidia-nemotron:       ["codestral", "cloudflare-llama"]
     - offtopic:            ["cloudflare-llama", "openrouter-free"]
 
   # Separate chain for "prompt too long for that deployment". This is what
   # rescues an overflowing request mid-flight instead of failing it: the 8K
   # Cerebras cap, the 6K Groq TPM fence, and the 28K local window all land here.
   context_window_fallbacks:
-    - local-coder:        ["codestral", "nvidia-llama4", "gemini-flash"]
-    - groq-fast:          ["codestral", "nvidia-llama4", "gemini-flash"]
-    - cerebras-fast:      ["nvidia-llama4", "gemini-flash"]
-    - sambanova-deepseek: ["nvidia-llama4", "gemini-flash"]
-    - codestral:          ["nvidia-llama4", "gemini-flash"]
-    - nvidia-llama4:      ["gemini-flash"]
+    - local-coder:        ["codestral", "nvidia-nemotron", "gemini-flash"]
+    - groq-fast:          ["codestral", "nvidia-nemotron", "gemini-flash"]
+    - cerebras-fast:      ["nvidia-nemotron", "gemini-flash"]
+    - sambanova-deepseek: ["nvidia-nemotron", "gemini-flash"]
+    - codestral:          ["nvidia-nemotron", "gemini-flash"]
+    - nvidia-nemotron:      ["gemini-flash"]
     - offtopic:           ["gemini-flash"]
 
 litellm_settings:

@@ -26,7 +26,7 @@ providers:
         # LiteLLM's context_window_fallbacks catch anything that overflows a
         # smaller deployment underneath, so Hermes never has to know.
         context_length: 131072
-      nvidia-llama4:
+      nvidia-nemotron:
         context_length: 128000
       codestral:
         context_length: 128000
@@ -76,12 +76,12 @@ auxiliary:
   # to the local 28K model or to Aion's daily budget.
   compression:
     provider: litellm
-    model: nvidia-llama4
+    model: nvidia-nemotron
     timeout: 120
     max_concurrency: 2
   triage_specifier:
     provider: litellm
-    model: nvidia-llama4
+    model: nvidia-nemotron
     timeout: 120
   vision:
     # Only Gemini in this stack takes images.
@@ -95,7 +95,7 @@ delegation:
   # OLLAMA_NUM_PARALLEL=1 so the 8 GB card holds one context, and concurrent
   # subagents would serialise behind each other.
   provider: litellm
-  model: nvidia-llama4
+  model: nvidia-nemotron
   api_mode: chat_completions
 
 compression:

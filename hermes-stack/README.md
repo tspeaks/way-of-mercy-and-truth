@@ -17,7 +17,7 @@ the original plan and what changed.
 ```
 Hermes  ──►  LiteLLM :4000  ──►  SIMPLE     local-coder          (RTX 2070, free)
  (one          (all the          MEDIUM     codestral            (~1B tok/month)
-  model         routing,         COMPLEX    nvidia-llama4        (128K context)
+  model         routing,         COMPLEX    nvidia-nemotron        (128K context)
   name)         all the keys)    REASONING  sambanova-deepseek   (200K tok/day)
 
                                  short-prompt fallback  groq-fast   (6K TPM fence)

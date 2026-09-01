@@ -68,9 +68,6 @@ echo "Provider reachability:"
 [[ -n "${MISTRAL_API_KEY:-}" ]] \
   && probe "mistral" "https://api.mistral.ai/v1/models" "$(bearer "$MISTRAL_API_KEY")" || none "mistral"
 
-[[ -n "${SAMBANOVA_API_KEY:-}" ]] \
-  && probe "sambanova" "https://api.sambanova.ai/v1/models" "$(bearer "$SAMBANOVA_API_KEY")" || none "sambanova"
-
 [[ -n "${OPENROUTER_API_KEY:-}" ]] \
   && probe "openrouter" "https://openrouter.ai/api/v1/models" "$(bearer "$OPENROUTER_API_KEY")" || none "openrouter"
 
@@ -110,7 +107,6 @@ if (( ! QUICK )); then
   }
   check_model "groq-fast"          "groq"           "openai/gpt-oss-20b"
   check_model "codestral"          "mistral"        "codestral-latest"
-  check_model "sambanova-deepseek" "sambanova"      "DeepSeek-V3.1"
   check_model "nvidia-nemotron"    "nvidia nim"     "nvidia/llama-3.1-nemotron-70b-instruct"
   check_model "cerebras-fast"      "cerebras"       "gpt-oss-120b"
   check_model "offtopic"           "aion labs"      "aion-labs/aion-3.0-mini"

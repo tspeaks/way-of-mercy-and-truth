@@ -12,6 +12,7 @@ the original plan and what changed.
 **The 8 GB card:** [`docs/LOCAL-MODELS.md`](docs/LOCAL-MODELS.md).
 **Moving machines:** [`docs/MIGRATION.md`](docs/MIGRATION.md).
 **Writing task prompts for Hermes (portable, any LLM):** [`docs/WRITING-FOR-HERMES.md`](docs/WRITING-FOR-HERMES.md).
+**Bugs in Hermes/LiteLLM itself, not this config:** [`docs/KNOWN-ISSUES.md`](docs/KNOWN-ISSUES.md).
 
 ## Shape
 

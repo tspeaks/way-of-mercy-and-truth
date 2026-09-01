@@ -277,11 +277,11 @@ router_settings:
   # policies vary; gemini-flash sits just above it as the long-context rescue.
   fallbacks:
     - smart-router:        ["codestral", "nvidia-kimi", "gemini-flash", "cloudflare-llama", "openrouter-free"]
-    - local-coder:         ["groq-fast", "cerebras-fast", "codestral", "nvidia-kimi"]
-    - groq-fast:           ["cerebras-fast", "codestral", "nvidia-kimi"]
+    - local-coder:         ["groq-fast", "cerebras-fast", "codestral", "nvidia-kimi", "openrouter-free"]
+    - groq-fast:           ["cerebras-fast", "codestral", "nvidia-kimi", "openrouter-free"]
     - codestral:           ["nvidia-kimi", "cloudflare-llama", "openrouter-free"]
-    - cerebras-fast:       ["nvidia-kimi"]
-    - nvidia-kimi:     ["codestral", "cloudflare-llama"]
+    - cerebras-fast:       ["nvidia-kimi", "openrouter-free"]
+    - nvidia-kimi:         ["codestral", "cloudflare-llama", "openrouter-free"]
     - offtopic:            ["cloudflare-llama", "openrouter-free"]
 
   # Separate chain for "prompt too long for that deployment". This is what

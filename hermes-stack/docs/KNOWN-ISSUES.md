@@ -52,5 +52,60 @@ if it reproduces after a clean `/restart` + fresh `/new` session, with the
 `/debug local` (or `/debug nous`) capture from around the incident
 attached.
 
-**Status:** unresolved / unreproduced as of this writing. Update this
-entry once the `/restart` + retest happens, whichever way it goes.
+**Status:** retested 2026-09-01 after `/restart` + fresh `/new`. The leak
+itself did **not** reproduce — the new session came up clean (`smart-router`
+/ `http://127.0.0.1:4000/v1` / 131K context, no stray internal text). Whether
+that means it's fixed or just didn't happen to trigger again is unknown; the
+fake-tool-call symptom that preceded it, however, is confirmed still present
+and is now its own entry below — treat this one as inconclusive rather than
+closed until the tool-calling bug is actually resolved and retested cleanly.
+
+## Tool-calling still broken proxy-wide, survives `/restart` + `/new`
+
+**Observed:** 2026-09-01, via the Telegram gateway, after a clean
+`/restart` (gateway) and a fresh `/new` session.
+
+**Symptom:** asked to write a file and run `whoami` — a plain request with
+none of the `keyword_tier_rules` trigger words, so it falls through to the
+**default MEDIUM tier (`mistral-tools`)**, not SIMPLE. Response came back
+as narrated JSON (`{"name": "write_file", "arguments": {...}}`) printed as
+chat text instead of an executed tool call. Repro'd again separately with
+a `terminal` call (`diff -r ~/consulting-site`) — same pattern, JSON
+printed instead of run.
+
+**Why this matters more than it first looked:** this repo's own history
+(commit `574cf4f`) already diagnosed and fixed this exact symptom by
+removing a global `drop_params` from `litellm/config.yaml` that was
+silently stripping `tools` from every request before it reached any
+provider — see the comment in `litellm_settings:` in that file. The
+MEDIUM tier (`mistral-tools`) is specifically documented as the
+tool-capable default (commit `ee56e22`), so a MEDIUM-tier request failing
+this way means the fix either isn't deployed to the box running the proxy,
+or the proxy process hasn't been restarted since it was deployed — LiteLLM
+only reads `~/.litellm/config.yaml` at startup, and `/restart` in Telegram
+restarts the **Hermes gateway**, not the separate `litellm-proxy` service.
+
+**Not yet confirmed:** whether this also means *read*-only tool calls
+(file reads, not just writes/execution) are being stripped. If the whole
+`tools` array is dropped wholesale rather than specific tool names, the 7
+pure-analysis/REASONING-tier tasks from today's task list would also come
+back ungrounded (plausible-sounding, not actually based on the real code)
+even though their deliverable is text-only. Worth testing with a read-only
+probe (e.g. "read `consulting-site/package.json` and list its
+dependencies verbatim") before trusting any of them.
+
+**Remediation checklist, for when back at the machine:**
+```bash
+cd ~/way-of-mercy-and-truth/hermes-stack   # wherever this repo is checked out there
+git pull                                    # bring in 574cf4f + this doc's updates
+scripts/validate-config.py                  # confirm litellm/config.yaml loads clean
+cp litellm/config.yaml ~/.litellm/config.yaml
+systemctl --user restart litellm-proxy      # NOT just Hermes's /restart
+scripts/smoke-test.sh                       # confirms real tool-calling end to end
+```
+Then retry the file+whoami test in Telegram, and only after that passes,
+retest the read-only probe above before trusting any REASONING-tier task.
+
+**Status:** confirmed live 2026-09-01, unresolved. Update once the box has
+actually had the proxy config redeployed and the service restarted, and
+the retest is done.

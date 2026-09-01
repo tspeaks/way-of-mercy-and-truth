@@ -224,7 +224,6 @@ model_list:
   - model_name: smart-router
     litellm_params:
       model: auto_router/complexity_router
-      drop_params: true
       complexity_router_default_model: codestral
       complexity_router_config:
         # One model per tier, deliberately.
@@ -301,7 +300,14 @@ router_settings:
     - offtopic:           ["gemini-flash"]
 
 litellm_settings:
-  drop_params: true
+  # No drop_params here. It was set globally as a broad safety net against
+  # minor provider param mismatches, without ever hitting a real failure
+  # that needed it -- and it was confirmed live 2026-09-01 to be silently
+  # stripping `tools` from every request before it reached any provider,
+  # which is why Hermes could describe tool calls as text but never
+  # actually execute one. If a specific deployment genuinely can't handle
+  # a specific param, set drop_params on that one deployment's
+  # litellm_params instead of globally.
   set_verbose: false
   request_timeout: 60
 

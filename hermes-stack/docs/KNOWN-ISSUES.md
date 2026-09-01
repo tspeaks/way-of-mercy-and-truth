@@ -80,55 +80,75 @@ fake-tool-call symptom that preceded it, however, is confirmed still present
 and is now its own entry below — treat this one as inconclusive rather than
 closed until the tool-calling bug is actually resolved and retested cleanly.
 
-## Tool-calling still broken proxy-wide, survives `/restart` + `/new`
+## `smart-router` (`auto_router/complexity_router`) doesn't forward `tools` to the picked deployment
 
-**Observed:** 2026-09-01, via the Telegram gateway, after a clean
-`/restart` (gateway) and a fresh `/new` session.
+**Root cause isolated 2026-09-01.** This supersedes the entry that used to
+be here ("tool-calling broken proxy-wide") — that was the right symptom,
+wrong suspect. `drop_params` was a red herring: the config Tyler pulled has
+none anywhere (`grep -n -i drop_params litellm/config.yaml` matches only
+the comment explaining why it was removed), the proxy was redeployed and
+freshly restarted (confirmed via `systemctl status litellm-proxy` — new
+PID, `Application startup complete` in the log), and the bug was still
+100% reproducible.
 
-**Symptom:** asked to write a file and run `whoami` — a plain request with
-none of the `keyword_tier_rules` trigger words, so it falls through to the
-**default MEDIUM tier (`mistral-tools`)**, not SIMPLE. Response came back
-as narrated JSON (`{"name": "write_file", "arguments": {...}}`) printed as
-chat text instead of an executed tool call. Repro'd again separately with
-a `terminal` call (`diff -r ~/consulting-site`) — same pattern, JSON
-printed instead of run.
+**Isolation:** two identical `curl` requests to `/v1/chat/completions`, one
+`tools` array, one prompt ("write `reload worked` to `/tmp/mcp-test.txt`
+using the `write_file` tool"), against the running proxy directly —
+**bypassing Hermes entirely**, so this has nothing to do with the Hermes
+Agent side of the stack:
 
-**Why this matters more than it first looked:** this repo's own history
-(commit `574cf4f`) already diagnosed and fixed this exact symptom by
-removing a global `drop_params` from `litellm/config.yaml` that was
-silently stripping `tools` from every request before it reached any
-provider — see the comment in `litellm_settings:` in that file. The
-MEDIUM tier (`mistral-tools`) is specifically documented as the
-tool-capable default (commit `ee56e22`), so a MEDIUM-tier request failing
-this way means the fix either isn't deployed to the box running the proxy,
-or the proxy process hasn't been restarted since it was deployed — LiteLLM
-only reads `~/.litellm/config.yaml` at startup, and `/restart` in Telegram
-restarts the **Hermes gateway**, not the separate `litellm-proxy` service.
+- `"model": "smart-router"` → `tool_calls` absent, the call dumped as
+  stringified JSON inside `content` (`{"name": "write_file", ...}`) — the
+  exact symptom seen all night through Telegram.
+- `"model": "mistral-tools"` (the same underlying deployment,
+  **skipping the router**) → correct, structured response:
+  `"tool_calls": [{"function": {"name": "write_file", "arguments": "..."}}], "content": null`.
 
-**Not yet confirmed:** whether this also means *read*-only tool calls
-(file reads, not just writes/execution) are being stripped. If the whole
-`tools` array is dropped wholesale rather than specific tool names, the 7
-pure-analysis/REASONING-tier tasks from today's task list would also come
-back ungrounded (plausible-sounding, not actually based on the real code)
-even though their deliverable is text-only. Worth testing with a read-only
-probe (e.g. "read `consulting-site/package.json` and list its
-dependencies verbatim") before trusting any of them.
+Same prompt, same deployment underneath, same `litellm` process. The only
+variable is whether the request went through `auto_router/complexity_router`
+or named a deployment directly. That fully clears Hermes and every
+individual provider/model — the break is inside LiteLLM's auto-router
+layer itself, and since every one of the four tiers is reached exclusively
+through `smart-router`, this explains why the symptom looked "proxy-wide"
+regardless of which tier a prompt landed on.
 
-**Remediation checklist, for when back at the machine:**
-```bash
-cd ~/way-of-mercy-and-truth/hermes-stack   # wherever this repo is checked out there
-git pull                                    # bring in 574cf4f + this doc's updates
-scripts/validate-config.py                  # confirm litellm/config.yaml loads clean
-cp litellm/config.yaml ~/.litellm/config.yaml
-systemctl --user restart litellm-proxy      # NOT just Hermes's /restart
-scripts/smoke-test.sh                       # confirms real tool-calling end to end
-```
-Then retry the file+whoami test in Telegram, and only after that passes,
-retest the read-only probe above before trusting any REASONING-tier task.
+**Not the already-fixed bug:** LiteLLM shipped a related auto-router fix
+in v1.94.0 (`litellm_params` set on the router alias — `drop_params`,
+`cache_control_injection_points`, etc. — used to vanish when the router
+picked a tier; now they merge into the outbound request). Tyler's
+installed version is **1.99.0**, already well past that fix, and the bug
+still reproduces — so this is either a narrower, still-open gap specific
+to the caller-supplied `tools` array (as opposed to server-side
+`litellm_params`), or a regression. Search turned up no exact upstream
+issue matching this precise symptom as of 2026-09-01.
 
-**Status:** confirmed live 2026-09-01, unresolved. Update once the box has
-actually had the proxy config redeployed and the service restarted, and
-the retest is done.
+**Also checked while investigating:** LiteLLM had a real PyPI supply-chain
+compromise (malicious v1.82.7/v1.82.8, ~40 minutes live, March 2026,
+credential exfiltration). 1.99.0 is well clear of those two versions — not
+an active concern — but worth a one-time `pip show litellm` sanity check
+on the install source given this proxy holds every provider key in memory.
+
+**Next steps:**
+1. File this upstream at
+   [BerriAI/litellm](https://github.com/BerriAI/litellm/issues) — the two
+   curl commands above, side by side with their outputs, are a complete,
+   minimal repro. Worth checking first whether a version newer than 1.99.0
+   already fixes it (the project ships weekly MINOR releases).
+2. Until it's fixed upstream or a newer version resolves it, the
+   emergency-only fallback is pointing Hermes's `model.default` in
+   `hermes/config.yaml` at a specific deployment (e.g. `mistral-tools`)
+   instead of `smart-router` — this sacrifices the whole point of this
+   repo (tiered, free-quota-aware routing) for as long as it's set, so
+   treat it as a stopgap to unblock real work, not a fix, and revert once
+   the router itself works again.
+3. Re-run the read-only probe from the previous version of this entry
+   (e.g. "read `consulting-site/package.json` and list its dependencies
+   verbatim") once tools genuinely work through `smart-router` again,
+   before trusting any REASONING-tier task from today's list.
+
+**Status:** root cause isolated and reproducible outside Hermes, 2026-09-01.
+Not yet fixed — waiting on an upstream LiteLLM fix or a version bump that
+resolves it.
 
 ## Upstream release research (2026-09-01)
 

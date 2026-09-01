@@ -12,19 +12,26 @@ Run this before every deploy, and after every edit to litellm/config.yaml.
 
 Exit code 0 = config loads clean.
 """
+import logging
 import os
 import re
 import sys
 from pathlib import Path
 
+os.environ.setdefault("LITELLM_LOG", "ERROR")
+logging.getLogger("LiteLLM").setLevel(logging.ERROR)
+
 CONFIG = Path(sys.argv[1] if len(sys.argv) > 1 else
               Path(__file__).resolve().parent.parent / "litellm" / "config.yaml")
 
 try:
+    import litellm
     import yaml
     from litellm import Router
 except ImportError as exc:  # pragma: no cover
     sys.exit(f"missing dependency: {exc}. Run scripts/bootstrap.sh first.")
+
+litellm.suppress_debug_info = True
 
 ENV_REF = re.compile(r"^os\.environ/(.+)$")
 MID_STRING_ENV = re.compile(r".+os\.environ/")
@@ -52,10 +59,40 @@ def resolve(value):
 
 
 raw = yaml.safe_load(CONFIG.read_text())
+
+# Resolve `include:` the way the proxy does: extend list-valued keys, replace
+# everything else. That replace-on-dict behaviour is a foot-gun -- an included
+# file carrying router_settings would silently wipe the main config's -- so
+# refuse anything but lists in an included file.
+for include_file in raw.pop("include", []) or []:
+    inc_path = CONFIG.parent / include_file
+    if not inc_path.exists():
+        problems.append(f"include: {include_file!r} does not exist (the proxy will refuse to boot)")
+        continue
+    included = yaml.safe_load(inc_path.read_text()) or {}
+    for key, value in included.items():
+        if not isinstance(value, list):
+            problems.append(
+                f"include: {include_file!r} sets non-list key {key!r}; LiteLLM REPLACES dicts on "
+                "include, so this would clobber the main config. Included files may define lists only."
+            )
+            continue
+        raw.setdefault(key, [])
+        raw[key].extend(value)
+
 model_list = raw.get("model_list") or []
 router_settings = raw.get("router_settings") or {}
 
 declared = {m["model_name"] for m in model_list}
+seen: dict[str, int] = {}
+for entry in model_list:
+    seen[entry["model_name"]] = seen.get(entry["model_name"], 0) + 1
+for name, count in seen.items():
+    if count > 1:
+        warnings.append(
+            f"{name!r} is declared {count} times; LiteLLM treats those as load-balanced "
+            "deployments and picks between them at random, not in order."
+        )
 
 # Every name referenced by a tier or a fallback chain must be a real deployment.
 for entry in model_list:

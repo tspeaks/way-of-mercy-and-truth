@@ -1,0 +1,16 @@
+# Re-pick the best currently-free OpenRouter model and restart the proxy.
+# Install alongside openrouter-refresh.timer:
+#   cp service/openrouter-refresh.* ~/.config/systemd/user/
+#   systemctl --user daemon-reload && systemctl --user enable --now openrouter-refresh.timer
+# Edit HERMES_STACK below if you cloned the repo somewhere other than ~/hermes-stack.
+[Unit]
+Description=Refresh the OpenRouter free-model pick
+After=network-online.target
+
+[Service]
+Type=oneshot
+Environment=HERMES_STACK=%h/hermes-stack
+EnvironmentFile=%h/.litellm/.env
+ExecStart=%h/.litellm/venv/bin/python %h/hermes-stack/scripts/refresh-openrouter-free.py --out %h/.litellm/openrouter-free.yaml
+# Only restart the proxy if the refresh actually rewrote the file.
+ExecStartPost=/bin/sh -c 'systemctl --user try-restart litellm-proxy.service || true'

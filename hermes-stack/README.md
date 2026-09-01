@@ -8,18 +8,22 @@ across local inference.
 
 **Start here:** [`docs/ASSESSMENT.md`](docs/ASSESSMENT.md) — what was wrong with
 the original plan and what changed.
+**Who serves what, and why:** [`docs/ROUTING.md`](docs/ROUTING.md).
+**The 8 GB card:** [`docs/LOCAL-MODELS.md`](docs/LOCAL-MODELS.md).
 **Moving machines:** [`docs/MIGRATION.md`](docs/MIGRATION.md).
-**Adding a GPU:** [`docs/LOCAL-MODELS.md`](docs/LOCAL-MODELS.md).
 
 ## Shape
 
 ```
-Hermes  ──►  LiteLLM :4000  ──►  SIMPLE     qwen3-flash
- (one          (all the          MEDIUM     qwen3-coder
-  model         routing,         COMPLEX    qwen3-coder   ← cerebras-fast on short prompts
-  name)         all the keys)    REASONING  nvidia-llama4
-                                 fallback   cloudflare-llama → gemini-flash (last)
-                                 [ local-coder slots in here after migration ]
+Hermes  ──►  LiteLLM :4000  ──►  SIMPLE     local-coder          (RTX 2070, free)
+ (one          (all the          MEDIUM     codestral            (~1B tok/month)
+  model         routing,         COMPLEX    qwen3-coder          (131K context)
+  name)         all the keys)    REASONING  sambanova-deepseek   (200K tok/day)
+
+                                 short-prompt fallback  groq-fast   (6K TPM fence)
+                                 long-prompt rescue     gemini-flash (1M context)
+                                 last resort            openrouter-free (rotating)
+                                 side tasks only        offtopic    (Aion, 20K tok/day)
 ```
 
 Hermes only ever asks for `smart-router`. Every provider change, quota
@@ -28,18 +32,26 @@ exhaustion, and eventual move to local hardware happens below that line.
 ## Quickstart
 
 ```bash
-scripts/bootstrap.sh          # install litellm, deploy config, validate
-$EDITOR ~/.litellm/.env       # fill in keys
-scripts/preflight.sh          # confirm every key reaches its provider
-scripts/start-proxy.sh        # or install service/litellm-proxy.service
-scripts/smoke-test.sh         # exercise all four tiers through the router
+scripts/bootstrap.sh                 # install litellm, deploy config, validate
+$EDITOR ~/.litellm/.env              # fill in keys
+scripts/preflight.sh                 # keys reach providers; model ids still exist
+scripts/refresh-openrouter-free.py   # pick today's best free last-resort model
+scripts/setup-local-model.sh         # local SIMPLE tier, VRAM-resident
+scripts/local-tier.sh on
+scripts/start-proxy.sh               # or install service/litellm-proxy.service
+scripts/smoke-test.sh                # exercise every route through the proxy
 ```
+
+Before the first Mistral request: **console.mistral.ai → Admin → Privacy →
+disable data sharing for model training.** The free tier trains on your prompts
+by default.
 
 ## Layout
 
 | Path | |
 |---|---|
 | `litellm/config.yaml` | the router. Validated against real LiteLLM, not from memory |
+| `litellm/openrouter-free.yaml` | generated; the current free pick. Never edit by hand |
 | `litellm/.env.example` | every secret and the one account-scoped URL |
 | `hermes/config.yaml` | Hermes pointed at the proxy; auxiliary + delegation on the cheap tier |
 | `scripts/bootstrap.sh` | idempotent install + deploy, backs up whatever it replaces |
@@ -47,6 +59,10 @@ scripts/smoke-test.sh         # exercise all four tiers through the router
 | `scripts/preflight.sh` | probes every provider with your actual key |
 | `scripts/explain-routing.py` | shows which tier and model a prompt gets, offline |
 | `scripts/smoke-test.sh` | end-to-end through the running proxy, one request per tier |
+| `scripts/refresh-openrouter-free.py` | re-pick the best currently-free OpenRouter model |
+| `scripts/setup-local-model.sh` | build the local model, stepping context down until it fits VRAM |
+| `scripts/local-guard.sh` | fail loudly if any layer spilled to the CPU |
+| `scripts/local-tier.sh` | route SIMPLE to local, or back to hosted |
 | `scripts/backup.sh` / `restore.sh` | move `~/.hermes` state between machines |
 | `service/` | systemd user unit and launchd agent |
 
@@ -58,3 +74,9 @@ scripts/smoke-test.sh         # exercise all four tiers through the router
   errors that otherwise surfaces as a 404 three days later.
 - **`preflight.sh` is the source of truth about providers**, not the comments in
   the config. Free tiers change without notice; the script asks, the comments remember.
+- **`litellm/openrouter-free.yaml` is generated.** Edit the script, not the file.
+  An `include:`d file may contain list-valued keys only — LiteLLM extends lists
+  but *replaces* dicts, so a `router_settings:` block in there would silently
+  clobber the main config's.
+- **Nothing local may touch system RAM.** `local-guard.sh` is the check; run it
+  after driver updates and whenever the local tier feels slow.

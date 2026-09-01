@@ -45,6 +45,9 @@ if [[ $DEPLOY -eq 1 ]]; then
   say "deploying litellm config -> $LITELLM_HOME/config.yaml"
   backup "$LITELLM_HOME/config.yaml"
   cp "$REPO/litellm/config.yaml" "$LITELLM_HOME/config.yaml"
+  # The include: file must sit beside the main config -- LiteLLM resolves
+  # included paths relative to it, and refuses to boot if one is missing.
+  cp "$REPO/litellm/openrouter-free.yaml" "$LITELLM_HOME/openrouter-free.yaml"
 
   if [[ ! -f "$LITELLM_HOME/.env" ]]; then
     cp "$REPO/litellm/.env.example" "$LITELLM_HOME/.env"
@@ -80,8 +83,11 @@ cat <<EOF
 
 Next:
   1. Fill in keys:        \$EDITOR ~/.litellm/.env
+     Mistral first: console.mistral.ai -> Admin -> Privacy -> disable training.
   2. Check they work:     scripts/preflight.sh
-  3. Start the proxy:     scripts/start-proxy.sh   (or install the service unit)
-  4. Smoke test:          scripts/smoke-test.sh
-  5. Point Hermes at it:  hermes config get model
+  3. Pick a free model:   scripts/refresh-openrouter-free.py
+  4. Local SIMPLE tier:   scripts/setup-local-model.sh && scripts/local-tier.sh on
+  5. Start the proxy:     scripts/start-proxy.sh   (or install the service unit)
+  6. Smoke test:          scripts/smoke-test.sh
+  7. Point Hermes at it:  hermes config get model
 EOF

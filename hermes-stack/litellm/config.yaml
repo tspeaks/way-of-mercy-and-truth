@@ -1,20 +1,94 @@
 # LiteLLM Proxy — Hermes routing tier
 #
-# Portable: nothing machine-specific lives in this file. All secrets and the one
-# account-scoped URL come from the environment (see .env.example).
+# Portable: nothing machine-specific lives in this file. All secrets and the two
+# account-scoped URLs come from the environment (see .env.example).
 #
 # Validate offline before starting:   scripts/validate-config.py
-# Probe live endpoints:               scripts/preflight.sh
+# Probe live endpoints + model ids:   scripts/preflight.sh
+# Refresh the OpenRouter free block:  scripts/refresh-openrouter-free.py
 #
 # Every model entry carries BOTH:
 #   max_input_tokens  -> used by enable_pre_call_checks to skip deployments whose
 #                        context window is too small for the current prompt
 #   max_tokens        -> max OUTPUT tokens (this is NOT the context window)
 # Getting this wrong is the single most common cause of mid-session 400s.
+#
+# Where a provider's binding constraint is tokens-per-minute rather than context
+# (Groq), max_input_tokens is set to the TPM ceiling instead of the model's real
+# context. That turns a rate limit into a routing rule: long prompts are never
+# offered to it in the first place.
+
+include:
+  - openrouter-free.yaml   # generated; see scripts/refresh-openrouter-free.py
 
 model_list:
 
-  # ── QWEN / DashScope — primary workhorse, 131K context ───────────────────────
+  # ── LOCAL — RTX 2070, 8 GB, VRAM-resident only ───────────────────────────────
+  # Weights + KV cache must fit in VRAM with room for the desktop. Nothing here
+  # may spill to system RAM. scripts/local-guard.sh enforces that and exits
+  # non-zero if Ollama reports any CPU placement.
+  #   qwen2.5-coder:7b-instruct-q4_K_M  ~4.7 GB weights
+  #   32K context, q8_0 KV cache        ~0.9 GB
+  #   compute buffers                   ~0.6 GB
+  #                                     ~6.2 GB of 8 GB
+  - model_name: local-coder
+    litellm_params:
+      model: openai/hermes-local   # created by scripts/setup-local-model.sh
+      api_base: os.environ/LOCAL_API_BASE
+      api_key: os.environ/LOCAL_API_KEY
+      rpm: 600
+      tpm: 10000000
+    model_info:
+      max_input_tokens: 28672     # 32K served, minus headroom for the reply
+      max_tokens: 4096
+      supports_vision: false
+
+  # ── GROQ — 30 RPM / 6K TPM / 14.4K RPD, org-wide (extra keys do not help) ────
+  # The 6K TPM cap is the real constraint: one 6K-token request per minute. Kept
+  # for short, high-frequency turns, and fenced off from long prompts by
+  # max_input_tokens rather than by hoping the classifier keeps them away.
+  - model_name: groq-fast
+    litellm_params:
+      model: groq/llama-3.3-70b-versatile
+      api_key: os.environ/GROQ_API_KEY
+      rpm: 25
+      tpm: 5500
+    model_info:
+      max_input_tokens: 5000      # deliberately the TPM ceiling, not the context window
+      max_tokens: 2048
+      supports_vision: false
+
+  # ── MISTRAL / CODESTRAL — best free coding allowance (~1B tokens/month) ──────
+  # PRIVACY: the free Experiment tier trains on your prompts unless you opt out
+  # at console.mistral.ai -> Admin -> Privacy. Do that before the first request.
+  # RATE: Mistral no longer publishes free-tier RPM. rpm below is deliberately
+  # conservative; raise it to whatever your Admin Console -> Limits shows.
+  - model_name: codestral
+    litellm_params:
+      model: mistral/codestral-latest
+      api_key: os.environ/MISTRAL_API_KEY
+      rpm: 6
+      tpm: 300000
+    model_info:
+      max_input_tokens: 128000
+      max_tokens: 8192
+      supports_vision: false
+
+  # ── SAMBANOVA — 20 RPM / 200K tokens per day, per model ─────────────────────
+  # Reasoning-grade model on a small daily budget: right for the REASONING tier,
+  # which is a few percent of requests.
+  - model_name: sambanova-deepseek
+    litellm_params:
+      model: sambanova/DeepSeek-V3.1
+      api_key: os.environ/SAMBANOVA_API_KEY
+      rpm: 15
+      tpm: 100000
+    model_info:
+      max_input_tokens: 32768
+      max_tokens: 8192
+      supports_vision: false
+
+  # ── QWEN / DashScope ─────────────────────────────────────────────────────────
   # Endpoint is env-driven so you can flip Beijing <-> International without
   # editing this file (see DASHSCOPE_API_BASE in .env.example).
   - model_name: qwen3-coder
@@ -44,7 +118,6 @@ model_list:
   # ── CEREBRAS — very fast, but hard 8K context cap on the free tier ───────────
   # Free tier (verify in your dashboard, it moves): ~5 RPM / 30K TPM / 1M tok/day,
   # and free-tier models are currently gpt-oss-120b and GLM-4.7 — NOT qwen3-235b.
-  # tpm is set under the 30K account cap; rpm under the 5 RPM cap.
   - model_name: cerebras-fast
     litellm_params:
       model: cerebras/gpt-oss-120b
@@ -71,8 +144,7 @@ model_list:
 
   # ── CLOUDFLARE WORKERS AI — small daily neuron budget, keep rpm low ──────────
   # api_base MUST be a whole-value env lookup. LiteLLM expands "os.environ/NAME"
-  # only when it is the entire value — it does NOT interpolate mid-string, so
-  # ".../accounts/os.environ/CLOUDFLARE_ACCOUNT_ID/ai/v1" would be sent literally.
+  # only when it is the entire value — it does NOT interpolate mid-string.
   - model_name: cloudflare-llama
     litellm_params:
       model: openai/@cf/meta/llama-4-scout-17b-16e-instruct
@@ -85,7 +157,28 @@ model_list:
       max_tokens: 4096
       supports_vision: false
 
-  # ── GEMINI — last resort only, native provider (not the OpenAI shim) ─────────
+  # ── AION LABS — off-topic and inconsequential traffic only ──────────────────
+  # 15 RPM / 20K tokens per DAY. That budget is a rounding error against coding
+  # work, which is exactly why it is fenced off: it serves Hermes' side-task
+  # slots (titles, MCP summaries, skills-hub lookups) and direct off-topic
+  # questions, and appears in NO tier. See docs/ROUTING.md for why this is not
+  # a fifth complexity tier.
+  - model_name: offtopic
+    litellm_params:
+      model: openai/aion-3.0-mini
+      api_base: https://api.aionlabs.ai/v1
+      api_key: os.environ/AION_API_KEY
+      rpm: 12
+      tpm: 20000
+    model_info:
+      max_input_tokens: 131072
+      max_tokens: 8192
+      supports_vision: false
+
+  # ── GEMINI — long-context rescue and late fallback ──────────────────────────
+  # PRIVACY: free-tier prompts may be used to improve Google's products. It is
+  # last in the chain partly for that reason, and it is the only deployment big
+  # enough to absorb a prompt nothing else can hold.
   - model_name: gemini-flash
     litellm_params:
       model: gemini/gemini-2.5-flash
@@ -97,11 +190,8 @@ model_list:
       max_tokens: 8192
       supports_vision: true
 
-  # ── POLLINATIONS — DISABLED BY DEFAULT. See docs/ASSESSMENT.md §2. ───────────
-  # This is a third-party relay of other vendors' models, not a first-party API.
-  # Enabling it is the one choice in this stack that contradicts the plan's own
-  # "direct API calls only" premise. Uncomment only if you have decided that
-  # deliberately, and keep it out of the tiers below if you have not.
+  # ── POLLINATIONS — DISABLED. See docs/ASSESSMENT.md §"One wrong premise". ────
+  # Third-party relay of other vendors' models, not a first-party API.
   #
   # - model_name: pollinations-gpt5
   #   litellm_params:
@@ -114,28 +204,12 @@ model_list:
   #     max_input_tokens: 128000
   #     max_tokens: 8192
 
-  # ── LOCAL GPU SLOT — the migration hook. Empty until you have the hardware. ──
-  # After migration: fill LOCAL_API_BASE + LOCAL_MODEL in .env, uncomment this
-  # block, and move SIMPLE/MEDIUM onto it in the tiers below. Nothing else in
-  # the stack changes. See docs/LOCAL-MODELS.md for sizing.
-  #
-  # - model_name: local-coder
-  #   litellm_params:
-  #     model: openai/qwen2.5-coder-32b-instruct   # literal id your server serves
-  #     api_base: os.environ/LOCAL_API_BASE
-  #     api_key: os.environ/LOCAL_API_KEY
-  #     rpm: 600
-  #     tpm: 10000000
-  #   model_info:
-  #     max_input_tokens: 65536
-  #     max_tokens: 8192
-
   # ── THE ROUTER — the only model name Hermes ever asks for ────────────────────
   - model_name: smart-router
     litellm_params:
       model: auto_router/complexity_router
       drop_params: true
-      complexity_router_default_model: qwen3-coder
+      complexity_router_default_model: codestral
       complexity_router_config:
         # One model per tier, deliberately.
         # A list here is NOT an ordered preference list — LiteLLM picks from it
@@ -143,20 +217,23 @@ model_list:
         # this stack is trying to avoid. Ordered failover is the `fallbacks`
         # block in router_settings below.
         tiers:
-          SIMPLE:    qwen3-flash
-          MEDIUM:    qwen3-coder
-          COMPLEX:   qwen3-coder
-          REASONING: nvidia-llama4
+          SIMPLE:    local-coder    # LOCAL-TIER-LINE free and unmetered; costs electricity
+          MEDIUM:    codestral            # ~1B tokens/month, strongest free coder
+          COMPLEX:   qwen3-coder          # 131K context for multi-file work
+          REASONING: sambanova-deepseek   # small daily budget, low-volume tier
 
-        default_model: qwen3-coder
+        default_model: codestral
 
-        # Deterministic overrides that run before the classifier.
+        # Deterministic overrides that run before the classifier. On the default
+        # tier_boundaries the heuristic scorer sends most real coding prompts to
+        # SIMPLE or MEDIUM, so these rules are doing much of the routing, not
+        # merely refining it. Check any edit with scripts/explain-routing.py.
         keyword_tier_rules:
-          - keywords: ["refactor", "architecture", "design pattern", "system design", "trade-off"]
+          - keywords: ["refactor", "architecture", "design pattern", "system design", "trade-off", "migrate", "scalab"]
             tier: REASONING
-          - keywords: ["fix", "bug", "error", "stack trace", "exception", "traceback"]
+          - keywords: ["fix", "bug", "error", "stack trace", "exception", "traceback", "failing test", "regression"]
             tier: COMPLEX
-          - keywords: ["rename", "format", "lint", "typo", "comment", "docstring"]
+          - keywords: ["rename", "format", "lint", "typo", "comment", "docstring", "import"]
             tier: SIMPLE
 
         # Keep a conversation on one model: preserves prompt cache, avoids
@@ -178,21 +255,34 @@ router_settings:
   cooldown_time: 300
   allowed_fails: 2
 
-  # Ordered failover on 429/5xx. Gemini sits last and only gets traffic once
-  # everything above it has failed or cooled down.
+  # Ordered failover on 429/5xx. Roughly: local first, then the generous
+  # first-party tiers, then the metered ones, then the aggregator.
+  # openrouter-free sits last because its lineup rotates and its per-model data
+  # policies vary; gemini-flash sits just above it as the long-context rescue.
   fallbacks:
-    - smart-router: ["qwen3-coder", "cerebras-fast", "nvidia-llama4", "cloudflare-llama", "gemini-flash"]
-    - qwen3-coder:  ["nvidia-llama4", "cloudflare-llama", "gemini-flash"]
-    - qwen3-flash:  ["qwen3-coder", "cloudflare-llama"]
-    - cerebras-fast: ["qwen3-coder"]
-    - nvidia-llama4: ["qwen3-coder", "cloudflare-llama"]
+    - smart-router:        ["codestral", "qwen3-coder", "sambanova-deepseek", "nvidia-llama4", "cloudflare-llama", "gemini-flash", "openrouter-free"]
+    - local-coder:         ["groq-fast", "qwen3-flash", "codestral"]
+    - groq-fast:           ["qwen3-flash", "codestral"]
+    - codestral:           ["qwen3-coder", "sambanova-deepseek", "cloudflare-llama", "openrouter-free"]
+    - qwen3-coder:         ["codestral", "sambanova-deepseek", "nvidia-llama4", "openrouter-free"]
+    - qwen3-flash:         ["groq-fast", "qwen3-coder", "cloudflare-llama"]
+    - sambanova-deepseek:  ["nvidia-llama4", "qwen3-coder", "openrouter-free"]
+    - cerebras-fast:       ["qwen3-coder"]
+    - nvidia-llama4:       ["qwen3-coder", "cloudflare-llama"]
+    - offtopic:            ["qwen3-flash", "openrouter-free"]
 
-  # Separate chain for "prompt too long for that deployment" — this is what
-  # actually rescues you from the Cerebras 8K wall, mid-request, transparently.
+  # Separate chain for "prompt too long for that deployment". This is what
+  # rescues an overflowing request mid-flight instead of failing it: the 8K
+  # Cerebras cap, the 6K Groq TPM fence, and the 28K local window all land here.
   context_window_fallbacks:
-    - cerebras-fast: ["qwen3-coder", "gemini-flash"]
-    - qwen3-flash: ["qwen3-coder", "gemini-flash"]
-    - qwen3-coder: ["gemini-flash"]
+    - local-coder:        ["codestral", "qwen3-coder", "gemini-flash"]
+    - groq-fast:          ["qwen3-flash", "codestral", "gemini-flash"]
+    - cerebras-fast:      ["qwen3-coder", "gemini-flash"]
+    - sambanova-deepseek: ["qwen3-coder", "gemini-flash"]
+    - codestral:          ["qwen3-coder", "gemini-flash"]
+    - qwen3-flash:        ["qwen3-coder", "gemini-flash"]
+    - qwen3-coder:        ["gemini-flash"]
+    - offtopic:           ["gemini-flash"]
 
 litellm_settings:
   drop_params: true

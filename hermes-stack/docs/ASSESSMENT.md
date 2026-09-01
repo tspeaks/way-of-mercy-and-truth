@@ -156,3 +156,26 @@ only as a document describing what you once typed.
 That is what this bundle is: the same architecture, corrected, in version
 control, deployable onto a new machine with `bootstrap.sh` and verifiable with
 `preflight.sh` and `smoke-test.sh`. See `docs/MIGRATION.md`.
+
+---
+
+## Addendum: what was added after this assessment
+
+The original plan's six providers became eleven deployments plus a local tier.
+The additions and their reasoning live in [`ROUTING.md`](ROUTING.md); briefly:
+
+- **Groq** and **SambaNova** — first-party, generous, and they fail in different
+  dimensions (Groq's constraint is tokens/minute, SambaNova's is tokens/day), so
+  they back each other up rather than sharing a failure mode.
+- **Mistral / Codestral** — the largest free coding allowance available, now the
+  MEDIUM tier. Trains on your prompts unless you opt out first.
+- **OpenRouter** — the final fallback, regenerated weekly by a script so a
+  rotating free lineup does not become a dead model id in a config file.
+- **Aion Labs** — 20K tokens/day, wired to Hermes' side-task slots rather than
+  to a complexity tier. `ROUTING.md` explains why a fifth tier was the wrong
+  shape: LiteLLM would require an LLM classification call per request *and* the
+  loss of session affinity.
+- **local-coder** — Qwen2.5-Coder 7B on the RTX 2070, SIMPLE tier, with a guard
+  script that treats any CPU spill as a failure. See `LOCAL-MODELS.md`.
+
+Pollinations remains commented out, for the reason above.

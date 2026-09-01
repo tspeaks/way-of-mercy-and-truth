@@ -34,7 +34,18 @@ ask COMPLEX   "fix this bug: TypeError: cannot read property 'id' of undefined i
 ask REASONING "refactor: what is the better architecture here, a queue or direct calls?" || rc=1
 
 echo
-echo "Long-context fallthrough (should NOT land on an 8K deployment):"
+echo "Side-task route (Aion, off-topic budget):"
+out=$(curl -sS -m 60 "$BASE/v1/chat/completions" \
+  -H "Authorization: Bearer $KEY" -H 'Content-Type: application/json' \
+  -d '{"model":"offtopic","messages":[{"role":"user","content":"one-line title for a bug fix commit"}],"max_tokens":32}')
+if [[ "$(jq -r 'has("error")' <<<"$out")" == "true" ]]; then
+  printf '  %-12s \033[31mFAIL\033[0m  %s\n' "offtopic" "$(jq -r '.error.message' <<<"$out" | head -c 100)"; rc=1
+else
+  printf '  %-12s \033[32mOK\033[0m    served by %s\n' "offtopic" "$(jq -r '.model' <<<"$out")"
+fi
+
+echo
+echo "Long-context fallthrough (should NOT land on groq-fast, cerebras-fast or local-coder):"
 long=$(head -c 40000 /dev/urandom | base64 | tr -d '\n' | head -c 40000)
 ask LONG "summarize: $long" || rc=1
 

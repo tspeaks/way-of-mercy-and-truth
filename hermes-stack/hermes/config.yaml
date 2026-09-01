@@ -21,14 +21,20 @@ providers:
     discover_models: false
     models:
       smart-router:
-        # The router spans an 8K deployment and a 1M one. Declare the context
-        # you actually want Hermes to plan against -- Qwen's 131K, the tier that
-        # handles the bulk of traffic. LiteLLM's context_window_fallbacks catch
-        # anything that overflows a smaller deployment underneath.
+        # The router spans a 5K deployment and a 1M one. Declare the context you
+        # want Hermes to PLAN against -- the 131K that the COMPLEX tier serves.
+        # LiteLLM's context_window_fallbacks catch anything that overflows a
+        # smaller deployment underneath, so Hermes never has to know.
+        context_length: 131072
+      qwen3-coder:
         context_length: 131072
       qwen3-flash:
         context_length: 131072
-      qwen3-coder:
+      codestral:
+        context_length: 128000
+      local-coder:
+        context_length: 28672
+      offtopic:
         context_length: 131072
       gemini-flash:
         context_length: 1048576
@@ -39,24 +45,45 @@ model:
   api_mode: chat_completions
 
 # No fallback_providers here on purpose: LiteLLM owns failover. Two independent
-# fallback layers fighting each other is how you end up burning Gemini quota
-# without noticing.
+# fallback layers fighting each other is how you end up burning the last-resort
+# quota without noticing.
 fallback_providers: []
 
 auxiliary:
-  # Side tasks run on the cheap tier directly -- there is no reason to pay the
+  # Side tasks run on a named tier directly -- there is no reason to pay the
   # router's classification pass to decide that a title needs a small model.
+  #
+  # The genuinely inconsequential slots go to Aion Labs, whose 20K tokens/DAY
+  # would be a rounding error against coding work but is ample for titles and
+  # metadata. That is the whole reason it is in the stack.
+  title_generation:
+    enabled: true
+    provider: litellm
+    model: offtopic
+    timeout: 30
+  tts_audio_tags:
+    provider: litellm
+    model: offtopic
+    timeout: 30
+  skills_hub:
+    provider: litellm
+    model: offtopic
+    timeout: 30
+  mcp:
+    provider: litellm
+    model: offtopic
+    timeout: 30
+
+  # Compression reads the whole context, so it needs a big window and cannot go
+  # to the local 28K model or to Aion's daily budget.
   compression:
     provider: litellm
     model: qwen3-flash
     timeout: 120
     max_concurrency: 2
-  title_generation:
-    enabled: true
-    provider: litellm
-    timeout: 30
   triage_specifier:
     provider: litellm
+    model: qwen3-flash
     timeout: 120
   vision:
     # Only Gemini in this stack takes images.
@@ -65,7 +92,10 @@ auxiliary:
     timeout: 120
 
 delegation:
-  # Subagents get the fast tier; the parent keeps the router and synthesises.
+  # Subagents get a fast, large-context tier; the parent keeps the router and
+  # synthesises. Deliberately NOT the local model: ollama is configured with
+  # OLLAMA_NUM_PARALLEL=1 so the 8 GB card holds one context, and concurrent
+  # subagents would serialise behind each other.
   provider: litellm
   model: qwen3-flash
   api_mode: chat_completions

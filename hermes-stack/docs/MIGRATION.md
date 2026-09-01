@@ -44,8 +44,13 @@ scripts/restore.sh ~/migrate/hermes-state-*.tar.gz    # if you took a backup
 #   ... or, from scratch:
 cp litellm/.env.example ~/.litellm/.env && chmod 600 ~/.litellm/.env && $EDITOR ~/.litellm/.env
 
-# 5. Verify credentials reach every provider
+# 5. Verify credentials reach every provider, and that the model ids still exist
 scripts/preflight.sh
+scripts/refresh-openrouter-free.py      # re-pick the free last-resort model
+
+# 5b. Local SIMPLE tier (only on a machine with a GPU that fits it)
+scripts/setup-local-model.sh
+scripts/local-tier.sh on
 
 # 6. Start the proxy
 mkdir -p ~/.config/systemd/user
@@ -70,8 +75,9 @@ Done means all five, in order:
 - [ ] `scripts/validate-config.py` — config loads into a real LiteLLM Router
 - [ ] `scripts/preflight.sh` — every key you set answers `200`
 - [ ] `curl -s localhost:4000/health/readiness` — proxy up
-- [ ] `scripts/smoke-test.sh` — all four rows OK, and the LONG row is **not**
-      served by `cerebras-fast` (that is the context-fallback working)
+- [ ] `scripts/smoke-test.sh` — every row OK, and the LONG row is **not** served
+      by `groq-fast`, `cerebras-fast` or `local-coder` (context-fallback working)
+- [ ] `scripts/local-guard.sh` — fully GPU-resident, no CPU split
 - [ ] `hermes` starts, answers a prompt, and `~/.hermes/logs` shows no provider errors
 
 ## Rollback
@@ -102,3 +108,6 @@ new ones a 10-second job, so there is no excuse to leave the old ones live.
 | Long prompts fail instead of rerouting | `enable_pre_call_checks: true` and `max_input_tokens` present? |
 | Everything lands on the cheap tier | expected — see `explain-routing.py` and ASSESSMENT.md |
 | Proxy dies overnight | `journalctl --user -u litellm-proxy -n 100` |
+| Proxy will not boot, "Included file not found" | `openrouter-free.yaml` must sit beside `config.yaml` in `~/.litellm/` |
+| Local model suddenly slow | `scripts/local-guard.sh` — almost always a CPU spill |
+| A provider 404s on a model id | `scripts/preflight.sh` names it; edit that one line in `config.yaml` |

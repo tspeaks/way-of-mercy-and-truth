@@ -140,6 +140,25 @@ compression:
   target_ratio: 0.20
   protect_last_n: 20
   protect_first_n: 3
+  # Pinned explicitly, not just left at the default -- 2026-09-01 investigated
+  # a compaction-prompt leak that happened at 13% context, well under the 50%
+  # threshold: above. idle_compact_after_seconds defaults to 0 (disabled) and
+  # was never set, so it was never the cause; pinning it here so that fact
+  # doesn't have to be rediscovered next time. See docs/KNOWN-ISSUES.md.
+  idle_compact_after_seconds: 0
+  # No-LLM algorithmic prune of stale tool results before a full LLM-driven
+  # compaction pass is ever needed -- free relative to the threshold-triggered
+  # compaction above, which pays nvidia-kimi. Starting value; tune once you
+  # have a feel for how fast real sessions accumulate tool output.
+  proactive_prune_tokens: 20000
+  # Absolute floor, on top of the 50% relative threshold. Protects local-coder
+  # specifically -- 50% of its 28672-token window is ~14K, but the percentage
+  # is calculated against whichever model Hermes THINKS it's talking to
+  # (currently mistral-tools' 128K while the router stopgap is in place). Once
+  # smart-router is restored and a turn can land on local-coder, this is the
+  # backstop that keeps compaction from being skipped past that tier's real,
+  # much smaller ceiling.
+  threshold_tokens: 20000
 
 tool_output:
   # Free tiers make every wasted token expensive. Trim tool output hard before
@@ -148,5 +167,25 @@ tool_output:
   max_lines: 1200
   max_line_length: 2000
 
+# Scan any skill Hermes writes for itself before it can be used. Off by
+# default upstream; on here because Hermes has real, unsandboxed terminal
+# access on this machine (terminal.backend: local) -- a self-created skill is
+# code that will run with that same access.
+skills:
+  guard_agent_created: true
+
 agent:
   api_max_retries: 2   # LiteLLM already retries once; do not stack deep retries
+  # Off by default upstream. On here after 2026-09-01: task 4's "36 renames
+  # done, syntax valid" was confident, detailed, and entirely narrated -- no
+  # file had actually changed, caught only because Tyler ran `git diff`
+  # himself. This makes Hermes run that same kind of check after every stop
+  # instead of relying on someone catching it by hand.
+  verify_on_stop: true
+
+# Config schema version 10 ships new fields on every release (this stack has
+# been on a ~2-week release cadence lately -- see docs/V0.21-OPPORTUNITIES.md).
+# `quick` (the default) is fast but a `full` backup is worth the extra seconds
+# given how much has changed release to release.
+updates:
+  pre_update_backup: full

@@ -159,20 +159,21 @@ for anything relevant to the two bugs above. Neither has an explicit
 prompt" line item, but several changes are directly relevant:
 
 - **v0.20.0 "Herald" (2026.8.3)** introduced a real compression overhaul:
-  per-model threshold overrides, an *absolute token threshold*
-  (`compression.threshold_tokens`, separate from the percentage
-  `threshold` this repo's `hermes/config.yaml` sets), an N-message tail
-  guarantee, and — most relevant to the leak — **opt-in idle-triggered
-  compaction**. That's a second, independent trigger for the compaction
-  path beyond the 50% threshold this repo configures. If idle-triggered
-  compaction got turned on (by default post-upgrade, or already set
-  somewhere not tracked in this repo), that alone would explain compaction
-  firing at 13% context with no threshold breach — **this is now the
-  leading hypothesis for the leaked-compaction-prompt bug**, ahead of the
-  original "tool-call retry path misfired" guess above. Check
-  `compression.idle_triggered` (or similarly named key — confirm the exact
-  name against your installed version's schema) in `~/.hermes/config.yaml`
-  once home.
+  an *absolute token threshold* (`compression.threshold_tokens`, separate
+  from the percentage `threshold` this repo's `hermes/config.yaml` sets),
+  a no-LLM `proactive_prune_tokens` pass, an N-message tail guarantee, and
+  opt-in idle-triggered compaction (`compression.idle_compact_after_seconds`).
+  **Correction, 2026-09-02:** pulled the actual config reference
+  ([`website/docs/user-guide/configuration.md`](https://github.com/NousResearch/hermes-agent/blob/main/website/docs/user-guide/configuration.md)
+  in the hermes-agent repo) — `idle_compact_after_seconds` defaults to `0`
+  (disabled), and this repo's `hermes/config.yaml` never set it before
+  tonight. So idle-triggered compaction was never on, and was **not** the
+  cause of the 13%-context leak — that was the leading hypothesis in the
+  previous version of this entry; it's ruled out now, not confirmed. The
+  original "tool-call retry path misfired" guess further up is back to
+  being the best remaining lead, still unconfirmed. `idle_compact_after_seconds`
+  is now pinned explicitly to `0` in `hermes/config.yaml` so this doesn't
+  have to be rediscovered.
   - Same release added "structured local logging for compression
     attempts" — if that's on, there may already be a local log of the
     exact incident to check instead of only having the Telegram

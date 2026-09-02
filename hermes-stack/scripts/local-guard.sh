@@ -17,8 +17,13 @@ command -v ollama >/dev/null || { say "ollama not installed"; exit 1; }
 
 PS_OUT="$(ollama ps 2>/dev/null)"
 if [[ -z "$PS_OUT" ]] || [[ $(wc -l <<<"$PS_OUT") -le 1 ]]; then
-  say "no model is loaded. Load one first:  ollama run hermes-local 'ok'"
-  exit 1
+  # Not loaded is a normal idle state (Ollama's own keep-alive timer unloads
+  # it), not a residency violation -- there's nothing to check placement on.
+  # Exit 0 so callers like preflight.sh don't conflate "nothing loaded" with
+  # "loaded and split onto the CPU" (confirmed live 2026-09-02: it was
+  # reporting FAIL on an idle box with no model resident at all).
+  say "no model is loaded, nothing to check. Load one to test residency:  ollama run hermes-local 'ok'"
+  exit 0
 fi
 
 say "$PS_OUT"

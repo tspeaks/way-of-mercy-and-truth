@@ -15,7 +15,14 @@ providers:
     name: "LiteLLM (local)"
     api_key: "${LITELLM_MASTER_KEY}"
     transport: chat_completions
-    default_model: smart-router
+    # Stopgap 2026-09-02 (night 2): default_model pinned to mistral-tools directly,
+    # bypassing auto_router/complexity_router. A live request through smart-router
+    # returned content unrelated to the prompt entirely (leaked/contaminated
+    # output, not just narrated-instead-of-executed) -- worse than the SIMPLE-tier
+    # bug fixed earlier tonight, and root cause is NOT established. mistral-tools
+    # alone was reverified clean (real file write + real tool_calls) after the
+    # pin. See docs/KNOWN-ISSUES.md before ever pointing this back at smart-router.
+    default_model: mistral-tools    # was smart-router
     # Hermes probes /v1/models; the router advertises every deployment, and you
     # do not want Hermes picking one directly. Pin the list instead.
     discover_models: false
@@ -41,7 +48,7 @@ providers:
 
 model:
   provider: litellm
-  default: smart-router
+  default: mistral-tools    # was smart-router -- see stopgap note above
   api_mode: chat_completions
 
 # Real command execution. Without this block, Hermes has no working terminal

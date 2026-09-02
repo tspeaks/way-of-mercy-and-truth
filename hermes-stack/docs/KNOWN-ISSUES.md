@@ -1,5 +1,67 @@
 # Known issues
 
+## `smart-router` returned unrelated/contaminated content — NEW, unconfirmed root cause, 2026-09-02 night 2
+
+**Observed:** after `default` gateway was confirmed correctly routed to
+`smart-router` / `http://127.0.0.1:4000/v1` (see "gateway hijacked by a new
+profile" below for how it got there), a live file-write + `whoami` request
+through Celesbot came back with content that had nothing to do with the
+prompt: a `[Request interrupted by user]` marker and two file paths
+(`/testbed/skills/software-development/direct-file-delivery/SKILL.md`,
+`/testbed/skills/software-development/codebase-handoff-verification/SKILL.md`)
+that don't exist anywhere in this stack and don't resemble anything
+Ollama/Mistral/Kimi/Gemini would produce. This is not the narrated-instead-
+of-executed symptom from the SIMPLE-tier bug above — it's output that looks
+like it leaked in from a completely unrelated coding-agent context.
+
+**Not root-caused tonight.** No `LITELLM_LOG=DEBUG` capture of the actual
+failing request exists yet, so it's unknown which deployment `smart-router`
+picked for it, whether this is a caching/session-bleed bug in LiteLLM's
+router, a problem on one of the upstream aggregators (whichever of
+`nvidia-kimi` / `cloudflare-llama` / `codestral` / `openrouter-free` it
+landed on), or something specific to how Hermes built the request. Treat
+"which deployment answered" as the first thing to establish, the same way
+the SIMPLE-tier misdiagnosis was only caught by reading the actual
+`routing_decision` log instead of assuming.
+
+**Stopgap applied:** `hermes/config.yaml` now pins `default_model` /
+`model.default` straight to `mistral-tools`, bypassing `auto_router`
+entirely. Reverified clean after the pin: real file write, real `whoami`
+output, no leaked/unrelated content. This is the same shape of workaround
+as the SIMPLE-tier fix -- a real fix for the symptom, not the cause.
+**Do not point `default_model` back at `smart-router`** until this is
+reproduced under `LITELLM_LOG=DEBUG` and the responsible deployment (and
+ideally a cause) is identified.
+
+## Gateway silently hijacked by a new profile after installing bots/MCPs — 2026-09-02 night 2
+
+**Observed:** after installing new bots/MCPs, `hermes profile list` showed
+a `research-bot` profile (`anthropic/claude-opus-4.6` via `openrouter` --
+not anything in this stack's tier map) marked `running` and, per `hermes
+gateway list`, `(current)`. The Telegram bot (Celesbot) that should have
+been talking to the `default` profile (`smart-router` / the LiteLLM proxy
+this whole doc is about) was instead being served by `research-bot`'s
+gateway -- so every "retest through smart-router" that night was actually
+silently testing a completely unrelated profile/provider until this was
+caught by reading the `/new` session banner closely (wrong model, wrong
+provider, wrong context size).
+
+**Working theory:** creating a new Hermes profile (e.g. via whatever the
+bot/MCP installer ran) can flip the CLI's "current" profile pointer as a
+side effect, and Celesbot's Telegram bot token appears to have been bound
+to whichever gateway process holds that token rather than to a fixed
+profile -- deleting `research-bot`'s gateway process visibly dropped
+Celesbot's session ("Gateway shutting down"), and restarting `default`'s
+gateway afterward is what let Celesbot reconnect on the correct profile.
+Not confirmed against Hermes' actual source/docs, just observed live.
+
+**Fix applied:** `research-bot` profile deleted, `default` set current
+(`hermes profile use default`), `default`'s gateway restarted. Before
+installing any new bot/MCP/profile in the future, check `hermes profile
+list` and `hermes gateway list` immediately after -- confirm `default` is
+still `(current)` and still the only thing bound to any Telegram token you
+care about.
+
 Bugs observed in the running stack that live in Hermes Agent or LiteLLM
 itself, not in this repo's config. Tracked here so they survive past the
 Telegram scrollback, and so a fix upstream (or a workaround in config) has

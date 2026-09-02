@@ -251,7 +251,19 @@ model_list:
         # this stack is trying to avoid. Ordered failover is the `fallbacks`
         # block in router_settings below.
         tiers:
-          SIMPLE:    local-coder    # LOCAL-TIER-LINE free and unmetered; costs electricity
+          # SIMPLE was local-coder (LOCAL-TIER-LINE) until 2026-09-02: confirmed
+          # live via LITELLM_LOG=DEBUG that tools reach Ollama's chat-completions
+          # endpoint intact -- the deployment's own response comes back with
+          # tool_calls: null and the call dumped as text in content regardless.
+          # Same root cause as NVIDIA/NemoClaw#2731: Ollama's per-model chat-
+          # template parser fails to extract tool_calls for this Hermes-family
+          # model once the request carries a realistic multi-field tool schema,
+          # even though the model itself emits the right tokens (confirmed
+          # working there on vLLM with --tool-call-parser hermes). Until this
+          # local tier is moved off Ollama (or Ollama fixes its parser), route
+          # SIMPLE to a deployment that actually returns structured tool_calls.
+          # See docs/KNOWN-ISSUES.md.
+          SIMPLE:    mistral-tools    # was local-coder; costs a request instead of free electricity, but works
           MEDIUM:    mistral-tools        # mistral-small-latest, tool-capable, same account as codestral
           COMPLEX:   nvidia-kimi        # Kimi K3, 1M context, for multi-file work
           REASONING: gemini-flash         # low-volume tier; free-tier prompts may train Google's models

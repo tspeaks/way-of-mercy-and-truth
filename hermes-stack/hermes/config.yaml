@@ -15,16 +15,7 @@ providers:
     name: "LiteLLM (local)"
     api_key: "${LITELLM_MASTER_KEY}"
     transport: chat_completions
-    # EMERGENCY STOPGAP (2026-09-01, see docs/KNOWN-ISSUES.md -> "smart-router
-    # doesn't forward tools"): auto_router/complexity_router silently drops the
-    # tools array before it reaches whatever deployment it picks, confirmed via
-    # curl with smart-router vs. mistral-tools directly on the same prompt.
-    # Pointed straight at mistral-tools until that's fixed upstream or a newer
-    # LiteLLM version resolves it. This sacrifices tiered/free-quota routing --
-    # every request pays MEDIUM-tier cost regardless of actual complexity.
-    # Revert both lines below to smart-router the moment tools work through it
-    # again; do not leave this in place longer than necessary.
-    default_model: mistral-tools
+    default_model: smart-router
     # Hermes probes /v1/models; the router advertises every deployment, and you
     # do not want Hermes picking one directly. Pin the list instead.
     discover_models: false
@@ -50,10 +41,7 @@ providers:
 
 model:
   provider: litellm
-  # See the EMERGENCY STOPGAP note above providers.litellm.default_model --
-  # both must point at the same deployment while smart-router's tools bug
-  # is unresolved.
-  default: mistral-tools
+  default: smart-router
   api_mode: chat_completions
 
 # Real command execution. Without this block, Hermes has no working terminal

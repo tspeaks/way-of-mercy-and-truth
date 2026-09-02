@@ -7,23 +7,19 @@ something to check off against.
 
 ## What to do when you're back at the machine
 
-In priority order, based on everything confirmed today plus the upstream
-release research below:
+**Resolved 2026-09-02** — see "SIMPLE tier (local-coder / Ollama)" below
+for the actual root cause and the fix that's now live in
+`litellm/config.yaml`. Nothing left to do here except:
 
-1. **Check your installed Hermes version** (`hermes --version` or the
-   version shown in `/status`). If you're behind `v0.21.0` (2026.8.31,
-   "Pantheon"), upgrade — see "Upstream release research" below for why
-   this specific jump matters, not just general hygiene.
-2. **Redeploy and actually restart the LiteLLM proxy** — this is still the
-   most likely fix for tonight's MEDIUM-tier failure specifically. Run the
-   checklist under "Tool-calling still broken proxy-wide" below.
-3. **Retest file+whoami, then the read-only probe**, in that order, before
-   trusting any task from today's list.
-4. **If local-coder (SIMPLE tier) is still narrating instead of executing
-   after steps 1–3**, that's likely a separate, deeper bug — see "SIMPLE
-   tier has its own upstream bug" below. Don't burn more time on the
-   LiteLLM config for that one; it's an Ollama-side chat-template problem
-   with no simple config fix.
+1. Confirm `git pull` + redeploy brought in the SIMPLE-tier fix
+   (`cp litellm/config.yaml ~/.litellm/config.yaml` + restart
+   `litellm-proxy`, same as every deploy tonight).
+2. Retest the file+whoami-style request through `smart-router` and confirm
+   it now executes for real.
+3. Consider your installed Hermes version (`hermes --version` / `/status`)
+   against `v0.21.0` "Pantheon" while you're in there — see "Upstream
+   release research" below — but that's general hygiene, not required for
+   tonight's bug.
 
 ## Internal compaction prompt leaked into user-facing chat
 
@@ -80,75 +76,41 @@ fake-tool-call symptom that preceded it, however, is confirmed still present
 and is now its own entry below — treat this one as inconclusive rather than
 closed until the tool-calling bug is actually resolved and retested cleanly.
 
-## `smart-router` (`auto_router/complexity_router`) doesn't forward `tools` to the picked deployment
+## RETRACTED: `smart-router` does NOT drop `tools` — misdiagnosed 2026-09-01, corrected 2026-09-02
 
-**Root cause isolated 2026-09-01.** This supersedes the entry that used to
-be here ("tool-calling broken proxy-wide") — that was the right symptom,
-wrong suspect. `drop_params` was a red herring: the config Tyler pulled has
-none anywhere (`grep -n -i drop_params litellm/config.yaml` matches only
-the comment explaining why it was removed), the proxy was redeployed and
-freshly restarted (confirmed via `systemctl status litellm-proxy` — new
-PID, `Application startup complete` in the log), and the bug was still
-100% reproducible.
+**This entry is wrong and is kept only so the mistake doesn't get made
+twice.** The real bug is documented properly under "SIMPLE tier
+(local-coder / Ollama)" below.
 
-**Isolation:** two identical `curl` requests to `/v1/chat/completions`, one
-`tools` array, one prompt ("write `reload worked` to `/tmp/mcp-test.txt`
-using the `write_file` tool"), against the running proxy directly —
-**bypassing Hermes entirely**, so this has nothing to do with the Hermes
-Agent side of the stack:
+What actually happened: the isolation test compared two `curl` requests —
+`"model": "smart-router"` (failed, JSON dumped in `content`) vs.
+`"model": "mistral-tools"` (worked, real `tool_calls`) — and concluded the
+router itself was stripping `tools` before forwarding to whatever
+deployment it picked. **That conclusion never checked which deployment
+`smart-router` actually picked.** It turned out to matter: the prompt used
+for the repro ("write `reload worked` to `/tmp/mcp-test.txt` using the
+`write_file` tool") scores `0.0` on the heuristic complexity scorer —
+solidly SIMPLE tier, not MEDIUM as assumed all night — so the `smart-router`
+request was silently landing on `local-coder` (Ollama), while the
+"comparison" request went straight to `mistral-tools`. Two different
+requests, two different bugs got attributed to one cause.
 
-- `"model": "smart-router"` → `tool_calls` absent, the call dumped as
-  stringified JSON inside `content` (`{"name": "write_file", ...}`) — the
-  exact symptom seen all night through Telegram.
-- `"model": "mistral-tools"` (the same underlying deployment,
-  **skipping the router**) → correct, structured response:
-  `"tool_calls": [{"function": {"name": "write_file", "arguments": "..."}}], "content": null`.
+This was only caught by turning on `LITELLM_LOG=DEBUG` and reading the
+actual `routing_decision` LiteLLM logs per request
+(`'routed_model': 'local-coder', 'cause': 'heuristic_scorer', 'tier':
+'SIMPLE', 'score': 0.0`) — the same debug log also proves `tools` rode
+along correctly the entire way through LiteLLM's request-building
+pipeline (present in `Params passed to completion()`, `Non-Default params`,
+`Final returned optional params`, and the literal outbound request body).
+LiteLLM's router has no bug here. Lesson for next time: **verify the
+actual routing decision before trusting an isolation test that assumes it.**
 
-Same prompt, same deployment underneath, same `litellm` process. The only
-variable is whether the request went through `auto_router/complexity_router`
-or named a deployment directly. That fully clears Hermes and every
-individual provider/model — the break is inside LiteLLM's auto-router
-layer itself, and since every one of the four tiers is reached exclusively
-through `smart-router`, this explains why the symptom looked "proxy-wide"
-regardless of which tier a prompt landed on.
-
-**Not the already-fixed bug:** LiteLLM shipped a related auto-router fix
-in v1.94.0 (`litellm_params` set on the router alias — `drop_params`,
-`cache_control_injection_points`, etc. — used to vanish when the router
-picked a tier; now they merge into the outbound request). Tyler's
-installed version is **1.99.0**, already well past that fix, and the bug
-still reproduces — so this is either a narrower, still-open gap specific
-to the caller-supplied `tools` array (as opposed to server-side
-`litellm_params`), or a regression. Search turned up no exact upstream
-issue matching this precise symptom as of 2026-09-01.
-
-**Also checked while investigating:** LiteLLM had a real PyPI supply-chain
-compromise (malicious v1.82.7/v1.82.8, ~40 minutes live, March 2026,
-credential exfiltration). 1.99.0 is well clear of those two versions — not
-an active concern — but worth a one-time `pip show litellm` sanity check
-on the install source given this proxy holds every provider key in memory.
-
-**Next steps:**
-1. File this upstream at
-   [BerriAI/litellm](https://github.com/BerriAI/litellm/issues) — the two
-   curl commands above, side by side with their outputs, are a complete,
-   minimal repro. Worth checking first whether a version newer than 1.99.0
-   already fixes it (the project ships weekly MINOR releases).
-2. Until it's fixed upstream or a newer version resolves it, the
-   emergency-only fallback is pointing Hermes's `model.default` in
-   `hermes/config.yaml` at a specific deployment (e.g. `mistral-tools`)
-   instead of `smart-router` — this sacrifices the whole point of this
-   repo (tiered, free-quota-aware routing) for as long as it's set, so
-   treat it as a stopgap to unblock real work, not a fix, and revert once
-   the router itself works again.
-3. Re-run the read-only probe from the previous version of this entry
-   (e.g. "read `consulting-site/package.json` and list its dependencies
-   verbatim") once tools genuinely work through `smart-router` again,
-   before trusting any REASONING-tier task from today's list.
-
-**Status:** root cause isolated and reproducible outside Hermes, 2026-09-01.
-Not yet fixed — waiting on an upstream LiteLLM fix or a version bump that
-resolves it.
+A GitHub issue with this wrong diagnosis was drafted for
+[BerriAI/litellm](https://github.com/BerriAI/litellm) but **was never
+filed** — the session asked to file it independently refused to do so
+without verifying against the litellm codebase first and was still
+waiting on that when this was caught. No correction needed on their
+repository; nothing to retract there.
 
 ## Upstream release research (2026-09-01)
 
@@ -187,17 +149,21 @@ prompt" line item, but several changes are directly relevant:
   updating to regardless, since a redaction/leak-focused sweep happened
   between the version that likely produced tonight's incidents and now.
 
-None of this replaces actually redeploying the LiteLLM proxy config
-(that's still the confirmed cause of tonight's MEDIUM-tier failure) — it's
-additional context for the compaction leak specifically, and a reason to
-upgrade Hermes itself while at the machine, not just the proxy.
+This is additional context for the compaction leak specifically, and a
+reason to upgrade Hermes itself while at the machine — it isn't related to
+the SIMPLE-tier/Ollama bug below, which turned out to be the actual cause
+of tonight's tool-calling failures, not a LiteLLM proxy deploy problem.
 
-## SIMPLE tier (local-coder / Ollama) has its own, separate upstream bug
+## SIMPLE tier (local-coder / Ollama) has its own, separate upstream bug — CONFIRMED, this was tonight's actual bug
 
-Distinct from the proxy-wide issue above. Even after the LiteLLM proxy fix
-lands, local-coder specifically may keep narrating tool calls instead of
-executing them, because of a bug in **Ollama's own chat-template parser**,
-not Hermes or LiteLLM:
+**Confirmed live 2026-09-02** via `LITELLM_LOG=DEBUG`, not just a
+theoretical concern anymore — see the retraction above. Every "tool-calling
+is broken" symptom seen tonight (Telegram file+whoami, the terminal-diff
+narration, the `curl` isolation) traces back to this one thing: the
+complexity router's heuristic scorer rates short, plainly-worded action
+requests as SIMPLE tier, which was mapped to `local-coder` (Ollama), whose
+chat-template parser can't return structured `tool_calls` for this model —
+a bug in **Ollama's own chat-template parser**, not Hermes or LiteLLM:
 
 - [`NVIDIA/NemoClaw#2731`](https://github.com/NVIDIA/NemoClaw/issues/2731)
   (closed, fixed by PR #2737 upstream in that project): a Hermes-family
@@ -228,6 +194,16 @@ not Hermes or LiteLLM:
   than one open upstream rough edge. Worth knowing before spending more
   time assuming local-coder's problems are all this repo's config's fault.
 
-Bottom line for local-coder: don't chase this one via `litellm/config.yaml`
-edits. If it's still broken after the proxy redeploy, it's an Ollama/vLLM
-decision, not a routing-config bug.
+**Fix applied 2026-09-02:** `litellm/config.yaml`'s `complexity_router_config.tiers.SIMPLE`
+now points at `mistral-tools` instead of `local-coder` — a real, working,
+tool-capable deployment, at the cost of a request instead of free
+electricity. `hermes/config.yaml`'s emergency stopgap (forcing every
+request through `mistral-tools` regardless of tier) has been reverted;
+`smart-router` is back to being the default for both COMPLEX and
+REASONING traffic, which were never actually broken. This is a real fix
+for the symptom, not a full fix for the underlying cause — `local-coder`
+itself is still broken for tool-calling and sits unused in the tier map
+until it's moved off Ollama (the confirmed vLLM workaround above) or
+Ollama fixes its parser upstream. Re-add it to `SIMPLE` only after
+confirming real tool-calling works against it directly, the same way this
+whole investigation confirmed `mistral-tools` does.

@@ -1,0 +1,316 @@
+{
+  "book": "Zechariah",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/zechariah.json",
+  "note": "Night visions and oracles to the returned exiles rebuilding Jerusalem (1-8), followed by two later oracles about the coming king and the final restoration (9-14). Not cited by the curriculum or the Scriptural Appendix, though the Gospels quote it repeatedly in the passion narratives.",
+  "prediction_note": "Forecast: 4:10 ('the day of small things') the anchor for PR14; 3:1-5 for PR29; 7:5-10 for C06. Outcome: as forecast. Unforecast: 14:20-21 and 8:4-5 both anchor PR23 — the prophetic picture of the kingdom is ordinary life made holy, not a departure from it.",
+  "coverage_note": "Not indexed: 1:18-21 (horns and craftsmen), 5:1-11 (the flying scroll and the ephah), 6:1-15 (the chariots and the crowning), 9:1-8 and 9:13-17, 11:1-3, 12:1-9, 13:2-6, and 14:1-19 (the final battle and the plague on the nations). These are visions and oracles of judgment whose details the index does not interpret; the passages that anchor formation have been drawn out of them.",
+  "entries": [
+    {
+      "ref": "Zechariah 1:1-6",
+      "pericope": "'Return to me,' says Yahweh of Armies, 'and I will return to you'… Your fathers, where are they? And the prophets, do they live forever?",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C21"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "prescribes",
+      "connection": "The book opens with the whole message in one sentence: '\"Return to me,\" says Yahweh of Armies, \"and I will return to you.\"' The Failure Recovery Protocol's return, and C19's door that opens from both sides at once. 'Don't you be like your fathers, to whom the former prophets proclaimed… but they did not hear.' A question about time: 'Your fathers, where are they? And the prophets, do they live forever? But my words… didn't they overtake your fathers?' C21's consequence, outlasting everyone who ignored it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 1:7-17",
+      "pericope": "O Yahweh of Armies, how long will you not have mercy on Jerusalem?… Yahweh answered the angel who talked with me with kind and comforting words",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C25"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The first night vision: horsemen report that 'all the earth is at rest and in peace' — while Jerusalem lies in ruins. The angel's response is lament: 'O Yahweh of Armies, how long will you not have mercy on Jerusalem and on the cities of Judah, against which you have had indignation these seventy years?' Sacred Lament's 'how long,' spoken even in heaven (medium). 'Yahweh answered the angel who talked with me with kind and comforting words… \"I have returned to Jerusalem with mercy.\"' C19's mercy and C25's long wait ending.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 2:1-13",
+      "pericope": "Jerusalem will be inhabited as villages without walls… For I… will be to her a wall of fire around it… Many nations shall join themselves to Yahweh in that day, and shall be my people",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "A young man goes out with a measuring line to mark the city's boundaries, and is stopped: 'Jerusalem will be inhabited as villages without walls, because of the multitude of men and livestock in it. For I,' says Yahweh, 'will be to her a wall of fire around it, and I will be the glory in the midst of her.' A city whose size cannot be measured because its protection is not its walls. C27's boundless reach: 'Many nations shall join themselves to Yahweh in that day, and shall be my people.' And C19's tenderness: 'he who touches you touches the apple of his eye.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 3:1-10",
+      "pericope": "Isn't this a burning stick plucked out of the fire?… 'Take the filthy garments off of him.'… 'Behold, I have caused your iniquity to pass from you, and I will clothe you with rich clothing.'",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "The high priest stands before the angel 'clothed with filthy garments,' and the accuser stands at his right hand. The accusation is not answered; the accuser is: 'Yahweh rebuke you, Satan!… Isn't this a burning stick plucked out of the fire?' Then: 'Take the filthy garments off of him… Behold, I have caused your iniquity to pass from you, and I will clothe you with rich clothing.' The prophet himself joins in — 'Let them set a clean turban on his head' — and Joshua is restored to his office. Merciful Reintegration exactly: no lingering shame, no probation, full restoration to the role, with the bystander helping (medium). C19. The vision ends in ordinary peace: 'you will invite every man his neighbor under the vine and under the fig tree.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 4:1-10",
+      "pericope": "Not by might, nor by power, but by my Spirit… Indeed, who despises the day of small things?",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C22"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "A lampstand fed by two olive trees, and its meaning for the governor rebuilding the temple with almost nothing: 'Not by might, nor by power, but by my Spirit,' says Yahweh of Armies. 'Who are you, great mountain? Before Zerubbabel you are a plain.' Then the question for everyone discouraged by how little has been done: 'The hands of Zerubbabel have laid the foundation of this house. His hands shall also finish it… Indeed, who despises the day of small things?' The Discipline of Gradualism's refusal to judge a beginning by its size. C25's growth from foundations, and C22's dependence: 'Grace, grace, to it!'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 7:1-14",
+      "pericope": "Did you at all fast to me, really to me?… Execute true judgment, and show kindness and compassion every man to his brother… let none of you devise evil against his brother in your heart",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C06",
+        "C03",
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "A delegation asks whether to keep the fast that mourned the temple's destruction. The answer is a question back: 'When you fasted and mourned in the fifth and in the seventh month for these seventy years, did you at all fast to me, really to me? When you eat, and when you drink, don't you eat for yourselves?' C06's reading of the practice by its object. Then what God had asked all along: 'Execute true judgment, and show kindness and compassion every man to his brother. Don't oppress the widow, nor the fatherless, the foreigner, nor the poor; and let none of you devise evil against his brother in your heart.' C03's mercy, and the last clause is Watchfulness — the harm stopped while it is still a thought (medium). C20. The refusal follows: 'they made their hearts as hard as flint.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 8:1-17",
+      "pericope": "Old men and old women will again dwell in the streets of Jerusalem… The streets of the city will be full of boys and girls playing… speak every man the truth with his neighbor",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C13",
+        "C28",
+        "C15"
+      ],
+      "practices": [
+        "PR23"
+      ],
+      "mode": "prescribes",
+      "connection": "The sign that God has returned is not a temple or a victory but a street scene: 'Old men and old women will again dwell in the streets of Jerusalem, every man with his staff in his hand for very age. The streets of the city will be full of boys and girls playing in its streets.' The Sacrament of the Ordinary in its prophetic picture — the kingdom recognised in the elderly sitting and children playing (medium). C13 and C28. 'If it is marvelous in the eyes of the remnant… should it also be marvelous in my eyes?' Then the conduct that belongs to it: 'These are the things that you shall do: speak every man the truth with his neighbor. Execute the judgment of truth and peace in your gates, and let none of you devise evil in your hearts against his neighbor.' C15. 'Don't be afraid. Let your hands be strong.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 8:18-23",
+      "pericope": "The fasts… shall be for the house of Judah joy and gladness, and cheerful feasts… We will go with you, for we have heard that God is with you",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "The answer to the delegation's question about fasting, finally given: 'The fasts of the fourth fifth, seventh, and tenth months shall be for the house of Judah joy and gladness, and cheerful feasts. Therefore love truth and peace.' Mourning turned to feasting — C19. And the nations drawn in by what they see: 'ten men will take hold, out of all the languages of the nations… of the skirt of him who is a Jew, saying, \"We will go with you, for we have heard that God is with you.\"' C27.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 9:9-12",
+      "pericope": "Behold, your King comes to you! He is righteous, and having salvation; lowly, and riding on a donkey… he will speak peace to the nations… you prisoners of hope",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C15",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "'Rejoice greatly, daughter of Zion! Shout, daughter of Jerusalem! Behold, your King comes to you! He is righteous, and having salvation; lowly, and riding on a donkey, even on a colt, the foal of a donkey.' The text the Gospels quote at the entry into Jerusalem (Matthew 21:5; John 12:15). C22's humility in a king. His first act is disarmament: 'I will cut off the chariot from Ephraim, and the horse from Jerusalem; and the battle bow will be cut off; and he will speak peace to the nations' — C15. And C19's phrase for those still waiting: 'Turn to the stronghold, you prisoners of hope!' The surrounding oracles (9:1-8, 9:13-17) are not indexed.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 10:1-12",
+      "pericope": "They comfort in vain. Therefore they go their way like sheep… because there is no shepherd… they will be as though I had not cast them off",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C08",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "'The teraphim have spoken vanity, and the diviners have seen a lie; and they have told false dreams. They comfort in vain. Therefore they go their way like sheep. They are oppressed, because there is no shepherd.' C08's false comforters, and a people scattered by the absence of true leadership. God's answer: 'I will bring them back; for I have mercy on them; and they will be as though I had not cast them off.' C19's restoration so complete that the rejection leaves no mark.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 11:4-17",
+      "pericope": "Those who sell them say, 'Blessed be Yahweh, for I am rich;' and their own shepherds don't pity them… a shepherd… who will not… seek those who are scattered, nor heal that which is broken",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C08",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "An enacted parable of shepherding a flock 'of slaughter.' The traders profit and thank God for it: 'Those who sell them say, \"Blessed be Yahweh, for I am rich;\" and their own shepherds don't pity them.' The prophet's wages are set at thirty pieces of silver — 'the handsome price that I was valued at by them' — and thrown to the potter (Matthew 27:9-10 recalls it). Then the portrait of the worthless shepherd by what he fails to do: 'who will not visit those who are cut off, neither will seek those who are scattered, nor heal that which is broken, nor feed that which is sound.' C08's false leader and C21's physician who never treats anyone.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 12:10-13:1",
+      "pericope": "They will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son… a spring opened… for sin and for uncleanness",
+      "pillars": [
+        "mercy",
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C04"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "'I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn.' Repentance as grief — Sacred Lament poured out by God's own Spirit, and C04's recognition of what was done. The mourning is family by family, 'every family apart, and their wives apart' — each household facing its own share. Then the answer: 'In that day there will be a spring opened to the house of David and to the inhabitants of Jerusalem, for sin and for uncleanness.' C19. John 19:37 cites 12:10 at the cross.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 13:7-9",
+      "pericope": "Strike the shepherd, and the sheep will be scattered… I will refine them as silver is refined, and will test them like gold is tested",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C25"
+      ],
+      "practices": [],
+      "connection": "'Awake, sword, against my shepherd… Strike the shepherd, and the sheep will be scattered' — the line Jesus quotes on the night of his arrest (Mark 14:27). The remnant that survives is refined: 'I will bring the third part into the fire, and will refine them as silver is refined, and will test them like gold is tested. They will call on my name, and I will hear them.' C26's purification by fire and C25's formation through trial.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Zechariah 14:20-21",
+      "pericope": "In that day there will be on the bells of the horses, 'HOLY TO YAHWEH;' and the pots in Yahweh's house will be like the bowls before the altar. Yes, every pot in Jerusalem and in Judah will be holy",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C23"
+      ],
+      "practices": [
+        "PR23"
+      ],
+      "mode": "prescribes",
+      "connection": "The last vision of the book, after the battles and earthquakes of chapter 14, is about kitchenware. The words engraved on the high priest's turban — 'HOLY TO YAHWEH' — are now on the harness bells of working horses. 'The pots in Yahweh's house will be like the bowls before the altar. Yes, every pot in Jerusalem and in Judah will be holy to Yahweh of Armies.' The distinction between sacred and ordinary dissolved by raising the ordinary. The Sacrament of the Ordinary in its prophetic form — 'there is no other location available' — and C28's liturgy of everyday things. C23.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

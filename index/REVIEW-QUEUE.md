@@ -41,6 +41,7 @@ the first fourteen.
 | Zephaniah | 5 | `reviews/zephaniah-package.md` | 3:14-20 (God rejoicing over his people); 2:3 ("seek humility") |
 | Haggai | 3 | `reviews/haggai-package.md` | 1:1-15 (PR01, "consider your ways"); 2:1-9 (PR14, refusing comparison with the former temple) |
 | Malachi | 7 | `reviews/malachi-package.md` | 3:6-12 (PR11 + PR05, with the note on "test me"); 2:10-16 (the divorce guard); 3:13-18 (C23) |
+| Zechariah | 14 | `reviews/zechariah-package.md` | 4:1-10 (PR14 — "who despises the day of small things?"); 3:1-10 (PR29 — Joshua's garments); 14:20-21 and 8:1-17 (PR23 — bells and pots, children playing); 7:1-14 (PR12, medium); 12:10-13:1 (PR08) |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

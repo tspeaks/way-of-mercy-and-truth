@@ -1923,6 +1923,21 @@
         ],
         "tags": [],
         "source_file": "romans.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 7:1-14",
+        "name": "Did you at all fast to me, really to me?… Execute true judgment, and show kindness and compassion every man to his brother… let none of you devise evil against his brother in your heart",
+        "chapters": [
+          "C03",
+          "C06",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "C04": [
@@ -3041,6 +3056,20 @@
         ],
         "tags": [],
         "source_file": "song-of-solomon.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 12:10-13:1",
+        "name": "They will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son… a spring opened… for sin and for uncleanness",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       },
       {
         "book": "Zephaniah.Json",
@@ -4262,6 +4291,21 @@
         "practices": [],
         "tags": [],
         "source_file": "romans.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 7:1-14",
+        "name": "Did you at all fast to me, really to me?… Execute true judgment, and show kindness and compassion every man to his brother… let none of you devise evil against his brother in your heart",
+        "chapters": [
+          "C03",
+          "C06",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "C07": [
@@ -6033,6 +6077,30 @@
         "practices": [],
         "tags": [],
         "source_file": "titus.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 10:1-12",
+        "name": "They comfort in vain. Therefore they go their way like sheep… because there is no shepherd… they will be as though I had not cast them off",
+        "chapters": [
+          "C08",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 11:4-17",
+        "name": "Those who sell them say, 'Blessed be Yahweh, for I am rich;' and their own shepherds don't pity them… a shepherd… who will not… seek those who are scattered, nor heal that which is broken",
+        "chapters": [
+          "C08",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
       },
       {
         "book": "Zephaniah.Json",
@@ -9978,6 +10046,21 @@
         "source_file": "titus.json"
       },
       {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 8:1-17",
+        "name": "Old men and old women will again dwell in the streets of Jerusalem… The streets of the city will be full of boys and girls playing… speak every man the truth with his neighbor",
+        "chapters": [
+          "C13",
+          "C15",
+          "C28"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
         "book": "Zephaniah.Json",
         "reference": "Zephaniah 3:9-13",
         "name": "To serve him shoulder to shoulder… I will leave in the midst of you an afflicted and poor people, and they will take refuge in the name of Yahweh",
@@ -12431,6 +12514,34 @@
         "practices": [],
         "tags": [],
         "source_file": "titus.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 8:1-17",
+        "name": "Old men and old women will again dwell in the streets of Jerusalem… The streets of the city will be full of boys and girls playing… speak every man the truth with his neighbor",
+        "chapters": [
+          "C13",
+          "C15",
+          "C28"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 9:9-12",
+        "name": "Behold, your King comes to you! He is righteous, and having salvation; lowly, and riding on a donkey… he will speak peace to the nations… you prisoners of hope",
+        "chapters": [
+          "C15",
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "C16": [
@@ -20989,6 +21100,110 @@
         "source_file": "titus.json"
       },
       {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 10:1-12",
+        "name": "They comfort in vain. Therefore they go their way like sheep… because there is no shepherd… they will be as though I had not cast them off",
+        "chapters": [
+          "C08",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 12:10-13:1",
+        "name": "They will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son… a spring opened… for sin and for uncleanness",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 1:1-6",
+        "name": "'Return to me,' says Yahweh of Armies, 'and I will return to you'… Your fathers, where are they? And the prophets, do they live forever?",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 1:7-17",
+        "name": "O Yahweh of Armies, how long will you not have mercy on Jerusalem?… Yahweh answered the angel who talked with me with kind and comforting words",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 2:1-13",
+        "name": "Jerusalem will be inhabited as villages without walls… For I… will be to her a wall of fire around it… Many nations shall join themselves to Yahweh in that day, and shall be my people",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 3:1-10",
+        "name": "Isn't this a burning stick plucked out of the fire?… 'Take the filthy garments off of him.'… 'Behold, I have caused your iniquity to pass from you, and I will clothe you with rich clothing.'",
+        "chapters": [
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 8:18-23",
+        "name": "The fasts… shall be for the house of Judah joy and gladness, and cheerful feasts… We will go with you, for we have heard that God is with you",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 9:9-12",
+        "name": "Behold, your King comes to you! He is righteous, and having salvation; lowly, and riding on a donkey… he will speak peace to the nations… you prisoners of hope",
+        "chapters": [
+          "C15",
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
         "book": "Zephaniah.Json",
         "reference": "Zephaniah 3:14-20",
         "name": "He will rejoice over you with joy. He will calm you in his love. He will rejoice over you with singing… I will save those who are lame",
@@ -22231,6 +22446,21 @@
         ],
         "tags": [],
         "source_file": "song-of-solomon.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 7:1-14",
+        "name": "Did you at all fast to me, really to me?… Execute true judgment, and show kindness and compassion every man to his brother… let none of you devise evil against his brother in your heart",
+        "chapters": [
+          "C03",
+          "C06",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       },
       {
         "book": "Zephaniah.Json",
@@ -23555,6 +23785,32 @@
         ],
         "tags": [],
         "source_file": "romans.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 11:4-17",
+        "name": "Those who sell them say, 'Blessed be Yahweh, for I am rich;' and their own shepherds don't pity them… a shepherd… who will not… seek those who are scattered, nor heal that which is broken",
+        "chapters": [
+          "C08",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 1:1-6",
+        "name": "'Return to me,' says Yahweh of Armies, 'and I will return to you'… Your fathers, where are they? And the prophets, do they live forever?",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "C22": [
@@ -25100,6 +25356,33 @@
         "source_file": "titus.json"
       },
       {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 4:1-10",
+        "name": "Not by might, nor by power, but by my Spirit… Indeed, who despises the day of small things?",
+        "chapters": [
+          "C22",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 9:9-12",
+        "name": "Behold, your King comes to you! He is righteous, and having salvation; lowly, and riding on a donkey… he will speak peace to the nations… you prisoners of hope",
+        "chapters": [
+          "C15",
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
         "book": "Zephaniah.Json",
         "reference": "Zephaniah 2:15-3:7",
         "name": "The joyous city that lived carelessly, that said in her heart, 'I am, and there is none besides me.'… She didn't receive correction",
@@ -26052,6 +26335,20 @@
         "practices": [],
         "tags": [],
         "source_file": "romans.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 14:20-21",
+        "name": "In that day there will be on the bells of the horses, 'HOLY TO YAHWEH;' and the pots in Yahweh's house will be like the bowls before the altar. Yes, every pot in Jerusalem and in Judah will be holy",
+        "chapters": [
+          "C23",
+          "C28"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "C24": [
@@ -28407,6 +28704,46 @@
         ],
         "tags": [],
         "source_file": "song-of-solomon.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 13:7-9",
+        "name": "Strike the shepherd, and the sheep will be scattered… I will refine them as silver is refined, and will test them like gold is tested",
+        "chapters": [
+          "C25",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 1:7-17",
+        "name": "O Yahweh of Armies, how long will you not have mercy on Jerusalem?… Yahweh answered the angel who talked with me with kind and comforting words",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 4:1-10",
+        "name": "Not by might, nor by power, but by my Spirit… Indeed, who despises the day of small things?",
+        "chapters": [
+          "C22",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "C26": [
@@ -28980,6 +29317,18 @@
         "practices": [],
         "tags": [],
         "source_file": "titus.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 13:7-9",
+        "name": "Strike the shepherd, and the sheep will be scattered… I will refine them as silver is refined, and will test them like gold is tested",
+        "chapters": [
+          "C25",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "C27": [
@@ -30285,6 +30634,30 @@
         "source_file": "song-of-solomon.json"
       },
       {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 2:1-13",
+        "name": "Jerusalem will be inhabited as villages without walls… For I… will be to her a wall of fire around it… Many nations shall join themselves to Yahweh in that day, and shall be my people",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 8:18-23",
+        "name": "The fasts… shall be for the house of Judah joy and gladness, and cheerful feasts… We will go with you, for we have heard that God is with you",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
         "book": "Zephaniah.Json",
         "reference": "Zephaniah 3:14-20",
         "name": "He will rejoice over you with joy. He will calm you in his love. He will rejoice over you with singing… I will save those who are lame",
@@ -30996,6 +31369,35 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 14:20-21",
+        "name": "In that day there will be on the bells of the horses, 'HOLY TO YAHWEH;' and the pots in Yahweh's house will be like the bowls before the altar. Yes, every pot in Jerusalem and in Judah will be holy",
+        "chapters": [
+          "C23",
+          "C28"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 8:1-17",
+        "name": "Old men and old women will again dwell in the streets of Jerusalem… The streets of the city will be full of boys and girls playing… speak every man the truth with his neighbor",
+        "chapters": [
+          "C13",
+          "C15",
+          "C28"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "C29": [
@@ -36118,6 +36520,34 @@
         ],
         "tags": [],
         "source_file": "ruth.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 12:10-13:1",
+        "name": "They will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son… a spring opened… for sin and for uncleanness",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 1:7-17",
+        "name": "O Yahweh of Armies, how long will you not have mercy on Jerusalem?… Yahweh answered the angel who talked with me with kind and comforting words",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "PR09": [
@@ -37256,6 +37686,20 @@
         ],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 1:1-6",
+        "name": "'Return to me,' says Yahweh of Armies, 'and I will return to you'… Your fathers, where are they? And the prophets, do they live forever?",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "PR12": [
@@ -37959,6 +38403,21 @@
         ],
         "tags": [],
         "source_file": "song-of-solomon.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 7:1-14",
+        "name": "Did you at all fast to me, really to me?… Execute true judgment, and show kindness and compassion every man to his brother… let none of you devise evil against his brother in your heart",
+        "chapters": [
+          "C03",
+          "C06",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "PR13": [
@@ -38846,6 +39305,20 @@
         ],
         "tags": [],
         "source_file": "song-of-solomon.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 4:1-10",
+        "name": "Not by might, nor by power, but by my Spirit… Indeed, who despises the day of small things?",
+        "chapters": [
+          "C22",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "PR15": [
@@ -40550,6 +41023,35 @@
         ],
         "tags": [],
         "source_file": "matthew.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 14:20-21",
+        "name": "In that day there will be on the bells of the horses, 'HOLY TO YAHWEH;' and the pots in Yahweh's house will be like the bowls before the altar. Yes, every pot in Jerusalem and in Judah will be holy",
+        "chapters": [
+          "C23",
+          "C28"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 8:1-17",
+        "name": "Old men and old women will again dwell in the streets of Jerusalem… The streets of the city will be full of boys and girls playing… speak every man the truth with his neighbor",
+        "chapters": [
+          "C13",
+          "C15",
+          "C28"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "PR24": [
@@ -41589,6 +42091,19 @@
         ],
         "tags": [],
         "source_file": "ruth.json"
+      },
+      {
+        "book": "Zechariah.Json",
+        "reference": "Zechariah 3:1-10",
+        "name": "Isn't this a burning stick plucked out of the fire?… 'Take the filthy garments off of him.'… 'Behold, I have caused your iniquity to pass from you, and I will clothe you with rich clothing.'",
+        "chapters": [
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "zechariah.json"
       }
     ],
     "PR30": [

@@ -1,0 +1,145 @@
+{
+  "book": "Numbers",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/numbers.json",
+  "note": "The wilderness years between Sinai and the plains of Moab. A Tier 6 book, indexed by the Song of Solomon precedent. The Scriptural Appendix names Numbers among the Torah books for C01 without citing a verse.",
+  "coverage_note": "Six entries out of thirty-six chapters, by design. Not indexed: the censuses and camp arrangements (1-4, 26), the purity and Nazirite laws (5, 6:1-21), the offerings and Levites (7-8), the spies' report (13, represented by 14:11-24), the rebellion of Korah (16-17), the red heifer (19), Moses striking the rock (20:1-13), the bronze serpent (21:4-9), Balaam (22-24), Phinehas (25), the war on Midian (31), the itinerary and boundaries (33-35), and the remaining laws.",
+  "entries": [
+    {
+      "ref": "Numbers 6:22-27",
+      "pericope": "Yahweh bless you, and keep you. Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "The priestly blessing, given as words to be spoken over the people: 'Yahweh bless you, and keep you. Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace.' C28's liturgy — a blessing that is meant to be said, regularly, by one person to others — and C19's face turned toward the people in grace. 'So they shall put my name on the children of Israel; and I will bless them.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Numbers 11:10-17",
+      "pericope": "I am not able to bear all this people alone, because it is too heavy for me. If you treat me this way, please kill me right now… that they shall bear the burden of the people with you",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C13",
+        "C22"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The people weep for meat, and Moses breaks: 'Why have you treated with your servant so badly?… Have I conceived all this people?… I am not able to bear all this people alone, because it is too heavy for me. If you treat me this way, please kill me right now.' Sacred Lament from the most faithful man in Israel, unedited — and not rebuked. God's answer is to share the load: 'I will take of the Spirit which is on you, and will put it on them; and they shall bear the burden of the people with you, that you not bear it yourself alone.' C13's community as the remedy for the leader's exhaustion, and C22.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Numbers 11:24-29",
+      "pericope": "Eldad and Medad are prophesying in the camp!… 'My lord Moses, forbid them!'… 'Are you jealous for my sake? I wish that all Yahweh's people were prophets'",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Two elders who stayed in the camp receive the Spirit anyway and prophesy there. Joshua, loyal to his master, wants them stopped: 'My lord Moses, forbid them!' Moses: 'Are you jealous for my sake? I wish that all Yahweh's people were prophets, that Yahweh would put his Spirit on them!' C22's humility in a leader with no need to be the only voice, and C13's gift spread across the community. Mark 9:38-40 is the Gospel parallel.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Numbers 12:1-16",
+      "pericope": "Now the man Moses was very humble, above all the men who were on the surface of the earth… Moses cried to Yahweh, saying, 'Heal her, God, I beg you!'… the people didn't travel until Miriam was brought in again",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C14",
+        "C15"
+      ],
+      "practices": [
+        "PR15",
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "Moses's brother and sister speak against him — 'Has Yahweh indeed spoken only with Moses?' — and the narrator comments: 'Now the man Moses was very humble, above all the men who were on the surface of the earth.' He does not defend himself. When Miriam is struck with leprosy, the one she attacked prays for her at once: 'Heal her, God, I beg you!' Shedding Harshness toward a sibling who wounded him. C22 and C14. She is shut outside the camp for seven days — and the whole people waits for her: 'the people didn't travel until Miriam was brought in again.' Merciful Reintegration by a community that will not move on without the one who failed (medium for both). C15.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Numbers 14:11-24",
+      "pericope": "Please pardon the iniquity of this people according to the greatness of your loving kindness… my servant Caleb, because he had another spirit with him, and has followed me fully",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C27",
+        "C12"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "After the spies' report the people want to return to Egypt, and God again offers to destroy them and start with Moses. Moses intercedes by quoting God's own self-description back to him from Exodus 34: 'Yahweh is slow to anger, and abundant in loving kindness, forgiving iniquity and disobedience… Please pardon the iniquity of this people according to the greatness of your loving kindness.' Shedding Harshness for a people who had just threatened to stone him (14:10) (medium). C19 and C27. 'I have pardoned according to your word.' And C12's proof in a single man: 'my servant Caleb, because he had another spirit with him, and has followed me fully.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Numbers 27:1-11",
+      "pericope": "Why should the name of our father be taken away from among his family, because he had no son?… 'The daughters of Zelophehad speak right'",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C14",
+        "C15"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Five sisters — 'Mahlah, Noah, and Hoglah, and Milcah, and Tirzah,' all named — come before the whole assembly to challenge a rule that would leave their family without land: 'Why should the name of our father be taken away from among his family, because he had no son? Give to us a possession.' 'Moses brought their cause before Yahweh,' and the answer changes the law: 'The daughters of Zelophehad speak right.' C16's attention to those the system overlooked, C14's household preserved, and C15's dispute settled by hearing the excluded and changing the rule.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

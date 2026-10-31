@@ -575,6 +575,37 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:1-10",
+        "name": "You shall be holy; for I Yahweh your God am holy… you shall not wholly reap the corners of your field… you shall leave them for the poor and for the foreigner",
+        "chapters": [
+          "C01",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:11-18",
+        "name": "The wages of a hired servant shall not remain with you all night… You shall not curse the deaf, nor put a stumbling block before the blind… You shall not hate your brother in your heart… nor bear any grudge… but you shall love your neighbor as yourself",
+        "chapters": [
+          "C01",
+          "C03",
+          "C20"
+        ],
+        "practices": [
+          "PR01",
+          "PR06",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 11:28-30",
         "name": "My yoke is easy, and my burden is light",
@@ -1695,6 +1726,23 @@
         ],
         "tags": [],
         "source_file": "jonah.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:11-18",
+        "name": "The wages of a hired servant shall not remain with you all night… You shall not curse the deaf, nor put a stumbling block before the blind… You shall not hate your brother in your heart… nor bear any grudge… but you shall love your neighbor as yourself",
+        "chapters": [
+          "C01",
+          "C03",
+          "C20"
+        ],
+        "practices": [
+          "PR01",
+          "PR06",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
       },
       {
         "book": "Luke.Json",
@@ -3045,6 +3093,22 @@
         ],
         "tags": [],
         "source_file": "lamentations.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:32-37",
+        "name": "You shall rise up before the gray head, and honor the face of an old man… The stranger… shall be to you as the native-born among you, and you shall love him as yourself… You shall have just balances",
+        "chapters": [
+          "C04",
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR01",
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
       },
       {
         "book": "Luke.Json",
@@ -9545,6 +9609,21 @@
         "source_file": "micah.json"
       },
       {
+        "book": "Numbers.Json",
+        "reference": "Numbers 14:11-24",
+        "name": "Please pardon the iniquity of this people according to the greatness of your loving kindness… my servant Caleb, because he had another spirit with him, and has followed me fully",
+        "chapters": [
+          "C12",
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "numbers.json"
+      },
+      {
         "book": "Philippians.Json",
         "reference": "Philippians 2:19-30",
         "name": "I have no one else like-minded, who will truly care about you",
@@ -10958,6 +11037,32 @@
         "source_file": "nehemiah.json"
       },
       {
+        "book": "Numbers.Json",
+        "reference": "Numbers 11:10-17",
+        "name": "I am not able to bear all this people alone, because it is too heavy for me. If you treat me this way, please kill me right now… that they shall bear the burden of the people with you",
+        "chapters": [
+          "C13",
+          "C22"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "numbers.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 11:24-29",
+        "name": "Eldad and Medad are prophesying in the camp!… 'My lord Moses, forbid them!'… 'Are you jealous for my sake? I wish that all Yahweh's people were prophets'",
+        "chapters": [
+          "C13",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "numbers.json"
+      },
+      {
         "book": "Proverbs.Json",
         "reference": "Proverbs 30:24-28",
         "name": "Four things little on the earth, but exceedingly wise",
@@ -12186,6 +12291,35 @@
         ],
         "tags": [],
         "source_file": "nehemiah.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 12:1-16",
+        "name": "Now the man Moses was very humble, above all the men who were on the surface of the earth… Moses cried to Yahweh, saying, 'Heal her, God, I beg you!'… the people didn't travel until Miriam was brought in again",
+        "chapters": [
+          "C14",
+          "C15",
+          "C22"
+        ],
+        "practices": [
+          "PR15",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "numbers.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 27:1-11",
+        "name": "Why should the name of our father be taken away from among his family, because he had no son?… 'The daughters of Zelophehad speak right'",
+        "chapters": [
+          "C14",
+          "C15",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "numbers.json"
       },
       {
         "book": "Philemon.Json",
@@ -13551,6 +13685,35 @@
         "practices": [],
         "tags": [],
         "source_file": "micah.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 12:1-16",
+        "name": "Now the man Moses was very humble, above all the men who were on the surface of the earth… Moses cried to Yahweh, saying, 'Heal her, God, I beg you!'… the people didn't travel until Miriam was brought in again",
+        "chapters": [
+          "C14",
+          "C15",
+          "C22"
+        ],
+        "practices": [
+          "PR15",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "numbers.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 27:1-11",
+        "name": "Why should the name of our father be taken away from among his family, because he had no son?… 'The daughters of Zelophehad speak right'",
+        "chapters": [
+          "C14",
+          "C15",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "numbers.json"
       },
       {
         "book": "Obadiah.Json",
@@ -15818,6 +15981,51 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:1-10",
+        "name": "You shall be holy; for I Yahweh your God am holy… you shall not wholly reap the corners of your field… you shall leave them for the poor and for the foreigner",
+        "chapters": [
+          "C01",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:32-37",
+        "name": "You shall rise up before the gray head, and honor the face of an old man… The stranger… shall be to you as the native-born among you, and you shall love him as yourself… You shall have just balances",
+        "chapters": [
+          "C04",
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR01",
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 25:23-43",
+        "name": "The land is mine; for you are strangers and live as foreigners with me… If your brother has become poor… then you shall uphold him… Take no interest from him… You shall not rule over him with harshness",
+        "chapters": [
+          "C16",
+          "C17",
+          "C18"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 10:25-37",
         "name": "Which of these proved to be a neighbor?",
@@ -16374,6 +16582,19 @@
         ],
         "tags": [],
         "source_file": "nehemiah.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 27:1-11",
+        "name": "Why should the name of our father be taken away from among his family, because he had no son?… 'The daughters of Zelophehad speak right'",
+        "chapters": [
+          "C14",
+          "C15",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "numbers.json"
       },
       {
         "book": "Philemon.Json",
@@ -17559,6 +17780,21 @@
         "practices": [],
         "tags": [],
         "source_file": "jonah.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 25:23-43",
+        "name": "The land is mine; for you are strangers and live as foreigners with me… If your brother has become poor… then you shall uphold him… Take no interest from him… You shall not rule over him with harshness",
+        "chapters": [
+          "C16",
+          "C17",
+          "C18"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
       },
       {
         "book": "Luke.Json",
@@ -19078,6 +19314,33 @@
         "practices": [],
         "tags": [],
         "source_file": "jonah.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 25:1-12",
+        "name": "In the seventh year there shall be a Sabbath of solemn rest for the land… proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee to you",
+        "chapters": [
+          "C18",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 25:23-43",
+        "name": "The land is mine; for you are strangers and live as foreigners with me… If your brother has become poor… then you shall uphold him… Take no interest from him… You shall not rule over him with harshness",
+        "chapters": [
+          "C16",
+          "C17",
+          "C18"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
       },
       {
         "book": "Luke.Json",
@@ -22567,6 +22830,33 @@
         "source_file": "micah.json"
       },
       {
+        "book": "Numbers.Json",
+        "reference": "Numbers 14:11-24",
+        "name": "Please pardon the iniquity of this people according to the greatness of your loving kindness… my servant Caleb, because he had another spirit with him, and has followed me fully",
+        "chapters": [
+          "C12",
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "numbers.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 6:22-27",
+        "name": "Yahweh bless you, and keep you. Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace",
+        "chapters": [
+          "C19",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "numbers.json"
+      },
+      {
         "book": "Proverbs.Json",
         "reference": "Proverbs 3:11-12",
         "name": "Whom Yahweh loves, he reproves",
@@ -24213,6 +24503,23 @@
         ],
         "tags": [],
         "source_file": "jonah.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:11-18",
+        "name": "The wages of a hired servant shall not remain with you all night… You shall not curse the deaf, nor put a stumbling block before the blind… You shall not hate your brother in your heart… nor bear any grudge… but you shall love your neighbor as yourself",
+        "chapters": [
+          "C01",
+          "C03",
+          "C20"
+        ],
+        "practices": [
+          "PR01",
+          "PR06",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
       },
       {
         "book": "Luke.Json",
@@ -27669,6 +27976,48 @@
         "practices": [],
         "tags": [],
         "source_file": "nahum.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 11:10-17",
+        "name": "I am not able to bear all this people alone, because it is too heavy for me. If you treat me this way, please kill me right now… that they shall bear the burden of the people with you",
+        "chapters": [
+          "C13",
+          "C22"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "numbers.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 11:24-29",
+        "name": "Eldad and Medad are prophesying in the camp!… 'My lord Moses, forbid them!'… 'Are you jealous for my sake? I wish that all Yahweh's people were prophets'",
+        "chapters": [
+          "C13",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "numbers.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 12:1-16",
+        "name": "Now the man Moses was very humble, above all the men who were on the surface of the earth… Moses cried to Yahweh, saying, 'Heal her, God, I beg you!'… the people didn't travel until Miriam was brought in again",
+        "chapters": [
+          "C14",
+          "C15",
+          "C22"
+        ],
+        "practices": [
+          "PR15",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "numbers.json"
       },
       {
         "book": "Obadiah.Json",
@@ -33297,6 +33646,22 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:32-37",
+        "name": "You shall rise up before the gray head, and honor the face of an old man… The stranger… shall be to you as the native-born among you, and you shall love him as yourself… You shall have just balances",
+        "chapters": [
+          "C04",
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR01",
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 10:25-37",
         "name": "Which of these proved to be a neighbor?",
@@ -33535,6 +33900,21 @@
         ],
         "tags": [],
         "source_file": "micah.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 14:11-24",
+        "name": "Please pardon the iniquity of this people according to the greatness of your loving kindness… my servant Caleb, because he had another spirit with him, and has followed me fully",
+        "chapters": [
+          "C12",
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "numbers.json"
       },
       {
         "book": "Obadiah.Json",
@@ -34309,6 +34689,18 @@
         "source_file": "lamentations.json"
       },
       {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 25:1-12",
+        "name": "In the seventh year there shall be a Sabbath of solemn rest for the land… proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee to you",
+        "chapters": [
+          "C18",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 24:13-35",
         "name": "Weren't our hearts burning within us?",
@@ -34444,6 +34836,18 @@
         ],
         "tags": [],
         "source_file": "nehemiah.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 6:22-27",
+        "name": "Yahweh bless you, and keep you. Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace",
+        "chapters": [
+          "C19",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "numbers.json"
       },
       {
         "book": "Psalms.Json",
@@ -35480,6 +35884,39 @@
         ],
         "tags": [],
         "source_file": "lamentations.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:11-18",
+        "name": "The wages of a hired servant shall not remain with you all night… You shall not curse the deaf, nor put a stumbling block before the blind… You shall not hate your brother in your heart… nor bear any grudge… but you shall love your neighbor as yourself",
+        "chapters": [
+          "C01",
+          "C03",
+          "C20"
+        ],
+        "practices": [
+          "PR01",
+          "PR06",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:32-37",
+        "name": "You shall rise up before the gray head, and honor the face of an old man… The stranger… shall be to you as the native-born among you, and you shall love him as yourself… You shall have just balances",
+        "chapters": [
+          "C04",
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR01",
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
       },
       {
         "book": "Luke.Json",
@@ -37799,6 +38236,35 @@
         "source_file": "job.json"
       },
       {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:1-10",
+        "name": "You shall be holy; for I Yahweh your God am holy… you shall not wholly reap the corners of your field… you shall leave them for the poor and for the foreigner",
+        "chapters": [
+          "C01",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 25:23-43",
+        "name": "The land is mine; for you are strangers and live as foreigners with me… If your brother has become poor… then you shall uphold him… Take no interest from him… You shall not rule over him with harshness",
+        "chapters": [
+          "C16",
+          "C17",
+          "C18"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 12:22-34",
         "name": "Consider the ravens; consider the lilies",
@@ -38488,6 +38954,23 @@
         ],
         "tags": [],
         "source_file": "john.json"
+      },
+      {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:11-18",
+        "name": "The wages of a hired servant shall not remain with you all night… You shall not curse the deaf, nor put a stumbling block before the blind… You shall not hate your brother in your heart… nor bear any grudge… but you shall love your neighbor as yourself",
+        "chapters": [
+          "C01",
+          "C03",
+          "C20"
+        ],
+        "practices": [
+          "PR01",
+          "PR06",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
       },
       {
         "book": "Luke.Json",
@@ -39937,6 +40420,20 @@
         ],
         "tags": [],
         "source_file": "nehemiah.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 11:10-17",
+        "name": "I am not able to bear all this people alone, because it is too heavy for me. If you treat me this way, please kill me right now… that they shall bear the burden of the people with you",
+        "chapters": [
+          "C13",
+          "C22"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "numbers.json"
       },
       {
         "book": "Psalms.Json",
@@ -42030,6 +42527,23 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:11-18",
+        "name": "The wages of a hired servant shall not remain with you all night… You shall not curse the deaf, nor put a stumbling block before the blind… You shall not hate your brother in your heart… nor bear any grudge… but you shall love your neighbor as yourself",
+        "chapters": [
+          "C01",
+          "C03",
+          "C20"
+        ],
+        "practices": [
+          "PR01",
+          "PR06",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 21:34-36",
         "name": "Be watchful all the time",
@@ -43747,6 +44261,37 @@
         "source_file": "micah.json"
       },
       {
+        "book": "Numbers.Json",
+        "reference": "Numbers 12:1-16",
+        "name": "Now the man Moses was very humble, above all the men who were on the surface of the earth… Moses cried to Yahweh, saying, 'Heal her, God, I beg you!'… the people didn't travel until Miriam was brought in again",
+        "chapters": [
+          "C14",
+          "C15",
+          "C22"
+        ],
+        "practices": [
+          "PR15",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "numbers.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 14:11-24",
+        "name": "Please pardon the iniquity of this people according to the greatness of your loving kindness… my servant Caleb, because he had another spirit with him, and has followed me fully",
+        "chapters": [
+          "C12",
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "numbers.json"
+      },
+      {
         "book": "Obadiah.Json",
         "reference": "Obadiah 1:10-15",
         "name": "Don't look down on your brother in the day of his disaster, and don't rejoice over the children of Judah in the day of their destruction",
@@ -45403,6 +45948,22 @@
         "source_file": "john.json"
       },
       {
+        "book": "Leviticus.Json",
+        "reference": "Leviticus 19:32-37",
+        "name": "You shall rise up before the gray head, and honor the face of an old man… The stranger… shall be to you as the native-born among you, and you shall love him as yourself… You shall have just balances",
+        "chapters": [
+          "C04",
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR01",
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "leviticus.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 14:7-14",
         "name": "Go and sit in the lowest place; invite those who cannot repay",
@@ -46528,6 +47089,22 @@
         ],
         "tags": [],
         "source_file": "micah.json"
+      },
+      {
+        "book": "Numbers.Json",
+        "reference": "Numbers 12:1-16",
+        "name": "Now the man Moses was very humble, above all the men who were on the surface of the earth… Moses cried to Yahweh, saying, 'Heal her, God, I beg you!'… the people didn't travel until Miriam was brought in again",
+        "chapters": [
+          "C14",
+          "C15",
+          "C22"
+        ],
+        "practices": [
+          "PR15",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "numbers.json"
       },
       {
         "book": "Philemon.Json",

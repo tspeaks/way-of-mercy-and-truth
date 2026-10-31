@@ -1,0 +1,133 @@
+{
+  "book": "Leviticus",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/leviticus.json",
+  "note": "The priestly law: sacrifice, purity, the Day of Atonement, and the Holiness Code. A Tier 6 book, indexed by the Song of Solomon precedent: what genuinely anchors is indexed, and the rest is recorded. The Scriptural Appendix names the law of gleanings, the honest scale and the wage paid before sundown among the Torah's foundations for C01; all three are in Leviticus 19.",
+  "coverage_note": "Five entries out of twenty-seven chapters, by design. Not indexed: the sacrificial system (1-7), the ordination of priests and the deaths of Nadab and Abihu (8-10), the purity laws (11-15), the Day of Atonement (16, which Hebrews 9-10 interprets and the index anchors there), the laws on blood and sexual conduct with their penalties (17-18, 20), the priestly regulations (21-22), the festival calendar (23), the blasphemer's execution (24:10-23), 25:13-22 and 25:44-55 (including the permission to hold foreign slaves permanently, which the index will not anchor), the blessings and curses (26), and vows (27). 19:19-31 is not indexed.",
+  "entries": [
+    {
+      "ref": "Leviticus 19:1-10",
+      "pericope": "You shall be holy; for I Yahweh your God am holy… you shall not wholly reap the corners of your field… you shall leave them for the poor and for the foreigner",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C01",
+        "C16"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "The Holiness Code's central chapter opens with its principle — 'You shall be holy; for I Yahweh your God am holy' — and the first concrete form holiness takes, after honouring parents and the Sabbath, is the harvest left unfinished: 'When you reap the harvest of your land, you shall not wholly reap the corners of your field, neither shall you gather the gleanings of your harvest… you shall leave them for the poor and for the foreigner.' The Scriptural Appendix names 'the law of gleanings' among the Torah's foundations for C01. Habitual Almsgiving built into the field itself — a set portion, never harvested, directed at actual need. C16. This is the law Ruth gleaned under and Boaz exceeded.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Leviticus 19:11-18",
+      "pericope": "The wages of a hired servant shall not remain with you all night… You shall not curse the deaf, nor put a stumbling block before the blind… You shall not hate your brother in your heart… nor bear any grudge… but you shall love your neighbor as yourself",
+      "pillars": [
+        "mercy",
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C03",
+        "C01",
+        "C20"
+      ],
+      "practices": [
+        "PR06",
+        "PR12",
+        "PR01"
+      ],
+      "mode": "prescribes",
+      "connection": "A run of short commands that move from the hand to the heart. Honesty: 'You shall not steal… lie… deceive one another.' The vulnerable: 'The wages of a hired servant shall not remain with you all night until the morning' — the wage paid before sundown the Scriptural Appendix names — and 'You shall not curse the deaf, nor put a stumbling block before the blind.' Partiality in either direction: 'you shall not be partial to the poor, nor show favoritism to the great' — the Moral Audit's partiality area (medium). Then the interior: 'You shall not hate your brother in your heart' — Watchfulness, the hatred stopped where it begins (medium) — 'You shall surely rebuke your neighbor, and not bear sin because of him. You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself.' Non-Retaliation in the law, and the sentence Jesus names as the second commandment. C03, C01 and C20.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Leviticus 19:32-37",
+      "pericope": "You shall rise up before the gray head, and honor the face of an old man… The stranger… shall be to you as the native-born among you, and you shall love him as yourself… You shall have just balances",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27",
+        "C04"
+      ],
+      "practices": [
+        "PR25",
+        "PR01"
+      ],
+      "mode": "prescribes",
+      "connection": "'You shall rise up before the gray head, and honor the face of an old man.' Deferential Seating's instruction in the law — 'watch for the poor, the elderly, the stranger… Rise, give up your seat' — given as a bodily act of honour (medium). C16. Then the stranger brought fully inside the command of 19:18: 'The stranger who lives as a foreigner with you shall be to you as the native-born among you, and you shall love him as yourself; for you lived as foreigners in the land of Egypt.' C27. And honest measures: 'You shall have just balances, just weights, a just ephah' — the Moral Audit's money area, and the 'honest scale' the Scriptural Appendix names (medium). C04.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Leviticus 25:1-12",
+      "pericope": "In the seventh year there shall be a Sabbath of solemn rest for the land… proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee to you",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The Sabbath extended to the land: every seventh year it rests, and what grows of itself is 'for yourself, for your servant, for your maid, for your hired servant, and for your stranger… For your livestock also, and for the animals.' C28's rhythm applied to an entire economy. And every fiftieth year, the jubilee: 'proclaim liberty throughout the land to all its inhabitants… and each of you shall return to his own property, and each of you shall return to his family.' C18's detachment written into land tenure — no one's holdings are permanent. Jesus reads Isaiah 61's echo of this at Nazareth (Luke 4:18-19).",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Leviticus 25:23-43",
+      "pericope": "The land is mine; for you are strangers and live as foreigners with me… If your brother has become poor… then you shall uphold him… Take no interest from him… You shall not rule over him with harshness",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17",
+        "C16",
+        "C18"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "The theological ground of the jubilee: 'The land shall not be sold in perpetuity, for the land is mine; for you are strangers and live as foreigners with me.' C17's citizen-stranger in its original form — everyone, including the owner, is a resident alien on God's land. C18. Then the duty to the brother who falls into poverty: 'If your brother has become poor, and his hand can't support him among you; then you shall uphold him… Take no interest from him or profit… that your brother may live among you.' Habitual Almsgiving in the form of interest-free support (medium). If he sells himself, he is to be treated 'as a hired servant,' released at the jubilee: 'You shall not rule over him with harshness.' C16. 25:44-46, which permits the permanent ownership of foreign slaves, is not indexed.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

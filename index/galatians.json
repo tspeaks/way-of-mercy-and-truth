@@ -1,0 +1,337 @@
+{
+  "book": "Galatians",
+  "translation": "World English Bible (public domain)",
+  "status": "complete — 133 of 149 verses; the greeting (1:1-5) and the Hagar and Sarah allegory (4:21-31) are unindexed; awaiting second-pass review",
+  "method_version": "2.3",
+  "text_source": "index/text/galatians.json",
+  "note": "Paul's sharpest letter, against a return to the law as the means of standing with God. Two entries carry prior citations — 5:22-23 for C29 and 6:9 for C25 and the Discipline of Gradualism — and serve as the calibration set.",
+  "coverage_note": "The allegory of Hagar and Sarah (4:21-31) is left out. It ends with 'Throw out the handmaid and her son,' and the Genesis index treated Hagar's expulsion as the casting out of the vulnerable whom God sees; the index will not place a formation tag on an allegory whose surface commends that expulsion, and Paul's argument in it is about covenants rather than conduct. Galatians 6:1-5 carries three practices; that density is the passage's, not the drafter's.",
+  "entries": [
+    {
+      "ref": "Galatians 1:6-10",
+      "pericope": "Am I now seeking the favor of men, or of God?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S6"
+      ],
+      "chapters": [
+        "C08",
+        "C23"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Against 'a different good news,' Paul sets a test that does not depend on who brings the message — 'even though we, or an angel from heaven' — which is C08's refusal to judge a teaching by its messenger. And he turns the test on himself: 'For am I now seeking the favor of men, or of God? Or am I striving to please men? For if I were still pleasing men, I wouldn't be a servant of Christ.' C23's refusal of the audience, stated as a condition of service.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Galatians 1:11-24",
+      "pericope": "He who once persecuted us now preaches the faith that he once tried to destroy. And they glorified God in me",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C23"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "Paul's account of himself begins with what he was — 'beyond measure I persecuted the assembly of God, and ravaged it' — and passes through years no one saw: 'I went away into Arabia,' then Damascus, then three years before meeting Peter. C23's hidden formation before any public work. The churches of Judea, which had suffered from him, knew him only by report: 'He who once persecuted us now preaches the faith that he once tried to destroy. And they glorified God in me.' A community receiving the man who had hunted it, without probation and with praise. Merciful Reintegration (medium: the reception is reported rather than enacted), and C19's door.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Galatians 2:1-10",
+      "pericope": "They only asked us to remember the poor — which very thing I was also zealous to do",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C15"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "The leaders of the Jerusalem church and the apostle to the Gentiles agree on a division of labour and give each other 'the right hand of fellowship' — C15's peace across a real difference, sealed by people who had every reason to suspect one another. 'God doesn't show partiality to man.' The only condition attached is the poor: 'They only asked us to remember the poor — which very thing I was also zealous to do.' Habitual Almsgiving made the single shared commitment of two missions, and the root of the collection that runs through Acts and 2 Corinthians. C16's vulnerable as the one thing not negotiable.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Galatians 2:11-14",
+      "pericope": "Before some people came from James, he ate with the Gentiles. But when they came, he drew back and separated himself, fearing",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C04",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Peter, who had lodged Cornelius's men and eaten at a Gentile table, eats with Gentile believers at Antioch — until visitors arrive from Jerusalem, and then 'he drew back and separated himself, fearing those who were of the circumcision.' Others follow, 'even Barnabas.' C04's inconsistency between private conviction and public conduct, and C12's test of whether the inner life holds under social pressure. Paul confronts him 'before them all.' PR17 was considered and does not apply: the withdrawal was public and was pressing others to follow, which is not a private mistake whose exposure would merely shame; the correction is public for the same reason the fault was.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Galatians 2:15-21",
+      "pericope": "It is no longer I that live, but Christ living in me",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C11",
+        "C26"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'I have been crucified with Christ, and it is no longer I that live, but Christ living in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me, and gave himself up for me.' C11's mutual indwelling stated in the first person, and C26's exchanged life — not improvement but a different life lived from within.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Galatians 3:1-14",
+      "pericope": "Having begun in the Spirit, are you now completed in the flesh?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Foolish Galatians, who has bewitched you?' The question that diagnoses their drift: 'Having begun in the Spirit, are you now completed in the flesh?' A life that began by gift is not finished by effort — C26's change by a new nature rather than by self-improvement. Abraham believed and it was counted as righteousness, and the blessing promised to him reaches the Gentiles: C19's door by faith.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Galatians 3:15-29",
+      "pericope": "The law has become our tutor to bring us to Christ… There is neither Jew nor Greek",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S7"
+      ],
+      "chapters": [
+        "C06",
+        "C27"
+      ],
+      "practices": [],
+      "connection": "The law 'added because of transgressions, until the seed should come,' was 'our tutor to bring us to Christ' — the reading of the old covenant as pointing past itself that C06 teaches, and the household slave who walked the child to school is its image. And the result: 'There is neither Jew nor Greek, there is neither slave nor free man, there is neither male nor female; for you are all one in Christ Jesus.' C27's circle with no one outside. PR24 was considered here, as at Colossians 3:11, and declined for the same reason: the passage states the unity as a fact rather than prescribing the walk toward the centre.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Galatians 4:1-11",
+      "pericope": "Now that you have come to know God, or rather to be known by God",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C24"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Heirs held as minors 'under guardians and stewards' until the father's appointed time, and then 'God sent out the Spirit of his Son into your hearts, crying, Abba, Father!' C19's adoption. Paul corrects himself mid-sentence in a way that holds C24's whole posture: 'now that you have come to know God, or rather to be known by God' — knowing God reframed as being known, which is the only kind of knowing of God the Discipline of Unknowing allows a person to claim.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Galatians 4:12-20",
+      "pericope": "My little children, of whom I am again in travail until Christ is formed in you",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C15"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Paul reminds the Galatians how they received him when he was sick — 'you didn't despise nor reject; but you received me as an angel of God' — and asks the question every honest friend eventually asks: 'have I become your enemy by telling you the truth?' C15's truth spoken without severing the bond. And the image of formation as labour: 'My little children, of whom I am again in travail until Christ is formed in you.' Formation as a birth that takes time and can need to be gone through again, which is C25's.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Galatians 5:1-12",
+      "pericope": "Faith working through love… A little yeast grows through the whole lump",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C12",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'In Christ Jesus neither circumcision amounts to anything, nor uncircumcision, but faith working through love.' The faith that counts is defined by what it does, which is C12's proof. 'You were running well! Who interfered with you?' And the warning about small beginnings that is C20's whole reason for attending early: 'A little yeast grows through the whole lump.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Galatians 5:13-15",
+      "pericope": "Through love be servants to one another… if you bite and devour one another, be careful that you don't consume one another",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C15"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'You, brothers, were called for freedom. Only don't use your freedom for gain to the flesh, but through love be servants to one another.' Freedom spent as service, which is C16's logic. The whole law in one word — love your neighbour as yourself — and its failure pictured as cannibalism: 'if you bite and devour one another, be careful that you don't consume one another.' C15's warning in its most vivid form.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Galatians 5:16-26",
+      "pericope": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C29",
+        "C11",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "C29 takes 5:22-23 as its witness, and the Scriptural Appendix makes the point that matters: 'note the word: fruit, not achievements.' Nine qualities grown rather than built, and set against the works of the flesh — among them 'hatred, strife, jealousies, outbursts of anger, rivalries, divisions… envyings' — most of which are failures between people. Fruit is C11's image: what a branch produces by remaining in the vine. The closing warning is C22's: 'Let's not become conceited, provoking one another, and envying one another.'",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Galatians 6:1-5",
+      "pericope": "Restore such a one in a spirit of gentleness; looking to yourself so that you also aren't tempted",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C22"
+      ],
+      "practices": [
+        "PR29",
+        "PR03",
+        "PR01"
+      ],
+      "mode": "prescribes",
+      "connection": "The most compact instruction in the New Testament for what to do when someone falls, and it carries three of the curriculum's practices in five verses. 'Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness' — Merciful Reintegration, aimed at restoration, done gently. 'Looking to yourself so that you also aren't tempted' — Self-Accusation's discipline of sequence, one's own portion examined in the act of correcting another's. 'Bear one another's burdens, and so fulfill the law of Christ.' And then the audit turned inward and away from comparison: 'let each man test his own work, and then he will take pride in himself and not in his neighbor' — the Moral Audit, conducted without measuring oneself against anyone else. C16's restoration and C22's humility.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Galatians 6:6-10",
+      "pericope": "Let us not be weary in doing good, for we will reap in due season, if we don't give up",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C01"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix calls 6:9 'the promise beneath gradualism,' and C25 takes it as its witness: 'Let us not be weary in doing good, for we will reap in due season, if we don't give up.' The harvest is real and on its own schedule, and the only condition is not stopping. 'Whatever a man sows, that he will also reap' is C01's grain. 'As we have opportunity, let's do what is good toward all men.'",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Galatians 6:11-18",
+      "pericope": "As many as desire to look good in the flesh… far be it from me to boast, except in the cross",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C18",
+        "C26"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The letter ends in Paul's own large handwriting. His opponents 'desire to look good in the flesh… that they may boast in your flesh.' His boast is elsewhere: 'far be it from me to boast, except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.' C18's detachment in its strongest form — the world crucified to him — and C26's 'new creation' as the only thing that counts.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

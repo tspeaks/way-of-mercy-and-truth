@@ -265,6 +265,20 @@
         "source_file": "ecclesiastes.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 6:6-10",
+        "name": "Let us not be weary in doing good, for we will reap in due season, if we don't give up",
+        "chapters": [
+          "C01",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 1:1-2:3",
         "name": "God saw everything that he had made, and, behold, it was very good",
@@ -1729,6 +1743,18 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 2:11-14",
+        "name": "Before some people came from James, he ate with the Gentiles. But when they came, he drew back and separated himself, fearing",
+        "chapters": [
+          "C04",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 12:10-20",
         "name": "Please say that you are my sister",
@@ -2885,6 +2911,18 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 3:15-29",
+        "name": "The law has become our tutor to bring us to Christ… There is neither Jew nor Greek",
+        "chapters": [
+          "C06",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 21:8-21",
         "name": "God opened her eyes, and she saw a well of water",
@@ -3853,6 +3891,18 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 1:6-10",
+        "name": "Am I now seeking the favor of men, or of God?",
+        "chapters": [
+          "C08",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
       },
       {
         "book": "Isaiah.Json",
@@ -5645,6 +5695,31 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 2:15-21",
+        "name": "It is no longer I that live, but Christ living in me",
+        "chapters": [
+          "C11",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 5:16-26",
+        "name": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control",
+        "chapters": [
+          "C11",
+          "C22",
+          "C29"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 5:21-24",
         "name": "Enoch walked with God, and he was not, for God took him",
@@ -5996,6 +6071,30 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 2:11-14",
+        "name": "Before some people came from James, he ate with the Gentiles. But when they came, he drew back and separated himself, fearing",
+        "chapters": [
+          "C04",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 5:1-12",
+        "name": "Faith working through love… A little yeast grows through the whole lump",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
       },
       {
         "book": "Isaiah.Json",
@@ -8136,6 +8235,44 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 2:1-10",
+        "name": "They only asked us to remember the poor — which very thing I was also zealous to do",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 4:12-20",
+        "name": "My little children, of whom I am again in travail until Christ is formed in you",
+        "chapters": [
+          "C15",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 5:13-15",
+        "name": "Through love be servants to one another… if you bite and devour one another, be careful that you don't consume one another",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 13:1-18",
         "name": "Let there be no strife between me and you… for we are relatives",
@@ -9619,6 +9756,48 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 2:1-10",
+        "name": "They only asked us to remember the poor — which very thing I was also zealous to do",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 5:13-15",
+        "name": "Through love be servants to one another… if you bite and devour one another, be careful that you don't consume one another",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 6:1-5",
+        "name": "Restore such a one in a spirit of gentleness; looking to yourself so that you also aren't tempted",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR01",
+          "PR03",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
       },
       {
         "book": "Genesis.Json",
@@ -12136,6 +12315,18 @@
         "source_file": "ecclesiastes.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 6:11-18",
+        "name": "As many as desire to look good in the flesh… far be it from me to boast, except in the cross",
+        "chapters": [
+          "C18",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 11:1-9",
         "name": "Let's make ourselves a name",
@@ -13446,6 +13637,44 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 1:11-24",
+        "name": "He who once persecuted us now preaches the faith that he once tried to destroy. And they glorified God in me",
+        "chapters": [
+          "C19",
+          "C23"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 3:1-14",
+        "name": "Having begun in the Spirit, are you now completed in the flesh?",
+        "chapters": [
+          "C19",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 4:1-11",
+        "name": "Now that you have come to know God, or rather to be known by God",
+        "chapters": [
+          "C19",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
       },
       {
         "book": "Genesis.Json",
@@ -15709,6 +15938,18 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 5:1-12",
+        "name": "Faith working through love… A little yeast grows through the whole lump",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 25:29-34",
         "name": "Behold, I am about to die. What good is the birthright to me?",
@@ -17388,6 +17629,35 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 5:16-26",
+        "name": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control",
+        "chapters": [
+          "C11",
+          "C22",
+          "C29"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 6:1-5",
+        "name": "Restore such a one in a spirit of gentleness; looking to yourself so that you also aren't tempted",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR01",
+          "PR03",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 27:41-45",
         "name": "Your brother Esau comforts himself about you by planning to kill you",
@@ -18307,6 +18577,32 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 1:11-24",
+        "name": "He who once persecuted us now preaches the faith that he once tried to destroy. And they glorified God in me",
+        "chapters": [
+          "C19",
+          "C23"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 1:6-10",
+        "name": "Am I now seeking the favor of men, or of God?",
+        "chapters": [
+          "C08",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 11:1-9",
         "name": "Let's make ourselves a name",
@@ -19072,6 +19368,18 @@
         ],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 4:1-11",
+        "name": "Now that you have come to know God, or rather to be known by God",
+        "chapters": [
+          "C19",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
       },
       {
         "book": "Genesis.Json",
@@ -19993,6 +20301,32 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 4:12-20",
+        "name": "My little children, of whom I am again in travail until Christ is formed in you",
+        "chapters": [
+          "C15",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 6:6-10",
+        "name": "Let us not be weary in doing good, for we will reap in due season, if we don't give up",
+        "chapters": [
+          "C01",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 15:7-21",
         "name": "The iniquity of the Amorite is not yet full",
@@ -20793,6 +21127,42 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 2:15-21",
+        "name": "It is no longer I that live, but Christ living in me",
+        "chapters": [
+          "C11",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 3:1-14",
+        "name": "Having begun in the Spirit, are you now completed in the flesh?",
+        "chapters": [
+          "C19",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 6:11-18",
+        "name": "As many as desire to look good in the flesh… far be it from me to boast, except in the cross",
+        "chapters": [
+          "C18",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 32:22-32",
         "name": "I won't let you go, unless you bless me",
@@ -21361,6 +21731,18 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 3:15-29",
+        "name": "The law has become our tutor to bring us to Christ… There is neither Jew nor Greek",
+        "chapters": [
+          "C06",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
       },
       {
         "book": "Genesis.Json",
@@ -22775,6 +23157,19 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 5:16-26",
+        "name": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control",
+        "chapters": [
+          "C11",
+          "C22",
+          "C29"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "James.Json",
         "reference": "James 3:1",
         "name": "Not many should become teachers",
@@ -23151,6 +23546,22 @@
         ],
         "tags": [],
         "source_file": "acts.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 6:1-5",
+        "name": "Restore such a one in a spirit of gentleness; looking to yourself so that you also aren't tempted",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR01",
+          "PR03",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
       },
       {
         "book": "Isaiah.Json",
@@ -23960,6 +24371,22 @@
         ],
         "tags": [],
         "source_file": "ecclesiastes.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 6:1-5",
+        "name": "Restore such a one in a spirit of gentleness; looking to yourself so that you also aren't tempted",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR01",
+          "PR03",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
       },
       {
         "book": "Genesis.Json",
@@ -25021,6 +25448,20 @@
         ],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 2:1-10",
+        "name": "They only asked us to remember the poor — which very thing I was also zealous to do",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
       },
       {
         "book": "Isaiah.Json",
@@ -28728,6 +29169,20 @@
         "source_file": "2-peter.json"
       },
       {
+        "book": "Galatians.Json",
+        "reference": "Galatians 6:6-10",
+        "name": "Let us not be weary in doing good, for we will reap in due season, if we don't give up",
+        "chapters": [
+          "C01",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
         "book": "Habakkuk.Json",
         "reference": "Habakkuk 2:2-4",
         "name": "Though it delays, wait for it; the righteous will live by his faith",
@@ -30695,6 +31150,36 @@
         ],
         "tags": [],
         "source_file": "deuteronomy.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 1:11-24",
+        "name": "He who once persecuted us now preaches the faith that he once tried to destroy. And they glorified God in me",
+        "chapters": [
+          "C19",
+          "C23"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
+      },
+      {
+        "book": "Galatians.Json",
+        "reference": "Galatians 6:1-5",
+        "name": "Restore such a one in a spirit of gentleness; looking to yourself so that you also aren't tempted",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR01",
+          "PR03",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "galatians.json"
       },
       {
         "book": "Genesis.Json",

@@ -1,0 +1,155 @@
+{
+  "book": "Daniel",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/daniel.json",
+  "note": "Court stories of faithful exiles in Babylon and Persia (1-6), followed by apocalyptic visions (7-12). The stories are indexed; the visions are not. Not cited by the curriculum or the Scriptural Appendix.",
+  "coverage_note": "Not indexed: Nebuchadnezzar's dream and the statue (2), except as context; the decree and the first part of the dream in 4 (4:1-26); Belshazzar's feast before the interpretation (5:1-21); the end of 6 (6:24-28, including the execution of the accusers' families); and the visions of 7-8 and 10-12, whose symbols the index does not interpret. 9:20-27 (the seventy weeks) is not indexed.",
+  "entries": [
+    {
+      "ref": "Daniel 1:3-20",
+      "pericope": "Daniel purposed in his heart that he would not defile himself with the king's dainties… Test your servants, I beg you, ten days",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C17",
+        "C20"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "exemplifies",
+      "connection": "Young exiles taken into the Babylonian civil service: new language, new learning, new names. They accept all of it — and draw one line. 'But Daniel purposed in his heart that he would not defile himself with the king's dainties.' The Citizen-Stranger exactly: full participation in a foreign society, with loyalty anchored elsewhere and expressed in one concrete refusal. C17. The refusal is made courteously and with concern for the official's risk — 'Test your servants, I beg you, ten days' — and C20's gate is kept by a decision made in the heart before the food arrives.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Daniel 3:13-28",
+      "pericope": "Our God whom we serve is able to deliver us… But if not, be it known to you, O king, that we will not serve your gods",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C17",
+        "C22"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "exemplifies",
+      "connection": "The image, the music, the furnace. 'Who is that god that shall deliver you out of my hands?' The answer does not depend on the outcome: 'our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king. But if not, be it known to you, O king, that we will not serve your gods, nor worship the golden image which you have set up.' 'But if not' — the Citizen-Stranger's loyalty that 'rests above any human decree,' held without a guarantee. C17, and C22's calm before the king's fury. In the fire, 'four men loose, walking.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Daniel 4:27-37",
+      "pericope": "Break off your sins by righteousness, and your iniquities by showing mercy to the poor… Is not this great Babylon, which I have built… by the might of my power and for the glory of my majesty?",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C18",
+        "C19"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "Daniel's counsel to the most powerful man in the world is concrete: 'break off your sins by righteousness, and your iniquities by showing mercy to the poor; if there may be a lengthening of your tranquility.' Habitual Almsgiving offered as the remedy for an empire's pride (medium). A year later, on the palace roof: 'Is not this great Babylon, which I have built for the royal dwelling place, by the might of my power and for the glory of my majesty?' C22's warning fulfilled 'while the word was in the king's mouth.' C18. Then, after the madness, C19's restoration begun by looking up: 'I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me… those who walk in pride he is able to abase.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Daniel 5:22-28",
+      "pericope": "You… have not humbled your heart, though you knew all this… TEKEL; you are weighed in the balances, and are found wanting",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Belshazzar feasts with the temple vessels. The charge is that he knew better: 'You, his son, Belshazzar, have not humbled your heart, though you knew all this… and the God in whose hand your breath is, and whose are all your ways, you have not glorified.' C22's humility refused by someone who had watched what pride did to his predecessor. And C04's mirror in its starkest image: 'TEKEL; you are weighed in the balances, and are found wanting.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Daniel 6:3-23",
+      "pericope": "He kneeled on his knees three times a day, and prayed, and gave thanks before his God, as he did before",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C09",
+        "C17",
+        "C13"
+      ],
+      "practices": [
+        "PR30",
+        "PR07",
+        "PR10"
+      ],
+      "mode": "exemplifies",
+      "connection": "Daniel's colleagues 'could find no occasion nor fault, because he was faithful' — C13's integrity in office — and so they target his prayer. A decree is signed. 'When Daniel knew that the writing was signed, he went into his house (now his windows were open in his room toward Jerusalem) and he kneeled on his knees three times a day, and prayed, and gave thanks before his God, as he did before.' The Secret Rhythmic Devotion's 'three times a day… continuity matters more than intensity,' kept unchanged under threat of death; the Daily Anchors as a fixed rhythm. 'As he did before' is the whole point: he neither hides nor makes a show. The Citizen-Stranger: a faithful servant of the state whose last loyalty is not to it. C09 and C17.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Daniel 9:3-19",
+      "pericope": "We have sinned, and have dealt perversely… Lord, righteousness belongs to you, but to us confusion of face… we do not present our petitions before you for our righteousness, but for your great mercies' sake",
+      "pillars": [
+        "humility",
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C19",
+        "C09"
+      ],
+      "practices": [
+        "PR03",
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "Daniel, against whom no fault could be found, prays in the first person plural: 'we have sinned, and have dealt perversely, and have done wickedly, and have rebelled.' Self-Accusation that does not exempt the righteous one — he takes his place inside the people's guilt. 'Lord, righteousness belongs to you, but to us confusion of face.' C04. Sacred Lament with sackcloth and ashes, and its ground: 'To the Lord our God belong mercies and forgiveness; for we have rebelled against him… for we do not present our petitions before you for our righteousness, but for your great mercies' sake. Lord, hear; Lord, forgive; Lord, listen and do.' C19 and C09.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

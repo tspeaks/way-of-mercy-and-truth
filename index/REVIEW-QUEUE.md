@@ -47,6 +47,10 @@ the first fourteen.
 | 1 Kings | 11 | `reviews/1-kings-package.md` | 19:1-18 (PR08 — Elijah under the juniper; the angel's food before counsel); 12:1-19 (PR16 counter-example; C16 at 12:7); 21:1-29 (PR28 counter-example — Naboth; Ahab's humbling seen); 17:8-16 (PR05, medium); 22:5-28 (C08 — Micaiah) |
 | 2 Kings | 9 | `reviews/2-kings-package.md` | 6:1-7 (A3 prior, C26); 6:8-23 (PR06 + PR15 — feeding the enemy army); 5:1-27 (PR15 — the captive girl); 7:3-11 (PR28 positive, medium); 2:1-14 (PR26, medium); 25:27-30 (PR29, medium) |
 | Ezekiel | 10 | `reviews/ezekiel-package.md` | 36:22-32 (A3 prior, C26); 18:1-32 (PR11 + PR29); 3:15-21 (PR16 — seven days sitting before speaking, medium); 16:49-50 (PR28 counter-example); 33:30-32 (PR01 counter-example); 34:1-16 (C08); 37:1-14 (PR04, medium) |
+| Daniel | 6 | `reviews/daniel-package.md` | **6:3-23 (PR30 — "three times a day… as he did before"; PR07; PR10)**; 3:13-28 and 1:3-20 (PR10); 9:3-19 (PR03 + PR08); 4:27-37 (PR05, medium) |
+| Ezra | 4 | `reviews/ezra-package.md` | 9:5-9 (PR03; the coverage note on chapter 10); 3:10-13 (PR08 beside praise) |
+| Nehemiah | 5 | `reviews/nehemiah-package.md` | 5:1-19 (PR28 + PR01 — usury ended, governor's allowance refused); 8:1-12 (PR05 — "send portions to him for whom nothing is prepared"); 1:3-11 (PR08 + PR03); 2:1-8 (the prayer between two sentences) |
+| Esther | 2 | `reviews/esther-package.md` | 4:10-17 (PR10); 9:20-22 (PR05); the coverage note |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

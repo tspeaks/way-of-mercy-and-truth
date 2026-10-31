@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0C0B08">
+<title>Daniel — Scripture Index — The Way of Mercy and Truth</title>
+<meta name="description" content="Every passage of Daniel mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta property="og:type" content="book">
+<meta property="og:title" content="Daniel — Scripture Index — The Way of Mercy and Truth">
+<meta property="og:description" content="Every passage of Daniel mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%230C0B08%27/%3E%3Cpath d=%27M16 6 L16 26 M9 13 H23%27 stroke=%27%23C9A227%27 stroke-width=%272.6%27 stroke-linecap=%27round%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0C0B08; --bg-raised:#15140F;
+  --gold:#C9A227; --gold-bright:#E3C158; --gold-pale:#EADFC4; --gold-dim:#8A7327;
+  --text:#E4DCC6; --text-soft:#BFB49A; --text-muted:#8A8069;
+  --truth:#7FA9B5; --mercy:#C4795F; --spec:#9C8AB2;
+  --rule:rgba(201,162,39,0.22); --rule-strong:rgba(201,162,39,0.45);
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 10px 30px rgba(0,0,0,.35);
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0;
+  color:var(--text);
+  background-color:var(--bg);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(201,162,39,.07), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 110%, rgba(201,162,39,.05), transparent 70%);
+  background-attachment:fixed;
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-color:rgba(201,162,39,.45);text-underline-offset:3px;}
+a:hover{color:var(--gold-bright);text-decoration-color:var(--gold-bright);}
+:focus-visible{outline:2px solid var(--gold-bright);outline-offset:3px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule-strong);}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Cormorant Garamond','Iowan Old Style',Georgia,serif;font-weight:600;}
+
+.rule-orn{display:flex;align-items:center;gap:14px;margin:0;color:var(--gold-dim);}
+.rule-orn::before,.rule-orn::after{content:"";height:1px;flex:1;
+  background:linear-gradient(90deg,transparent,var(--rule-strong),transparent);}
+.rule-orn span{font-size:13px;letter-spacing:.3em;}
+
+.setup{background:rgba(196,121,95,.14);border-bottom:1px solid var(--rule-strong);
+  color:var(--gold-pale);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(201,162,39,.18);padding:1px 6px;font-size:13px;color:var(--gold-bright);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:62px 0 44px;text-align:center;}
+header.masthead::after{content:"";display:block;height:1px;margin-top:38px;
+  background:linear-gradient(90deg,transparent,var(--rule-strong) 20%,var(--rule-strong) 80%,transparent);}
+.crest{width:64px;height:64px;margin:0 auto 22px;display:block;color:var(--gold);opacity:.92;}
+.kicker{font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 16px;}
+h1.title{font-size:clamp(34px,9vw,58px);line-height:1.04;margin:0 0 12px;color:var(--gold-pale);
+  font-weight:600;letter-spacing:.005em;}
+.subtitle{font-size:clamp(15px,3.4vw,18px);color:var(--text-soft);font-style:italic;
+  margin:0 auto 30px;max-width:44ch;}
+blockquote.epigraph{margin:0 auto 30px;padding:20px 24px;max-width:52ch;
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  font-size:clamp(15.5px,3.4vw,18px);color:var(--text-soft);line-height:1.5;font-style:italic;}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;justify-content:center;}
+.badge{font-size:11px;letter-spacing:.08em;padding:5px 11px;text-transform:uppercase;
+  border:1px solid var(--rule);color:var(--text-muted);background:rgba(201,162,39,.05);white-space:nowrap;}
+.badge.gold{border-color:var(--rule-strong);color:var(--gold);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;}
+.btn{display:inline-block;padding:14px 26px;text-decoration:none;font-size:15px;font-weight:600;
+  letter-spacing:.02em;border:1px solid var(--gold-dim);background:transparent;color:var(--gold);min-height:44px;}
+.btn:hover{background:rgba(201,162,39,.1);border-color:var(--gold);color:var(--gold-bright);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#100E08;}
+.btn.primary:hover{background:var(--gold-bright);border-color:var(--gold-bright);color:#100E08;}
+
+section{padding:50px 0;}
+section + section{border-top:1px solid var(--rule);}
+h2.sec{font-size:clamp(23px,5vw,30px);margin:0 0 8px;color:var(--gold-pale);font-weight:600;}
+.section-note{color:var(--text-soft);margin:0 0 26px;max-width:62ch;}
+
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--rule);padding:19px 21px;box-shadow:var(--shadow);}
+.card .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 9px;}
+.card p{margin:0;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:11px 0 0;padding-top:11px;border-top:1px solid var(--rule);}
+
+.pull{background:rgba(201,162,39,.06);border-top:2px solid var(--gold-dim);
+  border-bottom:2px solid var(--gold-dim);padding:24px 26px;margin:30px 0 0;}
+.pull p{margin:0;font-size:clamp(16.5px,3.5vw,19px);line-height:1.45;color:var(--gold-pale);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:12px;letter-spacing:.05em;font-style:italic;}
+
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:26px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--rule);padding:18px 14px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;display:block;
+  margin-bottom:5px;color:var(--gold-pale);letter-spacing:.06em;}
+.pillar span{font-size:13px;color:var(--text-muted);}
+.pillar.t{border-top:2px solid var(--truth);}
+.pillar.h{border-top:2px solid var(--gold);}
+.pillar.m{border-top:2px solid var(--mercy);}
+
+.stage{border:1px solid var(--rule);background:var(--bg-raised);margin-bottom:12px;box-shadow:var(--shadow);}
+.stage summary{cursor:pointer;padding:17px 19px;list-style:none;display:flex;gap:15px;
+  align-items:center;min-height:44px;}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(201,162,39,.06);}
+.stage .snum{flex:none;width:34px;height:34px;border-radius:50%;background:transparent;
+  border:1px solid var(--gold-dim);color:var(--gold);display:inline-flex;align-items:center;
+  justify-content:center;font-size:14px;font-weight:600;}
+.stage[open] .snum{background:var(--gold);color:#100E08;border-color:var(--gold);}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;
+  font-weight:600;color:var(--gold-pale);letter-spacing:.05em;}
+.stage .sname span{display:block;font-size:14px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:11px;letter-spacing:.06em;}
+.stage .body{padding:4px 19px 17px;border-top:1px solid var(--rule);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li + li{border-top:1px solid var(--rule);}
+ol.chapters a{display:flex;gap:12px;align-items:baseline;padding:13px 2px;text-decoration:none;
+  color:var(--text);min-height:44px;}
+ol.chapters a:hover{color:var(--gold-bright);}
+ol.chapters .cid{flex:none;font-size:11px;color:var(--text-muted);width:42px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:14px;font-size:14px;}
+
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--rule);box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:16px 19px;text-decoration:none;color:var(--text);min-height:44px;}
+ul.linklist a:hover{background:rgba(201,162,39,.06);}
+ul.linklist .lt{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:19px;
+  display:block;color:var(--gold-pale);letter-spacing:.03em;}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:4px;}
+.flag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;margin-left:9px;
+  vertical-align:2px;white-space:nowrap;border:1px solid;}
+.flag.partial{border-color:var(--gold-dim);color:var(--gold);}
+.flag.speculative{border-color:var(--spec);color:var(--spec);}
+
+.warn{border:1px solid var(--rule);border-left:3px solid var(--mercy);
+  background:rgba(196,121,95,.07);padding:22px 24px;}
+.warn h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;margin:0 0 10px;
+  color:var(--mercy);letter-spacing:.02em;}
+.warn p{margin:0 0 11px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+.license{background:var(--bg-raised);border:1px solid var(--rule);padding:24px 26px;}
+.license .big{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:600;
+  margin:0 0 12px;color:var(--gold-pale);letter-spacing:.03em;}
+.license ul{margin:0 0 14px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:6px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+footer{padding:36px 0 64px;font-size:13px;color:var(--text-muted);
+  border-top:1px solid var(--rule);margin-top:20px;}
+footer p{margin:0 0 7px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+/* ================= reading pages ================= */
+.topbar{position:sticky;top:0;z-index:20;background:rgba(12,11,8,.94);
+  border-bottom:1px solid var(--rule);}
+@supports ((backdrop-filter:blur(8px)) or (-webkit-backdrop-filter:blur(8px))){
+  .topbar{-webkit-backdrop-filter:saturate(140%) blur(8px);backdrop-filter:saturate(140%) blur(8px);}
+}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:50px;}
+.topbar a.home{font-size:13.5px;text-decoration:none;color:var(--gold);white-space:nowrap;}
+.topbar .where{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.progress{height:2px;}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold-dim),var(--gold));}
+
+article{max-width:680px;margin:0 auto;padding:44px 22px 0;}
+.doc-head{margin-bottom:38px;padding-bottom:26px;border-bottom:1px solid var(--rule);text-align:center;}
+.doc-kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 14px;}
+.doc-title{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,7vw,44px);
+  line-height:1.1;margin:0;font-weight:600;color:var(--gold-pale);letter-spacing:.01em;}
+.doc-sub{font-size:15px;color:var(--truth);margin:12px 0 0;font-style:italic;}
+.doc-meta{font-size:12px;color:var(--text-muted);margin:14px 0 0;letter-spacing:.06em;}
+
+.doc-body{font-size:18px;line-height:1.75;color:var(--text);}
+.doc-body p{margin:0 0 1.25em;}
+.doc-body > p:first-of-type::first-letter{float:left;font-family:'Cormorant Garamond',Georgia,serif;
+  font-size:3.4em;line-height:.82;padding:.06em .1em 0 0;color:var(--gold);font-weight:600;}
+.doc-body h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;font-weight:600;
+  margin:2em 0 .7em;color:var(--gold-pale);letter-spacing:.03em;}
+.doc-body h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;font-weight:600;
+  margin:1.9em 0 .6em;color:var(--gold);letter-spacing:.03em;}
+blockquote.scripture{margin:1.7em 0;padding:16px 0 16px 22px;border-left:2px solid var(--gold-dim);
+  background:rgba(201,162,39,.04);}
+blockquote.scripture p{margin:0;font-style:italic;color:var(--gold-pale);font-size:17px;line-height:1.6;}
+blockquote.scripture cite{display:block;margin-top:9px;font-style:normal;font-size:12.5px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+
+.docnav{max-width:680px;margin:56px auto 0;padding:0 22px 70px;}
+.docnav .orn{margin-bottom:26px;}
+.navgrid{display:grid;grid-template-columns:1fr;gap:12px;}
+@media (min-width:560px){ .navgrid{grid-template-columns:1fr 1fr;} }
+.nav-btn{display:block;padding:17px 20px;border:1px solid var(--rule);text-decoration:none;
+  background:var(--bg-raised);min-height:44px;}
+.nav-btn:hover{background:rgba(201,162,39,.07);border-color:var(--gold-dim);}
+.nav-btn .nav-label{display:block;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--gold-dim);margin-bottom:5px;}
+.nav-btn .nav-title{display:block;font-size:15.5px;color:var(--text);line-height:1.3;}
+.nav-btn:hover .nav-title{color:var(--gold-bright);}
+.nav-btn.next{text-align:right;}
+.nav-btn.disabled{opacity:.42;}
+.nav-hub{text-align:center;margin-top:20px;font-size:13.5px;}
+.kbd-hint{text-align:center;margin-top:14px;font-size:11.5px;color:var(--text-muted);letter-spacing:.05em;}
+@media (hover:none){ .kbd-hint{display:none;} }
+
+.notfound{text-align:center;padding:90px 22px;}
+.notfound h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,8vw,46px);
+  color:var(--gold-pale);margin:0 0 14px;font-weight:600;}
+.notfound p{color:var(--text-soft);max-width:44ch;margin:0 auto 26px;}
+
+@media print{
+  body{background:#fff;color:#000;}
+  .topbar,.docnav,.skip,.setup,footer,.kbd-hint{display:none !important;}
+  article{max-width:none;padding:0;}
+  .doc-title,.doc-body h2,.doc-body h3{color:#000;}
+  .doc-body{font-size:12pt;}
+  blockquote.scripture{border-left:2px solid #999;background:none;}
+  blockquote.scripture p{color:#222;}
+  a{color:#000;text-decoration:none;}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<style>
+.entry{border-top:1px solid var(--rule);padding:34px 0;}
+.entry:first-of-type{border-top:0;}
+.entry-ref{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 6px;}
+.entry-name{font-family:'Cormorant Garamond',Georgia,serif;font-size:25px;font-weight:600;
+  color:var(--gold-pale);margin:0 0 18px;letter-spacing:.02em;}
+.passage{border-left:2px solid var(--gold-dim);padding:4px 0 4px 20px;margin:0 0 20px;
+  background:rgba(201,162,39,.04);}
+.passage p{margin:0 0 .7em;font-size:17px;line-height:1.65;color:var(--gold-pale);font-style:italic;}
+.passage p:last-child{margin-bottom:0;}
+.passage .vn{font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:10.5px;
+  color:var(--text-muted);vertical-align:3px;margin-right:5px;}
+.conn{font-size:16.5px;line-height:1.6;color:var(--text);margin:0 0 16px;}
+.tags{display:flex;flex-wrap:wrap;gap:7px;align-items:center;}
+.tag{font-size:11px;letter-spacing:.06em;padding:4px 10px;border:1px solid var(--rule);
+  color:var(--text-soft);text-decoration:none;white-space:nowrap;}
+a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
+.tag.pillar{text-transform:uppercase;letter-spacing:.12em;}
+.tag.pillar.t{border-color:var(--truth);color:var(--truth);}
+.tag.pillar.m{border-color:var(--mercy);color:var(--mercy);}
+.tag.pillar.h{border-color:var(--gold);color:var(--gold);}
+.tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
+.tag.corrected{border-color:var(--gold);color:var(--gold);}
+.tag.reviewed{border-color:var(--truth);color:var(--truth);}
+.passage.cluster p{font-style:normal;color:var(--text);}
+.passage.cluster .cref{color:var(--gold-dim);font-size:10.5px;margin-right:9px;vertical-align:2px;}
+.cluster-note{font-size:12px;color:var(--text-muted);letter-spacing:.06em;margin:0 0 12px;font-style:italic;}
+.entry-ref.cluster-label{color:var(--gold);}
+.tag.kind{border-style:solid;border-color:var(--gold-dim);color:var(--gold);
+  text-transform:uppercase;letter-spacing:.12em;font-size:10px;}
+.tag.mode{text-transform:uppercase;letter-spacing:.12em;font-size:10px;border-style:dotted;}
+.tag.mode.prescribes{border-color:var(--gold);color:var(--gold);}
+.tag.mode.exemplifies{border-color:var(--truth);color:var(--truth);}
+.tag.mode.counter{border-color:var(--mercy);color:var(--mercy);}
+.booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
+.stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
+@media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
+.stat div{border:1px solid var(--rule);background:var(--bg-raised);padding:14px;text-align:center;}
+.stat b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;
+  color:var(--gold-pale);font-weight:600;}
+.stat span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+</style>
+<div class="topbar"><div class="wrap">
+<a class="home" href="index.html">✦ The Way of Mercy and Truth</a>
+<span class="where mono">Daniel · index</span>
+</div><div class="progress"><i></i></div></div>
+<main id="main"><article>
+<div class="doc-head">
+<p class="doc-kicker">Scripture Index</p>
+<h1 class="doc-title">Daniel</h1>
+<p class="doc-sub">World English Bible · public domain</p>
+<p class="doc-meta mono">6 passages · 90 of 357 verses</p>
+</div>
+<div class="doc-body">
+<div class="entry">
+<p class="entry-ref">Daniel 1:3-20</p>
+<h2 class="entry-name">Daniel purposed in his heart that he would not defile himself with the king's dainties… Test your servants, I beg you, ten days</h2>
+<div class="passage">
+<p><span class="vn">3</span>The king spoke to Ashpenaz the master of his eunuchs, that he should bring in certain of the children of Israel, even of the seed royal and of the nobles;</p>
+<p><span class="vn">4</span>youths in whom was no blemish, but well-favored, and skillful in all wisdom, and endowed with knowledge, and understanding science, and such as had ability to stand in the king’s palace; and that he should teach them the learning and the language of the Chaldeans.</p>
+<p><span class="vn">5</span>The king appointed for them a daily portion of the king’s dainties, and of the wine which he drank, and that they should be nourished three years; that at its end they should stand before the king.</p>
+<p><span class="vn">6</span>Now among these were, of the children of Judah, Daniel, Hananiah, Mishael, and Azariah.</p>
+<p><span class="vn">7</span>The prince of the eunuchs gave names to them: to Daniel he gave the name of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abednego.</p>
+<p><span class="vn">8</span>But Daniel purposed in his heart that he would not defile himself with the king’s dainties, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.</p>
+<p><span class="vn">9</span>Now God made Daniel to find kindness and compassion in the sight of the prince of the eunuchs.</p>
+<p><span class="vn">10</span>The prince of the eunuchs said to Daniel, I fear my lord the king, who has appointed your food and your drink: for why should he see your faces worse looking than the youths who are of your own age? so would you endanger my head with the king.</p>
+<p><span class="vn">11</span>Then Daniel said to the steward whom the prince of the eunuchs had appointed over Daniel, Hananiah, Mishael, and Azariah:</p>
+<p><span class="vn">12</span>Test your servants, I beg you, ten days; and let them give us vegetables to eat, and water to drink.</p>
+<p><span class="vn">13</span>Then let our faces be looked on before you, and the face of the youths who eat of the king’s dainties; and as you see, deal with your servants.</p>
+<p><span class="vn">14</span>So he listened to them in this matter, and proved them ten days.</p>
+<p><span class="vn">15</span>At the end of ten days their faces appeared fairer, and they were fatter in flesh, than all the youths who ate of the king’s dainties.</p>
+<p><span class="vn">16</span>So the steward took away their dainties, and the wine that they should drink, and gave them pulse.</p>
+<p><span class="vn">17</span>Now as for these four youths, God gave them knowledge and skill in all learning and wisdom: and Daniel had understanding in all visions and dreams.</p>
+<p><span class="vn">18</span>At the end of the days which the king had appointed for bringing them in, the prince of the eunuchs brought them in before Nebuchadnezzar.</p>
+<p><span class="vn">19</span>The king talked with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king.</p>
+<p><span class="vn">20</span>In every matter of wisdom and understanding, concerning which the king inquired of them, he found them ten times better than all the magicians and enchanters who were in all his realm.</p>
+</div>
+<p class="conn">Young exiles taken into the Babylonian civil service: new language, new learning, new names. They accept all of it — and draw one line. 'But Daniel purposed in his heart that he would not defile himself with the king's dainties.' The Citizen-Stranger exactly: full participation in a foreign society, with loyalty anchored elsewhere and expressed in one concrete refusal. C17. The refusal is made courteously and with concern for the official's risk — 'Test your servants, I beg you, ten days' — and C20's gate is kept by a decision made in the heart before the food arrives.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c17.html">C17</a>
+<a class="tag" href="c20.html">C20</a>
+<a class="tag" href="a1.html">PR10</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Daniel 3:13-28</p>
+<h2 class="entry-name">Our God whom we serve is able to deliver us… But if not, be it known to you, O king, that we will not serve your gods</h2>
+<div class="passage">
+<p><span class="vn">13</span>Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abednego. Then they brought these men before the king.</p>
+<p><span class="vn">14</span>Nebuchadnezzar answered them, Is it on purpose, Shadrach, Meshach, and Abednego, that you don’t serve my god, nor worship the golden image which I have set up?</p>
+<p><span class="vn">15</span>Now if you are ready whenever you hear the sound of the horn, flute, zither, lyre, harp, pipe, and all kinds of music to fall down and worship the image which I have made, well: but if you don’t worship, you shall be cast the same hour into the midst of a burning fiery furnace; and who is that god that shall deliver you out of my hands?</p>
+<p><span class="vn">16</span>Shadrach, Meshach, and Abednego answered the king, Nebuchadnezzar, we have no need to answer you in this matter.</p>
+<p><span class="vn">17</span>If it be so, our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king.</p>
+<p><span class="vn">18</span>But if not, be it known to you, O king, that we will not serve your gods, nor worship the golden image which you have set up.</p>
+<p><span class="vn">19</span>Then was Nebuchadnezzar full of fury, and the form of his appearance was changed against Shadrach, Meshach, and Abednego: therefore he spoke, and commanded that they should heat the furnace seven times more than it was usually heated.</p>
+<p><span class="vn">20</span>He commanded certain mighty men who were in his army to bind Shadrach, Meshach, and Abednego, and to cast them into the burning fiery furnace.</p>
+<p><span class="vn">21</span>Then these men were bound in their pants, their tunics, and their mantles, and their other garments, and were cast into the midst of the burning fiery furnace.</p>
+<p><span class="vn">22</span>Therefore because the king’s commandment was urgent, and the furnace exceeding hot, the flame of the fire killed those men who took up Shadrach, Meshach, and Abednego.</p>
+<p><span class="vn">23</span>These three men, Shadrach, Meshach, and Abednego, fell down bound into the midst of the burning fiery furnace.</p>
+<p><span class="vn">24</span>Then Nebuchadnezzar the king was astonished, and rose up in haste: he spoke and said to his counselors, Didn’t we cast three men bound into the midst of the fire? They answered the king, True, O king.</p>
+<p><span class="vn">25</span>He answered, Look, I see four men loose, walking in the midst of the fire, and they are unharmed; and the aspect of the fourth is like a son of the gods.</p>
+<p><span class="vn">26</span>Then Nebuchadnezzar came near to the mouth of the burning fiery furnace: he spoke and said, Shadrach, Meshach, and Abednego, you servants of the Most High God, come forth, and come here. Then Shadrach, Meshach, and Abednego came forth out of the midst of the fire.</p>
+<p><span class="vn">27</span>The satraps, the deputies, and the governors, and the king’s counselors, being gathered together, saw these men, that the fire had no power on their bodies, nor was the hair of their head singed, neither were their pants changed, nor had the smell of fire passed on them.</p>
+<p><span class="vn">28</span>Nebuchadnezzar spoke and said, Blessed be the God of Shadrach, Meshach, and Abednego, who has sent his angel, and delivered his servants who trusted in him, and have changed the king’s word, and have yielded their bodies, that they might not serve nor worship any god, except their own God.</p>
+</div>
+<p class="conn">The image, the music, the furnace. 'Who is that god that shall deliver you out of my hands?' The answer does not depend on the outcome: 'our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king. But if not, be it known to you, O king, that we will not serve your gods, nor worship the golden image which you have set up.' 'But if not' — the Citizen-Stranger's loyalty that 'rests above any human decree,' held without a guarantee. C17, and C22's calm before the king's fury. In the fire, 'four men loose, walking.'</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c17.html">C17</a>
+<a class="tag" href="c22.html">C22</a>
+<a class="tag" href="a1.html">PR10</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Daniel 4:27-37</p>
+<h2 class="entry-name">Break off your sins by righteousness, and your iniquities by showing mercy to the poor… Is not this great Babylon, which I have built… by the might of my power and for the glory of my majesty?</h2>
+<div class="passage">
+<p><span class="vn">27</span>Therefore, O king, let my counsel be acceptable to you, and break off your sins by righteousness, and your iniquities by showing mercy to the poor; if there may be a lengthening of your tranquility.</p>
+<p><span class="vn">28</span>All this came on the king Nebuchadnezzar.</p>
+<p><span class="vn">29</span>At the end of twelve months he was walking in the royal palace of Babylon.</p>
+<p><span class="vn">30</span>The king spoke and said, Is not this great Babylon, which I have built for the royal dwelling place, by the might of my power and for the glory of my majesty?</p>
+<p><span class="vn">31</span>While the word was in the king’s mouth, there fell a voice from the sky, saying, O king Nebuchadnezzar, to you it is spoken: The kingdom has departed from you:</p>
+<p><span class="vn">32</span>and you shall be driven from men; and your dwelling shall be with the animals of the field; you shall be made to eat grass as oxen; and seven times shall pass over you; until you know that the Most High rules in the kingdom of men, and gives it to whomever he will.</p>
+<p><span class="vn">33</span>The same hour was the thing fulfilled on Nebuchadnezzar: and he was driven from men, and ate grass as oxen, and his body was wet with the dew of the sky, until his hair was grown like eagles’ feathers, and his nails like birds’ claws.</p>
+<p><span class="vn">34</span>At the end of the days I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me, and I blessed the Most High, and I praised and honored him who lives forever; for his dominion is an everlasting dominion, and his kingdom from generation to generation.</p>
+<p><span class="vn">35</span>All the inhabitants of the earth are reputed as nothing; and he does according to his will in the army of heaven, and among the inhabitants of the earth; and none can stay his hand, or ask him, What are you doing?</p>
+<p><span class="vn">36</span>At the same time my understanding returned to me; and for the glory of my kingdom, my majesty and brightness returned to me; and my counselors and my lords sought to me; and I was established in my kingdom, and excellent greatness was added to me.</p>
+<p><span class="vn">37</span>Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those who walk in pride he is able to abase.</p>
+</div>
+<p class="conn">Daniel's counsel to the most powerful man in the world is concrete: 'break off your sins by righteousness, and your iniquities by showing mercy to the poor; if there may be a lengthening of your tranquility.' Habitual Almsgiving offered as the remedy for an empire's pride (medium). A year later, on the palace roof: 'Is not this great Babylon, which I have built for the royal dwelling place, by the might of my power and for the glory of my majesty?' C22's warning fulfilled 'while the word was in the king's mouth.' C18. Then, after the madness, C19's restoration begun by looking up: 'I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me… those who walk in pride he is able to abase.'</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c22.html">C22</a>
+<a class="tag" href="c18.html">C18</a>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR05</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Daniel 5:22-28</p>
+<h2 class="entry-name">You… have not humbled your heart, though you knew all this… TEKEL; you are weighed in the balances, and are found wanting</h2>
+<div class="passage">
+<p><span class="vn">22</span>You, his son, Belshazzar, have not humbled your heart, though you knew all this,</p>
+<p><span class="vn">23</span>but have lifted up yourself against the Lord of heaven; and they have brought the vessels of his house before you, and you and your lords, your wives and your concubines, have drunk wine from them; and you have praised the gods of silver and gold, of brass, iron, wood, and stone, which don’t see, nor hear, nor know; and the God in whose hand your breath is, and whose are all your ways, you have not glorified.</p>
+<p><span class="vn">24</span>Then was the part of the hand sent from before him, and this writing was inscribed.</p>
+<p><span class="vn">25</span>This is the writing that was inscribed: MENE, MENE, TEKEL, UPHARSIN.</p>
+<p><span class="vn">26</span>This is the interpretation of the thing: MENE; God has numbered your kingdom, and brought it to an end;</p>
+<p><span class="vn">27</span>TEKEL; you are weighed in the balances, and are found wanting.</p>
+<p><span class="vn">28</span>PERES; your kingdom is divided, and given to the Medes and Persians.</p>
+</div>
+<p class="conn">Belshazzar feasts with the temple vessels. The charge is that he knew better: 'You, his son, Belshazzar, have not humbled your heart, though you knew all this… and the God in whose hand your breath is, and whose are all your ways, you have not glorified.' C22's humility refused by someone who had watched what pride did to his predecessor. And C04's mirror in its starkest image: 'TEKEL; you are weighed in the balances, and are found wanting.'</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="c22.html">C22</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Daniel 6:3-23</p>
+<h2 class="entry-name">He kneeled on his knees three times a day, and prayed, and gave thanks before his God, as he did before</h2>
+<div class="passage">
+<p><span class="vn">3</span>Then this Daniel was distinguished above the presidents and the satraps, because an excellent spirit was in him; and the king thought to set him over the whole realm.</p>
+<p><span class="vn">4</span>Then the presidents and the satraps sought to find occasion against Daniel as touching the kingdom; but they could find no occasion nor fault, because he was faithful, neither was there any error or fault found in him.</p>
+<p><span class="vn">5</span>Then these men said, We shall not find any occasion against this Daniel, except we find it against him concerning the law of his God.</p>
+<p><span class="vn">6</span>Then these presidents and satraps assembled together to the king, and said thus to him, King Darius, live forever.</p>
+<p><span class="vn">7</span>All the presidents of the kingdom, the deputies and the satraps, the counselors and the governors, have consulted together to establish a royal statute, and to make a strong decree, that whoever shall ask a petition of any god or man for thirty days, except of you, O king, he shall be cast into the den of lions.</p>
+<p><span class="vn">8</span>Now, O king, establish the decree, and sign the writing, that it not be changed, according to the law of the Medes and Persians, which doesn’t alter.</p>
+<p><span class="vn">9</span>Therefore king Darius signed the writing and the decree.</p>
+<p><span class="vn">10</span>When Daniel knew that the writing was signed, he went into his house (now his windows were open in his room toward Jerusalem) and he kneeled on his knees three times a day, and prayed, and gave thanks before his God, as he did before.</p>
+<p><span class="vn">11</span>Then these men assembled together, and found Daniel making petition and supplication before his God.</p>
+<p><span class="vn">12</span>Then they came near, and spoke before the king concerning the king’s decree: Haven’t you signed an decree, that every man who shall make petition to any god or man within thirty days, except to you, O king, shall be cast into the den of lions? The king answered, The thing is true, according to the law of the Medes and Persians, which doesn’t alter.</p>
+<p><span class="vn">13</span>Then answered they and said before the king, That Daniel, who is of the children of the captivity of Judah, doesn’t respect you, O king, nor the decree that you have signed, but makes his petition three times a day.</p>
+<p><span class="vn">14</span>Then the king, when he heard these words, was very displeased, and set his heart on Daniel to deliver him; and he labored until the going down of the sun to rescue him.</p>
+<p><span class="vn">15</span>Then these men assembled together to the king, and said to the king, Know, O king, that it is a law of the Medes and Persians, that no decree nor statute which the king establishes may be changed.</p>
+<p><span class="vn">16</span>Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spoke and said to Daniel, Your God whom you serve continually, he will deliver you.</p>
+<p><span class="vn">17</span>A stone was brought, and laid on the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that nothing might be changed concerning Daniel.</p>
+<p><span class="vn">18</span>Then the king went to his palace, and passed the night fasting; neither were instruments of music brought before him: and his sleep fled from him.</p>
+<p><span class="vn">19</span>Then the king arose very early in the morning, and went in haste to the den of lions.</p>
+<p><span class="vn">20</span>When he came near to the den to Daniel, he cried with a lamentable voice; the king spoke and said to Daniel, Daniel, servant of the living God, is your God, whom you serve continually, able to deliver you from the lions?</p>
+<p><span class="vn">21</span>Then Daniel said to the king, O king, live forever.</p>
+<p><span class="vn">22</span>My God has sent his angel, and has shut the lions’ mouths, and they have not hurt me; because as before him innocence was found in me; and also before you, O king, have I done no hurt.</p>
+<p><span class="vn">23</span>Then was the king exceeding glad, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no kind of harm was found on him, because he had trusted in his God.</p>
+</div>
+<p class="conn">Daniel's colleagues 'could find no occasion nor fault, because he was faithful' — C13's integrity in office — and so they target his prayer. A decree is signed. 'When Daniel knew that the writing was signed, he went into his house (now his windows were open in his room toward Jerusalem) and he kneeled on his knees three times a day, and prayed, and gave thanks before his God, as he did before.' The Secret Rhythmic Devotion's 'three times a day… continuity matters more than intensity,' kept unchanged under threat of death; the Daily Anchors as a fixed rhythm. 'As he did before' is the whole point: he neither hides nor makes a show. The Citizen-Stranger: a faithful servant of the state whose last loyalty is not to it. C09 and C17.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c09.html">C09</a>
+<a class="tag" href="c17.html">C17</a>
+<a class="tag" href="c13.html">C13</a>
+<a class="tag" href="a1.html">PR30</a>
+<a class="tag" href="a1.html">PR07</a>
+<a class="tag" href="a1.html">PR10</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Daniel 9:3-19</p>
+<h2 class="entry-name">We have sinned, and have dealt perversely… Lord, righteousness belongs to you, but to us confusion of face… we do not present our petitions before you for our righteousness, but for your great mercies' sake</h2>
+<div class="passage">
+<p><span class="vn">3</span>I set my face to the Lord God, to seek by prayer and petitions, with fasting and sackcloth and ashes.</p>
+<p><span class="vn">4</span>I prayed to Yahweh my God, and made confession, and said, Oh, Lord, the great and dreadful God, who keeps covenant and loving kindness with those who love him and keep his commandments,</p>
+<p><span class="vn">5</span>we have sinned, and have dealt perversely, and have done wickedly, and have rebelled, even turning aside from your precepts and from your ordinances;</p>
+<p><span class="vn">6</span>neither have we listened to your servants the prophets, who spoke in your name to our kings, our princes, and our fathers, and to all the people of the land.</p>
+<p><span class="vn">7</span>Lord, righteousness belongs to you, but to us confusion of face, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and to all Israel, who are near, and who are far off, through all the countries where you have driven them, because of their trespass that they have trespassed against you.</p>
+<p><span class="vn">8</span>Lord, to us belongs confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against you.</p>
+<p><span class="vn">9</span>To the Lord our God belong mercies and forgiveness; for we have rebelled against him;</p>
+<p><span class="vn">10</span>neither have we obeyed the voice of Yahweh our God, to walk in his laws, which he set before us by his servants the prophets.</p>
+<p><span class="vn">11</span>Yes, all Israel have transgressed your law, turning aside, that they should not obey your voice: therefore the curse and the oath written in the law of Moses the servant of God has been poured out on us; for we have sinned against him.</p>
+<p><span class="vn">12</span>He has confirmed his words, which he spoke against us, and against our judges who judged us, by bringing on us a great evil; for under the whole sky, such has not been done as has been done to Jerusalem.</p>
+<p><span class="vn">13</span>As it is written in the law of Moses, all this evil has come on us: yet have we not entreated the favor of Yahweh our God, that we should turn from our iniquities, and have discernment in your truth.</p>
+<p><span class="vn">14</span>Therefore has Yahweh watched over the evil, and brought it on us; for Yahweh our God is righteous in all his works which he does, and we have not obeyed his voice.</p>
+<p><span class="vn">15</span>Now, Lord our God, who has brought your people forth out of the land of Egypt with a mighty hand, and have gotten yourself renown, as at this day; we have sinned, we have done wickedly.</p>
+<p><span class="vn">16</span>Lord, according to all your righteousness, let your anger and please let your wrath be turned away from your city Jerusalem, your holy mountain; because for our sins, and for the iniquities of our fathers, Jerusalem and your people have become a reproach to all who are around us.</p>
+<p><span class="vn">17</span>Now therefore, our God, listen to the prayer of your servant, and to his petitions, and cause your face to shine on your sanctuary that is desolate, for the Lord’s sake.</p>
+<p><span class="vn">18</span>My God, turn your ear, and hear; open your eyes, and see our desolations, and the city which is called by your name: for we do not present our petitions before you for our righteousness, but for your great mercies’ sake.</p>
+<p><span class="vn">19</span>Lord, hear; Lord, forgive; Lord, listen and do; don’t defer, for your own sake, my God, because your city and your people are called by your name.</p>
+</div>
+<p class="conn">Daniel, against whom no fault could be found, prays in the first person plural: 'we have sinned, and have dealt perversely, and have done wickedly, and have rebelled.' Self-Accusation that does not exempt the righteous one — he takes his place inside the people's guilt. 'Lord, righteousness belongs to you, but to us confusion of face.' C04. Sacred Lament with sackcloth and ashes, and its ground: 'To the Lord our God belong mercies and forgiveness; for we have rebelled against him… for we do not present our petitions before you for our righteousness, but for your great mercies' sake. Lord, hear; Lord, forgive; Lord, listen and do.' C19 and C09.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c09.html">C09</a>
+<a class="tag" href="a1.html">PR03</a>
+<a class="tag" href="a1.html">PR08</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+</div>
+</article>
+<nav class="docnav">
+<p class="rule-orn orn"><span>✦</span></p>
+<p class="nav-hub"><a href="scripture.html">All indexed books</a> · <a href="index.html">Table of contents</a></p>
+</nav>
+</main></body></html>

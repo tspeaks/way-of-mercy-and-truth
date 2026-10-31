@@ -1,0 +1,97 @@
+{
+  "book": "Ezra",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/ezra.json",
+  "note": "The return from exile and the rebuilding of the temple, and Ezra's mission to teach the law. Not cited by the curriculum or the Scriptural Appendix.",
+  "coverage_note": "Not indexed: the decree and the lists of returnees (1-2, 8:1-20), the opposition and correspondence (4-6), 7:1-9 and 7:11-28, 8:24-36, and chapter 10 (the dissolution of marriages to foreign wives). The index does not anchor that policy as formation guidance; Ruth, Jonah and Isaiah 56:1-8 stand in deliberate tension with it, and 9:5-9 is indexed only for the posture of the prayer.",
+  "entries": [
+    {
+      "ref": "Ezra 3:10-13",
+      "pericope": "The old men who had seen the first house… wept with a loud voice; and many shouted aloud for joy: so that the people could not discern the noise of the shout of joy from the noise of the weeping",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C13"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The foundation of the second temple is laid, and two sounds rise together. 'All the people shouted with a great shout… But many of the priests and Levites… the old men who had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy: so that the people could not discern the noise of the shout of joy from the noise of the weeping.' Sacred Lament held beside praise rather than replacing it (medium). C25's small beginning, honestly felt by those who remember what was lost, and C13's community that makes room for both.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Ezra 7:10",
+      "pericope": "Ezra had set his heart to seek the law of Yahweh, and to do it, and to teach in Israel statutes and ordinances",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C05",
+        "C04"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "One sentence describing a teacher's formation in its proper order: 'For Ezra had set his heart to seek the law of Yahweh, and to do it, and to teach.' Study, then practice, then teaching — C05's apprenticeship, and C04's insistence that the doer comes before the teacher.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Ezra 8:21-23",
+      "pericope": "I was ashamed to ask of the king a band of soldiers and horsemen to help us against the enemy in the way, because we had spoken to the king, saying, 'The hand of our God is on all those who seek him'",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Before a dangerous journey with the temple treasure, Ezra proclaims a fast 'that we might humble ourselves before our God, to seek of him a straight way.' The reason is consistency: 'I was ashamed to ask of the king a band of soldiers… because we had spoken to the king, saying, \"The hand of our God is on all those who seek him, for good.\"' C12's proof — a stated trust tested by whether one acts on it — and C22's dependence.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Ezra 9:5-9",
+      "pericope": "My God, I am ashamed and blush to lift up my face to you… you, our God, have punished us less than our iniquities deserve… a little reviving in our bondage",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C19"
+      ],
+      "practices": [
+        "PR03"
+      ],
+      "mode": "exemplifies",
+      "connection": "'I fell on my knees, and spread out my hands to Yahweh my God; and I said, \"My God, I am ashamed and blush to lift up my face to you, my God; for our iniquities have increased over our head.\"' Self-Accusation in the first person, from a leader who had not committed the offence in question. And inside the shame, gratitude for a small mercy: 'for a little moment grace has been shown… to give us a little reviving in our bondage.' C04 and C19. The index anchors the posture of the prayer only; the policy that follows it (the dissolution of mixed marriages in chapter 10) is not anchored, as the coverage note records.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

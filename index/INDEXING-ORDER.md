@@ -2,10 +2,11 @@
 
 **Status, 31 October 2026.** Tiers 1 and 2 are closed. Twenty books started, all
 twenty complete; the six Tier 2 books are drafted and validated and await
-second-pass review (see `REVIEW-QUEUE.md`). Of the four practices this order
-expected Tier 2 to close, two now carry first anchors pending review — PR24 at
-Ephesians 2:11-22 and PR28 at Ecclesiastes 2:1-11 — and one forecast failed on the
-definition test: 2 Peter 1:5-7 does not anchor PR27, which remains unanchored.
+second-pass review (see `REVIEW-QUEUE.md`). Of the three practices this order
+expected Tier 2 to close: PR26 closed with Ruth; PR24 has a first anchor at
+Ephesians 2:11-22, pending review; and the PR27 forecast failed on the definition
+test — 2 Peter 1:5-7 anchors PR14, not PR27, which remains unanchored. PR28, expected
+in Tier 4, has an unforecast first anchor at Ecclesiastes 2:1-11, as a counter-example.
 
 *Originally written with thirteen books started: 9 complete, 4 partial, 53 untouched,
 and roughly 29,000 of the WEB's 31,098 verses unindexed.*
@@ -13,6 +14,7 @@ and roughly 29,000 of the WEB's 31,098 verses unindexed.*
 This is a working order, not a rule. It is arranged so that each tier answers a
 question the index cannot currently answer, rather than by canonical sequence or by
 size.
+
 ---
 
 ## Tier 1 — Close the four partial books

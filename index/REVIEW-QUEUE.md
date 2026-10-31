@@ -20,6 +20,7 @@ the first fourteen.
 | Isaiah | 79 | `reviews/isaiah-package.md` | 23:15-18 (first positive PR28 anchor, medium); 65:1-16 (first PR24 counter-example, medium); 50:4-11 (PR21 + PR06); 52:13-53:12 (PR06 + PR15); 58:1-12 (PR05 + PR20, medium); 5:8-10 (PR28 counter-example); the prediction note on C03; the coverage note on the oracles against the nations. Large: may be reviewed in sections 1-12, 13-27, 28-39, 40-55, 56-66 |
 | Acts | 56 | `reviews/acts-package.md` | 2:42-47 and 4:32-37 (PR28 at high — the forecast anchors); 11:27-30 (PR28); 10:1-33 (PR20 — Peter lodging the Gentiles); 18:24-28 (PR17); 9:1-31 (PR29 twice); 27:1-44 (PR21 — the prisoner encouraging the ship); 23:1-11 (PR11 after Paul's retort); 24:22-27 (PR11 counter-example, Felix); 15:36-41 (PR29 for Barnabas, medium). Large: may be reviewed in sections 1-7, 8-12, 13-20, 21-28 |
 | 2 Corinthians | 21 | `reviews/2-corinthians-package.md` | 8:1-15 and 9:1-15 (PR28, the forecast anchors; PR05); 12:11-21 (PR22 — tested against the attractor); 2:5-11 (PR29 commanded); 7:2-16 (PR11 + PR08 on the two sorrows); 10:1-18 (PR12; PR14 on refusing comparison); 12:1-10 (PR04 + PR13); 13:1-14 (PR01); 3:7-18 (PR14 on the C26 prior, medium) |
+| Philemon | 3 | `reviews/philemon-package.md` | 1:15-20 (PR29 — confirms the candidate recorded in the Colossians coverage note) |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

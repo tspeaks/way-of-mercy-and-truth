@@ -1,0 +1,72 @@
+{
+  "book": "Philemon",
+  "translation": "World English Bible (public domain)",
+  "status": "complete — 17 of 25 verses; the greeting (1:1-3) and closing greetings (1:21-25) are unindexed; awaiting second-pass review",
+  "method_version": "2.3",
+  "text_source": "index/text/philemon.json",
+  "note": "A single-chapter letter asking a householder to receive back a runaway slave as a brother. Indexed today because the Colossians index named Onesimus as a candidate anchor for PR29 that could only be confirmed here.",
+  "coverage_note": "The closing greetings (1:21-25) include Mark among Paul's 'fellow workers' (1:24) — the man Paul refused to take on his second journey (Acts 15:37-39) — which is the restoration the Acts and Colossians entries anticipated; it is recorded here and not separately tagged, since the verse names him without narrating the reconciliation.",
+  "entries": [
+    {
+      "ref": "Philemon 1:4-7",
+      "pericope": "The hearts of the saints have been refreshed through you, brother",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C10"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Philemon is known for one thing before the request is made: 'the hearts of the saints have been refreshed through you.' A householder whose love is practical and whose house is a church (1:2). C16's service and C10's joy — 'we have much joy and comfort in your love.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Philemon 1:8-14",
+      "pericope": "Though I have all boldness in Christ to command you… yet for love's sake I rather beg",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Paul could command and chooses not to: 'though I have all boldness in Christ to command you that which is appropriate, yet for love's sake I rather beg.' He would have kept Onesimus with him, 'but I was willing to do nothing without your consent, that your goodness would not be as of necessity, but of free will.' C16's authority laid down so that the other person's goodness can be his own. The request that follows is shaped by this restraint.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Philemon 1:15-20",
+      "pericope": "Receive him as you would receive me… If he has wronged you at all, or owes you anything, put that to my account",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C14"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "Onesimus, Philemon's slave, had run away — 'who once was useless to you, but now is useful to you and to me,' a pun on his name, which means useful. Paul sends him back with a request that changes what return means: 'no longer as a slave, but more than a slave, a beloved brother… If then you count me a partner, receive him as you would receive me.' And he takes the debt on himself: 'If he has wronged you at all, or owes you anything, put that to my account. I, Paul, write this with my own hand: I will repay it.' Merciful Reintegration is receiving back the one who failed without lingering shame or probation, so that the failure does not become his identity; this letter asks for exactly that, and offers to pay what the failure cost. The Colossians index (4:7-18) recorded Onesimus as a PR29 candidate awaiting this book; the anchor is here. C16's authority spent on another's behalf, and C14's household asked to receive a returning member as family. The letter's approach to slavery as an institution is its own question, which the index does not settle; what it anchors is the reception it asks for.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

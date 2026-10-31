@@ -1107,6 +1107,35 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "Acts.Json",
+        "reference": "Acts 28:3-6",
+        "name": "No doubt this man is a murderer, whom… Justice has not allowed to live",
+        "chapters": [
+          "C03",
+          "C21"
+        ],
+        "practices": [
+          "PR02"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 7:54-60",
+        "name": "Lord, don't hold this sin against them!",
+        "chapters": [
+          "C03",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 26:12-33",
         "name": "For now Yahweh has made room for us",
@@ -1507,6 +1536,85 @@
         ],
         "tags": [],
         "source_file": "1-john.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 13:1-14",
+        "name": "Test your own selves, whether you are in the faith. Test your own selves",
+        "chapters": [
+          "C04",
+          "C15"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 1:12-2:4",
+        "name": "Not that we have lordship over your faith, but are fellow workers with you for your joy",
+        "chapters": [
+          "C04",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 8:16-24",
+        "name": "Having regard for honorable things, not only in the sight of the Lord, but also in the sight of men",
+        "chapters": [
+          "C04",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 21:27-22:29",
+        "name": "I persecuted this Way to the death… When the blood of Stephen, your witness, was shed, I also was standing by",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 24:10-21",
+        "name": "Herein I also practice always having a conscience void of offense toward God and men… I came to bring gifts for the needy to my nation",
+        "chapters": [
+          "C04",
+          "C12"
+        ],
+        "practices": [
+          "PR01",
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 5:1-11",
+        "name": "While you kept it, didn't it remain your own?… You haven't lied to men, but to God",
+        "chapters": [
+          "C04",
+          "C12"
+        ],
+        "practices": [
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Deuteronomy.Json",
@@ -2273,6 +2381,20 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "Acts.Json",
+        "reference": "Acts 4:1-22",
+        "name": "They recognized that they had been with Jesus… Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves",
+        "chapters": [
+          "C05",
+          "C17"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Deuteronomy.Json",
         "reference": "Deuteronomy 30:11-14",
         "name": "It is not too hard for you, neither is it far off",
@@ -2580,6 +2702,125 @@
         "practices": [],
         "tags": [],
         "source_file": "1-peter.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 3:1-6",
+        "name": "Written not with ink, but with the Spirit… not in tablets of stone, but in tablets that are hearts of flesh",
+        "chapters": [
+          "C06",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 3:7-18",
+        "name": "We all, with unveiled face beholding as in a mirror the glory of the Lord, are transformed into the same image from glory to glory",
+        "chapters": [
+          "C06",
+          "C26"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 4:1-6",
+        "name": "We don't preach ourselves, but Christ Jesus as Lord, and ourselves as your servants",
+        "chapters": [
+          "C06",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 10:34-48",
+        "name": "Truly I perceive that God doesn't show favoritism",
+        "chapters": [
+          "C06",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 16:11-15",
+        "name": "Whose heart the Lord opened to listen… come into my house, and stay",
+        "chapters": [
+          "C06",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 26:1-32",
+        "name": "I pray to God, that… all that hear me this day might become such as I am, except for these bonds",
+        "chapters": [
+          "C06",
+          "C12",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 6:8-7:53",
+        "name": "The Most High doesn't dwell in temples made with hands… uncircumcised in heart and ears",
+        "chapters": [
+          "C06",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 8:26-40",
+        "name": "Do you understand what you are reading? How can I, unless someone explains it to me?",
+        "chapters": [
+          "C06",
+          "C27"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 9:1-19",
+        "name": "Brother Saul, the Lord… has sent me, that you may receive your sight",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -2935,6 +3176,19 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 28:17-31",
+        "name": "Paul stayed two whole years in his own rented house, and received all who were coming to him",
+        "chapters": [
+          "C07",
+          "C14",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Deuteronomy.Json",
@@ -3374,6 +3628,18 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 11:1-15",
+        "name": "Even Satan masquerades as an angel of light",
+        "chapters": [
+          "C08",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "2 John.Json",
         "reference": "2 John 1:10-11",
         "name": "Don't receive him into your house",
@@ -3443,6 +3709,67 @@
         "practices": [],
         "tags": [],
         "source_file": "3-john.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 17:1-15",
+        "name": "Examining the Scriptures daily to see whether these things were so",
+        "chapters": [
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 18:24-28",
+        "name": "When Priscilla and Aquila heard him, they took him aside, and explained to him the way of God more accurately",
+        "chapters": [
+          "C08",
+          "C15"
+        ],
+        "practices": [
+          "PR17"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 5:12-42",
+        "name": "If this work is of men, it will be overthrown. But if it is of God, you will not be able to overthrow it",
+        "chapters": [
+          "C08",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 6:8-7:53",
+        "name": "The Most High doesn't dwell in temples made with hands… uncircumcised in heart and ears",
+        "chapters": [
+          "C06",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 8:9-25",
+        "name": "You thought you could obtain the gift of God with money… for your heart isn't right before God",
+        "chapters": [
+          "C08",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -4004,6 +4331,55 @@
       }
     ],
     "C09": [
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 12:1-19",
+        "name": "Constant prayer was made by the assembly to God for him… Peter was sleeping between two soldiers",
+        "chapters": [
+          "C09",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 16:25-34",
+        "name": "About midnight Paul and Silas were praying and singing hymns to God… Don't harm yourself, for we are all here!",
+        "chapters": [
+          "C09",
+          "C22",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 1:12-26",
+        "name": "All these with one accord continued steadfastly in prayer",
+        "chapters": [
+          "C09",
+          "C13"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 4:23-31",
+        "name": "Now, Lord, look at their threats, and grant to your servants to speak your word with all boldness",
+        "chapters": [
+          "C09",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
       {
         "book": "Colossians.Json",
         "reference": "Colossians 2:20-23",
@@ -4632,6 +5008,21 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 9:1-15",
+        "name": "Let each man give according as he has determined in his heart; not grudgingly, or under compulsion; for God loves a cheerful giver",
+        "chapters": [
+          "C10",
+          "C16"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 2:6-7",
         "name": "Rooted and built up in him",
@@ -4953,6 +5344,18 @@
         ],
         "tags": [],
         "source_file": "matthew.json"
+      },
+      {
+        "book": "Philemon.Json",
+        "reference": "Philemon 1:4-7",
+        "name": "The hearts of the saints have been refreshed through you, brother",
+        "chapters": [
+          "C10",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "philemon.json"
       },
       {
         "book": "Philippians.Json",
@@ -5516,6 +5919,50 @@
         "source_file": "3-john.json"
       },
       {
+        "book": "Acts.Json",
+        "reference": "Acts 24:10-21",
+        "name": "Herein I also practice always having a conscience void of offense toward God and men… I came to bring gifts for the needy to my nation",
+        "chapters": [
+          "C04",
+          "C12"
+        ],
+        "practices": [
+          "PR01",
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 26:1-32",
+        "name": "I pray to God, that… all that hear me this day might become such as I am, except for these bonds",
+        "chapters": [
+          "C06",
+          "C12",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 5:1-11",
+        "name": "While you kept it, didn't it remain your own?… You haven't lied to men, but to God",
+        "chapters": [
+          "C04",
+          "C12"
+        ],
+        "practices": [
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 1:3-8",
         "name": "Bearing fruit and growing, as it does in you also",
@@ -5963,6 +6410,113 @@
         ],
         "tags": [],
         "source_file": "3-john.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 11:19-26",
+        "name": "When he had come, and had seen the grace of God, was glad. He exhorted them all",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 18:1-11",
+        "name": "Because he practiced the same trade, he lived with them and worked, for by trade they were tent makers",
+        "chapters": [
+          "C13",
+          "C22"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 1:12-26",
+        "name": "All these with one accord continued steadfastly in prayer",
+        "chapters": [
+          "C09",
+          "C13"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 28:7-16",
+        "name": "When Paul saw them, he thanked God, and took courage",
+        "chapters": [
+          "C13",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 2:42-47",
+        "name": "They sold their possessions and goods, and distributed them to all, according as anyone had need",
+        "chapters": [
+          "C13",
+          "C18"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 4:32-37",
+        "name": "Not one of them claimed that anything of the things which he possessed was his own",
+        "chapters": [
+          "C13",
+          "C18"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 9:20-31",
+        "name": "They were all afraid of him, not believing that he was a disciple. But Barnabas took him",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 9:32-43",
+        "name": "Full of good works and acts of mercy… showing the coats and garments which Dorcas had made",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR05",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -6558,6 +7112,84 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 12:11-21",
+        "name": "I will most gladly spend and be spent for your souls. If I love you more abundantly, am I loved the less?",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [
+          "PR22"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 10:1-33",
+        "name": "So he called them in and lodged them",
+        "chapters": [
+          "C14",
+          "C27"
+        ],
+        "practices": [
+          "PR05",
+          "PR20"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 16:11-15",
+        "name": "Whose heart the Lord opened to listen… come into my house, and stay",
+        "chapters": [
+          "C06",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 21:1-16",
+        "name": "Kneeling down on the beach, we prayed… The Lord's will be done",
+        "chapters": [
+          "C14",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 28:17-31",
+        "name": "Paul stayed two whole years in his own rented house, and received all who were coming to him",
+        "chapters": [
+          "C07",
+          "C14",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 28:7-16",
+        "name": "When Paul saw them, he thanked God, and took courage",
+        "chapters": [
+          "C13",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 3:18-21",
         "name": "Fathers, don't provoke your children, so that they won't be discouraged",
@@ -7043,6 +7675,20 @@
         "source_file": "matthew.json"
       },
       {
+        "book": "Philemon.Json",
+        "reference": "Philemon 1:15-20",
+        "name": "Receive him as you would receive me… If he has wronged you at all, or owes you anything, put that to my account",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "philemon.json"
+      },
+      {
         "book": "Proverbs.Json",
         "reference": "Proverbs 31:10-31",
         "name": "She opens her arms to the poor; her works praise her in the gates",
@@ -7298,6 +7944,33 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 13:1-14",
+        "name": "Test your own selves, whether you are in the faith. Test your own selves",
+        "chapters": [
+          "C04",
+          "C15"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 5:11-21",
+        "name": "If anyone is in Christ, he is a new creation… and gave to us the ministry of reconciliation",
+        "chapters": [
+          "C15",
+          "C19",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 3:14-16",
         "name": "Some things that are hard to understand",
@@ -7310,6 +7983,104 @@
         ],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 11:1-18",
+        "name": "You went in to uncircumcised men, and ate with them!… But Peter began, and explained to them in order",
+        "chapters": [
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 15:1-35",
+        "name": "All the multitude kept silence, and they listened… to lay no greater burden on you than these necessary things",
+        "chapters": [
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR09",
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 15:36-41",
+        "name": "The contention grew so sharp that they separated from each other. Barnabas took Mark",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 18:24-28",
+        "name": "When Priscilla and Aquila heard him, they took him aside, and explained to him the way of God more accurately",
+        "chapters": [
+          "C08",
+          "C15"
+        ],
+        "practices": [
+          "PR17"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 19:23-41",
+        "name": "Sirs, you know that by this business we have our wealth… you ought to be quiet, and to do nothing rash",
+        "chapters": [
+          "C15",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 21:17-26",
+        "name": "Purify yourself with them, and pay their expenses for them",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 6:1-7",
+        "name": "A complaint arose from the Hellenists against the Hebrews, because their widows were neglected in the daily service",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR05",
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -8136,6 +8907,153 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 10:1-18",
+        "name": "Bringing every thought into captivity to the obedience of Christ… measuring themselves by themselves, and comparing themselves with themselves",
+        "chapters": [
+          "C16",
+          "C20"
+        ],
+        "practices": [
+          "PR12",
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 11:1-15",
+        "name": "Even Satan masquerades as an angel of light",
+        "chapters": [
+          "C08",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 11:16-33",
+        "name": "If I must boast, I will boast of the things that concern my weakness",
+        "chapters": [
+          "C16",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 12:11-21",
+        "name": "I will most gladly spend and be spent for your souls. If I love you more abundantly, am I loved the less?",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [
+          "PR22"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 1:12-2:4",
+        "name": "Not that we have lordship over your faith, but are fellow workers with you for your joy",
+        "chapters": [
+          "C04",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 1:3-11",
+        "name": "Who comforts us in all our affliction, that we may be able to comfort those who are in any affliction",
+        "chapters": [
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 2:5-11",
+        "name": "You should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow",
+        "chapters": [
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 4:1-6",
+        "name": "We don't preach ourselves, but Christ Jesus as Lord, and ourselves as your servants",
+        "chapters": [
+          "C06",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 8:1-15",
+        "name": "Your abundance at this present time supplies their lack… that there may be equality",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 8:16-24",
+        "name": "Having regard for honorable things, not only in the sight of the Lord, but also in the sight of men",
+        "chapters": [
+          "C04",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 9:1-15",
+        "name": "Let each man give according as he has determined in his heart; not grudgingly, or under compulsion; for God loves a cheerful giver",
+        "chapters": [
+          "C10",
+          "C16"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "3 John.Json",
         "reference": "3 John 1:5-8",
         "name": "A faithful work for brothers and strangers",
@@ -8162,6 +9080,183 @@
         ],
         "tags": [],
         "source_file": "3-john.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 11:19-26",
+        "name": "When he had come, and had seen the grace of God, was glad. He exhorted them all",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 11:27-30",
+        "name": "As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 14:19-28",
+        "name": "Through many afflictions we must enter into the Kingdom of God",
+        "chapters": [
+          "C16",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 15:36-41",
+        "name": "The contention grew so sharp that they separated from each other. Barnabas took Mark",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 16:16-24",
+        "name": "When her masters saw that the hope of their gain was gone",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 20:17-38",
+        "name": "These hands served my necessities… so laboring you ought to help the weak… It is more blessed to give than to receive",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 21:17-26",
+        "name": "Purify yourself with them, and pay their expenses for them",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 24:22-27",
+        "name": "When it is convenient for me, I will summon you… he also hoped that money would be given to him",
+        "chapters": [
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 28:1-2",
+        "name": "The natives showed us uncommon kindness; for they kindled a fire, and received us all",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 3:1-10",
+        "name": "Silver and gold have I none, but what I have, that I give you",
+        "chapters": [
+          "C16"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 6:1-7",
+        "name": "A complaint arose from the Hellenists against the Hebrews, because their widows were neglected in the daily service",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR05",
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 9:20-31",
+        "name": "They were all afraid of him, not believing that he was a disciple. But Barnabas took him",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 9:32-43",
+        "name": "Full of good works and acts of mercy… showing the coats and garments which Dorcas had made",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR05",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -9398,6 +10493,43 @@
         "source_file": "micah.json"
       },
       {
+        "book": "Philemon.Json",
+        "reference": "Philemon 1:15-20",
+        "name": "Receive him as you would receive me… If he has wronged you at all, or owes you anything, put that to my account",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "philemon.json"
+      },
+      {
+        "book": "Philemon.Json",
+        "reference": "Philemon 1:4-7",
+        "name": "The hearts of the saints have been refreshed through you, brother",
+        "chapters": [
+          "C10",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "philemon.json"
+      },
+      {
+        "book": "Philemon.Json",
+        "reference": "Philemon 1:8-14",
+        "name": "Though I have all boldness in Christ to command you… yet for love's sake I rather beg",
+        "chapters": [
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "philemon.json"
+      },
+      {
         "book": "Philippians.Json",
         "reference": "Philippians 1:19-26",
         "name": "To live is Christ, and to die is gain",
@@ -9787,6 +10919,17 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 6:14-7:1",
+        "name": "Don't be unequally yoked with unbelievers",
+        "chapters": [
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "2 John.Json",
         "reference": "2 John 1:10-11",
         "name": "Don't receive him into your house",
@@ -9811,6 +10954,110 @@
         ],
         "tags": [],
         "source_file": "3-john.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 13:42-52",
+        "name": "I have set you as a light for the Gentiles",
+        "chapters": [
+          "C17",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 16:35-40",
+        "name": "They have beaten us publicly, without a trial, men who are Romans… let them come themselves and bring us out",
+        "chapters": [
+          "C17"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 17:16-34",
+        "name": "TO AN UNKNOWN GOD… In him we live, and move, and have our being",
+        "chapters": [
+          "C17",
+          "C24",
+          "C27"
+        ],
+        "practices": [
+          "PR04",
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 28:17-31",
+        "name": "Paul stayed two whole years in his own rented house, and received all who were coming to him",
+        "chapters": [
+          "C07",
+          "C14",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 4:1-22",
+        "name": "They recognized that they had been with Jesus… Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves",
+        "chapters": [
+          "C05",
+          "C17"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 4:23-31",
+        "name": "Now, Lord, look at their threats, and grant to your servants to speak your word with all boldness",
+        "chapters": [
+          "C09",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 5:12-42",
+        "name": "If this work is of men, it will be overthrown. But if it is of God, you will not be able to overthrow it",
+        "chapters": [
+          "C08",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 8:1-8",
+        "name": "Those who were scattered abroad went around preaching the word… There was great joy in that city",
+        "chapters": [
+          "C17",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -10505,6 +11752,57 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 4:7-18",
+        "name": "Though our outward man is decaying, yet our inward man is renewed day by day",
+        "chapters": [
+          "C18",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 5:1-10",
+        "name": "We walk by faith, not by sight",
+        "chapters": [
+          "C18",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 6:1-13",
+        "name": "As having nothing, and yet possessing all things… Our heart is enlarged",
+        "chapters": [
+          "C18",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 8:1-15",
+        "name": "Your abundance at this present time supplies their lack… that there may be equality",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 3:11-13",
         "name": "What kind of people ought you to be",
@@ -10514,6 +11812,99 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 16:16-24",
+        "name": "When her masters saw that the hope of their gain was gone",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 19:23-41",
+        "name": "Sirs, you know that by this business we have our wealth… you ought to be quiet, and to do nothing rash",
+        "chapters": [
+          "C15",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 19:8-20",
+        "name": "Many also of those who had believed came, confessing, and declaring their deeds",
+        "chapters": [
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 20:17-38",
+        "name": "These hands served my necessities… so laboring you ought to help the weak… It is more blessed to give than to receive",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 21:1-16",
+        "name": "Kneeling down on the beach, we prayed… The Lord's will be done",
+        "chapters": [
+          "C14",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 2:42-47",
+        "name": "They sold their possessions and goods, and distributed them to all, according as anyone had need",
+        "chapters": [
+          "C13",
+          "C18"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 4:32-37",
+        "name": "Not one of them claimed that anything of the things which he possessed was his own",
+        "chapters": [
+          "C13",
+          "C18"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -11713,6 +13104,154 @@
         ],
         "tags": [],
         "source_file": "1-peter.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 1:3-11",
+        "name": "Who comforts us in all our affliction, that we may be able to comfort those who are in any affliction",
+        "chapters": [
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 2:5-11",
+        "name": "You should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow",
+        "chapters": [
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 5:11-21",
+        "name": "If anyone is in Christ, he is a new creation… and gave to us the ministry of reconciliation",
+        "chapters": [
+          "C15",
+          "C19",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 7:2-16",
+        "name": "Godly sorrow works repentance to salvation, which brings no regret. But the sorrow of the world works death",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 19:8-20",
+        "name": "Many also of those who had believed came, confessing, and declaring their deeds",
+        "chapters": [
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 21:27-22:29",
+        "name": "I persecuted this Way to the death… When the blood of Stephen, your witness, was shed, I also was standing by",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 23:1-11",
+        "name": "God will strike you, you whitewashed wall!… I didn't know, brothers, that he was high priest",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 24:22-27",
+        "name": "When it is convenient for me, I will summon you… he also hoped that money would be given to him",
+        "chapters": [
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 2:14-41",
+        "name": "When they heard this, they were cut to the heart, and said… Brothers, what shall we do?",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 3:11-26",
+        "name": "Why do you fasten your eyes on us, as though by our own power or godliness we had made him walk?",
+        "chapters": [
+          "C19",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 9:1-19",
+        "name": "Brother Saul, the Lord… has sent me, that you may receive your sight",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -13967,6 +15506,21 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 10:1-18",
+        "name": "Bringing every thought into captivity to the obedience of Christ… measuring themselves by themselves, and comparing themselves with themselves",
+        "chapters": [
+          "C16",
+          "C20"
+        ],
+        "practices": [
+          "PR12",
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "2 John.Json",
         "reference": "2 John 1:7-9",
         "name": "Watch yourselves; remain in the teaching",
@@ -14748,6 +16302,21 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 7:2-16",
+        "name": "Godly sorrow works repentance to salvation, which brings no regret. But the sorrow of the world works death",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 2:10-16",
         "name": "A heart trained in greed",
@@ -14770,6 +16339,32 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 28:3-6",
+        "name": "No doubt this man is a murderer, whom… Justice has not allowed to live",
+        "chapters": [
+          "C03",
+          "C21"
+        ],
+        "practices": [
+          "PR02"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 8:9-25",
+        "name": "You thought you could obtain the gift of God with money… for your heart isn't right before God",
+        "chapters": [
+          "C08",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Deuteronomy.Json",
@@ -15573,6 +17168,97 @@
         "practices": [],
         "tags": [],
         "source_file": "1-peter.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 12:1-19",
+        "name": "Constant prayer was made by the assembly to God for him… Peter was sleeping between two soldiers",
+        "chapters": [
+          "C09",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 12:20-25",
+        "name": "The voice of a god, and not of a man!… because he didn't give God the glory",
+        "chapters": [
+          "C22",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 14:8-18",
+        "name": "Men, why are you doing these things? We also are men of like passions with you",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 16:25-34",
+        "name": "About midnight Paul and Silas were praying and singing hymns to God… Don't harm yourself, for we are all here!",
+        "chapters": [
+          "C09",
+          "C22",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 18:1-11",
+        "name": "Because he practiced the same trade, he lived with them and worked, for by trade they were tent makers",
+        "chapters": [
+          "C13",
+          "C22"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 23:1-11",
+        "name": "God will strike you, you whitewashed wall!… I didn't know, brothers, that he was high priest",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 27:1-44",
+        "name": "I beg you to take some food… he gave thanks to God in the presence of all, and he broke it… Then they all cheered up",
+        "chapters": [
+          "C22",
+          "C28"
+        ],
+        "practices": [
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Deuteronomy.Json",
@@ -16478,6 +18164,33 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 11:16-33",
+        "name": "If I must boast, I will boast of the things that concern my weakness",
+        "chapters": [
+          "C16",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 12:1-10",
+        "name": "Whether in the body, I don't know… God knows… I refrain, so that no man may think more of me than that which he sees",
+        "chapters": [
+          "C23",
+          "C24"
+        ],
+        "practices": [
+          "PR04",
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "3 John.Json",
         "reference": "3 John 1:9-10",
         "name": "Diotrephes, who loves to be first",
@@ -16490,6 +18203,30 @@
         ],
         "tags": [],
         "source_file": "3-john.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 12:20-25",
+        "name": "The voice of a god, and not of a man!… because he didn't give God the glory",
+        "chapters": [
+          "C22",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 3:11-26",
+        "name": "Why do you fasten your eyes on us, as though by our own power or godliness we had made him walk?",
+        "chapters": [
+          "C19",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -17102,6 +18839,33 @@
     ],
     "C24": [
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 12:1-10",
+        "name": "Whether in the body, I don't know… God knows… I refrain, so that no man may think more of me than that which he sees",
+        "chapters": [
+          "C23",
+          "C24"
+        ],
+        "practices": [
+          "PR04",
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 5:1-10",
+        "name": "We walk by faith, not by sight",
+        "chapters": [
+          "C18",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 3:14-16",
         "name": "Some things that are hard to understand",
@@ -17114,6 +18878,48 @@
         ],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 14:8-18",
+        "name": "Men, why are you doing these things? We also are men of like passions with you",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 17:16-34",
+        "name": "TO AN UNKNOWN GOD… In him we live, and move, and have our being",
+        "chapters": [
+          "C17",
+          "C24",
+          "C27"
+        ],
+        "practices": [
+          "PR04",
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 1:1-11",
+        "name": "It isn't for you to know times or seasons… But you will receive power",
+        "chapters": [
+          "C24",
+          "C27"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -18040,6 +19846,18 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 4:7-18",
+        "name": "Though our outward man is decaying, yet our inward man is renewed day by day",
+        "chapters": [
+          "C18",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 1:5-11",
         "name": "In your faith supply moral excellence; and in moral excellence, knowledge",
@@ -18076,6 +19894,18 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 14:19-28",
+        "name": "Through many afflictions we must enter into the Kingdom of God",
+        "chapters": [
+          "C16",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -18826,6 +20656,45 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 3:1-6",
+        "name": "Written not with ink, but with the Spirit… not in tablets of stone, but in tablets that are hearts of flesh",
+        "chapters": [
+          "C06",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 3:7-18",
+        "name": "We all, with unveiled face beholding as in a mirror the glory of the Lord, are transformed into the same image from glory to glory",
+        "chapters": [
+          "C06",
+          "C26"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 5:11-21",
+        "name": "If anyone is in Christ, he is a new creation… and gave to us the ministry of reconciliation",
+        "chapters": [
+          "C15",
+          "C19",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 1:3-4",
         "name": "Partakers of the divine nature",
@@ -19223,6 +21092,225 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 10:1-33",
+        "name": "So he called them in and lodged them",
+        "chapters": [
+          "C14",
+          "C27"
+        ],
+        "practices": [
+          "PR05",
+          "PR20"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 10:34-48",
+        "name": "Truly I perceive that God doesn't show favoritism",
+        "chapters": [
+          "C06",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 11:1-18",
+        "name": "You went in to uncircumcised men, and ate with them!… But Peter began, and explained to them in order",
+        "chapters": [
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 11:27-30",
+        "name": "As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 13:42-52",
+        "name": "I have set you as a light for the Gentiles",
+        "chapters": [
+          "C17",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 15:1-35",
+        "name": "All the multitude kept silence, and they listened… to lay no greater burden on you than these necessary things",
+        "chapters": [
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR09",
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 16:25-34",
+        "name": "About midnight Paul and Silas were praying and singing hymns to God… Don't harm yourself, for we are all here!",
+        "chapters": [
+          "C09",
+          "C22",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 17:16-34",
+        "name": "TO AN UNKNOWN GOD… In him we live, and move, and have our being",
+        "chapters": [
+          "C17",
+          "C24",
+          "C27"
+        ],
+        "practices": [
+          "PR04",
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 1:1-11",
+        "name": "It isn't for you to know times or seasons… But you will receive power",
+        "chapters": [
+          "C24",
+          "C27"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 26:1-32",
+        "name": "I pray to God, that… all that hear me this day might become such as I am, except for these bonds",
+        "chapters": [
+          "C06",
+          "C12",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 28:1-2",
+        "name": "The natives showed us uncommon kindness; for they kindled a fire, and received us all",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 2:1-13",
+        "name": "We hear them speaking in our languages the mighty works of God",
+        "chapters": [
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 2:14-41",
+        "name": "When they heard this, they were cut to the heart, and said… Brothers, what shall we do?",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 7:54-60",
+        "name": "Lord, don't hold this sin against them!",
+        "chapters": [
+          "C03",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 8:1-8",
+        "name": "Those who were scattered abroad went around preaching the word… There was great joy in that city",
+        "chapters": [
+          "C17",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 8:26-40",
+        "name": "Do you understand what you are reading? How can I, unless someone explains it to me?",
+        "chapters": [
+          "C06",
+          "C27"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -20089,6 +22177,18 @@
     ],
     "C28": [
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 6:1-13",
+        "name": "As having nothing, and yet possessing all things… Our heart is enlarged",
+        "chapters": [
+          "C18",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 1:12-15",
         "name": "Though you know them, I will stir you up by reminding you",
@@ -20112,6 +22212,20 @@
         ],
         "tags": [],
         "source_file": "3-john.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 27:1-44",
+        "name": "I beg you to take some food… he gave thanks to God in the presence of all, and he broke it… Then they all cheered up",
+        "chapters": [
+          "C22",
+          "C28"
+        ],
+        "practices": [
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -21010,6 +23124,35 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 13:1-14",
+        "name": "Test your own selves, whether you are in the faith. Test your own selves",
+        "chapters": [
+          "C04",
+          "C15"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 24:10-21",
+        "name": "Herein I also practice always having a conscience void of offense toward God and men… I came to bring gifts for the needy to my nation",
+        "chapters": [
+          "C04",
+          "C12"
+        ],
+        "practices": [
+          "PR01",
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 33:13-24",
         "name": "Who among us can live with the devouring fire? He who walks righteously, and speaks blamelessly",
@@ -21465,6 +23608,20 @@
         ],
         "tags": [],
         "source_file": "1-john.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 28:3-6",
+        "name": "No doubt this man is a murderer, whom… Justice has not allowed to live",
+        "chapters": [
+          "C03",
+          "C21"
+        ],
+        "practices": [
+          "PR02"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Genesis.Json",
@@ -22013,6 +24170,21 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 12:1-10",
+        "name": "Whether in the body, I don't know… God knows… I refrain, so that no man may think more of me than that which he sees",
+        "chapters": [
+          "C23",
+          "C24"
+        ],
+        "practices": [
+          "PR04",
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 3:14-16",
         "name": "Some things that are hard to understand",
@@ -22025,6 +24197,36 @@
         ],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 17:16-34",
+        "name": "TO AN UNKNOWN GOD… In him we live, and move, and have our being",
+        "chapters": [
+          "C17",
+          "C24",
+          "C27"
+        ],
+        "practices": [
+          "PR04",
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 1:1-11",
+        "name": "It isn't for you to know times or seasons… But you will receive power",
+        "chapters": [
+          "C24",
+          "C27"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Deuteronomy.Json",
@@ -22530,6 +24732,36 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 8:1-15",
+        "name": "Your abundance at this present time supplies their lack… that there may be equality",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 9:1-15",
+        "name": "Let each man give according as he has determined in his heart; not grudgingly, or under compulsion; for God loves a cheerful giver",
+        "chapters": [
+          "C10",
+          "C16"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "3 John.Json",
         "reference": "3 John 1:5-8",
         "name": "A faithful work for brothers and strangers",
@@ -22542,6 +24774,96 @@
         ],
         "tags": [],
         "source_file": "3-john.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 10:1-33",
+        "name": "So he called them in and lodged them",
+        "chapters": [
+          "C14",
+          "C27"
+        ],
+        "practices": [
+          "PR05",
+          "PR20"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 11:27-30",
+        "name": "As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 20:17-38",
+        "name": "These hands served my necessities… so laboring you ought to help the weak… It is more blessed to give than to receive",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 24:10-21",
+        "name": "Herein I also practice always having a conscience void of offense toward God and men… I came to bring gifts for the needy to my nation",
+        "chapters": [
+          "C04",
+          "C12"
+        ],
+        "practices": [
+          "PR01",
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 6:1-7",
+        "name": "A complaint arose from the Hellenists against the Hebrews, because their widows were neglected in the daily service",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR05",
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 9:32-43",
+        "name": "Full of good works and acts of mercy… showing the coats and garments which Dorcas had made",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR05",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Deuteronomy.Json",
@@ -23075,6 +25397,21 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "Acts.Json",
+        "reference": "Acts 7:54-60",
+        "name": "Lord, don't hold this sin against them!",
+        "chapters": [
+          "C03",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 26:12-33",
         "name": "For now Yahweh has made room for us",
@@ -23565,6 +25902,21 @@
       }
     ],
     "PR08": [
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 7:2-16",
+        "name": "Godly sorrow works repentance to salvation, which brings no regret. But the sorrow of the world works death",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
       {
         "book": "Genesis.Json",
         "reference": "Genesis 15:1-6",
@@ -24506,6 +26858,64 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "Acts.Json",
+        "reference": "Acts 11:1-18",
+        "name": "You went in to uncircumcised men, and ate with them!… But Peter began, and explained to them in order",
+        "chapters": [
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 15:1-35",
+        "name": "All the multitude kept silence, and they listened… to lay no greater burden on you than these necessary things",
+        "chapters": [
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR09",
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 21:17-26",
+        "name": "Purify yourself with them, and pay their expenses for them",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 6:1-7",
+        "name": "A complaint arose from the Hellenists against the Hebrews, because their widows were neglected in the daily service",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR05",
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 3:12-15",
         "name": "Bearing with one another, and forgiving each other",
@@ -24741,6 +27151,49 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "Acts.Json",
+        "reference": "Acts 16:35-40",
+        "name": "They have beaten us publicly, without a trial, men who are Romans… let them come themselves and bring us out",
+        "chapters": [
+          "C17"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 17:16-34",
+        "name": "TO AN UNKNOWN GOD… In him we live, and move, and have our being",
+        "chapters": [
+          "C17",
+          "C24",
+          "C27"
+        ],
+        "practices": [
+          "PR04",
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 4:1-22",
+        "name": "They recognized that they had been with Jesus… Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves",
+        "chapters": [
+          "C05",
+          "C17"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Deuteronomy.Json",
         "reference": "Deuteronomy 23:7-8",
         "name": "You shall not abhor an Egyptian, because you lived as a foreigner in his land",
@@ -24889,6 +27342,63 @@
         ],
         "tags": [],
         "source_file": "1-john.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 7:2-16",
+        "name": "Godly sorrow works repentance to salvation, which brings no regret. But the sorrow of the world works death",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 19:8-20",
+        "name": "Many also of those who had believed came, confessing, and declaring their deeds",
+        "chapters": [
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 23:1-11",
+        "name": "God will strike you, you whitewashed wall!… I didn't know, brothers, that he was high priest",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 24:22-27",
+        "name": "When it is convenient for me, I will summon you… he also hoped that money would be given to him",
+        "chapters": [
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Deuteronomy.Json",
@@ -25241,6 +27751,21 @@
         ],
         "tags": [],
         "source_file": "1-peter.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 10:1-18",
+        "name": "Bringing every thought into captivity to the obedience of Christ… measuring themselves by themselves, and comparing themselves with themselves",
+        "chapters": [
+          "C16",
+          "C20"
+        ],
+        "practices": [
+          "PR12",
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
       },
       {
         "book": "2 John.Json",
@@ -25731,6 +28256,21 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 12:1-10",
+        "name": "Whether in the body, I don't know… God knows… I refrain, so that no man may think more of me than that which he sees",
+        "chapters": [
+          "C23",
+          "C24"
+        ],
+        "practices": [
+          "PR04",
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "3 John.Json",
         "reference": "3 John 1:9-10",
         "name": "Diotrephes, who loves to be first",
@@ -25743,6 +28283,20 @@
         ],
         "tags": [],
         "source_file": "3-john.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 5:1-11",
+        "name": "While you kept it, didn't it remain your own?… You haven't lied to men, but to God",
+        "chapters": [
+          "C04",
+          "C12"
+        ],
+        "practices": [
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -26131,6 +28685,35 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 10:1-18",
+        "name": "Bringing every thought into captivity to the obedience of Christ… measuring themselves by themselves, and comparing themselves with themselves",
+        "chapters": [
+          "C16",
+          "C20"
+        ],
+        "practices": [
+          "PR12",
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 3:7-18",
+        "name": "We all, with unveiled face beholding as in a mirror the glory of the Lord, are transformed into the same image from glory to glory",
+        "chapters": [
+          "C06",
+          "C26"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 1:5-11",
         "name": "In your faith supply moral excellence; and in moral excellence, knowledge",
@@ -26403,6 +28986,50 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "Acts.Json",
+        "reference": "Acts 10:34-48",
+        "name": "Truly I perceive that God doesn't show favoritism",
+        "chapters": [
+          "C06",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 26:1-32",
+        "name": "I pray to God, that… all that hear me this day might become such as I am, except for these bonds",
+        "chapters": [
+          "C06",
+          "C12",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 7:54-60",
+        "name": "Lord, don't hold this sin against them!",
+        "chapters": [
+          "C03",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 18:16-33",
         "name": "Shouldn't the Judge of all the earth do right?",
@@ -26671,6 +29298,35 @@
     ],
     "PR16": [
       {
+        "book": "Acts.Json",
+        "reference": "Acts 15:1-35",
+        "name": "All the multitude kept silence, and they listened… to lay no greater burden on you than these necessary things",
+        "chapters": [
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR09",
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 8:26-40",
+        "name": "Do you understand what you are reading? How can I, unless someone explains it to me?",
+        "chapters": [
+          "C06",
+          "C27"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 40:1-23",
         "name": "Why do you look so sad today?",
@@ -26787,6 +29443,20 @@
       }
     ],
     "PR17": [
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 18:24-28",
+        "name": "When Priscilla and Aquila heard him, they took him aside, and explained to him the way of God more accurately",
+        "chapters": [
+          "C08",
+          "C15"
+        ],
+        "practices": [
+          "PR17"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
       {
         "book": "Genesis.Json",
         "reference": "Genesis 38:1-30",
@@ -26977,6 +29647,19 @@
     ],
     "PR19": [
       {
+        "book": "Acts.Json",
+        "reference": "Acts 3:1-10",
+        "name": "Silver and gold have I none, but what I have, that I give you",
+        "chapters": [
+          "C16"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Deuteronomy.Json",
         "reference": "Deuteronomy 22:1-4",
         "name": "You shall not see your brother's donkey or his ox fallen down by the way, and hide yourself",
@@ -27105,6 +29788,21 @@
     ],
     "PR20": [
       {
+        "book": "Acts.Json",
+        "reference": "Acts 10:1-33",
+        "name": "So he called them in and lodged them",
+        "chapters": [
+          "C14",
+          "C27"
+        ],
+        "practices": [
+          "PR05",
+          "PR20"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 18:1-8",
         "name": "He ran to meet them from the tent door",
@@ -27161,6 +29859,34 @@
       }
     ],
     "PR21": [
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 1:3-11",
+        "name": "Who comforts us in all our affliction, that we may be able to comfort those who are in any affliction",
+        "chapters": [
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 27:1-44",
+        "name": "I beg you to take some food… he gave thanks to God in the presence of all, and he broke it… Then they all cheered up",
+        "chapters": [
+          "C22",
+          "C28"
+        ],
+        "practices": [
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
       {
         "book": "Isaiah.Json",
         "reference": "Isaiah 35:1-10",
@@ -27250,6 +29976,20 @@
         ],
         "tags": [],
         "source_file": "1-peter.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 12:11-21",
+        "name": "I will most gladly spend and be spent for your souls. If I love you more abundantly, am I loved the less?",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [
+          "PR22"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
       },
       {
         "book": "Genesis.Json",
@@ -27368,6 +30108,50 @@
         ],
         "tags": [],
         "source_file": "3-john.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 18:1-11",
+        "name": "Because he practiced the same trade, he lived with them and worked, for by trade they were tent makers",
+        "chapters": [
+          "C13",
+          "C22"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 20:17-38",
+        "name": "These hands served my necessities… so laboring you ought to help the weak… It is more blessed to give than to receive",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 9:32-43",
+        "name": "Full of good works and acts of mercy… showing the coats and garments which Dorcas had made",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR05",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Colossians.Json",
@@ -27714,6 +30498,79 @@
     ],
     "PR28": [
       {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 8:1-15",
+        "name": "Your abundance at this present time supplies their lack… that there may be equality",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 9:1-15",
+        "name": "Let each man give according as he has determined in his heart; not grudgingly, or under compulsion; for God loves a cheerful giver",
+        "chapters": [
+          "C10",
+          "C16"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 11:27-30",
+        "name": "As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 2:42-47",
+        "name": "They sold their possessions and goods, and distributed them to all, according as anyone had need",
+        "chapters": [
+          "C13",
+          "C18"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 4:32-37",
+        "name": "Not one of them claimed that anything of the things which he possessed was his own",
+        "chapters": [
+          "C13",
+          "C18"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
         "book": "Ecclesiastes.Json",
         "reference": "Ecclesiastes 2:1-11",
         "name": "I built myself houses. I planted myself vineyards",
@@ -27769,6 +30626,62 @@
         ],
         "tags": [],
         "source_file": "1-john.json"
+      },
+      {
+        "book": "2 Corinthians.Json",
+        "reference": "2 Corinthians 2:5-11",
+        "name": "You should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow",
+        "chapters": [
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 15:36-41",
+        "name": "The contention grew so sharp that they separated from each other. Barnabas took Mark",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 9:1-19",
+        "name": "Brother Saul, the Lord… has sent me, that you may receive your sight",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
+      },
+      {
+        "book": "Acts.Json",
+        "reference": "Acts 9:20-31",
+        "name": "They were all afraid of him, not believing that he was a disciple. But Barnabas took him",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "acts.json"
       },
       {
         "book": "Deuteronomy.Json",
@@ -28125,6 +31038,20 @@
         ],
         "tags": [],
         "source_file": "micah.json"
+      },
+      {
+        "book": "Philemon.Json",
+        "reference": "Philemon 1:15-20",
+        "name": "Receive him as you would receive me… If he has wronged you at all, or owes you anything, put that to my account",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "philemon.json"
       },
       {
         "book": "Psalms.Json",

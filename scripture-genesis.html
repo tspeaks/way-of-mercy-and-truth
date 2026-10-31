@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0C0B08">
+<title>Genesis — Scripture Index — The Way of Mercy and Truth</title>
+<meta name="description" content="Every passage of Genesis mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta property="og:type" content="book">
+<meta property="og:title" content="Genesis — Scripture Index — The Way of Mercy and Truth">
+<meta property="og:description" content="Every passage of Genesis mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%230C0B08%27/%3E%3Cpath d=%27M16 6 L16 26 M9 13 H23%27 stroke=%27%23C9A227%27 stroke-width=%272.6%27 stroke-linecap=%27round%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0C0B08; --bg-raised:#15140F;
+  --gold:#C9A227; --gold-bright:#E3C158; --gold-pale:#EADFC4; --gold-dim:#8A7327;
+  --text:#E4DCC6; --text-soft:#BFB49A; --text-muted:#8A8069;
+  --truth:#7FA9B5; --mercy:#C4795F; --spec:#9C8AB2;
+  --rule:rgba(201,162,39,0.22); --rule-strong:rgba(201,162,39,0.45);
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 10px 30px rgba(0,0,0,.35);
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0;
+  color:var(--text);
+  background-color:var(--bg);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(201,162,39,.07), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 110%, rgba(201,162,39,.05), transparent 70%);
+  background-attachment:fixed;
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-color:rgba(201,162,39,.45);text-underline-offset:3px;}
+a:hover{color:var(--gold-bright);text-decoration-color:var(--gold-bright);}
+:focus-visible{outline:2px solid var(--gold-bright);outline-offset:3px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule-strong);}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Cormorant Garamond','Iowan Old Style',Georgia,serif;font-weight:600;}
+
+.rule-orn{display:flex;align-items:center;gap:14px;margin:0;color:var(--gold-dim);}
+.rule-orn::before,.rule-orn::after{content:"";height:1px;flex:1;
+  background:linear-gradient(90deg,transparent,var(--rule-strong),transparent);}
+.rule-orn span{font-size:13px;letter-spacing:.3em;}
+
+.setup{background:rgba(196,121,95,.14);border-bottom:1px solid var(--rule-strong);
+  color:var(--gold-pale);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(201,162,39,.18);padding:1px 6px;font-size:13px;color:var(--gold-bright);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:62px 0 44px;text-align:center;}
+header.masthead::after{content:"";display:block;height:1px;margin-top:38px;
+  background:linear-gradient(90deg,transparent,var(--rule-strong) 20%,var(--rule-strong) 80%,transparent);}
+.crest{width:64px;height:64px;margin:0 auto 22px;display:block;color:var(--gold);opacity:.92;}
+.kicker{font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 16px;}
+h1.title{font-size:clamp(34px,9vw,58px);line-height:1.04;margin:0 0 12px;color:var(--gold-pale);
+  font-weight:600;letter-spacing:.005em;}
+.subtitle{font-size:clamp(15px,3.4vw,18px);color:var(--text-soft);font-style:italic;
+  margin:0 auto 30px;max-width:44ch;}
+blockquote.epigraph{margin:0 auto 30px;padding:20px 24px;max-width:52ch;
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  font-size:clamp(15.5px,3.4vw,18px);color:var(--text-soft);line-height:1.5;font-style:italic;}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;justify-content:center;}
+.badge{font-size:11px;letter-spacing:.08em;padding:5px 11px;text-transform:uppercase;
+  border:1px solid var(--rule);color:var(--text-muted);background:rgba(201,162,39,.05);white-space:nowrap;}
+.badge.gold{border-color:var(--rule-strong);color:var(--gold);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;}
+.btn{display:inline-block;padding:14px 26px;text-decoration:none;font-size:15px;font-weight:600;
+  letter-spacing:.02em;border:1px solid var(--gold-dim);background:transparent;color:var(--gold);min-height:44px;}
+.btn:hover{background:rgba(201,162,39,.1);border-color:var(--gold);color:var(--gold-bright);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#100E08;}
+.btn.primary:hover{background:var(--gold-bright);border-color:var(--gold-bright);color:#100E08;}
+
+section{padding:50px 0;}
+section + section{border-top:1px solid var(--rule);}
+h2.sec{font-size:clamp(23px,5vw,30px);margin:0 0 8px;color:var(--gold-pale);font-weight:600;}
+.section-note{color:var(--text-soft);margin:0 0 26px;max-width:62ch;}
+
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--rule);padding:19px 21px;box-shadow:var(--shadow);}
+.card .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 9px;}
+.card p{margin:0;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:11px 0 0;padding-top:11px;border-top:1px solid var(--rule);}
+
+.pull{background:rgba(201,162,39,.06);border-top:2px solid var(--gold-dim);
+  border-bottom:2px solid var(--gold-dim);padding:24px 26px;margin:30px 0 0;}
+.pull p{margin:0;font-size:clamp(16.5px,3.5vw,19px);line-height:1.45;color:var(--gold-pale);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:12px;letter-spacing:.05em;font-style:italic;}
+
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:26px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--rule);padding:18px 14px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;display:block;
+  margin-bottom:5px;color:var(--gold-pale);letter-spacing:.06em;}
+.pillar span{font-size:13px;color:var(--text-muted);}
+.pillar.t{border-top:2px solid var(--truth);}
+.pillar.h{border-top:2px solid var(--gold);}
+.pillar.m{border-top:2px solid var(--mercy);}
+
+.stage{border:1px solid var(--rule);background:var(--bg-raised);margin-bottom:12px;box-shadow:var(--shadow);}
+.stage summary{cursor:pointer;padding:17px 19px;list-style:none;display:flex;gap:15px;
+  align-items:center;min-height:44px;}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(201,162,39,.06);}
+.stage .snum{flex:none;width:34px;height:34px;border-radius:50%;background:transparent;
+  border:1px solid var(--gold-dim);color:var(--gold);display:inline-flex;align-items:center;
+  justify-content:center;font-size:14px;font-weight:600;}
+.stage[open] .snum{background:var(--gold);color:#100E08;border-color:var(--gold);}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;
+  font-weight:600;color:var(--gold-pale);letter-spacing:.05em;}
+.stage .sname span{display:block;font-size:14px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:11px;letter-spacing:.06em;}
+.stage .body{padding:4px 19px 17px;border-top:1px solid var(--rule);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li + li{border-top:1px solid var(--rule);}
+ol.chapters a{display:flex;gap:12px;align-items:baseline;padding:13px 2px;text-decoration:none;
+  color:var(--text);min-height:44px;}
+ol.chapters a:hover{color:var(--gold-bright);}
+ol.chapters .cid{flex:none;font-size:11px;color:var(--text-muted);width:42px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:14px;font-size:14px;}
+
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--rule);box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:16px 19px;text-decoration:none;color:var(--text);min-height:44px;}
+ul.linklist a:hover{background:rgba(201,162,39,.06);}
+ul.linklist .lt{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:19px;
+  display:block;color:var(--gold-pale);letter-spacing:.03em;}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:4px;}
+.flag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;margin-left:9px;
+  vertical-align:2px;white-space:nowrap;border:1px solid;}
+.flag.partial{border-color:var(--gold-dim);color:var(--gold);}
+.flag.speculative{border-color:var(--spec);color:var(--spec);}
+
+.warn{border:1px solid var(--rule);border-left:3px solid var(--mercy);
+  background:rgba(196,121,95,.07);padding:22px 24px;}
+.warn h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;margin:0 0 10px;
+  color:var(--mercy);letter-spacing:.02em;}
+.warn p{margin:0 0 11px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+.license{background:var(--bg-raised);border:1px solid var(--rule);padding:24px 26px;}
+.license .big{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:600;
+  margin:0 0 12px;color:var(--gold-pale);letter-spacing:.03em;}
+.license ul{margin:0 0 14px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:6px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+footer{padding:36px 0 64px;font-size:13px;color:var(--text-muted);
+  border-top:1px solid var(--rule);margin-top:20px;}
+footer p{margin:0 0 7px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+/* ================= reading pages ================= */
+.topbar{position:sticky;top:0;z-index:20;background:rgba(12,11,8,.94);
+  border-bottom:1px solid var(--rule);}
+@supports ((backdrop-filter:blur(8px)) or (-webkit-backdrop-filter:blur(8px))){
+  .topbar{-webkit-backdrop-filter:saturate(140%) blur(8px);backdrop-filter:saturate(140%) blur(8px);}
+}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:50px;}
+.topbar a.home{font-size:13.5px;text-decoration:none;color:var(--gold);white-space:nowrap;}
+.topbar .where{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.progress{height:2px;}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold-dim),var(--gold));}
+
+article{max-width:680px;margin:0 auto;padding:44px 22px 0;}
+.doc-head{margin-bottom:38px;padding-bottom:26px;border-bottom:1px solid var(--rule);text-align:center;}
+.doc-kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 14px;}
+.doc-title{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,7vw,44px);
+  line-height:1.1;margin:0;font-weight:600;color:var(--gold-pale);letter-spacing:.01em;}
+.doc-sub{font-size:15px;color:var(--truth);margin:12px 0 0;font-style:italic;}
+.doc-meta{font-size:12px;color:var(--text-muted);margin:14px 0 0;letter-spacing:.06em;}
+
+.doc-body{font-size:18px;line-height:1.75;color:var(--text);}
+.doc-body p{margin:0 0 1.25em;}
+.doc-body > p:first-of-type::first-letter{float:left;font-family:'Cormorant Garamond',Georgia,serif;
+  font-size:3.4em;line-height:.82;padding:.06em .1em 0 0;color:var(--gold);font-weight:600;}
+.doc-body h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;font-weight:600;
+  margin:2em 0 .7em;color:var(--gold-pale);letter-spacing:.03em;}
+.doc-body h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;font-weight:600;
+  margin:1.9em 0 .6em;color:var(--gold);letter-spacing:.03em;}
+blockquote.scripture{margin:1.7em 0;padding:16px 0 16px 22px;border-left:2px solid var(--gold-dim);
+  background:rgba(201,162,39,.04);}
+blockquote.scripture p{margin:0;font-style:italic;color:var(--gold-pale);font-size:17px;line-height:1.6;}
+blockquote.scripture cite{display:block;margin-top:9px;font-style:normal;font-size:12.5px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+
+.docnav{max-width:680px;margin:56px auto 0;padding:0 22px 70px;}
+.docnav .orn{margin-bottom:26px;}
+.navgrid{display:grid;grid-template-columns:1fr;gap:12px;}
+@media (min-width:560px){ .navgrid{grid-template-columns:1fr 1fr;} }
+.nav-btn{display:block;padding:17px 20px;border:1px solid var(--rule);text-decoration:none;
+  background:var(--bg-raised);min-height:44px;}
+.nav-btn:hover{background:rgba(201,162,39,.07);border-color:var(--gold-dim);}
+.nav-btn .nav-label{display:block;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--gold-dim);margin-bottom:5px;}
+.nav-btn .nav-title{display:block;font-size:15.5px;color:var(--text);line-height:1.3;}
+.nav-btn:hover .nav-title{color:var(--gold-bright);}
+.nav-btn.next{text-align:right;}
+.nav-btn.disabled{opacity:.42;}
+.nav-hub{text-align:center;margin-top:20px;font-size:13.5px;}
+.kbd-hint{text-align:center;margin-top:14px;font-size:11.5px;color:var(--text-muted);letter-spacing:.05em;}
+@media (hover:none){ .kbd-hint{display:none;} }
+
+.notfound{text-align:center;padding:90px 22px;}
+.notfound h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,8vw,46px);
+  color:var(--gold-pale);margin:0 0 14px;font-weight:600;}
+.notfound p{color:var(--text-soft);max-width:44ch;margin:0 auto 26px;}
+
+@media print{
+  body{background:#fff;color:#000;}
+  .topbar,.docnav,.skip,.setup,footer,.kbd-hint{display:none !important;}
+  article{max-width:none;padding:0;}
+  .doc-title,.doc-body h2,.doc-body h3{color:#000;}
+  .doc-body{font-size:12pt;}
+  blockquote.scripture{border-left:2px solid #999;background:none;}
+  blockquote.scripture p{color:#222;}
+  a{color:#000;text-decoration:none;}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<style>
+.entry{border-top:1px solid var(--rule);padding:34px 0;}
+.entry:first-of-type{border-top:0;}
+.entry-ref{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 6px;}
+.entry-name{font-family:'Cormorant Garamond',Georgia,serif;font-size:25px;font-weight:600;
+  color:var(--gold-pale);margin:0 0 18px;letter-spacing:.02em;}
+.passage{border-left:2px solid var(--gold-dim);padding:4px 0 4px 20px;margin:0 0 20px;
+  background:rgba(201,162,39,.04);}
+.passage p{margin:0 0 .7em;font-size:17px;line-height:1.65;color:var(--gold-pale);font-style:italic;}
+.passage p:last-child{margin-bottom:0;}
+.passage .vn{font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:10.5px;
+  color:var(--text-muted);vertical-align:3px;margin-right:5px;}
+.conn{font-size:16.5px;line-height:1.6;color:var(--text);margin:0 0 16px;}
+.tags{display:flex;flex-wrap:wrap;gap:7px;align-items:center;}
+.tag{font-size:11px;letter-spacing:.06em;padding:4px 10px;border:1px solid var(--rule);
+  color:var(--text-soft);text-decoration:none;white-space:nowrap;}
+a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
+.tag.pillar{text-transform:uppercase;letter-spacing:.12em;}
+.tag.pillar.t{border-color:var(--truth);color:var(--truth);}
+.tag.pillar.m{border-color:var(--mercy);color:var(--mercy);}
+.tag.pillar.h{border-color:var(--gold);color:var(--gold);}
+.tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
+.tag.corrected{border-color:var(--gold);color:var(--gold);}
+.tag.reviewed{border-color:var(--truth);color:var(--truth);}
+.passage.cluster p{font-style:normal;color:var(--text);}
+.passage.cluster .cref{color:var(--gold-dim);font-size:10.5px;margin-right:9px;vertical-align:2px;}
+.cluster-note{font-size:12px;color:var(--text-muted);letter-spacing:.06em;margin:0 0 12px;font-style:italic;}
+.entry-ref.cluster-label{color:var(--gold);}
+.tag.kind{border-style:solid;border-color:var(--gold-dim);color:var(--gold);
+  text-transform:uppercase;letter-spacing:.12em;font-size:10px;}
+.tag.mode{text-transform:uppercase;letter-spacing:.12em;font-size:10px;border-style:dotted;}
+.tag.mode.prescribes{border-color:var(--gold);color:var(--gold);}
+.tag.mode.exemplifies{border-color:var(--truth);color:var(--truth);}
+.tag.mode.counter{border-color:var(--mercy);color:var(--mercy);}
+.booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
+.stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
+@media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
+.stat div{border:1px solid var(--rule);background:var(--bg-raised);padding:14px;text-align:center;}
+.stat b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;
+  color:var(--gold-pale);font-weight:600;}
+.stat span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+</style>
+<div class="topbar"><div class="wrap">
+<a class="home" href="index.html">✦ The Way of Mercy and Truth</a>
+<span class="where mono">Genesis · index</span>
+</div><div class="progress"><i></i></div></div>
+<main id="main"><article>
+<div class="doc-head">
+<p class="doc-kicker">Scripture Index</p>
+<h1 class="doc-title">Genesis</h1>
+<p class="doc-sub">World English Bible · public domain</p>
+<p class="doc-meta mono">16 passages · 200 of 1533 verses</p>
+</div>
+<div class="doc-body">
+<div class="entry">
+<p class="entry-ref">Genesis 1:1-2:3</p>
+<h2 class="entry-name">God saw everything that he had made, and, behold, it was very good</h2>
+<div class="passage">
+<p><span class="vn">1</span>In the beginning God created the heavens and the earth.</p>
+<p><span class="vn">2</span>Now the earth was formless and empty. Darkness was on the surface of the deep. God’s Spirit was hovering over the surface of the waters.</p>
+<p><span class="vn">3</span>God said, “Let there be light,” and there was light.</p>
+<p><span class="vn">4</span>God saw the light, and saw that it was good. God divided the light from the darkness.</p>
+<p><span class="vn">5</span>God called the light “day,” and the darkness he called “night.” There was evening and there was morning, one day.</p>
+<p><span class="vn">6</span>God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.”</p>
+<p><span class="vn">7</span>God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so.</p>
+<p><span class="vn">8</span>God called the expanse “sky.” There was evening and there was morning, a second day.</p>
+<p><span class="vn">9</span>God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so.</p>
+<p><span class="vn">10</span>God called the dry land “earth,” and the gathering together of the waters he called “seas.” God saw that it was good.</p>
+<p><span class="vn">11</span>God said, “Let the earth yield grass, herbs yielding seed, and fruit trees bearing fruit after their kind, with its seed in it, on the earth;” and it was so.</p>
+<p><span class="vn">12</span>The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with its seed in it, after their kind; and God saw that it was good.</p>
+<p><span class="vn">13</span>There was evening and there was morning, a third day.</p>
+<p><span class="vn">14</span>God said, “Let there be lights in the expanse of sky to divide the day from the night; and let them be for signs, and for seasons, and for days and years;</p>
+<p><span class="vn">15</span>and let them be for lights in the expanse of sky to give light on the earth;” and it was so.</p>
+<p><span class="vn">16</span>God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars.</p>
+<p><span class="vn">17</span>God set them in the expanse of sky to give light to the earth,</p>
+<p><span class="vn">18</span>and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good.</p>
+<p><span class="vn">19</span>There was evening and there was morning, a fourth day.</p>
+<p><span class="vn">20</span>God said, “Let the waters swarm with swarms of living creatures, and let birds fly above the earth in the open expanse of sky.”</p>
+<p><span class="vn">21</span>God created the large sea creatures, and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good.</p>
+<p><span class="vn">22</span>God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.”</p>
+<p><span class="vn">23</span>There was evening and there was morning, a fifth day.</p>
+<p><span class="vn">24</span>God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;” and it was so.</p>
+<p><span class="vn">25</span>God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good.</p>
+<p><span class="vn">26</span>God said, “Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.”</p>
+<p><span class="vn">27</span>God created man in his own image. In God’s image he created him; male and female he created them.</p>
+<p><span class="vn">28</span>God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”</p>
+<p><span class="vn">29</span>God said, “Behold, I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food.</p>
+<p><span class="vn">30</span>To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;” and it was so.</p>
+<p><span class="vn">31</span>God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day.</p>
+<p><span class="vn">1</span>The heavens and the earth were finished, and all their vast array.</p>
+<p><span class="vn">2</span>On the seventh day God finished his work which he had made; and he rested on the seventh day from all his work which he had made.</p>
+<p><span class="vn">3</span>God blessed the seventh day, and made it holy, because he rested in it from all his work which he had created and made.</p>
+</div>
+<p class="conn">The world is ordered by a word, divided and named, and pronounced good seven times — 'very good' at the end. C01's claim that reality has a grain begins here: the order is not imposed on a neutral world but is the world. The scale and the refrain are the landscape C24 asks the reader to stand before in wonder. And the unit of the whole account is the day — 'there was evening and there was morning' — ending in a day of rest made holy, which is C28's unit of formation from the first page of scripture.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S6 Transformation</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c01.html">C01</a>
+<a class="tag" href="c24.html">C24</a>
+<a class="tag" href="c28.html">C28</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 2:4-17</p>
+<h2 class="entry-name">To dress it and to keep it</h2>
+<div class="passage">
+<p><span class="vn">4</span>This is the history of the generations of the heavens and of the earth when they were created, in the day that Yahweh God made the earth and the heavens.</p>
+<p><span class="vn">5</span>No plant of the field was yet in the earth, and no herb of the field had yet sprung up; for Yahweh God had not caused it to rain on the earth. There was not a man to till the ground,</p>
+<p><span class="vn">6</span>but a mist went up from the earth, and watered the whole surface of the ground.</p>
+<p><span class="vn">7</span>Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.</p>
+<p><span class="vn">8</span>Yahweh God planted a garden eastward, in Eden, and there he put the man whom he had formed.</p>
+<p><span class="vn">9</span>Out of the ground Yahweh God made every tree to grow that is pleasant to the sight, and good for food; the tree of life also in the middle of the garden, and the tree of the knowledge of good and evil.</p>
+<p><span class="vn">10</span>A river went out of Eden to water the garden; and from there it was parted, and became four heads.</p>
+<p><span class="vn">11</span>The name of the first is Pishon: this is the one which flows through the whole land of Havilah, where there is gold;</p>
+<p><span class="vn">12</span>and the gold of that land is good. There is aromatic resin and the onyx stone.</p>
+<p><span class="vn">13</span>The name of the second river is Gihon: the same river that flows through the whole land of Cush.</p>
+<p><span class="vn">14</span>The name of the third river is Hiddekel: this is the one which flows in front of Assyria. The fourth river is the Euphrates.</p>
+<p><span class="vn">15</span>Yahweh God took the man, and put him into the garden of Eden to dress it and to keep it.</p>
+<p><span class="vn">16</span>Yahweh God commanded the man, saying, “Of every tree of the garden you may freely eat;</p>
+<p><span class="vn">17</span>but of the tree of the knowledge of good and evil, you shall not eat of it; for in the day that you eat of it you will surely die.”</p>
+</div>
+<p class="conn">The man is formed from dust and given breath, and his first assignment is work: put into the garden 'to dress it and to keep it.' Work belongs to the world before anything went wrong, which is the ground of C13's ordinary faithfulness — the daily task is not a punishment to be escaped into spirituality. The single prohibition sets the moral order of C01 in its simplest form: freedom everywhere, and one limit.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c13.html">C13</a>
+<a class="tag" href="c01.html">C01</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 2:18-25</p>
+<h2 class="entry-name">It is not good that the man should be alone</h2>
+<div class="passage">
+<p><span class="vn">18</span>Yahweh God said, “It is not good that the man should be alone; I will make him a helper suitable for him.”</p>
+<p><span class="vn">19</span>Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them. Whatever the man called every living creature, that was its name.</p>
+<p><span class="vn">20</span>The man gave names to all livestock, and to the birds of the sky, and to every animal of the field; but for man there was not found a helper suitable for him.</p>
+<p><span class="vn">21</span>Yahweh God caused a deep sleep to fall on the man, and he slept; and he took one of his ribs, and closed up the flesh in its place.</p>
+<p><span class="vn">22</span>He made the rib, which Yahweh God had taken from the man, into a woman, and brought her to the man.</p>
+<p><span class="vn">23</span>The man said, “This is now bone of my bones, and flesh of my flesh. She will be called ‘woman,’ because she was taken out of Man.”</p>
+<p><span class="vn">24</span>Therefore a man will leave his father and his mother, and will join with his wife, and they will be one flesh.</p>
+<p><span class="vn">25</span>They were both naked, the man and his wife, and were not ashamed.</p>
+</div>
+<p class="conn">The first thing in creation pronounced not good is solitude. The answer is a companion who is 'bone of my bones,' and the passage closes on a household — leaving father and mother, one flesh, naked and not ashamed. C14 begins from the same conviction: the household is not a distraction from formation but one of its primary places.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c14.html">C14</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 3:1-7</p>
+<h2 class="entry-name">Has God really said?</h2>
+<div class="passage">
+<p><span class="vn">1</span>Now the serpent was more subtle than any animal of the field which Yahweh God had made. He said to the woman, “Has God really said, ‘You shall not eat of any tree of the garden?’”</p>
+<p><span class="vn">2</span>The woman said to the serpent, “Of the fruit of the trees of the garden we may eat,</p>
+<p><span class="vn">3</span>but of the fruit of the tree which is in the middle of the garden, God has said, ‘You shall not eat of it, neither shall you touch it, lest you die.’”</p>
+<p><span class="vn">4</span>The serpent said to the woman, “You won’t surely die,</p>
+<p><span class="vn">5</span>for God knows that in the day you eat it, your eyes will be opened, and you will be like God, knowing good and evil.”</p>
+<p><span class="vn">6</span>When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit, and ate; and she gave some to her husband with her, and he ate.</p>
+<p><span class="vn">7</span>The eyes of both of them were opened, and they knew that they were naked. They sewed fig leaves together, and made themselves aprons.</p>
+</div>
+<p class="conn">The failure arrives as a question, and the damage is done in the conversation that follows. She engages the thought, amends the command in reply, listens to the counter-claim — and then the sequence: she saw that it was good for food, a delight to the eyes, desired to make one wise; she took, ate, gave. Watchfulness holds that destructive thoughts do their damage 'during the hospitality, not the arrival,' and this is the hospitality narrated step by step. The progression from perception through desire to act is the anatomy of a failure that C21 teaches Cassian's way, given here in a single verse (3:6).</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c20.html">C20</a>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="a1.html">PR12</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 3:8-13</p>
+<h2 class="entry-name">The woman whom you gave to be with me, she gave me of the tree</h2>
+<div class="passage">
+<p><span class="vn">8</span>They heard the voice of Yahweh God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of Yahweh God among the trees of the garden.</p>
+<p><span class="vn">9</span>Yahweh God called to the man, and said to him, “Where are you?”</p>
+<p><span class="vn">10</span>The man said, “I heard your voice in the garden, and I was afraid, because I was naked; and I hid myself.”</p>
+<p><span class="vn">11</span>God said, “Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?”</p>
+<p><span class="vn">12</span>The man said, “The woman whom you gave to be with me, she gave me of the tree, and I ate.”</p>
+<p><span class="vn">13</span>Yahweh God said to the woman, “What is this you have done?” The woman said, “The serpent deceived me, and I ate.”</p>
+</div>
+<p class="conn">Asked a direct question, the man blames the woman and, in the same breath, the God who gave her; the woman blames the serpent. Neither looks at their own portion. Self-Accusation asks, in any friction, what is my portion here, before assigning anyone else's — and asks 'how fast is my blaming reflex?' This is the reflex at its origin, two sentences after the first sin. C22 teaches the practice; the question that precedes the blaming — 'Where are you?' — is God seeking rather than prosecuting, which is C19's shepherd.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c22.html">C22</a>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR03</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 3:14-24</p>
+<h2 class="entry-name">Yahweh God made coats of skins for Adam and for his wife, and clothed them</h2>
+<div class="passage">
+<p><span class="vn">14</span>Yahweh God said to the serpent, “Because you have done this, you are cursed above all livestock, and above every animal of the field. On your belly you shall go, and you shall eat dust all the days of your life.</p>
+<p><span class="vn">15</span>I will put enmity between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.”</p>
+<p><span class="vn">16</span>To the woman he said, “I will greatly multiply your pain in childbirth. In pain you will bear children. Your desire will be for your husband, and he will rule over you.”</p>
+<p><span class="vn">17</span>To Adam he said, “Because you have listened to your wife’s voice, and have eaten of the tree, of which I commanded you, saying, ‘You shall not eat of it,’ cursed is the ground for your sake. In toil you will eat of it all the days of your life.</p>
+<p><span class="vn">18</span>It will yield thorns and thistles to you; and you will eat the herb of the field.</p>
+<p><span class="vn">19</span>By the sweat of your face will you eat bread until you return to the ground, for out of it you were taken. For you are dust, and to dust you shall return.”</p>
+<p><span class="vn">20</span>The man called his wife Eve, because she was the mother of all living.</p>
+<p><span class="vn">21</span>Yahweh God made coats of skins for Adam and for his wife, and clothed them.</p>
+<p><span class="vn">22</span>Yahweh God said, “Behold, the man has become like one of us, knowing good and evil. Now, lest he reach out his hand, and also take of the tree of life, and eat, and live forever...”</p>
+<p><span class="vn">23</span>Therefore Yahweh God sent him out from the garden of Eden, to till the ground from which he was taken.</p>
+<p><span class="vn">24</span>So he drove out the man; and he placed Cherubs at the east of the garden of Eden, and the flame of a sword which turned every way, to guard the way to the tree of life.</p>
+</div>
+<p class="conn">The consequences are pronounced in full — pain, toil, thorns, dust — and the moral order of C01 does not bend. Then, before the expulsion, a single act of care: God makes them clothing and dresses them himself. The fig leaves were their own covering for their shame; the coats are his. C19's door is open even on the day the garden closes.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c01.html">C01</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 4:1-8</p>
+<h2 class="entry-name">Sin crouches at the door. Its desire is for you, but you are to rule over it</h2>
+<div class="passage">
+<p><span class="vn">1</span>The man knew Eve his wife. She conceived, and gave birth to Cain, and said, “I have gotten a man with Yahweh’s help.”</p>
+<p><span class="vn">2</span>Again she gave birth, to Cain’s brother Abel. Abel was a keeper of sheep, but Cain was a tiller of the ground.</p>
+<p><span class="vn">3</span>As time passed, it happened that Cain brought an offering to Yahweh from the fruit of the ground.</p>
+<p><span class="vn">4</span>Abel also brought some of the firstborn of his flock and of its fat. Yahweh respected Abel and his offering,</p>
+<p><span class="vn">5</span>but he didn’t respect Cain and his offering. Cain was very angry, and the expression on his face fell.</p>
+<p><span class="vn">6</span>Yahweh said to Cain, “Why are you angry? Why has the expression of your face fallen?</p>
+<p><span class="vn">7</span>If you do well, will it not be lifted up? If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it.”</p>
+<p><span class="vn">8</span>Cain said to Abel, his brother, “Let’s go into the field.” It happened when they were in the field, that Cain rose up against Abel, his brother, and killed him.</p>
+</div>
+<p class="conn">God speaks to Cain at the exact moment Watchfulness is for: the anger has arrived and the face has fallen, but nothing has been done. 'Why are you angry?… sin crouches at the door. Its desire is for you, but you are to rule over it.' The image is of something waiting at the gate, not yet inside, and the instruction is to master it there. Cain does not, and the next verse is a murder. The practice and its absence in two sentences, with the interior cause — anger at a brother's acceptance — traced by God before it is acted on, which is C21's diagnosis.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c20.html">C20</a>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="a1.html">PR12</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 4:9-16</p>
+<h2 class="entry-name">Am I my brother's keeper?</h2>
+<div class="passage">
+<p><span class="vn">9</span>Yahweh said to Cain, “Where is Abel, your brother?” He said, “I don’t know. Am I my brother’s keeper?”</p>
+<p><span class="vn">10</span>Yahweh said, “What have you done? The voice of your brother’s blood cries to me from the ground.</p>
+<p><span class="vn">11</span>Now you are cursed because of the ground, which has opened its mouth to receive your brother’s blood from your hand.</p>
+<p><span class="vn">12</span>From now on, when you till the ground, it won’t yield its strength to you. You shall be a fugitive and a wanderer in the earth.”</p>
+<p><span class="vn">13</span>Cain said to Yahweh, “My punishment is greater than I can bear.</p>
+<p><span class="vn">14</span>Behold, you have driven me out this day from the surface of the ground. I will be hidden from your face, and I will be a fugitive and a wanderer in the earth. It will happen that whoever finds me will kill me.”</p>
+<p><span class="vn">15</span>Yahweh said to him, “Therefore whoever slays Cain, vengeance will be taken on him sevenfold.” Yahweh appointed a sign for Cain, lest any finding him should strike him.</p>
+<p><span class="vn">16</span>Cain went out from Yahweh’s presence, and lived in the land of Nod, east of Eden.</p>
+</div>
+<p class="conn">'I don't know. Am I my brother's keeper?' — a lie and a denial of responsibility in one answer, the opposite of the honest naming C04's audit asks for. The judgment is real: the blood cries from the ground, and Cain is driven out. And yet when Cain says the punishment is more than he can bear, God marks him so that no one will kill him. Mercy set as a limit around the guilty, which is C19's door kept ajar even for a murderer.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="c19.html">C19</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 4:19-24</p>
+<h2 class="entry-name">If Cain will be avenged seven times, truly Lamech seventy-seven times</h2>
+<div class="passage">
+<p><span class="vn">19</span>Lamech took two wives: the name of the one was Adah, and the name of the other Zillah.</p>
+<p><span class="vn">20</span>Adah gave birth to Jabal, who was the father of those who dwell in tents and have livestock.</p>
+<p><span class="vn">21</span>His brother’s name was Jubal, who was the father of all who handle the harp and pipe.</p>
+<p><span class="vn">22</span>Zillah also gave birth to Tubal Cain, the forger of every cutting instrument of brass and iron. Tubal Cain’s sister was Naamah.</p>
+<p><span class="vn">23</span>Lamech said to his wives, “Adah and Zillah, hear my voice. You wives of Lamech, listen to my speech, for I have slain a man for wounding me, a young man for bruising me.</p>
+<p><span class="vn">24</span>If Cain will be avenged seven times, truly Lamech seventy-seven times.”</p>
+</div>
+<p class="conn">Lamech's song boasts of killing a young man for a wound and multiplies vengeance past what God had set: seven times for Cain, seventy-seven for Lamech. Retaliation escalating as a matter of pride. Non-Retaliation is the refusal to return evil for evil, and this is its absence celebrated in verse. The number returns in Matthew 18:22, where forgiveness is commanded to seventy times seven — the same arithmetic turned the other way, which is the move C03 and C27 both make.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="a1.html">PR06</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 5:21-24</p>
+<h2 class="entry-name">Enoch walked with God, and he was not, for God took him</h2>
+<div class="passage">
+<p><span class="vn">21</span>Enoch lived sixty-five years, and became the father of Methuselah.</p>
+<p><span class="vn">22</span>Enoch walked with God after he became the father of Methuselah three hundred years, and became the father of sons and daughters.</p>
+<p><span class="vn">23</span>All the days of Enoch were three hundred sixty-five years.</p>
+<p><span class="vn">24</span>Enoch walked with God, and he was not, for God took him.</p>
+</div>
+<p class="conn">In a genealogy where every other entry ends 'then he died,' one man 'walked with God' — said twice — 'and he was not, for God took him.' Nothing else is recorded of him. A life described entirely by companionship with God is C11's remaining, and a life whose only record is that companionship is C23's hidden life.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c11.html">C11</a>
+<a class="tag" href="c23.html">C23</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 6:5-8</p>
+<h2 class="entry-name">It grieved him in his heart</h2>
+<div class="passage">
+<p><span class="vn">5</span>Yahweh saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.</p>
+<p><span class="vn">6</span>Yahweh was sorry that he had made man on the earth, and it grieved him in his heart.</p>
+<p><span class="vn">7</span>Yahweh said, “I will destroy man whom I have created from the surface of the ground; man, along with animals, creeping things, and birds of the sky; for I am sorry that I have made them.”</p>
+<p><span class="vn">8</span>But Noah found favor in Yahweh’s eyes.</p>
+</div>
+<p class="conn">The diagnosis reaches the root: 'every imagination of the thoughts of his heart was only evil continually' — not the acts but the imagination producing them, which is where C21 looks. And God's response to it is grief before it is judgment: 'Yahweh was sorry that he had made man… and it grieved him in his heart.' C27's measure of the mature heart is that it cannot delight in another's condemnation; the first thing said of God's heart in scripture is that it grieved.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="c27.html">C27</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 6:9-7:24</p>
+<h2 class="entry-name">Thus Noah did. According to all that God commanded him, so he did</h2>
+<div class="passage">
+<p><span class="vn">9</span>This is the history of the generations of Noah. Noah was a righteous man, blameless among the people of his time. Noah walked with God.</p>
+<p><span class="vn">10</span>Noah became the father of three sons: Shem, Ham, and Japheth.</p>
+<p><span class="vn">11</span>The earth was corrupt before God, and the earth was filled with violence.</p>
+<p><span class="vn">12</span>God saw the earth, and saw that it was corrupt, for all flesh had corrupted their way on the earth.</p>
+<p><span class="vn">13</span>God said to Noah, “The end of all flesh has come before me, for the earth is filled with violence through them. Behold, I will destroy them with the earth.</p>
+<p><span class="vn">14</span>Make a ship of gopher wood. You shall make rooms in the ship, and shall seal it inside and outside with pitch.</p>
+<p><span class="vn">15</span>This is how you shall make it. The length of the ship will be three hundred cubits, its breadth fifty cubits, and its height thirty cubits.</p>
+<p><span class="vn">16</span>You shall make a roof in the ship, and you shall finish it to a cubit upward. You shall set the door of the ship in its side. You shall make it with lower, second, and third levels.</p>
+<p><span class="vn">17</span>I, even I, do bring the flood of waters on this earth, to destroy all flesh having the breath of life from under the sky. Everything that is in the earth will die.</p>
+<p><span class="vn">18</span>But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you.</p>
+<p><span class="vn">19</span>Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female.</p>
+<p><span class="vn">20</span>Of the birds after their kind, of the livestock after their kind, of every creeping thing of the ground after its kind, two of every sort shall come to you, to keep them alive.</p>
+<p><span class="vn">21</span>Take with you of all food that is eaten, and gather it to yourself; and it will be for food for you, and for them.”</p>
+<p><span class="vn">22</span>Thus Noah did. According to all that God commanded him, so he did.</p>
+<p><span class="vn">1</span>Yahweh said to Noah, “Come with all of your household into the ship, for I have seen your righteousness before me in this generation.</p>
+<p><span class="vn">2</span>You shall take seven pairs of every clean animal with you, the male and his female. Of the animals that are not clean, take two, the male and his female.</p>
+<p><span class="vn">3</span>Also of the birds of the sky, seven and seven, male and female, to keep seed alive on the surface of all the earth.</p>
+<p><span class="vn">4</span>In seven days, I will cause it to rain on the earth for forty days and forty nights. Every living thing that I have made, I will destroy from the surface of the ground.”</p>
+<p><span class="vn">5</span>Noah did everything that Yahweh commanded him.</p>
+<p><span class="vn">6</span>Noah was six hundred years old when the flood of waters came on the earth.</p>
+<p><span class="vn">7</span>Noah went into the ship with his sons, his wife, and his sons’ wives, because of the waters of the flood.</p>
+<p><span class="vn">8</span>Clean animals, animals that are not clean, birds, and everything that creeps on the ground</p>
+<p><span class="vn">9</span>went by pairs to Noah into the ship, male and female, as God commanded Noah.</p>
+<p><span class="vn">10</span>It happened after the seven days, that the waters of the flood came on the earth.</p>
+<p><span class="vn">11</span>In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on the same day all the fountains of the great deep were burst open, and the sky’s windows were opened.</p>
+<p><span class="vn">12</span>The rain was on the earth forty days and forty nights.</p>
+<p><span class="vn">13</span>In the same day Noah, and Shem, Ham, and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, entered into the ship;</p>
+<p><span class="vn">14</span>they, and every animal after its kind, all the livestock after their kind, every creeping thing that creeps on the earth after its kind, and every bird after its kind, every bird of every sort.</p>
+<p><span class="vn">15</span>They went to Noah into the ship, by pairs of all flesh with the breath of life in them.</p>
+<p><span class="vn">16</span>Those who went in, went in male and female of all flesh, as God commanded him; and Yahweh shut him in.</p>
+<p><span class="vn">17</span>The flood was forty days on the earth. The waters increased, and lifted up the ship, and it was lifted up above the earth.</p>
+<p><span class="vn">18</span>The waters prevailed, and increased greatly on the earth; and the ship floated on the surface of the waters.</p>
+<p><span class="vn">19</span>The waters prevailed exceedingly on the earth. All the high mountains that were under the whole sky were covered.</p>
+<p><span class="vn">20</span>The waters prevailed fifteen cubits upward, and the mountains were covered.</p>
+<p><span class="vn">21</span>All flesh died that moved on the earth, including birds, livestock, animals, every creeping thing that creeps on the earth, and every man.</p>
+<p><span class="vn">22</span>All in whose nostrils was the breath of the spirit of life, of all that was on the dry land, died.</p>
+<p><span class="vn">23</span>Every living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. Only Noah was left, and those who were with him in the ship.</p>
+<p><span class="vn">24</span>The waters prevailed on the earth one hundred fifty days.</p>
+</div>
+<p class="conn">Noah is righteous, blameless in his generation, and 'walked with God,' and what that looks like is construction: a ship to exact dimensions, provisions gathered, animals brought in. 'Thus Noah did. According to all that God commanded him, so he did' — said twice. Faithfulness as a long, practical, unspectacular job carried out to specification in a hostile world, which is C13's.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c13.html">C13</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 8:1-19</p>
+<h2 class="entry-name">He stayed yet another seven days</h2>
+<div class="passage">
+<p><span class="vn">1</span>God remembered Noah, all the animals, and all the livestock that were with him in the ship; and God made a wind to pass over the earth. The waters subsided.</p>
+<p><span class="vn">2</span>The deep’s fountains and the sky’s windows were also stopped, and the rain from the sky was restrained.</p>
+<p><span class="vn">3</span>The waters receded from the earth continually. After the end of one hundred fifty days the waters decreased.</p>
+<p><span class="vn">4</span>The ship rested in the seventh month, on the seventeenth day of the month, on Ararat’s mountains.</p>
+<p><span class="vn">5</span>The waters receded continually until the tenth month. In the tenth month, on the first day of the month, the tops of the mountains were seen.</p>
+<p><span class="vn">6</span>It happened at the end of forty days, that Noah opened the window of the ship which he had made,</p>
+<p><span class="vn">7</span>and he sent out a raven. It went back and forth, until the waters were dried up from the earth.</p>
+<p><span class="vn">8</span>He sent out a dove from him, to see if the waters were abated from the surface of the ground,</p>
+<p><span class="vn">9</span>but the dove found no place to rest her foot, and she returned to him into the ship; for the waters were on the surface of the whole earth. He put out his hand, and took her, and brought her to him into the ship.</p>
+<p><span class="vn">10</span>He stayed yet another seven days; and again he sent the dove out of the ship.</p>
+<p><span class="vn">11</span>The dove came back to him at evening, and, behold, in her mouth was an olive leaf plucked off. So Noah knew that the waters were abated from the earth.</p>
+<p><span class="vn">12</span>He stayed yet another seven days, and sent out the dove; and she didn’t return to him any more.</p>
+<p><span class="vn">13</span>It happened in the six hundred first year, in the first month, the first day of the month, the waters were dried up from the earth. Noah removed the covering of the ship, and looked. He saw that the surface of the ground was dried.</p>
+<p><span class="vn">14</span>In the second month, on the twenty-seventh day of the month, the earth was dry.</p>
+<p><span class="vn">15</span>God spoke to Noah, saying,</p>
+<p><span class="vn">16</span>“Go out of the ship, you, and your wife, and your sons, and your sons’ wives with you.</p>
+<p><span class="vn">17</span>Bring out with you every living thing that is with you of all flesh, including birds, livestock, and every creeping thing that creeps on the earth, that they may breed abundantly in the earth, and be fruitful, and multiply on the earth.”</p>
+<p><span class="vn">18</span>Noah went out, with his sons, his wife, and his sons’ wives with him.</p>
+<p><span class="vn">19</span>Every animal, every creeping thing, and every bird, whatever moves on the earth, after their families, went out of the ship.</p>
+</div>
+<p class="conn">'God remembered Noah' — the turn of the story is God's memory. Then a long waiting, told in detail: the raven, the dove that finds no rest, seven days, the dove with the olive leaf, seven days more, the dove that does not return. Noah does not leave the ship until he is told. C25's patience with a process that cannot be hurried and can only be checked, step by step. PR14 shares the patience but is defined as the patience of growth, and the waiting here is for the waters, so it is not tagged.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c25.html">C25</a>
+<a class="tag" href="c19.html">C19</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 8:20-9:17</p>
+<h2 class="entry-name">I will not again curse the ground any more for man's sake, because the imagination of man's heart is evil</h2>
+<div class="passage">
+<p><span class="vn">20</span>Noah built an altar to Yahweh, and took of every clean animal, and of every clean bird, and offered burnt offerings on the altar.</p>
+<p><span class="vn">21</span>Yahweh smelled the pleasant aroma. Yahweh said in his heart, “I will not again curse the ground any more for man’s sake, because the imagination of man’s heart is evil from his youth; neither will I ever again strike everything living, as I have done.</p>
+<p><span class="vn">22</span>While the earth remains, seed time and harvest, and cold and heat, and summer and winter, and day and night shall not cease.”</p>
+<p><span class="vn">1</span>God blessed Noah and his sons, and said to them, “Be fruitful, and multiply, and replenish the earth.</p>
+<p><span class="vn">2</span>The fear of you and the dread of you will be on every animal of the earth, and on every bird of the sky. Everything that the ground teems with, and all the fish of the sea are delivered into your hand.</p>
+<p><span class="vn">3</span>Every moving thing that lives will be food for you. As the green herb, I have given everything to you.</p>
+<p><span class="vn">4</span>But flesh with its life, its blood, you shall not eat.</p>
+<p><span class="vn">5</span>I will surely require your blood of your lives. At the hand of every animal I will require it. At the hand of man, even at the hand of every man’s brother, I will require the life of man.</p>
+<p><span class="vn">6</span>Whoever sheds man’s blood, his blood will be shed by man, for God made man in his own image.</p>
+<p><span class="vn">7</span>Be fruitful and multiply. Increase abundantly in the earth, and multiply in it.”</p>
+<p><span class="vn">8</span>God spoke to Noah and to his sons with him, saying,</p>
+<p><span class="vn">9</span>“As for me, behold, I establish my covenant with you, and with your offspring after you,</p>
+<p><span class="vn">10</span>and with every living creature that is with you: the birds, the livestock, and every animal of the earth with you, of all that go out of the ship, even every animal of the earth.</p>
+<p><span class="vn">11</span>I will establish my covenant with you: all flesh will not be cut off any more by the waters of the flood, neither will there ever again be a flood to destroy the earth.”</p>
+<p><span class="vn">12</span>God said, “This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:</p>
+<p><span class="vn">13</span>I set my rainbow in the cloud, and it will be for a sign of a covenant between me and the earth.</p>
+<p><span class="vn">14</span>It will happen, when I bring a cloud over the earth, that the rainbow will be seen in the cloud,</p>
+<p><span class="vn">15</span>and I will remember my covenant, which is between me and you and every living creature of all flesh, and the waters will no more become a flood to destroy all flesh.</p>
+<p><span class="vn">16</span>The rainbow will be in the cloud. I will look at it, that I may remember the everlasting covenant between God and every living creature of all flesh that is on the earth.”</p>
+<p><span class="vn">17</span>God said to Noah, “This is the token of the covenant which I have established between me and all flesh that is on the earth.”</p>
+</div>
+<p class="conn">The reason given for never repeating the flood is the same as the reason given for sending it: the imagination of man's heart is evil from youth. Mercy grounded in realism rather than in improvement, which is C19's door. The covenant that follows is made 'with every living creature' — the widest circle in the Old Testament, C27's — and the life of every human is protected 'for God made man in his own image,' the ground of C01's moral order. Seedtime and harvest, day and night, 'shall not cease.'</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="c01.html">C01</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 9:20-23</p>
+<h2 class="entry-name">They went in backwards, and covered the nakedness of their father</h2>
+<div class="passage">
+<p><span class="vn">20</span>Noah began to be a farmer, and planted a vineyard.</p>
+<p><span class="vn">21</span>He drank of the wine and got drunk. He was uncovered within his tent.</p>
+<p><span class="vn">22</span>Ham, the father of Canaan, saw the nakedness of his father, and told his two brothers outside.</p>
+<p><span class="vn">23</span>Shem and Japheth took a garment, and laid it on both their shoulders, went in backwards, and covered the nakedness of their father. Their faces were backwards, and they didn’t see their father’s nakedness.</p>
+</div>
+<p class="conn">Noah is drunk and uncovered in his tent. Ham sees, and goes out and tells his brothers. Shem and Japheth take a garment on their shoulders, walk in backwards, cover their father, and keep their faces turned away so that they do not see. Covering Weakness is the refusal to expose someone whose failure would shame them, absorbing the inconvenience oneself to protect their dignity. Here it is enacted with its counter-example in the same scene: one son exposes, two cover, and the covering is done so as not even to look. The strongest narrative anchor for PR17 in the index. God's own clothing of Adam and Eve (3:21) is the precedent. The curse on Canaan that follows (9:24-27) is not indexed; see the coverage note.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c15.html">C15</a>
+<a class="tag" href="c14.html">C14</a>
+<a class="tag" href="a1.html">PR17</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Genesis 11:1-9</p>
+<h2 class="entry-name">Let's make ourselves a name</h2>
+<div class="passage">
+<p><span class="vn">1</span>The whole earth was of one language and of one speech.</p>
+<p><span class="vn">2</span>It happened, as they traveled east, that they found a plain in the land of Shinar, and they lived there.</p>
+<p><span class="vn">3</span>They said one to another, “Come, let’s make bricks, and burn them thoroughly.” They had brick for stone, and they used tar for mortar.</p>
+<p><span class="vn">4</span>They said, “Come, let’s build ourselves a city, and a tower whose top reaches to the sky, and let’s make ourselves a name, lest we be scattered abroad on the surface of the whole earth.”</p>
+<p><span class="vn">5</span>Yahweh came down to see the city and the tower, which the children of men built.</p>
+<p><span class="vn">6</span>Yahweh said, “Behold, they are one people, and they have all one language, and this is what they begin to do. Now nothing will be withheld from them, which they intend to do.</p>
+<p><span class="vn">7</span>Come, let’s go down, and there confuse their language, that they may not understand one another’s speech.”</p>
+<p><span class="vn">8</span>So Yahweh scattered them abroad from there on the surface of all the earth. They stopped building the city.</p>
+<p><span class="vn">9</span>Therefore its name was called Babel, because there Yahweh confused the language of all the earth. From there, Yahweh scattered them abroad on the surface of all the earth.</p>
+</div>
+<p class="conn">The builders' motive is stated in their own words: 'let's build ourselves a city, and a tower whose top reaches to the sky, and let's make ourselves a name, lest we be scattered.' Achievement aimed at reputation, and security sought in a monument. The Hidden Life is the practice against exactly this — the reach for the audience, the energy spent on being perceived — and the tower is its absence at the scale of a civilisation, with its cost: the work is stopped and the builders scattered. C18's detachment is the other half: the tower is built to hold on. Confidence is medium; the passage is about collective ambition, and the practice is personal.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c23.html">C23</a>
+<a class="tag" href="c18.html">C18</a>
+<a class="tag" href="a1.html">PR13</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+</div>
+</article>
+<nav class="docnav">
+<p class="rule-orn orn"><span>✦</span></p>
+<p class="nav-hub"><a href="scripture.html">All indexed books</a> · <a href="index.html">Table of contents</a></p>
+</nav>
+</main></body></html>

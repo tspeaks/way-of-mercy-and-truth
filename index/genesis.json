@@ -1,0 +1,350 @@
+{
+  "book": "Genesis",
+  "translation": "World English Bible (public domain)",
+  "status": "in progress — chapters 1-11 (the primeval history) indexed; chapters 12-25, 25-36, and 37-50 pending",
+  "method_version": "2.3",
+  "text_source": "index/text/genesis.json",
+  "note": "Indexed in sections along the book's own seams: the primeval history (1-11), Abraham (12-25:18), Jacob (25:19-36), and Joseph (37-50). The indexing order named chapter 18 the classic PR20 text and expected C14 and C01; chapter 18 falls in the second section.",
+  "sectioning_note": "As with Jeremiah and Deuteronomy, the status field names what is done.",
+  "coverage_note": "Chapters 1-11, unindexed: the sons of God and the Nephilim (6:1-4), which the index does not interpret; the genealogies of chapter 5 (except Enoch, 5:21-24), chapter 10, and 11:10-32; and the curse on Canaan (9:24-27). The last is left out deliberately. It was used for centuries to justify the enslavement of Africans, on a reading the text does not support — Canaan, not Ham, is cursed, and the Canaanites are not African — and the index will not place a formation tag on a passage with that history without saying so. The entry at 9:20-23 stops before it. Also left out: the birth of Seth and the first calling on the name (4:25-26), and the end of Noah's life (9:28-29).",
+  "entries": [
+    {
+      "ref": "Genesis 1:1-2:3",
+      "pericope": "God saw everything that he had made, and, behold, it was very good",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C01",
+        "C24",
+        "C28"
+      ],
+      "practices": [],
+      "connection": "The world is ordered by a word, divided and named, and pronounced good seven times — 'very good' at the end. C01's claim that reality has a grain begins here: the order is not imposed on a neutral world but is the world. The scale and the refrain are the landscape C24 asks the reader to stand before in wonder. And the unit of the whole account is the day — 'there was evening and there was morning' — ending in a day of rest made holy, which is C28's unit of formation from the first page of scripture.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 2:4-17",
+      "pericope": "To dress it and to keep it",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C01"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The man is formed from dust and given breath, and his first assignment is work: put into the garden 'to dress it and to keep it.' Work belongs to the world before anything went wrong, which is the ground of C13's ordinary faithfulness — the daily task is not a punishment to be escaped into spirituality. The single prohibition sets the moral order of C01 in its simplest form: freedom everywhere, and one limit.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 2:18-25",
+      "pericope": "It is not good that the man should be alone",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [],
+      "connection": "The first thing in creation pronounced not good is solitude. The answer is a companion who is 'bone of my bones,' and the passage closes on a household — leaving father and mother, one flesh, naked and not ashamed. C14 begins from the same conviction: the household is not a distraction from formation but one of its primary places.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 3:1-7",
+      "pericope": "Has God really said?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C21"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "counter-example",
+      "connection": "The failure arrives as a question, and the damage is done in the conversation that follows. She engages the thought, amends the command in reply, listens to the counter-claim — and then the sequence: she saw that it was good for food, a delight to the eyes, desired to make one wise; she took, ate, gave. Watchfulness holds that destructive thoughts do their damage 'during the hospitality, not the arrival,' and this is the hospitality narrated step by step. The progression from perception through desire to act is the anatomy of a failure that C21 teaches Cassian's way, given here in a single verse (3:6).",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 3:8-13",
+      "pericope": "The woman whom you gave to be with me, she gave me of the tree",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C19"
+      ],
+      "practices": [
+        "PR03"
+      ],
+      "mode": "counter-example",
+      "connection": "Asked a direct question, the man blames the woman and, in the same breath, the God who gave her; the woman blames the serpent. Neither looks at their own portion. Self-Accusation asks, in any friction, what is my portion here, before assigning anyone else's — and asks 'how fast is my blaming reflex?' This is the reflex at its origin, two sentences after the first sin. C22 teaches the practice; the question that precedes the blaming — 'Where are you?' — is God seeking rather than prosecuting, which is C19's shepherd.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 3:14-24",
+      "pericope": "Yahweh God made coats of skins for Adam and for his wife, and clothed them",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C01"
+      ],
+      "practices": [],
+      "connection": "The consequences are pronounced in full — pain, toil, thorns, dust — and the moral order of C01 does not bend. Then, before the expulsion, a single act of care: God makes them clothing and dresses them himself. The fig leaves were their own covering for their shame; the coats are his. C19's door is open even on the day the garden closes.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 4:1-8",
+      "pericope": "Sin crouches at the door. Its desire is for you, but you are to rule over it",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C21"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "counter-example",
+      "connection": "God speaks to Cain at the exact moment Watchfulness is for: the anger has arrived and the face has fallen, but nothing has been done. 'Why are you angry?… sin crouches at the door. Its desire is for you, but you are to rule over it.' The image is of something waiting at the gate, not yet inside, and the instruction is to master it there. Cain does not, and the next verse is a murder. The practice and its absence in two sentences, with the interior cause — anger at a brother's acceptance — traced by God before it is acted on, which is C21's diagnosis.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 4:9-16",
+      "pericope": "Am I my brother's keeper?",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "'I don't know. Am I my brother's keeper?' — a lie and a denial of responsibility in one answer, the opposite of the honest naming C04's audit asks for. The judgment is real: the blood cries from the ground, and Cain is driven out. And yet when Cain says the punishment is more than he can bear, God marks him so that no one will kill him. Mercy set as a limit around the guilty, which is C19's door kept ajar even for a murderer.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 4:19-24",
+      "pericope": "If Cain will be avenged seven times, truly Lamech seventy-seven times",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C03",
+        "C27"
+      ],
+      "practices": [
+        "PR06"
+      ],
+      "mode": "counter-example",
+      "connection": "Lamech's song boasts of killing a young man for a wound and multiplies vengeance past what God had set: seven times for Cain, seventy-seven for Lamech. Retaliation escalating as a matter of pride. Non-Retaliation is the refusal to return evil for evil, and this is its absence celebrated in verse. The number returns in Matthew 18:22, where forgiveness is commanded to seventy times seven — the same arithmetic turned the other way, which is the move C03 and C27 both make.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 5:21-24",
+      "pericope": "Enoch walked with God, and he was not, for God took him",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C11",
+        "C23"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "In a genealogy where every other entry ends 'then he died,' one man 'walked with God' — said twice — 'and he was not, for God took him.' Nothing else is recorded of him. A life described entirely by companionship with God is C11's remaining, and a life whose only record is that companionship is C23's hidden life.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 6:5-8",
+      "pericope": "It grieved him in his heart",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C21",
+        "C27"
+      ],
+      "practices": [],
+      "connection": "The diagnosis reaches the root: 'every imagination of the thoughts of his heart was only evil continually' — not the acts but the imagination producing them, which is where C21 looks. And God's response to it is grief before it is judgment: 'Yahweh was sorry that he had made man… and it grieved him in his heart.' C27's measure of the mature heart is that it cannot delight in another's condemnation; the first thing said of God's heart in scripture is that it grieved.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 6:9-7:24",
+      "pericope": "Thus Noah did. According to all that God commanded him, so he did",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Noah is righteous, blameless in his generation, and 'walked with God,' and what that looks like is construction: a ship to exact dimensions, provisions gathered, animals brought in. 'Thus Noah did. According to all that God commanded him, so he did' — said twice. Faithfulness as a long, practical, unspectacular job carried out to specification in a hostile world, which is C13's.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 8:1-19",
+      "pericope": "He stayed yet another seven days",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'God remembered Noah' — the turn of the story is God's memory. Then a long waiting, told in detail: the raven, the dove that finds no rest, seven days, the dove with the olive leaf, seven days more, the dove that does not return. Noah does not leave the ship until he is told. C25's patience with a process that cannot be hurried and can only be checked, step by step. PR14 shares the patience but is defined as the patience of growth, and the waiting here is for the waters, so it is not tagged.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 8:20-9:17",
+      "pericope": "I will not again curse the ground any more for man's sake, because the imagination of man's heart is evil",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C27",
+        "C01"
+      ],
+      "practices": [],
+      "connection": "The reason given for never repeating the flood is the same as the reason given for sending it: the imagination of man's heart is evil from youth. Mercy grounded in realism rather than in improvement, which is C19's door. The covenant that follows is made 'with every living creature' — the widest circle in the Old Testament, C27's — and the life of every human is protected 'for God made man in his own image,' the ground of C01's moral order. Seedtime and harvest, day and night, 'shall not cease.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 9:20-23",
+      "pericope": "They went in backwards, and covered the nakedness of their father",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C14"
+      ],
+      "practices": [
+        "PR17"
+      ],
+      "mode": "exemplifies",
+      "connection": "Noah is drunk and uncovered in his tent. Ham sees, and goes out and tells his brothers. Shem and Japheth take a garment on their shoulders, walk in backwards, cover their father, and keep their faces turned away so that they do not see. Covering Weakness is the refusal to expose someone whose failure would shame them, absorbing the inconvenience oneself to protect their dignity. Here it is enacted with its counter-example in the same scene: one son exposes, two cover, and the covering is done so as not even to look. The strongest narrative anchor for PR17 in the index. God's own clothing of Adam and Eve (3:21) is the precedent. The curse on Canaan that follows (9:24-27) is not indexed; see the coverage note.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 11:1-9",
+      "pericope": "Let's make ourselves a name",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C18"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "counter-example",
+      "connection": "The builders' motive is stated in their own words: 'let's build ourselves a city, and a tower whose top reaches to the sky, and let's make ourselves a name, lest we be scattered.' Achievement aimed at reputation, and security sought in a monument. The Hidden Life is the practice against exactly this — the reach for the audience, the energy spent on being perceived — and the tower is its absence at the scale of a civilisation, with its cost: the work is stopped and the builders scattered. C18's detachment is the other half: the tower is built to hold on. Confidence is medium; the passage is about collective ambition, and the practice is personal.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

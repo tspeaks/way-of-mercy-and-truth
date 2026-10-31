@@ -1,7 +1,7 @@
 {
   "book": "2 Corinthians",
   "translation": "World English Bible (public domain)",
-  "status": "complete — 255 of 257 verses; the greeting (1:1-2) is unindexed; awaiting second-pass review",
+  "status": "complete — 249 of 257 verses; the greeting (1:1-2) and the Troas interlude (2:12-17) are unindexed; awaiting second-pass review",
   "method_version": "2.3",
   "text_source": "index/text/2-corinthians.json",
   "note": "Paul's most personal letter, written to a church that had wounded him and was suspicious of him, after a painful visit and a letter written with tears. Two entries carry prior citations — 3:3 and 3:18, which the Scriptural Appendix cites for C26 — and serve as the calibration set.",

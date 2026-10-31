@@ -1,6 +1,6 @@
 # 2 Corinthians — review package
 
-Scripture: World English Bible (public domain). Index status: complete — 255 of 257 verses; the greeting (1:1-2) is unindexed; awaiting second-pass review. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: complete — 249 of 257 verses; the greeting (1:1-2) and the Troas interlude (2:12-17) are unindexed; awaiting second-pass review. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 

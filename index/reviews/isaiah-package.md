@@ -1,12 +1,12 @@
 # Isaiah — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — chapters 1-39 indexed (13-27 selectively); 40-55 and 56-66 pending. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: in progress — chapters 1-55 indexed (13-27 selectively); 56-66 pending. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
 **Note.** Indexed in sections along the book's standard seams: the oracles concerning Judah and Jerusalem (1-12), the oracles against the nations and the Isaiah apocalypse (13-27), the woes and the Hezekiah narratives (28-39), the Book of Comfort (40-55), and the closing chapters (56-66). The Scriptural Appendix cites Isaiah 5 for C11 and 56:1-7 for C27 and Shedding Harshness; the indexing order expected C03 and C27.
 
-**Coverage note.** Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16. Chapters 13-27 are indexed selectively, as Jeremiah 46-51 was: the oracles against Babylon, Assyria, Philistia, Moab, Damascus, Cush, Egypt, Dumah, Arabia, and Tyre (13, 14:1-2 and 14:22-32, 15, 16:12-14, 17, 18, 19:1-15, 20, 21:1-5 and 21:16-17, 23:1-14) anchor nothing in personal formation on a plain reading, and allegory was declined. Within them the index carries what does anchor: Moab's refugees and the prophet's tears for Moab, Egypt and Assyria named God's people, the bread brought to fugitives in Arabia, and Tyre's wages turned from storage to provision. Chapters 28-39, unindexed: the woe on Ariel's siege (29:1-8), the oracle on the animals of the Negev (30:6-7) and the theophany against Assyria (30:27-33), the woe on reliance on Egypt (31), which repeats 30:1-17, the first half of chapter 33, and the judgment on Edom (34).
+**Coverage note.** Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16. Chapters 13-27 are indexed selectively, as Jeremiah 46-51 was: the oracles against Babylon, Assyria, Philistia, Moab, Damascus, Cush, Egypt, Dumah, Arabia, and Tyre (13, 14:1-2 and 14:22-32, 15, 16:12-14, 17, 18, 19:1-15, 20, 21:1-5 and 21:16-17, 23:1-14) anchor nothing in personal formation on a plain reading, and allegory was declined. Within them the index carries what does anchor: Moab's refugees and the prophet's tears for Moab, Egypt and Assyria named God's people, the bread brought to fugitives in Arabia, and Tyre's wages turned from storage to provision. Chapters 28-39, unindexed: the woe on Ariel's siege (29:1-8), the oracle on the animals of the Negev (30:6-7) and the theophany against Assyria (30:27-33), the woe on reliance on Egypt (31), which repeats 30:1-17, the first half of chapter 33, and the judgment on Edom (34). Chapters 40-55, unindexed: the trial of the nations and the raising of Cyrus (41:1-7 and 41:21-29), the battle-hymn of 42:10-17, the oracle of 44:24-28, and the oppressors' end in 49:22-26.
 
 **Sectioning note.** As with Jeremiah, the status field names what is done.
 
@@ -943,6 +943,483 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** Flattered by envoys from Babylon, Hezekiah shows them everything — 'the silver, and the gold, the spices… all the house of his armor… There was nothing in his house… that Hezekiah didn't show them.' The reach for an admiring audience, which is what the Hidden Life is practised against (medium, as with Babel and Shebna). And when told that all of it will be carried off and his own descendants made eunuchs in Babylon, his answer is relief: 'there will be peace and truth in my days.' C18's attachment to treasure, and C14's household failed at the point where it reaches beyond one's own lifetime.
 
 **Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility, truth · stages: S4 · chapters: C18, C14 · practices: PR13 · confidence: medium
+
+---
+
+## 44. Isaiah 40:1-11 — Comfort, comfort my people… He will feed his flock like a shepherd
+
+> **40:1** “Comfort, comfort my people,” says your God.
+> **40:2** “Speak comfortably to Jerusalem; and call out to her that her warfare is accomplished, that her iniquity is pardoned, that she has received of Yahweh’s hand double for all her sins.”
+> **40:3** The voice of one who calls out, “Prepare the way of Yahweh in the wilderness! Make a level highway in the desert for our God.
+> **40:4** Every valley shall be exalted, and every mountain and hill shall be made low. The uneven shall be made level, and the rough places a plain.
+> **40:5** The glory of Yahweh shall be revealed, and all flesh shall see it together; for the mouth of Yahweh has spoken it.”
+> **40:6** The voice of one saying, “Cry!” One said, “What shall I cry?” “All flesh is like grass, and all its glory is like the flower of the field.
+> **40:7** The grass withers, the flower fades, because Yahweh’s breath blows on it. Surely the people are like grass.
+> **40:8** The grass withers, the flower fades; but the word of our God stands forever.”
+> **40:9** You who tell good news to Zion, go up on a high mountain. You who tell good news to Jerusalem, lift up your voice with strength. Lift it up. Don’t be afraid. Say to the cities of Judah, “Behold, your God!”
+> **40:10** Behold, the Lord Yahweh will come as a mighty one, and his arm will rule for him. Behold, his reward is with him, and his recompense before him.
+> **40:11** He will feed his flock like a shepherd. He will gather the lambs in his arm, and carry them in his bosom. He will gently lead those who have their young.
+
+**Claim.** The Book of Comfort opens on its own title: 'Comfort, comfort my people… Speak comfortably to Jerusalem… her iniquity is pardoned.' The voice in the wilderness, the road made level, and the contrast 1 Peter 1:24 quotes: 'The grass withers, the flower fades; but the word of our God stands forever' — C18's transience set against what remains. And the image of God that C19 opens with: 'He will feed his flock like a shepherd. He will gather the lambs in his arm, and carry them in his bosom. He will gently lead those who have their young.'
+
+**Tags.** pillars: mercy · stages: S4, S5 · chapters: C19, C18 · practices: none · confidence: high
+
+---
+
+## 45. Isaiah 40:12-31 — His understanding is unsearchable… those who wait for Yahweh will renew their strength
+
+> **40:12** Who has measured the waters in the hollow of his hand, and marked off the sky with his span, and calculated the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?
+> **40:13** Who has directed the Spirit of Yahweh, or has taught him as his counselor?
+> **40:14** Who did he take counsel with, and who instructed him, and taught him in the path of justice, and taught him knowledge, and showed him the way of understanding?
+> **40:15** Behold, the nations are like a drop in a bucket, and are regarded as a speck of dust on a balance. Behold, he lifts up the islands like a very little thing.
+> **40:16** Lebanon is not sufficient to burn, nor its animals sufficient for a burnt offering.
+> **40:17** All the nations are like nothing before him. They are regarded by him as less than nothing, and vanity.
+> **40:18** To whom then will you liken God? Or what likeness will you compare to him?
+> **40:19** A workman has cast an image, and the goldsmith overlays it with gold, and casts silver chains for it.
+> **40:20** He who is too impoverished for such an offering chooses a tree that will not rot. He seeks a skillful workman to set up an engraved image for him that will not be moved.
+> **40:21** Haven’t you known? Haven’t you heard, yet? Haven’t you been told from the beginning? Haven’t you understood from the foundations of the earth?
+> **40:22** It is he who sits above the circle of the earth, and its inhabitants are like grasshoppers; who stretches out the heavens like a curtain, and spreads them out like a tent to dwell in;
+> **40:23** who brings princes to nothing; who makes the judges of the earth like meaningless.
+> **40:24** They are planted scarcely. They are sown scarcely. Their stock has scarcely taken root in the ground. He merely blows on them, and they wither, and the whirlwind takes them away as stubble.
+> **40:25** “To whom then will you liken me? Who is my equal?” says the Holy One.
+> **40:26** Lift up your eyes on high, and see who has created these, who brings out their army by number. He calls them all by name. by the greatness of his might, and because he is strong in power, Not one is lacking.
+> **40:27** Why do you say, Jacob, and speak, Israel, “My way is hidden from Yahweh, and the justice due me is disregarded by my God?”
+> **40:28** Haven’t you known? Haven’t you heard? The everlasting God, Yahweh, The Creator of the ends of the earth, doesn’t faint. He isn’t weary. His understanding is unsearchable.
+> **40:29** He gives power to the weak. He increases the strength of him who has no might.
+> **40:30** Even the youths faint and get weary, and the young men utterly fall;
+> **40:31** But those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint.
+
+**Claim.** 'Who has measured the waters in the hollow of his hand?… Who has directed the Spirit of Yahweh, or has taught him as his counselor?' The nations a drop in a bucket, the inhabitants of the earth like grasshoppers, the stars called each by name. Then the complaint answered — 'Why do you say, Jacob… My way is hidden from Yahweh?' — with the Discipline of Unknowing's ground: 'His understanding is unsearchable.' What follows is strength for the long road, C25's: 'those who wait for Yahweh will renew their strength… They will run, and not be weary. They will walk, and not faint' — the last and least dramatic of the three, and the one that lasts.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S6 · chapters: C24, C25 · practices: PR04 · confidence: high
+
+---
+
+## 46. Isaiah 41:8-20 — Don't you be afraid, for I am with you… The poor and needy seek water, and there is none
+
+> **41:8** “But you, Israel, my servant, Jacob whom I have chosen, the seed of Abraham my friend,
+> **41:9** You whom I have taken hold of from the ends of the earth, and called from its corners, and said to you, ‘You are my servant, I have chosen you and not cast you away;’
+> **41:10** Don’t you be afraid, for I am with you. Don’t be dismayed, for I am your God. I will strengthen you. Yes, I will help you. Yes, I will uphold you with the right hand of my righteousness.
+> **41:11** Behold, all those who are incensed against you will be disappointed and confounded. Those who strive with you will be like nothing, and shall perish.
+> **41:12** You will seek them, and won’t find them, even those who contend with you. Those who war against you will be as nothing, as a non-existent thing.
+> **41:13** For I, Yahweh your God, will hold your right hand, saying to you, ‘Don’t be afraid. I will help you.’
+> **41:14** Don’t be afraid, you worm Jacob, and you men of Israel. I will help you,” says Yahweh, “and your Redeemer is the Holy One of Israel.
+> **41:15** Behold, I have made you into a new sharp threshing instrument with teeth. You will thresh the mountains, and beat them small, and will make the hills like chaff.
+> **41:16** You will winnow them, and the wind will carry them away, and the whirlwind will scatter them. You will rejoice in Yahweh. You will glory in the Holy One of Israel.
+> **41:17** The poor and needy seek water, and there is none. Their tongue fails for thirst. I, Yahweh, will answer them. I, the God of Israel, will not forsake them.
+> **41:18** I will open rivers on the bare heights, and springs in the midst of the valleys. I will make the wilderness a pool of water, and the dry land springs of water.
+> **41:19** I will put cedar, acacia, myrtle, and oil trees in the wilderness. I will set fir trees, pine, and box trees together in the desert;
+> **41:20** that they may see, know, consider, and understand together, that the hand of Yahweh has done this, and the Holy One of Israel has created it.
+
+**Claim.** 'Don't you be afraid, for I am with you. Don't be dismayed, for I am your God… I will uphold you with the right hand of my righteousness.' Addressed to 'you worm Jacob,' the small and despised. And then the needy specifically: 'The poor and needy seek water, and there is none. Their tongue fails for thirst. I, Yahweh, will answer them.' C19's presence in fear, and C16's poor as the first to be answered.
+
+**Tags.** pillars: mercy · stages: S4, S5 · chapters: C19, C16 · practices: none · confidence: medium
+
+---
+
+## 47. Isaiah 42:1-9 — He won't break a bruised reed. He won't quench a dimly burning wick
+
+> **42:1** “Behold, my servant, whom I uphold; my chosen, in whom my soul delights—I have put my Spirit on him. He will bring justice to the nations.
+> **42:2** He will not shout, nor raise his voice, nor cause it to be heard in the street.
+> **42:3** He won’t break a bruised reed. He won’t quench a dimly burning wick. He will faithfully bring justice.
+> **42:4** He will not fail nor be discouraged, until he has set justice in the earth, and the islands will wait for his law.”
+> **42:5** Thus says God Yahweh, he who created the heavens and stretched them out, he who spread out the earth and that which comes out of it, he who gives breath to its people and spirit to those who walk in it.
+> **42:6** “I, Yahweh, have called you in righteousness, and will hold your hand, and will keep you, and make you a covenant for the people, as a light for the nations;
+> **42:7** to open the blind eyes, to bring the prisoners out of the dungeon, and those who sit in darkness out of the prison.
+> **42:8** “I am Yahweh. That is my name. I will not give my glory to another, nor my praise to engraved images.
+> **42:9** Behold, the former things have happened, and I declare new things. I tell you about them before they come up.”
+
+**Claim.** The first Servant Song. The servant brings justice to the nations without noise — 'He will not shout, nor raise his voice, nor cause it to be heard in the street' — which is C23's hidden manner. And his strength is gentleness with what is almost finished: 'He won't break a bruised reed. He won't quench a dimly burning wick.' C27's mature mercy as the refusal to finish off the fragile. Matthew 12:18-21 applies it to Christ. 'To open the blind eyes, to bring the prisoners out of the dungeon.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S6, S7 · chapters: C27, C23 · practices: none · confidence: high
+
+---
+
+## 48. Isaiah 42:18-25 — You see many things, but don't observe. His ears are open, but he doesn't listen
+
+> **42:18** “Hear, you deaf, and look, you blind, that you may see.
+> **42:19** Who is blind, but my servant? Or who is as deaf as my messenger whom I send? Who is as blind as he who is at peace, and as blind as Yahweh’s servant?
+> **42:20** You see many things, but don’t observe. His ears are open, but he doesn’t listen.
+> **42:21** It pleased Yahweh, for his righteousness’ sake, to magnify the law, and make it honorable.
+> **42:22** But this is a robbed and plundered people. All of them are snared in holes, and they are hidden in prisons. They have become a prey, and no one delivers; and a spoil, and no one says, ‘Restore them!’
+> **42:23** Who is there among you who will give ear to this? Who will listen and hear for the time to come?
+> **42:24** Who gave Jacob as plunder, and Israel to the robbers? Didn’t Yahweh, he against whom we have sinned? For they would not walk in his ways, and they disobeyed his law.
+> **42:25** Therefore he poured the fierceness of his anger on him, and the strength of battle; and it set him on fire all around, but he didn’t know; and it burned him, but he didn’t take it to heart.”
+
+**Claim.** 'Who is blind, but my servant?… You see many things, but don't observe. His ears are open, but he doesn't listen.' Sight and hearing intact and attention absent, which is C07's diagnosis. The judgment fell, and 'it burned him, but he didn't take it to heart' — the failure to trace a consequence back to its cause that C21 exists to correct.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S2, S5 · chapters: C07, C21 · practices: none · confidence: medium
+
+---
+
+## 49. Isaiah 43:1-7 — I have called you by your name. You are mine. When you pass through the waters, I will be with you
+
+> **43:1** But now thus says Yahweh who created you, Jacob, and he who formed you, Israel: “Don’t be afraid, for I have redeemed you. I have called you by your name. You are mine.
+> **43:2** When you pass through the waters, I will be with you; and through the rivers, they will not overflow you. When you walk through the fire, you will not be burned, and flame will not scorch you.
+> **43:3** For I am Yahweh your God, the Holy One of Israel, your Savior. I have given Egypt as your ransom, Ethiopia and Seba in your place.
+> **43:4** Since you have been precious and honored in my sight, and I have loved you; therefore I will give people in your place, and nations instead of your life.
+> **43:5** Don’t be afraid; for I am with you. I will bring your seed from the east, and gather you from the west.
+> **43:6** I will tell the north, ‘Give them up!’ and tell the south, ‘Don’t hold them back! Bring my sons from far, and my daughters from the ends of the earth—
+> **43:7** everyone who is called by my name, and whom I have created for my glory, whom I have formed, yes, whom I have made.’”
+
+**Claim.** 'Don't be afraid, for I have redeemed you. I have called you by your name. You are mine. When you pass through the waters, I will be with you… When you walk through the fire, you will not be burned.' Not exemption from the waters and the fire but company in them — C19's presence and C22's quieted fear. 'You have been precious and honored in my sight, and I have loved you.'
+
+**Tags.** pillars: mercy · stages: S5 · chapters: C19, C22 · practices: none · confidence: high
+
+---
+
+## 50. Isaiah 43:8-28 — I, even I, am he who blots out your transgressions for my own sake; and I will not remember your sins
+
+> **43:8** Bring out the blind people who have eyes, and the deaf who have ears.
+> **43:9** Let all the nations be gathered together, and let the peoples be assembled. Who among them can declare this, and show us former things? Let them bring their witnesses, that they may be justified; or let them hear, and say, “That is true.”
+> **43:10** “You are my witnesses,” says Yahweh, “With my servant whom I have chosen; that you may know and believe me, and understand that I am he. Before me there was no God formed, neither will there be after me.
+> **43:11** I myself am Yahweh; and besides me there is no savior.
+> **43:12** I have declared, I have saved, and I have shown; and there was no strange god among you. Therefore you are my witnesses,” says Yahweh, “and I am God.
+> **43:13** Yes, since the day was I am he; and there is no one who can deliver out of my hand. I will work, and who can hinder it?”
+> **43:14** Thus says Yahweh, your Redeemer, the Holy One of Israel: “For your sake, I have sent to Babylon, and I will bring all of them down as fugitives, even the Chaldeans, in the ships of their rejoicing.
+> **43:15** I am Yahweh, your Holy One, the Creator of Israel, your King.”
+> **43:16** Thus says Yahweh, who makes a way in the sea, and a path in the mighty waters;
+> **43:17** who brings forth the chariot and horse, the army and the mighty man (they lie down together, they shall not rise; they are extinct, they are quenched like a wick):
+> **43:18** “Don’t remember the former things, and don’t consider the things of old.
+> **43:19** Behold, I will do a new thing. It springs forth now. Don’t you know it? I will even make a way in the wilderness, and rivers in the desert.
+> **43:20** The animals of the field shall honor me, the jackals and the ostriches; because I give water in the wilderness and rivers in the desert, to give drink to my people, my chosen,
+> **43:21** the people which I formed for myself, that they might set forth my praise.
+> **43:22** Yet you have not called on me, Jacob; but you have been weary of me, Israel.
+> **43:23** You have not brought me of your sheep for burnt offerings; neither have you honored me with your sacrifices. I have not burdened you with offerings, nor wearied you with frankincense.
+> **43:24** You have bought me no sweet cane with money, nor have you filled me with the fat of your sacrifices; but you have burdened me with your sins. You have wearied me with your iniquities.
+> **43:25** I, even I, am he who blots out your transgressions for my own sake; and I will not remember your sins.
+> **43:26** Put me in remembrance. Let us plead together. Set forth your case, that you may be justified.
+> **43:27** Your first father sinned, and your teachers have transgressed against me.
+> **43:28** Therefore I will profane the princes of the sanctuary; and I will make Jacob a curse, and Israel an insult.”
+
+**Claim.** 'Don't remember the former things… Behold, I will do a new thing. It springs forth now. Don't you know it?' — C25's growth as something new springing up rather than the past repeated. Against the people's weariness and sins — 'you have burdened me with your sins. You have wearied me with your iniquities' — the line that defines the door of C19: 'I, even I, am he who blots out your transgressions for my own sake; and I will not remember your sins.'
+
+**Tags.** pillars: mercy, truth · stages: S5, S6 · chapters: C19, C25 · practices: none · confidence: high
+
+---
+
+## 51. Isaiah 44:9-20 — Isn't there a lie in my right hand?
+
+> **44:9** Everyone who makes an engraved image is vain. The things that they delight in will not profit. Their own witnesses don’t see, nor know, that they may be disappointed.
+> **44:10** Who has fashioned a god, or molds an image that is profitable for nothing?
+> **44:11** Behold, all his fellows will be disappointed; and the workmen are mere men. Let them all be gathered together. Let them stand up. They will fear. They will be put to shame together.
+> **44:12** The blacksmith takes an axe, works in the coals, fashions it with hammers, and works it with his strong arm. He is hungry, and his strength fails; he drinks no water, and is faint.
+> **44:13** The carpenter stretches out a line. He marks it out with a pencil. He shapes it with planes. He marks it out with compasses, and shapes it like the figure of a man, with the beauty of a man, to reside in a house.
+> **44:14** He cuts down cedars for himself, and takes the cypress and the oak, and strengthens for himself one among the trees of the forest. He plants a fir tree, and the rain nourishes it.
+> **44:15** Then it will be for a man to burn; and he takes some of it, and warms himself. Yes, he burns it, and bakes bread. Yes, he makes a god, and worships it; he makes it an engraved image, and falls down to it.
+> **44:16** He burns part of it in the fire. With part of it, he eats meat. He roasts a roast, and is satisfied. Yes, he warms himself, and says, “Aha! I am warm. I have seen the fire.”
+> **44:17** The rest of it he makes into a god, even his engraved image. He bows down to it and worships, and prays to it, and says, “Deliver me; for you are my god!”
+> **44:18** They don’t know, neither do they consider: for he has shut their eyes, that they can’t see; and their hearts, that they can’t understand.
+> **44:19** No one thinks, neither is there knowledge nor understanding to say, “I have burned part of it in the fire. Yes, I have also baked bread on its coals. I have roasted meat and eaten it. Shall I make the rest of it into an abomination? Shall I bow down to a tree trunk?”
+> **44:20** He feeds on ashes. A deceived heart has turned him aside; and he can’t deliver his soul, nor say, “Isn’t there a lie in my right hand?”
+
+**Claim.** The satire of the idol-maker: he cuts a tree, burns half to bake his bread and warm himself — 'Aha! I am warm' — and carves the other half into a god and prays to it, 'Deliver me; for you are my god!' 'No one thinks, neither is there knowledge nor understanding to say, I have burned part of it in the fire… Shall I bow down to a tree trunk?' The question that would free him is never asked: 'A deceived heart has turned him aside; and he can't deliver his soul, nor say, Isn't there a lie in my right hand?' Interior Diagnosis is that question, and this is a portrait of its absence. C07's blindness self-inflicted, and C21's self-deception.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, humility · stages: S2, S5 · chapters: C07, C21 · practices: PR02 · confidence: medium
+
+---
+
+## 52. Isaiah 44:21-23 — I have blotted out, as a thick cloud, your transgressions… Return to me, for I have redeemed you
+
+> **44:21** Remember these things, Jacob and Israel; for you are my servant. I have formed you. You are my servant. Israel, you will not be forgotten by me.
+> **44:22** I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins. Return to me, for I have redeemed you.
+> **44:23** Sing, you heavens, for Yahweh has done it! Shout, you lower parts of the earth! Break out into singing, you mountains, O forest, all of your trees, for Yahweh has redeemed Jacob, and will glorify himself in Israel.
+
+**Claim.** The order of the sentence matters: 'I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins. Return to me, for I have redeemed you.' Redemption first, return second — not 'return so that I may redeem you.' C19's door, open before anyone walks through it. The heavens and the forests are told to sing about it.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S5 · chapters: C19 · practices: none · confidence: high
+
+---
+
+## 53. Isaiah 45:1-25 — Most certainly you are a God who hides yourself… Look to me, and be saved, all the ends of the earth
+
+> **45:1** Thus says Yahweh to his anointed, to Cyrus, whose right hand I have held, to subdue nations before him, and strip kings of their armor; to open the doors before him, and the gates shall not be shut:
+> **45:2** “I will go before you, and make the rough places smooth. I will break the doors of brass in pieces, and cut apart the bars of iron.
+> **45:3** I will give you the treasures of darkness, and hidden riches of secret places, that you may know that it is I, Yahweh, who call you by your name, even the God of Israel.
+> **45:4** For Jacob my servant’s sake, and Israel my chosen, I have called you by your name. I have surnamed you, though you have not known me.
+> **45:5** I am Yahweh, and there is none else. Besides me, there is no God. I will strengthen you, though you have not known me;
+> **45:6** that they may know from the rising of the sun, and from the west, that there is none besides me. I am Yahweh, and there is no one else.
+> **45:7** I form the light, and create darkness. I make peace, and create calamity. I am Yahweh, who does all these things.
+> **45:8** Distil, you heavens, from above, and let the skies pour down righteousness. Let the earth open, that it may bring forth salvation, and let it cause righteousness to spring up with it. I, Yahweh, have created it.
+> **45:9** Woe to him who strives with his Maker—a clay pot among the clay pots of the earth! Shall the clay ask him who fashions it, ‘What are you making?’ or your work, ‘He has no hands?’
+> **45:10** Woe to him who says to a father, ‘What have you become the father of?’ or to a mother, ‘To what have you given birth?’”
+> **45:11** Thus says Yahweh, the Holy One of Israel, and his Maker: “You ask me about the things that are to come, concerning my sons, and you command me concerning the work of my hands!
+> **45:12** I have made the earth, and created man on it. I, even my hands, have stretched out the heavens; and I have commanded all their army.
+> **45:13** I have raised him up in righteousness, and I will make straight all his ways. He shall build my city, and he shall let my exiles go free, not for price nor reward,” says Yahweh of Armies.
+> **45:14** Thus says Yahweh: “The labor of Egypt, and the merchandise of Ethiopia, and the Sabeans, men of stature, shall come over to you, and they shall be yours. They will go after you. They shall come over in chains; and they will bow down to you. They will make supplication to you: ‘Surely God is in you; and there is none else. There is no other god.
+> **45:15** Most certainly you are a God who hidden yourself, God of Israel, the Savior.’”
+> **45:16** They will be disappointed, yes, confounded, all of them. Those who are makers of idols will go into confusion together.
+> **45:17** Israel will be saved by Yahweh with an everlasting salvation. You will not be disappointed nor confounded to ages everlasting.
+> **45:18** For thus says Yahweh who created the heavens, the God who formed the earth and made it, who established it and didn’t create it a waste, who formed it to be inhabited: “I am Yahweh; and there is no other.
+> **45:19** I have not spoken in secret, in a place of the land of darkness. I didn’t say to the seed of Jacob, ‘Seek me in vain.’ I, Yahweh, speak righteousness. I declare things that are right.
+> **45:20** “Assemble yourselves and come. Draw near together, you who have escaped from the nations. Those have no knowledge who carry the wood of their engraved image, and pray to a god that can’t save.
+> **45:21** Declare and present it. Yes, let them take counsel together. Who has shown this from ancient time? Who has declared it of old? Haven’t I, Yahweh? There is no other God besides me, a just God and a Savior; There is no one besides me.
+> **45:22** “Look to me, and be saved, all the ends of the earth; for I am God, and there is no other.
+> **45:23** I have sworn by myself, the word has gone out of my mouth in righteousness, and will not return, that to me every knee shall bow, every tongue shall take an oath.
+> **45:24** They will say of me, ‘There is righteousness and strength only in Yahweh.’” Even to him shall men come; and all those who were incensed against him shall be disappointed.
+> **45:25** In Yahweh shall all the seed of Israel be justified, and shall glory.
+
+**Claim.** God names a foreign king his anointed — 'though you have not known me' — and asserts a sovereignty beyond human categories: 'I form the light, and create darkness. I make peace, and create calamity.' 'Woe to him who strives with his Maker — a clay pot among the clay pots of the earth!' And the confession of the nations: 'Most certainly you are a God who hides yourself.' The Discipline of Unknowing at its sharpest — God hidden even in self-revelation — and C24's ground. Then the widest invitation in the Old Testament, C27's: 'Look to me, and be saved, all the ends of the earth… to me every knee shall bow' (the line Philippians 2:10 applies to Christ).
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, mercy · stages: S6, S7 · chapters: C24, C27 · practices: PR04 · confidence: medium
+
+---
+
+## 54. Isaiah 46:1-13 — Even to old age I am he, and even to gray hairs will I carry you
+
+> **46:1** Bel bows down, Nebo stoops; their idols are on the animals, and on the livestock: the things that you carried about are made a load, a burden to the weary.
+> **46:2** They stoop, they bow down together; they could not deliver the burden, but themselves have gone into captivity.
+> **46:3** “Listen to me, house of Jacob, and all the remnant of the house of Israel, that have been borne from their birth, that have been carried from the womb;
+> **46:4** and even to old age I am he, and even to gray hairs will I carry you. I have made, and I will bear; yes, I will carry, and will deliver.
+> **46:5** “To whom will you liken me, and make me equal, and compare me, that we may be like?
+> **46:6** Some pour out gold from the bag, and weigh silver in the balance. They hire a goldsmith, and he makes it a god. They fall down—yes, they worship.
+> **46:7** They bear it on the shoulder, they carry it, and set it in its place, and it stands, from its place it shall not move: yes, one may cry to it, yet it can not answer, nor save him out of his trouble.
+> **46:8** “Remember this, and show yourselves men; bring it again to mind, you transgressors.
+> **46:9** Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me;
+> **46:10** declaring the end from the beginning, and from ancient times things that are not yet done; saying, My counsel shall stand, and I will do all my pleasure;
+> **46:11** calling a ravenous bird from the east, the man of my counsel from a far country; yes, I have spoken, I will also bring it to pass; I have purposed, I will also do it.
+> **46:12** Listen to me, you stout-hearted, who are far from righteousness:
+> **46:13** I bring near my righteousness, it shall not be far off, and my salvation shall not wait; and I will place salvation in Zion for Israel my glory.
+
+**Claim.** The gods of Babylon are carried on the backs of animals, 'a burden to the weary,' and bow down with their idols into captivity. Israel's God reverses the direction: 'you that have been borne from your birth, that have been carried from the womb; and even to old age I am he, and even to gray hairs will I carry you. I have made, and I will bear.' C18's idols as burdens one must carry, and C19's God who carries.
+
+**Tags.** pillars: mercy, humility · stages: S4, S5 · chapters: C19, C18 · practices: none · confidence: medium
+
+---
+
+## 55. Isaiah 47:1-15 — You showed them no mercy; on the aged you have very heavily laid your yoke… I am, and there is none else besides me
+
+> **47:1** “Come down, and sit in the dust, virgin daughter of Babylon; sit on the ground without a throne, daughter of the Chaldeans: for you shall no more be called tender and delicate.
+> **47:2** Take the millstones, and grind meal; remove your veil, strip off the train, uncover the leg, pass through the rivers.
+> **47:3** Your nakedness shall be uncovered, yes, your shame shall be seen: I will take vengeance, and will spare no man.”
+> **47:4** Our Redeemer, Yahweh of Armies is his name, the Holy One of Israel.
+> **47:5** “Sit in silence, and go into darkness, daughter of the Chaldeans; for you shall no more be called the mistress of kingdoms.
+> **47:6** I was angry with my people, I profaned my inheritance, and gave them into your hand: you showed them no mercy; on the aged you have very heavily laid your yoke.
+> **47:7** You said, ‘I shall be a mistress forever;’ so that you did not lay these things to your heart, nor did you remember the latter end of it.
+> **47:8** “Now therefore hear this, you who are given to pleasures, who sit securely, who say in your heart, ‘I am, and there is none else besides me; I shall not sit as a widow, neither shall I know the loss of children:’
+> **47:9** but these two things shall come to you in a moment in one day, the loss of children, and widowhood; in their full measure shall they come on you, in the multitude of your sorceries, and the great abundance of your enchantments.
+> **47:10** For you have trusted in your wickedness; you have said, No one sees me; your wisdom and your knowledge, it has perverted you, and you have said in your heart, I am, and there is none else besides me.
+> **47:11** Therefore evil will come on you; you won’t know when it dawns: and mischief will fall on you; you will not be able to put it away: and desolation shall come on you suddenly, which you don’t know.
+> **47:12** “Stand now with your enchantments, and with the multitude of your sorceries, in which you have labored from your youth; if so be you shall be able to profit, if so be you may prevail.
+> **47:13** You are wearied in the multitude of your counsels: let now the astrologers, the stargazers, the monthly prognosticators, stand up, and save you from the things that shall come on you.
+> **47:14** Behold, they shall be as stubble; the fire shall burn them; they shall not deliver themselves from the power of the flame: it shall not be a coal to warm at, nor a fire to sit before.
+> **47:15** Thus shall the things be to you in which you have labored: those who have trafficked with you from your youth shall wander everyone to his quarter; there shall be none to save you.
+
+**Claim.** Babylon is brought down to sit in the dust, and the charge is specific: 'you showed them no mercy; on the aged you have very heavily laid your yoke.' Its pride is quoted twice — 'I shall be a mistress forever… I am, and there is none else besides me' — and its cleverness named as the cause: 'your wisdom and your knowledge, it has perverted you.' C22's pride and C16's power without mercy.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, humility · stages: S4, S5 · chapters: C22, C16 · practices: none · confidence: medium
+
+---
+
+## 56. Isaiah 48:1-22 — I have chosen you in the furnace of affliction… Oh that you had listened! Then your peace would have been like a river
+
+> **48:1** “Hear this, house of Jacob, you who are called by the name of Israel, and have come forth out of the waters of Judah; who swear by the name of Yahweh, and make mention of the God of Israel, but not in truth, nor in righteousness
+> **48:2** (for they call themselves of the holy city, and stay themselves on the God of Israel; Yahweh of Armies is his name):
+> **48:3** I have declared the former things from of old; yes, they went forth out of my mouth, and I showed them: suddenly I did them, and they happened.
+> **48:4** Because I knew that you are obstinate, and your neck is an iron sinew, and your brow brass;
+> **48:5** therefore I have declared it to you from of old; before it came to pass I showed it to you; lest you should say, ‘My idol has done them, and my engraved image, and my molten image, has commanded them.’
+> **48:6** You have heard it; see all this; and you, will you not declare it? “I have shown you new things from this time, even hidden things, which you have not known.
+> **48:7** They are created now, and not from of old; and before this day you didn’t hear them; lest you should say, ‘Behold, I knew them.’
+> **48:8** Yes, you didn’t hear; yes, you didn’t know; yes, from of old your ear was not opened: for I knew that you dealt very treacherously, and was called a transgressor from the womb.
+> **48:9** For my name’s sake will I defer my anger, and for my praise will I refrain for you, that I not cut you off.
+> **48:10** Behold, I have refined you, but not as silver; I have chosen you in the furnace of affliction.
+> **48:11** For my own sake, for my own sake, will I do it; for how should my name be profaned? I will not give my glory to another.
+> **48:12** “Listen to me, O Jacob, and Israel my called: I am he; I am the first, I also am the last.
+> **48:13** Yes, my hand has laid the foundation of the earth, and my right hand has spread out the heavens: when I call to them, they stand up together.
+> **48:14** “Assemble yourselves, all you, and hear; who among them has declared these things? He whom Yahweh loves shall perform his pleasure on Babylon, and his arm shall be on the Chaldeans.
+> **48:15** I, even I, have spoken; yes, I have called him; I have brought him, and he shall make his way prosperous.
+> **48:16** “Come near to me and hear this: “From the beginning I have not spoken in secret; from the time that it was, there am I.” Now the Lord Yahweh has sent me, with his Spirit.
+> **48:17** Thus says Yahweh, your Redeemer, the Holy One of Israel: I am Yahweh your God, who teaches you to profit, who leads you by the way that you should go.
+> **48:18** Oh that you had listened to my commandments! then your peace would have been like a river, and your righteousness like the waves of the sea:
+> **48:19** your seed also had been as the sand, and the offspring of your body like its grains: his name would not be cut off nor destroyed from before me.
+> **48:20** Go forth from Babylon, flee from the Chaldeans; with a voice of singing declare, tell this, utter it even to the end of the earth: say, Yahweh has redeemed his servant Jacob.
+> **48:21** They didn’t thirst when he led them through the deserts; he caused the waters to flow out of the rock for them; he split the rock also, and the waters gushed out.
+> **48:22** “There is no peace,” says Yahweh, “for the wicked.”
+
+**Claim.** A people who swear by God's name 'but not in truth, nor in righteousness,' told that their affliction was a furnace, not a rejection: 'Behold, I have refined you, but not as silver; I have chosen you in the furnace of affliction' — C25's refining. And the longing of God for what obedience would have given: 'Oh that you had listened to my commandments! then your peace would have been like a river, and your righteousness like the waves of the sea.' C01's grain — the way things are made to go — stated as a lament. 'There is no peace, says Yahweh, for the wicked.'
+
+**Tags.** pillars: truth, mercy · stages: S1, S6 · chapters: C25, C01 · practices: none · confidence: medium
+
+---
+
+## 57. Isaiah 49:1-13 — I have labored in vain, I have spent my strength for nothing… yet surely the justice due to me is with Yahweh
+
+> **49:1** Listen, islands, to me; and listen, you peoples, from far: Yahweh has called me from the womb; from the bowels of my mother has he made mention of my name:
+> **49:2** and he has made my mouth like a sharp sword; in the shadow of his hand, he has hidden me: and he has made me a polished shaft; in his quiver has he kept me close:
+> **49:3** and he said to me, “You are my servant; Israel, in whom I will be glorified.”
+> **49:4** But I said, “I have labored in vain, I have spent my strength for nothing and vanity; yet surely the justice due to me is with Yahweh, and my reward with my God.”
+> **49:5** Now says Yahweh who formed me from the womb to be his servant, to bring Jacob again to him, and that Israel be gathered to him (for I am honorable in the eyes of Yahweh, and my God has become my strength);
+> **49:6** yes, he says, “It is too light a thing that you should be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give you for a light to the nations, that you may be my salvation to the end of the earth.”
+> **49:7** Thus says Yahweh, the Redeemer of Israel, and his Holy One, to him whom man despises, to him whom the nation abhors, to a servant of rulers: “Kings shall see and arise; princes, and they shall worship; because of Yahweh who is faithful, even the Holy One of Israel, who has chosen you.”
+> **49:8** Thus says Yahweh, “In an acceptable time have I answered you, and in a day of salvation have I helped you; and I will preserve you, and give you for a covenant of the people, to raise up the land, to make them inherit the desolate heritage:
+> **49:9** saying to those who are bound, ‘Come out!’; to those who are in darkness, ‘Show yourselves!’ “They shall feed in the ways, and on all bare heights shall be their pasture.
+> **49:10** They shall not hunger nor thirst; neither shall the heat nor sun strike them: for he who has mercy on them will lead them, even by springs of water he will guide them.
+> **49:11** I will make all my mountains a way, and my highways shall be exalted.
+> **49:12** Behold, these shall come from far; and behold, these from the north and from the west; and these from the land of Sinim.”
+> **49:13** Sing, heavens; and be joyful, earth; and break forth into singing, mountains: for Yahweh has comforted his people, and will have compassion on his afflicted.
+
+**Claim.** The second Servant Song: a servant 'hidden' in the shadow of God's hand, kept close 'in his quiver.' And his honest assessment of his own work: 'I have labored in vain, I have spent my strength for nothing and vanity; yet surely the justice due to me is with Yahweh, and my reward with my God.' Faithfulness that sees no result and leaves the accounting to God is C23's hidden life. The answer enlarges the commission rather than explaining the failure: 'It is too light a thing… I will also give you for a light to the nations' — C27's circle.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S6, S7 · chapters: C23, C27 · practices: none · confidence: high
+
+---
+
+## 58. Isaiah 49:14-21 — Can a woman forget her nursing child?… I have engraved you on the palms of my hands
+
+> **49:14** But Zion said, “Yahweh has forsaken me, and the Lord has forgotten me.”
+> **49:15** “Can a woman forget her nursing child, that she should not have compassion on the son of her womb? Yes, these may forget, yet I will not forget you!
+> **49:16** Behold, I have engraved you on the palms of my hands; your walls are continually before me.
+> **49:17** Your children make haste; your destroyers and those who made you waste shall go forth from you.
+> **49:18** Lift up your eyes all around, and see: all these gather themselves together, and come to you. As I live,” says Yahweh, “you shall surely clothe yourself with them all as with an ornament, and dress yourself with them, like a bride.
+> **49:19** “For, as for your waste and your desolate places, and your land that has been destroyed, surely now you shall be too small for the inhabitants, and those who swallowed you up shall be far away.
+> **49:20** The children of your bereavement shall yet say in your ears, The place is too small for me; give place to me that I may dwell.
+> **49:21** Then you will say in your heart, ‘Who has conceived these for me, since I have been bereaved of my children, and am solitary, an exile, and wandering back and forth? Who has brought up these? Behold, I was left alone; these, where were they?’”
+
+**Claim.** 'But Zion said, Yahweh has forsaken me, and the Lord has forgotten me.' The complaint is one sentence, and the answer is one of the tenderest in scripture: 'Can a woman forget her nursing child, that she should not have compassion on the son of her womb? Yes, these may forget, yet I will not forget you! Behold, I have engraved you on the palms of my hands.' Sacred Lament answered rather than rebuked. C19's God who remembers.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S5 · chapters: C19 · practices: PR08 · confidence: medium
+
+---
+
+## 59. Isaiah 50:4-11 — That I may know how to sustain with words him who is weary… I gave my back to the strikers
+
+> **50:4** The Lord Yahweh has given me the tongue of those who are taught, that I may know how to sustain with words him who is weary: he wakens morning by morning, he wakens my ear to hear as those who are taught.
+> **50:5** The Lord Yahweh has opened my ear, and I was not rebellious, neither turned away backward.
+> **50:6** I gave my back to the strikers, and my cheeks to those who plucked off the hair; I didn’t hide my face from shame and spitting.
+> **50:7** For the Lord Yahweh will help me; therefore I have not been confounded: therefore have I set my face like a flint, and I know that I shall not be disappointed.
+> **50:8** He is near who justifies me; who will bring charges against me? Let us stand up together: who is my adversary? Let him come near to me.
+> **50:9** Behold, the Lord Yahweh will help me; who is he who shall condemn me? Behold, all they shall wax old as a garment, the moth shall eat them up.
+> **50:10** Who is among you who fears Yahweh, who obeys the voice of his servant? He who walks in darkness, and has no light, let him trust in the name of Yahweh, and rely on his God.
+> **50:11** Behold, all you who kindle a fire, who adorn yourselves with torches around yourselves; walk in the flame of your fire, and among the brands that you have kindled. You shall have this of my hand; you shall lie down in sorrow.
+
+**Claim.** The third Servant Song. 'The Lord Yahweh has given me the tongue of those who are taught, that I may know how to sustain with words him who is weary: he wakens morning by morning, he wakens my ear to hear as those who are taught.' Verbal Almsgiving in its most exact scriptural statement — a word given to the weary, and the listening that comes first, renewed every morning. Then the cost of the vocation, met without return: 'I gave my back to the strikers, and my cheeks to those who plucked off the hair; I didn't hide my face from shame and spitting.' Non-Retaliation, with its ground: 'the Lord Yahweh will help me… who is he who shall condemn me?' C03's hardest turn and C27's summit, in a single servant. 'He who walks in darkness, and has no light, let him trust in the name of Yahweh.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S1, S7 · chapters: C27, C03 · practices: PR21, PR06 · confidence: high
+
+---
+
+## 60. Isaiah 51:1-16 — Who are you, that you are afraid of man who shall die?
+
+> **51:1** “Listen to me, you who follow after righteousness, you who seek Yahweh: look to the rock you were cut from, and to the hold of the pit you were dug from.
+> **51:2** Look to Abraham your father, and to Sarah who bore you; for when he was but one I called him, and I blessed him, and made him many.
+> **51:3** For Yahweh has comforted Zion; he has comforted all her waste places, and has made her wilderness like Eden, and her desert like the garden of Yahweh; joy and gladness shall be found therein, thanksgiving, and the voice of melody.
+> **51:4** “Attend to me, my people; and give ear to me, my nation: for a law shall go forth from me, and I will establish my justice for a light of the peoples.
+> **51:5** My righteousness is near, my salvation is gone forth, and my arms shall judge the peoples; the islands shall wait for me, and on my arm shall they trust.
+> **51:6** Lift up your eyes to the heavens, and look on the earth beneath; for the heavens shall vanish away like smoke, and the earth shall wax old like a garment; and those who dwell therein shall die in the same way: but my salvation shall be forever, and my righteousness shall not be abolished.
+> **51:7** “Listen to me, you who know righteousness, the people in whose heart is my law; don’t fear the reproach of men, neither be dismayed at their insults.
+> **51:8** For the moth shall eat them up like a garment, and the worm shall eat them like wool; but my righteousness shall be forever, and my salvation to all generations.”
+> **51:9** Awake, awake, put on strength, arm of Yahweh; awake, as in the days of old, the generations of ancient times. Isn’t it you who cut Rahab in pieces, who pierced the monster?
+> **51:10** Isn’t it you who dried up the sea, the waters of the great deep; who made the depths of the sea a way for the redeemed to pass over?
+> **51:11** The ransomed of Yahweh shall return, and come with singing to Zion; and everlasting joy shall be on their heads. They shall obtain gladness and joy. Sorrow and sighing shall flee away.
+> **51:12** “I, even I, am he who comforts you: who are you, that you are afraid of man who shall die, and of the son of man who shall be made as grass;
+> **51:13** and have forgotten Yahweh your Maker, who stretched forth the heavens, and laid the foundations of the earth; and fear continually all the day because of the fury of the oppressor, when he makes ready to destroy? and where is the fury of the oppressor?
+> **51:14** The captive exile shall speedily be freed; and he shall not die and go down into the pit, neither shall his bread fail.
+> **51:15** For I am Yahweh your God, who stirs up the sea, so that its waves roar: Yahweh of Armies is his name.
+> **51:16** I have put my words in your mouth, and have covered you in the shadow of my hand, that I may plant the heavens, and lay the foundations of the earth, and tell Zion, ‘You are my people.’”
+
+**Claim.** 'Look to the rock you were cut from.' 'Don't fear the reproach of men, neither be dismayed at their insults' — C17's posture toward a hostile public. And the question that dissolves the fear: 'I, even I, am he who comforts you: who are you, that you are afraid of man who shall die, and of the son of man who shall be made as grass; and have forgotten Yahweh your Maker?' C22's quiet soul, grounded in an accurate sense of scale.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S4, S5 · chapters: C22, C17 · practices: none · confidence: medium
+
+---
+
+## 61. Isaiah 51:17-52:12 — How beautiful on the mountains are the feet of him who brings good news, who publishes peace
+
+> **51:17** Awake, awake, stand up, Jerusalem, that have drunk at the hand of Yahweh the cup of his wrath; you have drunken the bowl of the cup of staggering, and drained it.
+> **51:18** There is none to guide her among all the sons whom she has brought forth; neither is there any who takes her by the hand among all the sons who she has brought up.
+> **51:19** These two things have happened to you. Who will bemoan you? Desolation and destruction, and the famine and the sword; how shall I comfort you?
+> **51:20** Your sons have fainted, they lie at the head of all the streets, as an antelope in a net; they are full of the wrath of Yahweh, the rebuke of your God.
+> **51:21** Therefore hear now this, you afflicted, and drunken, but not with wine:
+> **51:22** Thus says your Lord Yahweh, and your God who pleads the cause of his people, “Behold, I have taken out of your hand the cup of staggering, even the bowl of the cup of my wrath; you shall no more drink it again:
+> **51:23** and I will put it into the hand of those who afflict you, who have said to your soul, ‘Bow down, that we may walk over you;’ and you have laid your back as the ground, and as the street, to those who walk over.”
+> **52:1** Awake, awake, put on your strength, Zion; put on your beautiful garments, Jerusalem, the holy city: for henceforth there shall no more come into you the uncircumcised and the unclean.
+> **52:2** Shake yourself from the dust! Arise, sit up, Jerusalem! Release yourself from the bonds of your neck, captive daughter of Zion!
+> **52:3** For thus says Yahweh, “You were sold for nothing; and you shall be redeemed without money.”
+> **52:4** For thus says the Lord Yahweh, “My people went down at the first into Egypt to live there: and the Assyrian has oppressed them without cause.
+> **52:5** “Now therefore, what do I do here,” says Yahweh, “seeing that my people are taken away for nothing? Those who rule over them mock,” says Yahweh, “and my name continually all the day is blasphemed.
+> **52:6** Therefore my people shall know my name. Therefore they shall know in that day that I am he who speaks; behold, it is I.”
+> **52:7** How beautiful on the mountains are the feet of him who brings good news, who publishes peace, who brings good news of good, who publishes salvation, who says to Zion, “Your God reigns!”
+> **52:8** The voice of your watchmen! they lift up the voice, together do they sing; for they shall see eye to eye, when Yahweh returns to Zion.
+> **52:9** Break forth into joy, sing together, you waste places of Jerusalem; for Yahweh has comforted his people, he has redeemed Jerusalem.
+> **52:10** Yahweh has made bare his holy arm in the eyes of all the nations; and all the ends of the earth have seen the salvation of our God.
+> **52:11** Depart, depart, go out from there, touch no unclean thing! Go out of the midst of her! Cleanse yourselves, you who bear the vessels of Yahweh.
+> **52:12** For you shall not go out in haste, neither shall you go by flight: for Yahweh will go before you; and the God of Israel will be your rear guard.
+
+**Claim.** Jerusalem has drunk the cup of staggering, and 'there is none to guide her among all the sons whom she has brought forth; neither is there any who takes her by the hand.' God takes the cup out of her hand. 'You were sold for nothing; and you shall be redeemed without money.' And the messenger: 'How beautiful on the mountains are the feet of him who brings good news, who publishes peace.' C19's redemption, and C15's peace announced.
+
+**Tags.** pillars: mercy · stages: S4, S5 · chapters: C19, C15 · practices: none · confidence: medium
+
+---
+
+## 62. Isaiah 52:13-53:12 — He was oppressed, yet when he was afflicted he didn't open his mouth… and made intercession for the transgressors
+
+> **52:13** Behold, my servant shall deal wisely, he shall be exalted and lifted up, and shall be very high.
+> **52:14** Like as many were astonished at you (his appearance was marred more than any man, and his form more than the sons of men),
+> **52:15** so shall he sprinkle many nations; kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they understand.
+> **53:1** Who has believed our message? To whom has the arm of Yahweh been revealed?
+> **53:2** For he grew up before him as a tender plant, and as a root out of dry ground. He has no good looks or majesty. When we see him, there is no beauty that we should desire him.
+> **53:3** He was despised, and rejected by men; a man of suffering, and acquainted with disease. He was despised as one from whom men hide their face; and we didn’t respect him.
+> **53:4** Surely he has borne our sickness, and carried our suffering; yet we considered him plagued, struck by God, and afflicted.
+> **53:5** But he was pierced for our transgressions. He was crushed for our iniquities. The punishment that brought our peace was on him; and by his wounds we are healed.
+> **53:6** All we like sheep have gone astray. Everyone has turned to his own way; and Yahweh has laid on him the iniquity of us all.
+> **53:7** He was oppressed, yet when he was afflicted he didn’t open his mouth. As a lamb that is led to the slaughter, and as a sheep that before its shearers is mute, so he didn’t open his mouth.
+> **53:8** He was taken away by oppression and judgment; and as for his generation, who considered that he was cut off out of the land of the living and stricken for the disobedience of my people?
+> **53:9** They made his grave with the wicked, and with a rich man in his death; although he had done no violence, neither was any deceit in his mouth.
+> **53:10** Yet it pleased Yahweh to bruise him. He has caused him to suffer. When you make his soul an offering for sin, he shall see his seed. He shall prolong his days, and the pleasure of Yahweh shall prosper in his hand.
+> **53:11** After the suffering of his soul, he will see the light and be satisfied. My righteous servant will justify many by the knowledge of himself; and he will bear their iniquities.
+> **53:12** Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he poured out his soul to death, and was numbered with the transgressors; yet he bore the sin of many, and made intercession for the transgressors.
+
+**Claim.** The fourth Servant Song. 'He has no good looks or majesty… He was despised, and rejected by men; a man of suffering' — C23's hiddenness taken to its limit. The observers misread the suffering exactly as Job's friends did: 'we considered him plagued, struck by God, and afflicted. But he was pierced for our transgressions… by his wounds we are healed' — C19's healing through another's wound. Under oppression he does not answer: 'as a lamb that is led to the slaughter… so he didn't open his mouth' — Non-Retaliation in silence. And at the end, the summit of Shedding Harshness: he 'bore the sin of many, and made intercession for the transgressors.' The New Testament reads every line of it of Christ; the index anchors what the passage itself enacts.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility, truth · stages: S5, S6, S7 · chapters: C27, C19, C23 · practices: PR06, PR15 · confidence: high
+
+---
+
+## 63. Isaiah 54:1-17 — You shall forget the shame of your youth; and the reproach of your widowhood you shall remember no more
+
+> **54:1** “Sing, barren, you who didn’t bear; break forth into singing, and cry aloud, you who did not travail with child: for more are the children of the desolate than the children of the married wife,” says Yahweh.
+> **54:2** “Enlarge the place of your tent, and let them stretch forth the curtains of your habitations; don’t spare: lengthen your cords, and strengthen your stakes.
+> **54:3** For you shall spread out on the right hand and on the left; and your seed shall possess the nations, and make the desolate cities to be inhabited.
+> **54:4** “Don’t be afraid; for you shall not be ashamed: neither be confounded; for you shall not be disappointed: for you shall forget the shame of your youth; and the reproach of your widowhood you shall remember no more.
+> **54:5** For your Maker is your husband; Yahweh of Armies is his name: and the Holy One of Israel is your Redeemer; the God of the whole earth shall he be called.
+> **54:6** For Yahweh has called you as a wife forsaken and grieved in spirit, even a wife of youth, when she is cast off,” says your God.
+> **54:7** “For a small moment have I forsaken you; but with great mercies will I gather you.
+> **54:8** In overflowing wrath I hid my face from you for a moment; but with everlasting loving kindness will I have mercy on you,” says Yahweh your Redeemer.
+> **54:9** “For this is like the waters of Noah to me; for as I have sworn that the waters of Noah shall no more go over the earth, so have I sworn that I will not be angry with you, nor rebuke you.
+> **54:10** For the mountains may depart, and the hills be removed; but my loving kindness shall not depart from you, neither shall my covenant of peace be removed,” says Yahweh who has mercy on you.
+> **54:11** “You afflicted, tossed with storms, and not comforted, behold, I will set your stones in beautiful colors, and lay your foundations with sapphires.
+> **54:12** I will make your pinnacles of rubies, and your gates of sparkling jewels, and all your walls of precious stones.
+> **54:13** All your children shall be taught of Yahweh; and great shall be the peace of your children.
+> **54:14** In righteousness you shall be established: you shall be far from oppression, for you shall not be afraid; and from terror, for it shall not come near you.
+> **54:15** Behold, they may gather together, but not by me: whoever shall gather together against you shall fall because of you.
+> **54:16** “Behold, I have created the smith who blows the fire of coals, and brings forth a weapon for his work; and I have created the waster to destroy.
+> **54:17** No weapon that is formed against you will prevail; and you will condemn every tongue that rises against you in judgment. This is the heritage of the servants of Yahweh, and their righteousness which is of me,” says Yahweh.
+
+**Claim.** 'Sing, barren… Enlarge the place of your tent.' A wife cast off is called back: 'For a small moment have I forsaken you; but with great mercies will I gather you… For the mountains may depart, and the hills be removed; but my loving kindness shall not depart from you.' And the restoration is complete, not probationary: 'you shall forget the shame of your youth; and the reproach of your widowhood you shall remember no more.' Merciful Reintegration is receiving back without lingering shame; this passage names the shame and promises it will not be remembered. God's practice, which the human practice imitates — medium for that reason, as at Psalm 103.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S5 · chapters: C19 · practices: PR29 · confidence: medium
+
+---
+
+## 64. Isaiah 55:1-13 — Why do you spend money for that which is not bread?… For my thoughts are not your thoughts
+
+> **55:1** “Come, everyone who thirsts, to the waters! Come, he who has no money, buy, and eat! Yes, come, buy wine and milk without money and without price.
+> **55:2** Why do you spend money for that which is not bread? and your labor for that which doesn’t satisfy? listen diligently to me, and eat you that which is good, and let your soul delight itself in fatness.
+> **55:3** Turn your ear, and come to me; hear, and your soul shall live: and I will make an everlasting covenant with you, even the sure mercies of David.
+> **55:4** Behold, I have given him for a witness to the peoples, a leader and commander to the peoples.
+> **55:5** Behold, you shall call a nation that you don’t know; and a nation that didn’t know you shall run to you, because of Yahweh your God, and for the Holy One of Israel; for he has glorified you.”
+> **55:6** Seek Yahweh while he may be found; call you on him while he is near:
+> **55:7** let the wicked forsake his way, and the unrighteous man his thoughts; and let him return to Yahweh, and he will have mercy on him; and to our God, for he will abundantly pardon.
+> **55:8** “For my thoughts are not your thoughts, neither are your ways my ways,” says Yahweh.
+> **55:9** “For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.
+> **55:10** For as the rain comes down and the snow from the sky, and doesn’t return there, but waters the earth, and makes it bring forth and bud, and gives seed to the sower and bread to the eater;
+> **55:11** so shall my word be that goes forth out of my mouth: it shall not return to me void, but it shall accomplish that which I please, and it shall prosper in the thing I sent it to do.
+> **55:12** For you shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing; and all the trees of the fields shall clap their hands.
+> **55:13** Instead of the thorn shall come up the fir tree; and instead of the brier shall come up the myrtle tree: and it shall be to Yahweh for a name, for an everlasting sign that shall not be cut off.”
+
+**Claim.** 'Come, everyone who thirsts, to the waters! Come, he who has no money, buy, and eat!' Grace offered free to the one who cannot pay — C19's. Then the question C18 asks of every life: 'Why do you spend money for that which is not bread? and your labor for that which doesn't satisfy?' The call to return — 'let the wicked forsake his way… and he will abundantly pardon' — is grounded in the distance between God and the one returning: 'For my thoughts are not your thoughts, neither are your ways my ways… as the heavens are higher than the earth.' The Discipline of Unknowing as the reason mercy can be larger than we expect. 'My word… shall not return to me void.'
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility, truth · stages: S4, S5, S6 · chapters: C19, C18, C24 · practices: PR04 · confidence: high
 
 ---
 

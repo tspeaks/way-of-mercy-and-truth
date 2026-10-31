@@ -1,12 +1,12 @@
 {
   "book": "Isaiah",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — chapters 1-39 indexed (13-27 selectively); 40-55 and 56-66 pending",
+  "status": "in progress — chapters 1-55 indexed (13-27 selectively); 56-66 pending",
   "method_version": "2.3",
   "text_source": "index/text/isaiah.json",
   "note": "Indexed in sections along the book's standard seams: the oracles concerning Judah and Jerusalem (1-12), the oracles against the nations and the Isaiah apocalypse (13-27), the woes and the Hezekiah narratives (28-39), the Book of Comfort (40-55), and the closing chapters (56-66). The Scriptural Appendix cites Isaiah 5 for C11 and 56:1-7 for C27 and Shedding Harshness; the indexing order expected C03 and C27.",
   "sectioning_note": "As with Jeremiah, the status field names what is done.",
-  "coverage_note": "Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16. Chapters 13-27 are indexed selectively, as Jeremiah 46-51 was: the oracles against Babylon, Assyria, Philistia, Moab, Damascus, Cush, Egypt, Dumah, Arabia, and Tyre (13, 14:1-2 and 14:22-32, 15, 16:12-14, 17, 18, 19:1-15, 20, 21:1-5 and 21:16-17, 23:1-14) anchor nothing in personal formation on a plain reading, and allegory was declined. Within them the index carries what does anchor: Moab's refugees and the prophet's tears for Moab, Egypt and Assyria named God's people, the bread brought to fugitives in Arabia, and Tyre's wages turned from storage to provision. Chapters 28-39, unindexed: the woe on Ariel's siege (29:1-8), the oracle on the animals of the Negev (30:6-7) and the theophany against Assyria (30:27-33), the woe on reliance on Egypt (31), which repeats 30:1-17, the first half of chapter 33, and the judgment on Edom (34).",
+  "coverage_note": "Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16. Chapters 13-27 are indexed selectively, as Jeremiah 46-51 was: the oracles against Babylon, Assyria, Philistia, Moab, Damascus, Cush, Egypt, Dumah, Arabia, and Tyre (13, 14:1-2 and 14:22-32, 15, 16:12-14, 17, 18, 19:1-15, 20, 21:1-5 and 21:16-17, 23:1-14) anchor nothing in personal formation on a plain reading, and allegory was declined. Within them the index carries what does anchor: Moab's refugees and the prophet's tears for Moab, Egypt and Assyria named God's people, the bread brought to fugitives in Arabia, and Tyre's wages turned from storage to provision. Chapters 28-39, unindexed: the woe on Ariel's siege (29:1-8), the oracle on the animals of the Negev (30:6-7) and the theophany against Assyria (30:27-33), the woe on reliance on Egypt (31), which repeats 30:1-17, the first half of chapter 33, and the judgment on Edom (34). Chapters 40-55, unindexed: the trial of the nations and the raising of Cyrus (41:1-7 and 41:21-29), the battle-hymn of 42:10-17, the oracle of 44:24-28, and the oppressors' end in 49:22-26.",
   "entries": [
     {
       "ref": "Isaiah 1:1-9",
@@ -887,6 +887,448 @@
       "mode": "counter-example",
       "connection": "Flattered by envoys from Babylon, Hezekiah shows them everything — 'the silver, and the gold, the spices… all the house of his armor… There was nothing in his house… that Hezekiah didn't show them.' The reach for an admiring audience, which is what the Hidden Life is practised against (medium, as with Babel and Shebna). And when told that all of it will be carried off and his own descendants made eunuchs in Babylon, his answer is relief: 'there will be peace and truth in my days.' C18's attachment to treasure, and C14's household failed at the point where it reaches beyond one's own lifetime.",
       "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 40:1-11",
+      "pericope": "Comfort, comfort my people… He will feed his flock like a shepherd",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "The Book of Comfort opens on its own title: 'Comfort, comfort my people… Speak comfortably to Jerusalem… her iniquity is pardoned.' The voice in the wilderness, the road made level, and the contrast 1 Peter 1:24 quotes: 'The grass withers, the flower fades; but the word of our God stands forever' — C18's transience set against what remains. And the image of God that C19 opens with: 'He will feed his flock like a shepherd. He will gather the lambs in his arm, and carry them in his bosom. He will gently lead those who have their young.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 40:12-31",
+      "pericope": "His understanding is unsearchable… those who wait for Yahweh will renew their strength",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C25"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "'Who has measured the waters in the hollow of his hand?… Who has directed the Spirit of Yahweh, or has taught him as his counselor?' The nations a drop in a bucket, the inhabitants of the earth like grasshoppers, the stars called each by name. Then the complaint answered — 'Why do you say, Jacob… My way is hidden from Yahweh?' — with the Discipline of Unknowing's ground: 'His understanding is unsearchable.' What follows is strength for the long road, C25's: 'those who wait for Yahweh will renew their strength… They will run, and not be weary. They will walk, and not faint' — the last and least dramatic of the three, and the one that lasts.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 41:8-20",
+      "pericope": "Don't you be afraid, for I am with you… The poor and needy seek water, and there is none",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C16"
+      ],
+      "practices": [],
+      "connection": "'Don't you be afraid, for I am with you. Don't be dismayed, for I am your God… I will uphold you with the right hand of my righteousness.' Addressed to 'you worm Jacob,' the small and despised. And then the needy specifically: 'The poor and needy seek water, and there is none. Their tongue fails for thirst. I, Yahweh, will answer them.' C19's presence in fear, and C16's poor as the first to be answered.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 42:1-9",
+      "pericope": "He won't break a bruised reed. He won't quench a dimly burning wick",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C23"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The first Servant Song. The servant brings justice to the nations without noise — 'He will not shout, nor raise his voice, nor cause it to be heard in the street' — which is C23's hidden manner. And his strength is gentleness with what is almost finished: 'He won't break a bruised reed. He won't quench a dimly burning wick.' C27's mature mercy as the refusal to finish off the fragile. Matthew 12:18-21 applies it to Christ. 'To open the blind eyes, to bring the prisoners out of the dungeon.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 42:18-25",
+      "pericope": "You see many things, but don't observe. His ears are open, but he doesn't listen",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C07",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "'Who is blind, but my servant?… You see many things, but don't observe. His ears are open, but he doesn't listen.' Sight and hearing intact and attention absent, which is C07's diagnosis. The judgment fell, and 'it burned him, but he didn't take it to heart' — the failure to trace a consequence back to its cause that C21 exists to correct.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 43:1-7",
+      "pericope": "I have called you by your name. You are mine. When you pass through the waters, I will be with you",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C22"
+      ],
+      "practices": [],
+      "connection": "'Don't be afraid, for I have redeemed you. I have called you by your name. You are mine. When you pass through the waters, I will be with you… When you walk through the fire, you will not be burned.' Not exemption from the waters and the fire but company in them — C19's presence and C22's quieted fear. 'You have been precious and honored in my sight, and I have loved you.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 43:8-28",
+      "pericope": "I, even I, am he who blots out your transgressions for my own sake; and I will not remember your sins",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C25"
+      ],
+      "practices": [],
+      "connection": "'Don't remember the former things… Behold, I will do a new thing. It springs forth now. Don't you know it?' — C25's growth as something new springing up rather than the past repeated. Against the people's weariness and sins — 'you have burdened me with your sins. You have wearied me with your iniquities' — the line that defines the door of C19: 'I, even I, am he who blots out your transgressions for my own sake; and I will not remember your sins.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 44:9-20",
+      "pericope": "Isn't there a lie in my right hand?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C07",
+        "C21"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "mode": "counter-example",
+      "connection": "The satire of the idol-maker: he cuts a tree, burns half to bake his bread and warm himself — 'Aha! I am warm' — and carves the other half into a god and prays to it, 'Deliver me; for you are my god!' 'No one thinks, neither is there knowledge nor understanding to say, I have burned part of it in the fire… Shall I bow down to a tree trunk?' The question that would free him is never asked: 'A deceived heart has turned him aside; and he can't deliver his soul, nor say, Isn't there a lie in my right hand?' Interior Diagnosis is that question, and this is a portrait of its absence. C07's blindness self-inflicted, and C21's self-deception.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 44:21-23",
+      "pericope": "I have blotted out, as a thick cloud, your transgressions… Return to me, for I have redeemed you",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The order of the sentence matters: 'I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins. Return to me, for I have redeemed you.' Redemption first, return second — not 'return so that I may redeem you.' C19's door, open before anyone walks through it. The heavens and the forests are told to sing about it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 45:1-25",
+      "pericope": "Most certainly you are a God who hides yourself… Look to me, and be saved, all the ends of the earth",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C24",
+        "C27"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "God names a foreign king his anointed — 'though you have not known me' — and asserts a sovereignty beyond human categories: 'I form the light, and create darkness. I make peace, and create calamity.' 'Woe to him who strives with his Maker — a clay pot among the clay pots of the earth!' And the confession of the nations: 'Most certainly you are a God who hides yourself.' The Discipline of Unknowing at its sharpest — God hidden even in self-revelation — and C24's ground. Then the widest invitation in the Old Testament, C27's: 'Look to me, and be saved, all the ends of the earth… to me every knee shall bow' (the line Philippians 2:10 applies to Christ).",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 46:1-13",
+      "pericope": "Even to old age I am he, and even to gray hairs will I carry you",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "The gods of Babylon are carried on the backs of animals, 'a burden to the weary,' and bow down with their idols into captivity. Israel's God reverses the direction: 'you that have been borne from your birth, that have been carried from the womb; and even to old age I am he, and even to gray hairs will I carry you. I have made, and I will bear.' C18's idols as burdens one must carry, and C19's God who carries.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 47:1-15",
+      "pericope": "You showed them no mercy; on the aged you have very heavily laid your yoke… I am, and there is none else besides me",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Babylon is brought down to sit in the dust, and the charge is specific: 'you showed them no mercy; on the aged you have very heavily laid your yoke.' Its pride is quoted twice — 'I shall be a mistress forever… I am, and there is none else besides me' — and its cleverness named as the cause: 'your wisdom and your knowledge, it has perverted you.' C22's pride and C16's power without mercy.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 48:1-22",
+      "pericope": "I have chosen you in the furnace of affliction… Oh that you had listened! Then your peace would have been like a river",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C01"
+      ],
+      "practices": [],
+      "connection": "A people who swear by God's name 'but not in truth, nor in righteousness,' told that their affliction was a furnace, not a rejection: 'Behold, I have refined you, but not as silver; I have chosen you in the furnace of affliction' — C25's refining. And the longing of God for what obedience would have given: 'Oh that you had listened to my commandments! then your peace would have been like a river, and your righteousness like the waves of the sea.' C01's grain — the way things are made to go — stated as a lament. 'There is no peace, says Yahweh, for the wicked.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 49:1-13",
+      "pericope": "I have labored in vain, I have spent my strength for nothing… yet surely the justice due to me is with Yahweh",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C23",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The second Servant Song: a servant 'hidden' in the shadow of God's hand, kept close 'in his quiver.' And his honest assessment of his own work: 'I have labored in vain, I have spent my strength for nothing and vanity; yet surely the justice due to me is with Yahweh, and my reward with my God.' Faithfulness that sees no result and leaves the accounting to God is C23's hidden life. The answer enlarges the commission rather than explaining the failure: 'It is too light a thing… I will also give you for a light to the nations' — C27's circle.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 49:14-21",
+      "pericope": "Can a woman forget her nursing child?… I have engraved you on the palms of my hands",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "'But Zion said, Yahweh has forsaken me, and the Lord has forgotten me.' The complaint is one sentence, and the answer is one of the tenderest in scripture: 'Can a woman forget her nursing child, that she should not have compassion on the son of her womb? Yes, these may forget, yet I will not forget you! Behold, I have engraved you on the palms of my hands.' Sacred Lament answered rather than rebuked. C19's God who remembers.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 50:4-11",
+      "pericope": "That I may know how to sustain with words him who is weary… I gave my back to the strikers",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C03"
+      ],
+      "practices": [
+        "PR21",
+        "PR06"
+      ],
+      "mode": "exemplifies",
+      "connection": "The third Servant Song. 'The Lord Yahweh has given me the tongue of those who are taught, that I may know how to sustain with words him who is weary: he wakens morning by morning, he wakens my ear to hear as those who are taught.' Verbal Almsgiving in its most exact scriptural statement — a word given to the weary, and the listening that comes first, renewed every morning. Then the cost of the vocation, met without return: 'I gave my back to the strikers, and my cheeks to those who plucked off the hair; I didn't hide my face from shame and spitting.' Non-Retaliation, with its ground: 'the Lord Yahweh will help me… who is he who shall condemn me?' C03's hardest turn and C27's summit, in a single servant. 'He who walks in darkness, and has no light, let him trust in the name of Yahweh.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 51:1-16",
+      "pericope": "Who are you, that you are afraid of man who shall die?",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Look to the rock you were cut from.' 'Don't fear the reproach of men, neither be dismayed at their insults' — C17's posture toward a hostile public. And the question that dissolves the fear: 'I, even I, am he who comforts you: who are you, that you are afraid of man who shall die, and of the son of man who shall be made as grass; and have forgotten Yahweh your Maker?' C22's quiet soul, grounded in an accurate sense of scale.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 51:17-52:12",
+      "pericope": "How beautiful on the mountains are the feet of him who brings good news, who publishes peace",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C15"
+      ],
+      "practices": [],
+      "connection": "Jerusalem has drunk the cup of staggering, and 'there is none to guide her among all the sons whom she has brought forth; neither is there any who takes her by the hand.' God takes the cup out of her hand. 'You were sold for nothing; and you shall be redeemed without money.' And the messenger: 'How beautiful on the mountains are the feet of him who brings good news, who publishes peace.' C19's redemption, and C15's peace announced.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 52:13-53:12",
+      "pericope": "He was oppressed, yet when he was afflicted he didn't open his mouth… and made intercession for the transgressors",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C19",
+        "C23"
+      ],
+      "practices": [
+        "PR06",
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "The fourth Servant Song. 'He has no good looks or majesty… He was despised, and rejected by men; a man of suffering' — C23's hiddenness taken to its limit. The observers misread the suffering exactly as Job's friends did: 'we considered him plagued, struck by God, and afflicted. But he was pierced for our transgressions… by his wounds we are healed' — C19's healing through another's wound. Under oppression he does not answer: 'as a lamb that is led to the slaughter… so he didn't open his mouth' — Non-Retaliation in silence. And at the end, the summit of Shedding Harshness: he 'bore the sin of many, and made intercession for the transgressors.' The New Testament reads every line of it of Christ; the index anchors what the passage itself enacts.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 54:1-17",
+      "pericope": "You shall forget the shame of your youth; and the reproach of your widowhood you shall remember no more",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "'Sing, barren… Enlarge the place of your tent.' A wife cast off is called back: 'For a small moment have I forsaken you; but with great mercies will I gather you… For the mountains may depart, and the hills be removed; but my loving kindness shall not depart from you.' And the restoration is complete, not probationary: 'you shall forget the shame of your youth; and the reproach of your widowhood you shall remember no more.' Merciful Reintegration is receiving back without lingering shame; this passage names the shame and promises it will not be remembered. God's practice, which the human practice imitates — medium for that reason, as at Psalm 103.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 55:1-13",
+      "pericope": "Why do you spend money for that which is not bread?… For my thoughts are not your thoughts",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C18",
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "'Come, everyone who thirsts, to the waters! Come, he who has no money, buy, and eat!' Grace offered free to the one who cannot pay — C19's. Then the question C18 asks of every life: 'Why do you spend money for that which is not bread? and your labor for that which doesn't satisfy?' The call to return — 'let the wicked forsake his way… and he will abundantly pardon' — is grounded in the distance between God and the one returning: 'For my thoughts are not your thoughts, neither are your ways my ways… as the heavens are higher than the earth.' The Discipline of Unknowing as the reason mercy can be larger than we expect. 'My word… shall not return to me void.'",
+      "confidence": "high",
       "prior": false
     }
   ]

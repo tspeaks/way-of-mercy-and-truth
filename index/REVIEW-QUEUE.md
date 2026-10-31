@@ -109,6 +109,6 @@ total there are 29 attractor tags across 1,052 new entries.
 | PR22 Unreciprocated Care | 6 | 1 Peter 4:12-19; 1 Samuel 25:2-42; 2 Corinthians 12:11-21; Genesis 40:1-23 (medium); Hosea 11:1-11; Psalm 35:1-28 (medium) |
 
 Declined on the attractor test and recorded in the entry: PR25 at Romans 12:10 and 1 Corinthians
-12; PR20 at Romans 14 and Hebrews 13:2; PR21 at Romans 16, Hebrews 3:13 and 1 Kings 19; PR17 at
+12; PR20 at Romans 14 and Hebrews 13:2; PR21 at Romans 16 and Hebrews 3:13; PR17 at
 Romans 14, 1 Corinthians 12 and Mark 7:33; PR22 at Mark 9:19, which is tagged at Luke 9:37-43.
 Review the Mark/Luke pair together.

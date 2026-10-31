@@ -1,12 +1,12 @@
 # Psalms — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — Books I-III (Psalms 1-89) indexed; Books IV-V pending; awaiting second-pass review. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: in progress — Books I-IV (Psalms 1-106) indexed; Book V pending; awaiting second-pass review. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
-**Note.** The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39; in Book II, 51 and 63; in Book III, 82 and 84.
+**Note.** The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39; in Book II, 51 and 63; in Book III, 82 and 84; in Book IV, 90, 92, 100, and 103.
 
-**Genre note.** The Psalms are prayer, not instruction, and they are indexed as prayer. A psalm that brings grief or complaint honestly before God enacts Sacred Lament, and is marked exemplifies; PR08 is tagged where the lament is the psalm's centre, not wherever a complaint appears, so that the count reflects anchors rather than mentions. The imprecations — prayers for the confusion or destruction of enemies — are not softened and are not tagged as models: where they bear on a practice the index says so (35:1-28, 41:4-13), and otherwise they are read as what they are, the honest voicing of rage to God rather than its enactment against a neighbour, which the curriculum's own account of lament permits. Superscriptions are included in the verse text as the WEB numbers them and are not separately interpreted. Royal and battle psalms are indexed only where they anchor something beyond the king's victory.
+**Genre note.** The Psalms are prayer, not instruction, and they are indexed as prayer. A psalm that brings grief or complaint honestly before God enacts Sacred Lament, and is marked exemplifies; PR08 is tagged where the lament is the psalm's centre, not wherever a complaint appears, so that the count reflects anchors rather than mentions. The imprecations — prayers for the confusion or destruction of enemies — are not softened and are not tagged as models: where they bear on a practice the index says so (35:1-28, 41:4-13), and otherwise they are read as what they are, the honest voicing of rage to God rather than its enactment against a neighbour, which the curriculum's own account of lament permits. Superscriptions are included in the verse text as the WEB numbers them and are not separately interpreted. Royal and battle psalms are indexed only where they anchor something beyond the king's victory. The enthronement psalms of Book IV (93, 96-99) are gathered into a single cluster, since they make one claim in five hymns.
 
 **Prediction note.** The indexing order said Psalms would settle Sacred Lament permanently, and C09 with it. In Book I, PR08 is tagged on six psalms (6, 10, 13, 22, 30, 38); the rest of the index carries thirty-two, a third of them added today in Genesis, Deuteronomy, and Ecclesiastes. In Book II it is tagged on five more (42-43, 44, 55, 62, 69), and Psalm 62:8 — 'pour out your heart before him' — is the first passage in the index to prescribe the practice in so many words rather than enact it. C09 is reached by Psalms 5, 17, 42-43, 57, 61, and the appendix's own 63; its other named psalm, 84, falls in Book III.
 
@@ -1985,6 +1985,454 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** Then the turn, without warning: 'But you have rejected and spurned.' The covenant just praised appears broken, and the psalmist says so — 'Lord, where are your former loving kindnesses, which you swore to David?' Sacred Lament that holds God to his own words. 'Remember how short my time is!' is C28's numbering of days, prayed in protest rather than resignation. Book III ends with a doxology that follows the complaint without cancelling it.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S5, S7 · chapters: C19, C28 · practices: PR08 · confidence: medium
+
+---
+
+## 79. Psalm 90:1-17 — So teach us to number our days, that we may gain a heart of wisdom
+
+> **90:1** A Prayer by Moses, the man of God. Lord, you have been our dwelling place for all generations.
+> **90:2** Before the mountains were brought forth, before you had formed the earth and the world, even from everlasting to everlasting, you are God.
+> **90:3** You turn man to destruction, saying, “Return, you children of men.”
+> **90:4** For a thousand years in your sight are just like yesterday when it is past, like a watch in the night.
+> **90:5** You sweep them away as they sleep. In the morning they sprout like new grass.
+> **90:6** In the morning it sprouts and springs up. By evening, it is withered and dry.
+> **90:7** For we are consumed in your anger. We are troubled in your wrath.
+> **90:8** You have set our iniquities before you, our secret sins in the light of your presence.
+> **90:9** For all our days have passed away in your wrath. We bring our years to an end as a sigh.
+> **90:10** The days of our years are seventy, or even by reason of strength eighty years; yet their pride is but labor and sorrow, for it passes quickly, and we fly away.
+> **90:11** Who knows the power of your anger, your wrath according to the fear that is due to you?
+> **90:12** So teach us to number our days, that we may gain a heart of wisdom.
+> **90:13** Relent, Yahweh! How long? Have compassion on your servants!
+> **90:14** Satisfy us in the morning with your loving kindness, that we may rejoice and be glad all our days.
+> **90:15** Make us glad for as many days as you have afflicted us, for as many years as we have seen evil.
+> **90:16** Let your work appear to your servants; your glory to their children.
+> **90:17** Let the favor of the Lord our God be on us; establish the work of our hands for us; yes, establish the work of our hands.
+
+**Claim.** The Scriptural Appendix assigns Psalm 90 to C28: numbering our days, the day as the unit of formation, and C28 takes 90:12 as its witness. A thousand years 'like yesterday when it is past,' a life of seventy or eighty years that 'passes quickly, and we fly away' — and the request that follows is not for more time but for wisdom about the time there is. It ends asking God to 'establish the work of our hands,' the ordinary labour of a single day made lasting.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S6, S7 · chapters: C28, C24 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 80. Psalm 91:1-16 — He who dwells in the secret place of the Most High
+
+> **91:1** He who dwells in the secret place of the Most High will rest in the shadow of the Almighty.
+> **91:2** I will say of Yahweh, “He is my refuge and my fortress; my God, in whom I trust.”
+> **91:3** For he will deliver you from the snare of the fowler, and from the deadly pestilence.
+> **91:4** He will cover you with his feathers. Under his wings you will take refuge. His faithfulness is your shield and rampart.
+> **91:5** You shall not be afraid of the terror by night, nor of the arrow that flies by day;
+> **91:6** nor of the pestilence that walks in darkness, nor of the destruction that wastes at noonday.
+> **91:7** A thousand may fall at your side, and ten thousand at your right hand; but it will not come near you.
+> **91:8** You will only look with your eyes, and see the recompense of the wicked.
+> **91:9** Because you have made Yahweh your refuge, and the Most High your dwelling place,
+> **91:10** no evil shall happen to you, neither shall any plague come near your dwelling.
+> **91:11** For he will put his angels in charge of you, to guard you in all your ways.
+> **91:12** They will bear you up in their hands, so that you won’t dash your foot against a stone.
+> **91:13** You will tread on the lion and cobra. You will trample the young lion and the serpent underfoot.
+> **91:14** “Because he has set his love on me, therefore I will deliver him. I will set him on high, because he has known my name.
+> **91:15** He will call on me, and I will answer him. I will be with him in trouble. I will deliver him, and honor him.
+> **91:16** I will satisfy him with long life, and show him my salvation.”
+
+**Claim.** 'He who dwells in the secret place of the Most High will rest in the shadow of the Almighty.' C09 is named for this place. The promises that follow are the psalm the tempter quotes to Christ in Matthew 4, which is a reminder that they describe trust, not a guarantee to be tested.
+
+**Tags.** pillars: humility · stages: S3 · chapters: C09 · practices: none · confidence: high
+
+---
+
+## 81. Psalm 92:1-15 — They will still bring forth fruit in old age
+
+> **92:1** A Psalm. A song for the Sabbath day. It is a good thing to give thanks to Yahweh, to sing praises to your name, Most High;
+> **92:2** to proclaim your loving kindness in the morning, and your faithfulness every night,
+> **92:3** with the ten-stringed lute, with the harp, and with the melody of the lyre.
+> **92:4** For you, Yahweh, have made me glad through your work. I will triumph in the works of your hands.
+> **92:5** How great are your works, Yahweh! Your thoughts are very deep.
+> **92:6** A senseless man doesn’t know, neither does a fool understand this:
+> **92:7** though the wicked spring up as the grass, and all the evildoers flourish, they will be destroyed forever.
+> **92:8** But you, Yahweh, are on high forevermore.
+> **92:9** For, behold, your enemies, Yahweh, for, behold, your enemies shall perish. All the evildoers will be scattered.
+> **92:10** But you have exalted my horn like that of the wild ox. I am anointed with fresh oil.
+> **92:11** My eye has also seen my enemies. My ears have heard of the wicked enemies who rise up against me.
+> **92:12** The righteous shall flourish like the palm tree. He will grow like a cedar in Lebanon.
+> **92:13** They are planted in Yahweh’s house. They will flourish in our God’s courts.
+> **92:14** They will still bring forth fruit in old age. They will be full of sap and green,
+> **92:15** to show that Yahweh is upright. He is my rock, and there is no unrighteousness in him.
+
+**Claim.** The Scriptural Appendix assigns Psalm 92 to C23: the cedar, hidden growth, and fruit in old age, which C23 takes as its witness at 92:12-14. The righteous 'planted in Yahweh's house… will still bring forth fruit in old age. They will be full of sap and green.' The song for the Sabbath also sets the shape of a day: 'to proclaim your loving kindness in the morning, and your faithfulness every night' — the Daily Anchors' morning and evening, given to praise. PR07 at medium for that reason; the prior is C23's.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S6 · chapters: C23 · practices: PR07 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 82. Psalm 94:1-23 — In the multitude of my thoughts within me, your comforts delight my soul
+
+> **94:1** Yahweh, you God to whom vengeance belongs, you God to whom vengeance belongs, shine forth.
+> **94:2** Rise up, you judge of the earth. Pay back the proud what they deserve.
+> **94:3** Yahweh, how long will the wicked, how long will the wicked triumph?
+> **94:4** They pour out arrogant words. All the evildoers boast.
+> **94:5** They break your people in pieces, Yahweh, and afflict your heritage.
+> **94:6** They kill the widow and the alien, and murder the fatherless.
+> **94:7** They say, “Yah will not see, neither will Jacob’s God consider.”
+> **94:8** Consider, you senseless among the people; you fools, when will you be wise?
+> **94:9** He who implanted the ear, won’t he hear? He who formed the eye, won’t he see?
+> **94:10** He who disciplines the nations, won’t he punish? He who teaches man knows.
+> **94:11** Yahweh knows the thoughts of man, that they are futile.
+> **94:12** Blessed is the man whom you discipline, Yah, and teach out of your law;
+> **94:13** that you may give him rest from the days of adversity, until the pit is dug for the wicked.
+> **94:14** For Yahweh won’t reject his people, neither will he forsake his inheritance.
+> **94:15** For judgment will return to righteousness. All the upright in heart shall follow it.
+> **94:16** Who will rise up for me against the wicked? Who will stand up for me against the evildoers?
+> **94:17** Unless Yahweh had been my help, my soul would have soon lived in silence.
+> **94:18** When I said, “My foot is slipping!” Your loving kindness, Yahweh, held me up.
+> **94:19** In the multitude of my thoughts within me, your comforts delight my soul.
+> **94:20** Shall the throne of wickedness have fellowship with you, which brings about mischief by statute?
+> **94:21** They gather themselves together against the soul of the righteous, and condemn the innocent blood.
+> **94:22** But Yahweh has been my high tower, my God, the rock of my refuge.
+> **94:23** He has brought on them their own iniquity, and will cut them off in their own wickedness. Yahweh, our God, will cut them off.
+
+**Claim.** 'They kill the widow and the alien, and murder the fatherless. They say, Yah will not see.' The answer to the oppressors is a question — 'He who formed the eye, won't he see?' — and the answer to the psalmist's own anxiety is a confession: 'When I said, My foot is slipping! Your loving kindness, Yahweh, held me up. In the multitude of my thoughts within me, your comforts delight my soul.' C16's vulnerable defended, and C22's quieting of an anxious mind.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S4, S5 · chapters: C16, C22 · practices: none · confidence: medium
+
+---
+
+## 83. Psalm 95:1-11 — Today, oh that you would hear his voice! Don't harden your heart
+
+> **95:1** Oh come, let’s sing to Yahweh. Let’s shout aloud to the rock of our salvation!
+> **95:2** Let’s come before his presence with thanksgiving. Let’s extol him with songs!
+> **95:3** For Yahweh is a great God, a great King above all gods.
+> **95:4** In his hand are the deep places of the earth. The heights of the mountains are also his.
+> **95:5** The sea is his, and he made it. His hands formed the dry land.
+> **95:6** Oh come, let’s worship and bow down. Let’s kneel before Yahweh, our Maker,
+> **95:7** for he is our God. We are the people of his pasture, and the sheep in his care. Today, oh that you would hear his voice!
+> **95:8** Don’t harden your heart, as at Meribah, as in the day of Massah in the wilderness,
+> **95:9** when your fathers tempted me, tested me, and saw my work.
+> **95:10** Forty long years I was grieved with that generation, and said, “It is a people that errs in their heart. They have not known my ways.”
+> **95:11** Therefore I swore in my wrath, “They won’t enter into my rest.”
+
+**Claim.** A call to worship that turns into a warning: 'Today, oh that you would hear his voice! Don't harden your heart, as at Meribah.' The appeal is always for today — Hebrews 3-4 builds an argument on the word — which is C28's unit, and the danger is a heart that hardens by degrees, which is what C20 watches for. 'It is a people that errs in their heart.'
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S5, S7 · chapters: C28, C20 · practices: none · confidence: high
+
+---
+
+## 84. Psalms · Yahweh reigns — The enthronement psalms
+
+*Thematic cluster — 5 passages gathered from across the book.*
+
+> **93:1** Yahweh reigns! He is clothed with majesty! Yahweh is armed with strength. The world also is established. It can’t be moved.
+> **93:2** Your throne is established from long ago. You are from everlasting.
+> **93:3** The floods have lifted up, Yahweh, the floods have lifted up their voice. The floods lift up their waves.
+> **93:4** Above the voices of many waters, the mighty breakers of the sea, Yahweh on high is mighty.
+> **93:5** Your statutes stand firm. Holiness adorns your house, Yahweh, forevermore.
+> **96:1** Sing to Yahweh a new song! Sing to Yahweh, all the earth.
+> **96:2** Sing to Yahweh! Bless his name! Proclaim his salvation from day to day!
+> **96:3** Declare his glory among the nations, his marvelous works among all the peoples.
+> **96:4** For great is Yahweh, and greatly to be praised! He is to be feared above all gods.
+> **96:5** For all the gods of the peoples are idols, but Yahweh made the heavens.
+> **96:6** Honor and majesty are before him. Strength and beauty are in his sanctuary.
+> **96:7** Ascribe to Yahweh, you families of nations, ascribe to Yahweh glory and strength.
+> **96:8** Ascribe to Yahweh the glory due to his name. Bring an offering, and come into his courts.
+> **96:9** Worship Yahweh in holy array. Tremble before him, all the earth.
+> **96:10** Say among the nations, “Yahweh reigns.” The world is also established. It can’t be moved. He will judge the peoples with equity.
+> **96:11** Let the heavens be glad, and let the earth rejoice. Let the sea roar, and its fullness!
+> **96:12** Let the field and all that is in it exult! Then all the trees of the woods shall sing for joy
+> **96:13** before Yahweh; for he comes, for he comes to judge the earth. He will judge the world with righteousness, the peoples with his truth.
+> **97:1** Yahweh reigns! Let the earth rejoice! Let the multitude of islands be glad!
+> **97:2** Clouds and darkness are around him. Righteousness and justice are the foundation of his throne.
+> **97:3** A fire goes before him, and burns up his adversaries on every side.
+> **97:4** His lightning lights up the world. The earth sees, and trembles.
+> **97:5** The mountains melt like wax at the presence of Yahweh, at the presence of the Lord of the whole earth.
+> **97:6** The heavens declare his righteousness. All the peoples have seen his glory.
+> **97:7** Let all them be shamed who serve engraved images, who boast in their idols. Worship him, all you gods!
+> **97:8** Zion heard and was glad. The daughters of Judah rejoiced, because of your judgments, Yahweh.
+> **97:9** For you, Yahweh, are most high above all the earth. You are exalted far above all gods.
+> **97:10** You who love Yahweh, hate evil. He preserves the souls of his saints. He delivers them out of the hand of the wicked.
+> **97:11** Light is sown for the righteous, and gladness for the upright in heart.
+> **97:12** Be glad in Yahweh, you righteous people! Give thanks to his holy Name.
+> **98:1** A Psalm. Sing to Yahweh a new song, for he has done marvelous things! His right hand, and his holy arm, have worked salvation for him.
+> **98:2** Yahweh has made known his salvation. He has openly shown his righteousness in the sight of the nations.
+> **98:3** He has remembered his loving kindness and his faithfulness toward the house of Israel. All the ends of the earth have seen the salvation of our God.
+> **98:4** Make a joyful noise to Yahweh, all the earth! Burst out and sing for joy, yes, sing praises!
+> **98:5** Sing praises to Yahweh with the harp, with the harp and the voice of melody.
+> **98:6** With trumpets and sound of the ram’s horn, make a joyful noise before the King, Yahweh.
+> **98:7** Let the sea roar with its fullness; the world, and those who dwell therein.
+> **98:8** Let the rivers clap their hands. Let the mountains sing for joy together.
+> **98:9** Let them sing before Yahweh, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with equity.
+> **99:1** Yahweh reigns! Let the peoples tremble. He sits enthroned among the cherubim. Let the earth be moved.
+> **99:2** Yahweh is great in Zion. He is high above all the peoples.
+> **99:3** Let them praise your great and awesome name. He is Holy!
+> **99:4** The King’s strength also loves justice. You do establish equity. You execute justice and righteousness in Jacob.
+> **99:5** Exalt Yahweh our God. Worship at his footstool. He is Holy!
+> **99:6** Moses and Aaron were among his priests, Samuel among those who call on his name; they called on Yahweh, and he answered them.
+> **99:7** He spoke to them in the pillar of cloud. They kept his testimonies, the statute that he gave them.
+> **99:8** You answered them, Yahweh our God. You are a God who forgave them, although you took vengeance for their doings.
+> **99:9** Exalt Yahweh, our God. Worship at his holy hill, for Yahweh, our God, is holy!
+
+**Claim.** Five hymns of God's kingship gathered as one theme: the floods lifting their voice and Yahweh mightier than the breakers (93); a new song for all the earth, the trees of the forest singing (96); clouds and darkness around a throne founded on righteousness and justice (97); the rivers clapping their hands (98); and the holy God who 'forgave them, although you took vengeance for their doings' (99). C24's wonder is their whole register, and their scope is C27's: the nations, the islands, 'all the earth' summoned to the same joy.
+
+**Tags.** pillars: humility, mercy · stages: S6, S7 · chapters: C24, C27 · practices: none · confidence: medium
+
+---
+
+## 85. Psalm 100:1-5 — Enter into his gates with thanksgiving
+
+> **100:1** A Psalm of thanksgiving. Shout for joy to Yahweh, all you lands!
+> **100:2** Serve Yahweh with gladness. Come before his presence with singing.
+> **100:3** Know that Yahweh, he is God. It is he who has made us, and we are his. We are his people, and the sheep of his pasture.
+> **100:4** Enter into his gates with thanksgiving, into his courts with praise. Give thanks to him, and bless his name.
+> **100:5** For Yahweh is good. His loving kindness endures forever, his faithfulness to all generations.
+
+**Claim.** The Scriptural Appendix assigns Psalm 100 to C10: gratitude and thanksgiving. 'Serve Yahweh with gladness… It is he who has made us, and we are his… Enter into his gates with thanksgiving.' C10's discipline of gratitude, grounded in belonging rather than in circumstance.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility · stages: S3 · chapters: C10 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 86. Psalm 101:1-8 — I will walk within my house with a blameless heart
+
+> **101:1** A Psalm by David. I will sing of loving kindness and justice. To you, Yahweh, I will sing praises.
+> **101:2** I will be careful to live a blameless life. When will you come to me? I will walk within my house with a blameless heart.
+> **101:3** I will set no vile thing before my eyes. I hate the deeds of faithless men. They will not cling to me.
+> **101:4** A perverse heart will be far from me. I will have nothing to do with evil.
+> **101:5** I will silence whoever secretly slanders his neighbor. I won’t tolerate one who is haughty and conceited.
+> **101:6** My eyes will be on the faithful of the land, that they may dwell with me. He who walks in a perfect way, he will serve me.
+> **101:7** He who practices deceit won’t dwell within my house. He who speaks falsehood won’t be established before my eyes.
+> **101:8** Morning by morning, I will destroy all the wicked of the land; to cut off all the workers of iniquity from Yahweh’s city.
+
+**Claim.** A ruler's vow, and it begins at home: 'I will walk within my house with a blameless heart. I will set no vile thing before my eyes.' C14's practice is to measure the difference between how one speaks inside the home and outside it; this vow makes the house the first place integrity is kept. What is allowed before the eyes is C07's. The closing resolve to destroy the wicked 'morning by morning' is a king's and is not what the entry anchors.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S2, S4 · chapters: C14, C07 · practices: none · confidence: medium
+
+---
+
+## 87. Psalm 102:1-28 — A Prayer of the afflicted, when he is overwhelmed and pours out his complaint before Yahweh
+
+> **102:1** A Prayer of the afflicted, when he is overwhelmed and pours out his complaint before Yahweh. Hear my prayer, Yahweh! Let my cry come to you.
+> **102:2** Don’t hide your face from me in the day of my distress. Turn your ear to me. Answer me quickly in the day when I call.
+> **102:3** For my days consume away like smoke. My bones are burned as a torch.
+> **102:4** My heart is blighted like grass, and withered, for I forget to eat my bread.
+> **102:5** By reason of the voice of my groaning, my bones stick to my skin.
+> **102:6** I am like a pelican of the wilderness. I have become as an owl of the waste places.
+> **102:7** I watch, and have become like a sparrow that is alone on the housetop.
+> **102:8** My enemies reproach me all day. Those who are mad at me use my name as a curse.
+> **102:9** For I have eaten ashes like bread, and mixed my drink with tears,
+> **102:10** Because of your indignation and your wrath, for you have taken me up, and thrown me away.
+> **102:11** My days are like a long shadow. I have withered like grass.
+> **102:12** But you, Yahweh, will remain forever; your renown endures to all generations.
+> **102:13** You will arise and have mercy on Zion; for it is time to have pity on her. Yes, the set time has come.
+> **102:14** For your servants take pleasure in her stones, and have pity on her dust.
+> **102:15** So the nations will fear the name of Yahweh; all the kings of the earth your glory.
+> **102:16** For Yahweh has built up Zion. He has appeared in his glory.
+> **102:17** He has responded to the prayer of the destitute, and has not despised their prayer.
+> **102:18** This will be written for the generation to come. A people which will be created will praise Yah.
+> **102:19** For he has looked down from the height of his sanctuary. From heaven, Yahweh saw the earth;
+> **102:20** to hear the groans of the prisoner; to free those who are condemned to death;
+> **102:21** that men may declare the name of Yahweh in Zion, and his praise in Jerusalem;
+> **102:22** when the peoples are gathered together, the kingdoms, to serve Yahweh.
+> **102:23** He weakened my strength along the course. He shortened my days.
+> **102:24** I said, “My God, don’t take me away in the midst of my days. Your years are throughout all generations.
+> **102:25** Of old, you laid the foundation of the earth. The heavens are the work of your hands.
+> **102:26** They will perish, but you will endure. Yes, all of them will wear out like a garment. You will change them like a cloak, and they will be changed.
+> **102:27** But you are the same. Your years will have no end.
+> **102:28** The children of your servants will continue. Their seed will be established before you.”
+
+**Claim.** The superscription is a definition of Sacred Lament: the prayer of the afflicted, overwhelmed, pouring out his complaint before Yahweh. Days consumed like smoke, a heart withered like grass, 'I forget to eat my bread… like a sparrow that is alone on the housetop… I have eaten ashes like bread, and mixed my drink with tears.' Then, without retracting any of it, the turn to the one who remains: 'They will perish, but you will endure… you will change them like a cloak.' C19's hope, and C18's recognition that everything else wears out.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4, S5 · chapters: C19, C18 · practices: PR08 · confidence: high
+
+---
+
+## 88. Psalm 103:1-22 — He remembers that we are dust
+
+> **103:1** By David. Praise Yahweh, my soul! All that is within me, praise his holy name!
+> **103:2** Praise Yahweh, my soul, and don’t forget all his benefits;
+> **103:3** who forgives all your sins; who heals all your diseases;
+> **103:4** who redeems your life from destruction; who crowns you with loving kindness and tender mercies;
+> **103:5** who satisfies your desire with good things, so that your youth is renewed like the eagle’s.
+> **103:6** Yahweh executes righteous acts, and justice for all who are oppressed.
+> **103:7** He made known his ways to Moses, his deeds to the children of Israel.
+> **103:8** Yahweh is merciful and gracious, slow to anger, and abundant in loving kindness.
+> **103:9** He will not always accuse; neither will he stay angry forever.
+> **103:10** He has not dealt with us according to our sins, nor repaid us for our iniquities.
+> **103:11** For as the heavens are high above the earth, so great is his loving kindness toward those who fear him.
+> **103:12** As far as the east is from the west, so far has he removed our transgressions from us.
+> **103:13** Like a father has compassion on his children, so Yahweh has compassion on those who fear him.
+> **103:14** For he knows how we are made. He remembers that we are dust.
+> **103:15** As for man, his days are like grass. As a flower of the field, so he flourishes.
+> **103:16** For the wind passes over it, and it is gone. Its place remembers it no more.
+> **103:17** But Yahweh’s loving kindness is from everlasting to everlasting with those who fear him, his righteousness to children’s children;
+> **103:18** to those who keep his covenant, to those who remember to obey his precepts.
+> **103:19** Yahweh has established his throne in the heavens. His kingdom rules over all.
+> **103:20** Praise Yahweh, you angels of his, who are mighty in strength, who fulfill his word, obeying the voice of his word.
+> **103:21** Praise Yahweh, all you armies of his, you servants of his, who do his pleasure.
+> **103:22** Praise Yahweh, all you works of his, in all places of his dominion. Praise Yahweh, my soul!
+
+**Claim.** The Scriptural Appendix assigns Psalm 103 to C29 — 'He remembers that we are dust — the closing word of the book' — and C29 takes 103:8 as its final witness. 'He will not always accuse; neither will he stay angry forever. He has not dealt with us according to our sins… As far as the east is from the west, so far has he removed our transgressions from us.' Merciful Reintegration is receiving the repentant back without lingering shame or permanent probation; this is God's own practice of it, described as a father's compassion, and the reason the curriculum ends here. PR29 at medium, because the reintegration is God's, and the practice is its human imitation.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S5, S7 · chapters: C29, C19 · practices: PR29 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 89. Psalm 104:1-35 — Man goes forth to his work, to his labor until the evening
+
+> **104:1** Bless Yahweh, my soul. Yahweh, my God, you are very great. You are clothed with honor and majesty.
+> **104:2** He covers himself with light as with a garment. He stretches out the heavens like a curtain.
+> **104:3** He lays the beams of his rooms in the waters. He makes the clouds his chariot. He walks on the wings of the wind.
+> **104:4** He makes his messengers winds; his servants flames of fire.
+> **104:5** He laid the foundations of the earth, that it should not be moved forever.
+> **104:6** You covered it with the deep as with a cloak. The waters stood above the mountains.
+> **104:7** At your rebuke they fled. At the voice of your thunder they hurried away.
+> **104:8** The mountains rose, the valleys sank down, to the place which you had assigned to them.
+> **104:9** You have set a boundary that they may not pass over; that they don’t turn again to cover the earth.
+> **104:10** He sends forth springs into the valleys. They run among the mountains.
+> **104:11** They give drink to every animal of the field. The wild donkeys quench their thirst.
+> **104:12** The birds of the sky nest by them. They sing among the branches.
+> **104:13** He waters the mountains from his rooms. The earth is filled with the fruit of your works.
+> **104:14** He causes the grass to grow for the livestock, and plants for man to cultivate, that he may bring forth food out of the earth:
+> **104:15** wine that makes glad the heart of man, oil to make his face to shine, and bread that strengthens man’s heart.
+> **104:16** Yahweh’s trees are well watered, the cedars of Lebanon, which he has planted;
+> **104:17** where the birds make their nests. The stork makes its home in the fir trees.
+> **104:18** The high mountains are for the wild goats. The rocks are a refuge for the rock badgers.
+> **104:19** He appointed the moon for seasons. The sun knows when to set.
+> **104:20** You make darkness, and it is night, in which all the animals of the forest prowl.
+> **104:21** The young lions roar after their prey, and seek their food from God.
+> **104:22** The sun rises, and they steal away, and lay down in their dens.
+> **104:23** Man goes forth to his work, to his labor until the evening.
+> **104:24** Yahweh, how many are your works! In wisdom have you made them all. The earth is full of your riches.
+> **104:25** There is the sea, great and wide, in which are innumerable living things, both small and large animals.
+> **104:26** There the ships go, and leviathan, whom you formed to play there.
+> **104:27** These all wait for you, that you may give them their food in due season.
+> **104:28** You give to them; they gather. You open your hand; they are satisfied with good.
+> **104:29** You hide your face: they are troubled; you take away their breath: they die, and return to the dust.
+> **104:30** You send forth your Spirit: they are created. You renew the face of the ground.
+> **104:31** Let the glory of Yahweh endure forever. Let Yahweh rejoice in his works.
+> **104:32** He looks at the earth, and it trembles. He touches the mountains, and they smoke.
+> **104:33** I will sing to Yahweh as long as I live. I will sing praise to my God while I have any being.
+> **104:34** Let your meditation be sweet to him. I will rejoice in Yahweh.
+> **104:35** Let sinners be consumed out of the earth. Let the wicked be no more. Bless Yahweh, my soul. Praise Yah!
+
+**Claim.** Creation sung in its detail — springs in the valleys, the stork in the fir trees, the young lions seeking their food from God, leviathan 'formed to play' in the sea. Into this ordered world 'man goes forth to his work, to his labor until the evening,' and wine, oil, and bread are given 'that strengthens man's heart.' C24's landscape of wonder, with ordinary human work set inside it at its proper size, which is C28's.
+
+**Tags.** pillars: humility, mercy · stages: S6, S7 · chapters: C24, C28 · practices: none · confidence: high
+
+---
+
+## 90. Psalm 105:1-45 — Until the time that his word happened
+
+> **105:1** Give thanks to Yahweh! Call on his name! Make his doings known among the peoples.
+> **105:2** Sing to him, sing praises to him! Tell of all his marvelous works.
+> **105:3** Glory in his holy name. Let the heart of those who seek Yahweh rejoice.
+> **105:4** Seek Yahweh and his strength. Seek his face forever more.
+> **105:5** Remember his marvelous works that he has done; his wonders, and the judgments of his mouth,
+> **105:6** you seed of Abraham, his servant, you children of Jacob, his chosen ones.
+> **105:7** He is Yahweh, our God. His judgments are in all the earth.
+> **105:8** He has remembered his covenant forever, the word which he commanded to a thousand generations,
+> **105:9** the covenant which he made with Abraham, his oath to Isaac,
+> **105:10** and confirmed the same to Jacob for a statute; to Israel for an everlasting covenant,
+> **105:11** saying, “To you I will give the land of Canaan, the lot of your inheritance;”
+> **105:12** when they were but a few men in number, yes, very few, and foreigners in it.
+> **105:13** They went about from nation to nation, from one kingdom to another people.
+> **105:14** He allowed no one to do them wrong. Yes, he reproved kings for their sakes,
+> **105:15** “Don’t touch my anointed ones! Do my prophets no harm!”
+> **105:16** He called for a famine on the land. He destroyed the food supplies.
+> **105:17** He sent a man before them. Joseph was sold for a slave.
+> **105:18** They bruised his feet with shackles. His neck was locked in irons,
+> **105:19** until the time that his word happened, and Yahweh’s word proved him true.
+> **105:20** The king sent and freed him; even the ruler of peoples, and let him go free.
+> **105:21** He made him lord of his house, and ruler of all of his possessions;
+> **105:22** to discipline his princes at his pleasure, and to teach his elders wisdom.
+> **105:23** Israel also came into Egypt. Jacob lived in the land of Ham.
+> **105:24** He increased his people greatly, and made them stronger than their adversaries.
+> **105:25** He turned their heart to hate his people, to conspire against his servants.
+> **105:26** He sent Moses, his servant, and Aaron, whom he had chosen.
+> **105:27** They performed miracles among them, and wonders in the land of Ham.
+> **105:28** He sent darkness, and made it dark. They didn’t rebel against his words.
+> **105:29** He turned their waters into blood, and killed their fish.
+> **105:30** Their land swarmed with frogs, even in the rooms of their kings.
+> **105:31** He spoke, and swarms of flies came, and lice in all their borders.
+> **105:32** He gave them hail for rain, with lightning in their land.
+> **105:33** He struck their vines and also their fig trees, and shattered the trees of their country.
+> **105:34** He spoke, and the locusts came, and the grasshoppers, without number,
+> **105:35** ate up every plant in their land; and ate up the fruit of their ground.
+> **105:36** He struck also all the firstborn in their land, the first fruits of all their manhood.
+> **105:37** He brought them forth with silver and gold. There was not one feeble person among his tribes.
+> **105:38** Egypt was glad when they departed, for the fear of them had fallen on them.
+> **105:39** He spread a cloud for a covering, fire to give light in the night.
+> **105:40** They asked, and he brought quails, and satisfied them with the bread of the sky.
+> **105:41** He opened the rock, and waters gushed out. They ran as a river in the dry places.
+> **105:42** For he remembered his holy word, and Abraham, his servant.
+> **105:43** He brought forth his people with joy, his chosen with singing.
+> **105:44** He gave them the lands of the nations. They took the labor of the peoples in possession,
+> **105:45** that they might keep his statutes, and observe his laws. Praise Yah!
+
+**Claim.** Israel's history retold as God's faithfulness: 'when they were but a few men in number… and foreigners in it. They went about from nation to nation.' Joseph's feet bruised in shackles 'until the time that his word happened.' C17's sojourners, and C25's promises kept on a schedule longer than any one life.
+
+**Tags.** pillars: truth, humility · stages: S4, S6 · chapters: C17, C25 · practices: none · confidence: medium
+
+---
+
+## 91. Psalm 106:1-48 — He gave them their request, but sent leanness into their soul
+
+> **106:1** Praise Yahweh! Give thanks to Yahweh, for he is good, for his loving kindness endures forever.
+> **106:2** Who can utter the mighty acts of Yahweh, or fully declare all his praise?
+> **106:3** Blessed are those who keep justice. Blessed is one who does what is right at all times.
+> **106:4** Remember me, Yahweh, with the favor that you show to your people. Visit me with your salvation,
+> **106:5** that I may see the prosperity of your chosen, that I may rejoice in the gladness of your nation, that I may glory with your inheritance.
+> **106:6** We have sinned with our fathers. We have committed iniquity. We have done wickedly.
+> **106:7** Our fathers didn’t understand your wonders in Egypt. They didn’t remember the multitude of your loving kindnesses, but were rebellious at the sea, even at the Red Sea.
+> **106:8** Nevertheless he saved them for his name’s sake, that he might make his mighty power known.
+> **106:9** He rebuked the Red Sea also, and it was dried up; so he led them through the depths, as through a desert.
+> **106:10** He saved them from the hand of him who hated them, and redeemed them from the hand of the enemy.
+> **106:11** The waters covered their adversaries. There was not one of them left.
+> **106:12** Then they believed his words. They sang his praise.
+> **106:13** They soon forgot his works. They didn’t wait for his counsel,
+> **106:14** but gave in to craving in the desert, and tested God in the wasteland.
+> **106:15** He gave them their request, but sent leanness into their soul.
+> **106:16** They envied Moses also in the camp, and Aaron, Yahweh’s saint.
+> **106:17** The earth opened and swallowed up Dathan, and covered the company of Abiram.
+> **106:18** A fire was kindled in their company. The flame burned up the wicked.
+> **106:19** They made a calf in Horeb, and worshiped a molten image.
+> **106:20** Thus they exchanged their glory for an image of a bull that eats grass.
+> **106:21** They forgot God, their Savior, who had done great things in Egypt,
+> **106:22** Wondrous works in the land of Ham, and awesome things by the Red Sea.
+> **106:23** Therefore he said that he would destroy them, had Moses, his chosen, not stood before him in the breach, to turn away his wrath, so that he wouldn’t destroy them.
+> **106:24** Yes, they despised the pleasant land. They didn’t believe his word,
+> **106:25** but murmured in their tents, and didn’t listen to Yahweh’s voice.
+> **106:26** Therefore he swore to them that he would overthrow them in the wilderness,
+> **106:27** that he would overthrow their seed among the nations, and scatter them in the lands.
+> **106:28** They joined themselves also to Baal Peor, and ate the sacrifices of the dead.
+> **106:29** Thus they provoked him to anger with their deeds. The plague broke in on them.
+> **106:30** Then Phinehas stood up, and executed judgment, so the plague was stopped.
+> **106:31** That was credited to him for righteousness, for all generations to come.
+> **106:32** They angered him also at the waters of Meribah, so that Moses was troubled for their sakes;
+> **106:33** because they were rebellious against his spirit, he spoke rashly with his lips.
+> **106:34** They didn’t destroy the peoples, as Yahweh commanded them,
+> **106:35** but mixed themselves with the nations, and learned their works.
+> **106:36** They served their idols, which became a snare to them.
+> **106:37** Yes, they sacrificed their sons and their daughters to demons.
+> **106:38** They shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed to the idols of Canaan. The land was polluted with blood.
+> **106:39** Thus were they defiled with their works, and prostituted themselves in their deeds.
+> **106:40** Therefore Yahweh burned with anger against his people. He abhorred his inheritance.
+> **106:41** He gave them into the hand of the nations. Those who hated them ruled over them.
+> **106:42** Their enemies also oppressed them. They were brought into subjection under their hand.
+> **106:43** Many times he delivered them, but they were rebellious in their counsel, and were brought low in their iniquity.
+> **106:44** Nevertheless he regarded their distress, when he heard their cry.
+> **106:45** He remembered for them his covenant, and repented according to the multitude of his loving kindnesses.
+> **106:46** He made them also to be pitied by all those who carried them captive.
+> **106:47** Save us, Yahweh, our God, gather us from among the nations, to give thanks to your holy name, to triumph in your praise!
+> **106:48** Blessed be Yahweh, the God of Israel, from everlasting even to everlasting! Let all the people say, “Amen.” Praise Yah!
+
+**Claim.** A confession that begins in the present tense — 'We have sinned with our fathers' — and retells the wilderness as a history of forgetting. One verse names a judgment that operates from within: 'He gave them their request, but sent leanness into their soul.' Getting what one craves and being emptied by it is C21's diagnosis. Moses 'stood before him in the breach,' and the ending is C19's: 'Nevertheless he regarded their distress, when he heard their cry.' The psalm's complaint that the people did not destroy the nations (106:34) is part of the confession's argument and is not what the entry anchors.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S5 · chapters: C21, C19 · practices: none · confidence: medium
 
 ---
 

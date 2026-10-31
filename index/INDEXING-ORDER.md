@@ -1,12 +1,18 @@
 # Indexing order for the remaining canon
 
-As of thirteen books started: 9 complete, 4 partial, 53 untouched. Roughly 29,000 of
-the WEB's 31,098 verses are still unindexed.
+**Status, 31 October 2026.** Tiers 1 and 2 are closed. Twenty books started, all
+twenty complete; the six Tier 2 books are drafted and validated and await
+second-pass review (see `REVIEW-QUEUE.md`). Of the four practices this order
+expected Tier 2 to close, two now carry first anchors pending review — PR24 at
+Ephesians 2:11-22 and PR28 at Ecclesiastes 2:1-11 — and one forecast failed on the
+definition test: 2 Peter 1:5-7 does not anchor PR27, which remains unanchored.
+
+*Originally written with thirteen books started: 9 complete, 4 partial, 53 untouched,
+and roughly 29,000 of the WEB's 31,098 verses unindexed.*
 
 This is a working order, not a rule. It is arranged so that each tier answers a
 question the index cannot currently answer, rather than by canonical sequence or by
 size.
-
 ---
 
 ## Tier 1 — Close the four partial books

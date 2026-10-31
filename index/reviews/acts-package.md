@@ -494,9 +494,8 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 ---
 
-## 20. Acts 9:19-31 — They were all afraid of him, not believing that he was a disciple. But Barnabas took him
+## 20. Acts 9:20-31 — They were all afraid of him, not believing that he was a disciple. But Barnabas took him
 
-> **9:19** He took food and was strengthened. Saul stayed several days with the disciples who were at Damascus.
 > **9:20** Immediately in the synagogues he proclaimed the Christ, that he is the Son of God.
 > **9:21** All who heard him were amazed, and said, “Isn’t this he who in Jerusalem made havoc of those who called on this name? And he had come here intending to bring them bound before the chief priests!”
 > **9:22** But Saul increased more in strength, and confounded the Jews who lived at Damascus, proving that this is the Christ.

@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0C0B08">
+<title>Romans — Scripture Index — The Way of Mercy and Truth</title>
+<meta name="description" content="Every passage of Romans mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta property="og:type" content="book">
+<meta property="og:title" content="Romans — Scripture Index — The Way of Mercy and Truth">
+<meta property="og:description" content="Every passage of Romans mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%230C0B08%27/%3E%3Cpath d=%27M16 6 L16 26 M9 13 H23%27 stroke=%27%23C9A227%27 stroke-width=%272.6%27 stroke-linecap=%27round%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0C0B08; --bg-raised:#15140F;
+  --gold:#C9A227; --gold-bright:#E3C158; --gold-pale:#EADFC4; --gold-dim:#8A7327;
+  --text:#E4DCC6; --text-soft:#BFB49A; --text-muted:#8A8069;
+  --truth:#7FA9B5; --mercy:#C4795F; --spec:#9C8AB2;
+  --rule:rgba(201,162,39,0.22); --rule-strong:rgba(201,162,39,0.45);
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 10px 30px rgba(0,0,0,.35);
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0;
+  color:var(--text);
+  background-color:var(--bg);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(201,162,39,.07), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 110%, rgba(201,162,39,.05), transparent 70%);
+  background-attachment:fixed;
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-color:rgba(201,162,39,.45);text-underline-offset:3px;}
+a:hover{color:var(--gold-bright);text-decoration-color:var(--gold-bright);}
+:focus-visible{outline:2px solid var(--gold-bright);outline-offset:3px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule-strong);}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Cormorant Garamond','Iowan Old Style',Georgia,serif;font-weight:600;}
+
+.rule-orn{display:flex;align-items:center;gap:14px;margin:0;color:var(--gold-dim);}
+.rule-orn::before,.rule-orn::after{content:"";height:1px;flex:1;
+  background:linear-gradient(90deg,transparent,var(--rule-strong),transparent);}
+.rule-orn span{font-size:13px;letter-spacing:.3em;}
+
+.setup{background:rgba(196,121,95,.14);border-bottom:1px solid var(--rule-strong);
+  color:var(--gold-pale);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(201,162,39,.18);padding:1px 6px;font-size:13px;color:var(--gold-bright);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:62px 0 44px;text-align:center;}
+header.masthead::after{content:"";display:block;height:1px;margin-top:38px;
+  background:linear-gradient(90deg,transparent,var(--rule-strong) 20%,var(--rule-strong) 80%,transparent);}
+.crest{width:64px;height:64px;margin:0 auto 22px;display:block;color:var(--gold);opacity:.92;}
+.kicker{font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 16px;}
+h1.title{font-size:clamp(34px,9vw,58px);line-height:1.04;margin:0 0 12px;color:var(--gold-pale);
+  font-weight:600;letter-spacing:.005em;}
+.subtitle{font-size:clamp(15px,3.4vw,18px);color:var(--text-soft);font-style:italic;
+  margin:0 auto 30px;max-width:44ch;}
+blockquote.epigraph{margin:0 auto 30px;padding:20px 24px;max-width:52ch;
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  font-size:clamp(15.5px,3.4vw,18px);color:var(--text-soft);line-height:1.5;font-style:italic;}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;justify-content:center;}
+.badge{font-size:11px;letter-spacing:.08em;padding:5px 11px;text-transform:uppercase;
+  border:1px solid var(--rule);color:var(--text-muted);background:rgba(201,162,39,.05);white-space:nowrap;}
+.badge.gold{border-color:var(--rule-strong);color:var(--gold);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;}
+.btn{display:inline-block;padding:14px 26px;text-decoration:none;font-size:15px;font-weight:600;
+  letter-spacing:.02em;border:1px solid var(--gold-dim);background:transparent;color:var(--gold);min-height:44px;}
+.btn:hover{background:rgba(201,162,39,.1);border-color:var(--gold);color:var(--gold-bright);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#100E08;}
+.btn.primary:hover{background:var(--gold-bright);border-color:var(--gold-bright);color:#100E08;}
+
+section{padding:50px 0;}
+section + section{border-top:1px solid var(--rule);}
+h2.sec{font-size:clamp(23px,5vw,30px);margin:0 0 8px;color:var(--gold-pale);font-weight:600;}
+.section-note{color:var(--text-soft);margin:0 0 26px;max-width:62ch;}
+
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--rule);padding:19px 21px;box-shadow:var(--shadow);}
+.card .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 9px;}
+.card p{margin:0;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:11px 0 0;padding-top:11px;border-top:1px solid var(--rule);}
+
+.pull{background:rgba(201,162,39,.06);border-top:2px solid var(--gold-dim);
+  border-bottom:2px solid var(--gold-dim);padding:24px 26px;margin:30px 0 0;}
+.pull p{margin:0;font-size:clamp(16.5px,3.5vw,19px);line-height:1.45;color:var(--gold-pale);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:12px;letter-spacing:.05em;font-style:italic;}
+
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:26px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--rule);padding:18px 14px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;display:block;
+  margin-bottom:5px;color:var(--gold-pale);letter-spacing:.06em;}
+.pillar span{font-size:13px;color:var(--text-muted);}
+.pillar.t{border-top:2px solid var(--truth);}
+.pillar.h{border-top:2px solid var(--gold);}
+.pillar.m{border-top:2px solid var(--mercy);}
+
+.stage{border:1px solid var(--rule);background:var(--bg-raised);margin-bottom:12px;box-shadow:var(--shadow);}
+.stage summary{cursor:pointer;padding:17px 19px;list-style:none;display:flex;gap:15px;
+  align-items:center;min-height:44px;}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(201,162,39,.06);}
+.stage .snum{flex:none;width:34px;height:34px;border-radius:50%;background:transparent;
+  border:1px solid var(--gold-dim);color:var(--gold);display:inline-flex;align-items:center;
+  justify-content:center;font-size:14px;font-weight:600;}
+.stage[open] .snum{background:var(--gold);color:#100E08;border-color:var(--gold);}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;
+  font-weight:600;color:var(--gold-pale);letter-spacing:.05em;}
+.stage .sname span{display:block;font-size:14px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:11px;letter-spacing:.06em;}
+.stage .body{padding:4px 19px 17px;border-top:1px solid var(--rule);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li + li{border-top:1px solid var(--rule);}
+ol.chapters a{display:flex;gap:12px;align-items:baseline;padding:13px 2px;text-decoration:none;
+  color:var(--text);min-height:44px;}
+ol.chapters a:hover{color:var(--gold-bright);}
+ol.chapters .cid{flex:none;font-size:11px;color:var(--text-muted);width:42px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:14px;font-size:14px;}
+
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--rule);box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:16px 19px;text-decoration:none;color:var(--text);min-height:44px;}
+ul.linklist a:hover{background:rgba(201,162,39,.06);}
+ul.linklist .lt{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:19px;
+  display:block;color:var(--gold-pale);letter-spacing:.03em;}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:4px;}
+.flag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;margin-left:9px;
+  vertical-align:2px;white-space:nowrap;border:1px solid;}
+.flag.partial{border-color:var(--gold-dim);color:var(--gold);}
+.flag.speculative{border-color:var(--spec);color:var(--spec);}
+
+.warn{border:1px solid var(--rule);border-left:3px solid var(--mercy);
+  background:rgba(196,121,95,.07);padding:22px 24px;}
+.warn h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;margin:0 0 10px;
+  color:var(--mercy);letter-spacing:.02em;}
+.warn p{margin:0 0 11px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+.license{background:var(--bg-raised);border:1px solid var(--rule);padding:24px 26px;}
+.license .big{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:600;
+  margin:0 0 12px;color:var(--gold-pale);letter-spacing:.03em;}
+.license ul{margin:0 0 14px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:6px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+footer{padding:36px 0 64px;font-size:13px;color:var(--text-muted);
+  border-top:1px solid var(--rule);margin-top:20px;}
+footer p{margin:0 0 7px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+/* ================= reading pages ================= */
+.topbar{position:sticky;top:0;z-index:20;background:rgba(12,11,8,.94);
+  border-bottom:1px solid var(--rule);}
+@supports ((backdrop-filter:blur(8px)) or (-webkit-backdrop-filter:blur(8px))){
+  .topbar{-webkit-backdrop-filter:saturate(140%) blur(8px);backdrop-filter:saturate(140%) blur(8px);}
+}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:50px;}
+.topbar a.home{font-size:13.5px;text-decoration:none;color:var(--gold);white-space:nowrap;}
+.topbar .where{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.progress{height:2px;}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold-dim),var(--gold));}
+
+article{max-width:680px;margin:0 auto;padding:44px 22px 0;}
+.doc-head{margin-bottom:38px;padding-bottom:26px;border-bottom:1px solid var(--rule);text-align:center;}
+.doc-kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 14px;}
+.doc-title{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,7vw,44px);
+  line-height:1.1;margin:0;font-weight:600;color:var(--gold-pale);letter-spacing:.01em;}
+.doc-sub{font-size:15px;color:var(--truth);margin:12px 0 0;font-style:italic;}
+.doc-meta{font-size:12px;color:var(--text-muted);margin:14px 0 0;letter-spacing:.06em;}
+
+.doc-body{font-size:18px;line-height:1.75;color:var(--text);}
+.doc-body p{margin:0 0 1.25em;}
+.doc-body > p:first-of-type::first-letter{float:left;font-family:'Cormorant Garamond',Georgia,serif;
+  font-size:3.4em;line-height:.82;padding:.06em .1em 0 0;color:var(--gold);font-weight:600;}
+.doc-body h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;font-weight:600;
+  margin:2em 0 .7em;color:var(--gold-pale);letter-spacing:.03em;}
+.doc-body h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;font-weight:600;
+  margin:1.9em 0 .6em;color:var(--gold);letter-spacing:.03em;}
+blockquote.scripture{margin:1.7em 0;padding:16px 0 16px 22px;border-left:2px solid var(--gold-dim);
+  background:rgba(201,162,39,.04);}
+blockquote.scripture p{margin:0;font-style:italic;color:var(--gold-pale);font-size:17px;line-height:1.6;}
+blockquote.scripture cite{display:block;margin-top:9px;font-style:normal;font-size:12.5px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+
+.docnav{max-width:680px;margin:56px auto 0;padding:0 22px 70px;}
+.docnav .orn{margin-bottom:26px;}
+.navgrid{display:grid;grid-template-columns:1fr;gap:12px;}
+@media (min-width:560px){ .navgrid{grid-template-columns:1fr 1fr;} }
+.nav-btn{display:block;padding:17px 20px;border:1px solid var(--rule);text-decoration:none;
+  background:var(--bg-raised);min-height:44px;}
+.nav-btn:hover{background:rgba(201,162,39,.07);border-color:var(--gold-dim);}
+.nav-btn .nav-label{display:block;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--gold-dim);margin-bottom:5px;}
+.nav-btn .nav-title{display:block;font-size:15.5px;color:var(--text);line-height:1.3;}
+.nav-btn:hover .nav-title{color:var(--gold-bright);}
+.nav-btn.next{text-align:right;}
+.nav-btn.disabled{opacity:.42;}
+.nav-hub{text-align:center;margin-top:20px;font-size:13.5px;}
+.kbd-hint{text-align:center;margin-top:14px;font-size:11.5px;color:var(--text-muted);letter-spacing:.05em;}
+@media (hover:none){ .kbd-hint{display:none;} }
+
+.notfound{text-align:center;padding:90px 22px;}
+.notfound h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,8vw,46px);
+  color:var(--gold-pale);margin:0 0 14px;font-weight:600;}
+.notfound p{color:var(--text-soft);max-width:44ch;margin:0 auto 26px;}
+
+@media print{
+  body{background:#fff;color:#000;}
+  .topbar,.docnav,.skip,.setup,footer,.kbd-hint{display:none !important;}
+  article{max-width:none;padding:0;}
+  .doc-title,.doc-body h2,.doc-body h3{color:#000;}
+  .doc-body{font-size:12pt;}
+  blockquote.scripture{border-left:2px solid #999;background:none;}
+  blockquote.scripture p{color:#222;}
+  a{color:#000;text-decoration:none;}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<style>
+.entry{border-top:1px solid var(--rule);padding:34px 0;}
+.entry:first-of-type{border-top:0;}
+.entry-ref{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 6px;}
+.entry-name{font-family:'Cormorant Garamond',Georgia,serif;font-size:25px;font-weight:600;
+  color:var(--gold-pale);margin:0 0 18px;letter-spacing:.02em;}
+.passage{border-left:2px solid var(--gold-dim);padding:4px 0 4px 20px;margin:0 0 20px;
+  background:rgba(201,162,39,.04);}
+.passage p{margin:0 0 .7em;font-size:17px;line-height:1.65;color:var(--gold-pale);font-style:italic;}
+.passage p:last-child{margin-bottom:0;}
+.passage .vn{font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:10.5px;
+  color:var(--text-muted);vertical-align:3px;margin-right:5px;}
+.conn{font-size:16.5px;line-height:1.6;color:var(--text);margin:0 0 16px;}
+.tags{display:flex;flex-wrap:wrap;gap:7px;align-items:center;}
+.tag{font-size:11px;letter-spacing:.06em;padding:4px 10px;border:1px solid var(--rule);
+  color:var(--text-soft);text-decoration:none;white-space:nowrap;}
+a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
+.tag.pillar{text-transform:uppercase;letter-spacing:.12em;}
+.tag.pillar.t{border-color:var(--truth);color:var(--truth);}
+.tag.pillar.m{border-color:var(--mercy);color:var(--mercy);}
+.tag.pillar.h{border-color:var(--gold);color:var(--gold);}
+.tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
+.tag.corrected{border-color:var(--gold);color:var(--gold);}
+.tag.reviewed{border-color:var(--truth);color:var(--truth);}
+.passage.cluster p{font-style:normal;color:var(--text);}
+.passage.cluster .cref{color:var(--gold-dim);font-size:10.5px;margin-right:9px;vertical-align:2px;}
+.cluster-note{font-size:12px;color:var(--text-muted);letter-spacing:.06em;margin:0 0 12px;font-style:italic;}
+.entry-ref.cluster-label{color:var(--gold);}
+.tag.kind{border-style:solid;border-color:var(--gold-dim);color:var(--gold);
+  text-transform:uppercase;letter-spacing:.12em;font-size:10px;}
+.tag.mode{text-transform:uppercase;letter-spacing:.12em;font-size:10px;border-style:dotted;}
+.tag.mode.prescribes{border-color:var(--gold);color:var(--gold);}
+.tag.mode.exemplifies{border-color:var(--truth);color:var(--truth);}
+.tag.mode.counter{border-color:var(--mercy);color:var(--mercy);}
+.booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
+.stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
+@media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
+.stat div{border:1px solid var(--rule);background:var(--bg-raised);padding:14px;text-align:center;}
+.stat b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;
+  color:var(--gold-pale);font-weight:600;}
+.stat span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+</style>
+<div class="topbar"><div class="wrap">
+<a class="home" href="index.html">✦ The Way of Mercy and Truth</a>
+<span class="where mono">Romans · index</span>
+</div><div class="progress"><i></i></div></div>
+<main id="main"><article>
+<div class="doc-head">
+<p class="doc-kicker">Scripture Index</p>
+<h1 class="doc-title">Romans</h1>
+<p class="doc-sub">World English Bible · public domain</p>
+<p class="doc-meta mono">16 passages · 208 of 433 verses</p>
+</div>
+<div class="doc-body">
+<div class="entry">
+<p class="entry-ref">Romans 1:8-15</p>
+<h2 class="entry-name">That I with you may be encouraged in you, each of us by the other's faith</h2>
+<div class="passage">
+<p><span class="vn">8</span>First, I thank my God through Jesus Christ for all of you, that your faith is proclaimed throughout the whole world.</p>
+<p><span class="vn">9</span>For God is my witness, whom I serve in my spirit in the Good News of his Son, how unceasingly I make mention of you always in my prayers,</p>
+<p><span class="vn">10</span>requesting, if by any means now at last I may be prospered by the will of God to come to you.</p>
+<p><span class="vn">11</span>For I long to see you, that I may impart to you some spiritual gift, to the end that you may be established;</p>
+<p><span class="vn">12</span>that is, that I with you may be encouraged in you, each of us by the other’s faith, both yours and mine.</p>
+<p><span class="vn">13</span>Now I don’t desire to have you unaware, brothers, that I often planned to come to you, and was hindered so far, that I might have some fruit among you also, even as among the rest of the Gentiles.</p>
+<p><span class="vn">14</span>I am debtor both to Greeks and to foreigners, both to the wise and to the foolish.</p>
+<p><span class="vn">15</span>So, as much as is in me, I am eager to preach the Good News to you also who are in Rome.</p>
+</div>
+<p class="conn">The apostle writing to a church he has never visited says he wants to give them something, and corrects himself at once: 'that is, that I with you may be encouraged in you, each of us by the other's faith, both yours and mine.' Encouragement as mutual rather than handed down. C13's shared life, offered on equal terms.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c13.html">C13</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 1:18-32</p>
+<h2 class="entry-name">Knowing God, they didn't glorify him as God, neither gave thanks, but became vain in their reasoning, and their senseless heart was darkened</h2>
+<div class="passage">
+<p><span class="vn">18</span>For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who suppress the truth in unrighteousness,</p>
+<p><span class="vn">19</span>because that which is known of God is revealed in them, for God revealed it to them.</p>
+<p><span class="vn">20</span>For the invisible things of him since the creation of the world are clearly seen, being perceived through the things that are made, even his everlasting power and divinity; that they may be without excuse.</p>
+<p><span class="vn">21</span>Because, knowing God, they didn’t glorify him as God, neither gave thanks, but became vain in their reasoning, and their senseless heart was darkened.</p>
+<p><span class="vn">22</span>Professing themselves to be wise, they became fools,</p>
+<p><span class="vn">23</span>and traded the glory of the incorruptible God for the likeness of an image of corruptible man, and of birds, and four-footed animals, and creeping things.</p>
+<p><span class="vn">24</span>Therefore God also gave them up in the lusts of their hearts to uncleanness, that their bodies should be dishonored among themselves,</p>
+<p><span class="vn">25</span>who exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen.</p>
+<p><span class="vn">26</span>For this reason, God gave them up to vile passions. For their women changed the natural function into that which is against nature.</p>
+<p><span class="vn">27</span>Likewise also the men, leaving the natural function of the woman, burned in their lust toward one another, men doing what is inappropriate with men, and receiving in themselves the due penalty of their error.</p>
+<p><span class="vn">28</span>Even as they refused to have God in their knowledge, God gave them up to a reprobate mind, to do those things which are not fitting;</p>
+<p><span class="vn">29</span>being filled with all unrighteousness, sexual immorality, wickedness, covetousness, malice; full of envy, murder, strife, deceit, evil habits, secret slanderers,</p>
+<p><span class="vn">30</span>backbiters, hateful to God, insolent, haughty, boastful, inventors of evil things, disobedient to parents,</p>
+<p><span class="vn">31</span>without understanding, covenant breakers, without natural affection, unforgiving, unmerciful;</p>
+<p><span class="vn">32</span>who, knowing the ordinance of God, that those who practice such things are worthy of death, not only do the same, but also approve of those who practice them.</p>
+</div>
+<p class="conn">The Scriptural Appendix cites 1:20 for the claim that 'the evidence has been on public display throughout': 'the invisible things of him since the creation of the world are clearly seen, being perceived through the things that are made.' C24's landscape as testimony. The failure that follows is traced in sequence, and its first step is ingratitude: 'knowing God, they didn't glorify him as God, neither gave thanks, but became vain in their reasoning, and their senseless heart was darkened. Professing themselves to be wise, they became fools.' C07's darkened lens produced by the condition of the heart, and C21's anatomy of a descent in which each stage — 'God gave them up,' three times — is the consequence of the last. The list of vices that closes the chapter is part of the argument the index anchors, not a separate set of tags.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S2 Perception</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c24.html">C24</a>
+<a class="tag" href="c07.html">C07</a>
+<a class="tag" href="c21.html">C21</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 2:1-16</p>
+<h2 class="entry-name">In that which you judge another, you condemn yourself. For you who judge practice the same things</h2>
+<div class="passage">
+<p><span class="vn">1</span>Therefore you are without excuse, O man, whoever you are who judge. For in that which you judge another, you condemn yourself. For you who judge practice the same things.</p>
+<p><span class="vn">2</span>We know that the judgment of God is according to truth against those who practice such things.</p>
+<p><span class="vn">3</span>Do you think this, O man who judges those who practice such things, and do the same, that you will escape the judgment of God?</p>
+<p><span class="vn">4</span>Or do you despise the riches of his goodness, forbearance, and patience, not knowing that the goodness of God leads you to repentance?</p>
+<p><span class="vn">5</span>But according to your hardness and unrepentant heart you are treasuring up for yourself wrath in the day of wrath, revelation, and of the righteous judgment of God;</p>
+<p><span class="vn">6</span>who “will pay back to everyone according to their works:”</p>
+<p><span class="vn">7</span>to those who by patience in well-doing seek for glory, honor, and incorruptibility, eternal life;</p>
+<p><span class="vn">8</span>but to those who are self-seeking, and don’t obey the truth, but obey unrighteousness, will be wrath and indignation,</p>
+<p><span class="vn">9</span>oppression and anguish, on every soul of man who works evil, to the Jew first, and also to the Greek.</p>
+<p><span class="vn">10</span>But glory, honor, and peace go to every man who works good, to the Jew first, and also to the Greek.</p>
+<p><span class="vn">11</span>For there is no partiality with God.</p>
+<p><span class="vn">12</span>For as many as have sinned without law will also perish without the law. As many as have sinned under the law will be judged by the law.</p>
+<p><span class="vn">13</span>For it isn’t the hearers of the law who are righteous before God, but the doers of the law will be justified</p>
+<p><span class="vn">14</span>(for when Gentiles who don’t have the law do by nature the things of the law, these, not having the law, are a law to themselves,</p>
+<p><span class="vn">15</span>in that they show the work of the law written in their hearts, their conscience testifying with them, and their thoughts among themselves accusing or else excusing them)</p>
+<p><span class="vn">16</span>in the day when God will judge the secrets of men, according to my Good News, by Jesus Christ.</p>
+</div>
+<p class="conn">Having described the failures of others, Paul turns on the reader who has been nodding along: 'Therefore you are without excuse, O man, whoever you are who judge. For in that which you judge another, you condemn yourself. For you who judge practice the same things.' Self-Accusation's discipline of sequence — one's own portion first — applied to the very act of judging. C03's beam and speck. 'Or do you despise the riches of his goodness… not knowing that the goodness of God leads you to repentance?' And the standard is C04's: 'it isn't the hearers of the law who are righteous before God, but the doers,' with a conscience 'accusing or else excusing' them.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="a1.html">PR03</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 2:17-29</p>
+<h2 class="entry-name">You therefore who teach another, don't you teach yourself?… whose praise is not from men, but from God</h2>
+<div class="passage">
+<p><span class="vn">17</span>Indeed you bear the name of a Jew, and rest on the law, and glory in God,</p>
+<p><span class="vn">18</span>and know his will, and approve the things that are excellent, being instructed out of the law,</p>
+<p><span class="vn">19</span>and are confident that you yourself are a guide of the blind, a light to those who are in darkness,</p>
+<p><span class="vn">20</span>a corrector of the foolish, a teacher of babies, having in the law the form of knowledge and of the truth.</p>
+<p><span class="vn">21</span>You therefore who teach another, don’t you teach yourself? You who preach that a man shouldn’t steal, do you steal?</p>
+<p><span class="vn">22</span>You who say a man shouldn’t commit adultery. Do you commit adultery? You who abhor idols, do you rob temples?</p>
+<p><span class="vn">23</span>You who glory in the law, through your disobedience of the law do you dishonor God?</p>
+<p><span class="vn">24</span>For “the name of God is blasphemed among the Gentiles because of you,” just as it is written.</p>
+<p><span class="vn">25</span>For circumcision indeed profits, if you are a doer of the law, but if you are a transgressor of the law, your circumcision has become uncircumcision.</p>
+<p><span class="vn">26</span>If therefore the uncircumcised keep the ordinances of the law, won’t his uncircumcision be accounted as circumcision?</p>
+<p><span class="vn">27</span>Won’t the uncircumcision which is by nature, if it fulfills the law, judge you, who with the letter and circumcision are a transgressor of the law?</p>
+<p><span class="vn">28</span>For he is not a Jew who is one outwardly, neither is that circumcision which is outward in the flesh;</p>
+<p><span class="vn">29</span>but he is a Jew who is one inwardly, and circumcision is that of the heart, in the spirit not in the letter; whose praise is not from men, but from God.</p>
+</div>
+<p class="conn">The one who knows the law and teaches it is asked the audit's question about consistency, five times: 'You therefore who teach another, don't you teach yourself? You who preach that a man shouldn't steal, do you steal?…' The Moral Audit's fifth area — where private conduct differs from public — pressed on the teacher specifically. And the outward sign read inwardly: 'circumcision is that of the heart, in the spirit not in the letter; whose praise is not from men, but from God' — C06's reading, and the hidden praise C23 waits for.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="c06.html">C06</a>
+<a class="tag" href="a1.html">PR01</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 3:9-20</p>
+<h2 class="entry-name">There is no one righteous; no, not one… The way of peace, they haven't known</h2>
+<div class="passage">
+<p><span class="vn">9</span>What then? Are we better than they? No, in no way. For we previously warned both Jews and Greeks, that they are all under sin.</p>
+<p><span class="vn">10</span>As it is written, “There is no one righteous; no, not one.</p>
+<p><span class="vn">11</span>There is no one who understands. There is no one who seeks after God.</p>
+<p><span class="vn">12</span>They have all turned aside. They have together become unprofitable. There is no one who does good, no, not, so much as one.”</p>
+<p><span class="vn">13</span>“Their throat is an open tomb. With their tongues they have used deceit.” “The poison of vipers is under their lips;”</p>
+<p><span class="vn">14</span>“whose mouth is full of cursing and bitterness.”</p>
+<p><span class="vn">15</span>“Their feet are swift to shed blood.</p>
+<p><span class="vn">16</span>Destruction and misery are in their ways.</p>
+<p><span class="vn">17</span>The way of peace, they haven’t known.”</p>
+<p><span class="vn">18</span>“There is no fear of God before their eyes.”</p>
+<p><span class="vn">19</span>Now we know that whatever things the law says, it speaks to those who are under the law, that every mouth may be closed, and all the world may be brought under the judgment of God.</p>
+<p><span class="vn">20</span>Because by the works of the law, no flesh will be justified in his sight. For through the law comes the knowledge of sin.</p>
+</div>
+<p class="conn">A chain of psalm verses describing the human condition by its speech and its feet: 'Their throat is an open tomb… whose mouth is full of cursing and bitterness. Their feet are swift to shed blood… The way of peace, they haven't known.' 'That every mouth may be closed.' C04's audit applied to everyone at once, and C21's root found in every heart rather than in a few.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="c21.html">C21</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 3:21-31</p>
+<h2 class="entry-name">All have sinned, and fall short of the glory of God; being justified freely by his grace… Where then is the boasting? It is excluded</h2>
+<div class="passage">
+<p><span class="vn">21</span>But now apart from the law, a righteousness of God has been revealed, being testified by the law and the prophets;</p>
+<p><span class="vn">22</span>even the righteousness of God through faith in Jesus Christ to all and on all those who believe. For there is no distinction,</p>
+<p><span class="vn">23</span>for all have sinned, and fall short of the glory of God;</p>
+<p><span class="vn">24</span>being justified freely by his grace through the redemption that is in Christ Jesus;</p>
+<p><span class="vn">25</span>whom God set forth to be an atoning sacrifice, through faith in his blood, for a demonstration of his righteousness through the passing over of prior sins, in God’s forbearance;</p>
+<p><span class="vn">26</span>to demonstrate his righteousness at this present time; that he might himself be just, and the justifier of him who has faith in Jesus.</p>
+<p><span class="vn">27</span>Where then is the boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith.</p>
+<p><span class="vn">28</span>We maintain therefore that a man is justified by faith apart from the works of the law.</p>
+<p><span class="vn">29</span>Or is God the God of Jews only? Isn’t he the God of Gentiles also? Yes, of Gentiles also,</p>
+<p><span class="vn">30</span>since indeed there is one God who will justify the circumcised by faith, and the uncircumcised through faith.</p>
+<p><span class="vn">31</span>Do we then nullify the law through faith? May it never be! No, we establish the law.</p>
+</div>
+<p class="conn">'For there is no distinction, for all have sinned, and fall short of the glory of God; being justified freely by his grace.' C19's door, with every distinction removed at the threshold. And the consequence for the person who walks through it: 'Where then is the boasting? It is excluded.' C22's humility as the natural posture of the forgiven.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c22.html">C22</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 4:1-25</p>
+<h2 class="entry-name">Who in hope believed against hope… he didn't consider his own body, already having been worn out</h2>
+<div class="passage">
+<p><span class="vn">1</span>What then will we say that Abraham, our forefather, has found according to the flesh?</p>
+<p><span class="vn">2</span>For if Abraham was justified by works, he has something to boast about, but not toward God.</p>
+<p><span class="vn">3</span>For what does the Scripture say? “Abraham believed God, and it was accounted to him for righteousness.”</p>
+<p><span class="vn">4</span>Now to him who works, the reward is not counted as grace, but as something owed.</p>
+<p><span class="vn">5</span>But to him who doesn’t work, but believes in him who justifies the ungodly, his faith is accounted for righteousness.</p>
+<p><span class="vn">6</span>Even as David also pronounces blessing on the man to whom God counts righteousness apart from works,</p>
+<p><span class="vn">7</span>“Blessed are they whose iniquities are forgiven, whose sins are covered.</p>
+<p><span class="vn">8</span>Blessed is the man whom the Lord will by no means charge with sin.”</p>
+<p><span class="vn">9</span>Is this blessing then pronounced on the circumcised, or on the uncircumcised also? For we say that faith was accounted to Abraham for righteousness.</p>
+<p><span class="vn">10</span>How then was it counted? When he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.</p>
+<p><span class="vn">11</span>He received the sign of circumcision, a seal of the righteousness of the faith which he had while he was in uncircumcision, that he might be the father of all those who believe, though they might be in uncircumcision, that righteousness might also be accounted to them.</p>
+<p><span class="vn">12</span>He is the father of circumcision to those who not only are of the circumcision, but who also walk in the steps of that faith of our father Abraham, which he had in uncircumcision.</p>
+<p><span class="vn">13</span>For the promise to Abraham and to his seed that he should be heir of the world wasn’t through the law, but through the righteousness of faith.</p>
+<p><span class="vn">14</span>For if those who are of the law are heirs, faith is made void, and the promise is made of no effect.</p>
+<p><span class="vn">15</span>For the law works wrath, for where there is no law, neither is there disobedience.</p>
+<p><span class="vn">16</span>For this cause it is of faith, that it may be according to grace, to the end that the promise may be sure to all the seed, not to that only which is of the law, but to that also which is of the faith of Abraham, who is the father of us all.</p>
+<p><span class="vn">17</span>As it is written, “I have made you a father of many nations.” This is in the presence of him whom he believed: God, who gives life to the dead, and calls the things that are not, as though they were.</p>
+<p><span class="vn">18</span>Who in hope believed against hope, to the end that he might become a father of many nations, according to that which had been spoken, “So will your seed be.”</p>
+<p><span class="vn">19</span>Without being weakened in faith, he didn’t consider his own body, already having been worn out, (he being about a hundred years old), and the deadness of Sarah’s womb.</p>
+<p><span class="vn">20</span>Yet, looking to the promise of God, he didn’t waver through unbelief, but grew strong through faith, giving glory to God,</p>
+<p><span class="vn">21</span>and being fully assured that what he had promised, he was also able to perform.</p>
+<p><span class="vn">22</span>Therefore it also was “reckoned to him for righteousness.”</p>
+<p><span class="vn">23</span>Now it was not written that it was accounted to him for his sake alone,</p>
+<p><span class="vn">24</span>but for our sake also, to whom it will be accounted, who believe in him who raised Jesus, our Lord, from the dead,</p>
+<p><span class="vn">25</span>who was delivered up for our trespasses, and was raised for our justification.</p>
+</div>
+<p class="conn">Abraham 'believed God, and it was accounted to him for righteousness' — before the sign, before the law, before the son. 'Who in hope believed against hope… Without being weakened in faith, he didn't consider his own body, already having been worn out… Yet, looking to the promise of God, he didn't waver through unbelief, but grew strong through faith.' C19's righteousness received as gift, and C25's long wait sustained not by evidence but by a promise.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c25.html">C25</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 5:1-11</p>
+<h2 class="entry-name">Suffering works perseverance; and perseverance, proven character; and proven character, hope… while we were yet sinners, Christ died for us</h2>
+<div class="passage">
+<p><span class="vn">1</span>Being therefore justified by faith, we have peace with God through our Lord Jesus Christ;</p>
+<p><span class="vn">2</span>through whom we also have our access by faith into this grace in which we stand. We rejoice in hope of the glory of God.</p>
+<p><span class="vn">3</span>Not only this, but we also rejoice in our sufferings, knowing that suffering works perseverance;</p>
+<p><span class="vn">4</span>and perseverance, proven character; and proven character, hope:</p>
+<p><span class="vn">5</span>and hope doesn’t disappoint us, because God’s love has been poured out into our hearts through the Holy Spirit who was given to us.</p>
+<p><span class="vn">6</span>For while we were yet weak, at the right time Christ died for the ungodly.</p>
+<p><span class="vn">7</span>For one will hardly die for a righteous man. Yet perhaps for a righteous person someone would even dare to die.</p>
+<p><span class="vn">8</span>But God commends his own love toward us, in that while we were yet sinners, Christ died for us.</p>
+<p><span class="vn">9</span>Much more then, being now justified by his blood, we will be saved from God’s wrath through him.</p>
+<p><span class="vn">10</span>For if, while we were enemies, we were reconciled to God through the death of his Son, much more, being reconciled, we will be saved by his life.</p>
+<p><span class="vn">11</span>Not only so, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received the reconciliation.</p>
+</div>
+<p class="conn">A staircase like 2 Peter's, but built out of trouble: 'we also rejoice in our sufferings, knowing that suffering works perseverance; and perseverance, proven character; and proven character, hope.' Each stage produces the next and none can be skipped, which is the Discipline of Gradualism's claim. Then the ground of the whole curriculum's ethic of enemy-love, stated as what God is like: 'God commends his own love toward us, in that while we were yet sinners, Christ died for us… while we were enemies, we were reconciled.' C03 grounds Non-Retaliation 'not in effectiveness but in what God is like,' and this is what God is like.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c25.html">C25</a>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="a1.html">PR14</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 5:12-21</p>
+<h2 class="entry-name">Where sin abounded, grace abounded more exceedingly</h2>
+<div class="passage">
+<p><span class="vn">12</span>Therefore, as sin entered into the world through one man, and death through sin; and so death passed to all men, because all sinned.</p>
+<p><span class="vn">13</span>For until the law, sin was in the world; but sin is not charged when there is no law.</p>
+<p><span class="vn">14</span>Nevertheless death reigned from Adam until Moses, even over those whose sins weren’t like Adam’s disobedience, who is a foreshadowing of him who was to come.</p>
+<p><span class="vn">15</span>But the free gift isn’t like the trespass. For if by the trespass of the one the many died, much more did the grace of God, and the gift by the grace of the one man, Jesus Christ, abound to the many.</p>
+<p><span class="vn">16</span>The gift is not as through one who sinned: for the judgment came by one to condemnation, but the free gift came of many trespasses to justification.</p>
+<p><span class="vn">17</span>For if by the trespass of the one, death reigned through the one; so much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one, Jesus Christ.</p>
+<p><span class="vn">18</span>So then as through one trespass, all men were condemned; even so through one act of righteousness, all men were justified to life.</p>
+<p><span class="vn">19</span>For as through the one man’s disobedience many were made sinners, even so through the obedience of the one, many will be made righteous.</p>
+<p><span class="vn">20</span>The law came in besides, that the trespass might abound; but where sin abounded, grace abounded more exceedingly;</p>
+<p><span class="vn">21</span>that as sin reigned in death, even so grace might reign through righteousness to eternal life through Jesus Christ our Lord.</p>
+</div>
+<p class="conn">Adam and Christ set side by side: one trespass, one act of righteousness; death reigning through one, life through the other. 'The law came in besides, that the trespass might abound; but where sin abounded, grace abounded more exceedingly.' C19's door, wider than any failure that might be brought to it.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 6:1-14</p>
+<h2 class="entry-name">Don't let sin reign in your mortal body… present yourselves to God, as alive from the dead</h2>
+<div class="passage">
+<p><span class="vn">1</span>What shall we say then? Shall we continue in sin, that grace may abound?</p>
+<p><span class="vn">2</span>May it never be! We who died to sin, how could we live in it any longer?</p>
+<p><span class="vn">3</span>Or don’t you know that all we who were baptized into Christ Jesus were baptized into his death?</p>
+<p><span class="vn">4</span>We were buried therefore with him through baptism to death, that just like Christ was raised from the dead through the glory of the Father, so we also might walk in newness of life.</p>
+<p><span class="vn">5</span>For if we have become united with him in the likeness of his death, we will also be part of his resurrection;</p>
+<p><span class="vn">6</span>knowing this, that our old man was crucified with him, that the body of sin might be done away with, so that we would no longer be in bondage to sin.</p>
+<p><span class="vn">7</span>For he who has died has been freed from sin.</p>
+<p><span class="vn">8</span>But if we died with Christ, we believe that we will also live with him;</p>
+<p><span class="vn">9</span>knowing that Christ, being raised from the dead, dies no more. Death no more has dominion over him!</p>
+<p><span class="vn">10</span>For the death that he died, he died to sin one time; but the life that he lives, he lives to God.</p>
+<p><span class="vn">11</span>Thus consider yourselves also to be dead to sin, but alive to God in Christ Jesus our Lord.</p>
+<p><span class="vn">12</span>Therefore don’t let sin reign in your mortal body, that you should obey it in its lusts.</p>
+<p><span class="vn">13</span>Neither present your members to sin as instruments of unrighteousness, but present yourselves to God, as alive from the dead, and your members as instruments of righteousness to God.</p>
+<p><span class="vn">14</span>For sin will not have dominion over you. For you are not under law, but under grace.</p>
+</div>
+<p class="conn">'Shall we continue in sin, that grace may abound? May it never be!' Baptism as death and burial, and the new life as a walk: 'that… we also might walk in newness of life.' C26's change of nature, and its daily form, C20's: 'Therefore don't let sin reign in your mortal body, that you should obey it in its lusts. Neither present your members to sin as instruments of unrighteousness.' What is not handed over at the gate does not rule.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c26.html">C26</a>
+<a class="tag" href="c20.html">C20</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 6:15-23</p>
+<h2 class="entry-name">To whom you present yourselves as servants to obedience, his servants you are… What fruit then did you have at that time?</h2>
+<div class="passage">
+<p><span class="vn">15</span>What then? Shall we sin, because we are not under law, but under grace? May it never be!</p>
+<p><span class="vn">16</span>Don’t you know that to whom you present yourselves as servants to obedience, his servants you are whom you obey; whether of sin to death, or of obedience to righteousness?</p>
+<p><span class="vn">17</span>But thanks be to God, that, whereas you were bondservants of sin, you became obedient from the heart to that form of teaching whereunto you were delivered.</p>
+<p><span class="vn">18</span>Being made free from sin, you became bondservants of righteousness.</p>
+<p><span class="vn">19</span>I speak in human terms because of the weakness of your flesh, for as you presented your members as servants to uncleanness and to wickedness upon wickedness, even so now present your members as servants to righteousness for sanctification.</p>
+<p><span class="vn">20</span>For when you were servants of sin, you were free in regard to righteousness.</p>
+<p><span class="vn">21</span>What fruit then did you have at that time in the things of which you are now ashamed? For the end of those things is death.</p>
+<p><span class="vn">22</span>But now, being made free from sin, and having become servants of God, you have your fruit of sanctification, and the result of eternal life.</p>
+<p><span class="vn">23</span>For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.</p>
+</div>
+<p class="conn">'Don't you know that to whom you present yourselves as servants to obedience, his servants you are whom you obey?' C21's diagnostic maxim — what you obey is what masters you, whatever you call it — and the backward look that tests it: 'What fruit then did you have at that time in the things of which you are now ashamed? For the end of those things is death.' Fruit as the measure, C11's image, set against 'your fruit of sanctification.' 'The wages of sin is death, but the free gift of God is eternal life.'</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="c11.html">C11</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 7:1-6</p>
+<h2 class="entry-name">So that we serve in newness of the spirit, and not in oldness of the letter</h2>
+<div class="passage">
+<p><span class="vn">1</span>Or don’t you know, brothers (for I speak to men who know the law), that the law has dominion over a man for as long as he lives?</p>
+<p><span class="vn">2</span>For the woman that has a husband is bound by law to the husband while he lives, but if the husband dies, she is discharged from the law of the husband.</p>
+<p><span class="vn">3</span>So then if, while the husband lives, she is joined to another man, she would be called an adulteress. But if the husband dies, she is free from the law, so that she is no adulteress, though she is joined to another man.</p>
+<p><span class="vn">4</span>Therefore, my brothers, you also were made dead to the law through the body of Christ, that you would be joined to another, to him who was raised from the dead, that we might bring forth fruit to God.</p>
+<p><span class="vn">5</span>For when we were in the flesh, the sinful passions which were through the law, worked in our members to bring forth fruit to death.</p>
+<p><span class="vn">6</span>But now we have been discharged from the law, having died to that in which we were held; so that we serve in newness of the spirit, and not in oldness of the letter.</p>
+</div>
+<p class="conn">The analogy of a widow freed from the law of her husband: the believer has died to the law 'that we might bring forth fruit to God… so that we serve in newness of the spirit, and not in oldness of the letter.' C06's movement from the letter's surface to the spirit beneath it.</p>
+<div class="tags">
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c06.html">C06</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 7:7-25</p>
+<h2 class="entry-name">For I don't practice what I desire to do; but what I hate, that I do… What a wretched man I am!</h2>
+<div class="passage">
+<p><span class="vn">7</span>What shall we say then? Is the law sin? May it never be! However, I wouldn’t have known sin, except through the law. For I wouldn’t have known coveting, unless the law had said, “You shall not covet.”</p>
+<p><span class="vn">8</span>But sin, finding occasion through the commandment, produced in me all kinds of coveting. For apart from the law, sin is dead.</p>
+<p><span class="vn">9</span>I was alive apart from the law once, but when the commandment came, sin revived, and I died.</p>
+<p><span class="vn">10</span>The commandment, which was for life, this I found to be for death;</p>
+<p><span class="vn">11</span>for sin, finding occasion through the commandment, deceived me, and through it killed me.</p>
+<p><span class="vn">12</span>Therefore the law indeed is holy, and the commandment holy, and righteous, and good.</p>
+<p><span class="vn">13</span>Did then that which is good become death to me? May it never be! But sin, that it might be shown to be sin, by working death to me through that which is good; that through the commandment sin might become exceeding sinful.</p>
+<p><span class="vn">14</span>For we know that the law is spiritual, but I am fleshly, sold under sin.</p>
+<p><span class="vn">15</span>For I don’t know what I am doing. For I don’t practice what I desire to do; but what I hate, that I do.</p>
+<p><span class="vn">16</span>But if what I don’t desire, that I do, I consent to the law that it is good.</p>
+<p><span class="vn">17</span>So now it is no more I that do it, but sin which dwells in me.</p>
+<p><span class="vn">18</span>For I know that in me, that is, in my flesh, dwells no good thing. For desire is present with me, but I don’t find it doing that which is good.</p>
+<p><span class="vn">19</span>For the good which I desire, I don’t do; but the evil which I don’t desire, that I practice.</p>
+<p><span class="vn">20</span>But if what I don’t desire, that I do, it is no more I that do it, but sin which dwells in me.</p>
+<p><span class="vn">21</span>I find then the law, that, to me, while I desire to do good, evil is present.</p>
+<p><span class="vn">22</span>For I delight in God’s law after the inward man,</p>
+<p><span class="vn">23</span>but I see a different law in my members, warring against the law of my mind, and bringing me into captivity under the law of sin which is in my members.</p>
+<p><span class="vn">24</span>What a wretched man I am! Who will deliver me out of the body of this death?</p>
+<p><span class="vn">25</span>I thank God through Jesus Christ, our Lord! So then with the mind, I myself serve God’s law, but with the flesh, the sin’s law.</p>
+</div>
+<p class="conn">The most searching account of moral failure from the inside in all of scripture. It begins with a single commandment — 'You shall not covet' — and traces how desire used the command against itself: 'sin, finding occasion through the commandment, produced in me all kinds of coveting.' Then the divided self: 'For I don't practice what I desire to do; but what I hate, that I do… For the good which I desire, I don't do; but the evil which I don't desire, that I practice… What a wretched man I am! Who will deliver me out of the body of this death?' Interior Diagnosis follows a failure back through its phases to the place it entered; this is that tracing done honestly, ending not in a technique but in a cry and a thanksgiving. C21's anatomy and C26's divided heart, which C26 promises will be made whole.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="c26.html">C26</a>
+<a class="tag" href="a1.html">PR02</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 8:1-17</p>
+<h2 class="entry-name">There is therefore now no condemnation… you received the Spirit of adoption, by whom we cry, Abba! Father!</h2>
+<div class="passage">
+<p><span class="vn">1</span>There is therefore now no condemnation to those who are in Christ Jesus, who don’t walk according to the flesh, but according to the Spirit.</p>
+<p><span class="vn">2</span>For the law of the Spirit of life in Christ Jesus made me free from the law of sin and of death.</p>
+<p><span class="vn">3</span>For what the law couldn’t do, in that it was weak through the flesh, God did, sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh;</p>
+<p><span class="vn">4</span>that the ordinance of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.</p>
+<p><span class="vn">5</span>For those who live according to the flesh set their minds on the things of the flesh, but those who live according to the Spirit, the things of the Spirit.</p>
+<p><span class="vn">6</span>For the mind of the flesh is death, but the mind of the Spirit is life and peace;</p>
+<p><span class="vn">7</span>because the mind of the flesh is hostile towards God; for it is not subject to God’s law, neither indeed can it be.</p>
+<p><span class="vn">8</span>Those who are in the flesh can’t please God.</p>
+<p><span class="vn">9</span>But you are not in the flesh but in the Spirit, if it is so that the Spirit of God dwells in you. But if any man doesn’t have the Spirit of Christ, he is not his.</p>
+<p><span class="vn">10</span>If Christ is in you, the body is dead because of sin, but the spirit is alive because of righteousness.</p>
+<p><span class="vn">11</span>But if the Spirit of him who raised up Jesus from the dead dwells in you, he who raised up Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.</p>
+<p><span class="vn">12</span>So then, brothers, we are debtors, not to the flesh, to live after the flesh.</p>
+<p><span class="vn">13</span>For if you live after the flesh, you must die; but if by the Spirit you put to death the deeds of the body, you will live.</p>
+<p><span class="vn">14</span>For as many as are led by the Spirit of God, these are children of God.</p>
+<p><span class="vn">15</span>For you didn’t receive the spirit of bondage again to fear, but you received the Spirit of adoption, by whom we cry, “Abba! Father!”</p>
+<p><span class="vn">16</span>The Spirit himself testifies with our spirit that we are children of God;</p>
+<p><span class="vn">17</span>and if children, then heirs; heirs of God, and joint heirs with Christ; if indeed we suffer with him, that we may also be glorified with him.</p>
+</div>
+<p class="conn">The answer to the cry of 7:24: 'There is therefore now no condemnation to those who are in Christ Jesus.' C19's door at its widest. The life that follows is an indwelling — 'if it is so that the Spirit of God dwells in you… If Christ is in you' — which is C11's, and its mark is a cry of belonging rather than fear: 'you didn't receive the spirit of bondage again to fear, but you received the Spirit of adoption, by whom we cry, Abba! Father!' 'The mind of the Spirit is life and peace.'</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c11.html">C11</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 8:18-30</p>
+<h2 class="entry-name">For we don't know how to pray as we ought. But the Spirit himself makes intercession for us with groanings which can't be uttered</h2>
+<div class="passage">
+<p><span class="vn">18</span>For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us.</p>
+<p><span class="vn">19</span>For the creation waits with eager expectation for the children of God to be revealed.</p>
+<p><span class="vn">20</span>For the creation was subjected to vanity, not of its own will, but because of him who subjected it, in hope</p>
+<p><span class="vn">21</span>that the creation itself also will be delivered from the bondage of decay into the liberty of the glory of the children of God.</p>
+<p><span class="vn">22</span>For we know that the whole creation groans and travails in pain together until now.</p>
+<p><span class="vn">23</span>Not only so, but ourselves also, who have the first fruits of the Spirit, even we ourselves groan within ourselves, waiting for adoption, the redemption of our body.</p>
+<p><span class="vn">24</span>For we were saved in hope, but hope that is seen is not hope. For who hopes for that which he sees?</p>
+<p><span class="vn">25</span>But if we hope for that which we don’t see, we wait for it with patience.</p>
+<p><span class="vn">26</span>In the same way, the Spirit also helps our weaknesses, for we don’t know how to pray as we ought. But the Spirit himself makes intercession for us with groanings which can’t be uttered.</p>
+<p><span class="vn">27</span>He who searches the hearts knows what is on the Spirit’s mind, because he makes intercession for the saints according to God.</p>
+<p><span class="vn">28</span>We know that all things work together for good for those who love God, to those who are called according to his purpose.</p>
+<p><span class="vn">29</span>For whom he foreknew, he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers.</p>
+<p><span class="vn">30</span>Whom he predestined, those he also called. Whom he called, those he also justified. Whom he justified, those he also glorified.</p>
+</div>
+<p class="conn">The whole creation 'groans and travails in pain together until now,' and 'we ourselves groan within ourselves, waiting.' Groaning as the honest sound of a world not yet healed — C19's hope held inside it: 'hope that is seen is not hope… we wait for it with patience.' And then the deepest admission in the letter: 'we don't know how to pray as we ought. But the Spirit himself makes intercession for us with groanings which can't be uttered.' The Discipline of Unknowing reaches even into prayer, and Sacred Lament is carried on our behalf when we cannot form it ourselves (both at medium; the passage describes rather than commands). C09's secret place, where even the words are given.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c24.html">C24</a>
+<a class="tag" href="c09.html">C09</a>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR04</a>
+<a class="tag" href="a1.html">PR08</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Romans 8:31-39</p>
+<h2 class="entry-name">Who shall separate us from the love of Christ?</h2>
+<div class="passage">
+<p><span class="vn">31</span>What then shall we say about these things? If God is for us, who can be against us?</p>
+<p><span class="vn">32</span>He who didn’t spare his own Son, but delivered him up for us all, how would he not also with him freely give us all things?</p>
+<p><span class="vn">33</span>Who could bring a charge against God’s chosen ones? It is God who justifies.</p>
+<p><span class="vn">34</span>Who is he who condemns? It is Christ who died, yes rather, who was raised from the dead, who is at the right hand of God, who also makes intercession for us.</p>
+<p><span class="vn">35</span>Who shall separate us from the love of Christ? Could oppression, or anguish, or persecution, or famine, or nakedness, or peril, or sword?</p>
+<p><span class="vn">36</span>Even as it is written, “For your sake we are killed all day long. We were accounted as sheep for the slaughter.”</p>
+<p><span class="vn">37</span>No, in all these things, we are more than conquerors through him who loved us.</p>
+<p><span class="vn">38</span>For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,</p>
+<p><span class="vn">39</span>nor height, nor depth, nor any other created thing, will be able to separate us from the love of God, which is in Christ Jesus our Lord.</p>
+</div>
+<p class="conn">'If God is for us, who can be against us?… Who is he who condemns?… Who shall separate us from the love of Christ? Could oppression, or anguish, or persecution, or famine, or nakedness, or peril, or sword?' Every threat named and none sufficient: 'neither death, nor life… nor things present, nor things to come… nor any other created thing, will be able to separate us from the love of God.' C19's security, and C22's quiet soul grounded in something no circumstance reaches.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c22.html">C22</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+</div>
+</article>
+<nav class="docnav">
+<p class="rule-orn orn"><span>✦</span></p>
+<p class="nav-hub"><a href="scripture.html">All indexed books</a> · <a href="index.html">Table of contents</a></p>
+</nav>
+</main></body></html>

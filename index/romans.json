@@ -1,0 +1,343 @@
+{
+  "book": "Romans",
+  "translation": "World English Bible (public domain)",
+  "status": "in progress — chapters 1-8 indexed; 9-16 pending",
+  "method_version": "2.3",
+  "text_source": "index/text/romans.json",
+  "note": "Paul's most sustained argument, indexed in two sections: the gospel of righteousness by faith (1-8) and Israel, the life of the community, and the greetings (9-16). The Scriptural Appendix cites 1:20 for C24 and 11:33-34 for the Discipline of Unknowing.",
+  "entries": [
+    {
+      "ref": "Romans 1:8-15",
+      "pericope": "That I with you may be encouraged in you, each of us by the other's faith",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The apostle writing to a church he has never visited says he wants to give them something, and corrects himself at once: 'that is, that I with you may be encouraged in you, each of us by the other's faith, both yours and mine.' Encouragement as mutual rather than handed down. C13's shared life, offered on equal terms.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 1:18-32",
+      "pericope": "Knowing God, they didn't glorify him as God, neither gave thanks, but became vain in their reasoning, and their senseless heart was darkened",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C07",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The Scriptural Appendix cites 1:20 for the claim that 'the evidence has been on public display throughout': 'the invisible things of him since the creation of the world are clearly seen, being perceived through the things that are made.' C24's landscape as testimony. The failure that follows is traced in sequence, and its first step is ingratitude: 'knowing God, they didn't glorify him as God, neither gave thanks, but became vain in their reasoning, and their senseless heart was darkened. Professing themselves to be wise, they became fools.' C07's darkened lens produced by the condition of the heart, and C21's anatomy of a descent in which each stage — 'God gave them up,' three times — is the consequence of the last. The list of vices that closes the chapter is part of the argument the index anchors, not a separate set of tags.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Romans 2:1-16",
+      "pericope": "In that which you judge another, you condemn yourself. For you who judge practice the same things",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C03",
+        "C04"
+      ],
+      "practices": [
+        "PR03"
+      ],
+      "mode": "prescribes",
+      "connection": "Having described the failures of others, Paul turns on the reader who has been nodding along: 'Therefore you are without excuse, O man, whoever you are who judge. For in that which you judge another, you condemn yourself. For you who judge practice the same things.' Self-Accusation's discipline of sequence — one's own portion first — applied to the very act of judging. C03's beam and speck. 'Or do you despise the riches of his goodness… not knowing that the goodness of God leads you to repentance?' And the standard is C04's: 'it isn't the hearers of the law who are righteous before God, but the doers,' with a conscience 'accusing or else excusing' them.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 2:17-29",
+      "pericope": "You therefore who teach another, don't you teach yourself?… whose praise is not from men, but from God",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C04",
+        "C06"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "prescribes",
+      "connection": "The one who knows the law and teaches it is asked the audit's question about consistency, five times: 'You therefore who teach another, don't you teach yourself? You who preach that a man shouldn't steal, do you steal?…' The Moral Audit's fifth area — where private conduct differs from public — pressed on the teacher specifically. And the outward sign read inwardly: 'circumcision is that of the heart, in the spirit not in the letter; whose praise is not from men, but from God' — C06's reading, and the hidden praise C23 waits for.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 3:9-20",
+      "pericope": "There is no one righteous; no, not one… The way of peace, they haven't known",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C21"
+      ],
+      "practices": [],
+      "connection": "A chain of psalm verses describing the human condition by its speech and its feet: 'Their throat is an open tomb… whose mouth is full of cursing and bitterness. Their feet are swift to shed blood… The way of peace, they haven't known.' 'That every mouth may be closed.' C04's audit applied to everyone at once, and C21's root found in every heart rather than in a few.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 3:21-31",
+      "pericope": "All have sinned, and fall short of the glory of God; being justified freely by his grace… Where then is the boasting? It is excluded",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C22"
+      ],
+      "practices": [],
+      "connection": "'For there is no distinction, for all have sinned, and fall short of the glory of God; being justified freely by his grace.' C19's door, with every distinction removed at the threshold. And the consequence for the person who walks through it: 'Where then is the boasting? It is excluded.' C22's humility as the natural posture of the forgiven.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 4:1-25",
+      "pericope": "Who in hope believed against hope… he didn't consider his own body, already having been worn out",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Abraham 'believed God, and it was accounted to him for righteousness' — before the sign, before the law, before the son. 'Who in hope believed against hope… Without being weakened in faith, he didn't consider his own body, already having been worn out… Yet, looking to the promise of God, he didn't waver through unbelief, but grew strong through faith.' C19's righteousness received as gift, and C25's long wait sustained not by evidence but by a promise.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 5:1-11",
+      "pericope": "Suffering works perseverance; and perseverance, proven character; and proven character, hope… while we were yet sinners, Christ died for us",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C03"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "A staircase like 2 Peter's, but built out of trouble: 'we also rejoice in our sufferings, knowing that suffering works perseverance; and perseverance, proven character; and proven character, hope.' Each stage produces the next and none can be skipped, which is the Discipline of Gradualism's claim. Then the ground of the whole curriculum's ethic of enemy-love, stated as what God is like: 'God commends his own love toward us, in that while we were yet sinners, Christ died for us… while we were enemies, we were reconciled.' C03 grounds Non-Retaliation 'not in effectiveness but in what God is like,' and this is what God is like.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 5:12-21",
+      "pericope": "Where sin abounded, grace abounded more exceedingly",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [],
+      "connection": "Adam and Christ set side by side: one trespass, one act of righteousness; death reigning through one, life through the other. 'The law came in besides, that the trespass might abound; but where sin abounded, grace abounded more exceedingly.' C19's door, wider than any failure that might be brought to it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 6:1-14",
+      "pericope": "Don't let sin reign in your mortal body… present yourselves to God, as alive from the dead",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Shall we continue in sin, that grace may abound? May it never be!' Baptism as death and burial, and the new life as a walk: 'that… we also might walk in newness of life.' C26's change of nature, and its daily form, C20's: 'Therefore don't let sin reign in your mortal body, that you should obey it in its lusts. Neither present your members to sin as instruments of unrighteousness.' What is not handed over at the gate does not rule.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 6:15-23",
+      "pericope": "To whom you present yourselves as servants to obedience, his servants you are… What fruit then did you have at that time?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C11"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Don't you know that to whom you present yourselves as servants to obedience, his servants you are whom you obey?' C21's diagnostic maxim — what you obey is what masters you, whatever you call it — and the backward look that tests it: 'What fruit then did you have at that time in the things of which you are now ashamed? For the end of those things is death.' Fruit as the measure, C11's image, set against 'your fruit of sanctification.' 'The wages of sin is death, but the free gift of God is eternal life.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 7:1-6",
+      "pericope": "So that we serve in newness of the spirit, and not in oldness of the letter",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C06"
+      ],
+      "practices": [],
+      "connection": "The analogy of a widow freed from the law of her husband: the believer has died to the law 'that we might bring forth fruit to God… so that we serve in newness of the spirit, and not in oldness of the letter.' C06's movement from the letter's surface to the spirit beneath it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 7:7-25",
+      "pericope": "For I don't practice what I desire to do; but what I hate, that I do… What a wretched man I am!",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C21",
+        "C26"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "mode": "exemplifies",
+      "connection": "The most searching account of moral failure from the inside in all of scripture. It begins with a single commandment — 'You shall not covet' — and traces how desire used the command against itself: 'sin, finding occasion through the commandment, produced in me all kinds of coveting.' Then the divided self: 'For I don't practice what I desire to do; but what I hate, that I do… For the good which I desire, I don't do; but the evil which I don't desire, that I practice… What a wretched man I am! Who will deliver me out of the body of this death?' Interior Diagnosis follows a failure back through its phases to the place it entered; this is that tracing done honestly, ending not in a technique but in a cry and a thanksgiving. C21's anatomy and C26's divided heart, which C26 promises will be made whole.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 8:1-17",
+      "pericope": "There is therefore now no condemnation… you received the Spirit of adoption, by whom we cry, Abba! Father!",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C11"
+      ],
+      "practices": [],
+      "connection": "The answer to the cry of 7:24: 'There is therefore now no condemnation to those who are in Christ Jesus.' C19's door at its widest. The life that follows is an indwelling — 'if it is so that the Spirit of God dwells in you… If Christ is in you' — which is C11's, and its mark is a cry of belonging rather than fear: 'you didn't receive the spirit of bondage again to fear, but you received the Spirit of adoption, by whom we cry, Abba! Father!' 'The mind of the Spirit is life and peace.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 8:18-30",
+      "pericope": "For we don't know how to pray as we ought. But the Spirit himself makes intercession for us with groanings which can't be uttered",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C09",
+        "C19"
+      ],
+      "practices": [
+        "PR04",
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The whole creation 'groans and travails in pain together until now,' and 'we ourselves groan within ourselves, waiting.' Groaning as the honest sound of a world not yet healed — C19's hope held inside it: 'hope that is seen is not hope… we wait for it with patience.' And then the deepest admission in the letter: 'we don't know how to pray as we ought. But the Spirit himself makes intercession for us with groanings which can't be uttered.' The Discipline of Unknowing reaches even into prayer, and Sacred Lament is carried on our behalf when we cannot form it ourselves (both at medium; the passage describes rather than commands). C09's secret place, where even the words are given.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 8:31-39",
+      "pericope": "Who shall separate us from the love of Christ?",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C22"
+      ],
+      "practices": [],
+      "connection": "'If God is for us, who can be against us?… Who is he who condemns?… Who shall separate us from the love of Christ? Could oppression, or anguish, or persecution, or famine, or nakedness, or peril, or sword?' Every threat named and none sufficient: 'neither death, nor life… nor things present, nor things to come… nor any other created thing, will be able to separate us from the love of God.' C19's security, and C22's quiet soul grounded in something no circumstance reaches.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

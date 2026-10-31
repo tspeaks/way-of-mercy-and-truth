@@ -1,12 +1,12 @@
 {
   "book": "Acts",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — chapters 1-7 (the church in Jerusalem) indexed; 8-12, 13-20, and 21-28 pending",
+  "status": "in progress — chapters 1-12 indexed; 13-20 and 21-28 pending",
   "method_version": "2.3",
   "text_source": "index/text/acts.json",
   "note": "Indexed in sections along the book's own movement outward: the church in Jerusalem (1-7), Samaria, Saul, and Cornelius (8-12), Paul's journeys (13-20), and the arrest, trials, and voyage to Rome (21-28). Narrative throughout, so every entry carries a mode.",
   "sectioning_note": "As with Jeremiah, the status field names what is done.",
-  "prediction_note": "The indexing order named Acts 2:44-47 and 4:32-37 'the strongest candidate for PR28, the Heavenly Palace.' Both are tagged, at high confidence, as exemplifies: a community converting property into provision for whoever lacks is the practice's positive form at the scale the practice names. Before today PR28 had no anchor at all; it now has these two, a positive prophetic anchor at Isaiah 23:15-18, and three counter-examples.",
+  "prediction_note": "The indexing order named Acts 2:44-47 and 4:32-37 'the strongest candidate for PR28, the Heavenly Palace.' Both are tagged, at high confidence, as exemplifies: a community converting property into provision for whoever lacks is the practice's positive form at the scale the practice names. A third positive anchor appears at 11:27-30, where the Gentile church at Antioch sends its surplus to Judea before the famine arrives. Before today PR28 had no anchor at all; it now has these three, a positive prophetic anchor at Isaiah 23:15-18, and three counter-examples.",
   "entries": [
     {
       "ref": "Acts 1:1-11",
@@ -325,6 +325,290 @@
       "mode": "exemplifies",
       "connection": "The council rushes at him, drags him out, and stones him. Stephen, seeing heaven opened, kneels and makes two prayers that repeat Christ's from the cross: 'Lord Jesus, receive my spirit!' and, with a loud voice, 'Lord, don't hold this sin against them!' Non-Retaliation in its final form — no return, not even in speech — and Shedding Harshness at the summit the curriculum names: prayer for the good of those killing him, at the moment of their violence. C03's hardest turn and C27's ocean. A young man named Saul is holding the coats.",
       "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 8:1-8",
+      "pericope": "Those who were scattered abroad went around preaching the word… There was great joy in that city",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Persecution scatters the church, and the scattered become messengers. Philip goes to Samaria — to the people the Jews of Judea held at arm's length — 'and there was great joy in that city.' C27's circle widening through the very dispersal meant to end it, and C17's community at home wherever it is driven. 'Devout men buried Stephen, and lamented greatly over him.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 8:9-25",
+      "pericope": "You thought you could obtain the gift of God with money… for your heart isn't right before God",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Simon, who had made himself 'some great one' by sorcery, believes, is baptized, and then offers money for the power to give the Spirit. Peter traces it to its root: 'your heart isn't right before God… ask God if perhaps the thought of your heart may be forgiven you. For I see that you are in the gall of bitterness and in the bondage of iniquity.' C21's diagnosis from the act to the heart behind it, and C08's distinction between the true gift and power bought or performed. Simon asks for prayer, which the text leaves without an ending.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 8:26-40",
+      "pericope": "Do you understand what you are reading? How can I, unless someone explains it to me?",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C06"
+      ],
+      "practices": [
+        "PR16"
+      ],
+      "mode": "exemplifies",
+      "connection": "Philip is sent to a desert road and finds a eunuch from Ethiopia — a foreigner, and a man the law excluded from the assembly — reading Isaiah 53 aloud in his chariot. Philip runs alongside and 'heard him reading,' and his first words are a question: 'Do you understand what you are reading?' He begins 'from this Scripture,' where the man already is. Listening as Mercy gives attention before concluding, and Philip hears the man before he speaks to him. Isaiah 56:3-5 promised the eunuch a name better than sons and daughters, and here it is given (C27). C06's opened understanding: 'How can I, unless someone explains it to me?' He goes on his way rejoicing.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 9:1-19",
+      "pericope": "Brother Saul, the Lord… has sent me, that you may receive your sight",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C06",
+        "C19"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "Saul, 'still breathing threats and slaughter,' is struck down on the road and blinded. The Lord sends Ananias, who objects with good reason: 'Lord, I have heard from many about this man, how much evil he did to your saints… Here he has authority… to bind all who call on your name.' He goes anyway, lays hands on the man who came to arrest him, and his first words are 'Brother Saul.' Merciful Reintegration receives the repentant back without lingering shame or probation; Ananias has only God's word that Saul is 'praying,' and he receives him as family on that word. 'Something like scales fell from his eyes' — C06's opening of the eyes in its most literal form — and the door of C19 opened for the chief persecutor.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 9:19-31",
+      "pericope": "They were all afraid of him, not believing that he was a disciple. But Barnabas took him",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C13"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "In Jerusalem the church will not have him: 'they were all afraid of him, not believing that he was a disciple.' 'But Barnabas took him, and brought him to the apostles, and declared to them how he had seen the Lord.' One man stakes his own standing on a former persecutor and ends the probation the community would have imposed. Merciful Reintegration in its second act: not only God's acceptance but a brother's sponsorship, which is how a community actually lets a stumble stop being someone's identity. C16's authority used for the one nobody trusts; C13's community enlarged by it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 9:32-43",
+      "pericope": "Full of good works and acts of mercy… showing the coats and garments which Dorcas had made",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C16"
+      ],
+      "practices": [
+        "PR05",
+        "PR23"
+      ],
+      "mode": "exemplifies",
+      "connection": "Tabitha of Joppa is introduced by her character before her name is finished: 'full of good works and acts of mercy which she did.' When she dies, the widows stand around Peter weeping, 'showing the coats and garments which Dorcas had made while she was with them.' Mercy made with her hands, garment by garment, for women with no one to clothe them. Habitual Almsgiving as a rhythm of work rather than a sum of money, and the Sacrament of the Ordinary's claim that the road's highest expression is in its least glamorous settings: a needle, a coat, a widow. C13's ordinary faithfulness.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 10:1-33",
+      "pericope": "So he called them in and lodged them",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C14"
+      ],
+      "practices": [
+        "PR20",
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "Cornelius, a Roman centurion, 'gave gifts for the needy generously to the people, and always prayed to God' — Habitual Almsgiving in a Gentile soldier, and remembered before God. Peter, praying on a rooftop, is shown unclean animals and told three times, 'What God has cleansed, you must not call unclean.' Then three Gentile men arrive at the gate asking for him. Peter has never eaten anything unclean, and he will say himself that 'it is an unlawful thing for a man who is a Jew to join himself or come to one of another nation.' He goes down, and 'called them in and lodged them.' The Sacrifice of Routine is letting hospitality override one's own discipline when a guest arrives; here the discipline is a lifetime's purity practice and the guests are those it existed to keep out. The clearest anchor for PR20 in the index. At Cornelius's house Peter refuses worship — 'Stand up! I myself am also a man.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 10:34-48",
+      "pericope": "Truly I perceive that God doesn't show favoritism",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C06"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "'Truly I perceive that God doesn't show favoritism; but in every nation he who fears him and works righteousness is acceptable to him.' A conviction Peter did not hold a week before, reached by sight — C06's perception corrected. The Spirit falls on the Gentiles while he is still speaking, and the Jewish believers with him are 'amazed.' Shedding Harshness is the widening of the circle of concern until no one stands outside it, and this is the moment the circle of the church itself is widened, by the man who had to be shown it three times. C27's ocean.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 11:1-18",
+      "pericope": "You went in to uncircumcised men, and ate with them!… But Peter began, and explained to them in order",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C15",
+        "C27"
+      ],
+      "practices": [
+        "PR09"
+      ],
+      "mode": "exemplifies",
+      "connection": "Back in Jerusalem the charge is about the table: 'You went in to uncircumcised men, and ate with them!' Peter does not defend his standing or attack his critics. He 'began, and explained to them in order' — the vision, the men at the gate, the Spirit falling — and ends with a question that puts himself under the same authority as his accusers: 'who was I, that I could withstand God?' The Architecture of Peace aims at repair rather than victory, and the dispute ends in agreement rather than defeat: 'they held their peace, and glorified God.' C27's circle confirmed by the whole community.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 11:19-26",
+      "pericope": "When he had come, and had seen the grace of God, was glad. He exhorted them all",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "At Antioch the gospel crosses to Greeks, and Jerusalem sends Barnabas to look into it. He comes, sees 'the grace of God,' is glad, and encourages them to 'remain near to the Lord. For he was a good man.' Then he goes to Tarsus to find Saul, whom no one else would sponsor, and brings him to the work. C16's authority as an opener of doors for others, and C13's community where the disciples are 'first called Christians.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 11:27-30",
+      "pericope": "As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27"
+      ],
+      "practices": [
+        "PR28",
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "A famine is foretold, and the young Gentile church at Antioch responds before it arrives: 'As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea.' Surplus — 'as any had plenty' — redirected to the afflicted rather than kept against the coming scarcity, and proportioned to each one's means. The Heavenly Palace's positive form across a border, from Gentile believers to Jewish ones; and Habitual Almsgiving's measured share. C27's circle now running in both directions.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 12:1-19",
+      "pericope": "Constant prayer was made by the assembly to God for him… Peter was sleeping between two soldiers",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C09",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "James is killed and Peter imprisoned to be executed after the feast. Two pictures: the church — 'constant prayer was made by the assembly to God for him' — and the prisoner, the night before his trial, 'sleeping between two soldiers, bound with two chains.' C09's prayer kept by a community, and C22's quiet soul asleep under sentence of death. When he knocks at the gate, the servant girl is so glad she forgets to open it, and the praying church tells her she is mad.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 12:20-25",
+      "pericope": "The voice of a god, and not of a man!… because he didn't give God the glory",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C22",
+        "C23"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Herod in royal robes gives a speech, and the crowd shouts, 'The voice of a god, and not of a man!' He accepts it, 'and he was eaten by worms and died.' Set beside Peter two chapters earlier — 'Stand up! I myself am also a man' — the contrast is the narrator's: one refuses worship, one receives it. C22's humility and C23's refusal of the audience, shown by their absence.",
+      "confidence": "medium",
       "prior": false
     }
   ]

@@ -1,12 +1,12 @@
 # Acts — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — chapters 1-7 (the church in Jerusalem) indexed; 8-12, 13-20, and 21-28 pending. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: in progress — chapters 1-12 indexed; 13-20 and 21-28 pending. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
 **Note.** Indexed in sections along the book's own movement outward: the church in Jerusalem (1-7), Samaria, Saul, and Cornelius (8-12), Paul's journeys (13-20), and the arrest, trials, and voyage to Rome (21-28). Narrative throughout, so every entry carries a mode.
 
-**Prediction note.** The indexing order named Acts 2:44-47 and 4:32-37 'the strongest candidate for PR28, the Heavenly Palace.' Both are tagged, at high confidence, as exemplifies: a community converting property into provision for whoever lacks is the practice's positive form at the scale the practice names. Before today PR28 had no anchor at all; it now has these two, a positive prophetic anchor at Isaiah 23:15-18, and three counter-examples.
+**Prediction note.** The indexing order named Acts 2:44-47 and 4:32-37 'the strongest candidate for PR28, the Heavenly Palace.' Both are tagged, at high confidence, as exemplifies: a community converting property into provision for whoever lacks is the practice's positive form at the scale the practice names. A third positive anchor appears at 11:27-30, where the Gentile church at Antioch sends its surplus to Judea before the famine arrives. Before today PR28 had no anchor at all; it now has these three, a positive prophetic anchor at Isaiah 23:15-18, and three counter-examples.
 
 **Sectioning note.** As with Jeremiah, the status field names what is done.
 
@@ -397,6 +397,309 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** The council rushes at him, drags him out, and stones him. Stephen, seeing heaven opened, kneels and makes two prayers that repeat Christ's from the cross: 'Lord Jesus, receive my spirit!' and, with a loud voice, 'Lord, don't hold this sin against them!' Non-Retaliation in its final form — no return, not even in speech — and Shedding Harshness at the summit the curriculum names: prayer for the good of those killing him, at the moment of their violence. C03's hardest turn and C27's ocean. A young man named Saul is holding the coats.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S1, S7 · chapters: C27, C03 · practices: PR06, PR15 · confidence: high
+
+---
+
+## 16. Acts 8:1-8 — Those who were scattered abroad went around preaching the word… There was great joy in that city
+
+> **8:1** Saul was consenting to his death. A great persecution arose against the assembly which was in Jerusalem in that day. They were all scattered abroad throughout the regions of Judea and Samaria, except for the apostles.
+> **8:2** Devout men buried Stephen, and lamented greatly over him.
+> **8:3** But Saul ravaged the assembly, entering into every house, and dragged both men and women off to prison.
+> **8:4** Therefore those who were scattered abroad went around preaching the word.
+> **8:5** Philip went down to the city of Samaria, and proclaimed to them the Christ.
+> **8:6** The multitudes listened with one accord to the things that were spoken by Philip, when they heard and saw the signs which he did.
+> **8:7** For unclean spirits came out of many of those who had them. They came out, crying with a loud voice. Many who had been paralyzed and lame were healed.
+> **8:8** There was great joy in that city.
+
+**Claim.** Persecution scatters the church, and the scattered become messengers. Philip goes to Samaria — to the people the Jews of Judea held at arm's length — 'and there was great joy in that city.' C27's circle widening through the very dispersal meant to end it, and C17's community at home wherever it is driven. 'Devout men buried Stephen, and lamented greatly over him.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4, S7 · chapters: C27, C17 · practices: none · confidence: medium
+
+---
+
+## 17. Acts 8:9-25 — You thought you could obtain the gift of God with money… for your heart isn't right before God
+
+> **8:9** But there was a certain man, Simon by name, who used to practice sorcery in the city, and amazed the people of Samaria, making himself out to be some great one,
+> **8:10** to whom they all listened, from the least to the greatest, saying, “This man is that great power of God.”
+> **8:11** They listened to him, because for a long time he had amazed them with his sorceries.
+> **8:12** But when they believed Philip preaching good news concerning the Kingdom of God and the name of Jesus Christ, they were baptized, both men and women.
+> **8:13** Simon himself also believed. Being baptized, he continued with Philip. Seeing signs and great miracles occurring, he was amazed.
+> **8:14** Now when the apostles who were at Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them,
+> **8:15** who, when they had come down, prayed for them, that they might receive the Holy Spirit;
+> **8:16** for as yet he had fallen on none of them. They had only been baptized in the name of Christ Jesus.
+> **8:17** Then they laid their hands on them, and they received the Holy Spirit.
+> **8:18** Now when Simon saw that the Holy Spirit was given through the laying on of the apostles’ hands, he offered them money,
+> **8:19** saying, “Give me also this power, that whomever I lay my hands on may receive the Holy Spirit.”
+> **8:20** But Peter said to him, “May your silver perish with you, because you thought you could obtain the gift of God with money!
+> **8:21** You have neither part nor lot in this matter, for your heart isn’t right before God.
+> **8:22** Repent therefore of this, your wickedness, and ask God if perhaps the thought of your heart may be forgiven you.
+> **8:23** For I see that you are in the gall of bitterness and in the bondage of iniquity.”
+> **8:24** Simon answered, “Pray for me to the Lord, that none of the things which you have spoken happen to me.”
+> **8:25** They therefore, when they had testified and spoken the word of the Lord, returned to Jerusalem, and preached the Good News to many villages of the Samaritans.
+
+**Claim.** Simon, who had made himself 'some great one' by sorcery, believes, is baptized, and then offers money for the power to give the Spirit. Peter traces it to its root: 'your heart isn't right before God… ask God if perhaps the thought of your heart may be forgiven you. For I see that you are in the gall of bitterness and in the bondage of iniquity.' C21's diagnosis from the act to the heart behind it, and C08's distinction between the true gift and power bought or performed. Simon asks for prayer, which the text leaves without an ending.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S2, S5 · chapters: C21, C08 · practices: none · confidence: medium
+
+---
+
+## 18. Acts 8:26-40 — Do you understand what you are reading? How can I, unless someone explains it to me?
+
+> **8:26** But an angel of the Lord spoke to Philip, saying, “Arise, and go toward the south to the way that goes down from Jerusalem to Gaza. This is a desert.”
+> **8:27** He arose and went; and behold, there was a man of Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians, who was over all her treasure, who had come to Jerusalem to worship.
+> **8:28** He was returning and sitting in his chariot, and was reading the prophet Isaiah.
+> **8:29** The Spirit said to Philip, “Go near, and join yourself to this chariot.”
+> **8:30** Philip ran to him, and heard him reading Isaiah the prophet, and said, “Do you understand what you are reading?”
+> **8:31** He said, “How can I, unless someone explains it to me?” He begged Philip to come up and sit with him.
+> **8:32** Now the passage of the Scripture which he was reading was this, “He was led as a sheep to the slaughter. As a lamb before his shearer is silent, so he doesn’t open his mouth.
+> **8:33** In his humiliation, his judgment was taken away. Who will declare His generation? For his life is taken from the earth.”
+> **8:34** The eunuch answered Philip, “Who is the prophet talking about? About himself, or about someone else?”
+> **8:35** Philip opened his mouth, and beginning from this Scripture, preached to him Jesus.
+> **8:36** As they went on the way, they came to some water, and the eunuch said, “Behold, here is water. What is keeping me from being baptized?”
+> **8:38** He commanded the chariot to stand still, and they both went down into the water, both Philip and the eunuch, and he baptized him.
+> **8:39** When they came up out of the water, the Spirit of the Lord caught Philip away, and the eunuch didn’t see him any more, for he went on his way rejoicing.
+> **8:40** But Philip was found at Azotus. Passing through, he preached the Good News to all the cities, until he came to Caesarea.
+
+**Claim.** Philip is sent to a desert road and finds a eunuch from Ethiopia — a foreigner, and a man the law excluded from the assembly — reading Isaiah 53 aloud in his chariot. Philip runs alongside and 'heard him reading,' and his first words are a question: 'Do you understand what you are reading?' He begins 'from this Scripture,' where the man already is. Listening as Mercy gives attention before concluding, and Philip hears the man before he speaks to him. Isaiah 56:3-5 promised the eunuch a name better than sons and daughters, and here it is given (C27). C06's opened understanding: 'How can I, unless someone explains it to me?' He goes on his way rejoicing.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S2, S7 · chapters: C27, C06 · practices: PR16 · confidence: medium
+
+---
+
+## 19. Acts 9:1-19 — Brother Saul, the Lord… has sent me, that you may receive your sight
+
+> **9:1** But Saul, still breathing threats and slaughter against the disciples of the Lord, went to the high priest,
+> **9:2** and asked for letters from him to the synagogues of Damascus, that if he found any who were of the Way, whether men or women, he might bring them bound to Jerusalem.
+> **9:3** As he traveled, it happened that he got close to Damascus, and suddenly a light from the sky shone around him.
+> **9:4** He fell on the earth, and heard a voice saying to him, “Saul, Saul, why do you persecute me?”
+> **9:5** He said, “Who are you, Lord?” The Lord said, “I am Jesus, whom you are persecuting.
+> **9:6** But rise up, and enter into the city, and you will be told what you must do.”
+> **9:7** The men who traveled with him stood speechless, hearing the sound, but seeing no one.
+> **9:8** Saul arose from the ground, and when his eyes were opened, he saw no one. They led him by the hand, and brought him into Damascus.
+> **9:9** He was without sight for three days, and neither ate nor drank.
+> **9:10** Now there was a certain disciple at Damascus named Ananias. The Lord said to him in a vision, “Ananias!” He said, “Behold, it’s me, Lord.”
+> **9:11** The Lord said to him, “Arise, and go to the street which is called Straight, and inquire in the house of Judah for one named Saul, a man of Tarsus. For behold, he is praying,
+> **9:12** and in a vision he has seen a man named Ananias coming in, and laying his hands on him, that he might receive his sight.”
+> **9:13** But Ananias answered, “Lord, I have heard from many about this man, how much evil he did to your saints at Jerusalem.
+> **9:14** Here he has authority from the chief priests to bind all who call on your name.”
+> **9:15** But the Lord said to him, “Go your way, for he is my chosen vessel to bear my name before the nations and kings, and the children of Israel.
+> **9:16** For I will show him how many things he must suffer for my name’s sake.”
+> **9:17** Ananias departed, and entered into the house. Laying his hands on him, he said, “Brother Saul, the Lord, who appeared to you on the road by which you came, has sent me, that you may receive your sight, and be filled with the Holy Spirit.”
+> **9:18** Immediately something like scales fell from his eyes, and he received his sight. He arose and was baptized.
+> **9:19** He took food and was strengthened. Saul stayed several days with the disciples who were at Damascus.
+
+**Claim.** Saul, 'still breathing threats and slaughter,' is struck down on the road and blinded. The Lord sends Ananias, who objects with good reason: 'Lord, I have heard from many about this man, how much evil he did to your saints… Here he has authority… to bind all who call on your name.' He goes anyway, lays hands on the man who came to arrest him, and his first words are 'Brother Saul.' Merciful Reintegration receives the repentant back without lingering shame or probation; Ananias has only God's word that Saul is 'praying,' and he receives him as family on that word. 'Something like scales fell from his eyes' — C06's opening of the eyes in its most literal form — and the door of C19 opened for the chief persecutor.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S2, S5 · chapters: C06, C19 · practices: PR29 · confidence: high
+
+---
+
+## 20. Acts 9:19-31 — They were all afraid of him, not believing that he was a disciple. But Barnabas took him
+
+> **9:19** He took food and was strengthened. Saul stayed several days with the disciples who were at Damascus.
+> **9:20** Immediately in the synagogues he proclaimed the Christ, that he is the Son of God.
+> **9:21** All who heard him were amazed, and said, “Isn’t this he who in Jerusalem made havoc of those who called on this name? And he had come here intending to bring them bound before the chief priests!”
+> **9:22** But Saul increased more in strength, and confounded the Jews who lived at Damascus, proving that this is the Christ.
+> **9:23** When many days were fulfilled, the Jews conspired together to kill him,
+> **9:24** but their plot became known to Saul. They watched the gates both day and night that they might kill him,
+> **9:25** but his disciples took him by night, and let him down through the wall, lowering him in a basket.
+> **9:26** When Saul had come to Jerusalem, he tried to join himself to the disciples; but they were all afraid of him, not believing that he was a disciple.
+> **9:27** But Barnabas took him, and brought him to the apostles, and declared to them how he had seen the Lord in the way, and that he had spoken to him, and how at Damascus he had preached boldly in the name of Jesus.
+> **9:28** He was with them entering into Jerusalem,
+> **9:29** preaching boldly in the name of the Lord Jesus. He spoke and disputed against the Hellenists, but they were seeking to kill him.
+> **9:30** When the brothers knew it, they brought him down to Caesarea, and sent him off to Tarsus.
+> **9:31** So the assemblies throughout all Judea and Galilee and Samaria had peace, and were built up. They were multiplied, walking in the fear of the Lord and in the comfort of the Holy Spirit.
+
+**Claim.** In Jerusalem the church will not have him: 'they were all afraid of him, not believing that he was a disciple.' 'But Barnabas took him, and brought him to the apostles, and declared to them how he had seen the Lord.' One man stakes his own standing on a former persecutor and ends the probation the community would have imposed. Merciful Reintegration in its second act: not only God's acceptance but a brother's sponsorship, which is how a community actually lets a stumble stop being someone's identity. C16's authority used for the one nobody trusts; C13's community enlarged by it.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4 · chapters: C16, C13 · practices: PR29 · confidence: high
+
+---
+
+## 21. Acts 9:32-43 — Full of good works and acts of mercy… showing the coats and garments which Dorcas had made
+
+> **9:32** It happened, as Peter went throughout all those parts, he came down also to the saints who lived at Lydda.
+> **9:33** There he found a certain man named Aeneas, who had been bedridden for eight years, because he was paralyzed.
+> **9:34** Peter said to him, “Aeneas, Jesus Christ heals you. Get up and make your bed!” Immediately he arose.
+> **9:35** All who lived at Lydda and in Sharon saw him, and they turned to the Lord.
+> **9:36** Now there was at Joppa a certain disciple named Tabitha, which when translated, means Dorcas. This woman was full of good works and acts of mercy which she did.
+> **9:37** It happened in those days that she fell sick, and died. When they had washed her, they laid her in an upper room.
+> **9:38** As Lydda was near Joppa, the disciples, hearing that Peter was there, sent two men to him, imploring him not to delay in coming to them.
+> **9:39** Peter got up and went with them. When he had come, they brought him into the upper room. All the widows stood by him weeping, and showing the coats and garments which Dorcas had made while she was with them.
+> **9:40** Peter put them all out, and kneeled down and prayed. Turning to the body, he said, “Tabitha, get up!” She opened her eyes, and when she saw Peter, she sat up.
+> **9:41** He gave her his hand, and raised her up. Calling the saints and widows, he presented her alive.
+> **9:42** And it became known throughout all Joppa, and many believed in the Lord.
+> **9:43** It happened, that he stayed many days in Joppa with one Simon, a tanner.
+
+**Claim.** Tabitha of Joppa is introduced by her character before her name is finished: 'full of good works and acts of mercy which she did.' When she dies, the widows stand around Peter weeping, 'showing the coats and garments which Dorcas had made while she was with them.' Mercy made with her hands, garment by garment, for women with no one to clothe them. Habitual Almsgiving as a rhythm of work rather than a sum of money, and the Sacrament of the Ordinary's claim that the road's highest expression is in its least glamorous settings: a needle, a coat, a widow. C13's ordinary faithfulness.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4 · chapters: C13, C16 · practices: PR05, PR23 · confidence: high
+
+---
+
+## 22. Acts 10:1-33 — So he called them in and lodged them
+
+> **10:1** Now there was a certain man in Caesarea, Cornelius by name, a centurion of what was called the Italian Regiment,
+> **10:2** a devout man, and one who feared God with all his house, who gave gifts for the needy generously to the people, and always prayed to God.
+> **10:3** At about the ninth hour of the day, he clearly saw in a vision an angel of God coming to him, and saying to him, “Cornelius!”
+> **10:4** He, fastening his eyes on him, and being frightened, said, “What is it, Lord?” He said to him, “Your prayers and your gifts to the needy have gone up for a memorial before God.
+> **10:5** Now send men to Joppa, and get Simon, who is surnamed Peter.
+> **10:6** He lodges with one Simon, a tanner, whose house is by the seaside.”
+> **10:7** When the angel who spoke to him had departed, Cornelius called two of his household servants and a devout soldier of those who waited on him continually.
+> **10:8** Having explained everything to them, he sent them to Joppa.
+> **10:9** Now on the next day as they were on their journey, and got close to the city, Peter went up on the housetop to pray at about noon.
+> **10:10** He became hungry and desired to eat, but while they were preparing, he fell into a trance.
+> **10:11** He saw heaven opened and a certain container descending to him, like a great sheet let down by four corners on the earth,
+> **10:12** in which were all kinds of four-footed animals of the earth, wild animals, reptiles, and birds of the sky.
+> **10:13** A voice came to him, “Rise, Peter, kill and eat!”
+> **10:14** But Peter said, “Not so, Lord; for I have never eaten anything that is common or unclean.”
+> **10:15** A voice came to him again the second time, “What God has cleansed, you must not call unclean.”
+> **10:16** This was done three times, and immediately the vessel was received up into heaven.
+> **10:17** Now while Peter was very perplexed in himself what the vision which he had seen might mean, behold, the men who were sent by Cornelius, having made inquiry for Simon’s house, stood before the gate,
+> **10:18** and called and asked whether Simon, who was surnamed Peter, was lodging there.
+> **10:19** While Peter was pondering the vision, the Spirit said to him, “Behold, three men seek you.
+> **10:20** But arise, get down, and go with them, doubting nothing; for I have sent them.”
+> **10:21** Peter went down to the men, and said, “Behold, I am he whom you seek. Why have you come?”
+> **10:22** They said, “Cornelius, a centurion, a righteous man and one who fears God, and well spoken of by all the nation of the Jews, was directed by a holy angel to invite you to his house, and to listen to what you say.”
+> **10:23** So he called them in and lodged them. On the next day Peter arose and went out with them, and some of the brothers from Joppa accompanied him.
+> **10:24** On the next day they entered into Caesarea. Cornelius was waiting for them, having called together his relatives and his near friends.
+> **10:25** When it happened that Peter entered, Cornelius met him, fell down at his feet, and worshiped him.
+> **10:26** But Peter raised him up, saying, “Stand up! I myself am also a man.”
+> **10:27** As he talked with him, he went in and found many gathered together.
+> **10:28** He said to them, “You yourselves know how it is an unlawful thing for a man who is a Jew to join himself or come to one of another nation, but God has shown me that I shouldn’t call any man unholy or unclean.
+> **10:29** Therefore also I came without complaint when I was sent for. I ask therefore, why did you send for me?”
+> **10:30** Cornelius said, “Four days ago, I was fasting until this hour, and at the ninth hour, I prayed in my house, and behold, a man stood before me in bright clothing,
+> **10:31** and said, ‘Cornelius, your prayer is heard, and your gifts to the needy are remembered in the sight of God.
+> **10:32** Send therefore to Joppa, and summon Simon, who is surnamed Peter. He lodges in the house of Simon a tanner, by the seaside. When he comes, he will speak to you.’
+> **10:33** Therefore I sent to you at once, and it was good of you to come. Now therefore we are all here present in the sight of God to hear all things that have been commanded you by God.”
+
+**Claim.** Cornelius, a Roman centurion, 'gave gifts for the needy generously to the people, and always prayed to God' — Habitual Almsgiving in a Gentile soldier, and remembered before God. Peter, praying on a rooftop, is shown unclean animals and told three times, 'What God has cleansed, you must not call unclean.' Then three Gentile men arrive at the gate asking for him. Peter has never eaten anything unclean, and he will say himself that 'it is an unlawful thing for a man who is a Jew to join himself or come to one of another nation.' He goes down, and 'called them in and lodged them.' The Sacrifice of Routine is letting hospitality override one's own discipline when a guest arrives; here the discipline is a lifetime's purity practice and the guests are those it existed to keep out. The clearest anchor for PR20 in the index. At Cornelius's house Peter refuses worship — 'Stand up! I myself am also a man.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4, S7 · chapters: C27, C14 · practices: PR20, PR05 · confidence: high
+
+---
+
+## 23. Acts 10:34-48 — Truly I perceive that God doesn't show favoritism
+
+> **10:34** Peter opened his mouth and said, “Truly I perceive that God doesn’t show favoritism;
+> **10:35** but in every nation he who fears him and works righteousness is acceptable to him.
+> **10:36** The word which he sent to the children of Israel, preaching good news of peace by Jesus Christ—he is Lord of all—
+> **10:37** you yourselves know what happened, which was proclaimed throughout all Judea, beginning from Galilee, after the baptism which John preached;
+> **10:38** even Jesus of Nazareth, how God anointed him with the Holy Spirit and with power, who went about doing good and healing all who were oppressed by the devil, for God was with him.
+> **10:39** We are witnesses of everything he did both in the country of the Jews, and in Jerusalem; whom they also killed, hanging him on a tree.
+> **10:40** God raised him up the third day, and gave him to be revealed,
+> **10:41** not to all the people, but to witnesses who were chosen before by God, to us, who ate and drank with him after he rose from the dead.
+> **10:42** He commanded us to preach to the people and to testify that this is he who is appointed by God as the Judge of the living and the dead.
+> **10:43** All the prophets testify about him, that through his name everyone who believes in him will receive remission of sins.”
+> **10:44** While Peter was still speaking these words, the Holy Spirit fell on all those who heard the word.
+> **10:45** They of the circumcision who believed were amazed, as many as came with Peter, because the gift of the Holy Spirit was also poured out on the Gentiles.
+> **10:46** For they heard them speaking in other languages and magnifying God. Then Peter answered,
+> **10:47** “Can any man forbid the water, that these who have received the Holy Spirit as well as we should not be baptized?”
+> **10:48** He commanded them to be baptized in the name of Jesus Christ. Then they asked him to stay some days.
+
+**Claim.** 'Truly I perceive that God doesn't show favoritism; but in every nation he who fears him and works righteousness is acceptable to him.' A conviction Peter did not hold a week before, reached by sight — C06's perception corrected. The Spirit falls on the Gentiles while he is still speaking, and the Jewish believers with him are 'amazed.' Shedding Harshness is the widening of the circle of concern until no one stands outside it, and this is the moment the circle of the church itself is widened, by the man who had to be shown it three times. C27's ocean.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S2, S7 · chapters: C27, C06 · practices: PR15 · confidence: high
+
+---
+
+## 24. Acts 11:1-18 — You went in to uncircumcised men, and ate with them!… But Peter began, and explained to them in order
+
+> **11:1** Now the apostles and the brothers who were in Judea heard that the Gentiles had also received the word of God.
+> **11:2** When Peter had come up to Jerusalem, those who were of the circumcision contended with him,
+> **11:3** saying, “You went in to uncircumcised men, and ate with them!”
+> **11:4** But Peter began, and explained to them in order, saying,
+> **11:5** “I was in the city of Joppa praying, and in a trance I saw a vision: a certain container descending, like it was a great sheet let down from heaven by four corners. It came as far as me.
+> **11:6** When I had looked intently at it, I considered, and saw the four-footed animals of the earth, wild animals, creeping things, and birds of the sky.
+> **11:7** I also heard a voice saying to me, ‘Rise, Peter, kill and eat!’
+> **11:8** But I said, ‘Not so, Lord, for nothing unholy or unclean has ever entered into my mouth.’
+> **11:9** But a voice answered me the second time out of heaven, ‘What God has cleansed, don’t you call unclean.’
+> **11:10** This was done three times, and all were drawn up again into heaven.
+> **11:11** Behold, immediately three men stood before the house where I was, having been sent from Caesarea to me.
+> **11:12** The Spirit told me to go with them, without discriminating. These six brothers also accompanied me, and we entered into the man’s house.
+> **11:13** He told us how he had seen the angel standing in his house, and saying to him, ‘Send to Joppa, and get Simon, whose surname is Peter,
+> **11:14** who will speak to you words by which you will be saved, you and all your house.’
+> **11:15** As I began to speak, the Holy Spirit fell on them, even as on us at the beginning.
+> **11:16** I remembered the word of the Lord, how he said, ‘John indeed baptized in water, but you will be baptized in the Holy Spirit.’
+> **11:17** If then God gave to them the same gift as us, when we believed in the Lord Jesus Christ, who was I, that I could withstand God?”
+> **11:18** When they heard these things, they held their peace, and glorified God, saying, “Then God has also granted to the Gentiles repentance to life!”
+
+**Claim.** Back in Jerusalem the charge is about the table: 'You went in to uncircumcised men, and ate with them!' Peter does not defend his standing or attack his critics. He 'began, and explained to them in order' — the vision, the men at the gate, the Spirit falling — and ends with a question that puts himself under the same authority as his accusers: 'who was I, that I could withstand God?' The Architecture of Peace aims at repair rather than victory, and the dispute ends in agreement rather than defeat: 'they held their peace, and glorified God.' C27's circle confirmed by the whole community.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S4, S7 · chapters: C15, C27 · practices: PR09 · confidence: medium
+
+---
+
+## 25. Acts 11:19-26 — When he had come, and had seen the grace of God, was glad. He exhorted them all
+
+> **11:19** They therefore who were scattered abroad by the oppression that arose about Stephen traveled as far as Phoenicia, Cyprus, and Antioch, speaking the word to no one except to Jews only.
+> **11:20** But there were some of them, men of Cyprus and Cyrene, who, when they had come to Antioch, spoke to the Hellenists, preaching the Lord Jesus.
+> **11:21** The hand of the Lord was with them, and a great number believed and turned to the Lord.
+> **11:22** The report concerning them came to the ears of the assembly which was in Jerusalem. They sent out Barnabas to go as far as Antioch,
+> **11:23** who, when he had come, and had seen the grace of God, was glad. He exhorted them all, that with purpose of heart they should remain near to the Lord.
+> **11:24** For he was a good man, and full of the Holy Spirit and of faith, and many people were added to the Lord.
+> **11:25** Barnabas went out to Tarsus to look for Saul.
+> **11:26** When he had found him, he brought him to Antioch. It happened, that for a whole year they were gathered together with the assembly, and taught many people. The disciples were first called Christians in Antioch.
+
+**Claim.** At Antioch the gospel crosses to Greeks, and Jerusalem sends Barnabas to look into it. He comes, sees 'the grace of God,' is glad, and encourages them to 'remain near to the Lord. For he was a good man.' Then he goes to Tarsus to find Saul, whom no one else would sponsor, and brings him to the work. C16's authority as an opener of doors for others, and C13's community where the disciples are 'first called Christians.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4 · chapters: C16, C13 · practices: none · confidence: medium
+
+---
+
+## 26. Acts 11:27-30 — As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea
+
+> **11:27** Now in these days, prophets came down from Jerusalem to Antioch.
+> **11:28** One of them named Agabus stood up, and indicated by the Spirit that there should be a great famine all over the world, which also happened in the days of Claudius.
+> **11:29** As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea;
+> **11:30** which they also did, sending it to the elders by the hands of Barnabas and Saul.
+
+**Claim.** A famine is foretold, and the young Gentile church at Antioch responds before it arrives: 'As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea.' Surplus — 'as any had plenty' — redirected to the afflicted rather than kept against the coming scarcity, and proportioned to each one's means. The Heavenly Palace's positive form across a border, from Gentile believers to Jewish ones; and Habitual Almsgiving's measured share. C27's circle now running in both directions.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4, S7 · chapters: C16, C27 · practices: PR28, PR05 · confidence: high
+
+---
+
+## 27. Acts 12:1-19 — Constant prayer was made by the assembly to God for him… Peter was sleeping between two soldiers
+
+> **12:1** Now about that time, King Herod stretched out his hands to oppress some of the assembly.
+> **12:2** He killed James, the brother of John, with the sword.
+> **12:3** When he saw that it pleased the Jews, he proceeded to seize Peter also. This was during the days of unleavened bread.
+> **12:4** When he had arrested him, he put him in prison, and delivered him to four squads of four soldiers each to guard him, intending to bring him out to the people after the Passover.
+> **12:5** Peter therefore was kept in the prison, but constant prayer was made by the assembly to God for him.
+> **12:6** The same night when Herod was about to bring him out, Peter was sleeping between two soldiers, bound with two chains. Guards in front of the door kept the prison.
+> **12:7** And behold, an angel of the Lord stood by him, and a light shone in the cell. He struck Peter on the side, and woke him up, saying, “Stand up quickly!” His chains fell off from his hands.
+> **12:8** The angel said to him, “Get dressed and put on your sandals.” He did so. He said to him, “Put on your cloak, and follow me.”
+> **12:9** And he went out and followed him. He didn’t know that what was being done by the angel was real, but thought he saw a vision.
+> **12:10** When they were past the first and the second guard, they came to the iron gate that leads into the city, which opened to them by itself. They went out, and went down one street, and immediately the angel departed from him.
+> **12:11** When Peter had come to himself, he said, “Now I truly know that the Lord has sent out his angel and delivered me out of the hand of Herod, and from everything the Jewish people were expecting.”
+> **12:12** Thinking about that, he came to the house of Mary, the mother of John whose surname was Mark, where many were gathered together and were praying.
+> **12:13** When Peter knocked at the door of the gate, a maid named Rhoda came to answer.
+> **12:14** When she recognized Peter’s voice, she didn’t open the gate for joy, but ran in, and reported that Peter was standing in front of the gate.
+> **12:15** They said to her, “You are crazy!” But she insisted that it was so. They said, “It is his angel.”
+> **12:16** But Peter continued knocking. When they had opened, they saw him, and were amazed.
+> **12:17** But he, beckoning to them with his hand to be silent, declared to them how the Lord had brought him out of the prison. He said, “Tell these things to James, and to the brothers.” Then he departed, and went to another place.
+> **12:18** Now as soon as it was day, there was no small stir among the soldiers about what had become of Peter.
+> **12:19** When Herod had sought for him, and didn’t find him, he examined the guards, and commanded that they should be put to death. He went down from Judea to Caesarea, and stayed there.
+
+**Claim.** James is killed and Peter imprisoned to be executed after the feast. Two pictures: the church — 'constant prayer was made by the assembly to God for him' — and the prisoner, the night before his trial, 'sleeping between two soldiers, bound with two chains.' C09's prayer kept by a community, and C22's quiet soul asleep under sentence of death. When he knocks at the gate, the servant girl is so glad she forgets to open it, and the praying church tells her she is mad.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S3, S5 · chapters: C09, C22 · practices: none · confidence: medium
+
+---
+
+## 28. Acts 12:20-25 — The voice of a god, and not of a man!… because he didn't give God the glory
+
+> **12:20** Now Herod was very angry with the people of Tyre and Sidon. They came with one accord to him, and, having made Blastus, the king’s personal aide, their friend, they asked for peace, because their country depended on the king’s country for food.
+> **12:21** On an appointed day, Herod dressed himself in royal clothing, sat on the throne, and gave a speech to them.
+> **12:22** The people shouted, “The voice of a god, and not of a man!”
+> **12:23** Immediately an angel of the Lord struck him, because he didn’t give God the glory, and he was eaten by worms and died.
+> **12:24** But the word of God grew and multiplied.
+> **12:25** Barnabas and Saul returned to Jerusalem, when they had fulfilled their service, also taking with them John whose surname was Mark.
+
+**Claim.** Herod in royal robes gives a speech, and the crowd shouts, 'The voice of a god, and not of a man!' He accepts it, 'and he was eaten by worms and died.' Set beside Peter two chapters earlier — 'Stand up! I myself am also a man' — the contrast is the narrator's: one refuses worship, one receives it. C22's humility and C23's refusal of the audience, shown by their absence.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility · stages: S5, S6 · chapters: C22, C23 · practices: none · confidence: medium
 
 ---
 

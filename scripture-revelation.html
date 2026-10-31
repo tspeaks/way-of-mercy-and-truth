@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0C0B08">
+<title>Revelation — Scripture Index — The Way of Mercy and Truth</title>
+<meta name="description" content="Every passage of Revelation mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta property="og:type" content="book">
+<meta property="og:title" content="Revelation — Scripture Index — The Way of Mercy and Truth">
+<meta property="og:description" content="Every passage of Revelation mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%230C0B08%27/%3E%3Cpath d=%27M16 6 L16 26 M9 13 H23%27 stroke=%27%23C9A227%27 stroke-width=%272.6%27 stroke-linecap=%27round%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0C0B08; --bg-raised:#15140F;
+  --gold:#C9A227; --gold-bright:#E3C158; --gold-pale:#EADFC4; --gold-dim:#8A7327;
+  --text:#E4DCC6; --text-soft:#BFB49A; --text-muted:#8A8069;
+  --truth:#7FA9B5; --mercy:#C4795F; --spec:#9C8AB2;
+  --rule:rgba(201,162,39,0.22); --rule-strong:rgba(201,162,39,0.45);
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 10px 30px rgba(0,0,0,.35);
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0;
+  color:var(--text);
+  background-color:var(--bg);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(201,162,39,.07), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 110%, rgba(201,162,39,.05), transparent 70%);
+  background-attachment:fixed;
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-color:rgba(201,162,39,.45);text-underline-offset:3px;}
+a:hover{color:var(--gold-bright);text-decoration-color:var(--gold-bright);}
+:focus-visible{outline:2px solid var(--gold-bright);outline-offset:3px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule-strong);}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Cormorant Garamond','Iowan Old Style',Georgia,serif;font-weight:600;}
+
+.rule-orn{display:flex;align-items:center;gap:14px;margin:0;color:var(--gold-dim);}
+.rule-orn::before,.rule-orn::after{content:"";height:1px;flex:1;
+  background:linear-gradient(90deg,transparent,var(--rule-strong),transparent);}
+.rule-orn span{font-size:13px;letter-spacing:.3em;}
+
+.setup{background:rgba(196,121,95,.14);border-bottom:1px solid var(--rule-strong);
+  color:var(--gold-pale);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(201,162,39,.18);padding:1px 6px;font-size:13px;color:var(--gold-bright);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:62px 0 44px;text-align:center;}
+header.masthead::after{content:"";display:block;height:1px;margin-top:38px;
+  background:linear-gradient(90deg,transparent,var(--rule-strong) 20%,var(--rule-strong) 80%,transparent);}
+.crest{width:64px;height:64px;margin:0 auto 22px;display:block;color:var(--gold);opacity:.92;}
+.kicker{font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 16px;}
+h1.title{font-size:clamp(34px,9vw,58px);line-height:1.04;margin:0 0 12px;color:var(--gold-pale);
+  font-weight:600;letter-spacing:.005em;}
+.subtitle{font-size:clamp(15px,3.4vw,18px);color:var(--text-soft);font-style:italic;
+  margin:0 auto 30px;max-width:44ch;}
+blockquote.epigraph{margin:0 auto 30px;padding:20px 24px;max-width:52ch;
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  font-size:clamp(15.5px,3.4vw,18px);color:var(--text-soft);line-height:1.5;font-style:italic;}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;justify-content:center;}
+.badge{font-size:11px;letter-spacing:.08em;padding:5px 11px;text-transform:uppercase;
+  border:1px solid var(--rule);color:var(--text-muted);background:rgba(201,162,39,.05);white-space:nowrap;}
+.badge.gold{border-color:var(--rule-strong);color:var(--gold);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;}
+.btn{display:inline-block;padding:14px 26px;text-decoration:none;font-size:15px;font-weight:600;
+  letter-spacing:.02em;border:1px solid var(--gold-dim);background:transparent;color:var(--gold);min-height:44px;}
+.btn:hover{background:rgba(201,162,39,.1);border-color:var(--gold);color:var(--gold-bright);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#100E08;}
+.btn.primary:hover{background:var(--gold-bright);border-color:var(--gold-bright);color:#100E08;}
+
+section{padding:50px 0;}
+section + section{border-top:1px solid var(--rule);}
+h2.sec{font-size:clamp(23px,5vw,30px);margin:0 0 8px;color:var(--gold-pale);font-weight:600;}
+.section-note{color:var(--text-soft);margin:0 0 26px;max-width:62ch;}
+
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--rule);padding:19px 21px;box-shadow:var(--shadow);}
+.card .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 9px;}
+.card p{margin:0;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:11px 0 0;padding-top:11px;border-top:1px solid var(--rule);}
+
+.pull{background:rgba(201,162,39,.06);border-top:2px solid var(--gold-dim);
+  border-bottom:2px solid var(--gold-dim);padding:24px 26px;margin:30px 0 0;}
+.pull p{margin:0;font-size:clamp(16.5px,3.5vw,19px);line-height:1.45;color:var(--gold-pale);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:12px;letter-spacing:.05em;font-style:italic;}
+
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:26px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--rule);padding:18px 14px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;display:block;
+  margin-bottom:5px;color:var(--gold-pale);letter-spacing:.06em;}
+.pillar span{font-size:13px;color:var(--text-muted);}
+.pillar.t{border-top:2px solid var(--truth);}
+.pillar.h{border-top:2px solid var(--gold);}
+.pillar.m{border-top:2px solid var(--mercy);}
+
+.stage{border:1px solid var(--rule);background:var(--bg-raised);margin-bottom:12px;box-shadow:var(--shadow);}
+.stage summary{cursor:pointer;padding:17px 19px;list-style:none;display:flex;gap:15px;
+  align-items:center;min-height:44px;}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(201,162,39,.06);}
+.stage .snum{flex:none;width:34px;height:34px;border-radius:50%;background:transparent;
+  border:1px solid var(--gold-dim);color:var(--gold);display:inline-flex;align-items:center;
+  justify-content:center;font-size:14px;font-weight:600;}
+.stage[open] .snum{background:var(--gold);color:#100E08;border-color:var(--gold);}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;
+  font-weight:600;color:var(--gold-pale);letter-spacing:.05em;}
+.stage .sname span{display:block;font-size:14px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:11px;letter-spacing:.06em;}
+.stage .body{padding:4px 19px 17px;border-top:1px solid var(--rule);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li + li{border-top:1px solid var(--rule);}
+ol.chapters a{display:flex;gap:12px;align-items:baseline;padding:13px 2px;text-decoration:none;
+  color:var(--text);min-height:44px;}
+ol.chapters a:hover{color:var(--gold-bright);}
+ol.chapters .cid{flex:none;font-size:11px;color:var(--text-muted);width:42px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:14px;font-size:14px;}
+
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--rule);box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:16px 19px;text-decoration:none;color:var(--text);min-height:44px;}
+ul.linklist a:hover{background:rgba(201,162,39,.06);}
+ul.linklist .lt{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:19px;
+  display:block;color:var(--gold-pale);letter-spacing:.03em;}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:4px;}
+.flag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;margin-left:9px;
+  vertical-align:2px;white-space:nowrap;border:1px solid;}
+.flag.partial{border-color:var(--gold-dim);color:var(--gold);}
+.flag.speculative{border-color:var(--spec);color:var(--spec);}
+
+.warn{border:1px solid var(--rule);border-left:3px solid var(--mercy);
+  background:rgba(196,121,95,.07);padding:22px 24px;}
+.warn h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;margin:0 0 10px;
+  color:var(--mercy);letter-spacing:.02em;}
+.warn p{margin:0 0 11px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+.license{background:var(--bg-raised);border:1px solid var(--rule);padding:24px 26px;}
+.license .big{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:600;
+  margin:0 0 12px;color:var(--gold-pale);letter-spacing:.03em;}
+.license ul{margin:0 0 14px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:6px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+footer{padding:36px 0 64px;font-size:13px;color:var(--text-muted);
+  border-top:1px solid var(--rule);margin-top:20px;}
+footer p{margin:0 0 7px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+/* ================= reading pages ================= */
+.topbar{position:sticky;top:0;z-index:20;background:rgba(12,11,8,.94);
+  border-bottom:1px solid var(--rule);}
+@supports ((backdrop-filter:blur(8px)) or (-webkit-backdrop-filter:blur(8px))){
+  .topbar{-webkit-backdrop-filter:saturate(140%) blur(8px);backdrop-filter:saturate(140%) blur(8px);}
+}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:50px;}
+.topbar a.home{font-size:13.5px;text-decoration:none;color:var(--gold);white-space:nowrap;}
+.topbar .where{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.progress{height:2px;}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold-dim),var(--gold));}
+
+article{max-width:680px;margin:0 auto;padding:44px 22px 0;}
+.doc-head{margin-bottom:38px;padding-bottom:26px;border-bottom:1px solid var(--rule);text-align:center;}
+.doc-kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 14px;}
+.doc-title{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,7vw,44px);
+  line-height:1.1;margin:0;font-weight:600;color:var(--gold-pale);letter-spacing:.01em;}
+.doc-sub{font-size:15px;color:var(--truth);margin:12px 0 0;font-style:italic;}
+.doc-meta{font-size:12px;color:var(--text-muted);margin:14px 0 0;letter-spacing:.06em;}
+
+.doc-body{font-size:18px;line-height:1.75;color:var(--text);}
+.doc-body p{margin:0 0 1.25em;}
+.doc-body > p:first-of-type::first-letter{float:left;font-family:'Cormorant Garamond',Georgia,serif;
+  font-size:3.4em;line-height:.82;padding:.06em .1em 0 0;color:var(--gold);font-weight:600;}
+.doc-body h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;font-weight:600;
+  margin:2em 0 .7em;color:var(--gold-pale);letter-spacing:.03em;}
+.doc-body h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;font-weight:600;
+  margin:1.9em 0 .6em;color:var(--gold);letter-spacing:.03em;}
+blockquote.scripture{margin:1.7em 0;padding:16px 0 16px 22px;border-left:2px solid var(--gold-dim);
+  background:rgba(201,162,39,.04);}
+blockquote.scripture p{margin:0;font-style:italic;color:var(--gold-pale);font-size:17px;line-height:1.6;}
+blockquote.scripture cite{display:block;margin-top:9px;font-style:normal;font-size:12.5px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+
+.docnav{max-width:680px;margin:56px auto 0;padding:0 22px 70px;}
+.docnav .orn{margin-bottom:26px;}
+.navgrid{display:grid;grid-template-columns:1fr;gap:12px;}
+@media (min-width:560px){ .navgrid{grid-template-columns:1fr 1fr;} }
+.nav-btn{display:block;padding:17px 20px;border:1px solid var(--rule);text-decoration:none;
+  background:var(--bg-raised);min-height:44px;}
+.nav-btn:hover{background:rgba(201,162,39,.07);border-color:var(--gold-dim);}
+.nav-btn .nav-label{display:block;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--gold-dim);margin-bottom:5px;}
+.nav-btn .nav-title{display:block;font-size:15.5px;color:var(--text);line-height:1.3;}
+.nav-btn:hover .nav-title{color:var(--gold-bright);}
+.nav-btn.next{text-align:right;}
+.nav-btn.disabled{opacity:.42;}
+.nav-hub{text-align:center;margin-top:20px;font-size:13.5px;}
+.kbd-hint{text-align:center;margin-top:14px;font-size:11.5px;color:var(--text-muted);letter-spacing:.05em;}
+@media (hover:none){ .kbd-hint{display:none;} }
+
+.notfound{text-align:center;padding:90px 22px;}
+.notfound h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,8vw,46px);
+  color:var(--gold-pale);margin:0 0 14px;font-weight:600;}
+.notfound p{color:var(--text-soft);max-width:44ch;margin:0 auto 26px;}
+
+@media print{
+  body{background:#fff;color:#000;}
+  .topbar,.docnav,.skip,.setup,footer,.kbd-hint{display:none !important;}
+  article{max-width:none;padding:0;}
+  .doc-title,.doc-body h2,.doc-body h3{color:#000;}
+  .doc-body{font-size:12pt;}
+  blockquote.scripture{border-left:2px solid #999;background:none;}
+  blockquote.scripture p{color:#222;}
+  a{color:#000;text-decoration:none;}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<style>
+.entry{border-top:1px solid var(--rule);padding:34px 0;}
+.entry:first-of-type{border-top:0;}
+.entry-ref{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 6px;}
+.entry-name{font-family:'Cormorant Garamond',Georgia,serif;font-size:25px;font-weight:600;
+  color:var(--gold-pale);margin:0 0 18px;letter-spacing:.02em;}
+.passage{border-left:2px solid var(--gold-dim);padding:4px 0 4px 20px;margin:0 0 20px;
+  background:rgba(201,162,39,.04);}
+.passage p{margin:0 0 .7em;font-size:17px;line-height:1.65;color:var(--gold-pale);font-style:italic;}
+.passage p:last-child{margin-bottom:0;}
+.passage .vn{font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:10.5px;
+  color:var(--text-muted);vertical-align:3px;margin-right:5px;}
+.conn{font-size:16.5px;line-height:1.6;color:var(--text);margin:0 0 16px;}
+.tags{display:flex;flex-wrap:wrap;gap:7px;align-items:center;}
+.tag{font-size:11px;letter-spacing:.06em;padding:4px 10px;border:1px solid var(--rule);
+  color:var(--text-soft);text-decoration:none;white-space:nowrap;}
+a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
+.tag.pillar{text-transform:uppercase;letter-spacing:.12em;}
+.tag.pillar.t{border-color:var(--truth);color:var(--truth);}
+.tag.pillar.m{border-color:var(--mercy);color:var(--mercy);}
+.tag.pillar.h{border-color:var(--gold);color:var(--gold);}
+.tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
+.tag.corrected{border-color:var(--gold);color:var(--gold);}
+.tag.reviewed{border-color:var(--truth);color:var(--truth);}
+.passage.cluster p{font-style:normal;color:var(--text);}
+.passage.cluster .cref{color:var(--gold-dim);font-size:10.5px;margin-right:9px;vertical-align:2px;}
+.cluster-note{font-size:12px;color:var(--text-muted);letter-spacing:.06em;margin:0 0 12px;font-style:italic;}
+.entry-ref.cluster-label{color:var(--gold);}
+.tag.kind{border-style:solid;border-color:var(--gold-dim);color:var(--gold);
+  text-transform:uppercase;letter-spacing:.12em;font-size:10px;}
+.tag.mode{text-transform:uppercase;letter-spacing:.12em;font-size:10px;border-style:dotted;}
+.tag.mode.prescribes{border-color:var(--gold);color:var(--gold);}
+.tag.mode.exemplifies{border-color:var(--truth);color:var(--truth);}
+.tag.mode.counter{border-color:var(--mercy);color:var(--mercy);}
+.booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
+.stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
+@media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
+.stat div{border:1px solid var(--rule);background:var(--bg-raised);padding:14px;text-align:center;}
+.stat b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;
+  color:var(--gold-pale);font-weight:600;}
+.stat span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+</style>
+<div class="topbar"><div class="wrap">
+<a class="home" href="index.html">✦ The Way of Mercy and Truth</a>
+<span class="where mono">Revelation · index</span>
+</div><div class="progress"><i></i></div></div>
+<main id="main"><article>
+<div class="doc-head">
+<p class="doc-kicker">Scripture Index</p>
+<h1 class="doc-title">Revelation</h1>
+<p class="doc-sub">World English Bible · public domain</p>
+<p class="doc-meta mono">15 passages · 94 of 404 verses</p>
+</div>
+<div class="doc-body">
+<div class="entry">
+<p class="entry-ref">Revelation 1:9-18</p>
+<h2 class="entry-name">I John, your brother and partner with you in oppression, Kingdom, and perseverance… When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, 'Don't be afraid.'</h2>
+<div class="passage">
+<p><span class="vn">9</span>I John, your brother and partner with you in oppression, Kingdom, and perseverance in Christ Jesus, was on the isle that is called Patmos because of God’s Word and the testimony of Jesus Christ.</p>
+<p><span class="vn">10</span>I was in the Spirit on the Lord’s day, and I heard behind me a loud voice, like a trumpet</p>
+<p><span class="vn">11</span>saying, “What you see, write in a book and send to the seven assemblies: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and to Laodicea.”</p>
+<p><span class="vn">12</span>I turned to see the voice that spoke with me. Having turned, I saw seven golden lampstands.</p>
+<p><span class="vn">13</span>And among the lampstands was one like a son of man, clothed with a robe reaching down to his feet, and with a golden sash around his chest.</p>
+<p><span class="vn">14</span>His head and his hair were white as white wool, like snow. His eyes were like a flame of fire.</p>
+<p><span class="vn">15</span>His feet were like burnished brass, as if it had been refined in a furnace. His voice was like the voice of many waters.</p>
+<p><span class="vn">16</span>He had seven stars in his right hand. Out of his mouth proceeded a sharp two-edged sword. His face was like the sun shining at its brightest.</p>
+<p><span class="vn">17</span>When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, “Don’t be afraid. I am the first and the last,</p>
+<p><span class="vn">18</span>and the Living one. I was dead, and behold, I am alive forevermore. Amen. I have the keys of Death and of Hades.</p>
+</div>
+<p class="conn">The visionary introduces himself not by rank but by shared condition: 'I John, your brother and partner with you in oppression, Kingdom, and perseverance in Christ Jesus.' C13 and C25's endurance. The vision of the risen Christ is overwhelming — eyes like fire, a voice 'like the voice of many waters' — and John collapses: 'When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, &quot;Don't be afraid. I am the first and the last, and the Living one. I was dead, and behold, I am alive forevermore.&quot;' C24's awe, met with a hand and a reassurance.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c25.html">C25</a>
+<a class="tag" href="c24.html">C24</a>
+<a class="tag" href="c13.html">C13</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 2:1-7</p>
+<h2 class="entry-name">I know your works, and your toil and perseverance… But I have this against you, that you left your first love. Remember therefore from where you have fallen, and repent and do the first works</h2>
+<div class="passage">
+<p><span class="vn">1</span>“To the angel of the assembly in Ephesus write: “He who holds the seven stars in his right hand, he who walks among the seven golden lampstands says these things:</p>
+<p><span class="vn">2</span>“I know your works, and your toil and perseverance, and that you can’t tolerate evil men, and have tested those who call themselves apostles, and they are not, and found them false.</p>
+<p><span class="vn">3</span>You have perseverance and have endured for my name’s sake, and have not grown weary.</p>
+<p><span class="vn">4</span>But I have this against you, that you left your first love.</p>
+<p><span class="vn">5</span>Remember therefore from where you have fallen, and repent and do the first works; or else I am coming to you swiftly, and will move your lampstand out of its place, unless you repent.</p>
+<p><span class="vn">6</span>But this you have, that you hate the works of the Nicolaitans, which I also hate.</p>
+<p><span class="vn">7</span>He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes I will give to eat of the tree of life, which is in the Paradise of my God.</p>
+</div>
+<p class="conn">A church with everything right but the centre: 'I know your works, and your toil and perseverance, and that you can't tolerate evil men, and have tested those who call themselves apostles… and have not grown weary. But I have this against you, that you left your first love.' C12's proof failing at its root — orthodoxy and endurance without love — and C10's remaining lost. The remedy is the Failure Recovery Protocol in three verbs: 'Remember therefore from where you have fallen, and repent and do the first works' — name it, return, and resume the ordinary obedience that was dropped. C19.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c12.html">C12</a>
+<a class="tag" href="c10.html">C10</a>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR11</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 2:8-11</p>
+<h2 class="entry-name">I know your works, oppression, and your poverty (but you are rich)… Don't be afraid of the things which you are about to suffer… Be faithful to death</h2>
+<div class="passage">
+<p><span class="vn">8</span>“To the angel of the assembly in Smyrna write: “The first and the last, who was dead, and has come to life says these things:</p>
+<p><span class="vn">9</span>“I know your works, oppression, and your poverty (but you are rich), and the blasphemy of those who say they are Jews, and they are not, but are a synagogue of Satan.</p>
+<p><span class="vn">10</span>Don’t be afraid of the things which you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested; and you will have oppression for ten days. Be faithful to death, and I will give you the crown of life.</p>
+<p><span class="vn">11</span>He who has an ear, let him hear what the Spirit says to the assemblies. He who overcomes won’t be harmed by the second death.</p>
+</div>
+<p class="conn">One of two churches given no rebuke. 'I know your works, oppression, and your poverty (but you are rich).' C18's reversal of what wealth is. 'Don't be afraid of the things which you are about to suffer… Be faithful to death, and I will give you the crown of life.' C25's endurance, with a promise and no explanation.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c18.html">C18</a>
+<a class="tag" href="c25.html">C25</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 3:1-6</p>
+<h2 class="entry-name">You have a reputation of being alive, but you are dead. Wake up, and keep the things that remain… If therefore you won't watch, I will come as a thief</h2>
+<div class="passage">
+<p><span class="vn">1</span>“And to the angel of the assembly in Sardis write: “He who has the seven Spirits of God, and the seven stars says these things: “I know your works, that you have a reputation of being alive, but you are dead.</p>
+<p><span class="vn">2</span>Wake up, and keep the things that remain, which you were about to throw away, for I have found no works of yours perfected before my God.</p>
+<p><span class="vn">3</span>Remember therefore how you have received and heard. Keep it, and repent. If therefore you won’t watch, I will come as a thief, and you won’t know what hour I will come upon you.</p>
+<p><span class="vn">4</span>Nevertheless you have a few names in Sardis that did not defile their garments. They will walk with me in white, for they are worthy.</p>
+<p><span class="vn">5</span>He who overcomes will be arrayed in white garments, and I will in no way blot his name out of the book of life, and I will confess his name before my Father, and before his angels.</p>
+<p><span class="vn">6</span>He who has an ear, let him hear what the Spirit says to the assemblies.</p>
+</div>
+<p class="conn">'I know your works, that you have a reputation of being alive, but you are dead.' C12's proof failed behind a good name. The command is Watchfulness: 'Wake up, and keep the things that remain, which you were about to throw away… Remember therefore how you have received and heard. Keep it, and repent. If therefore you won't watch, I will come as a thief.' C20. 'Nevertheless you have a few names in Sardis that did not defile their garments.'</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c20.html">C20</a>
+<a class="tag" href="c12.html">C12</a>
+<a class="tag" href="a1.html">PR12</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 3:7-13</p>
+<h2 class="entry-name">I have set before you an open door, which no one can shut… you have a little power, and kept my word, and didn't deny my name</h2>
+<div class="passage">
+<p><span class="vn">7</span>“To the angel of the assembly in Philadelphia write: “He who is holy, he who is true, he who has the key of David, he who opens and no one can shut, and who shuts and no one opens, says these things:</p>
+<p><span class="vn">8</span>“I know your works (behold, I have set before you an open door, which no one can shut), that you have a little power, and kept my word, and didn’t deny my name.</p>
+<p><span class="vn">9</span>Behold, I give of the synagogue of Satan, of those who say they are Jews, and they are not, but lie. Behold, I will make them to come and worship before your feet, and to know that I have loved you.</p>
+<p><span class="vn">10</span>Because you kept my command to endure, I also will keep you from the hour of testing, which is to come on the whole world, to test those who dwell on the earth.</p>
+<p><span class="vn">11</span>I am coming quickly! Hold firmly that which you have, so that no one takes your crown.</p>
+<p><span class="vn">12</span>He who overcomes, I will make him a pillar in the temple of my God, and he will go out from there no more. I will write on him the name of my God, and the name of the city of my God, the new Jerusalem, which comes down out of heaven from my God, and my own new name.</p>
+<p><span class="vn">13</span>He who has an ear, let him hear what the Spirit says to the assemblies.</p>
+</div>
+<p class="conn">The second church without rebuke, and it is weak: 'I know your works (behold, I have set before you an open door, which no one can shut), that you have a little power, and kept my word, and didn't deny my name.' C13's ordinary faithfulness — little strength, kept — and C22's humility rewarded. C19's open door: 'he who opens and no one can shut.' 'Hold firmly that which you have.'</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c13.html">C13</a>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c22.html">C22</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 3:14-22</p>
+<h2 class="entry-name">Because you say, 'I am rich, and have gotten riches, and have need of nothing;' and don't know that you are the wretched one, miserable, poor, blind, and naked… Behold, I stand at the door and knock</h2>
+<div class="passage">
+<p><span class="vn">14</span>“To the angel of the assembly in Laodicea write: “The Amen, the Faithful and True Witness, the Head of God’s creation, says these things:</p>
+<p><span class="vn">15</span>“I know your works, that you are neither cold nor hot. I wish you were cold or hot.</p>
+<p><span class="vn">16</span>So, because you are lukewarm, and neither hot nor cold, I will vomit you out of my mouth.</p>
+<p><span class="vn">17</span>Because you say, ‘I am rich, and have gotten riches, and have need of nothing;’ and don’t know that you are the wretched one, miserable, poor, blind, and naked;</p>
+<p><span class="vn">18</span>I counsel you to buy from me gold refined by fire, that you may become rich; and white garments, that you may clothe yourself, and that the shame of your nakedness may not be revealed; and eye salve to anoint your eyes, that you may see.</p>
+<p><span class="vn">19</span>As many as I love, I reprove and chasten. Be zealous therefore, and repent.</p>
+<p><span class="vn">20</span>Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him, and will dine with him, and he with me.</p>
+<p><span class="vn">21</span>He who overcomes, I will give to him to sit down with me on my throne, as I also overcame, and sat down with my Father on his throne.</p>
+<p><span class="vn">22</span>He who has an ear, let him hear what the Spirit says to the assemblies.”</p>
+</div>
+<p class="conn">'I know your works, that you are neither cold nor hot… So, because you are lukewarm… I will vomit you out of my mouth.' The cause is wealth that blinds: 'Because you say, &quot;I am rich, and have gotten riches, and have need of nothing;&quot; and don't know that you are the wretched one, miserable, poor, blind, and naked.' The Heavenly Palace's warning to a community comfortable in its surplus (medium). C18 and C07's blindness: 'eye salve to anoint your eyes, that you may see.' And the harshest letter ends in the tenderest image: 'As many as I love, I reprove and chasten… Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him, and will dine with him, and he with me.' C19's door, knocked on from outside.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S2 Perception</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c18.html">C18</a>
+<a class="tag" href="c07.html">C07</a>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR28</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 4:8-11</p>
+<h2 class="entry-name">Holy, holy, holy is the Lord God, the Almighty… the twenty-four elders… throw their crowns before the throne</h2>
+<div class="passage">
+<p><span class="vn">8</span>The four living creatures, each one of them having six wings, are full of eyes around and within. They have no rest day and night, saying, “Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come!”</p>
+<p><span class="vn">9</span>When the living creatures give glory, honor, and thanks to him who sits on the throne, to him who lives forever and ever,</p>
+<p><span class="vn">10</span>the twenty-four elders fall down before him who sits on the throne, and worship him who lives forever and ever, and throw their crowns before the throne, saying,</p>
+<p><span class="vn">11</span>“Worthy are you, our Lord and God, the Holy One, to receive the glory, the honor, and the power, for you created all things, and because of your desire they existed, and were created!”</p>
+</div>
+<p class="conn">The throne room. The living creatures 'have no rest day and night, saying, &quot;Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come!&quot;' C24's worship at its source. And the elders' gesture: they 'fall down before him who sits on the throne… and throw their crowns before the throne, saying, &quot;Worthy are you, our Lord and God… for you created all things.&quot;' C22: every honour received is laid down.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c24.html">C24</a>
+<a class="tag" href="c22.html">C22</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 5:6-14</p>
+<h2 class="entry-name">A Lamb standing, as though it had been slain… you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation</h2>
+<div class="passage">
+<p><span class="vn">6</span>I saw in the midst of the throne and of the four living creatures, and in the midst of the elders, a Lamb standing, as though it had been slain, having seven horns, and seven eyes, which are the seven Spirits of God, sent out into all the earth.</p>
+<p><span class="vn">7</span>Then he came, and he took it out of the right hand of him who sat on the throne.</p>
+<p><span class="vn">8</span>Now when he had taken the book, the four living creatures and the twenty-four elders fell down before the Lamb, each one having a harp, and golden bowls full of incense, which are the prayers of the saints.</p>
+<p><span class="vn">9</span>They sang a new song, saying, “You are worthy to take the book, and to open its seals: for you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation,</p>
+<p><span class="vn">10</span>and made us kings and priests to our God, and we will reign on earth.”</p>
+<p><span class="vn">11</span>I saw, and I heard something like a voice of many angels around the throne, the living creatures, and the elders; and the number of them was ten thousands of ten thousands, and thousands of thousands;</p>
+<p><span class="vn">12</span>saying with a loud voice, “Worthy is the Lamb who has been killed to receive the power, wealth, wisdom, strength, honor, glory, and blessing!”</p>
+<p><span class="vn">13</span>I heard every created thing which is in heaven, on the earth, under the earth, on the sea, and everything in them, saying, “To him who sits on the throne, and to the Lamb be the blessing, the honor, the glory, and the dominion, forever and ever! Amen!”</p>
+<p><span class="vn">14</span>The four living creatures said, “Amen!” The elders fell down and worshiped.</p>
+</div>
+<p class="conn">John is told to look for a lion, and sees 'a Lamb standing, as though it had been slain.' Power revealed as sacrifice — C16's logic at the centre of heaven. The new song: 'you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation.' C27's widest circle. Then the worship spreads outward until it includes 'every created thing which is in heaven, on the earth, under the earth, on the sea' — C24.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S6 Transformation</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="c24.html">C24</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 7:9-17</p>
+<h2 class="entry-name">A great multitude, which no man could number, out of every nation… These are those who came out of the great tribulation… And God will wipe away every tear from their eyes</h2>
+<div class="passage">
+<p><span class="vn">9</span>After these things I looked, and behold, a great multitude, which no man could number, out of every nation and of all tribes, peoples, and languages, standing before the throne and before the Lamb, dressed in white robes, with palm branches in their hands.</p>
+<p><span class="vn">10</span>They cried with a loud voice, saying, “Salvation be to our God, who sits on the throne, and to the Lamb!”</p>
+<p><span class="vn">11</span>All the angels were standing around the throne, the elders, and the four living creatures; and they fell on their faces before his throne, and worshiped God,</p>
+<p><span class="vn">12</span>saying, “Amen! Blessing, glory, wisdom, thanksgiving, honor, power, and might, be to our God forever and ever! Amen.”</p>
+<p><span class="vn">13</span>One of the elders answered, saying to me, “These who are arrayed in white robes, who are they, and from where did they come?”</p>
+<p><span class="vn">14</span>I told him, “My lord, you know.” He said to me, “These are those who came out of the great tribulation. They washed their robes, and made them white in the Lamb’s blood.</p>
+<p><span class="vn">15</span>Therefore they are before the throne of God, they serve him day and night in his temple. He who sits on the throne will spread his tabernacle over them.</p>
+<p><span class="vn">16</span>They will never be hungry, neither thirsty any more; neither will the sun beat on them, nor any heat;</p>
+<p><span class="vn">17</span>for the Lamb who is in the midst of the throne shepherds them, and leads them to springs of waters of life. And God will wipe away every tear from their eyes.”</p>
+</div>
+<p class="conn">'A great multitude, which no man could number, out of every nation and of all tribes, peoples, and languages.' C27. Asked who they are, John answers as Ezekiel did: 'My lord, you know.' 'These are those who came out of the great tribulation… They will never be hungry, neither thirsty any more… for the Lamb who is in the midst of the throne shepherds them, and leads them to springs of waters of life. And God will wipe away every tear from their eyes.' C19's consolation: the shepherd is the Lamb, and the tears are wiped, not forbidden.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c27.html">C27</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 12:10-12</p>
+<h2 class="entry-name">The accuser of our brothers has been thrown down, who accuses them before our God day and night. They overcame him because of the Lamb's blood, and because of the word of their testimony. They didn't love their life, even to death</h2>
+<div class="passage">
+<p><span class="vn">10</span>I heard a loud voice in heaven, saying, “Now the salvation, the power, and the Kingdom of our God, and the authority of his Christ has come; for the accuser of our brothers has been thrown down, who accuses them before our God day and night.</p>
+<p><span class="vn">11</span>They overcame him because of the Lamb’s blood, and because of the word of their testimony. They didn’t love their life, even to death.</p>
+<p><span class="vn">12</span>Therefore rejoice, heavens, and you who dwell in them. Woe to the earth and to the sea, because the devil has gone down to you, having great wrath, knowing that he has but a short time.”</p>
+</div>
+<p class="conn">'The accuser of our brothers has been thrown down, who accuses them before our God day and night.' C19's verdict: accusation silenced, not answered — the scene of Zechariah 3 completed. 'They overcame him because of the Lamb's blood, and because of the word of their testimony. They didn't love their life, even to death.' C18's detachment at its last extent.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c18.html">C18</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 18:11-17</p>
+<h2 class="entry-name">Merchandise of gold, silver, precious stones… cinnamon, incense, perfume… wheat, sheep, horses, chariots, and people's bodies and souls… For in an hour such great riches are made desolate</h2>
+<div class="passage">
+<p><span class="vn">11</span>The merchants of the earth weep and mourn over her, for no one buys their merchandise any more;</p>
+<p><span class="vn">12</span>merchandise of gold, silver, precious stones, pearls, fine linen, purple, silk, scarlet, all expensive wood, every vessel of ivory, every vessel made of most precious wood, and of brass, and iron, and marble;</p>
+<p><span class="vn">13</span>and cinnamon, incense, perfume, frankincense, wine, olive oil, fine flour, wheat, sheep, horses, chariots, and people’s bodies and souls.</p>
+<p><span class="vn">14</span>The fruits which your soul lusted after have been lost to you, and all things that were dainty and sumptuous have perished from you, and you will find them no more at all.</p>
+<p><span class="vn">15</span>The merchants of these things, who were made rich by her, will stand far away for the fear of her torment, weeping and mourning;</p>
+<p><span class="vn">16</span>saying, ‘Woe, woe, the great city, she who was dressed in fine linen, purple, and scarlet, and decked with gold and precious stones and pearls!</p>
+<p><span class="vn">17</span>For in an hour such great riches are made desolate.’ Every shipmaster, and everyone who sails anywhere, and mariners, and as many as gain their living by sea, stood far away,</p>
+</div>
+<p class="conn">The fall of 'Babylon' mourned by those who profited from her. The cargo list runs from luxury goods to food to transport — and ends: 'and people's bodies and souls.' A commercial empire whose last commodity is human beings. The Heavenly Palace's counter-image at civilisational scale (medium): 'The fruits which your soul lusted after have been lost to you… For in an hour such great riches are made desolate.' C18 and C21. The merchants 'stand far away… weeping and mourning' — for the market, not for the city.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c18.html">C18</a>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="a1.html">PR28</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 21:1-7</p>
+<h2 class="entry-name">Behold, God's dwelling is with people… He will wipe away from them every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain… Behold, I am making all things new</h2>
+<div class="passage">
+<p><span class="vn">1</span>I saw a new heaven and a new earth: for the first heaven and the first earth have passed away, and the sea is no more.</p>
+<p><span class="vn">2</span>I saw the holy city, New Jerusalem, coming down out of heaven from God, prepared like a bride adorned for her husband.</p>
+<p><span class="vn">3</span>I heard a loud voice out of heaven saying, “Behold, God’s dwelling is with people, and he will dwell with them, and they will be his people, and God himself will be with them as their God.</p>
+<p><span class="vn">4</span>He will wipe away from them every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.”</p>
+<p><span class="vn">5</span>He who sits on the throne said, “Behold, I am making all things new.” He said, “Write, for these words of God are faithful and true.”</p>
+<p><span class="vn">6</span>He said to me, “It is done! I am the Alpha and the Omega, the Beginning and the End. I will give freely to him who is thirsty from the spring of the water of life.</p>
+<p><span class="vn">7</span>He who overcomes, I will give him these things. I will be his God, and he will be my son.</p>
+</div>
+<p class="conn">'I saw a new heaven and a new earth.' The centre of it is presence: 'Behold, God's dwelling is with people, and he will dwell with them, and they will be his people, and God himself will be with them as their God. He will wipe away from them every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more.' C19's final answer to every lament in the index. 'Behold, I am making all things new' — C26's transformation completed for the whole creation. 'I will give freely to him who is thirsty from the spring of the water of life.'</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c26.html">C26</a>
+<a class="tag" href="c24.html">C24</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 21:22-27</p>
+<h2 class="entry-name">I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple… Its gates will in no way be shut by day (for there will be no night there)</h2>
+<div class="passage">
+<p><span class="vn">22</span>I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple.</p>
+<p><span class="vn">23</span>The city has no need for the sun, neither of the moon, to shine, for the very glory of God illuminated it, and its lamp is the Lamb.</p>
+<p><span class="vn">24</span>The nations will walk in its light. The kings of the earth bring the glory and honor of the nations into it.</p>
+<p><span class="vn">25</span>Its gates will in no way be shut by day (for there will be no night there),</p>
+<p><span class="vn">26</span>and they shall bring the glory and the honor of the nations into it so that they may enter.</p>
+<p><span class="vn">27</span>There will in no way enter into it anything profane, or one who causes an abomination or a lie, but only those who are written in the Lamb’s book of life.</p>
+</div>
+<p class="conn">'I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple.' The distinction between holy place and ordinary place ended — Zechariah 14:20-21 fulfilled; C28's liturgy of the ordinary made total. 'The nations will walk in its light… Its gates will in no way be shut by day (for there will be no night there).' C27's open gates. C24.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S6 Transformation</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c28.html">C28</a>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="c24.html">C24</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 22:1-5</p>
+<h2 class="entry-name">The tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations… They will see his face</h2>
+<div class="passage">
+<p><span class="vn">1</span>He showed me a river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb,</p>
+<p><span class="vn">2</span>in the middle of its street. On this side of the river and on that was the tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations.</p>
+<p><span class="vn">3</span>There will be no curse any more. The throne of God and of the Lamb will be in it, and his servants serve him.</p>
+<p><span class="vn">4</span>They will see his face, and his name will be on their foreheads.</p>
+<p><span class="vn">5</span>There will be no night, and they need no lamp light; for the Lord God will illuminate them. They will reign forever and ever.</p>
+</div>
+<p class="conn">Ezekiel's river (47:1-12) and Eden's tree, together in the city street: 'a river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb… On this side of the river and on that was the tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations.' C11's fruit without season, and C27's healing for everyone. 'There will be no curse any more… They will see his face' — the request Moses was refused (Exodus 33:20), granted. C19.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c11.html">C11</a>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c27.html">C27</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Revelation 22:17</p>
+<h2 class="entry-name">The Spirit and the bride say, 'Come!'… He who is thirsty, let him come. He who desires, let him take the water of life freely</h2>
+<div class="passage">
+<p><span class="vn">17</span>The Spirit and the bride say, “Come!” He who hears, let him say, “Come!” He who is thirsty, let him come. He who desires, let him take the water of life freely.</p>
+</div>
+<p class="conn">The last invitation in scripture: 'The Spirit and the bride say, &quot;Come!&quot; He who hears, let him say, &quot;Come!&quot; He who is thirsty, let him come. He who desires, let him take the water of life freely.' C19's door, open at the end of the canon, with no condition but thirst.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+</div>
+</article>
+<nav class="docnav">
+<p class="rule-orn orn"><span>✦</span></p>
+<p class="nav-hub"><a href="scripture.html">All indexed books</a> · <a href="index.html">Table of contents</a></p>
+</nav>
+</main></body></html>

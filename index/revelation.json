@@ -1,0 +1,333 @@
+{
+  "book": "Revelation",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/revelation.json",
+  "note": "John's apocalypse: the letters to seven churches, the throne and the Lamb, the judgments, the fall of Babylon, and the new creation. Indexed selectively: the letters and the visions of worship and renewal are indexed; the judgment cycles are not. Not cited by the curriculum or the Scriptural Appendix.",
+  "prediction_note": "Forecast: the letters (2-3) the formation core, with 2:4-5 for PR11 and 3:17 for PR28; 21:3-4 the C19 terminus. Outcome: as forecast. The book closes the canon by answering lament (21:4) and Exodus 33:20 (22:4).",
+  "coverage_note": "Indexed selectively. Not indexed: 1:1-8 and 1:19-20; the letters to Pergamum and Thyatira (2:12-29), whose charges concern specific false teachings the index does not interpret; the seals, trumpets and bowls (6, 8-11, 15-16); 7:1-8; the woman, the dragon and the beasts (12:1-9, 12:13-14:20), and the number of the beast; the harlot (17); 18:1-10 and 18:18-24; the rider, the millennium and the last judgment (19:11-20:15); the measurements of the city (21:8-21); and the closing warnings (22:6-16, 22:18-21). The index does not interpret Revelation's symbols or adopt any scheme for its chronology.",
+  "entries": [
+    {
+      "ref": "Revelation 1:9-18",
+      "pericope": "I John, your brother and partner with you in oppression, Kingdom, and perseverance… When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, 'Don't be afraid.'",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C24",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The visionary introduces himself not by rank but by shared condition: 'I John, your brother and partner with you in oppression, Kingdom, and perseverance in Christ Jesus.' C13 and C25's endurance. The vision of the risen Christ is overwhelming — eyes like fire, a voice 'like the voice of many waters' — and John collapses: 'When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, \"Don't be afraid. I am the first and the last, and the Living one. I was dead, and behold, I am alive forevermore.\"' C24's awe, met with a hand and a reassurance.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 2:1-7",
+      "pericope": "I know your works, and your toil and perseverance… But I have this against you, that you left your first love. Remember therefore from where you have fallen, and repent and do the first works",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C12",
+        "C10",
+        "C19"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "prescribes",
+      "connection": "A church with everything right but the centre: 'I know your works, and your toil and perseverance, and that you can't tolerate evil men, and have tested those who call themselves apostles… and have not grown weary. But I have this against you, that you left your first love.' C12's proof failing at its root — orthodoxy and endurance without love — and C10's remaining lost. The remedy is the Failure Recovery Protocol in three verbs: 'Remember therefore from where you have fallen, and repent and do the first works' — name it, return, and resume the ordinary obedience that was dropped. C19.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 2:8-11",
+      "pericope": "I know your works, oppression, and your poverty (but you are rich)… Don't be afraid of the things which you are about to suffer… Be faithful to death",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C18",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "One of two churches given no rebuke. 'I know your works, oppression, and your poverty (but you are rich).' C18's reversal of what wealth is. 'Don't be afraid of the things which you are about to suffer… Be faithful to death, and I will give you the crown of life.' C25's endurance, with a promise and no explanation.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 3:1-6",
+      "pericope": "You have a reputation of being alive, but you are dead. Wake up, and keep the things that remain… If therefore you won't watch, I will come as a thief",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C12"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "'I know your works, that you have a reputation of being alive, but you are dead.' C12's proof failed behind a good name. The command is Watchfulness: 'Wake up, and keep the things that remain, which you were about to throw away… Remember therefore how you have received and heard. Keep it, and repent. If therefore you won't watch, I will come as a thief.' C20. 'Nevertheless you have a few names in Sardis that did not defile their garments.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 3:7-13",
+      "pericope": "I have set before you an open door, which no one can shut… you have a little power, and kept my word, and didn't deny my name",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C13",
+        "C19",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The second church without rebuke, and it is weak: 'I know your works (behold, I have set before you an open door, which no one can shut), that you have a little power, and kept my word, and didn't deny my name.' C13's ordinary faithfulness — little strength, kept — and C22's humility rewarded. C19's open door: 'he who opens and no one can shut.' 'Hold firmly that which you have.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 3:14-22",
+      "pericope": "Because you say, 'I am rich, and have gotten riches, and have need of nothing;' and don't know that you are the wretched one, miserable, poor, blind, and naked… Behold, I stand at the door and knock",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C18",
+        "C07",
+        "C19"
+      ],
+      "practices": [
+        "PR28"
+      ],
+      "mode": "counter-example",
+      "connection": "'I know your works, that you are neither cold nor hot… So, because you are lukewarm… I will vomit you out of my mouth.' The cause is wealth that blinds: 'Because you say, \"I am rich, and have gotten riches, and have need of nothing;\" and don't know that you are the wretched one, miserable, poor, blind, and naked.' The Heavenly Palace's warning to a community comfortable in its surplus (medium). C18 and C07's blindness: 'eye salve to anoint your eyes, that you may see.' And the harshest letter ends in the tenderest image: 'As many as I love, I reprove and chasten… Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him, and will dine with him, and he with me.' C19's door, knocked on from outside.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 4:8-11",
+      "pericope": "Holy, holy, holy is the Lord God, the Almighty… the twenty-four elders… throw their crowns before the throne",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The throne room. The living creatures 'have no rest day and night, saying, \"Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come!\"' C24's worship at its source. And the elders' gesture: they 'fall down before him who sits on the throne… and throw their crowns before the throne, saying, \"Worthy are you, our Lord and God… for you created all things.\"' C22: every honour received is laid down.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 5:6-14",
+      "pericope": "A Lamb standing, as though it had been slain… you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27",
+        "C24"
+      ],
+      "practices": [],
+      "connection": "John is told to look for a lion, and sees 'a Lamb standing, as though it had been slain.' Power revealed as sacrifice — C16's logic at the centre of heaven. The new song: 'you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation.' C27's widest circle. Then the worship spreads outward until it includes 'every created thing which is in heaven, on the earth, under the earth, on the sea' — C24.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 7:9-17",
+      "pericope": "A great multitude, which no man could number, out of every nation… These are those who came out of the great tribulation… And God will wipe away every tear from their eyes",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C27"
+      ],
+      "practices": [],
+      "connection": "'A great multitude, which no man could number, out of every nation and of all tribes, peoples, and languages.' C27. Asked who they are, John answers as Ezekiel did: 'My lord, you know.' 'These are those who came out of the great tribulation… They will never be hungry, neither thirsty any more… for the Lamb who is in the midst of the throne shepherds them, and leads them to springs of waters of life. And God will wipe away every tear from their eyes.' C19's consolation: the shepherd is the Lamb, and the tears are wiped, not forbidden.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 12:10-12",
+      "pericope": "The accuser of our brothers has been thrown down, who accuses them before our God day and night. They overcame him because of the Lamb's blood, and because of the word of their testimony. They didn't love their life, even to death",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "'The accuser of our brothers has been thrown down, who accuses them before our God day and night.' C19's verdict: accusation silenced, not answered — the scene of Zechariah 3 completed. 'They overcame him because of the Lamb's blood, and because of the word of their testimony. They didn't love their life, even to death.' C18's detachment at its last extent.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 18:11-17",
+      "pericope": "Merchandise of gold, silver, precious stones… cinnamon, incense, perfume… wheat, sheep, horses, chariots, and people's bodies and souls… For in an hour such great riches are made desolate",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C18",
+        "C21"
+      ],
+      "practices": [
+        "PR28"
+      ],
+      "mode": "counter-example",
+      "connection": "The fall of 'Babylon' mourned by those who profited from her. The cargo list runs from luxury goods to food to transport — and ends: 'and people's bodies and souls.' A commercial empire whose last commodity is human beings. The Heavenly Palace's counter-image at civilisational scale (medium): 'The fruits which your soul lusted after have been lost to you… For in an hour such great riches are made desolate.' C18 and C21. The merchants 'stand far away… weeping and mourning' — for the market, not for the city.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 21:1-7",
+      "pericope": "Behold, God's dwelling is with people… He will wipe away from them every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain… Behold, I am making all things new",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C26",
+        "C24"
+      ],
+      "practices": [],
+      "connection": "'I saw a new heaven and a new earth.' The centre of it is presence: 'Behold, God's dwelling is with people, and he will dwell with them, and they will be his people, and God himself will be with them as their God. He will wipe away from them every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more.' C19's final answer to every lament in the index. 'Behold, I am making all things new' — C26's transformation completed for the whole creation. 'I will give freely to him who is thirsty from the spring of the water of life.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 21:22-27",
+      "pericope": "I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple… Its gates will in no way be shut by day (for there will be no night there)",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C27",
+        "C24"
+      ],
+      "practices": [],
+      "connection": "'I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple.' The distinction between holy place and ordinary place ended — Zechariah 14:20-21 fulfilled; C28's liturgy of the ordinary made total. 'The nations will walk in its light… Its gates will in no way be shut by day (for there will be no night there).' C27's open gates. C24.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 22:1-5",
+      "pericope": "The tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations… They will see his face",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C11",
+        "C19",
+        "C27"
+      ],
+      "practices": [],
+      "connection": "Ezekiel's river (47:1-12) and Eden's tree, together in the city street: 'a river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb… On this side of the river and on that was the tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations.' C11's fruit without season, and C27's healing for everyone. 'There will be no curse any more… They will see his face' — the request Moses was refused (Exodus 33:20), granted. C19.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Revelation 22:17",
+      "pericope": "The Spirit and the bride say, 'Come!'… He who is thirsty, let him come. He who desires, let him take the water of life freely",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [],
+      "connection": "The last invitation in scripture: 'The Spirit and the bride say, \"Come!\" He who hears, let him say, \"Come!\" He who is thirsty, let him come. He who desires, let him take the water of life freely.' C19's door, open at the end of the canon, with no condition but thirst.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

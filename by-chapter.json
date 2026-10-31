@@ -5485,6 +5485,21 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Revelation.Json",
+        "reference": "Revelation 3:14-22",
+        "name": "Because you say, 'I am rich, and have gotten riches, and have need of nothing;' and don't know that you are the wretched one, miserable, poor, blind, and naked… Behold, I stand at the door and knock",
+        "chapters": [
+          "C07",
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
         "book": "Romans.Json",
         "reference": "Romans 12:1-2",
         "name": "Present your bodies a living sacrifice… be transformed by the renewing of your mind",
@@ -8427,6 +8442,21 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 2:1-7",
+        "name": "I know your works, and your toil and perseverance… But I have this against you, that you left your first love. Remember therefore from where you have fallen, and repent and do the first works",
+        "chapters": [
+          "C10",
+          "C12",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
       }
     ],
     "C11": [
@@ -8824,6 +8854,19 @@
         ],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 22:1-5",
+        "name": "The tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations… They will see his face",
+        "chapters": [
+          "C11",
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
       },
       {
         "book": "Romans.Json",
@@ -9750,6 +9793,35 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 2:1-7",
+        "name": "I know your works, and your toil and perseverance… But I have this against you, that you left your first love. Remember therefore from where you have fallen, and repent and do the first works",
+        "chapters": [
+          "C10",
+          "C12",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 3:1-6",
+        "name": "You have a reputation of being alive, but you are dead. Wake up, and keep the things that remain… If therefore you won't watch, I will come as a thief",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
       },
       {
         "book": "Romans.Json",
@@ -11257,6 +11329,32 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 1:9-18",
+        "name": "I John, your brother and partner with you in oppression, Kingdom, and perseverance… When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, 'Don't be afraid.'",
+        "chapters": [
+          "C13",
+          "C24",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 3:7-13",
+        "name": "I have set before you an open door, which no one can shut… you have a little power, and kept my word, and didn't deny my name",
+        "chapters": [
+          "C13",
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
       },
       {
         "book": "Romans.Json",
@@ -17056,6 +17154,19 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Revelation.Json",
+        "reference": "Revelation 5:6-14",
+        "name": "A Lamb standing, as though it had been slain… you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation",
+        "chapters": [
+          "C16",
+          "C24",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
         "book": "Romans.Json",
         "reference": "Romans 10:5-21",
         "name": "The word is near you, in your mouth, and in your heart… How will they hear without a preacher?",
@@ -20059,6 +20170,59 @@
         ],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 12:10-12",
+        "name": "The accuser of our brothers has been thrown down, who accuses them before our God day and night. They overcame him because of the Lamb's blood, and because of the word of their testimony. They didn't love their life, even to death",
+        "chapters": [
+          "C18",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 18:11-17",
+        "name": "Merchandise of gold, silver, precious stones… cinnamon, incense, perfume… wheat, sheep, horses, chariots, and people's bodies and souls… For in an hour such great riches are made desolate",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 2:8-11",
+        "name": "I know your works, oppression, and your poverty (but you are rich)… Don't be afraid of the things which you are about to suffer… Be faithful to death",
+        "chapters": [
+          "C18",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 3:14-22",
+        "name": "Because you say, 'I am rich, and have gotten riches, and have need of nothing;' and don't know that you are the wretched one, miserable, poor, blind, and naked… Behold, I stand at the door and knock",
+        "chapters": [
+          "C07",
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
       },
       {
         "book": "Ruth.Json",
@@ -23556,6 +23720,110 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Revelation.Json",
+        "reference": "Revelation 12:10-12",
+        "name": "The accuser of our brothers has been thrown down, who accuses them before our God day and night. They overcame him because of the Lamb's blood, and because of the word of their testimony. They didn't love their life, even to death",
+        "chapters": [
+          "C18",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 21:1-7",
+        "name": "Behold, God's dwelling is with people… He will wipe away from them every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain… Behold, I am making all things new",
+        "chapters": [
+          "C19",
+          "C24",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 22:1-5",
+        "name": "The tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations… They will see his face",
+        "chapters": [
+          "C11",
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 22:17",
+        "name": "The Spirit and the bride say, 'Come!'… He who is thirsty, let him come. He who desires, let him take the water of life freely",
+        "chapters": [
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 2:1-7",
+        "name": "I know your works, and your toil and perseverance… But I have this against you, that you left your first love. Remember therefore from where you have fallen, and repent and do the first works",
+        "chapters": [
+          "C10",
+          "C12",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 3:14-22",
+        "name": "Because you say, 'I am rich, and have gotten riches, and have need of nothing;' and don't know that you are the wretched one, miserable, poor, blind, and naked… Behold, I stand at the door and knock",
+        "chapters": [
+          "C07",
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 3:7-13",
+        "name": "I have set before you an open door, which no one can shut… you have a little power, and kept my word, and didn't deny my name",
+        "chapters": [
+          "C13",
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 7:9-17",
+        "name": "A great multitude, which no man could number, out of every nation… These are those who came out of the great tribulation… And God will wipe away every tear from their eyes",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
         "book": "Romans.Json",
         "reference": "Romans 10:5-21",
         "name": "The word is near you, in your mouth, and in your heart… How will they hear without a preacher?",
@@ -25201,6 +25469,20 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Revelation.Json",
+        "reference": "Revelation 3:1-6",
+        "name": "You have a reputation of being alive, but you are dead. Wake up, and keep the things that remain… If therefore you won't watch, I will come as a thief",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
         "book": "Romans.Json",
         "reference": "Romans 13:11-14",
         "name": "The night is far gone, and the day is near… make no provision for the flesh, for its lusts",
@@ -26749,6 +27031,20 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 18:11-17",
+        "name": "Merchandise of gold, silver, precious stones… cinnamon, incense, perfume… wheat, sheep, horses, chariots, and people's bodies and souls… For in an hour such great riches are made desolate",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
       },
       {
         "book": "Romans.Json",
@@ -28643,6 +28939,31 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 3:7-13",
+        "name": "I have set before you an open door, which no one can shut… you have a little power, and kept my word, and didn't deny my name",
+        "chapters": [
+          "C13",
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 4:8-11",
+        "name": "Holy, holy, holy is the Lord God, the Almighty… the twenty-four elders… throw their crowns before the throne",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
       },
       {
         "book": "Romans.Json",
@@ -30884,6 +31205,70 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Revelation.Json",
+        "reference": "Revelation 1:9-18",
+        "name": "I John, your brother and partner with you in oppression, Kingdom, and perseverance… When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, 'Don't be afraid.'",
+        "chapters": [
+          "C13",
+          "C24",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 21:1-7",
+        "name": "Behold, God's dwelling is with people… He will wipe away from them every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain… Behold, I am making all things new",
+        "chapters": [
+          "C19",
+          "C24",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 21:22-27",
+        "name": "I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple… Its gates will in no way be shut by day (for there will be no night there)",
+        "chapters": [
+          "C24",
+          "C27",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 4:8-11",
+        "name": "Holy, holy, holy is the Lord God, the Almighty… the twenty-four elders… throw their crowns before the throne",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 5:6-14",
+        "name": "A Lamb standing, as though it had been slain… you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation",
+        "chapters": [
+          "C16",
+          "C24",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
         "book": "Romans.Json",
         "reference": "Romans 11:33-36",
         "name": "Oh the depth of the riches both of the wisdom and the knowledge of God! How unsearchable are his judgments",
@@ -32205,6 +32590,31 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Revelation.Json",
+        "reference": "Revelation 1:9-18",
+        "name": "I John, your brother and partner with you in oppression, Kingdom, and perseverance… When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, 'Don't be afraid.'",
+        "chapters": [
+          "C13",
+          "C24",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 2:8-11",
+        "name": "I know your works, oppression, and your poverty (but you are rich)… Don't be afraid of the things which you are about to suffer… Be faithful to death",
+        "chapters": [
+          "C18",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
         "book": "Romans.Json",
         "reference": "Romans 4:1-25",
         "name": "Who in hope believed against hope… he didn't consider his own body, already having been worn out",
@@ -32897,6 +33307,19 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 21:1-7",
+        "name": "Behold, God's dwelling is with people… He will wipe away from them every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain… Behold, I am making all things new",
+        "chapters": [
+          "C19",
+          "C24",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
       },
       {
         "book": "Romans.Json",
@@ -34407,6 +34830,57 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Revelation.Json",
+        "reference": "Revelation 21:22-27",
+        "name": "I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple… Its gates will in no way be shut by day (for there will be no night there)",
+        "chapters": [
+          "C24",
+          "C27",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 22:1-5",
+        "name": "The tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations… They will see his face",
+        "chapters": [
+          "C11",
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 5:6-14",
+        "name": "A Lamb standing, as though it had been slain… you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation",
+        "chapters": [
+          "C16",
+          "C24",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 7:9-17",
+        "name": "A great multitude, which no man could number, out of every nation… These are those who came out of the great tribulation… And God will wipe away every tear from their eyes",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
         "book": "Romans.Json",
         "reference": "Romans 12:14-21",
         "name": "Bless those who persecute you… Repay no one evil for evil… Don't seek revenge… If your enemy is hungry, feed him… overcome evil with good",
@@ -35294,6 +35768,19 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 21:22-27",
+        "name": "I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple… Its gates will in no way be shut by day (for there will be no night there)",
+        "chapters": [
+          "C24",
+          "C27",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "revelation.json"
       },
       {
         "book": "Zechariah.Json",
@@ -42512,6 +42999,21 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Revelation.Json",
+        "reference": "Revelation 2:1-7",
+        "name": "I know your works, and your toil and perseverance… But I have this against you, that you left your first love. Remember therefore from where you have fallen, and repent and do the first works",
+        "chapters": [
+          "C10",
+          "C12",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
         "book": "Zechariah.Json",
         "reference": "Zechariah 1:1-6",
         "name": "'Return to me,' says Yahweh of Armies, 'and I will return to you'… Your fathers, where are they? And the prophets, do they live forever?",
@@ -43305,6 +43807,20 @@
         ],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 3:1-6",
+        "name": "You have a reputation of being alive, but you are dead. Wake up, and keep the things that remain… If therefore you won't watch, I will come as a thief",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
       },
       {
         "book": "Romans.Json",
@@ -46908,6 +47424,35 @@
         ],
         "tags": [],
         "source_file": "nehemiah.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 18:11-17",
+        "name": "Merchandise of gold, silver, precious stones… cinnamon, incense, perfume… wheat, sheep, horses, chariots, and people's bodies and souls… For in an hour such great riches are made desolate",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
+      },
+      {
+        "book": "Revelation.Json",
+        "reference": "Revelation 3:14-22",
+        "name": "Because you say, 'I am rich, and have gotten riches, and have need of nothing;' and don't know that you are the wretched one, miserable, poor, blind, and naked… Behold, I stand at the door and knock",
+        "chapters": [
+          "C07",
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "revelation.json"
       }
     ],
     "PR29": [

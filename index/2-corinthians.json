@@ -1,0 +1,467 @@
+{
+  "book": "2 Corinthians",
+  "translation": "World English Bible (public domain)",
+  "status": "complete — 255 of 257 verses; the greeting (1:1-2) is unindexed; awaiting second-pass review",
+  "method_version": "2.3",
+  "text_source": "index/text/2-corinthians.json",
+  "note": "Paul's most personal letter, written to a church that had wounded him and was suspicious of him, after a painful visit and a letter written with tears. Two entries carry prior citations — 3:3 and 3:18, which the Scriptural Appendix cites for C26 — and serve as the calibration set.",
+  "prediction_note": "The indexing order named chapters 8-9 'the collection — surplus redirected rather than accumulated. A second PR28 anchor.' Both chapters carry PR28, as prescribes, and the forecast holds: 8:14-15's 'your abundance… supplies their lack… that there may be equality,' with the manna as its rule, is the practice's principle in Paul's own words. Unforecast: the letter is also the index's clearest anchor for Unreciprocated Care (12:11-21), its most explicit command of Merciful Reintegration (2:5-11), and its plainest scriptural statement of the distinction Sacred Lament and the Failure Recovery Protocol both depend on, between sorrow that works repentance and sorrow that works death (7:10).",
+  "entries": [
+    {
+      "ref": "2 Corinthians 1:3-11",
+      "pericope": "Who comforts us in all our affliction, that we may be able to comfort those who are in any affliction",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C16"
+      ],
+      "practices": [
+        "PR21"
+      ],
+      "mode": "prescribes",
+      "connection": "'The Father of mercies and God of all comfort; who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God.' Comfort received in order to be passed on — Verbal Almsgiving's alms of a good word, given out of what one has oneself been given (medium: the passage does not restrict the comfort to words). And honest disclosure of how bad it was: 'we were weighed down exceedingly, beyond our power, so much that we despaired even of life… that we should not trust in ourselves.' C19's comfort, and C16's ministry as something done for others' sake.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 1:12-2:4",
+      "pericope": "Not that we have lordship over your faith, but are fellow workers with you for your joy",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C04"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Accused of fickleness for changing his travel plans, Paul appeals to 'the testimony of our conscience' — C04's audit, kept and reported. And he defines his authority by what it refuses: 'Not that we have lordship over your faith, but are fellow workers with you for your joy.' The hard letter he sent was written 'out of much affliction and anguish of heart… with many tears, not that you should be made sorry, but that you might know the love.' C16's authority as service, including when it has to wound.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 2:5-11",
+      "pericope": "You should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C19"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "A member of the church had caused grief and been disciplined. Now Paul writes: 'Sufficient to such a one is this punishment which was inflicted by the many; so that on the contrary you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow. Therefore I beg you to confirm your love toward him.' Merciful Reintegration is receiving the repentant back without lingering shame or permanent probation, acting as a physician rather than a judge, so that a stumble does not become a person's identity. This is that practice commanded in so many words, with its danger named: a penitent swallowed up by sorrow because the community will not end the sentence. C16's authority used to restore, and C19's door reopened by the church.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 3:1-6",
+      "pericope": "Written not with ink, but with the Spirit… not in tablets of stone, but in tablets that are hearts of flesh",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C06"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The Scriptural Appendix cites 3:3: 'a life written on tablets that are hearts of flesh.' The Corinthians are Paul's letter of commendation, 'written not with ink, but with the Spirit of the living God; not in tablets of stone, but in tablets that are hearts of flesh' — the new heart of Ezekiel 36:26 that C26 promises. 'For the letter kills, but the Spirit gives life' is C06's reading of the law past its surface.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "2 Corinthians 3:7-18",
+      "pericope": "We all, with unveiled face beholding as in a mirror the glory of the Lord, are transformed into the same image from glory to glory",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C06"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "exemplifies",
+      "connection": "The Scriptural Appendix names 3:18 as 'the mechanism of transformation — we are changed by beholding, from glory to glory,' and C26 takes it as its witness, with the comment: 'Stages again — not one leap but a sequence, each brighter than the last… we are transformed by beholding. Not by striving at the transformation directly.' The veil over the heart is removed 'whenever one turns to the Lord,' which is C06's sight. The sequence 'from glory to glory' is the Discipline of Gradualism's claim that transformation has stages that cannot be skipped; PR14 is tagged on the strength of C26's own reading.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "2 Corinthians 4:1-6",
+      "pericope": "We don't preach ourselves, but Christ Jesus as Lord, and ourselves as your servants",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C06"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'We have renounced the hidden things of shame, not walking in craftiness… but by the manifestation of the truth commending ourselves to every man's conscience.' 'We don't preach ourselves, but Christ Jesus as Lord, and ourselves as your servants for Jesus' sake' — C16's whole argument in a clause. And the source of the sight: 'God who said, Light will shine out of darkness, who has shone in our hearts' — C06's opening of the eyes as a second creation.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 4:7-18",
+      "pericope": "Though our outward man is decaying, yet our inward man is renewed day by day",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'We have this treasure in clay vessels.' 'Pressed on every side, yet not crushed; perplexed, yet not to despair; pursued, yet not forsaken; struck down, yet not destroyed.' And the sentence that holds C25's long view: 'Though our outward man is decaying, yet our inward man is renewed day by day' — a growth measured in days and invisible from outside. 'We don't look at the things which are seen, but at the things which are not seen' is C18's.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 5:1-10",
+      "pericope": "We walk by faith, not by sight",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "The body as a tent, groaning to be clothed with a house not made with hands. 'We walk by faith, not by sight' — C24's posture before what cannot yet be seen — and the aim that makes the uncertainty bearable: 'whether at home or absent, to be well pleasing to him.' C18's loosened hold on the present tent.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 5:11-21",
+      "pericope": "If anyone is in Christ, he is a new creation… and gave to us the ministry of reconciliation",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C15",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'The love of Christ constrains us… that those who live should no longer live to themselves.' 'If anyone is in Christ, he is a new creation. The old things have passed away. Behold, all things have become new' — C26's change of nature in its most quoted form. And a vocation given to the changed: 'the ministry of reconciliation; namely, that God was in Christ reconciling the world to himself, not reckoning to them their trespasses' — C19's door, and C15's peace-making made the church's commission. 'We beg you on behalf of Christ, be reconciled to God.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 6:1-13",
+      "pericope": "As having nothing, and yet possessing all things… Our heart is enlarged",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C18",
+        "C28"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'Behold, now is the acceptable time. Behold, now is the day of salvation' — C28's day, today. Then a portrait of a ministry in paradoxes: 'as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.' C18's detachment in its fullest statement — not the absence of goods but freedom from them. 'Our mouth is open to you, Corinthians. Our heart is enlarged… you also be open wide.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 6:14-7:1",
+      "pericope": "Don't be unequally yoked with unbelievers",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A call to separation — 'Come out from among them, and be separate' — that stands in tension with C17's insistence on full participation in ordinary society. The index records the tension rather than resolving it: the passage concerns being yoked, bound in partnership to idolatry, which the Citizen-Stranger also refuses, while the curriculum's practice concerns honest presence among neighbours. 'You are a temple of the living God.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 7:2-16",
+      "pericope": "Godly sorrow works repentance to salvation, which brings no regret. But the sorrow of the world works death",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C21"
+      ],
+      "practices": [
+        "PR11",
+        "PR08"
+      ],
+      "mode": "prescribes",
+      "connection": "Paul's hard letter made the Corinthians sorry, and he distinguishes two kinds of sorrow: 'godly sorrow works repentance to salvation, which brings no regret. But the sorrow of the world works death.' Sacred Lament's test is exactly this — honest sorrow moves through and leaves one softer; sorrow curdled into self-punishment settles in and calls itself repentance. And the Failure Recovery Protocol's warning that despair arrives dressed as humility is the 'sorrow of the world' that 'works death.' Godly sorrow ends in repair — 'what earnest care it worked in you' — and 'brings no regret': once it is done, it is done. 'God, who comforts the lowly, comforted us by the coming of Titus.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 8:1-15",
+      "pericope": "Your abundance at this present time supplies their lack… that there may be equality",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C18"
+      ],
+      "practices": [
+        "PR28",
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "The indexing order named 2 Corinthians 8-9 'a second PR28 anchor': the collection, surplus redirected rather than accumulated. The Macedonian churches, in 'deep poverty,' gave 'beyond their power… begging us with much entreaty' — and 'first they gave their own selves to the Lord.' The ground is Christ's own exchange: 'though he was rich, yet for your sakes he became poor.' Then the principle: 'For this is not that others may be eased and you distressed, but for equality. Your abundance at this present time supplies their lack… As it is written, He who gathered much had nothing left over, and he who gathered little had no lack.' The Heavenly Palace's surplus, turned from one community's comfort to another's need, with the manna as its rule. Habitual Almsgiving's measure is stated too: 'acceptable according to what you have, not according to what you don't have.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 8:16-24",
+      "pericope": "Having regard for honorable things, not only in the sight of the Lord, but also in the sight of men",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C04",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Money collected for the poor is handled with visible integrity: Titus and two trusted brothers appointed by the churches travel with it, 'avoiding this, that any man should blame us concerning this abundance which is administered by us. Having regard for honorable things, not only in the sight of the Lord, but also in the sight of men.' C04's consistency between private and public, applied to the administration of charity, and C16's authority accountable to those it serves.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 9:1-15",
+      "pericope": "Let each man give according as he has determined in his heart; not grudgingly, or under compulsion; for God loves a cheerful giver",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C10",
+        "C16"
+      ],
+      "practices": [
+        "PR05",
+        "PR28"
+      ],
+      "mode": "prescribes",
+      "connection": "The gift is to be arranged 'ahead of time… as a matter of generosity, and not of greediness,' and given by decision: 'Let each man give according as he has determined in his heart; not grudgingly, or under compulsion; for God loves a cheerful giver.' Habitual Almsgiving's own instructions — budget a set portion, avoid giving from impulse, give gladly — in Paul's words. And the result of surplus given rather than kept is thanksgiving: 'this service of giving… not only makes up for lack among the saints, but abounds also through many givings of thanks to God.' The Heavenly Palace's true architecture: the relief of the afflicted producing praise rather than monuments. Psalm 112:9 is quoted. C10's cheerfulness and C16's service.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 10:1-18",
+      "pericope": "Bringing every thought into captivity to the obedience of Christ… measuring themselves by themselves, and comparing themselves with themselves",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C16"
+      ],
+      "practices": [
+        "PR12",
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "Paul entreats 'by the humility and gentleness of Christ,' and describes a warfare whose field is the mind: 'throwing down imaginations and every high thing that is exalted against the knowledge of God, and bringing every thought into captivity to the obedience of Christ.' Watchfulness in its most vivid New Testament image — thoughts arrested at the gate. His authority is 'for building you up, and not for casting you down' (C16). And a diagnosis of his rivals that is the Discipline of Gradualism's own warning: 'they themselves, measuring themselves by themselves, and comparing themselves with themselves, are without understanding.' The practice says to refuse comparison, because measuring yourself against others is a category error; this is that refusal, stated as a principle. 'He who boasts, let him boast in the Lord.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 11:1-15",
+      "pericope": "Even Satan masquerades as an angel of light",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C08",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Against teachers who preach 'another Jesus,' Paul warns that appearance is no test: 'such men are false apostles, deceitful workers, masquerading as Christ's apostles. And no wonder, for even Satan masquerades as an angel of light.' C08's fruit test, needed precisely because the surface can be perfect. His own credential is that he preached 'free of charge' and 'kept myself from being burdensome to you' — C16's service paid for by others' gifts rather than taken from those served.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 11:16-33",
+      "pericope": "If I must boast, I will boast of the things that concern my weakness",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C16",
+        "C23"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Forced into boasting by rivals, Paul boasts of the wrong things on purpose: lashes, beatings, stoning, shipwreck, 'a night and a day in the deep,' hunger, cold, nakedness — and 'that which presses on me daily, anxiety for all the assemblies. Who is weak, and I am not weak? Who is caused to stumble, and I don't burn with indignation?' C16's authority as a burden carried for others, and C23's hidden life turned inside out: 'If I must boast, I will boast of the things that concern my weakness.' The climax is an escape in a basket.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 12:1-10",
+      "pericope": "Whether in the body, I don't know… God knows… I refrain, so that no man may think more of me than that which he sees",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C24"
+      ],
+      "practices": [
+        "PR04",
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "Paul speaks of a vision fourteen years earlier, in the third person, and twice declines to understand his own experience: 'whether in the body, I don't know, or whether out of the body, I don't know; God knows.' The Discipline of Unknowing applied even to one's own highest moment. He then refuses to use it: 'I refrain, so that no man may think more of me than that which he sees in me, or hears from me' — the Hidden Life's refusal of an audience for spiritual experience, kept for fourteen years. And the thorn: asked three times to be removed, refused, and answered: 'My grace is sufficient for you, for my power is made perfect in weakness.' C23 and C24 together.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 12:11-21",
+      "pericope": "I will most gladly spend and be spent for your souls. If I love you more abundantly, am I loved the less?",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14",
+        "C16"
+      ],
+      "practices": [
+        "PR22"
+      ],
+      "mode": "exemplifies",
+      "connection": "'I seek not your possessions, but you. For the children ought not to save up for the parents, but the parents for the children. I will most gladly spend and be spent for your souls. If I love you more abundantly, am I loved the less?' He is answered with suspicion — they say he 'caught you with deception' — and he goes on spending. Unreciprocated Care is bearing with ungrateful behaviour from those one is helping, a mercy pure because it cannot be paid in gratitude. The attractor question for PR22 is whether the recipient behaves badly toward the helper or is merely unable to repay; here the church he founded doubts his motives and loves him less the more he gives, and he says so, and keeps giving. The clearest New Testament anchor for the practice. C14's parental love as its pattern, and C16's service.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Corinthians 13:1-14",
+      "pericope": "Test your own selves, whether you are in the faith. Test your own selves",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C04",
+        "C15"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "prescribes",
+      "connection": "The letter ends by turning the Corinthians' scrutiny of Paul back on themselves: 'Test your own selves, whether you are in the faith. Test your own selves. Or don't you know as to your own selves, that Jesus Christ is in you?' The Moral Audit commanded, twice, to a community that had been auditing its apostle. His authority is again 'for building up, and not for tearing down,' and his prayer is for their strength even at his own expense: 'we rejoice when we are weak and you are strong.' Then: 'be of the same mind, live in peace, and the God of love and peace will be with you' — C15's ending.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

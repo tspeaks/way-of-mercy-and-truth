@@ -1928,6 +1928,18 @@
         "source_file": "genesis.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 4:12-13",
+        "name": "The word of God is living, and active, and sharper than any two-edged sword… able to discern the thoughts and intentions of the heart",
+        "chapters": [
+          "C04",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 1:10-20",
         "name": "Learn to do well. Seek justice. Relieve the oppressed… Though your sins be as scarlet",
@@ -2598,6 +2610,20 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 5:11-6:3",
+        "name": "You have come to need milk, and not solid food… solid food is for those who are full grown, who by reason of use have their senses exercised to discern good and evil",
+        "chapters": [
+          "C05",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "James.Json",
         "reference": "James 1:26-27",
         "name": "Bridling the tongue; pure religion",
@@ -3100,6 +3126,53 @@
         "practices": [],
         "tags": [],
         "source_file": "genesis.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 10:1-18",
+        "name": "For the law, having a shadow of the good to come, not the very image of the things",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 1:1-14",
+        "name": "God, having in the past spoken to the fathers through the prophets at many times and in various ways, has at the end of these days spoken to us by his Son",
+        "chapters": [
+          "C06"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 8:1-13",
+        "name": "A copy and shadow of the heavenly things… I will put my laws into their mind, I will also write them on their heart",
+        "chapters": [
+          "C06",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 9:1-28",
+        "name": "How much more will the blood of Christ… cleanse your conscience from dead works to serve the living God?",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Jeremiah.Json",
@@ -4120,6 +4193,21 @@
         "source_file": "galatians.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 13:7-14",
+        "name": "We don't have here an enduring city, but we seek that which is to come… Let us therefore go out to him outside of the camp, bearing his reproach",
+        "chapters": [
+          "C08",
+          "C17",
+          "C18"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 28:14-22",
         "name": "I will make justice the measuring line, and righteousness the plumb line",
@@ -4765,6 +4853,20 @@
         ],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 4:14-16",
+        "name": "We don't have a high priest who can't be touched with the feeling of our infirmities… Let us therefore draw near with boldness to the throne of grace",
+        "chapters": [
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Isaiah.Json",
@@ -5490,6 +5592,18 @@
         "source_file": "genesis.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 4:1-11",
+        "name": "There remains therefore a Sabbath rest for the people of God. For he who has entered into his rest has himself also rested from his works",
+        "chapters": [
+          "C10",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 12:1-6",
         "name": "Though you were angry with me, your anger has turned away and you comfort me",
@@ -5975,6 +6089,18 @@
         "source_file": "genesis.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 6:4-12",
+        "name": "If it bears thorns and thistles, it is rejected… God is not unrighteous, so as to forget your work and the labor of love which you showed toward his name",
+        "chapters": [
+          "C11",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 27:1-13",
         "name": "A pleasant vineyard! I, Yahweh, am its keeper… Let him make peace with me",
@@ -6374,6 +6500,18 @@
         "practices": [],
         "tags": [],
         "source_file": "galatians.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 2:1-4",
+        "name": "We ought to pay greater attention to the things that were heard, lest perhaps we drift away",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Isaiah.Json",
@@ -7181,6 +7319,44 @@
         "practices": [],
         "tags": [],
         "source_file": "genesis.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 10:19-25",
+        "name": "Let us consider how to provoke one another to love and good works, not forsaking our own assembling together",
+        "chapters": [
+          "C13",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 3:1-6",
+        "name": "Moses indeed was faithful in all his house as a servant… but Christ is faithful as a Son over his house; whose house we are",
+        "chapters": [
+          "C13",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 3:7-19",
+        "name": "Today if you will hear his voice, don't harden your hearts… exhort one another day by day, so long as it is called 'today'; lest any one of you be hardened by the deceitfulness of sin",
+        "chapters": [
+          "C13",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Jeremiah.Json",
@@ -8054,6 +8230,43 @@
         "source_file": "genesis.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 13:1-3",
+        "name": "Don't forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it. Remember those who are in bonds, as bound with them",
+        "chapters": [
+          "C14",
+          "C16",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 13:4-6",
+        "name": "Be free from the love of money, content with such things as you have, for he has said, 'I will in no way leave you'",
+        "chapters": [
+          "C14",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 3:1-6",
+        "name": "Moses indeed was faithful in all his house as a servant… but Christ is faithful as a Son over his house; whose house we are",
+        "chapters": [
+          "C13",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 39:1-8",
         "name": "There is nothing among my treasures that I have not shown them… there will be peace and truth in my days",
@@ -8813,6 +9026,35 @@
         "practices": [],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 12:14-17",
+        "name": "Follow after peace with all men… lest any root of bitterness springing up trouble you… like Esau, who sold his birthright for one meal",
+        "chapters": [
+          "C15",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 12:4-13",
+        "name": "It is for discipline that you endure… afterward it yields the peaceful fruit of righteousness to those who have been exercised thereby",
+        "chapters": [
+          "C15",
+          "C21",
+          "C25"
+        ],
+        "practices": [
+          "PR27"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Isaiah.Json",
@@ -10379,6 +10621,58 @@
         "source_file": "genesis.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 10:32-39",
+        "name": "You had compassion on me in my chains, and joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession",
+        "chapters": [
+          "C16",
+          "C18",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 11:23-31",
+        "name": "Choosing rather to share ill treatment with God's people, than to enjoy the pleasures of sin for a time; accounting the reproach of Christ greater riches than the treasures of Egypt",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 13:1-3",
+        "name": "Don't forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it. Remember those who are in bonds, as bound with them",
+        "chapters": [
+          "C14",
+          "C16",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 13:15-19",
+        "name": "Let us offer up a sacrifice of praise to God continually… But don't forget to be doing good and sharing, for with such sacrifices God is well pleased",
+        "chapters": [
+          "C16",
+          "C28"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 10:5-19",
         "name": "Should an axe brag against him who chops with it?",
@@ -11902,6 +12196,35 @@
         "source_file": "genesis.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 11:13-16",
+        "name": "These all died in faith, not having received the promises… having confessed that they were strangers and pilgrims on the earth",
+        "chapters": [
+          "C17",
+          "C18"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 13:7-14",
+        "name": "We don't have here an enduring city, but we seek that which is to come… Let us therefore go out to him outside of the camp, bearing his reproach",
+        "chapters": [
+          "C08",
+          "C17",
+          "C18"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 51:1-16",
         "name": "Who are you, that you are afraid of man who shall die?",
@@ -12999,6 +13322,112 @@
         "practices": [],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 10:32-39",
+        "name": "You had compassion on me in my chains, and joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession",
+        "chapters": [
+          "C16",
+          "C18",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 11:1-12",
+        "name": "By faith, Abraham, when he was called, obeyed to go out… He went out, not knowing where he went",
+        "chapters": [
+          "C18",
+          "C25"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 11:13-16",
+        "name": "These all died in faith, not having received the promises… having confessed that they were strangers and pilgrims on the earth",
+        "chapters": [
+          "C17",
+          "C18"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 11:23-31",
+        "name": "Choosing rather to share ill treatment with God's people, than to enjoy the pleasures of sin for a time; accounting the reproach of Christ greater riches than the treasures of Egypt",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 12:1-3",
+        "name": "Lay aside every weight and the sin which so easily entangles us, and let us run with patience the race that is set before us, looking to Jesus",
+        "chapters": [
+          "C18",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 12:18-29",
+        "name": "You have come to Mount Zion, and to the city of the living God… receiving a Kingdom that can't be shaken, let us have grace… with reverence and awe",
+        "chapters": [
+          "C18",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 13:4-6",
+        "name": "Be free from the love of money, content with such things as you have, for he has said, 'I will in no way leave you'",
+        "chapters": [
+          "C14",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 13:7-14",
+        "name": "We don't have here an enduring city, but we seek that which is to come… Let us therefore go out to him outside of the camp, bearing his reproach",
+        "chapters": [
+          "C08",
+          "C17",
+          "C18"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Isaiah.Json",
@@ -14488,6 +14917,79 @@
         ],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 10:1-18",
+        "name": "For the law, having a shadow of the good to come, not the very image of the things",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 10:19-25",
+        "name": "Let us consider how to provoke one another to love and good works, not forsaking our own assembling together",
+        "chapters": [
+          "C13",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 2:5-18",
+        "name": "He was obligated in all things to be made like his brothers, that he might become a merciful and faithful high priest… he is able to help those who are tempted",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 4:14-16",
+        "name": "We don't have a high priest who can't be touched with the feeling of our infirmities… Let us therefore draw near with boldness to the throne of grace",
+        "chapters": [
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 7:1-28",
+        "name": "He is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them",
+        "chapters": [
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 9:1-28",
+        "name": "How much more will the blood of Christ… cleanse your conscience from dead works to serve the living God?",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Isaiah.Json",
@@ -16732,6 +17234,57 @@
         "source_file": "habakkuk.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 10:26-31",
+        "name": "If we sin willfully after we have received the knowledge of the truth… It is a fearful thing to fall into the hands of the living God",
+        "chapters": [
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 12:14-17",
+        "name": "Follow after peace with all men… lest any root of bitterness springing up trouble you… like Esau, who sold his birthright for one meal",
+        "chapters": [
+          "C15",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 2:1-4",
+        "name": "We ought to pay greater attention to the things that were heard, lest perhaps we drift away",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 3:7-19",
+        "name": "Today if you will hear his voice, don't harden your hearts… exhort one another day by day, so long as it is called 'today'; lest any one of you be hardened by the deceitfulness of sin",
+        "chapters": [
+          "C13",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 21:6-12",
         "name": "Watchman, what of the night?",
@@ -17590,6 +18143,59 @@
         ],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 12:4-13",
+        "name": "It is for discipline that you endure… afterward it yields the peaceful fruit of righteousness to those who have been exercised thereby",
+        "chapters": [
+          "C15",
+          "C21",
+          "C25"
+        ],
+        "practices": [
+          "PR27"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 2:5-18",
+        "name": "He was obligated in all things to be made like his brothers, that he might become a merciful and faithful high priest… he is able to help those who are tempted",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 4:12-13",
+        "name": "The word of God is living, and active, and sharper than any two-edged sword… able to discern the thoughts and intentions of the heart",
+        "chapters": [
+          "C04",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 5:1-10",
+        "name": "He can deal gently with those who are ignorant and going astray, because he himself is also surrounded with weakness… with strong crying and tears",
+        "chapters": [
+          "C21",
+          "C25"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Isaiah.Json",
@@ -18539,6 +19145,42 @@
         "practices": [],
         "tags": [],
         "source_file": "genesis.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 11:17-22",
+        "name": "By faith, Abraham, being tested, offered up Isaac… concluding that God is able to raise up even from the dead",
+        "chapters": [
+          "C22",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 4:1-11",
+        "name": "There remains therefore a Sabbath rest for the people of God. For he who has entered into his rest has himself also rested from his works",
+        "chapters": [
+          "C10",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 6:13-20",
+        "name": "This hope we have as an anchor of the soul, a hope both sure and steadfast",
+        "chapters": [
+          "C22",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Isaiah.Json",
@@ -19522,6 +20164,30 @@
         "source_file": "genesis.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 11:32-40",
+        "name": "Of whom the world was not worthy… These all, having had testimony given to them through their faith, didn't receive the promise",
+        "chapters": [
+          "C23",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 6:4-12",
+        "name": "If it bears thorns and thistles, it is rejected… God is not unrighteous, so as to forget your work and the labor of love which you showed toward his name",
+        "chapters": [
+          "C11",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 22:15-25",
         "name": "Who has you here, that you have dug out a tomb here?… cutting himself out a tomb on high",
@@ -20358,6 +21024,18 @@
         "practices": [],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 12:18-29",
+        "name": "You have come to Mount Zion, and to the city of the living God… receiving a Kingdom that can't be shaken, let us have grace… with reverence and awe",
+        "chapters": [
+          "C18",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Isaiah.Json",
@@ -21356,6 +22034,126 @@
         "source_file": "habakkuk.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 10:32-39",
+        "name": "You had compassion on me in my chains, and joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession",
+        "chapters": [
+          "C16",
+          "C18",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 11:1-12",
+        "name": "By faith, Abraham, when he was called, obeyed to go out… He went out, not knowing where he went",
+        "chapters": [
+          "C18",
+          "C25"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 11:17-22",
+        "name": "By faith, Abraham, being tested, offered up Isaac… concluding that God is able to raise up even from the dead",
+        "chapters": [
+          "C22",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 11:32-40",
+        "name": "Of whom the world was not worthy… These all, having had testimony given to them through their faith, didn't receive the promise",
+        "chapters": [
+          "C23",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 12:1-3",
+        "name": "Lay aside every weight and the sin which so easily entangles us, and let us run with patience the race that is set before us, looking to Jesus",
+        "chapters": [
+          "C18",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 12:4-13",
+        "name": "It is for discipline that you endure… afterward it yields the peaceful fruit of righteousness to those who have been exercised thereby",
+        "chapters": [
+          "C15",
+          "C21",
+          "C25"
+        ],
+        "practices": [
+          "PR27"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 5:1-10",
+        "name": "He can deal gently with those who are ignorant and going astray, because he himself is also surrounded with weakness… with strong crying and tears",
+        "chapters": [
+          "C21",
+          "C25"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 5:11-6:3",
+        "name": "You have come to need milk, and not solid food… solid food is for those who are full grown, who by reason of use have their senses exercised to discern good and evil",
+        "chapters": [
+          "C05",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 6:13-20",
+        "name": "This hope we have as an anchor of the soul, a hope both sure and steadfast",
+        "chapters": [
+          "C22",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 1:21-31",
         "name": "Your silver has become dross… I will thoroughly purge away your dross",
@@ -22169,6 +22967,18 @@
         "source_file": "habakkuk.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 8:1-13",
+        "name": "A copy and shadow of the heavenly things… I will put my laws into their mind, I will also write them on their heart",
+        "chapters": [
+          "C06",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 60:1-22",
         "name": "Arise, shine; for your light has come",
@@ -22852,6 +23662,19 @@
         ],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 13:1-3",
+        "name": "Don't forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it. Remember those who are in bonds, as bound with them",
+        "chapters": [
+          "C14",
+          "C16",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Isaiah.Json",
@@ -23802,6 +24625,20 @@
         "practices": [],
         "tags": [],
         "source_file": "genesis.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 13:15-19",
+        "name": "Let us offer up a sacrifice of praise to God continually… But don't forget to be doing good and sharing, for with such sacrifices God is well pleased",
+        "chapters": [
+          "C16",
+          "C28"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Isaiah.Json",
@@ -25860,6 +26697,20 @@
         "source_file": "habakkuk.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 11:1-12",
+        "name": "By faith, Abraham, when he was called, obeyed to go out… He went out, not knowing where he went",
+        "chapters": [
+          "C18",
+          "C25"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 40:12-31",
         "name": "His understanding is unsearchable… those who wait for Yahweh will renew their strength",
@@ -26603,6 +27454,20 @@
         ],
         "tags": [],
         "source_file": "galatians.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 13:15-19",
+        "name": "Let us offer up a sacrifice of praise to God continually… But don't forget to be doing good and sharing, for with such sacrifices God is well pleased",
+        "chapters": [
+          "C16",
+          "C28"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Isaiah.Json",
@@ -27628,6 +28493,20 @@
         ],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 5:1-10",
+        "name": "He can deal gently with those who are ignorant and going astray, because he himself is also surrounded with weakness… with strong crying and tears",
+        "chapters": [
+          "C21",
+          "C25"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "Isaiah.Json",
@@ -28910,6 +29789,35 @@
         "source_file": "genesis.json"
       },
       {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 11:13-16",
+        "name": "These all died in faith, not having received the promises… having confessed that they were strangers and pilgrims on the earth",
+        "chapters": [
+          "C17",
+          "C18"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 13:7-14",
+        "name": "We don't have here an enduring city, but we seek that which is to come… Let us therefore go out to him outside of the camp, bearing his reproach",
+        "chapters": [
+          "C08",
+          "C17",
+          "C18"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
         "book": "Jeremiah.Json",
         "reference": "Jeremiah 29:4-9",
         "name": "Build houses; plant gardens; seek the peace of the city",
@@ -29116,6 +30024,20 @@
         ],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 4:14-16",
+        "name": "We don't have a high priest who can't be touched with the feeling of our infirmities… Let us therefore draw near with boldness to the throne of grace",
+        "chapters": [
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "James.Json",
@@ -29580,6 +30502,34 @@
         ],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 12:14-17",
+        "name": "Follow after peace with all men… lest any root of bitterness springing up trouble you… like Esau, who sold his birthright for one meal",
+        "chapters": [
+          "C15",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 3:7-19",
+        "name": "Today if you will hear his voice, don't harden your hearts… exhort one another day by day, so long as it is called 'today'; lest any one of you be hardened by the deceitfulness of sin",
+        "chapters": [
+          "C13",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "James.Json",
@@ -30455,6 +31405,34 @@
         ],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 12:1-3",
+        "name": "Lay aside every weight and the sin which so easily entangles us, and let us run with patience the race that is set before us, looking to Jesus",
+        "chapters": [
+          "C18",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 5:11-6:3",
+        "name": "You have come to need milk, and not solid food… solid food is for those who are full grown, who by reason of use have their senses exercised to discern good and evil",
+        "chapters": [
+          "C05",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
       },
       {
         "book": "James.Json",
@@ -32255,6 +33233,23 @@
         ],
         "tags": [],
         "source_file": "song-of-solomon.json"
+      }
+    ],
+    "PR27": [
+      {
+        "book": "Hebrews.Json",
+        "reference": "Hebrews 12:4-13",
+        "name": "It is for discipline that you endure… afterward it yields the peaceful fruit of righteousness to those who have been exercised thereby",
+        "chapters": [
+          "C15",
+          "C21",
+          "C25"
+        ],
+        "practices": [
+          "PR27"
+        ],
+        "tags": [],
+        "source_file": "hebrews.json"
       }
     ],
     "PR28": [

@@ -1,0 +1,681 @@
+{
+  "book": "Hebrews",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/hebrews.json",
+  "note": "A sustained argument that the old covenant's institutions were shadows of Christ, alternating exposition with exhortation. The Scriptural Appendix cites 10:1 for C06, 11:13-16 for C18 and 4:12-13 for C21.",
+  "prediction_note": "Forecast: C06, C18 and C25 dominant; PR10 anchored by 11:13-16 and 13:13-14. Outcome: as forecast. The surprise is 12:4-13, which gives the closest anchor yet for PR27 (Virtue Construction), tagged at medium and queued for review.",
+  "coverage_note": "The angel comparison (1:5-14) is carried inside the 1:1-14 entry. The warnings at 6:4-6 and 10:26-31 are indexed for their images and their place in the letter's argument; the index does not adjudicate the question of apostasy they raise. The benediction and closing greetings (13:20-25) are not indexed separately.",
+  "entries": [
+    {
+      "ref": "Hebrews 1:1-14",
+      "pericope": "God, having in the past spoken to the fathers through the prophets at many times and in various ways, has at the end of these days spoken to us by his Son",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C06"
+      ],
+      "practices": [],
+      "connection": "The letter's opening sentence is a statement about reading: God spoke 'at many times and in various ways' through the prophets, and has now spoken 'by his Son… the radiance of his glory, the very image of his substance.' Everything earlier is partial, and its meaning is found in what it pointed toward. This is the claim C06 builds on and which 10:1 states outright. The chain of psalm quotations comparing the Son with the angels (1:5-14) carries the same argument and is not indexed separately.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 2:1-4",
+      "pericope": "We ought to pay greater attention to the things that were heard, lest perhaps we drift away",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Therefore we ought to pay greater attention to the things that were heard, lest perhaps we drift away… how will we escape if we neglect so great a salvation?' The danger named is not rebellion but drift — a gradual movement nobody chooses. C20's watchman, whose enemy is inattention as much as attack, and C12's proof that faith is measured over time.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 2:5-18",
+      "pericope": "He was obligated in all things to be made like his brothers, that he might become a merciful and faithful high priest… he is able to help those who are tempted",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C21"
+      ],
+      "practices": [],
+      "connection": "Psalm 8's 'What is man, that you think of him?' read as a description of Jesus, 'made a little lower than the angels.' He 'is not ashamed to call them brothers,' and shared flesh and blood to 'deliver all of them who through fear of death were all their lifetime subject to bondage.' 'Therefore he was obligated in all things to be made like his brothers, that he might become a merciful and faithful high priest… For in that he himself has suffered being tempted, he is able to help those who are tempted.' C19's door opened by someone who has stood on our side of it, and C21's physician who has had the disease.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 3:1-6",
+      "pericope": "Moses indeed was faithful in all his house as a servant… but Christ is faithful as a Son over his house; whose house we are",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C14"
+      ],
+      "practices": [],
+      "connection": "'Consider the Apostle and High Priest of our confession, Jesus; who was faithful to him who appointed him, as also was Moses in all his house.' Faithfulness is the virtue compared — Moses 'as a servant,' Christ 'as a Son over his house; whose house we are, if we hold fast our confidence… firm to the end.' C13's ordinary faithfulness given its highest examples, and C14's household image applied to the whole people of God.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 3:7-19",
+      "pericope": "Today if you will hear his voice, don't harden your hearts… exhort one another day by day, so long as it is called 'today'; lest any one of you be hardened by the deceitfulness of sin",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C13"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "Psalm 95's warning, repeated three times in two chapters: 'Today if you will hear his voice, don't harden your hearts.' Then the instruction: 'Beware, brothers, lest perhaps there be in any one of you an evil heart of unbelief… but exhort one another day by day, so long as it is called \"today;\" lest any one of you be hardened by the deceitfulness of sin.' Watchfulness attends to the heart before a movement hardens into a settled state; hardening is exactly what this guards against, and 'deceitfulness' names how — it does not announce itself (medium: the passage gives the watch to the community as well as the individual). C13's shared life as the means: each person keeps watch for the others, daily. 'Exhort' is close to Verbal Almsgiving, but A1 aims that practice at the discouraged, and the aim here is warning; PR21 is not tagged.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 4:1-11",
+      "pericope": "There remains therefore a Sabbath rest for the people of God. For he who has entered into his rest has himself also rested from his works",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C10"
+      ],
+      "practices": [],
+      "connection": "The wilderness generation did not enter the land 'because of unbelief'; the word 'wasn't mixed with faith by those who heard.' The rest they missed is still offered: 'There remains therefore a Sabbath rest for the people of God. For he who has entered into his rest has himself also rested from his works, as God did from his.' C22's quiet soul as a place one enters by trust rather than effort, and C10's delight in remaining. The paradox is left intact: 'Let us therefore give diligence to enter into that rest.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 4:12-13",
+      "pericope": "The word of God is living, and active, and sharper than any two-edged sword… able to discern the thoughts and intentions of the heart",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C04"
+      ],
+      "practices": [],
+      "connection": "The Scriptural Appendix cites 4:12-13 for C21: 'a blade fine enough to divide soul and spirit — a surgical instrument, not a weapon.' 'For the word of God is living, and active, and sharper than any two-edged sword, and piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart. There is no creature that is hidden from his sight, but all things are naked and laid open before the eyes of him with whom we have to do.' C21's physician with the instrument that reaches what is actually wrong, and C04's mirror: nothing in the audit is hidden from the one conducting it.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Hebrews 4:14-16",
+      "pericope": "We don't have a high priest who can't be touched with the feeling of our infirmities… Let us therefore draw near with boldness to the throne of grace",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C09"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "prescribes",
+      "connection": "'For we don't have a high priest who can't be touched with the feeling of our infirmities, but one who has been in all points tempted like we are, yet without sin. Let us therefore draw near with boldness to the throne of grace, that we may receive mercy, and may find grace for help in time of need.' The Failure Recovery Protocol's step 'pray for mercy' given its ground: the one prayed to understands the failure from the inside, so the return can be bold and immediate rather than delayed by shame (medium — the passage gives the posture of the return, not the protocol's other steps). C19's door, and C09's secret place approached without fear.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 5:1-10",
+      "pericope": "He can deal gently with those who are ignorant and going astray, because he himself is also surrounded with weakness… with strong crying and tears",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C21",
+        "C25"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The qualification for a priest is weakness: 'The high priest can deal gently with those who are ignorant and going astray, because he himself is also surrounded with weakness' — gentleness that comes from knowing one's own need, which is C21's physician. And of Jesus: 'in the days of his flesh, having offered up prayers and petitions with strong crying and tears to him who was able to save him from death, and having been heard for his godly fear, though he was a Son, yet learned obedience by the things which he suffered.' Sacred Lament carried out by the Son himself — strong crying and tears, and heard. C25's growth through suffering, applied even to him.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 5:11-6:3",
+      "pericope": "You have come to need milk, and not solid food… solid food is for those who are full grown, who by reason of use have their senses exercised to discern good and evil",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C05"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "counter-example",
+      "connection": "A rebuke for not growing: 'although by this time you should be teachers, you again need to have someone teach you the rudiments.' The contrast is between milk and solid food, and the mark of maturity is practice: 'solid food is for those who are full grown, who by reason of use have their senses exercised to discern good and evil.' Discernment as a skill trained by repetition — C05's apprenticeship. The Discipline of Gradualism holds that growth cannot be hurried; this passage is its other edge, that growth cannot be skipped either, and the readers are stuck at the beginning (medium: counter-example of stalled growth). 'Let us press on to perfection.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 6:4-12",
+      "pericope": "If it bears thorns and thistles, it is rejected… God is not unrighteous, so as to forget your work and the labor of love which you showed toward his name",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C11",
+        "C23"
+      ],
+      "practices": [],
+      "connection": "The severest warning in the letter (6:4-6) is given as an image of fruit: 'the land which has drunk the rain that comes often on it, and brings forth a crop… receives blessing from God; but if it bears thorns and thistles, it is rejected.' C11's measure — what grows from what has been received. The index anchors the image and the encouragement that follows, not a doctrine of apostasy: 'But, beloved, we are persuaded of better things for you… For God is not unrighteous, so as to forget your work and the labor of love which you showed toward his name, in that you served the saints, and still do serve them.' C23's hidden service, which God does not forget.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 6:13-20",
+      "pericope": "This hope we have as an anchor of the soul, a hope both sure and steadfast",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C22"
+      ],
+      "practices": [],
+      "connection": "Abraham, 'having patiently endured, obtained the promise.' God bound himself with an oath 'that by two immutable things, in which it is impossible for God to lie, we may have a strong encouragement… This hope we have as an anchor of the soul, a hope both sure and steadfast.' C25's long wait, and C22's steadiness — an anchor does not stop the waves; it keeps the ship where it is.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 7:1-28",
+      "pericope": "He is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [],
+      "connection": "The Melchizedek argument — a priest 'without genealogy… made like the Son of God,' to whom Abraham gave a tenth — establishes a priesthood that does not end with death. Its conclusion is the reason for the whole chapter: 'Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them.' C19's door, with someone permanently standing at it. Abraham's tenth is a gift to a priest, not provision for the poor, and Habitual Almsgiving is not tagged.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 8:1-13",
+      "pericope": "A copy and shadow of the heavenly things… I will put my laws into their mind, I will also write them on their heart",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C06"
+      ],
+      "practices": [],
+      "connection": "The earthly priests 'serve a copy and shadow of the heavenly things' — C06's reading again, the visible thing pointing past itself. Then Jeremiah's new covenant quoted in full, the longest Old Testament quotation in the New: 'I will put my laws into their mind, I will also write them on their heart… For I will be merciful to their unrighteousness. I will remember their sins and lawless deeds no more.' C26's interior transformation — the law moved from stone to heart — and the mercy that makes it possible.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 9:1-28",
+      "pericope": "How much more will the blood of Christ… cleanse your conscience from dead works to serve the living God?",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C06"
+      ],
+      "practices": [],
+      "connection": "The tabernacle described piece by piece, then read as 'a symbol of the present age, where gifts and sacrifices are offered that are incapable, concerning the conscience, of making the worshipper perfect.' The problem is the conscience, and the answer is aimed at it: 'how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, cleanse your conscience from dead works to serve the living God?' C19's cleansing, and C06's reading of the furniture of worship as a sign. 'Once at the end of the ages, he has been revealed to put away sin.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 10:1-18",
+      "pericope": "For the law, having a shadow of the good to come, not the very image of the things",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C06",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "The Scriptural Appendix gives 10:1 as 'the interpretive key for the whole second stage: the law as a shadow of the good to come. A shadow implies something casting it, and the point of a shadow is to make you turn around.' C06 quotes it directly. The argument that follows is about the conscience: repeated sacrifices are 'a yearly reminder of sins,' but 'by one offering he has perfected forever those who are being sanctified… I will remember their sins and their iniquities no more. Now where remission of these is, there is no more offering for sin.' C19's finished forgiveness.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Hebrews 10:19-25",
+      "pericope": "Let us consider how to provoke one another to love and good works, not forsaking our own assembling together",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C13",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Having therefore, brothers, boldness to enter into the holy place… let's draw near with a true heart in fullness of faith.' Then the community that the access creates: 'Let us consider how to provoke one another to love and good works, not forsaking our own assembling together, as the custom of some is, but exhorting one another.' C13's shared life — deliberate ('consider how'), mutual, and threatened most by quiet absence. C19's door, entered together.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 10:26-31",
+      "pericope": "If we sin willfully after we have received the knowledge of the truth… It is a fearful thing to fall into the hands of the living God",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The warning that matches 6:4-8: deliberate, continued sin after knowing the truth leaves 'a certain fearful expectation of judgment.' The one in view 'has trodden under foot the Son of God… and has insulted the Spirit of grace.' The text quotes 'Vengeance belongs to me' from Deuteronomy 32:35, here as a statement that judgment belongs to God. Indexed under C20 as the end of the road the watchman guards against. The index does not adjudicate the theology of this warning; the letter itself follows it at once with encouragement (10:32-39).",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 10:32-39",
+      "pericope": "You had compassion on me in my chains, and joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C18",
+        "C16",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'Remember the former days, in which… you endured a great struggle with sufferings; partly, being exposed to both reproaches and oppressions; and partly, becoming partakers with those who were treated so.' They chose to stand beside the persecuted rather than at a safe distance — C16's service as solidarity. 'For you both had compassion on me in my chains, and joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession and an enduring one in the heavens.' C18's holy detachment at the moment of loss, held lightly because held elsewhere. 'You need endurance' — C25. The Heavenly Palace concerns redirecting surplus and is not tagged here.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 11:1-12",
+      "pericope": "By faith, Abraham, when he was called, obeyed to go out… He went out, not knowing where he went",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C18"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "'Now faith is assurance of things hoped for, proof of things not seen.' The roll begins with Abel, Enoch, Noah — each acting on what could not yet be seen. Then Abraham: 'By faith, Abraham, when he was called, obeyed to go out to the place which he was to receive for an inheritance. He went out, not knowing where he went.' The Discipline of Unknowing as obedience: setting out without the map. 'He lived as an alien in the land of promise… dwelling in tents… For he looked for the city which has the foundations, whose builder and maker is God.' C18's tents, and C25's long patience — Sarah 'counted him faithful who had promised.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 11:13-16",
+      "pericope": "These all died in faith, not having received the promises… having confessed that they were strangers and pilgrims on the earth",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C17"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "exemplifies",
+      "connection": "The Scriptural Appendix cites 11:13-16 for C18: 'the whole company of the faithful confessing themselves strangers and pilgrims.' C18 quotes it directly. 'These all died in faith, not having received the promises, but having seen them and embraced them from afar, and having confessed that they were strangers and pilgrims on the earth… If indeed they had been thinking of that country from which they went out, they would have had enough time to return. But now they desire a better country, that is, a heavenly one.' The Citizen-Stranger's anchor 'elsewhere' in its original form, and C17's double belonging. 'Therefore God is not ashamed of them, to be called their God.'",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Hebrews 11:17-22",
+      "pericope": "By faith, Abraham, being tested, offered up Isaac… concluding that God is able to raise up even from the dead",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Abraham 'who had gladly received the promises was offering up his one and only son… concluding that God is able to raise up even from the dead.' The letter reads Genesis 22 as trust that the promise would survive even the loss of its only carrier. Isaac, Jacob and Joseph follow, each acting in faith at the end of life about a future they would not see: Jacob 'when he was dying… worshiped, leaning on the top of his staff.' C25's patience to the last breath, and C22's quiet in surrender.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 11:23-31",
+      "pericope": "Choosing rather to share ill treatment with God's people, than to enjoy the pleasures of sin for a time; accounting the reproach of Christ greater riches than the treasures of Egypt",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Moses' parents 'were not afraid of the king's commandment.' Moses 'refused to be called the son of Pharaoh's daughter, choosing rather to share ill treatment with God's people, than to enjoy the pleasures of sin for a time; accounting the reproach of Christ greater riches than the treasures of Egypt.' C18's exchange of treasure, and C16's downward choice — he left the palace to stand with slaves. 'He endured, as seeing him who is invisible.' And Rahab, 'having received the spies in peace,' counted among them.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 11:32-40",
+      "pericope": "Of whom the world was not worthy… These all, having had testimony given to them through their faith, didn't receive the promise",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The list accelerates — Gideon, Barak, Samson, Jephthah, David, Samuel — and then turns from victories to losses: 'Others were tortured, not accepting their deliverance… They were stoned. They were sawn apart… They went around in sheep skins and in goat skins; being destitute, afflicted, ill-treated (of whom the world was not worthy), wandering in deserts, mountains, caves, and the holes of the earth.' Faith measured by those who received nothing visible for it. C23's hidden life at its most costly, and C25's patience that does not see the end: 'These all… didn't receive the promise.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 12:1-3",
+      "pericope": "Lay aside every weight and the sin which so easily entangles us, and let us run with patience the race that is set before us, looking to Jesus",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C18"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "'Therefore let us also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let us run with patience the race that is set before us, looking to Jesus.' The Discipline of Gradualism's long race: endurance over distance, the next stretch rather than the whole course, with the eyes on one point instead of on the other runners. 'Lay aside every weight' is C18's — not only sin, but anything that slows. 'Consider him who has endured such contradiction of sinners against himself, that you don't grow weary, fainting in your souls.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 12:4-13",
+      "pericope": "It is for discipline that you endure… afterward it yields the peaceful fruit of righteousness to those who have been exercised thereby",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C15",
+        "C21"
+      ],
+      "practices": [
+        "PR27"
+      ],
+      "mode": "prescribes",
+      "connection": "'It is for discipline that you endure. God deals with you as with children.' Hardship reframed as training: 'All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness to those who have been exercised thereby.' Virtue Construction treats 'each friction as the specific material needed' — inwardly naming which stone the difficulty is laying. This passage gives the reframing on which that practice rests: the trouble is the means of formation, not an interruption of it. Tagged at medium because Hebrews describes the outcome of endured discipline rather than the stone-by-stone naming A1 prescribes. This is the closest anchor for PR27 the index has found; see REVIEW-QUEUE. 'Therefore, lift up the hands that hang down and the feeble knees, and make straight paths for your feet, so that which is lame may not be dislocated, but rather be healed' — C21's aim of healing, extended to the weakest members.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 12:14-17",
+      "pericope": "Follow after peace with all men… lest any root of bitterness springing up trouble you… like Esau, who sold his birthright for one meal",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C15",
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "'Follow after peace with all men, and the sanctification without which no man will see the Lord, looking carefully lest there be any man who falls short of the grace of God; lest any root of bitterness springing up trouble you, and many be defiled by it.' Watchfulness at the community's gate: bitterness begins as a root, small and underground, and the instruction is to look carefully before it surfaces and spreads. C15's peace and C20's watch together. Then Esau as the counter-example of an appetite indulged at the gate — 'who sold his birthright for one meal' — and found the choice could not be undone.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 12:18-29",
+      "pericope": "You have come to Mount Zion, and to the city of the living God… receiving a Kingdom that can't be shaken, let us have grace… with reverence and awe",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "Two mountains set side by side. Sinai: fire, darkness, a voice so fearful 'that Moses said, \"I am terrified and trembling.\"' Zion: 'the city of the living God… innumerable multitudes of angels… the spirits of just men made perfect… Jesus, the mediator of a new covenant.' Then the shaking of everything that can be shaken, 'that those things which are not shaken may remain. Therefore, receiving a Kingdom that can't be shaken, let us have grace, through which we serve God acceptably, with reverence and awe, for our God is a consuming fire.' C24's awe, and C18's detachment from what will not last.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 13:1-3",
+      "pericope": "Don't forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it. Remember those who are in bonds, as bound with them",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C14",
+        "C16",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Let brotherly love continue. Don't forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it' — Abraham at Mamre, behind the line. 'Remember those who are in bonds, as bound with them; and those who are ill-treated, since you are also in the body.' Mercy by imaginative identification: remember the prisoner as though you were chained beside him. C14's open household, C16's service, and C27's widened heart. The Sacrifice of Routine concerns one's own discipline yielding to a guest's ease, which the passage does not address; PR20 is not tagged.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 13:4-6",
+      "pericope": "Be free from the love of money, content with such things as you have, for he has said, 'I will in no way leave you'",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Let marriage be held in honor among all' — C14. Then: 'Be free from the love of money, content with such things as you have, for he has said, \"I will in no way leave you, neither will I in any way forsake you.\" So that with good courage we say, \"The Lord is my helper. I will not fear.\"' C18's detachment grounded where it has to be: contentment is not achieved by wanting less but by trusting the one who stays. The love of money is answered with a promise, not a rule.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 13:7-14",
+      "pericope": "We don't have here an enduring city, but we seek that which is to come… Let us therefore go out to him outside of the camp, bearing his reproach",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C17",
+        "C18",
+        "C08"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "prescribes",
+      "connection": "'Remember your leaders… considering the results of their conduct, imitate their faith' — C08's test of a teacher by the fruit of the life. 'Don't be carried away by various and strange teachings, for it is good that the heart be established by grace.' Then the call: 'Jesus also… suffered outside of the gate. Let us therefore go out to him outside of the camp, bearing his reproach. For we don't have here an enduring city, but we seek that which is to come.' The Citizen-Stranger's anchor 'elsewhere,' with its cost stated — reproach — and C17's double belonging. C18's no enduring city.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hebrews 13:15-19",
+      "pericope": "Let us offer up a sacrifice of praise to God continually… But don't forget to be doing good and sharing, for with such sacrifices God is well pleased",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C16"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "With the altar and its sacrifices finished, the letter names the offerings that remain: 'let us offer up a sacrifice of praise to God continually, that is, the fruit of lips which proclaim allegiance to his name. But don't forget to be doing good and sharing, for with such sacrifices God is well pleased.' C28's liturgy of the ordinary — praise and practical generosity as the worship that continues. Habitual Almsgiving in 'sharing' as a standing habit, not forgotten (medium — a single clause). Leaders 'watch on behalf of your souls, as those who will give account'; and the writer asks for prayer, 'persuaded that we have a good conscience, desiring to live honorably in all things.'",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

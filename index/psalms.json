@@ -1,13 +1,13 @@
 {
   "book": "Psalms",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — Books I and II (Psalms 1-72) indexed; Books III-V pending; awaiting second-pass review",
+  "status": "in progress — Books I-III (Psalms 1-89) indexed; Books IV-V pending; awaiting second-pass review",
   "method_version": "2.3",
   "text_source": "index/text/psalms.json",
-  "note": "The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39; in Book II, 51 and 63.",
+  "note": "The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39; in Book II, 51 and 63; in Book III, 82 and 84.",
   "genre_note": "The Psalms are prayer, not instruction, and they are indexed as prayer. A psalm that brings grief or complaint honestly before God enacts Sacred Lament, and is marked exemplifies; PR08 is tagged where the lament is the psalm's centre, not wherever a complaint appears, so that the count reflects anchors rather than mentions. The imprecations — prayers for the confusion or destruction of enemies — are not softened and are not tagged as models: where they bear on a practice the index says so (35:1-28, 41:4-13), and otherwise they are read as what they are, the honest voicing of rage to God rather than its enactment against a neighbour, which the curriculum's own account of lament permits. Superscriptions are included in the verse text as the WEB numbers them and are not separately interpreted. Royal and battle psalms are indexed only where they anchor something beyond the king's victory.",
   "prediction_note": "The indexing order said Psalms would settle Sacred Lament permanently, and C09 with it. In Book I, PR08 is tagged on six psalms (6, 10, 13, 22, 30, 38); the rest of the index carries thirty-two, a third of them added today in Genesis, Deuteronomy, and Ecclesiastes. In Book II it is tagged on five more (42-43, 44, 55, 62, 69), and Psalm 62:8 — 'pour out your heart before him' — is the first passage in the index to prescribe the practice in so many words rather than enact it. C09 is reached by Psalms 5, 17, 42-43, 57, 61, and the appendix's own 63; its other named psalm, 84, falls in Book III.",
-  "coverage_note": "Book I, unindexed: Psalm 21, a royal thanksgiving whose second half celebrates the destruction of the king's enemies' descendants, and the battle portion of Psalm 18 (18:37-50). Book II, unindexed: Psalm 45, a royal wedding song (whose 45:4 — the king riding 'on behalf of truth, humility, and righteousness' — comes close to the three pillars without being their source); Psalms 47 and 48, Zion and kingship hymns; Psalm 53, which repeats Psalm 14, and Psalm 70, which repeats 40:13-17; Psalm 54, a brief petition with nothing not anchored elsewhere; Psalms 58 and 59, imprecations against corrupt judges and besiegers, the first ending with the righteous washing their feet in the blood of the wicked, which the index will not tag as a model and has no other reason to tag; Psalm 60, a national oracle after defeat; Psalm 64, a complaint against conspirators; and the battle imagery of Psalm 68 outside 68:4-10.",
+  "coverage_note": "Book I, unindexed: Psalm 21, a royal thanksgiving whose second half celebrates the destruction of the king's enemies' descendants, and the battle portion of Psalm 18 (18:37-50). Book II, unindexed: Psalm 45, a royal wedding song (whose 45:4 — the king riding 'on behalf of truth, humility, and righteousness' — comes close to the three pillars without being their source); Psalms 47 and 48, Zion and kingship hymns; Psalm 53, which repeats Psalm 14, and Psalm 70, which repeats 40:13-17; Psalm 54, a brief petition with nothing not anchored elsewhere; Psalms 58 and 59, imprecations against corrupt judges and besiegers, the first ending with the righteous washing their feet in the blood of the wicked, which the index will not tag as a model and has no other reason to tag; Psalm 60, a national oracle after defeat; Psalm 64, a complaint against conspirators; and the battle imagery of Psalm 68 outside 68:4-10. Book III, unindexed: Psalm 76, a victory hymn, and Psalm 83, a national imprecation against a coalition of enemies.",
   "entries": [
     {
       "ref": "Psalm 1:1-6",
@@ -1275,6 +1275,346 @@
       "mode": "prescribes",
       "connection": "The prayer for the ideal king is a prayer that he will be measured by the poor: 'He will judge your people with righteousness, and your poor with justice… He will deliver the needy when he cries; the poor, who has no helper… Their blood will be precious in his sight.' C16's account of what authority is for, sung over a coronation.",
       "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 73:1-28",
+      "pericope": "For I was envious of the arrogant… Until I entered God's sanctuary",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C09"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "mode": "exemplifies",
+      "connection": "The psalmist nearly falls, and traces the near-fall to its root in the third verse: 'For I was envious of the arrogant, when I saw the prosperity of the wicked.' He follows it through — the complaint that his own innocence was 'in vain,' the bitterness, 'I was so senseless and ignorant. I was a brute beast before you' — and names where the turn came: 'until I entered God's sanctuary, and considered their latter end.' Interior Diagnosis carried out in a single poem: the visible failure, the desire beneath it, the point where it was caught. The sanctuary that changes the sight is C09's secret place, and the resolution is a desire reordered — 'There is no one on earth whom I desire besides you.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 74:1-23",
+      "pericope": "We see no miraculous signs. There is no longer any prophet",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C16"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "A communal lament over the burned sanctuary: the enemy's axes in the carved work, the meeting places burned, 'no longer any prophet, neither is there among us anyone who knows how long.' The complaint is direct — 'Why do you draw back your hand?' — and is held against a recital of God's ancient power. Sacred Lament for a whole people, and its plea for the weakest: 'Don't forget the life of your poor forever… Let the poor and needy praise your name.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 75:1-10",
+      "pericope": "Neither from the east, nor from the west… comes exaltation",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C22"
+      ],
+      "practices": [],
+      "connection": "'Don't boast… Don't lift up your horn on high.' Exaltation comes from no direction a person can travel; 'God is the judge. He puts down one, and lifts up another.' C16's warning to those who hold power, and C22's relational humility.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 77:1-20",
+      "pericope": "Has God forgotten to be gracious?… Your footsteps were not known",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C24"
+      ],
+      "practices": [
+        "PR08",
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "'My soul refused to be comforted.' The questions come in a sequence that has no softening — will he reject forever, has his loving kindness vanished, 'has God forgotten to be gracious?' — and then a decision: 'I will remember Yah's deeds.' Sacred Lament that does not resolve the question but turns toward memory. The psalm ends at the sea: 'Your way was through the sea; your paths through the great waters. Your footsteps were not known.' God's path is real and unrecoverable — the Discipline of Unknowing in an image, at medium because it is offered as praise rather than as a posture commanded.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 78:1-72",
+      "pericope": "He, being merciful, forgave iniquity… He remembered that they were but flesh",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C14",
+        "C19",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A teaching psalm, told so that 'the generation to come might know, even the children who should be born; who should arise and tell their children' — C14's household as the carrier of memory. Its long history of rebellion is answered at the centre by mercy grounded in realism: 'they flattered him with their mouth… their heart was not right with him… But he, being merciful, forgave iniquity… He remembered that they were but flesh.' C19's door. It ends with David taken from the sheepfolds to shepherd 'according to the integrity of his heart' and 'the skillfulness of his hands,' which is C16's ruler.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 79:1-13",
+      "pericope": "Don't hold the iniquities of our forefathers against us",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "Jerusalem in heaps and the dead unburied; 'How long, Yahweh?' The lament asks forgiveness for the people's own sins and those of their fathers, and asks for 'the sighing of the prisoner' to come before God. The prayer for sevenfold repayment of the neighbours (79:12) is read under the genre note.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 80:1-19",
+      "pericope": "You brought a vine out of Egypt… Turn us again, God",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C11",
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "Three times the refrain: 'Turn us again… cause your face to shine, and we will be saved.' At its centre the image C11 builds on: a vine brought out of Egypt and planted, filling the land, and now broken down and ravaged — 'visit this vine.' Christ's 'I am the true vine' answers this psalm and Isaiah 5. A people 'fed… with the bread of tears' bringing that grief to God is Sacred Lament.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 81:1-16",
+      "pericope": "So I let them go after the stubbornness of their hearts",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C20"
+      ],
+      "practices": [],
+      "connection": "God speaks: 'Open your mouth wide, and I will fill it. But my people didn't listen… So I let them go after the stubbornness of their hearts, that they might walk in their own counsels.' The judgment is to be given what one has chosen. C21's account of a heart that becomes its own master, and C20's reason for attending to it early. 'Oh that my people would listen to me.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 82:1-8",
+      "pericope": "Defend the weak, the poor, and the fatherless",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix assigns Psalm 82 to C16, and C16 takes 82:1-4 as its witness: God in the assembly of the powerful, asking 'How long will you judge unjustly?' and commanding, 'Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed.' Authority is judged by what it does for those with none.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 84:1-12",
+      "pericope": "Passing through the valley of Weeping, they make it a place of springs. They go from strength to strength",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C09",
+        "C18",
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "exemplifies",
+      "connection": "The Scriptural Appendix assigns Psalm 84 to three chapters: the sparrow's nest (C09), the valley of Weeping and the day in your courts better than a thousand (C18), and strength to strength (C25), which C25 takes as its witness at 84:5. The pilgrim's road is walked by stages — 'they go from strength to strength' — and the valley of tears is not avoided but transformed by those passing through. The Discipline of Gradualism's picture of the life: not arrival, but the next stage of the road.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 85:1-13",
+      "pericope": "Mercy and truth meet together. Righteousness and peace have kissed each other",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C01",
+        "C15"
+      ],
+      "practices": [],
+      "connection": "After forgiveness and a plea for revival comes the curriculum's two pillars in a single line: 'Mercy and truth meet together. Righteousness and peace have kissed each other. Truth springs out of the earth. Righteousness has looked down from heaven.' C01's claim that truth without mercy turns harsh and mercy without truth turns sentimental, imaged as a meeting rather than a balance. The peace spoken 'to his people' is C15's.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 86:1-17",
+      "pericope": "Make my heart undivided to fear your name",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C26",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'Teach me your way, Yahweh. I will walk in your truth. Make my heart undivided to fear your name.' C26 opens with 'The Divided Heart' and promises its healing; this is the prayer for it. And the character of the God addressed — 'merciful and gracious… slow to anger, and abundant in loving kindness and truth' — is the mature mercy of C27.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 87:1-7",
+      "pericope": "I will record Rahab and Babylon among those who acknowledge me… This one was born there",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "God enrolls the nations as natives of Zion — Egypt (Rahab), Babylon, Philistia, Tyre, Ethiopia, the oppressors and enemies of Israel's history — and writes beside each: 'This one was born there.' The circle widened until even former enemies stand inside it, which is C27's, and the Scriptural Appendix grounds Shedding Harshness in exactly this movement at Isaiah 56. Medium: the widening is God's act, and the practice is the human disposition that imitates it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 88:1-18",
+      "pericope": "You have put lover and friend far from me, and my friends into darkness",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The only psalm that never turns. Cried 'day and night,' laid 'in the lowest pit,' cut off from friends, 'afflicted and ready to die from my youth up' — and it ends in darkness, with no recovered confidence. Sacred Lament without demanding immediate resolution, preserved in scripture without one. The practice's own word of care belongs here: grief that has flattened everything for months may not be a spiritual matter at all, and should be brought to someone competent as well as to God. The psalm's presence in the canon is the assurance that such prayer is not failed prayer.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 89:1-37",
+      "pericope": "Righteousness and justice are the foundation of your throne. Loving kindness and truth go before your face",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "practices": [],
+      "connection": "A hymn to the faithfulness of God and his covenant with David, with the moral order described as the architecture of the throne: 'Righteousness and justice are the foundation of your throne. Loving kindness and truth go before your face.' C01's grain of reality, and its pillars, set at the base of everything.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 89:38-52",
+      "pericope": "But you have rejected and spurned… Remember how short my time is!",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C28"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "Then the turn, without warning: 'But you have rejected and spurned.' The covenant just praised appears broken, and the psalmist says so — 'Lord, where are your former loving kindnesses, which you swore to David?' Sacred Lament that holds God to his own words. 'Remember how short my time is!' is C28's numbering of days, prayed in protest rather than resignation. Book III ends with a doxology that follows the complaint without cancelling it.",
+      "confidence": "medium",
       "prior": false
     }
   ]

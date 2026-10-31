@@ -1,16 +1,16 @@
 # Psalms — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — Books I and II (Psalms 1-72) indexed; Books III-V pending; awaiting second-pass review. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: in progress — Books I-III (Psalms 1-89) indexed; Books IV-V pending; awaiting second-pass review. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
-**Note.** The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39; in Book II, 51 and 63.
+**Note.** The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39; in Book II, 51 and 63; in Book III, 82 and 84.
 
 **Genre note.** The Psalms are prayer, not instruction, and they are indexed as prayer. A psalm that brings grief or complaint honestly before God enacts Sacred Lament, and is marked exemplifies; PR08 is tagged where the lament is the psalm's centre, not wherever a complaint appears, so that the count reflects anchors rather than mentions. The imprecations — prayers for the confusion or destruction of enemies — are not softened and are not tagged as models: where they bear on a practice the index says so (35:1-28, 41:4-13), and otherwise they are read as what they are, the honest voicing of rage to God rather than its enactment against a neighbour, which the curriculum's own account of lament permits. Superscriptions are included in the verse text as the WEB numbers them and are not separately interpreted. Royal and battle psalms are indexed only where they anchor something beyond the king's victory.
 
 **Prediction note.** The indexing order said Psalms would settle Sacred Lament permanently, and C09 with it. In Book I, PR08 is tagged on six psalms (6, 10, 13, 22, 30, 38); the rest of the index carries thirty-two, a third of them added today in Genesis, Deuteronomy, and Ecclesiastes. In Book II it is tagged on five more (42-43, 44, 55, 62, 69), and Psalm 62:8 — 'pour out your heart before him' — is the first passage in the index to prescribe the practice in so many words rather than enact it. C09 is reached by Psalms 5, 17, 42-43, 57, 61, and the appendix's own 63; its other named psalm, 84, falls in Book III.
 
-**Coverage note.** Book I, unindexed: Psalm 21, a royal thanksgiving whose second half celebrates the destruction of the king's enemies' descendants, and the battle portion of Psalm 18 (18:37-50). Book II, unindexed: Psalm 45, a royal wedding song (whose 45:4 — the king riding 'on behalf of truth, humility, and righteousness' — comes close to the three pillars without being their source); Psalms 47 and 48, Zion and kingship hymns; Psalm 53, which repeats Psalm 14, and Psalm 70, which repeats 40:13-17; Psalm 54, a brief petition with nothing not anchored elsewhere; Psalms 58 and 59, imprecations against corrupt judges and besiegers, the first ending with the righteous washing their feet in the blood of the wicked, which the index will not tag as a model and has no other reason to tag; Psalm 60, a national oracle after defeat; Psalm 64, a complaint against conspirators; and the battle imagery of Psalm 68 outside 68:4-10.
+**Coverage note.** Book I, unindexed: Psalm 21, a royal thanksgiving whose second half celebrates the destruction of the king's enemies' descendants, and the battle portion of Psalm 18 (18:37-50). Book II, unindexed: Psalm 45, a royal wedding song (whose 45:4 — the king riding 'on behalf of truth, humility, and righteousness' — comes close to the three pillars without being their source); Psalms 47 and 48, Zion and kingship hymns; Psalm 53, which repeats Psalm 14, and Psalm 70, which repeats 40:13-17; Psalm 54, a brief petition with nothing not anchored elsewhere; Psalms 58 and 59, imprecations against corrupt judges and besiegers, the first ending with the righteous washing their feet in the blood of the wicked, which the index will not tag as a model and has no other reason to tag; Psalm 60, a national oracle after defeat; Psalm 64, a complaint against conspirators; and the battle imagery of Psalm 68 outside 68:4-10. Book III, unindexed: Psalm 76, a victory hymn, and Psalm 83, a national imprecation against a coalition of enemies.
 
 ---
 
@@ -1509,6 +1509,482 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** The prayer for the ideal king is a prayer that he will be measured by the poor: 'He will judge your people with righteousness, and your poor with justice… He will deliver the needy when he cries; the poor, who has no helper… Their blood will be precious in his sight.' C16's account of what authority is for, sung over a coronation.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S4 · chapters: C16 · practices: none · confidence: high
+
+---
+
+## 63. Psalm 73:1-28 — For I was envious of the arrogant… Until I entered God's sanctuary
+
+> **73:1** A Psalm by Asaph. Surely God is good to Israel, to those who are pure in heart.
+> **73:2** But as for me, my feet were almost gone. My steps had nearly slipped.
+> **73:3** For I was envious of the arrogant, when I saw the prosperity of the wicked.
+> **73:4** For there are no struggles in their death, but their strength is firm.
+> **73:5** They are free from burdens of men, neither are they plagued like other men.
+> **73:6** Therefore pride is like a chain around their neck. Violence covers them like a garment.
+> **73:7** Their eyes bulge with fat. Their minds pass the limits of conceit.
+> **73:8** They scoff and speak with malice. In arrogance, they threaten oppression.
+> **73:9** They have set their mouth in the heavens. Their tongue walks through the earth.
+> **73:10** Therefore their people return to them, and they drink up waters of abundance.
+> **73:11** They say, “How does God know? Is there knowledge in the Most High?”
+> **73:12** Behold, these are the wicked. Being always at ease, they increase in riches.
+> **73:13** Surely in vain I have cleansed my heart, and washed my hands in innocence,
+> **73:14** For all day long have I been plagued, and punished every morning.
+> **73:15** If I had said, “I will speak thus;” behold, I would have betrayed the generation of your children.
+> **73:16** When I tried to understand this, it was too painful for me;
+> **73:17** Until I entered God’s sanctuary, and considered their latter end.
+> **73:18** Surely you set them in slippery places. You throw them down to destruction.
+> **73:19** How they are suddenly destroyed! They are completely swept away with terrors.
+> **73:20** As a dream when one wakes up, so, Lord, when you awake, you will despise their fantasies.
+> **73:21** For my soul was grieved. I was embittered in my heart.
+> **73:22** I was so senseless and ignorant. I was a brute beast before you.
+> **73:23** Nevertheless, I am continually with you. You have held my right hand.
+> **73:24** You will guide me with your counsel, and afterward receive me to glory.
+> **73:25** Whom do I have in heaven? There is no one on earth whom I desire besides you.
+> **73:26** My flesh and my heart fails, but God is the strength of my heart and my portion forever.
+> **73:27** For, behold, those who are far from you shall perish. You have destroyed all those who are unfaithful to you.
+> **73:28** But it is good for me to come close to God. I have made the Lord Yahweh my refuge, that I may tell of all your works.
+
+**Claim.** The psalmist nearly falls, and traces the near-fall to its root in the third verse: 'For I was envious of the arrogant, when I saw the prosperity of the wicked.' He follows it through — the complaint that his own innocence was 'in vain,' the bitterness, 'I was so senseless and ignorant. I was a brute beast before you' — and names where the turn came: 'until I entered God's sanctuary, and considered their latter end.' Interior Diagnosis carried out in a single poem: the visible failure, the desire beneath it, the point where it was caught. The sanctuary that changes the sight is C09's secret place, and the resolution is a desire reordered — 'There is no one on earth whom I desire besides you.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S3, S5 · chapters: C21, C09 · practices: PR02 · confidence: high
+
+---
+
+## 64. Psalm 74:1-23 — We see no miraculous signs. There is no longer any prophet
+
+> **74:1** A contemplation by Asaph. God, why have you rejected us forever? Why does your anger smolder against the sheep of your pasture?
+> **74:2** Remember your congregation, which you purchased of old, which you have redeemed to be the tribe of your inheritance; Mount Zion, in which you have lived.
+> **74:3** Lift up your feet to the perpetual ruins, all the evil that the enemy has done in the sanctuary.
+> **74:4** Your adversaries have roared in the midst of your assembly. They have set up their standards as signs.
+> **74:5** They behaved like men wielding axes, cutting through a thicket of trees.
+> **74:6** Now they break all its carved work down with hatchet and hammers.
+> **74:7** They have burned your sanctuary to the ground. They have profaned the dwelling place of your Name.
+> **74:8** They said in their heart, “We will crush them completely.” They have burned up all the places in the land where God was worshiped.
+> **74:9** We see no miraculous signs. There is no longer any prophet, neither is there among us anyone who knows how long.
+> **74:10** How long, God, shall the adversary reproach? Shall the enemy blaspheme your name forever?
+> **74:11** Why do you draw back your hand, even your right hand? Take it out of your pocket and consume them!
+> **74:12** Yet God is my King of old, working salvation in the midst of the earth.
+> **74:13** You divided the sea by your strength. You broke the heads of the sea monsters in the waters.
+> **74:14** You broke the heads of Leviathan in pieces. You gave him as food to people and desert creatures.
+> **74:15** You opened up spring and stream. You dried up mighty rivers.
+> **74:16** The day is yours, the night is also yours. You have prepared the light and the sun.
+> **74:17** You have set all the boundaries of the earth. You have made summer and winter.
+> **74:18** Remember this, that the enemy has mocked you, Yahweh. Foolish people have blasphemed your name.
+> **74:19** Don’t deliver the soul of your dove to wild beasts. Don’t forget the life of your poor forever.
+> **74:20** Honor your covenant, for haunts of violence fill the dark places of the earth.
+> **74:21** Don’t let the oppressed return ashamed. Let the poor and needy praise your name.
+> **74:22** Arise, God! Plead your own cause. Remember how the foolish man mocks you all day.
+> **74:23** Don’t forget the voice of your adversaries. The tumult of those who rise up against you ascends continually.
+
+**Claim.** A communal lament over the burned sanctuary: the enemy's axes in the carved work, the meeting places burned, 'no longer any prophet, neither is there among us anyone who knows how long.' The complaint is direct — 'Why do you draw back your hand?' — and is held against a recital of God's ancient power. Sacred Lament for a whole people, and its plea for the weakest: 'Don't forget the life of your poor forever… Let the poor and needy praise your name.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S4, S5 · chapters: C19, C16 · practices: PR08 · confidence: medium
+
+---
+
+## 65. Psalm 75:1-10 — Neither from the east, nor from the west… comes exaltation
+
+> **75:1** For the Chief Musician. To the tune of “Do Not Destroy.” A Psalm by Asaph. A song. We give thanks to you, God. We give thanks, for your Name is near. Men tell about your wondrous works.
+> **75:2** When I choose the appointed time, I will judge blamelessly.
+> **75:3** The earth and all its inhabitants quake. I firmly hold its pillars. Selah.
+> **75:4** I said to the arrogant, “Don’t boast!” I said to the wicked, “Don’t lift up the horn.
+> **75:5** Don’t lift up your horn on high. Don’t speak with a stiff neck.”
+> **75:6** For neither from the east, nor from the west, nor yet from the south, comes exaltation.
+> **75:7** But God is the judge. He puts down one, and lifts up another.
+> **75:8** For in the hand of Yahweh there is a cup, full of foaming wine mixed with spices. He pours it out. Indeed the wicked of the earth drink and drink it to its very dregs.
+> **75:9** But I will declare this forever: I will sing praises to the God of Jacob.
+> **75:10** I will cut off all the horns of the wicked, but the horns of the righteous shall be lifted up.
+
+**Claim.** 'Don't boast… Don't lift up your horn on high.' Exaltation comes from no direction a person can travel; 'God is the judge. He puts down one, and lifts up another.' C16's warning to those who hold power, and C22's relational humility.
+
+**Tags.** pillars: humility · stages: S4, S5 · chapters: C16, C22 · practices: none · confidence: medium
+
+---
+
+## 66. Psalm 77:1-20 — Has God forgotten to be gracious?… Your footsteps were not known
+
+> **77:1** For the Chief Musician. To Jeduthun. A Psalm by Asaph. My cry goes to God! Indeed, I cry to God for help, and for him to listen to me.
+> **77:2** In the day of my trouble I sought the Lord. My hand was stretched out in the night, and didn’t get tired. My soul refused to be comforted.
+> **77:3** I remember God, and I groan. I complain, and my spirit is overwhelmed. Selah.
+> **77:4** You hold my eyelids open. I am so troubled that I can’t speak.
+> **77:5** I have considered the days of old, the years of ancient times.
+> **77:6** I remember my song in the night. I consider in my own heart; my spirit diligently inquires:
+> **77:7** “Will the Lord reject us forever? Will he be favorable no more?
+> **77:8** Has his loving kindness vanished forever? Does his promise fail for generations?
+> **77:9** Has God forgotten to be gracious? Has he, in anger, withheld his compassion?” Selah.
+> **77:10** Then I thought, “I will appeal to this: the years of the right hand of the Most High.”
+> **77:11** I will remember Yah’s deeds; for I will remember your wonders of old.
+> **77:12** I will also meditate on all your work, and consider your doings.
+> **77:13** Your way, God, is in the sanctuary. What god is great like God?
+> **77:14** You are the God who does wonders. You have made your strength known among the peoples.
+> **77:15** You have redeemed your people with your arm, the sons of Jacob and Joseph. Selah.
+> **77:16** The waters saw you, God. The waters saw you, and they writhed. The depths also convulsed.
+> **77:17** The clouds poured out water. The skies resounded with thunder. Your arrows also flashed around.
+> **77:18** The voice of your thunder was in the whirlwind. The lightnings lit up the world. The earth trembled and shook.
+> **77:19** Your way was through the sea; your paths through the great waters. Your footsteps were not known.
+> **77:20** You led your people like a flock, by the hand of Moses and Aaron.
+
+**Claim.** 'My soul refused to be comforted.' The questions come in a sequence that has no softening — will he reject forever, has his loving kindness vanished, 'has God forgotten to be gracious?' — and then a decision: 'I will remember Yah's deeds.' Sacred Lament that does not resolve the question but turns toward memory. The psalm ends at the sea: 'Your way was through the sea; your paths through the great waters. Your footsteps were not known.' God's path is real and unrecoverable — the Discipline of Unknowing in an image, at medium because it is offered as praise rather than as a posture commanded.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S5, S6 · chapters: C19, C24 · practices: PR08, PR04 · confidence: high
+
+---
+
+## 67. Psalm 78:1-72 — He, being merciful, forgave iniquity… He remembered that they were but flesh
+
+> **78:1** A contemplation by Asaph. Hear my teaching, my people. Turn your ears to the words of my mouth.
+> **78:2** I will open my mouth in a parable. I will utter dark sayings of old,
+> **78:3** Which we have heard and known, and our fathers have told us.
+> **78:4** We will not hide them from their children, telling to the generation to come the praises of Yahweh, his strength, and his wondrous works that he has done.
+> **78:5** For he established a testimony in Jacob, and appointed a teaching in Israel, which he commanded our fathers, that they should make them known to their children;
+> **78:6** that the generation to come might know, even the children who should be born; who should arise and tell their children,
+> **78:7** that they might set their hope in God, and not forget the works of God, but keep his commandments,
+> **78:8** and might not be as their fathers, a stubborn and rebellious generation, a generation that didn’t make their hearts loyal, whose spirit was not steadfast with God.
+> **78:9** The children of Ephraim, being armed and carrying bows, turned back in the day of battle.
+> **78:10** They didn’t keep God’s covenant, and refused to walk in his law.
+> **78:11** They forgot his doings, his wondrous works that he had shown them.
+> **78:12** He did marvelous things in the sight of their fathers, in the land of Egypt, in the field of Zoan.
+> **78:13** He split the sea, and caused them to pass through. He made the waters stand as a heap.
+> **78:14** In the daytime he also led them with a cloud, and all night with a light of fire.
+> **78:15** He split rocks in the wilderness, and gave them drink abundantly as out of the depths.
+> **78:16** He brought streams also out of the rock, and caused waters to run down like rivers.
+> **78:17** Yet they still went on to sin against him, to rebel against the Most High in the desert.
+> **78:18** They tempted God in their heart by asking food according to their desire.
+> **78:19** Yes, they spoke against God. They said, “Can God prepare a table in the wilderness?
+> **78:20** Behold, he struck the rock, so that waters gushed out, and streams overflowed. Can he give bread also? Will he provide flesh for his people?”
+> **78:21** Therefore Yahweh heard, and was angry. A fire was kindled against Jacob, anger also went up against Israel,
+> **78:22** because they didn’t believe in God, and didn’t trust in his salvation.
+> **78:23** Yet he commanded the skies above, and opened the doors of heaven.
+> **78:24** He rained down manna on them to eat, and gave them food from the sky.
+> **78:25** Man ate the bread of angels. He sent them food to the full.
+> **78:26** He caused the east wind to blow in the sky. By his power he guided the south wind.
+> **78:27** He rained also flesh on them as the dust; winged birds as the sand of the seas.
+> **78:28** He let them fall in the midst of their camp, around their habitations.
+> **78:29** So they ate, and were well filled. He gave them their own desire.
+> **78:30** They didn’t turn from their cravings. Their food was yet in their mouths,
+> **78:31** when the anger of God went up against them, killed some of their fattest, and struck down the young men of Israel.
+> **78:32** For all this they still sinned, and didn’t believe in his wondrous works.
+> **78:33** Therefore he consumed their days in vanity, and their years in terror.
+> **78:34** When he killed them, then they inquired after him. They returned and sought God earnestly.
+> **78:35** They remembered that God was their rock, the Most High God, their redeemer.
+> **78:36** But they flattered him with their mouth, and lied to him with their tongue.
+> **78:37** For their heart was not right with him, neither were they faithful in his covenant.
+> **78:38** But he, being merciful, forgave iniquity, and didn’t destroy them. Yes, many times he turned his anger away, and didn’t stir up all his wrath.
+> **78:39** He remembered that they were but flesh, a wind that passes away, and doesn’t come again.
+> **78:40** How often they rebelled against him in the wilderness, and grieved him in the desert!
+> **78:41** They turned again and tempted God, and provoked the Holy One of Israel.
+> **78:42** They didn’t remember his hand, nor the day when he redeemed them from the adversary;
+> **78:43** how he set his signs in Egypt, his wonders in the field of Zoan,
+> **78:44** he turned their rivers into blood, and their streams, so that they could not drink.
+> **78:45** He sent among them swarms of flies, which devoured them; and frogs, which destroyed them.
+> **78:46** He gave also their increase to the caterpillar, and their labor to the locust.
+> **78:47** He destroyed their vines with hail, their sycamore fig trees with frost.
+> **78:48** He gave over their livestock also to the hail, and their flocks to hot thunderbolts.
+> **78:49** He threw on them the fierceness of his anger, wrath, indignation, and trouble, and a band of angels of evil.
+> **78:50** He made a path for his anger. He didn’t spare their soul from death, but gave their life over to the pestilence,
+> **78:51** and struck all the firstborn in Egypt, the chief of their strength in the tents of Ham.
+> **78:52** But he led forth his own people like sheep, and guided them in the wilderness like a flock.
+> **78:53** He led them safely, so that they weren’t afraid, but the sea overwhelmed their enemies.
+> **78:54** He brought them to the border of his sanctuary, to this mountain, which his right hand had taken.
+> **78:55** He also drove out the nations before them, allotted them for an inheritance by line, and made the tribes of Israel to dwell in their tents.
+> **78:56** Yet they tempted and rebelled against the Most High God, and didn’t keep his testimonies;
+> **78:57** but turned back, and dealt treacherously like their fathers. They were turned aside like a deceitful bow.
+> **78:58** For they provoked him to anger with their high places, and moved him to jealousy with their engraved images.
+> **78:59** When God heard this, he was angry, and greatly abhorred Israel;
+> **78:60** So that he forsook the tent of Shiloh, the tent which he placed among men;
+> **78:61** and delivered his strength into captivity, his glory into the adversary’s hand.
+> **78:62** He also gave his people over to the sword, and was angry with his inheritance.
+> **78:63** Fire devoured their young men. Their virgins had no wedding song.
+> **78:64** Their priests fell by the sword, and their widows couldn’t weep.
+> **78:65** Then the Lord awakened as one out of sleep, like a mighty man who shouts by reason of wine.
+> **78:66** He struck his adversaries backward. He put them to a perpetual reproach.
+> **78:67** Moreover he rejected the tent of Joseph, and didn’t choose the tribe of Ephraim,
+> **78:68** But chose the tribe of Judah, Mount Zion which he loved.
+> **78:69** He built his sanctuary like the heights, like the earth which he has established forever.
+> **78:70** He also chose David his servant, and took him from the sheepfolds;
+> **78:71** from following the ewes that have their young, he brought him to be the shepherd of Jacob, his people, and Israel, his inheritance.
+> **78:72** So he was their shepherd according to the integrity of his heart, and guided them by the skillfulness of his hands.
+
+**Claim.** A teaching psalm, told so that 'the generation to come might know, even the children who should be born; who should arise and tell their children' — C14's household as the carrier of memory. Its long history of rebellion is answered at the centre by mercy grounded in realism: 'they flattered him with their mouth… their heart was not right with him… But he, being merciful, forgave iniquity… He remembered that they were but flesh.' C19's door. It ends with David taken from the sheepfolds to shepherd 'according to the integrity of his heart' and 'the skillfulness of his hands,' which is C16's ruler.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, mercy · stages: S4, S5 · chapters: C14, C19, C16 · practices: none · confidence: high
+
+---
+
+## 68. Psalm 79:1-13 — Don't hold the iniquities of our forefathers against us
+
+> **79:1** A Psalm by Asaph. God, the nations have come into your inheritance. They have defiled your holy temple. They have laid Jerusalem in heaps.
+> **79:2** They have given the dead bodies of your servants to be food for the birds of the sky, the flesh of your saints to the animals of the earth.
+> **79:3** Their blood they have shed like water around Jerusalem. There was no one to bury them.
+> **79:4** We have become a reproach to our neighbors, a scoffing and derision to those who are around us.
+> **79:5** How long, Yahweh? Will you be angry forever? Will your jealousy burn like fire?
+> **79:6** Pour out your wrath on the nations that don’t know you; on the kingdoms that don’t call on your name;
+> **79:7** For they have devoured Jacob, and destroyed his homeland.
+> **79:8** Don’t hold the iniquities of our forefathers against us. Let your tender mercies speedily meet us, for we are in desperate need.
+> **79:9** Help us, God of our salvation, for the glory of your name. Deliver us, and forgive our sins, for your name’s sake.
+> **79:10** Why should the nations say, “Where is their God?” Let it be known among the nations, before our eyes, that vengeance for your servants’ blood is being poured out.
+> **79:11** Let the sighing of the prisoner come before you. According to the greatness of your power, preserve those who are sentenced to death.
+> **79:12** Pay back to our neighbors seven times into their bosom their reproach with which they have reproached you, Lord.
+> **79:13** So we, your people and sheep of your pasture, will give you thanks forever. We will praise you forever, to all generations.
+
+**Claim.** Jerusalem in heaps and the dead unburied; 'How long, Yahweh?' The lament asks forgiveness for the people's own sins and those of their fathers, and asks for 'the sighing of the prisoner' to come before God. The prayer for sevenfold repayment of the neighbours (79:12) is read under the genre note.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S5 · chapters: C19 · practices: PR08 · confidence: medium
+
+---
+
+## 69. Psalm 80:1-19 — You brought a vine out of Egypt… Turn us again, God
+
+> **80:1** For the Chief Musician. To the tune of “The Lilies of the Covenant.” A Psalm by Asaph. Hear us, Shepherd of Israel, you who lead Joseph like a flock, you who sit above the cherubim, shine forth.
+> **80:2** Before Ephraim and Benjamin and Manasseh, stir up your might! Come to save us!
+> **80:3** Turn us again, God. Cause your face to shine, and we will be saved.
+> **80:4** Yahweh God of Armies, How long will you be angry against the prayer of your people?
+> **80:5** You have fed them with the bread of tears, and given them tears to drink in large measure.
+> **80:6** You make us a source of contention to our neighbors. Our enemies laugh among themselves.
+> **80:7** Turn us again, God of Armies. Cause your face to shine, and we will be saved.
+> **80:8** You brought a vine out of Egypt. You drove out the nations, and planted it.
+> **80:9** You cleared the ground for it. It took deep root, and filled the land.
+> **80:10** The mountains were covered with its shadow. Its boughs were like God’s cedars.
+> **80:11** It sent out its branches to the sea, Its shoots to the River.
+> **80:12** Why have you broken down its walls, so that all those who pass by the way pluck it?
+> **80:13** The boar out of the wood ravages it. The wild animals of the field feed on it.
+> **80:14** Turn again, we beg you, God of Armies. Look down from heaven, and see, and visit this vine,
+> **80:15** the stock which your right hand planted, the branch that you made strong for yourself.
+> **80:16** It’s burned with fire. It’s cut down. They perish at your rebuke.
+> **80:17** Let your hand be on the man of your right hand, on the son of man whom you made strong for yourself.
+> **80:18** So we will not turn away from you. Revive us, and we will call on your name.
+> **80:19** Turn us again, Yahweh God of Armies. Cause your face to shine, and we will be saved.
+
+**Claim.** Three times the refrain: 'Turn us again… cause your face to shine, and we will be saved.' At its centre the image C11 builds on: a vine brought out of Egypt and planted, filling the land, and now broken down and ravaged — 'visit this vine.' Christ's 'I am the true vine' answers this psalm and Isaiah 5. A people 'fed… with the bread of tears' bringing that grief to God is Sacred Lament.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S3, S5 · chapters: C11, C19 · practices: PR08 · confidence: medium
+
+---
+
+## 70. Psalm 81:1-16 — So I let them go after the stubbornness of their hearts
+
+> **81:1** For the Chief Musician. On an instrument of Gath. By Asaph. Sing aloud to God, our strength! Make a joyful shout to the God of Jacob!
+> **81:2** Raise a song, and bring here the tambourine, the pleasant lyre with the harp.
+> **81:3** Blow the trumpet at the New Moon, at the full moon, on our feast day.
+> **81:4** For it is a statute for Israel, an ordinance of the God of Jacob.
+> **81:5** He appointed it in Joseph for a testimony, when he went out over the land of Egypt, I heard a language that I didn’t know.
+> **81:6** “I removed his shoulder from the burden. His hands were freed from the basket.
+> **81:7** You called in trouble, and I delivered you. I answered you in the secret place of thunder. I tested you at the waters of Meribah.” Selah.
+> **81:8** “Hear, my people, and I will testify to you, Israel, if you would listen to me!
+> **81:9** There shall be no strange god in you, neither shall you worship any foreign god.
+> **81:10** I am Yahweh, your God, who brought you up out of the land of Egypt. Open your mouth wide, and I will fill it.
+> **81:11** But my people didn’t listen to my voice. Israel desired none of me.
+> **81:12** So I let them go after the stubbornness of their hearts, that they might walk in their own counsels.
+> **81:13** Oh that my people would listen to me, that Israel would walk in my ways!
+> **81:14** I would soon subdue their enemies, and turn my hand against their adversaries.
+> **81:15** The haters of Yahweh would cringe before him, and their punishment would last forever.
+> **81:16** But he would have also fed them with the finest of the wheat. I will satisfy you with honey out of the rock.”
+
+**Claim.** God speaks: 'Open your mouth wide, and I will fill it. But my people didn't listen… So I let them go after the stubbornness of their hearts, that they might walk in their own counsels.' The judgment is to be given what one has chosen. C21's account of a heart that becomes its own master, and C20's reason for attending to it early. 'Oh that my people would listen to me.'
+
+**Tags.** pillars: truth · stages: S5 · chapters: C21, C20 · practices: none · confidence: medium
+
+---
+
+## 71. Psalm 82:1-8 — Defend the weak, the poor, and the fatherless
+
+> **82:1** A Psalm by Asaph. God presides in the great assembly. He judges among the gods.
+> **82:2** “How long will you judge unjustly, and show partiality to the wicked?” Selah.
+> **82:3** “Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed.
+> **82:4** Rescue the weak and needy. Deliver them out of the hand of the wicked.”
+> **82:5** They don’t know, neither do they understand. They walk back and forth in darkness. All the foundations of the earth are shaken.
+> **82:6** I said, “You are gods, all of you are sons of the Most High.
+> **82:7** Nevertheless you shall die like men, and fall like one of the rulers.”
+> **82:8** Arise, God, judge the earth, for you inherit all of the nations.
+
+**Claim.** The Scriptural Appendix assigns Psalm 82 to C16, and C16 takes 82:1-4 as its witness: God in the assembly of the powerful, asking 'How long will you judge unjustly?' and commanding, 'Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed.' Authority is judged by what it does for those with none.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S4 · chapters: C16 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 72. Psalm 84:1-12 — Passing through the valley of Weeping, they make it a place of springs. They go from strength to strength
+
+> **84:1** For the Chief Musician. On an instrument of Gath. A Psalm by the sons of Korah. How lovely are your dwellings, Yahweh of Armies!
+> **84:2** My soul longs, and even faints for the courts of Yahweh. My heart and my flesh cry out for the living God.
+> **84:3** Yes, the sparrow has found a home, and the swallow a nest for herself, where she may have her young, near your altars, Yahweh of Armies, my King, and my God.
+> **84:4** Blessed are those who dwell in your house. They are always praising you. Selah.
+> **84:5** Blessed are those whose strength is in you; who have set their hearts on a pilgrimage.
+> **84:6** Passing through the valley of Weeping, they make it a place of springs. Yes, the autumn rain covers it with blessings.
+> **84:7** They go from strength to strength. Everyone of them appears before God in Zion.
+> **84:8** Yahweh, God of Armies, hear my prayer. Listen, God of Jacob. Selah.
+> **84:9** Behold, God our shield, look at the face of your anointed.
+> **84:10** For a day in your courts is better than a thousand. I would rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.
+> **84:11** For Yahweh God is a sun and a shield. Yahweh will give grace and glory. He withholds no good thing from those who walk blamelessly.
+> **84:12** Yahweh of Armies, blessed is the man who trusts in you.
+
+**Claim.** The Scriptural Appendix assigns Psalm 84 to three chapters: the sparrow's nest (C09), the valley of Weeping and the day in your courts better than a thousand (C18), and strength to strength (C25), which C25 takes as its witness at 84:5. The pilgrim's road is walked by stages — 'they go from strength to strength' — and the valley of tears is not avoided but transformed by those passing through. The Discipline of Gradualism's picture of the life: not arrival, but the next stage of the road.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S3, S4, S6 · chapters: C09, C18, C25 · practices: PR14 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 73. Psalm 85:1-13 — Mercy and truth meet together. Righteousness and peace have kissed each other
+
+> **85:1** For the Chief Musician. A Psalm by the sons of Korah. Yahweh, you have been favorable to your land. You have restored the fortunes of Jacob.
+> **85:2** You have forgiven the iniquity of your people. You have covered all their sin. Selah.
+> **85:3** You have taken away all your wrath. You have turned from the fierceness of your anger.
+> **85:4** Turn us, God of our salvation, and cause your indignation toward us to cease.
+> **85:5** Will you be angry with us forever? Will you draw out your anger to all generations?
+> **85:6** Won’t you revive us again, that your people may rejoice in you?
+> **85:7** Show us your loving kindness, Yahweh. Grant us your salvation.
+> **85:8** I will hear what God, Yahweh, will speak, for he will speak peace to his people, his saints; but let them not turn again to folly.
+> **85:9** Surely his salvation is near those who fear him, that glory may dwell in our land.
+> **85:10** Mercy and truth meet together. Righteousness and peace have kissed each other.
+> **85:11** Truth springs out of the earth. Righteousness has looked down from heaven.
+> **85:12** Yes, Yahweh will give that which is good. Our land will yield its increase.
+> **85:13** Righteousness goes before him, And prepares the way for his steps.
+
+**Claim.** After forgiveness and a plea for revival comes the curriculum's two pillars in a single line: 'Mercy and truth meet together. Righteousness and peace have kissed each other. Truth springs out of the earth. Righteousness has looked down from heaven.' C01's claim that truth without mercy turns harsh and mercy without truth turns sentimental, imaged as a meeting rather than a balance. The peace spoken 'to his people' is C15's.
+
+**Tags.** pillars: truth, mercy · stages: S1, S4 · chapters: C01, C15 · practices: none · confidence: high
+
+---
+
+## 74. Psalm 86:1-17 — Make my heart undivided to fear your name
+
+> **86:1** A Prayer by David. Hear, Yahweh, and answer me, for I am poor and needy.
+> **86:2** Preserve my soul, for I am godly. You, my God, save your servant who trusts in you.
+> **86:3** Be merciful to me, Lord, for I call to you all day long.
+> **86:4** Bring joy to the soul of your servant, for to you, Lord, do I lift up my soul.
+> **86:5** For you, Lord, are good, and ready to forgive; abundant in loving kindness to all those who call on you.
+> **86:6** Hear, Yahweh, my prayer. Listen to the voice of my petitions.
+> **86:7** In the day of my trouble I will call on you, for you will answer me.
+> **86:8** There is no one like you among the gods, Lord, nor any deeds like your deeds.
+> **86:9** All nations you have made will come and worship before you, Lord. They shall glorify your name.
+> **86:10** For you are great, and do wondrous things. You are God alone.
+> **86:11** Teach me your way, Yahweh. I will walk in your truth. Make my heart undivided to fear your name.
+> **86:12** I will praise you, Lord my God, with my whole heart. I will glorify your name forevermore.
+> **86:13** For your loving kindness is great toward me. You have delivered my soul from the lowest Sheol.
+> **86:14** God, the proud have risen up against me. A company of violent men have sought after my soul, and they don’t hold regard for you before them.
+> **86:15** But you, Lord, are a merciful and gracious God, slow to anger, and abundant in loving kindness and truth.
+> **86:16** Turn to me, and have mercy on me! Give your strength to your servant. Save the son of your handmaid.
+> **86:17** Show me a sign of your goodness, that those who hate me may see it, and be shamed, because you, Yahweh, have helped me, and comforted me.
+
+**Claim.** 'Teach me your way, Yahweh. I will walk in your truth. Make my heart undivided to fear your name.' C26 opens with 'The Divided Heart' and promises its healing; this is the prayer for it. And the character of the God addressed — 'merciful and gracious… slow to anger, and abundant in loving kindness and truth' — is the mature mercy of C27.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S6, S7 · chapters: C26, C27 · practices: none · confidence: high
+
+---
+
+## 75. Psalm 87:1-7 — I will record Rahab and Babylon among those who acknowledge me… This one was born there
+
+> **87:1** A Psalm by the sons of Korah; a Song. His foundation is in the holy mountains.
+> **87:2** Yahweh loves the gates of Zion more than all the dwellings of Jacob.
+> **87:3** Glorious things are spoken about you, city of God. Selah.
+> **87:4** I will record Rahab and Babylon among those who acknowledge me. Behold, Philistia, Tyre, and also Ethiopia: “This one was born there.”
+> **87:5** Yes, of Zion it will be said, “This one and that one was born in her;” the Most High himself will establish her.
+> **87:6** Yahweh will count, when he writes up the peoples, “This one was born there.” Selah.
+> **87:7** Those who sing as well as those who dance say, “All my springs are in you.”
+
+**Claim.** God enrolls the nations as natives of Zion — Egypt (Rahab), Babylon, Philistia, Tyre, Ethiopia, the oppressors and enemies of Israel's history — and writes beside each: 'This one was born there.' The circle widened until even former enemies stand inside it, which is C27's, and the Scriptural Appendix grounds Shedding Harshness in exactly this movement at Isaiah 56. Medium: the widening is God's act, and the practice is the human disposition that imitates it.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S7 · chapters: C27 · practices: PR15 · confidence: medium
+
+---
+
+## 76. Psalm 88:1-18 — You have put lover and friend far from me, and my friends into darkness
+
+> **88:1** A Song. A Psalm by the sons of Korah. For the Chief Musician. To the tune of “The Suffering of Affliction.” A contemplation by Heman, the Ezrahite. Yahweh, the God of my salvation, I have cried day and night before you.
+> **88:2** Let my prayer enter into your presence. Turn your ear to my cry.
+> **88:3** For my soul is full of troubles. My life draws near to Sheol.
+> **88:4** I am counted among those who go down into the pit. I am like a man who has no help,
+> **88:5** set apart among the dead, like the slain who lie in the grave, whom you remember no more. They are cut off from your hand.
+> **88:6** You have laid me in the lowest pit, in the darkest depths.
+> **88:7** Your wrath lies heavily on me. You have afflicted me with all your waves. Selah.
+> **88:8** You have taken my friends from me. You have made me an abomination to them. I am confined, and I can’t escape.
+> **88:9** My eyes are dim from grief. I have called on you daily, Yahweh. I have spread out my hands to you.
+> **88:10** Do you show wonders to the dead? Do the dead rise up and praise you? Selah.
+> **88:11** Is your loving kindness declared in the grave? Or your faithfulness in Destruction?
+> **88:12** Are your wonders made known in the dark? Or your righteousness in the land of forgetfulness?
+> **88:13** But to you, Yahweh, I have cried. In the morning, my prayer comes before you.
+> **88:14** Yahweh, why do you reject my soul? Why do you hide your face from me?
+> **88:15** I am afflicted and ready to die from my youth up. While I suffer your terrors, I am distracted.
+> **88:16** Your fierce wrath has gone over me. Your terrors have cut me off.
+> **88:17** They came around me like water all day long. They completely engulfed me.
+> **88:18** You have put lover and friend far from me, and my friends into darkness.
+
+**Claim.** The only psalm that never turns. Cried 'day and night,' laid 'in the lowest pit,' cut off from friends, 'afflicted and ready to die from my youth up' — and it ends in darkness, with no recovered confidence. Sacred Lament without demanding immediate resolution, preserved in scripture without one. The practice's own word of care belongs here: grief that has flattened everything for months may not be a spiritual matter at all, and should be brought to someone competent as well as to God. The psalm's presence in the canon is the assurance that such prayer is not failed prayer.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S5 · chapters: C19 · practices: PR08 · confidence: high
+
+---
+
+## 77. Psalm 89:1-37 — Righteousness and justice are the foundation of your throne. Loving kindness and truth go before your face
+
+> **89:1** A contemplation by Ethan, the Ezrahite. I will sing of the loving kindness of Yahweh forever. With my mouth, I will make known your faithfulness to all generations.
+> **89:2** I indeed declare, “Love stands firm forever. You established the heavens. Your faithfulness is in them.”
+> **89:3** “I have made a covenant with my chosen one, I have sworn to David, my servant,
+> **89:4** ‘I will establish your seed forever, and build up your throne to all generations.’” Selah.
+> **89:5** The heavens will praise your wonders, Yahweh; your faithfulness also in the assembly of the holy ones.
+> **89:6** For who in the skies can be compared to Yahweh? Who among the sons of the heavenly beings is like Yahweh,
+> **89:7** a very awesome God in the council of the holy ones, to be feared above all those who are around him?
+> **89:8** Yahweh, God of Armies, who is a mighty one, like you? Yah, your faithfulness is around you.
+> **89:9** You rule the pride of the sea. When its waves rise up, you calm them.
+> **89:10** You have broken Rahab in pieces, like one of the slain. You have scattered your enemies with your mighty arm.
+> **89:11** The heavens are yours. The earth also is yours; the world and its fullness. You have founded them.
+> **89:12** The north and the south, you have created them. Tabor and Hermon rejoice in your name.
+> **89:13** You have a mighty arm. Your hand is strong, and your right hand is exalted.
+> **89:14** Righteousness and justice are the foundation of your throne. Loving kindness and truth go before your face.
+> **89:15** Blessed are the people who learn to acclaim you. They walk in the light of your presence, Yahweh.
+> **89:16** In your name they rejoice all day. In your righteousness, they are exalted.
+> **89:17** For you are the glory of their strength. In your favor, our horn will be exalted.
+> **89:18** For our shield belongs to Yahweh; our king to the Holy One of Israel.
+> **89:19** Then you spoke in vision to your saints, and said, “I have bestowed strength on the warrior. I have exalted a young man from the people.
+> **89:20** I have found David, my servant. I have anointed him with my holy oil,
+> **89:21** with whom my hand shall be established. My arm will also strengthen him.
+> **89:22** No enemy will tax him. No wicked man will oppress him.
+> **89:23** I will beat down his adversaries before him, and strike those who hate him.
+> **89:24** But my faithfulness and my loving kindness will be with him. In my name, his horn will be exalted.
+> **89:25** I will set his hand also on the sea, and his right hand on the rivers.
+> **89:26** He will call to me, ‘You are my Father, my God, and the rock of my salvation!’
+> **89:27** I will also appoint him my firstborn, the highest of the kings of the earth.
+> **89:28** I will keep my loving kindness for him forevermore. My covenant will stand firm with him.
+> **89:29** I will also make his seed endure forever, and his throne as the days of heaven.
+> **89:30** If his children forsake my law, and don’t walk in my ordinances;
+> **89:31** if they break my statutes, and don’t keep my commandments;
+> **89:32** then I will punish their sin with the rod, and their iniquity with stripes.
+> **89:33** But I will not completely take my loving kindness from him, nor allow my faithfulness to fail.
+> **89:34** I will not break my covenant, nor alter what my lips have uttered.
+> **89:35** Once have I sworn by my holiness, I will not lie to David.
+> **89:36** His seed will endure forever, his throne like the sun before me.
+> **89:37** It will be established forever like the moon, the faithful witness in the sky.” Selah.
+
+**Claim.** A hymn to the faithfulness of God and his covenant with David, with the moral order described as the architecture of the throne: 'Righteousness and justice are the foundation of your throne. Loving kindness and truth go before your face.' C01's grain of reality, and its pillars, set at the base of everything.
+
+**Tags.** pillars: truth, mercy · stages: S1 · chapters: C01 · practices: none · confidence: medium
+
+---
+
+## 78. Psalm 89:38-52 — But you have rejected and spurned… Remember how short my time is!
+
+> **89:38** But you have rejected and spurned. You have been angry with your anointed.
+> **89:39** You have renounced the covenant of your servant. You have defiled his crown in the dust.
+> **89:40** You have broken down all his hedges. You have brought his strongholds to ruin.
+> **89:41** All who pass by the way rob him. He has become a reproach to his neighbors.
+> **89:42** You have exalted the right hand of his adversaries. You have made all of his enemies rejoice.
+> **89:43** Yes, you turn back the edge of his sword, and haven’t supported him in battle.
+> **89:44** You have ended his splendor, and thrown his throne down to the ground.
+> **89:45** You have shortened the days of his youth. You have covered him with shame. Selah.
+> **89:46** How long, Yahweh? Will you hide yourself forever? Will your wrath burn like fire?
+> **89:47** Remember how short my time is! For what vanity have you created all the children of men!
+> **89:48** What man is he who shall live and not see death, who shall deliver his soul from the power of Sheol? Selah.
+> **89:49** Lord, where are your former loving kindnesses, which you swore to David in your faithfulness?
+> **89:50** Remember, Lord, the reproach of your servants, how I bear in my heart the taunts of all the mighty peoples,
+> **89:51** With which your enemies have mocked, Yahweh, with which they have mocked the footsteps of your anointed one.
+> **89:52** Blessed be Yahweh forevermore. Amen, and Amen.
+
+**Claim.** Then the turn, without warning: 'But you have rejected and spurned.' The covenant just praised appears broken, and the psalmist says so — 'Lord, where are your former loving kindnesses, which you swore to David?' Sacred Lament that holds God to his own words. 'Remember how short my time is!' is C28's numbering of days, prayed in protest rather than resignation. Book III ends with a doxology that follows the complaint without cancelling it.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S5, S7 · chapters: C19, C28 · practices: PR08 · confidence: medium
 
 ---
 

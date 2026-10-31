@@ -1,0 +1,358 @@
+{
+  "book": "Isaiah",
+  "translation": "World English Bible (public domain)",
+  "status": "in progress — chapters 1-12 indexed; 13-27, 28-39, 40-55, and 56-66 pending",
+  "method_version": "2.3",
+  "text_source": "index/text/isaiah.json",
+  "note": "Indexed in sections along the book's standard seams: the oracles concerning Judah and Jerusalem (1-12), the oracles against the nations and the Isaiah apocalypse (13-27), the woes and the Hezekiah narratives (28-39), the Book of Comfort (40-55), and the closing chapters (56-66). The Scriptural Appendix cites Isaiah 5 for C11 and 56:1-7 for C27 and Shedding Harshness; the indexing order expected C03 and C27.",
+  "sectioning_note": "As with Jeremiah, the status field names what is done.",
+  "coverage_note": "Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16.",
+  "entries": [
+    {
+      "ref": "Isaiah 1:1-9",
+      "pericope": "The ox knows his owner… but Israel doesn't know, my people don't consider",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C07",
+        "C21"
+      ],
+      "practices": [],
+      "connection": "The indictment opens with a comparison that shames: the ox knows its owner and the donkey its master's crib, 'but Israel doesn't know, my people don't consider.' Not ignorance of fact but a failure to attend, which is C07's diagnosis of the clouded eye. The body is sick from head to foot — 'wounds, welts, and open sores… not bandaged' — the condition C21's physician sets out to trace.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 1:10-20",
+      "pericope": "Learn to do well. Seek justice. Relieve the oppressed… Though your sins be as scarlet",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C16",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "God refuses the worship of people whose 'hands are full of blood': sacrifices, festivals, and 'many prayers, I will not hear.' Religion without the doing, which is C04's hearer who is not a doer, measured exactly as James 1:27 measures it: 'Learn to do well. Seek justice. Relieve the oppressed. Judge the fatherless. Plead for the widow' — C16's list. And the offer that follows the indictment rather than replacing it: 'Come now, and let us reason together… Though your sins be as scarlet, they shall be as white as snow.' C19's door.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 1:21-31",
+      "pericope": "Your silver has become dross… I will thoroughly purge away your dross",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C16",
+        "C25"
+      ],
+      "practices": [],
+      "connection": "'How the faithful city has become a prostitute!' The princes love bribes and the widow's cause never reaches them — C16's corruption of authority. The judgment is described as refining: 'I will… thoroughly purge away your dross, and will take away all your tin. I will restore your judges as at the first.' C25's formation by fire, applied to a city.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 2:1-5",
+      "pericope": "They shall beat their swords into plowshares",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C15",
+        "C27"
+      ],
+      "practices": [],
+      "connection": "All nations streaming to the mountain to be taught — 'he will teach us of his ways, and we will walk in his paths' — and the instruments of war turned into tools for farming: 'nation shall not lift up sword against nation, neither shall they learn war any more.' C15's peace as something built, here built out of the very weapons, and C27's circle drawn around every nation. 'House of Jacob, come, and let us walk in the light of Yahweh.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 2:6-22",
+      "pericope": "The loftiness of man shall be bowed down… Stop trusting in man",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "A land full of silver, gold, horses, chariots, and idols, and a day coming 'for all that is proud and haughty' — the cedars, the towers, the ships, 'all pleasant imagery.' Men will throw their idols of silver to the moles and bats. 'Stop trusting in man, whose breath is in his nostrils; for of what account is he?' C22's humility and C18's release from what one has built and accumulated.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 3:1-15",
+      "pericope": "What do you mean that you crush my people, and grind the face of the poor?",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "God enters into judgment with the elders and leaders: 'It is you who have eaten up the vineyard. The spoil of the poor is in your houses. What do you mean that you crush my people, and grind the face of the poor?' C16's standard — that authority is measured by what it does for the vulnerable — applied to rulers who have done the reverse.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 5:1-7",
+      "pericope": "He looked for justice, but, behold, oppression",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C11",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The Scriptural Appendix names Isaiah 5 for C11: 'the vineyard planted for justice that yielded bitter fruit — the failure against which Christ calls Himself the true vine.' Everything was done for the vineyard — dug, cleared, planted with the choicest vine, a tower, a winepress — 'What could have been done more to my vineyard?' And it yielded wild grapes. The punchline is a pun in Hebrew: he looked for justice (mishpat) and found bloodshed (mispach), for righteousness (tsedaqah) and heard a cry (tse'aqah). C12's test of fruit, failed by the vine itself.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Isaiah 5:8-10",
+      "pericope": "Woe to those who join house to house, who lay field to field, until there is no room",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C16"
+      ],
+      "practices": [
+        "PR28"
+      ],
+      "mode": "counter-example",
+      "connection": "'Woe to those who join house to house, who lay field to field, until there is no room, and you are made to dwell alone in the midst of the land!' Accumulation that consumes the neighbour's place and ends in solitude: 'many houses will be desolate, even great and beautiful, unoccupied.' The Heavenly Palace asks a household in surplus to resist expansion and redirect toward the afflicted; this is the expansion, and its cost to those displaced and to the one who displaces them. Medium, as with Ecclesiastes 2:1-11, because the redirection is not described, only its absence.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 5:11-25",
+      "pericope": "Woe to those who call evil good, and good evil… Woe to those who are wise in their own eyes",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C07",
+        "C02"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "A series of woes: on those who drink from morning to night and 'don't respect the work of Yahweh'; on those who 'call evil good, and good evil; who put darkness for light' — C07's lens inverted; on those 'wise in their own eyes, and prudent in their own sight,' the opposite of C02's teachability; on those who 'acquit the guilty for a bribe.' 'My people go into captivity for lack of knowledge.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 6:1-13",
+      "pericope": "Woe is me! For I am undone, because I am a man of unclean lips",
+      "pillars": [
+        "truth",
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C19",
+        "C07"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The vision of the throne, the seraphim, 'Holy, holy, holy,' and the prophet's first words: 'Woe is me! For I am undone, because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for my eyes have seen the King.' C04's mirror in its source form — self-knowledge produced by seeing holiness, not by comparing oneself with others. The coal touches the lips and the sin is taken away before the call is given (C19). The commission includes the hardest sentence in the prophets, which Jesus quotes: 'you see indeed, but don't perceive' — C07's blindness as a judgment that can be pronounced.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 7:1-17",
+      "pericope": "Be careful, and keep calm. Don't be afraid… If you will not believe, surely you shall not be established",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The king's heart and his people's 'trembled, as the trees of the forest tremble with the wind.' The prophet's message: 'Be careful, and keep calm. Don't be afraid, neither let your heart be faint.' And its condition, a play on the same Hebrew word: 'If you will not believe, surely you shall not be established.' C22's quiet soul offered to a frightened ruler, who refuses even the sign. The sign is given anyway: 'the virgin will conceive, and bear a son, and shall call his name Immanuel' — God with us, C19's ground.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 8:11-22",
+      "pericope": "Don't say, A conspiracy! concerning all about which this people say, A conspiracy!",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C17",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The prophet is warned 'not to walk in the way of this people': not to name conspiracies where they name them, not to fear what they fear — 'Yahweh of Armies is who you must respect as holy. He is the one you must fear.' 1 Peter 3:14-15 quotes it for Christians among hostile neighbours, which is C17's posture. And a test for voices: 'shouldn't a people consult with their God? Should they consult the dead on behalf of the living? Turn to the law and to the testimony!' — C08's. 'I will wait for Yahweh, who hides his face.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 9:1-7",
+      "pericope": "The people who walked in darkness have seen a great light… Prince of Peace",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C15"
+      ],
+      "practices": [],
+      "connection": "'The people who walked in darkness have seen a great light. Those who lived in the land of the shadow of death, on them the light has shined.' The yoke broken, the boots of war burned, and a child born whose names include 'Prince of Peace. Of the increase of his government and of peace there shall be no end.' C19's light dawning in the darkness, and C15's peace established 'with justice and with righteousness.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 9:8-10:4",
+      "pericope": "The bricks have fallen, but we will build with cut stone",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "After disaster, pride doubles down: 'The bricks have fallen, but we will build with cut stone. The sycamore fig trees have been cut down, but we will put cedars in their place.' 'Yet the people have not turned to him who struck them.' C22's healing measured by what a person does after a fall; here the fall becomes the occasion for a grander building. The refrain — 'his hand is stretched out still' — ends at the decree-writers who 'rob the poor… that widows may be their spoil,' C16's corrupt authority.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 10:5-19",
+      "pericope": "Should an axe brag against him who chops with it?",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Assyria is God's rod and does not know it: 'By the strength of my hand I have done it, and by my wisdom.' The answer is an image of absurdity: 'Should an axe brag against him who chops with it? Should a saw exalt itself above him who saws with it?' C22's humility as accurate self-knowledge — the instrument mistaking itself for the hand — and C16's warning to power that forgets it is held on loan.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 11:1-13",
+      "pericope": "He will not judge by the sight of his eyes… with righteousness he will judge the poor",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C15"
+      ],
+      "practices": [],
+      "connection": "The shoot from Jesse's stump, with the Spirit of wisdom, counsel, knowledge, and fear of Yahweh resting on him. His justice is defined against appearances — 'He will not judge by the sight of his eyes, neither decide by the hearing of his ears; but with righteousness he will judge the poor' — which is C16's ruler. Then the peaceable kingdom: the wolf with the lamb, the child at the viper's den, 'They will not hurt nor destroy in all my holy mountain,' and old rivals reconciled — 'Ephraim won't envy Judah, and Judah won't persecute Ephraim.' C15's peace at the scale of creation. The conquests of 11:14-16 are not indexed.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 12:1-6",
+      "pericope": "Though you were angry with me, your anger has turned away and you comfort me",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C10"
+      ],
+      "practices": [],
+      "connection": "The song of the redeemed: 'I will give thanks to you, Yahweh; for though you were angry with me, your anger has turned away and you comfort me… With joy you will draw water out of the wells of salvation.' C19's turning and C10's joy, sung in the first person.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

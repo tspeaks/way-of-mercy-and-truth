@@ -1,0 +1,387 @@
+{
+  "book": "Colossians",
+  "translation": "World English Bible (public domain)",
+  "status": "complete — 81 of 95 verses; the greeting (1:1-2) and the closing greetings (4:7-18) are unindexed; awaiting second-pass review",
+  "method_version": "2.3",
+  "text_source": "index/text/colossians.json",
+  "note": "A letter against a religion of rules, written to a church Paul had never visited. Two entries carry prior citations — 2:3 from C02 and 3:3 from C23 — and serve as the calibration set. The indexing order expected C23 from 'hidden with Christ,' and C23 is reached twice: by the prior at 3:1-4, and with its practice at 3:22-4:1.",
+  "coverage_note": "The closing greetings (4:7-18) are left out, though two names in them carry weight in other books: Onesimus, 'the faithful and beloved brother, who is one of you,' is the runaway slave of Philemon, and Mark, who is to be received, is the man Paul refused to take on his second journey (Acts 15:37-39). Both are plausible anchors for PR29, Merciful Reintegration — but only with Philemon and Acts in hand, since Colossians itself never says either man had failed. They are recorded here for whoever indexes those books, and not tagged here, because an anchor should rest on what the indexed text says. No entry reaches PR24, PR27, or PR28; 3:5-11 and 3:12-15 come nearest to PR24 and PR27 respectively, and both are declined in their entries with the reason.",
+  "entries": [
+    {
+      "ref": "Colossians 1:3-8",
+      "pericope": "Bearing fruit and growing, as it does in you also",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C12",
+        "C25"
+      ],
+      "practices": [],
+      "connection": "What Paul has heard of them is love 'toward all the saints,' and he treats it as the evidence of their faith — C12's proof. The gospel is described as something that bears fruit and grows, in the world and in them, from a day of first hearing onward: growth with a beginning and no stated end, which is C25's shape.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 1:9-14",
+      "pericope": "Filled with the knowledge of his will in all spiritual wisdom",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C02",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Wisdom and understanding are prayed for in order that they may issue in a walk — 'bearing fruit in every good work' — and in endurance held 'with joy.' C02's claim that wisdom is a skill of living rather than an intelligence, and C12's that knowledge which bears no fruit is not yet knowledge.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 1:15-20",
+      "pericope": "In him all things are held together",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C01",
+        "C24"
+      ],
+      "practices": [],
+      "connection": "All things, visible and invisible, created through him and for him, and held together in him. C01 opens the curriculum with the claim that reality has a grain — that the moral order and the character of God are one thing — and this hymn gives that grain a name. The scale of the claim, thrones and dominions included, is the landscape C24 asks the reader to stand before in wonder rather than analysis.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 1:21-23",
+      "pericope": "Alienated and enemies in your mind, yet now reconciled",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [],
+      "connection": "The former condition is stated without softening — alienated, enemies 'in your mind,' in evil works — and the change is stated as already accomplished by another. C19's door: the hope comes first, and the condition attached is continuance, 'grounded and steadfast,' not prior worthiness.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 1:24-29",
+      "pericope": "Christ in you, the hope of glory",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The centre of the mystery is an indwelling — 'Christ in you' — and the goal is to present every person complete. That is C26's change of nature from within. The apostle describes his part as stewardship and labour 'according to his working, which works in me mightily,' service done by a power not his own, which is C16's account of what authority is for.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 2:1-5",
+      "pericope": "In whom are all the treasures of wisdom and knowledge hidden",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C02",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "C02 quotes 2:3 directly: the treasures of wisdom are located in a person rather than a system. The sentence that follows gives the reason for saying so — 'that no one may delude you with persuasiveness of speech' — and the test against persuasiveness is C08's.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Colossians 2:6-7",
+      "pericope": "Rooted and built up in him",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C11",
+        "C10"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Walk in him as you received him, rooted and built up: the life continues by the same means it began, which is C11's argument that abiding is the mechanism rather than a stage to graduate from. The paragraph ends 'abounding in thanksgiving,' which is the practice C10 assigns to the delight of remaining.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 2:8-15",
+      "pericope": "A circumcision not made with hands",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C06",
+        "C19",
+        "C08"
+      ],
+      "practices": [],
+      "connection": "Three moves in one paragraph. Philosophy 'after the tradition of men' is to be tested, as C08 tests every teacher. The outward sign is read inwardly — circumcision not made with hands — which is the reading C06 takes from Jeremiah 4:4. And the record against us is not argued down but cancelled, 'nailing it to the cross,' which is the most concrete image in the Pauline letters of C19's open door.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 2:16-19",
+      "pericope": "A shadow of the things to come; but the body is Christ's",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S6"
+      ],
+      "chapters": [
+        "C06",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Feasts, new moons, and sabbaths are called 'a shadow of the things to come' — the same interpretive key C06 takes from Hebrews 10:1, where a shadow implies something casting it. The body, by contrast, 'grows with God's growth,' supplied and knit together from the Head: growth that is received rather than manufactured, C25's picture.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 2:20-23",
+      "pericope": "Don't handle, nor taste, nor touch",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C09"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Ascetic rules are conceded their appearance — 'like wisdom… and humility, and severity to the body' — and denied their effect: they 'aren't of any value against the indulgence of the flesh.' This is the strongest scriptural statement of the claim C26 and C09 both make, that suppressing a desire does not change it and that holiness comes by acquiring a new want rather than policing the old one. PR20 shares the subject of religious severity but is defined by a guest's arrival, which is absent here.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 3:1-4",
+      "pericope": "Your life is hidden with Christ in God",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "C23 cites 3:3 to make the point that hiddenness is not a limitation of the arrangement but the arrangement itself. Set the mind on things above, because the life is already hidden and will only later be revealed: C18's loosened grip on things on the earth, grounded in where the life actually is. PR13 is not tagged. The passage describes where the life is kept, not a practice of secret good done unwitnessed; the curriculum uses it at chapter level and the practice anchor belongs to passages like Colossians 3:22-24.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Colossians 3:5-11",
+      "pericope": "Put off the old man… where there can't be Greek and Jew",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C26",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Two lists of what is put to death and put away — the desires, and then the sins of speech: anger, malice, slander, lying — and a new self 'being renewed in knowledge after the image of his Creator.' Renewal as a continuing process, C26's. The renewal is then described as erasing every line by which people rank each other, down to the Scythian, the byword for the barbarian: C27's circle with no one standing outside. PR15 and PR24 were considered. Both share the image; neither is prescribed — the passage states the unity of the new humanity as a fact rather than commanding the widening or the walk toward the centre.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 3:12-15",
+      "pericope": "Bearing with one another, and forgiving each other",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C15",
+        "C29"
+      ],
+      "practices": [
+        "PR09"
+      ],
+      "mode": "prescribes",
+      "connection": "Virtues to be put on like clothing, then their use in friction: bearing with one another and forgiving 'if any man has a complaint against any,' as Christ forgave. The peace of God is to 'rule' in the heart — the verb is the umpire's — because they were called into one body: conflict aimed at the body's repair, which is the Architecture of Peace. Love as 'the bond of perfection' is C29's fully formed heart. PR27 is the nearest it has yet come — a list of virtues and a friction in view — but the passage prescribes the response to the friction, not the practice of reading each friction as the material for a particular virtue, and it is not tagged.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 3:16-17",
+      "pericope": "Whatever you do, in word or in deed, do all in the name of the Lord",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C10"
+      ],
+      "practices": [
+        "PR23"
+      ],
+      "mode": "prescribes",
+      "connection": "The scope is everything — 'whatever you do, in word or in deed' — and the instruction is to do it in the name of the Lord, with thanks. That is the Sacrament of the Ordinary as a rule of life: no location exempt, the ordinary as the only place the road is walked, which is C28's liturgy. The singing and thanksgiving carry C10's gratitude.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 3:18-21",
+      "pericope": "Fathers, don't provoke your children, so that they won't be discouraged",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The household code in its shortest form. What is distinctive is that each command to the stronger party is aimed at the weaker party's inner state: husbands are not to be bitter, and fathers are not to provoke their children 'so that they won't be discouraged.' C14's claim that the household is where formation is tested, with the father's conduct measured by what it does to a child's spirit. The instruction to wives sits inside a first-century household code; the index anchors what the passage asks of those who hold power in the home, and the curriculum's guard against loyalty used to keep someone in harm applies.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 3:22-4:1",
+      "pericope": "Not just when they are looking, as men pleasers",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C13"
+      ],
+      "practices": [
+        "PR13",
+        "PR23"
+      ],
+      "mode": "prescribes",
+      "connection": "Addressed to household slaves, whose situation the index does not commend, the passage names the exact temptation the Hidden Life is for: work done 'when they are looking, as men pleasers.' Against it — whatever you do, work heartily, as for the Lord and not for men. That is PR13's question stated as a command (what would I do if no one would ever find out?) and PR23's claim that the highest form of the road is honest work in the least glamorous setting. Masters are then held to what is 'just and equal' under a Master of their own, which keeps the passage from being read as a charter for the household's power.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 4:2-4",
+      "pericope": "Continue steadfastly in prayer, watching therein with thanksgiving",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C09",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Prayer described as something continued in rather than performed, with watchfulness inside it. C09's secret place and C20's watchman joined in a single verb phrase. PR30 shares the subject of continuity in prayer but is defined as the Lord's Prayer three times a day, which this does not prescribe; PR12 shares the word 'watching,' but the object here is prayer rather than the movements of the heart, so neither is tagged.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Colossians 4:5-6",
+      "pericope": "Walk in wisdom toward those who are outside",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C17",
+        "C02"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Conduct toward outsiders is a matter of wisdom and of time — 'redeeming the time' — and speech is to be gracious, seasoned, and fitted to each person: 'how you ought to answer each one.' C17's public square, and C02's wisdom as a practical skill exercised on particular people rather than on audiences.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

@@ -430,7 +430,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **31:12** all the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Beth Shan; and they came to Jabesh, and burnt them there.
 > **31:13** They took their bones, and buried them under the tamarisk tree in Jabesh, and fasted seven days.
 
-**Claim.** Saul's body hangs on the wall of a Philistine city. The men of Jabesh Gilead — whom Saul had rescued at the start of his reign (11:1-11) — 'arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Beth Shan… and buried them under the tamarisk tree in Jabesh, and fasted seven days.' A debt remembered forty years on, paid to a king who could no longer reward anyone, at the risk of their lives. Unobligated Loyalty after defeat and death (medium). C13 and C16.
+**Claim.** Saul's body hangs on the wall of a Philistine city. The men of Jabesh Gilead — whom Saul had rescued at the start of his reign (11:1-11) — 'arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Beth Shan… and buried them under the tamarisk tree in Jabesh, and fasted seven days.' A debt remembered years later, paid to a king who could no longer reward anyone, at the risk of their lives. Unobligated Loyalty after defeat and death (medium). C13 and C16.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S4 · chapters: C13, C16 · practices: PR26 · confidence: medium
 

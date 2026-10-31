@@ -72,7 +72,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **8:42** (for they shall hear of your great name, and of your mighty hand, and of your outstretched arm); when he shall come and pray toward this house;
 > **8:43** hear in heaven, your dwelling place, and do according to all that the foreigner calls to you for; that all the peoples of the earth may know your name, to fear you, as do your people Israel, and that they may know that this house which I have built is called by your name.
 
-**Claim.** Inside the dedication prayer, a petition for people outside the covenant: 'Moreover concerning the foreigner, who is not of your people Israel, when he shall come out of a far country for your name's sake… when he shall come and pray toward this house; hear in heaven, your dwelling place, and do according to all that the foreigner calls to you for; that all the peoples of the earth may know your name.' C27's widened circle written into the foundation of the temple — the ground for Isaiah 56:7 and Mark 11:17.
+**Claim.** Inside the dedication prayer, a petition for people outside the covenant: 'Moreover concerning the foreigner, who is not of your people Israel, when he shall come out of a far country for your name's sake… when he shall come and pray toward this house; hear in heaven, your dwelling place, and do according to all that the foreigner calls to you for; that all the peoples of the earth may know your name.' C27's widened circle written into the foundation of the temple, and taken up again at Isaiah 56:7 and Mark 11:17.
 
 **Tags.** pillars: mercy · stages: S7 · chapters: C27 · practices: none · confidence: medium
 

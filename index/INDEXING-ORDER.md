@@ -1,6 +1,6 @@
 # Indexing order for the remaining canon
 
-**Status, 31 October 2026 (11:15 CT).** Every book in the canon now has an index file. That is
+**Status, 31 October 2026 (11:10 CT).** Every book in the canon now has an index file. That is
 66 books and 1,519 entries, with 15,645 of the WEB's 31,102 verses in indexed pericopes. The day
 began with 14 books and 467 entries. The 52 books added today are drafted, validated and
 quotation-checked against the WEB with `tools/check_quotes.py`, and they await second-pass review

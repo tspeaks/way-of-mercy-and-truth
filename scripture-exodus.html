@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0C0B08">
+<title>Exodus — Scripture Index — The Way of Mercy and Truth</title>
+<meta name="description" content="Every passage of Exodus mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta property="og:type" content="book">
+<meta property="og:title" content="Exodus — Scripture Index — The Way of Mercy and Truth">
+<meta property="og:description" content="Every passage of Exodus mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%230C0B08%27/%3E%3Cpath d=%27M16 6 L16 26 M9 13 H23%27 stroke=%27%23C9A227%27 stroke-width=%272.6%27 stroke-linecap=%27round%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0C0B08; --bg-raised:#15140F;
+  --gold:#C9A227; --gold-bright:#E3C158; --gold-pale:#EADFC4; --gold-dim:#8A7327;
+  --text:#E4DCC6; --text-soft:#BFB49A; --text-muted:#8A8069;
+  --truth:#7FA9B5; --mercy:#C4795F; --spec:#9C8AB2;
+  --rule:rgba(201,162,39,0.22); --rule-strong:rgba(201,162,39,0.45);
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 10px 30px rgba(0,0,0,.35);
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0;
+  color:var(--text);
+  background-color:var(--bg);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(201,162,39,.07), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 110%, rgba(201,162,39,.05), transparent 70%);
+  background-attachment:fixed;
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-color:rgba(201,162,39,.45);text-underline-offset:3px;}
+a:hover{color:var(--gold-bright);text-decoration-color:var(--gold-bright);}
+:focus-visible{outline:2px solid var(--gold-bright);outline-offset:3px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule-strong);}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Cormorant Garamond','Iowan Old Style',Georgia,serif;font-weight:600;}
+
+.rule-orn{display:flex;align-items:center;gap:14px;margin:0;color:var(--gold-dim);}
+.rule-orn::before,.rule-orn::after{content:"";height:1px;flex:1;
+  background:linear-gradient(90deg,transparent,var(--rule-strong),transparent);}
+.rule-orn span{font-size:13px;letter-spacing:.3em;}
+
+.setup{background:rgba(196,121,95,.14);border-bottom:1px solid var(--rule-strong);
+  color:var(--gold-pale);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(201,162,39,.18);padding:1px 6px;font-size:13px;color:var(--gold-bright);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:62px 0 44px;text-align:center;}
+header.masthead::after{content:"";display:block;height:1px;margin-top:38px;
+  background:linear-gradient(90deg,transparent,var(--rule-strong) 20%,var(--rule-strong) 80%,transparent);}
+.crest{width:64px;height:64px;margin:0 auto 22px;display:block;color:var(--gold);opacity:.92;}
+.kicker{font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 16px;}
+h1.title{font-size:clamp(34px,9vw,58px);line-height:1.04;margin:0 0 12px;color:var(--gold-pale);
+  font-weight:600;letter-spacing:.005em;}
+.subtitle{font-size:clamp(15px,3.4vw,18px);color:var(--text-soft);font-style:italic;
+  margin:0 auto 30px;max-width:44ch;}
+blockquote.epigraph{margin:0 auto 30px;padding:20px 24px;max-width:52ch;
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  font-size:clamp(15.5px,3.4vw,18px);color:var(--text-soft);line-height:1.5;font-style:italic;}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;justify-content:center;}
+.badge{font-size:11px;letter-spacing:.08em;padding:5px 11px;text-transform:uppercase;
+  border:1px solid var(--rule);color:var(--text-muted);background:rgba(201,162,39,.05);white-space:nowrap;}
+.badge.gold{border-color:var(--rule-strong);color:var(--gold);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;}
+.btn{display:inline-block;padding:14px 26px;text-decoration:none;font-size:15px;font-weight:600;
+  letter-spacing:.02em;border:1px solid var(--gold-dim);background:transparent;color:var(--gold);min-height:44px;}
+.btn:hover{background:rgba(201,162,39,.1);border-color:var(--gold);color:var(--gold-bright);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#100E08;}
+.btn.primary:hover{background:var(--gold-bright);border-color:var(--gold-bright);color:#100E08;}
+
+section{padding:50px 0;}
+section + section{border-top:1px solid var(--rule);}
+h2.sec{font-size:clamp(23px,5vw,30px);margin:0 0 8px;color:var(--gold-pale);font-weight:600;}
+.section-note{color:var(--text-soft);margin:0 0 26px;max-width:62ch;}
+
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--rule);padding:19px 21px;box-shadow:var(--shadow);}
+.card .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 9px;}
+.card p{margin:0;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:11px 0 0;padding-top:11px;border-top:1px solid var(--rule);}
+
+.pull{background:rgba(201,162,39,.06);border-top:2px solid var(--gold-dim);
+  border-bottom:2px solid var(--gold-dim);padding:24px 26px;margin:30px 0 0;}
+.pull p{margin:0;font-size:clamp(16.5px,3.5vw,19px);line-height:1.45;color:var(--gold-pale);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:12px;letter-spacing:.05em;font-style:italic;}
+
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:26px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--rule);padding:18px 14px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;display:block;
+  margin-bottom:5px;color:var(--gold-pale);letter-spacing:.06em;}
+.pillar span{font-size:13px;color:var(--text-muted);}
+.pillar.t{border-top:2px solid var(--truth);}
+.pillar.h{border-top:2px solid var(--gold);}
+.pillar.m{border-top:2px solid var(--mercy);}
+
+.stage{border:1px solid var(--rule);background:var(--bg-raised);margin-bottom:12px;box-shadow:var(--shadow);}
+.stage summary{cursor:pointer;padding:17px 19px;list-style:none;display:flex;gap:15px;
+  align-items:center;min-height:44px;}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(201,162,39,.06);}
+.stage .snum{flex:none;width:34px;height:34px;border-radius:50%;background:transparent;
+  border:1px solid var(--gold-dim);color:var(--gold);display:inline-flex;align-items:center;
+  justify-content:center;font-size:14px;font-weight:600;}
+.stage[open] .snum{background:var(--gold);color:#100E08;border-color:var(--gold);}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;
+  font-weight:600;color:var(--gold-pale);letter-spacing:.05em;}
+.stage .sname span{display:block;font-size:14px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:11px;letter-spacing:.06em;}
+.stage .body{padding:4px 19px 17px;border-top:1px solid var(--rule);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li + li{border-top:1px solid var(--rule);}
+ol.chapters a{display:flex;gap:12px;align-items:baseline;padding:13px 2px;text-decoration:none;
+  color:var(--text);min-height:44px;}
+ol.chapters a:hover{color:var(--gold-bright);}
+ol.chapters .cid{flex:none;font-size:11px;color:var(--text-muted);width:42px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:14px;font-size:14px;}
+
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--rule);box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:16px 19px;text-decoration:none;color:var(--text);min-height:44px;}
+ul.linklist a:hover{background:rgba(201,162,39,.06);}
+ul.linklist .lt{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:19px;
+  display:block;color:var(--gold-pale);letter-spacing:.03em;}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:4px;}
+.flag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;margin-left:9px;
+  vertical-align:2px;white-space:nowrap;border:1px solid;}
+.flag.partial{border-color:var(--gold-dim);color:var(--gold);}
+.flag.speculative{border-color:var(--spec);color:var(--spec);}
+
+.warn{border:1px solid var(--rule);border-left:3px solid var(--mercy);
+  background:rgba(196,121,95,.07);padding:22px 24px;}
+.warn h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;margin:0 0 10px;
+  color:var(--mercy);letter-spacing:.02em;}
+.warn p{margin:0 0 11px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+.license{background:var(--bg-raised);border:1px solid var(--rule);padding:24px 26px;}
+.license .big{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:600;
+  margin:0 0 12px;color:var(--gold-pale);letter-spacing:.03em;}
+.license ul{margin:0 0 14px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:6px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+footer{padding:36px 0 64px;font-size:13px;color:var(--text-muted);
+  border-top:1px solid var(--rule);margin-top:20px;}
+footer p{margin:0 0 7px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+/* ================= reading pages ================= */
+.topbar{position:sticky;top:0;z-index:20;background:rgba(12,11,8,.94);
+  border-bottom:1px solid var(--rule);}
+@supports ((backdrop-filter:blur(8px)) or (-webkit-backdrop-filter:blur(8px))){
+  .topbar{-webkit-backdrop-filter:saturate(140%) blur(8px);backdrop-filter:saturate(140%) blur(8px);}
+}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:50px;}
+.topbar a.home{font-size:13.5px;text-decoration:none;color:var(--gold);white-space:nowrap;}
+.topbar .where{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.progress{height:2px;}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold-dim),var(--gold));}
+
+article{max-width:680px;margin:0 auto;padding:44px 22px 0;}
+.doc-head{margin-bottom:38px;padding-bottom:26px;border-bottom:1px solid var(--rule);text-align:center;}
+.doc-kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 14px;}
+.doc-title{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,7vw,44px);
+  line-height:1.1;margin:0;font-weight:600;color:var(--gold-pale);letter-spacing:.01em;}
+.doc-sub{font-size:15px;color:var(--truth);margin:12px 0 0;font-style:italic;}
+.doc-meta{font-size:12px;color:var(--text-muted);margin:14px 0 0;letter-spacing:.06em;}
+
+.doc-body{font-size:18px;line-height:1.75;color:var(--text);}
+.doc-body p{margin:0 0 1.25em;}
+.doc-body > p:first-of-type::first-letter{float:left;font-family:'Cormorant Garamond',Georgia,serif;
+  font-size:3.4em;line-height:.82;padding:.06em .1em 0 0;color:var(--gold);font-weight:600;}
+.doc-body h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;font-weight:600;
+  margin:2em 0 .7em;color:var(--gold-pale);letter-spacing:.03em;}
+.doc-body h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;font-weight:600;
+  margin:1.9em 0 .6em;color:var(--gold);letter-spacing:.03em;}
+blockquote.scripture{margin:1.7em 0;padding:16px 0 16px 22px;border-left:2px solid var(--gold-dim);
+  background:rgba(201,162,39,.04);}
+blockquote.scripture p{margin:0;font-style:italic;color:var(--gold-pale);font-size:17px;line-height:1.6;}
+blockquote.scripture cite{display:block;margin-top:9px;font-style:normal;font-size:12.5px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+
+.docnav{max-width:680px;margin:56px auto 0;padding:0 22px 70px;}
+.docnav .orn{margin-bottom:26px;}
+.navgrid{display:grid;grid-template-columns:1fr;gap:12px;}
+@media (min-width:560px){ .navgrid{grid-template-columns:1fr 1fr;} }
+.nav-btn{display:block;padding:17px 20px;border:1px solid var(--rule);text-decoration:none;
+  background:var(--bg-raised);min-height:44px;}
+.nav-btn:hover{background:rgba(201,162,39,.07);border-color:var(--gold-dim);}
+.nav-btn .nav-label{display:block;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--gold-dim);margin-bottom:5px;}
+.nav-btn .nav-title{display:block;font-size:15.5px;color:var(--text);line-height:1.3;}
+.nav-btn:hover .nav-title{color:var(--gold-bright);}
+.nav-btn.next{text-align:right;}
+.nav-btn.disabled{opacity:.42;}
+.nav-hub{text-align:center;margin-top:20px;font-size:13.5px;}
+.kbd-hint{text-align:center;margin-top:14px;font-size:11.5px;color:var(--text-muted);letter-spacing:.05em;}
+@media (hover:none){ .kbd-hint{display:none;} }
+
+.notfound{text-align:center;padding:90px 22px;}
+.notfound h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,8vw,46px);
+  color:var(--gold-pale);margin:0 0 14px;font-weight:600;}
+.notfound p{color:var(--text-soft);max-width:44ch;margin:0 auto 26px;}
+
+@media print{
+  body{background:#fff;color:#000;}
+  .topbar,.docnav,.skip,.setup,footer,.kbd-hint{display:none !important;}
+  article{max-width:none;padding:0;}
+  .doc-title,.doc-body h2,.doc-body h3{color:#000;}
+  .doc-body{font-size:12pt;}
+  blockquote.scripture{border-left:2px solid #999;background:none;}
+  blockquote.scripture p{color:#222;}
+  a{color:#000;text-decoration:none;}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<style>
+.entry{border-top:1px solid var(--rule);padding:34px 0;}
+.entry:first-of-type{border-top:0;}
+.entry-ref{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 6px;}
+.entry-name{font-family:'Cormorant Garamond',Georgia,serif;font-size:25px;font-weight:600;
+  color:var(--gold-pale);margin:0 0 18px;letter-spacing:.02em;}
+.passage{border-left:2px solid var(--gold-dim);padding:4px 0 4px 20px;margin:0 0 20px;
+  background:rgba(201,162,39,.04);}
+.passage p{margin:0 0 .7em;font-size:17px;line-height:1.65;color:var(--gold-pale);font-style:italic;}
+.passage p:last-child{margin-bottom:0;}
+.passage .vn{font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:10.5px;
+  color:var(--text-muted);vertical-align:3px;margin-right:5px;}
+.conn{font-size:16.5px;line-height:1.6;color:var(--text);margin:0 0 16px;}
+.tags{display:flex;flex-wrap:wrap;gap:7px;align-items:center;}
+.tag{font-size:11px;letter-spacing:.06em;padding:4px 10px;border:1px solid var(--rule);
+  color:var(--text-soft);text-decoration:none;white-space:nowrap;}
+a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
+.tag.pillar{text-transform:uppercase;letter-spacing:.12em;}
+.tag.pillar.t{border-color:var(--truth);color:var(--truth);}
+.tag.pillar.m{border-color:var(--mercy);color:var(--mercy);}
+.tag.pillar.h{border-color:var(--gold);color:var(--gold);}
+.tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
+.tag.corrected{border-color:var(--gold);color:var(--gold);}
+.tag.reviewed{border-color:var(--truth);color:var(--truth);}
+.passage.cluster p{font-style:normal;color:var(--text);}
+.passage.cluster .cref{color:var(--gold-dim);font-size:10.5px;margin-right:9px;vertical-align:2px;}
+.cluster-note{font-size:12px;color:var(--text-muted);letter-spacing:.06em;margin:0 0 12px;font-style:italic;}
+.entry-ref.cluster-label{color:var(--gold);}
+.tag.kind{border-style:solid;border-color:var(--gold-dim);color:var(--gold);
+  text-transform:uppercase;letter-spacing:.12em;font-size:10px;}
+.tag.mode{text-transform:uppercase;letter-spacing:.12em;font-size:10px;border-style:dotted;}
+.tag.mode.prescribes{border-color:var(--gold);color:var(--gold);}
+.tag.mode.exemplifies{border-color:var(--truth);color:var(--truth);}
+.tag.mode.counter{border-color:var(--mercy);color:var(--mercy);}
+.booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
+.stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
+@media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
+.stat div{border:1px solid var(--rule);background:var(--bg-raised);padding:14px;text-align:center;}
+.stat b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;
+  color:var(--gold-pale);font-weight:600;}
+.stat span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+</style>
+<div class="topbar"><div class="wrap">
+<a class="home" href="index.html">✦ The Way of Mercy and Truth</a>
+<span class="where mono">Exodus · index</span>
+</div><div class="progress"><i></i></div></div>
+<main id="main"><article>
+<div class="doc-head">
+<p class="doc-kicker">Scripture Index</p>
+<h1 class="doc-title">Exodus</h1>
+<p class="doc-sub">World English Bible · public domain</p>
+<p class="doc-meta mono">18 passages · 161 of 1213 verses</p>
+</div>
+<div class="doc-body">
+<div class="entry">
+<p class="entry-ref">Exodus 1:15-21</p>
+<h2 class="entry-name">But the midwives feared God, and didn't do what the king of Egypt commanded them, but saved the baby boys alive</h2>
+<div class="passage">
+<p><span class="vn">15</span>The king of Egypt spoke to the Hebrew midwives, of whom the name of the one was Shiphrah, and the name of the other Puah,</p>
+<p><span class="vn">16</span>and he said, “When you perform the duty of a midwife to the Hebrew women, and see them on the birth stool; if it is a son, then you shall kill him; but if it is a daughter, then she shall live.”</p>
+<p><span class="vn">17</span>But the midwives feared God, and didn’t do what the king of Egypt commanded them, but saved the baby boys alive.</p>
+<p><span class="vn">18</span>The king of Egypt called for the midwives, and said to them, “Why have you done this thing, and have saved the boys alive?”</p>
+<p><span class="vn">19</span>The midwives said to Pharaoh, “Because the Hebrew women aren’t like the Egyptian women; for they are vigorous, and give birth before the midwife comes to them.”</p>
+<p><span class="vn">20</span>God dealt well with the midwives, and the people multiplied, and grew very mighty.</p>
+<p><span class="vn">21</span>It happened, because the midwives feared God, that he gave them families.</p>
+</div>
+<p class="conn">The first act of resistance in the book is by two working women, named when the king is not: 'Shiphrah, and… Puah.' Ordered to kill newborn boys, 'the midwives feared God, and didn't do what the king of Egypt commanded them, but saved the baby boys alive.' The Citizen-Stranger's loyalty 'above any human decree,' exercised quietly by people with no power except their hands. C17 and C16. 'God dealt well with the midwives… he gave them families.'</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c17.html">C17</a>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="a1.html">PR10</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 2:5-10</p>
+<h2 class="entry-name">She opened it, and saw the child, and behold, the baby cried. She had compassion on him, and said, 'This is one of the Hebrews' children.'</h2>
+<div class="passage">
+<p><span class="vn">5</span>Pharaoh’s daughter came down to bathe at the river. Her maidens walked along by the riverside. She saw the basket among the reeds, and sent her handmaid to get it.</p>
+<p><span class="vn">6</span>She opened it, and saw the child, and behold, the baby cried. She had compassion on him, and said, “This is one of the Hebrews’ children.”</p>
+<p><span class="vn">7</span>Then his sister said to Pharaoh’s daughter, “Should I go and call a nurse for you from the Hebrew women, that she may nurse the child for you?”</p>
+<p><span class="vn">8</span>Pharaoh’s daughter said to her, “Go.” The maiden went and called the child’s mother.</p>
+<p><span class="vn">9</span>Pharaoh’s daughter said to her, “Take this child away, and nurse him for me, and I will give you your wages.” The woman took the child, and nursed it.</p>
+<p><span class="vn">10</span>The child grew, and she brought him to Pharaoh’s daughter, and he became her son. She named him Moses, and said, “Because I drew him out of the water.”</p>
+</div>
+<p class="conn">The daughter of the king who ordered the killings finds a Hebrew baby in the reeds. 'She opened it, and saw the child, and behold, the baby cried. She had compassion on him, and said, &quot;This is one of the Hebrews' children.&quot;' She knows exactly whose child it is and what her father has decreed, and compassion overrides both. C27's mercy that crosses the line of enmity, and C03. His sister's quick thinking returns him to his own mother, paid to nurse him.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="c03.html">C03</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 2:11-15</p>
+<h2 class="entry-name">He looked this way and that way, and when he saw that there was no one, he killed the Egyptian, and hid him in the sand</h2>
+<div class="passage">
+<p><span class="vn">11</span>It happened in those days, when Moses had grown up, that he went out to his brothers, and looked at their burdens. He saw an Egyptian striking a Hebrew, one of his brothers.</p>
+<p><span class="vn">12</span>He looked this way and that way, and when he saw that there was no one, he killed the Egyptian, and hid him in the sand.</p>
+<p><span class="vn">13</span>He went out the second day, and behold, two men of the Hebrews were fighting with each other. He said to him who did the wrong, “Why do you strike your fellow?”</p>
+<p><span class="vn">14</span>He said, “Who made you a prince and a judge over us? Do you plan to kill me, as you killed the Egyptian?” Moses was afraid, and said, “Surely this thing is known.”</p>
+<p><span class="vn">15</span>Now when Pharaoh heard this thing, he sought to kill Moses. But Moses fled from the face of Pharaoh, and lived in the land of Midian, and he sat down by a well.</p>
+</div>
+<p class="conn">Moses 'went out to his brothers, and looked at their burdens' — real compassion — and acts on it with violence: 'He looked this way and that way, and when he saw that there was no one, he killed the Egyptian, and hid him in the sand.' The next day, trying to make peace between two Hebrews, he is rejected: 'Who made you a prince and a judge over us?' C21's anatomy of right instinct and wrong method, and the beginning of C25's forty-year apprenticeship in the desert before he is ready.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="c25.html">C25</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 3:1-14</p>
+<h2 class="entry-name">I will turn aside now, and see this great sight… I have surely seen the affliction of my people… for I know their sorrows… 'Who am I, that I should go to Pharaoh?'</h2>
+<div class="passage">
+<p><span class="vn">1</span>Now Moses was keeping the flock of Jethro, his father-in-law, the priest of Midian, and he led the flock to the back of the wilderness, and came to God’s mountain, to Horeb.</p>
+<p><span class="vn">2</span>The angel of Yahweh appeared to him in a flame of fire out of the midst of a bush. He looked, and behold, the bush burned with fire, and the bush was not consumed.</p>
+<p><span class="vn">3</span>Moses said, “I will turn aside now, and see this great sight, why the bush is not burnt.”</p>
+<p><span class="vn">4</span>When Yahweh saw that he turned aside to see, God called to him out of the midst of the bush, and said, “Moses! Moses!” He said, “Here I am.”</p>
+<p><span class="vn">5</span>He said, “Don’t come close. Take your sandals off of your feet, for the place you are standing on is holy ground.”</p>
+<p><span class="vn">6</span>Moreover he said, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” Moses hid his face; for he was afraid to look at God.</p>
+<p><span class="vn">7</span>Yahweh said, “I have surely seen the affliction of my people who are in Egypt, and have heard their cry because of their taskmasters, for I know their sorrows.</p>
+<p><span class="vn">8</span>I have come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land to a good and large land, to a land flowing with milk and honey; to the place of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite.</p>
+<p><span class="vn">9</span>Now, behold, the cry of the children of Israel has come to me. Moreover I have seen the oppression with which the Egyptians oppress them.</p>
+<p><span class="vn">10</span>Come now therefore, and I will send you to Pharaoh, that you may bring my people, the children of Israel, out of Egypt.”</p>
+<p><span class="vn">11</span>Moses said to God, “Who am I, that I should go to Pharaoh, and that I should bring the children of Israel out of Egypt?”</p>
+<p><span class="vn">12</span>He said, “Certainly I will be with you. This will be the token to you, that I have sent you: when you have brought the people out of Egypt, you shall serve God on this mountain.”</p>
+<p><span class="vn">13</span>Moses said to God, “Behold, when I come to the children of Israel, and tell them, ‘The God of your fathers has sent me to you;’ and they ask me, ‘What is his name?’ What should I tell them?”</p>
+<p><span class="vn">14</span>God said to Moses, “I AM WHO I AM,” and he said, “You shall tell the children of Israel this: ‘I AM has sent me to you.’”</p>
+</div>
+<p class="conn">A shepherd at the back of the wilderness notices something and stops: 'I will turn aside now, and see this great sight, why the bush is not burnt. When Yahweh saw that he turned aside to see, God called to him.' C24's wonder — the call comes to the one who turns aside. 'Take your sandals off of your feet, for the place you are standing on is holy ground.' Then God's own description of his compassion: 'I have surely seen the affliction of my people who are in Egypt, and have heard their cry… for I know their sorrows. I have come down to deliver them.' C16's God who comes down. Moses's first answer is C22's: 'Who am I?' And God's name, given rather than defined: 'I AM WHO I AM.'</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c24.html">C24</a>
+<a class="tag" href="c22.html">C22</a>
+<a class="tag" href="c16.html">C16</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 4:10-17</p>
+<h2 class="entry-name">I am not eloquent… for I am slow of speech, and of a slow tongue… 'Who made man's mouth?… I will be with your mouth'… 'Oh, Lord, please send someone else.'</h2>
+<div class="passage">
+<p><span class="vn">10</span>Moses said to Yahweh, “O Lord, I am not eloquent, neither before now, nor since you have spoken to your servant; for I am slow of speech, and of a slow tongue.”</p>
+<p><span class="vn">11</span>Yahweh said to him, “Who made man’s mouth? Or who makes one mute, or deaf, or seeing, or blind? Isn’t it I, Yahweh?</p>
+<p><span class="vn">12</span>Now therefore go, and I will be with your mouth, and teach you what you shall speak.”</p>
+<p><span class="vn">13</span>He said, “Oh, Lord, please send someone else.”</p>
+<p><span class="vn">14</span>The anger of Yahweh was kindled against Moses, and he said, “What about Aaron, your brother, the Levite? I know that he can speak well. Also, behold, he comes out to meet you. When he sees you, he will be glad in his heart.</p>
+<p><span class="vn">15</span>You shall speak to him, and put the words in his mouth. I will be with your mouth, and with his mouth, and will teach you what you shall do.</p>
+<p><span class="vn">16</span>He will be your spokesman to the people; and it will happen, that he will be to you a mouth, and you will be to him as God.</p>
+<p><span class="vn">17</span>You shall take this rod in your hand, with which you shall do the signs.”</p>
+</div>
+<p class="conn">Moses's last objection is his limitation: 'O Lord, I am not eloquent… for I am slow of speech, and of a slow tongue.' God answers it with a question — 'Who made man's mouth? Or who makes one mute, or deaf, or seeing, or blind? Isn't it I, Yahweh?' — and a promise: 'I will be with your mouth, and teach you what you shall speak.' Then the plain refusal: 'Oh, Lord, please send someone else.' God is angry, and provides Aaron anyway. C22's humility, which can become an excuse, and C13's shared work — the task divided between two brothers.</p>
+<div class="tags">
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c22.html">C22</a>
+<a class="tag" href="c13.html">C13</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 14:13-14</p>
+<h2 class="entry-name">Don't be afraid. Stand still, and see the salvation of Yahweh… Yahweh will fight for you, and you shall be still</h2>
+<div class="passage">
+<p><span class="vn">13</span>Moses said to the people, “Don’t be afraid. Stand still, and see the salvation of Yahweh, which he will work for you today: for the Egyptians whom you have seen today, you shall never see them again.</p>
+<p><span class="vn">14</span>Yahweh will fight for you, and you shall be still.”</p>
+</div>
+<p class="conn">The sea in front, the army behind, the people panicking. 'Don't be afraid. Stand still, and see the salvation of Yahweh, which he will work for you today… Yahweh will fight for you, and you shall be still.' C22's quiet soul at the edge of the water.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c22.html">C22</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 16:13-30</p>
+<h2 class="entry-name">He who gathered much had nothing over, and he who gathered little had no lack… 'Let no one leave of it until the morning.'… it bred worms</h2>
+<div class="passage">
+<p><span class="vn">13</span>It happened at evening that quail came up and covered the camp; and in the morning the dew lay around the camp.</p>
+<p><span class="vn">14</span>When the dew that lay had gone, behold, on the surface of the wilderness was a small round thing, small as the frost on the ground.</p>
+<p><span class="vn">15</span>When the children of Israel saw it, they said one to another, “What is it?” For they didn’t know what it was. Moses said to them, “It is the bread which Yahweh has given you to eat.”</p>
+<p><span class="vn">16</span>This is the thing which Yahweh has commanded: “Gather of it everyone according to his eating; an omer a head, according to the number of your persons, you shall take it, every man for those who are in his tent.”</p>
+<p><span class="vn">17</span>The children of Israel did so, and gathered some more, some less.</p>
+<p><span class="vn">18</span>When they measured it with an omer, he who gathered much had nothing over, and he who gathered little had no lack. They gathered every man according to his eating.</p>
+<p><span class="vn">19</span>Moses said to them, “Let no one leave of it until the morning.”</p>
+<p><span class="vn">20</span>Notwithstanding they didn’t listen to Moses, but some of them left of it until the morning, and it bred worms, and became foul: and Moses was angry with them.</p>
+<p><span class="vn">21</span>They gathered it morning by morning, everyone according to his eating. When the sun grew hot, it melted.</p>
+<p><span class="vn">22</span>It happened that on the sixth day they gathered twice as much bread, two omers for each one, and all the rulers of the congregation came and told Moses.</p>
+<p><span class="vn">23</span>He said to them, “This is that which Yahweh has spoken, ‘Tomorrow is a solemn rest, a holy Sabbath to Yahweh. Bake that which you want to bake, and boil that which you want to boil; and all that remains over lay up for yourselves to be kept until the morning.’”</p>
+<p><span class="vn">24</span>They laid it up until the morning, as Moses asked, and it didn’t become foul, neither was there any worm in it.</p>
+<p><span class="vn">25</span>Moses said, “Eat that today, for today is a Sabbath to Yahweh. Today you shall not find it in the field.</p>
+<p><span class="vn">26</span>Six days you shall gather it, but on the seventh day is the Sabbath. In it there shall be none.”</p>
+<p><span class="vn">27</span>It happened on the seventh day, that some of the people went out to gather, and they found none.</p>
+<p><span class="vn">28</span>Yahweh said to Moses, “How long do you refuse to keep my commandments and my laws?</p>
+<p><span class="vn">29</span>Behold, because Yahweh has given you the Sabbath, therefore he gives you on the sixth day the bread of two days. Everyone stay in his place. Let no one go out of his place on the seventh day.”</p>
+<p><span class="vn">30</span>So the people rested on the seventh day.</p>
+</div>
+<p class="conn">Bread in the wilderness, given daily. 'Gather of it everyone according to his eating… The children of Israel did so, and gathered some more, some less. When they measured it with an omer, he who gathered much had nothing over, and he who gathered little had no lack.' Paul cites this at 2 Corinthians 8:15 as the principle of the collection — the Heavenly Palace's redistribution, built into the first economy of the people of God (medium). Then C18's lesson in hoarding: 'Let no one leave of it until the morning. Notwithstanding… some of them left of it until the morning, and it bred worms.' And C28's Sabbath, with a double portion the day before so that rest is possible. C13: 'morning by morning.'</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c18.html">C18</a>
+<a class="tag" href="c28.html">C28</a>
+<a class="tag" href="c13.html">C13</a>
+<a class="tag" href="a1.html">PR28</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 17:8-13</p>
+<h2 class="entry-name">Moses' hands were heavy; and they took a stone, and put it under him, and he sat on it. Aaron and Hur held up his hands, the one on the one side, and the other on the other side</h2>
+<div class="passage">
+<p><span class="vn">8</span>Then Amalek came and fought with Israel in Rephidim.</p>
+<p><span class="vn">9</span>Moses said to Joshua, “Choose men for us, and go out, fight with Amalek. Tomorrow I will stand on the top of the hill with God’s rod in my hand.”</p>
+<p><span class="vn">10</span>So Joshua did as Moses had told him, and fought with Amalek; and Moses, Aaron, and Hur went up to the top of the hill.</p>
+<p><span class="vn">11</span>It happened, when Moses held up his hand, that Israel prevailed; and when he let down his hand, Amalek prevailed.</p>
+<p><span class="vn">12</span>But Moses’ hands were heavy; and they took a stone, and put it under him, and he sat on it. Aaron and Hur held up his hands, the one on the one side, and the other on the other side. His hands were steady until sunset.</p>
+<p><span class="vn">13</span>Joshua defeated Amalek and his people with the edge of the sword.</p>
+</div>
+<p class="conn">During the battle, Moses holds up the staff on the hill. 'But Moses' hands were heavy; and they took a stone, and put it under him, and he sat on it. Aaron and Hur held up his hands, the one on the one side, and the other on the other side. His hands were steady until sunset.' The leader's weakness acknowledged, and supported by others without comment. C13's community, in which no one is strong enough alone, and C16's service to the one who serves. The battle itself is not indexed.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c13.html">C13</a>
+<a class="tag" href="c16.html">C16</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 18:13-27</p>
+<h2 class="entry-name">The thing that you do is not good. You will surely wear away… for the thing is too heavy for you. You are not able to perform it yourself alone… So Moses listened to the voice of his father-in-law</h2>
+<div class="passage">
+<p><span class="vn">13</span>It happened on the next day, that Moses sat to judge the people, and the people stood around Moses from the morning to the evening.</p>
+<p><span class="vn">14</span>When Moses’ father-in-law saw all that he did to the people, he said, “What is this thing that you do for the people? Why do you sit alone, and all the people stand around you from morning to evening?”</p>
+<p><span class="vn">15</span>Moses said to his father-in-law, “Because the people come to me to inquire of God.</p>
+<p><span class="vn">16</span>When they have a matter, they come to me, and I judge between a man and his neighbor, and I make them know the statutes of God, and his laws.”</p>
+<p><span class="vn">17</span>Moses’ father-in-law said to him, “The thing that you do is not good.</p>
+<p><span class="vn">18</span>You will surely wear away, both you, and this people that is with you; for the thing is too heavy for you. You are not able to perform it yourself alone.</p>
+<p><span class="vn">19</span>Listen now to my voice. I will give you counsel, and God be with you. You represent the people before God, and bring the causes to God.</p>
+<p><span class="vn">20</span>You shall teach them the statutes and the laws, and shall show them the way in which they must walk, and the work that they must do.</p>
+<p><span class="vn">21</span>Moreover you shall provide out of all the people able men, such as fear God: men of truth, hating unjust gain; and place such over them, to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.</p>
+<p><span class="vn">22</span>Let them judge the people at all times. It shall be that every great matter they shall bring to you, but every small matter they shall judge themselves. So shall it be easier for you, and they shall share the load with you.</p>
+<p><span class="vn">23</span>If you will do this thing, and God commands you so, then you will be able to endure, and all of these people also will go to their place in peace.”</p>
+<p><span class="vn">24</span>So Moses listened to the voice of his father-in-law, and did all that he had said.</p>
+<p><span class="vn">25</span>Moses chose able men out of all Israel, and made them heads over the people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.</p>
+<p><span class="vn">26</span>They judged the people at all times. They brought the hard causes to Moses, but every small matter they judged themselves.</p>
+<p><span class="vn">27</span>Moses let his father-in-law depart, and he went his way into his own land.</p>
+</div>
+<p class="conn">Moses judging the people 'from the morning to the evening,' alone. His father-in-law, a Midianite priest, watches for a day and says so: 'The thing that you do is not good. You will surely wear away, both you, and this people that is with you; for the thing is too heavy for you. You are not able to perform it yourself alone.' The counsel is practical — share the load with 'able men, such as fear God: men of truth, hating unjust gain' — and the result is peace: 'all of these people also will go to their place in peace.' The greatest leader in Israel takes advice from a foreigner: 'So Moses listened to the voice of his father-in-law, and did all that he had said.' Listening as Mercy received rather than given (medium). C13, C22 and C15.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c13.html">C13</a>
+<a class="tag" href="c22.html">C22</a>
+<a class="tag" href="c15.html">C15</a>
+<a class="tag" href="a1.html">PR16</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 20:1-17</p>
+<h2 class="entry-name">I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage… Remember the Sabbath day… You shall not covet</h2>
+<div class="passage">
+<p><span class="vn">1</span>God spoke all these words, saying,</p>
+<p><span class="vn">2</span>“I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage.</p>
+<p><span class="vn">3</span>“You shall have no other gods before me.</p>
+<p><span class="vn">4</span>“You shall not make for yourselves an idol, nor any image of anything that is in the heavens above, or that is in the earth beneath, or that is in the water under the earth:</p>
+<p><span class="vn">5</span>you shall not bow yourself down to them, nor serve them, for I, Yahweh your God, am a jealous God, visiting the iniquity of the fathers on the children, on the third and on the fourth generation of those who hate me,</p>
+<p><span class="vn">6</span>and showing loving kindness to thousands of those who love me and keep my commandments.</p>
+<p><span class="vn">7</span>“You shall not take the name of Yahweh your God in vain, for Yahweh will not hold him guiltless who takes his name in vain.</p>
+<p><span class="vn">8</span>“Remember the Sabbath day, to keep it holy.</p>
+<p><span class="vn">9</span>You shall labor six days, and do all your work,</p>
+<p><span class="vn">10</span>but the seventh day is a Sabbath to Yahweh your God. You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates;</p>
+<p><span class="vn">11</span>for in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore Yahweh blessed the Sabbath day, and made it holy.</p>
+<p><span class="vn">12</span>“Honor your father and your mother, that your days may be long in the land which Yahweh your God gives you.</p>
+<p><span class="vn">13</span>“You shall not murder.</p>
+<p><span class="vn">14</span>“You shall not commit adultery.</p>
+<p><span class="vn">15</span>“You shall not steal.</p>
+<p><span class="vn">16</span>“You shall not give false testimony against your neighbor.</p>
+<p><span class="vn">17</span>“You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor’s.”</p>
+</div>
+<p class="conn">The Ten Words begin not with a command but with what God has done: 'I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage.' The law follows rescue. C01's moral structure, with C28's Sabbath at its centre — extended to 'your male servant… your female servant… your livestock… your stranger who is within your gates' — and C04's mirror at its end, where the last command reaches past action into desire: 'You shall not covet.' Deuteronomy 5 is indexed with its own note on the different Sabbath rationale.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c01.html">C01</a>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="c28.html">C28</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 22:21-27</p>
+<h2 class="entry-name">You shall not wrong an alien… for you were aliens in the land of Egypt… If you take your neighbor's garment as collateral, you shall restore it to him before the sun goes down… What would he sleep in?… for I am gracious</h2>
+<div class="passage">
+<p><span class="vn">21</span>“You shall not wrong an alien, neither shall you oppress him, for you were aliens in the land of Egypt.</p>
+<p><span class="vn">22</span>“You shall not take advantage of any widow or fatherless child.</p>
+<p><span class="vn">23</span>If you take advantage of them at all, and they cry at all to me, I will surely hear their cry;</p>
+<p><span class="vn">24</span>and my wrath will grow hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.</p>
+<p><span class="vn">25</span>“If you lend money to any of my people with you who is poor, you shall not be to him as a creditor; neither shall you charge him interest.</p>
+<p><span class="vn">26</span>If you take your neighbor’s garment as collateral, you shall restore it to him before the sun goes down,</p>
+<p><span class="vn">27</span>for that is his only covering, it is his garment for his skin. What would he sleep in? It will happen, when he cries to me, that I will hear, for I am gracious.</p>
+</div>
+<p class="conn">The law's protection of those without protection: 'You shall not wrong an alien, neither shall you oppress him, for you were aliens in the land of Egypt. You shall not take advantage of any widow or fatherless child.' Loans to the poor without interest — Habitual Almsgiving's companion in the economy of lending (medium). And the most concrete instruction in the law code: 'If you take your neighbor's garment as collateral, you shall restore it to him before the sun goes down, for that is his only covering… What would he sleep in? It will happen, when he cries to me, that I will hear, for I am gracious.' The law asks the lender to imagine the borrower's night. C16, C27 and C03.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="a1.html">PR05</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 23:1-9</p>
+<h2 class="entry-name">You shall not follow a crowd to do evil… If you see the donkey of him who hates you fallen down under his burden, don't leave him, you shall surely help him with it… for you know the heart of an alien</h2>
+<div class="passage">
+<p><span class="vn">1</span>“You shall not spread a false report. Don’t join your hand with the wicked to be a malicious witness.</p>
+<p><span class="vn">2</span>“You shall not follow a crowd to do evil; neither shall you testify in court to side with a multitude to pervert justice;</p>
+<p><span class="vn">3</span>neither shall you favor a poor man in his cause.</p>
+<p><span class="vn">4</span>“If you meet your enemy’s ox or his donkey going astray, you shall surely bring it back to him again.</p>
+<p><span class="vn">5</span>If you see the donkey of him who hates you fallen down under his burden, don’t leave him, you shall surely help him with it.</p>
+<p><span class="vn">6</span>“You shall not deny justice to your poor people in their lawsuits.</p>
+<p><span class="vn">7</span>“Keep far from a false charge, and don’t kill the innocent and righteous: for I will not justify the wicked.</p>
+<p><span class="vn">8</span>“You shall take no bribe, for a bribe blinds those who have sight and perverts the words of the righteous.</p>
+<p><span class="vn">9</span>“You shall not oppress an alien, for you know the heart of an alien, since you were aliens in the land of Egypt.</p>
+</div>
+<p class="conn">Honest witness and impartial courts: 'You shall not follow a crowd to do evil; neither shall you testify in court to side with a multitude to pervert justice… You shall take no bribe, for a bribe blinds those who have sight.' C08. Then the enemy's animals: 'If you meet your enemy's ox or his donkey going astray, you shall surely bring it back to him again. If you see the donkey of him who hates you fallen down under his burden, don't leave him, you shall surely help him with it.' Non-Retaliation and Shedding Harshness given in the law itself, centuries before the Sermon — practical help to the person who hates you (medium for PR15). C03. And the ground of care for the stranger is memory: 'for you know the heart of an alien, since you were aliens in the land of Egypt.' C27.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S2 Perception</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="c08.html">C08</a>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="a1.html">PR06</a>
+<a class="tag" href="a1.html">PR15</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 32:1-14</p>
+<h2 class="entry-name">Come, make us gods… these are your gods, Israel… 'Turn from your fierce wrath, and repent of this evil against your people'</h2>
+<div class="passage">
+<p><span class="vn">1</span>When the people saw that Moses delayed to come down from the mountain, the people gathered themselves together to Aaron, and said to him, “Come, make us gods, which shall go before us; for as for this Moses, the man who brought us up out of the land of Egypt, we don’t know what has become of him.”</p>
+<p><span class="vn">2</span>Aaron said to them, “Take off the golden rings, which are in the ears of your wives, of your sons, and of your daughters, and bring them to me.”</p>
+<p><span class="vn">3</span>All the people took off the golden rings which were in their ears, and brought them to Aaron.</p>
+<p><span class="vn">4</span>He received what they handed him, and fashioned it with an engraving tool, and made it a molten calf; and they said, “These are your gods, Israel, which brought you up out of the land of Egypt.”</p>
+<p><span class="vn">5</span>When Aaron saw this, he built an altar before it; and Aaron made a proclamation, and said, “Tomorrow shall be a feast to Yahweh.”</p>
+<p><span class="vn">6</span>They rose up early on the next day, and offered burnt offerings, and brought peace offerings; and the people sat down to eat and to drink, and rose up to play.</p>
+<p><span class="vn">7</span>Yahweh spoke to Moses, “Go, get down; for your people, who you brought up out of the land of Egypt, have corrupted themselves!</p>
+<p><span class="vn">8</span>They have turned aside quickly out of the way which I commanded them. They have made themselves a molten calf, and have worshiped it, and have sacrificed to it, and said, ‘These are your gods, Israel, which brought you up out of the land of Egypt.’”</p>
+<p><span class="vn">9</span>Yahweh said to Moses, “I have seen these people, and behold, they are a stiff-necked people.</p>
+<p><span class="vn">10</span>Now therefore leave me alone, that my wrath may burn hot against them, and that I may consume them; and I will make of you a great nation.”</p>
+<p><span class="vn">11</span>Moses begged Yahweh his God, and said, “Yahweh, why does your wrath burn hot against your people, that you have brought out of the land of Egypt with great power and with a mighty hand?</p>
+<p><span class="vn">12</span>Why should the Egyptians speak, saying, ‘He brought them forth for evil, to kill them in the mountains, and to consume them from the surface of the earth?’ Turn from your fierce wrath, and repent of this evil against your people.</p>
+<p><span class="vn">13</span>Remember Abraham, Isaac, and Israel, your servants, to whom you swore by your own self, and said to them, ‘I will multiply your seed as the stars of the sky, and all this land that I have spoken of I will give to your seed, and they shall inherit it forever.’”</p>
+<p><span class="vn">14</span>Yahweh repented of the evil which he said he would do to his people.</p>
+</div>
+<p class="conn">Forty days of waiting, and the people give up: 'as for this Moses… we don't know what has become of him.' C21's anatomy of impatience turning to idolatry, with Aaron's complicity — 'Tomorrow shall be a feast to Yahweh.' God offers Moses a new nation from himself. Moses refuses and pleads for the people: 'Turn from your fierce wrath, and repent of this evil against your people. Remember Abraham, Isaac, and Israel.' Shedding Harshness in a leader who has just been betrayed — the circle of concern held open for those who did not deserve it (medium). C27. 'Yahweh repented of the evil.' The killings of 32:25-29 are not indexed.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="a1.html">PR15</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 32:30-32</p>
+<h2 class="entry-name">Yet now, if you will, forgive their sin—and if not, please blot me out of your book which you have written</h2>
+<div class="passage">
+<p><span class="vn">30</span>It happened on the next day, that Moses said to the people, “You have sinned a great sin. Now I will go up to Yahweh. Perhaps I shall make atonement for your sin.”</p>
+<p><span class="vn">31</span>Moses returned to Yahweh, and said, “Oh, this people have sinned a great sin, and have made themselves gods of gold.</p>
+<p><span class="vn">32</span>Yet now, if you will, forgive their sin—and if not, please blot me out of your book which you have written.”</p>
+</div>
+<p class="conn">'You have sinned a great sin. Now I will go up to Yahweh. Perhaps I shall make atonement for your sin.' The prayer: 'Oh, this people have sinned a great sin, and have made themselves gods of gold. Yet now, if you will, forgive their sin — and if not, please blot me out of your book which you have written.' The intercessor names the sin without softening it and offers himself in place of the guilty. Paul echoes it at Romans 9:3. Shedding Harshness at its summit (medium). C27 and C16.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="a1.html">PR15</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 33:12-23</p>
+<h2 class="entry-name">If your presence doesn't go with me, don't carry us up from here… 'Please show me your glory.'… 'You cannot see my face… you will see my back'</h2>
+<div class="passage">
+<p><span class="vn">12</span>Moses said to Yahweh, “Behold, you tell me, ‘Bring up this people:’ and you haven’t let me know whom you will send with me. Yet you have said, ‘I know you by name, and you have also found favor in my sight.’</p>
+<p><span class="vn">13</span>Now therefore, if I have found favor in your sight, please show me now your ways, that I may know you, so that I may find favor in your sight: and consider that this nation is your people.”</p>
+<p><span class="vn">14</span>He said, “My presence will go with you, and I will give you rest.”</p>
+<p><span class="vn">15</span>He said to him, “If your presence doesn’t go with me, don’t carry us up from here.</p>
+<p><span class="vn">16</span>For how would people know that I have found favor in your sight, I and your people? Isn’t it in that you go with us, so that we are separated, I and your people, from all the people who are on the surface of the earth?”</p>
+<p><span class="vn">17</span>Yahweh said to Moses, “I will do this thing also that you have spoken; for you have found favor in my sight, and I know you by name.”</p>
+<p><span class="vn">18</span>He said, “Please show me your glory.”</p>
+<p><span class="vn">19</span>He said, “I will make all my goodness pass before you, and will proclaim the name of Yahweh before you. I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.”</p>
+<p><span class="vn">20</span>He said, “You cannot see my face, for man may not see me and live.”</p>
+<p><span class="vn">21</span>Yahweh also said, “Behold, there is a place by me, and you shall stand on the rock.</p>
+<p><span class="vn">22</span>It will happen, while my glory passes by, that I will put you in a cleft of the rock, and will cover you with my hand until I have passed by;</p>
+<p><span class="vn">23</span>then I will take away my hand, and you will see my back; but my face shall not be seen.”</p>
+</div>
+<p class="conn">Moses will not go on without God: 'If your presence doesn't go with me, don't carry us up from here.' C09's intimacy — 'I know you by name.' Then the boldest request in the Torah: 'Please show me your glory.' The answer is generous and limited: 'I will make all my goodness pass before you… But… You cannot see my face, for man may not see me and live… I will put you in a cleft of the rock, and will cover you with my hand until I have passed by; then I will take away my hand, and you will see my back.' The Discipline of Unknowing as a gift — the hand that covers is also a shelter (medium). C24.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c09.html">C09</a>
+<a class="tag" href="c24.html">C24</a>
+<a class="tag" href="a1.html">PR04</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 34:5-9</p>
+<h2 class="entry-name">Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth, keeping loving kindness for thousands, forgiving iniquity and disobedience and sin</h2>
+<div class="passage">
+<p><span class="vn">5</span>Yahweh descended in the cloud, and stood with him there, and proclaimed the name of Yahweh.</p>
+<p><span class="vn">6</span>Yahweh passed by before him, and proclaimed, “Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth,</p>
+<p><span class="vn">7</span>keeping loving kindness for thousands, forgiving iniquity and disobedience and sin; and that will by no means clear the guilty, visiting the iniquity of the fathers on the children, and on the children’s children, on the third and on the fourth generation.”</p>
+<p><span class="vn">8</span>Moses hurried and bowed his head toward the earth, and worshiped.</p>
+<p><span class="vn">9</span>He said, “If now I have found favor in your sight, Lord, please let the Lord go in the midst of us; although this is a stiff-necked people; pardon our iniquity and our sin, and take us for your inheritance.”</p>
+</div>
+<p class="conn">The glory passes, and what Moses receives is not a sight but a name: 'Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth, keeping loving kindness for thousands, forgiving iniquity and disobedience and sin; and that will by no means clear the guilty.' God's self-description, quoted more often inside the Old Testament than any other passage (Numbers 14, Nehemiah 9, Psalms 86, 103 and 145, Joel 2, Jonah 4). Mercy and truth held together in God's own character — the two pillars of this road named at their source. C19, C03 and C01. Moses's response is to bow and ask for pardon for 'a stiff-necked people.'</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="c01.html">C01</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 34:29-35</p>
+<h2 class="entry-name">Moses didn't know that the skin of his face shone by reason of his speaking with him… he put a veil on his face</h2>
+<div class="passage">
+<p><span class="vn">29</span>It happened, when Moses came down from Mount Sinai with the two tablets of the testimony in Moses’ hand, when he came down from the mountain, that Moses didn’t know that the skin of his face shone by reason of his speaking with him.</p>
+<p><span class="vn">30</span>When Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come near him.</p>
+<p><span class="vn">31</span>Moses called to them, and Aaron and all the rulers of the congregation returned to him; and Moses spoke to them.</p>
+<p><span class="vn">32</span>Afterward all the children of Israel came near, and he gave them all of the commandments that Yahweh had spoken with him on Mount Sinai.</p>
+<p><span class="vn">33</span>When Moses was done speaking with them, he put a veil on his face.</p>
+<p><span class="vn">34</span>But when Moses went in before Yahweh to speak with him, he took the veil off, until he came out; and he came out, and spoke to the children of Israel that which he was commanded.</p>
+<p><span class="vn">35</span>The children of Israel saw Moses’ face, that the skin of Moses’ face shone: and Moses put the veil on his face again, until he went in to speak with him.</p>
+</div>
+<p class="conn">Coming down from forty days with God, 'Moses didn't know that the skin of his face shone by reason of his speaking with him.' The radiance is visible to everyone but him. The Hidden Life's mark — transformation that the one transformed does not notice and does not display (medium). He veils his face among the people and removes the veil before God. C23's hiddenness and C26's light. Paul reads the veil at 2 Corinthians 3:7-18, which is indexed.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c23.html">C23</a>
+<a class="tag" href="c26.html">C26</a>
+<a class="tag" href="a1.html">PR13</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Exodus 36:2-7</p>
+<h2 class="entry-name">Everyone whose heart stirred him up… The people bring much more than enough… So the people were restrained from bringing</h2>
+<div class="passage">
+<p><span class="vn">2</span>Moses called Bezalel and Oholiab, and every wise-hearted man, in whose heart Yahweh had put wisdom, even everyone whose heart stirred him up to come to the work to do it:</p>
+<p><span class="vn">3</span>and they received from Moses all the offering which the children of Israel had brought for the work of the service of the sanctuary, with which to make it. They brought yet to him freewill offerings every morning.</p>
+<p><span class="vn">4</span>All the wise men, who performed all the work of the sanctuary, each came from his work which they did.</p>
+<p><span class="vn">5</span>They spoke to Moses, saying, “The people bring much more than enough for the service of the work which Yahweh commanded to make.”</p>
+<p><span class="vn">6</span>Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, “Let neither man nor woman make anything else for the offering for the sanctuary.” So the people were restrained from bringing.</p>
+<p><span class="vn">7</span>For the stuff they had was sufficient for all the work to make it, and too much.</p>
+</div>
+<p class="conn">The tabernacle is built by 'everyone whose heart stirred him up to come to the work,' and supplied by freewill offerings brought 'every morning.' The craftsmen stop working to report: 'The people bring much more than enough for the service of the work.' 'So the people were restrained from bringing.' Habitual Almsgiving as willing, rhythmic and so generous it has to be stopped (medium). C16 and C13.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="c13.html">C13</a>
+<a class="tag" href="a1.html">PR05</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+</div>
+</article>
+<nav class="docnav">
+<p class="rule-orn orn"><span>✦</span></p>
+<p class="nav-hub"><a href="scripture.html">All indexed books</a> · <a href="index.html">Table of contents</a></p>
+</nav>
+</main></body></html>

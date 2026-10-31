@@ -51,6 +51,7 @@ the first fourteen.
 | Ezra | 4 | `reviews/ezra-package.md` | 9:5-9 (PR03; the coverage note on chapter 10); 3:10-13 (PR08 beside praise) |
 | Nehemiah | 5 | `reviews/nehemiah-package.md` | 5:1-19 (PR28 + PR01 — usury ended, governor's allowance refused); 8:1-12 (PR05 — "send portions to him for whom nothing is prepared"); 1:3-11 (PR08 + PR03); 2:1-8 (the prayer between two sentences) |
 | Esther | 2 | `reviews/esther-package.md` | 4:10-17 (PR10); 9:20-22 (PR05); the coverage note |
+| Exodus | 17 | `reviews/exodus-package.md` | 34:5-9 (mercy and truth in God's self-description — the two pillars at their source); 34:29-35 (PR13 — Moses unaware his face shone); 16:13-30 (PR28 — "he who gathered much had nothing over"); 23:1-9 (PR06 + PR15 — the enemy's donkey); 22:21-27 (PR05 — the cloak before sundown); 32:30-32 (PR15); 18:13-27 (PR16 received from Jethro); 1:15-21 (PR10 — the midwives) |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

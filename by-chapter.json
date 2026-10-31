@@ -301,6 +301,32 @@
         "source_file": "ecclesiastes.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 20:1-17",
+        "name": "I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage… Remember the Sabbath day… You shall not covet",
+        "chapters": [
+          "C01",
+          "C04",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 34:5-9",
+        "name": "Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth, keeping loving kindness for thousands, forgiving iniquity and disobedience and sin",
+        "chapters": [
+          "C01",
+          "C03",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 6:6-10",
         "name": "Let us not be weary in doing good, for we will reap in due season, if we don't give up",
@@ -1361,6 +1387,62 @@
         "practices": [],
         "tags": [],
         "source_file": "amos.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 22:21-27",
+        "name": "You shall not wrong an alien… for you were aliens in the land of Egypt… If you take your neighbor's garment as collateral, you shall restore it to him before the sun goes down… What would he sleep in?… for I am gracious",
+        "chapters": [
+          "C03",
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 23:1-9",
+        "name": "You shall not follow a crowd to do evil… If you see the donkey of him who hates you fallen down under his burden, don't leave him, you shall surely help him with it… for you know the heart of an alien",
+        "chapters": [
+          "C03",
+          "C08",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 2:5-10",
+        "name": "She opened it, and saw the child, and behold, the baby cried. She had compassion on him, and said, 'This is one of the Hebrews' children.'",
+        "chapters": [
+          "C03",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 34:5-9",
+        "name": "Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth, keeping loving kindness for thousands, forgiving iniquity and disobedience and sin",
+        "chapters": [
+          "C01",
+          "C03",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Genesis.Json",
@@ -2433,6 +2515,19 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 20:1-17",
+        "name": "I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage… Remember the Sabbath day… You shall not covet",
+        "chapters": [
+          "C01",
+          "C04",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Ezekiel.Json",
@@ -5856,6 +5951,22 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 23:1-9",
+        "name": "You shall not follow a crowd to do evil… If you see the donkey of him who hates you fallen down under his burden, don't leave him, you shall surely help him with it… for you know the heart of an alien",
+        "chapters": [
+          "C03",
+          "C08",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Ezekiel.Json",
         "reference": "Ezekiel 2:1-3:11",
         "name": "Whether they will hear, or whether they will forbear… don't be afraid of their words… all my words that I shall speak to you receive in your heart",
@@ -6869,6 +6980,20 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 33:12-23",
+        "name": "If your presence doesn't go with me, don't carry us up from here… 'Please show me your glory.'… 'You cannot see my face… you will see my back'",
+        "chapters": [
+          "C09",
+          "C24"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Genesis.Json",
@@ -10316,6 +10441,74 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 16:13-30",
+        "name": "He who gathered much had nothing over, and he who gathered little had no lack… 'Let no one leave of it until the morning.'… it bred worms",
+        "chapters": [
+          "C13",
+          "C18",
+          "C28"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 17:8-13",
+        "name": "Moses' hands were heavy; and they took a stone, and put it under him, and he sat on it. Aaron and Hur held up his hands, the one on the one side, and the other on the other side",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 18:13-27",
+        "name": "The thing that you do is not good. You will surely wear away… for the thing is too heavy for you. You are not able to perform it yourself alone… So Moses listened to the voice of his father-in-law",
+        "chapters": [
+          "C13",
+          "C15",
+          "C22"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 36:2-7",
+        "name": "Everyone whose heart stirred him up… The people bring much more than enough… So the people were restrained from bringing",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 4:10-17",
+        "name": "I am not eloquent… for I am slow of speech, and of a slow tongue… 'Who made man's mouth?… I will be with your mouth'… 'Oh, Lord, please send someone else.'",
+        "chapters": [
+          "C13",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Ezra.Json",
         "reference": "Ezra 3:10-13",
         "name": "The old men who had seen the first house… wept with a loud voice; and many shouted aloud for joy: so that the people could not discern the noise of the shout of joy from the noise of the weeping",
@@ -12714,6 +12907,21 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 18:13-27",
+        "name": "The thing that you do is not good. You will surely wear away… for the thing is too heavy for you. You are not able to perform it yourself alone… So Moses listened to the voice of his father-in-law",
+        "chapters": [
+          "C13",
+          "C15",
+          "C22"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 2:1-10",
         "name": "They only asked us to remember the poor — which very thing I was also zealous to do",
@@ -14804,6 +15012,88 @@
         ],
         "tags": [],
         "source_file": "esther.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 17:8-13",
+        "name": "Moses' hands were heavy; and they took a stone, and put it under him, and he sat on it. Aaron and Hur held up his hands, the one on the one side, and the other on the other side",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 1:15-21",
+        "name": "But the midwives feared God, and didn't do what the king of Egypt commanded them, but saved the baby boys alive",
+        "chapters": [
+          "C16",
+          "C17"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 22:21-27",
+        "name": "You shall not wrong an alien… for you were aliens in the land of Egypt… If you take your neighbor's garment as collateral, you shall restore it to him before the sun goes down… What would he sleep in?… for I am gracious",
+        "chapters": [
+          "C03",
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 32:30-32",
+        "name": "Yet now, if you will, forgive their sin—and if not, please blot me out of your book which you have written",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 36:2-7",
+        "name": "Everyone whose heart stirred him up… The people bring much more than enough… So the people were restrained from bringing",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 3:1-14",
+        "name": "I will turn aside now, and see this great sight… I have surely seen the affliction of my people… for I know their sorrows… 'Who am I, that I should go to Pharaoh?'",
+        "chapters": [
+          "C16",
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Ezekiel.Json",
@@ -16927,6 +17217,20 @@
         "source_file": "esther.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 1:15-21",
+        "name": "But the midwives feared God, and didn't do what the king of Egypt commanded them, but saved the baby boys alive",
+        "chapters": [
+          "C16",
+          "C17"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 12:1-9",
         "name": "Get out of your country… to the land that I will show you",
@@ -18241,6 +18545,21 @@
         "practices": [],
         "tags": [],
         "source_file": "ecclesiastes.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 16:13-30",
+        "name": "He who gathered much had nothing over, and he who gathered little had no lack… 'Let no one leave of it until the morning.'… it bred worms",
+        "chapters": [
+          "C13",
+          "C18",
+          "C28"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Ezekiel.Json",
@@ -20211,6 +20530,19 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 34:5-9",
+        "name": "Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth, keeping loving kindness for thousands, forgiving iniquity and disobedience and sin",
+        "chapters": [
+          "C01",
+          "C03",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Ezekiel.Json",
@@ -24853,6 +25185,32 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 2:11-15",
+        "name": "He looked this way and that way, and when he saw that there was no one, he killed the Egyptian, and hid him in the sand",
+        "chapters": [
+          "C21",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 32:1-14",
+        "name": "Come, make us gods… these are your gods, Israel… 'Turn from your fierce wrath, and repent of this evil against your people'",
+        "chapters": [
+          "C21",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Ezekiel.Json",
         "reference": "Ezekiel 34:1-16",
         "name": "You haven't strengthened the diseased, neither have you healed that which was sick, neither have you bound up that which was broken… I myself will be the shepherd of my sheep… I will seek that which was lost",
@@ -26515,6 +26873,57 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 14:13-14",
+        "name": "Don't be afraid. Stand still, and see the salvation of Yahweh… Yahweh will fight for you, and you shall be still",
+        "chapters": [
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 18:13-27",
+        "name": "The thing that you do is not good. You will surely wear away… for the thing is too heavy for you. You are not able to perform it yourself alone… So Moses listened to the voice of his father-in-law",
+        "chapters": [
+          "C13",
+          "C15",
+          "C22"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 3:1-14",
+        "name": "I will turn aside now, and see this great sight… I have surely seen the affliction of my people… for I know their sorrows… 'Who am I, that I should go to Pharaoh?'",
+        "chapters": [
+          "C16",
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 4:10-17",
+        "name": "I am not eloquent… for I am slow of speech, and of a slow tongue… 'Who made man's mouth?… I will be with your mouth'… 'Oh, Lord, please send someone else.'",
+        "chapters": [
+          "C13",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Ezekiel.Json",
         "reference": "Ezekiel 16:49-50",
         "name": "This was the iniquity of your sister Sodom: pride, fullness of bread, and prosperous ease was in her and in her daughters; neither did she strengthen the hand of the poor and needy",
@@ -28016,6 +28425,20 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 34:29-35",
+        "name": "Moses didn't know that the skin of his face shone by reason of his speaking with him… he put a veil on his face",
+        "chapters": [
+          "C23",
+          "C26"
+        ],
+        "practices": [
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 1:11-24",
         "name": "He who once persecuted us now preaches the faith that he once tried to destroy. And they glorified God in me",
@@ -28963,6 +29386,33 @@
         ],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 33:12-23",
+        "name": "If your presence doesn't go with me, don't carry us up from here… 'Please show me your glory.'… 'You cannot see my face… you will see my back'",
+        "chapters": [
+          "C09",
+          "C24"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 3:1-14",
+        "name": "I will turn aside now, and see this great sight… I have surely seen the affliction of my people… for I know their sorrows… 'Who am I, that I should go to Pharaoh?'",
+        "chapters": [
+          "C16",
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Galatians.Json",
@@ -30169,6 +30619,18 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 2:11-15",
+        "name": "He looked this way and that way, and when he saw that there was no one, he killed the Egyptian, and hid him in the sand",
+        "chapters": [
+          "C21",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Ezekiel.Json",
@@ -31393,6 +31855,20 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 34:29-35",
+        "name": "Moses didn't know that the skin of his face shone by reason of his speaking with him… he put a veil on his face",
+        "chapters": [
+          "C23",
+          "C26"
+        ],
+        "practices": [
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Ezekiel.Json",
         "reference": "Ezekiel 11:17-20",
         "name": "I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them a heart of flesh",
@@ -32306,6 +32782,77 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 22:21-27",
+        "name": "You shall not wrong an alien… for you were aliens in the land of Egypt… If you take your neighbor's garment as collateral, you shall restore it to him before the sun goes down… What would he sleep in?… for I am gracious",
+        "chapters": [
+          "C03",
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 23:1-9",
+        "name": "You shall not follow a crowd to do evil… If you see the donkey of him who hates you fallen down under his burden, don't leave him, you shall surely help him with it… for you know the heart of an alien",
+        "chapters": [
+          "C03",
+          "C08",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 2:5-10",
+        "name": "She opened it, and saw the child, and behold, the baby cried. She had compassion on him, and said, 'This is one of the Hebrews' children.'",
+        "chapters": [
+          "C03",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 32:1-14",
+        "name": "Come, make us gods… these are your gods, Israel… 'Turn from your fierce wrath, and repent of this evil against your people'",
+        "chapters": [
+          "C21",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 32:30-32",
+        "name": "Yet now, if you will, forgive their sin—and if not, please blot me out of your book which you have written",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Galatians.Json",
@@ -33558,6 +34105,34 @@
         ],
         "tags": [],
         "source_file": "esther.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 16:13-30",
+        "name": "He who gathered much had nothing over, and he who gathered little had no lack… 'Let no one leave of it until the morning.'… it bred worms",
+        "chapters": [
+          "C13",
+          "C18",
+          "C28"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 20:1-17",
+        "name": "I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage… Remember the Sabbath day… You shall not covet",
+        "chapters": [
+          "C01",
+          "C04",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Genesis.Json",
@@ -36164,6 +36739,20 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 33:12-23",
+        "name": "If your presence doesn't go with me, don't carry us up from here… 'Please show me your glory.'… 'You cannot see my face… you will see my back'",
+        "chapters": [
+          "C09",
+          "C24"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Ezekiel.Json",
         "reference": "Ezekiel 37:1-14",
         "name": "Son of man, can these bones live? I answered, Lord Yahweh, you know… Our bones are dried up, and our hope is lost… I will put my Spirit in you, and you shall live",
@@ -37080,6 +37669,35 @@
         "source_file": "esther.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 22:21-27",
+        "name": "You shall not wrong an alien… for you were aliens in the land of Egypt… If you take your neighbor's garment as collateral, you shall restore it to him before the sun goes down… What would he sleep in?… for I am gracious",
+        "chapters": [
+          "C03",
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 36:2-7",
+        "name": "Everyone whose heart stirred him up… The people bring much more than enough… So the people were restrained from bringing",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 2:1-10",
         "name": "They only asked us to remember the poor — which very thing I was also zealous to do",
@@ -37726,6 +38344,22 @@
         ],
         "tags": [],
         "source_file": "acts.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 23:1-9",
+        "name": "You shall not follow a crowd to do evil… If you see the donkey of him who hates you fallen down under his burden, don't leave him, you shall surely help him with it… for you know the heart of an alien",
+        "chapters": [
+          "C03",
+          "C08",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Genesis.Json",
@@ -40229,6 +40863,20 @@
         "source_file": "esther.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 1:15-21",
+        "name": "But the midwives feared God, and didn't do what the king of Egypt commanded them, but saved the baby boys alive",
+        "chapters": [
+          "C16",
+          "C17"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 23:1-20",
         "name": "I am a stranger and a foreigner living with you",
@@ -41879,6 +42527,20 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 34:29-35",
+        "name": "Moses didn't know that the skin of his face shone by reason of his speaking with him… he put a veil on his face",
+        "chapters": [
+          "C23",
+          "C26"
+        ],
+        "practices": [
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 11:1-9",
         "name": "Let's make ourselves a name",
@@ -42844,6 +43506,50 @@
         "source_file": "amos.json"
       },
       {
+        "book": "Exodus.Json",
+        "reference": "Exodus 23:1-9",
+        "name": "You shall not follow a crowd to do evil… If you see the donkey of him who hates you fallen down under his burden, don't leave him, you shall surely help him with it… for you know the heart of an alien",
+        "chapters": [
+          "C03",
+          "C08",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 32:1-14",
+        "name": "Come, make us gods… these are your gods, Israel… 'Turn from your fierce wrath, and repent of this evil against your people'",
+        "chapters": [
+          "C21",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 32:30-32",
+        "name": "Yet now, if you will, forgive their sin—and if not, please blot me out of your book which you have written",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 18:16-33",
         "name": "Shouldn't the Judge of all the earth do right?",
@@ -43214,6 +43920,21 @@
         ],
         "tags": [],
         "source_file": "acts.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 18:13-27",
+        "name": "The thing that you do is not good. You will surely wear away… for the thing is too heavy for you. You are not able to perform it yourself alone… So Moses listened to the voice of his father-in-law",
+        "chapters": [
+          "C13",
+          "C15",
+          "C22"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Ezekiel.Json",
@@ -45113,6 +45834,21 @@
         ],
         "tags": [],
         "source_file": "ecclesiastes.json"
+      },
+      {
+        "book": "Exodus.Json",
+        "reference": "Exodus 16:13-30",
+        "name": "He who gathered much had nothing over, and he who gathered little had no lack… 'Let no one leave of it until the morning.'… it bred worms",
+        "chapters": [
+          "C13",
+          "C18",
+          "C28"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "exodus.json"
       },
       {
         "book": "Ezekiel.Json",

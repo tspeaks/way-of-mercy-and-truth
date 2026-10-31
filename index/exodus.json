@@ -1,0 +1,410 @@
+{
+  "book": "Exodus",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/exodus.json",
+  "note": "Deliverance from Egypt, the covenant at Sinai, the golden calf, and the building of the tabernacle, indexed selectively. The Scriptural Appendix names 'the Torah — Exodus, Numbers, Deuteronomy' for C01 without citing an Exodus verse, so no entry carries a prior.",
+  "prediction_note": "Forecast: 34:6-7 the centre — God's self-description as merciful and true; 22-23 for PR05 and PR06; 32:32 for PR15. Outcome: as forecast. Unforecast: 34:29 anchors PR13 (Moses unaware his face shone), and 16:18 gives the scriptural root of PR28's redistribution, which Paul himself draws on.",
+  "coverage_note": "Indexed selectively. Not indexed: the genealogies and the plagues (5:1-12:30, 6:14-27), the Passover regulations (12-13), the song and battle at the sea beyond 14:13-14 (14:15-15:21), the Sinai theophany (19), most of the Book of the Covenant (21, 22:1-20, 22:28-31, 23:10-33), including the slavery and capital laws, the tabernacle and priesthood specifications and their execution (25-31, 35-40 except 36:2-7), the killings by the Levites (32:25-29), and 34:10-28.",
+  "entries": [
+    {
+      "ref": "Exodus 1:15-21",
+      "pericope": "But the midwives feared God, and didn't do what the king of Egypt commanded them, but saved the baby boys alive",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17",
+        "C16"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "exemplifies",
+      "connection": "The first act of resistance in the book is by two working women, named when the king is not: 'Shiphrah, and… Puah.' Ordered to kill newborn boys, 'the midwives feared God, and didn't do what the king of Egypt commanded them, but saved the baby boys alive.' The Citizen-Stranger's loyalty 'above any human decree,' exercised quietly by people with no power except their hands. C17 and C16. 'God dealt well with the midwives… he gave them families.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 2:5-10",
+      "pericope": "She opened it, and saw the child, and behold, the baby cried. She had compassion on him, and said, 'This is one of the Hebrews' children.'",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C03"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The daughter of the king who ordered the killings finds a Hebrew baby in the reeds. 'She opened it, and saw the child, and behold, the baby cried. She had compassion on him, and said, \"This is one of the Hebrews' children.\"' She knows exactly whose child it is and what her father has decreed, and compassion overrides both. C27's mercy that crosses the line of enmity, and C03. His sister's quick thinking returns him to his own mother, paid to nurse him.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 2:11-15",
+      "pericope": "He looked this way and that way, and when he saw that there was no one, he killed the Egyptian, and hid him in the sand",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C21",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Moses 'went out to his brothers, and looked at their burdens' — real compassion — and acts on it with violence: 'He looked this way and that way, and when he saw that there was no one, he killed the Egyptian, and hid him in the sand.' The next day, trying to make peace between two Hebrews, he is rejected: 'Who made you a prince and a judge over us?' C21's anatomy of right instinct and wrong method, and the beginning of C25's forty-year apprenticeship in the desert before he is ready.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 3:1-14",
+      "pericope": "I will turn aside now, and see this great sight… I have surely seen the affliction of my people… for I know their sorrows… 'Who am I, that I should go to Pharaoh?'",
+      "pillars": [
+        "truth",
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C22",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "A shepherd at the back of the wilderness notices something and stops: 'I will turn aside now, and see this great sight, why the bush is not burnt. When Yahweh saw that he turned aside to see, God called to him.' C24's wonder — the call comes to the one who turns aside. 'Take your sandals off of your feet, for the place you are standing on is holy ground.' Then God's own description of his compassion: 'I have surely seen the affliction of my people who are in Egypt, and have heard their cry… for I know their sorrows. I have come down to deliver them.' C16's God who comes down. Moses's first answer is C22's: 'Who am I?' And God's name, given rather than defined: 'I AM WHO I AM.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 4:10-17",
+      "pericope": "I am not eloquent… for I am slow of speech, and of a slow tongue… 'Who made man's mouth?… I will be with your mouth'… 'Oh, Lord, please send someone else.'",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C13"
+      ],
+      "practices": [],
+      "connection": "Moses's last objection is his limitation: 'O Lord, I am not eloquent… for I am slow of speech, and of a slow tongue.' God answers it with a question — 'Who made man's mouth? Or who makes one mute, or deaf, or seeing, or blind? Isn't it I, Yahweh?' — and a promise: 'I will be with your mouth, and teach you what you shall speak.' Then the plain refusal: 'Oh, Lord, please send someone else.' God is angry, and provides Aaron anyway. C22's humility, which can become an excuse, and C13's shared work — the task divided between two brothers.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 14:13-14",
+      "pericope": "Don't be afraid. Stand still, and see the salvation of Yahweh… Yahweh will fight for you, and you shall be still",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The sea in front, the army behind, the people panicking. 'Don't be afraid. Stand still, and see the salvation of Yahweh, which he will work for you today… Yahweh will fight for you, and you shall be still.' C22's quiet soul at the edge of the water.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 16:13-30",
+      "pericope": "He who gathered much had nothing over, and he who gathered little had no lack… 'Let no one leave of it until the morning.'… it bred worms",
+      "pillars": [
+        "truth",
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C18",
+        "C28",
+        "C13"
+      ],
+      "practices": [
+        "PR28"
+      ],
+      "mode": "prescribes",
+      "connection": "Bread in the wilderness, given daily. 'Gather of it everyone according to his eating… The children of Israel did so, and gathered some more, some less. When they measured it with an omer, he who gathered much had nothing over, and he who gathered little had no lack.' Paul cites this at 2 Corinthians 8:15 as the principle of the collection — the Heavenly Palace's redistribution, built into the first economy of the people of God (medium). Then C18's lesson in hoarding: 'Let no one leave of it until the morning. Notwithstanding… some of them left of it until the morning, and it bred worms.' And C28's Sabbath, with a double portion the day before so that rest is possible. C13: 'morning by morning.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 17:8-13",
+      "pericope": "Moses' hands were heavy; and they took a stone, and put it under him, and he sat on it. Aaron and Hur held up his hands, the one on the one side, and the other on the other side",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "During the battle, Moses holds up the staff on the hill. 'But Moses' hands were heavy; and they took a stone, and put it under him, and he sat on it. Aaron and Hur held up his hands, the one on the one side, and the other on the other side. His hands were steady until sunset.' The leader's weakness acknowledged, and supported by others without comment. C13's community, in which no one is strong enough alone, and C16's service to the one who serves. The battle itself is not indexed.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 18:13-27",
+      "pericope": "The thing that you do is not good. You will surely wear away… for the thing is too heavy for you. You are not able to perform it yourself alone… So Moses listened to the voice of his father-in-law",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C13",
+        "C22",
+        "C15"
+      ],
+      "practices": [
+        "PR16"
+      ],
+      "mode": "exemplifies",
+      "connection": "Moses judging the people 'from the morning to the evening,' alone. His father-in-law, a Midianite priest, watches for a day and says so: 'The thing that you do is not good. You will surely wear away, both you, and this people that is with you; for the thing is too heavy for you. You are not able to perform it yourself alone.' The counsel is practical — share the load with 'able men, such as fear God: men of truth, hating unjust gain' — and the result is peace: 'all of these people also will go to their place in peace.' The greatest leader in Israel takes advice from a foreigner: 'So Moses listened to the voice of his father-in-law, and did all that he had said.' Listening as Mercy received rather than given (medium). C13, C22 and C15.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 20:1-17",
+      "pericope": "I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage… Remember the Sabbath day… You shall not covet",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C01",
+        "C04",
+        "C28"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The Ten Words begin not with a command but with what God has done: 'I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage.' The law follows rescue. C01's moral structure, with C28's Sabbath at its centre — extended to 'your male servant… your female servant… your livestock… your stranger who is within your gates' — and C04's mirror at its end, where the last command reaches past action into desire: 'You shall not covet.' Deuteronomy 5 is indexed with its own note on the different Sabbath rationale.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 22:21-27",
+      "pericope": "You shall not wrong an alien… for you were aliens in the land of Egypt… If you take your neighbor's garment as collateral, you shall restore it to him before the sun goes down… What would he sleep in?… for I am gracious",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27",
+        "C03"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "The law's protection of those without protection: 'You shall not wrong an alien, neither shall you oppress him, for you were aliens in the land of Egypt. You shall not take advantage of any widow or fatherless child.' Loans to the poor without interest — Habitual Almsgiving's companion in the economy of lending (medium). And the most concrete instruction in the law code: 'If you take your neighbor's garment as collateral, you shall restore it to him before the sun goes down, for that is his only covering… What would he sleep in? It will happen, when he cries to me, that I will hear, for I am gracious.' The law asks the lender to imagine the borrower's night. C16, C27 and C03.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 23:1-9",
+      "pericope": "You shall not follow a crowd to do evil… If you see the donkey of him who hates you fallen down under his burden, don't leave him, you shall surely help him with it… for you know the heart of an alien",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2",
+        "S7"
+      ],
+      "chapters": [
+        "C03",
+        "C08",
+        "C27"
+      ],
+      "practices": [
+        "PR06",
+        "PR15"
+      ],
+      "mode": "prescribes",
+      "connection": "Honest witness and impartial courts: 'You shall not follow a crowd to do evil; neither shall you testify in court to side with a multitude to pervert justice… You shall take no bribe, for a bribe blinds those who have sight.' C08. Then the enemy's animals: 'If you meet your enemy's ox or his donkey going astray, you shall surely bring it back to him again. If you see the donkey of him who hates you fallen down under his burden, don't leave him, you shall surely help him with it.' Non-Retaliation and Shedding Harshness given in the law itself, centuries before the Sermon — practical help to the person who hates you (medium for PR15). C03. And the ground of care for the stranger is memory: 'for you know the heart of an alien, since you were aliens in the land of Egypt.' C27.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 32:1-14",
+      "pericope": "Come, make us gods… these are your gods, Israel… 'Turn from your fierce wrath, and repent of this evil against your people'",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C21",
+        "C27"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "Forty days of waiting, and the people give up: 'as for this Moses… we don't know what has become of him.' C21's anatomy of impatience turning to idolatry, with Aaron's complicity — 'Tomorrow shall be a feast to Yahweh.' God offers Moses a new nation from himself. Moses refuses and pleads for the people: 'Turn from your fierce wrath, and repent of this evil against your people. Remember Abraham, Isaac, and Israel.' Shedding Harshness in a leader who has just been betrayed — the circle of concern held open for those who did not deserve it (medium). C27. 'Yahweh repented of the evil.' The killings of 32:25-29 are not indexed.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 32:30-32",
+      "pericope": "Yet now, if you will, forgive their sin—and if not, please blot me out of your book which you have written",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C16"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "'You have sinned a great sin. Now I will go up to Yahweh. Perhaps I shall make atonement for your sin.' The prayer: 'Oh, this people have sinned a great sin, and have made themselves gods of gold. Yet now, if you will, forgive their sin — and if not, please blot me out of your book which you have written.' The intercessor names the sin without softening it and offers himself in place of the guilty. Paul echoes it at Romans 9:3. Shedding Harshness at its summit (medium). C27 and C16.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 33:12-23",
+      "pericope": "If your presence doesn't go with me, don't carry us up from here… 'Please show me your glory.'… 'You cannot see my face… you will see my back'",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C09",
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "Moses will not go on without God: 'If your presence doesn't go with me, don't carry us up from here.' C09's intimacy — 'I know you by name.' Then the boldest request in the Torah: 'Please show me your glory.' The answer is generous and limited: 'I will make all my goodness pass before you… But… You cannot see my face, for man may not see me and live… I will put you in a cleft of the rock, and will cover you with my hand until I have passed by; then I will take away my hand, and you will see my back.' The Discipline of Unknowing as a gift — the hand that covers is also a shelter (medium). C24.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 34:5-9",
+      "pericope": "Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth, keeping loving kindness for thousands, forgiving iniquity and disobedience and sin",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C03",
+        "C01"
+      ],
+      "practices": [],
+      "connection": "The glory passes, and what Moses receives is not a sight but a name: 'Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth, keeping loving kindness for thousands, forgiving iniquity and disobedience and sin; and that will by no means clear the guilty.' God's self-description, quoted more often inside the Old Testament than any other passage (Numbers 14, Nehemiah 9, Psalms 86, 103 and 145, Joel 2, Jonah 4). Mercy and truth held together in God's own character — the two pillars of this road named at their source. C19, C03 and C01. Moses's response is to bow and ask for pardon for 'a stiff-necked people.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 34:29-35",
+      "pericope": "Moses didn't know that the skin of his face shone by reason of his speaking with him… he put a veil on his face",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C26"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "Coming down from forty days with God, 'Moses didn't know that the skin of his face shone by reason of his speaking with him.' The radiance is visible to everyone but him. The Hidden Life's mark — transformation that the one transformed does not notice and does not display (medium). He veils his face among the people and removes the veil before God. C23's hiddenness and C26's light. Paul reads the veil at 2 Corinthians 3:7-18, which is indexed.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Exodus 36:2-7",
+      "pericope": "Everyone whose heart stirred him up… The people bring much more than enough… So the people were restrained from bringing",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C13"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "The tabernacle is built by 'everyone whose heart stirred him up to come to the work,' and supplied by freewill offerings brought 'every morning.' The craftsmen stop working to report: 'The people bring much more than enough for the service of the work.' 'So the people were restrained from bringing.' Habitual Almsgiving as willing, rhythmic and so generous it has to be stopped (medium). C16 and C13.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

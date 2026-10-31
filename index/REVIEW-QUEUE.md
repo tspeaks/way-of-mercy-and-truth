@@ -63,3 +63,52 @@ the first fourteen.
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so
 this is recorded as a gap proposal rather than applied.
+
+---
+
+## Recommended review order (52 books drafted on 31 October)
+
+The queue is too long to review front to back. Review it in this order, so the passes that
+could change the curriculum come first:
+
+1. **The two open practices.** Hebrews 12:4-13 (PR27, the only anchor) and Ephesians 2:11-22
+   (PR24), together with the 1 John 4:20-21 PR24 proposal above. A verdict on these two settles
+   whether Virtue Construction and the Compass have any scriptural anchor at all.
+2. **Anchors that now carry a practice.** 2 Samuel 15:13-37 (Ittai, PR26). 1 Samuel 25:2-42
+   (Abigail, PR09) and 1:1-28 (Eli and Hannah, PR16). Numbers 12:1-16 (Miriam brought in again,
+   PR29). Leviticus 19:32-37 (PR25). Daniel 6:3-23 (PR30). Obadiah 1:10-15 (PR15).
+   2 Chronicles 28:8-15 (Oded, PR06 and PR15). Exodus 34:5-9 (mercy and truth).
+3. **Sensitive handling, where the wording matters as much as the tag:**
+   - the divorce guards at Mark 10:1-12, Malachi 2:10-16 and 1 Corinthians 7:1-16;
+   - 2 Samuel 13:1-22 (Tamar);
+   - Hosea 1-3 (PR26 explicitly declined);
+   - the household-code guards at 1 Corinthians 7:17-24, Titus 2:1-10 and 1 Timothy (coverage
+     note);
+   - the coverage notes on Judges 19-21, Ezra 10, Nehemiah 13, Joshua and Nahum.
+4. **Large books in sections.** Psalms, Isaiah, Acts, Genesis, Deuteronomy, Mark.
+5. **Everything else.**
+
+**A style question for the reviewer.** Entries drafted today quote the WEB inside the connection
+and run longer than the house example in `REVIEW-BRIEF.md`, often 400 to 900 characters against
+about 230 in the earlier books. Every quotation has been checked against the WEB text
+(`tools/check_quotes.py`). Say whether the length helps or hinders. If it hinders, the trim is
+mechanical: keep the claim and drop the quotations, since the review package already prints the
+passage.
+
+## Attractor tags added on 31 October
+
+These are listed so the settling questions in `REVIEW-BRIEF.md` can be applied to each one. In
+total there are 29 attractor tags across 1,052 new entries.
+
+| Practice | Count | Entries (mode, confidence) |
+|---|---|---|
+| PR25 Deferential Seating | 5 | 1 Corinthians 11:17-34 (counter-example, medium); 2 Samuel 9:1-13 (exemplifies); Leviticus 19:32-37 (prescribes); Mark 10:32-45 (counter-example); Mark 12:38-40 (counter-example) |
+| PR20 The Sacrifice of Routine | 4 | 1 Corinthians 10:23-11:1 (guest side); Acts 10:1-33; Genesis 18:1-8; Isaiah 58:1-12 |
+| PR21 Verbal Almsgiving | 10 | 1 Samuel 23:15-18; 1 Thessalonians 2:17-3:13 (medium), 4:13-18 (medium), 5:12-15; 2 Corinthians 1:3-11 (medium); Acts 27:1-44; Isaiah 35:1-10 (medium), 50:4-11; Job 6:1-7:21 (medium), 16:1-17:16 (medium) |
+| PR17 Covering Weakness | 4 | Acts 18:24-28; Genesis 9:20-23, 38:1-30, 45:1-15 |
+| PR22 Unreciprocated Care | 6 | 1 Peter 4:12-19; 1 Samuel 25:2-42; 2 Corinthians 12:11-21; Genesis 40:1-23 (medium); Hosea 11:1-11; Psalm 35:1-28 (medium) |
+
+Declined on the attractor test and recorded in the entry: PR25 at Romans 12:10 and 1 Corinthians
+12; PR20 at Romans 14 and Hebrews 13:2; PR21 at Romans 16, Hebrews 3:13 and 1 Kings 19; PR17 at
+Romans 14, 1 Corinthians 12 and Mark 7:33; PR22 at Mark 9:19, which is tagged at Luke 9:37-43.
+Review the Mark/Luke pair together.

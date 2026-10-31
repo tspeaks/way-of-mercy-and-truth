@@ -1,0 +1,747 @@
+{
+  "book": "Job",
+  "translation": "World English Bible (public domain)",
+  "status": "complete — 1,070 verses, the friends' later speeches gathered as a cluster; awaiting second-pass review",
+  "method_version": "2.3",
+  "text_source": "index/text/job.json",
+  "note": "An entire book on affliction without a moral root. One entry carries a prior citation, 42:1-6, which the Scriptural Appendix names as the model for both Sacred Lament and the Discipline of Unknowing; the appendix assigns Job to C19 and C24.",
+  "genre_note": "The narrator settles the question before the dialogue begins: Job is 'blameless and upright,' and the reader is shown why he suffers while Job and his friends are not. Everything the friends say is therefore read against what the reader knows, and God's verdict in 42:7 confirms the reading: they did not speak rightly, and Job did. Their speeches are marked counter-example, even where individual sentences are true and are quoted with approval elsewhere in scripture, because the error is in the application. Job's own speeches, including his accusations against God, are marked exemplifies under Sacred Lament, since the book's verdict is that he spoke rightly. Elihu, whom God never answers, is indexed on his own terms and marked with medium confidence. The second and third cycles of the friends' speeches (15, 18, 20, 22, 25) are gathered into one cluster, since they make one argument with increasing force.",
+  "prediction_note": "The indexing order called Job 'the counterweight to Jonah 9:1-12 — an entire book on affliction without a moral root, plus the friends as a sustained counter-example to PR02.' The reference is a slip: Jonah has four chapters, and the passage meant is John 9:1-12, the man born blind, where Jesus answers 'neither this man nor his parents sinned.' The rest of the forecast holds on the text. PR02 is tagged as counter-example on all three friends' first speeches, the cluster of their later ones, and Elihu's middle speeches. The unforecast finding is how much of the curriculum's mature-mercy material the book carries at its end: Job 31 is the fullest Moral Audit in the Old Testament, covering the practice's own five areas and swearing to the incapacity to rejoice at an enemy's ruin, and the book's turning point is Job praying for the friends who wronged him.",
+  "coverage_note": "Every verse is indexed. The friends' later speeches are gathered thematically rather than one entry each.",
+  "entries": [
+    {
+      "ref": "Job 1:1-5",
+      "pericope": "It may be that my sons have sinned, and renounced God in their hearts",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The book establishes its premise before anything happens: Job is 'blameless and upright,' and the narrator says so. His piety is shown as a father's: after his children's feasts he rises early and offers for each of them, because 'it may be that my sons have sinned… in their hearts. Job did so continually.' C14's household, held before God by its head — and the reader is told plainly, before the friends arrive, that what follows is not punishment.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 1:6-22",
+      "pericope": "Yahweh gave, and Yahweh has taken away. Blessed be the name of Yahweh",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'Does Job fear God for nothing?' The accuser's question is whether goodness is only a transaction, and the test is the loss of everything — flocks, servants, and in one blow all ten children. Job tears his robe, falls to the ground, and worships: 'Naked I came out of my mother's womb, and naked shall I return there. Yahweh gave, and Yahweh has taken away.' C18's detachment at its absolute limit, and the book's answer to whether faith can be disinterested — given, at least, on the first day.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 2:1-10",
+      "pericope": "Shall we receive good at the hand of God, and shall we not receive evil?",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C18",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Struck with sores from head to foot, sitting in ashes with a potsherd, Job is told by his wife to curse God and die. 'Shall we receive good at the hand of God, and shall we not receive evil? In all this Job didn't sin with his lips.' C18's open hand, and the guarded mouth of C20, held under the worst pressure the narrative can apply. The lips are noted specifically; what was in the heart, the next chapter will show.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 2:11-13",
+      "pericope": "They sat down with him on the ground seven days and seven nights, and none spoke a word",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C13"
+      ],
+      "practices": [
+        "PR16"
+      ],
+      "mode": "exemplifies",
+      "connection": "The friends begin well. They come 'to sympathize with him and to comfort him,' do not recognise him, weep aloud, tear their robes, and sit on the ground with him 'seven days and seven nights, and none spoke a word to him, for they saw that his grief was very great.' Listening as Mercy gives full attention before correcting or concluding, and seven days of silent presence is that attention at its most complete. Everything the friends get wrong afterward begins when they stop doing this.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 3:1-26",
+      "pericope": "Let the day perish in which I was born",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "When Job finally speaks, he curses the day of his birth. 'Why didn't I die from the womb?… Why is light given to him who is in misery, life to the bitter in soul, who long for death, but it doesn't come?' Sacred Lament asks the grieving to say the unacceptable thing, and notes that the Psalms are full of people doing exactly that who were not struck down; this is the unacceptable thing said at full length, and God will later say that Job spoke rightly. The curriculum's own word of care belongs beside it: a longing for death that persists is not only a spiritual matter, and should be brought to someone competent as well as to God.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 4:1-5:27",
+      "pericope": "Remember, now, whoever perished, being innocent?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C03"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "mode": "counter-example",
+      "connection": "Eliphaz's first speech is gentle in tone and lethal in logic: 'whoever perished, being innocent? … those who plow iniquity, and sow trouble, reap the same.' Much of what he says is true in general — 'happy is the man whom God corrects' is quoted approvingly in Proverbs and Hebrews — and all of it is false about Job, whom the reader knows to be blameless. Interior Diagnosis traces a visible failure to its root; Eliphaz traces a visible suffering to a failure that does not exist, and in someone else. C21's diagnostic method misapplied, and C03's beam and speck: the friends see a fault in Job that the narrator has told us is not there. Truth without mercy turning harsh, at the start of thirty chapters of it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 6:1-7:21",
+      "pericope": "To him who is ready to faint, kindness should be shown from his friend",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C15"
+      ],
+      "practices": [
+        "PR08",
+        "PR21"
+      ],
+      "mode": "exemplifies",
+      "connection": "Job answers the friend before he answers God: 'To him who is ready to faint, kindness should be shown from his friend.' His brothers have been like a winter brook that vanishes in the heat; and he did not ask them for money, ransom, or rescue (6:22-23) — only a kind word, and they withheld it. Verbal Almsgiving is the alms of words given to the discouraged by those who have nothing else to give; Job names its absence precisely, and asks only 'Teach me, and I will hold my peace.' Then he turns to God with the lament held back no longer: 'I will not keep silent. I will speak in the anguish of my spirit. I will complain in the bitterness of my soul… What is man, that you should… test him every moment?' — Psalm 8's question inverted into a complaint. PR21 is tagged as the passage's counter-example within an entry whose mode records Job's lament, which is the stronger anchor.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 8:1-22",
+      "pericope": "If your children have sinned against him, he has delivered them into the hand of their disobedience",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C03",
+        "C21"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "mode": "counter-example",
+      "connection": "Bildad's first sentence about Job's dead children is that they must have deserved it. Then the argument from tradition — 'inquire of past generations' — and a promise: be pure and upright, and God will restore you. The diagnosis runs backward from the outcome to the cause, which is exactly the failure Interior Diagnosis warns against when it is turned on another person's suffering. C03's judgment of the neighbour, and C21's method inverted.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 9:1-10:22",
+      "pericope": "There is no umpire between us, that might lay his hand on us both",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C24"
+      ],
+      "practices": [
+        "PR08",
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "'How can man be just with God?' God 'does great things past finding out… He goes by me, and I don't see him' — the Discipline of Unknowing stated by the sufferer, not used against him. Then the complaint at its sharpest: 'he destroys the blameless and the wicked,' and the longing for a mediator who does not exist: 'There is no umpire between us, that might lay his hand on us both.' Chapter 10 is addressed to God directly — 'I will give free course to my complaint… Your hands have framed me and fashioned me altogether, yet you destroy me.' Sacred Lament as argument with God, and C19's hope only as an absence named.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 11:1-20",
+      "pericope": "Can you fathom the mystery of God?… God exacts of you less than your iniquity deserves",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C03",
+        "C24"
+      ],
+      "practices": [
+        "PR02",
+        "PR04"
+      ],
+      "mode": "counter-example",
+      "connection": "Zophar is the bluntest: 'Know therefore that God exacts of you less than your iniquity deserves.' And in the next breath he preaches mystery — 'Can you fathom the mystery of God? Or can you probe the limits of the Almighty?' — while claiming certainty about the one thing he cannot know, the state of Job's soul. The Discipline of Unknowing warns that a person can be humble in character and still intellectually insufferable; Zophar invokes unknowing as a weapon. Two counter-examples in one speech: PR04 used to silence, and PR02 turned outward.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 12:1-13:28",
+      "pericope": "You are all physicians of no value. Oh that you would be completely silent! Then you would be wise",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C08"
+      ],
+      "practices": [
+        "PR16"
+      ],
+      "mode": "counter-example",
+      "connection": "Job turns on his comforters: 'In the thought of him who is at ease there is contempt for misfortune.' 'You are forgers of lies. You are all physicians of no value. Oh that you would be completely silent! Then you would be wise.' The friends who once sat silent for seven days have become doctors who diagnose without listening, which is C21's physician gone wrong and the exact absence of Listening as Mercy. And worse — 'Will you speak unrighteously for God, and talk deceitfully for him?' — defending God with falsehood, which is C08's false prophet. Job asks for the honest diagnosis the friends cannot give: 'How many are my iniquities and sins? Make me know my disobedience and my sin.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 14:1-22",
+      "pericope": "If a man dies, shall he live again?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C28"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "'Man, who is born of a woman, is of few days, and full of trouble.' There is hope for a tree cut down — at the scent of water it will bud — 'but man dies, and is laid low.' Then the question asked, not answered: 'If a man dies, shall he live again? All the days of my warfare would I wait, until my release should come.' Sacred Lament that reaches toward hope without being allowed to claim it, and C28's numbered days.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job · the friends' diagnosis",
+      "pericope": "The second and third cycles of the friends' speeches",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C03"
+      ],
+      "practices": [
+        "PR02",
+        "PR16"
+      ],
+      "mode": "counter-example",
+      "connection": "Five speeches gathered because they make one argument, and make it louder each time. Eliphaz thinks he has been gentle — 'Are the consolations of God too small for you, even the word that is gentle toward you?' (15:11) — and concludes that 'your own mouth condemns you.' Bildad and Zophar describe the fate of the wicked at length, aimed at Job (18, 20). By the third cycle Eliphaz invents the sins the theory requires: 'you have… stripped the naked of their clothing. You haven't given water to the weary… You have sent widows away empty' (22:5-9) — every one of them false, as Job 29 and 31 will show. Bildad's last speech is six verses and calls man a worm (25). Interior Diagnosis at its worst: a root supplied to fit the symptom, in someone else, without listening. Listening as Mercy's absence, sustained for chapters by men who began with seven days of silence. The reader has been told from the first verse that the diagnosis is wrong.",
+      "confidence": "high",
+      "prior": false,
+      "kind": "cluster",
+      "refs": [
+        "Job 15:1-35",
+        "Job 18:1-21",
+        "Job 20:1-29",
+        "Job 22:1-30",
+        "Job 25:1-6"
+      ]
+    },
+    {
+      "ref": "Job 16:1-17:16",
+      "pericope": "If your soul were in my soul's place… I would strengthen you with my mouth",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C16"
+      ],
+      "practices": [
+        "PR08",
+        "PR21"
+      ],
+      "mode": "exemplifies",
+      "connection": "'You are all miserable comforters!' And Job describes what comfort would have been: 'If your soul were in my soul's place… I would strengthen you with my mouth. The solace of my lips would relieve you.' Verbal Almsgiving defined by the one who needed it and did not receive it — the friends had no material help to give, and the good word was the alms they withheld. Then the lament to God, with an advocate imagined beyond the friends: 'Even now, behold, my witness is in heaven… My friends scoff at me. My eyes pour out tears to God.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 19:1-29",
+      "pericope": "Have pity on me, have pity on me, you my friends… I know that my Redeemer lives",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C17"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The estrangement is total — brothers far off, servants who do not answer, a wife to whom his breath is offensive, children who despise him — and the plea to the friends is the plainest in the book: 'Have pity on me, have pity on me, you my friends; for the hand of God has touched me. Why do you persecute me as God?' Then, from the bottom, the leap: 'But as for me, I know that my Redeemer lives. In the end, he will stand upon the earth.' Sacred Lament that does not abandon hope even while accusing God of the wrong, and C19's hope at its most unaccountable. The Scriptural Appendix assigns Job to C19. Alienation from one's own household is C17's cost at its extreme.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 21:1-34",
+      "pericope": "Why do the wicked live, become old, yes, and grow mighty in power?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C01"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Job answers the friends' theory with evidence: the wicked live long, their children dance, they go down to Sheol in peace, and they say to God, 'Depart from us.' 'Shall any teach God knowledge?' The book will not let C01's moral order be read as a mechanism that predicts outcomes, and it puts that refusal in the mouth of the righteous man. C24's posture before a reality that does not fit the system. 'How can you comfort me with nonsense?'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 23:1-17",
+      "pericope": "Oh that I knew where I might find him!… When he has tried me, I shall come forth like gold",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C09",
+        "C25"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "'If I go east, he is not there; if west, I can't find him.' The absence of God described as a search in every direction, by a man who wants only a hearing — 'he would listen to me.' And inside the absence, a confidence he cannot verify: 'But he knows the way that I take. When he has tried me, I shall come forth like gold.' C09's secret place sought and not found, and C25's refining. Sacred Lament in its quietest register.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 24:1-25",
+      "pericope": "The soul of the wounded cries out, yet God doesn't regard the folly",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C16",
+        "C24"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The poor described from inside their poverty: they drive off the orphan's donkey and take the widow's ox; the needy hide; they glean the vineyards of the wicked, lie all night naked in the cold, 'embrace the rock for lack of a shelter,' carry sheaves while hungry and tread winepresses while thirsty. 'The soul of the wounded cries out, yet God doesn't regard the folly.' C16's vulnerable, and the charge against God that the Scriptural Appendix places under C24: the book does not explain it away.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 26:1-14",
+      "pericope": "These are but the outskirts of his ways. How small a whisper do we hear of him!",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "Job mocks the friends' help — 'How have you helped him who is without power!' — and then outdoes them in praise of a God who 'hangs the earth on nothing.' The conclusion is the Discipline of Unknowing in its finest sentence: 'Behold, these are but the outskirts of his ways. How small a whisper do we hear of him! But the thunder of his power who can understand?' Said by the man the friends accused of presumption, after their speeches claimed to know the whole.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 27:1-23",
+      "pericope": "Until I die I will not put away my integrity from me",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C04",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'Far be it from me that I should justify you. Until I die I will not put away my integrity from me… My heart shall not reproach me so long as I live.' Job refuses to confess a sin he did not commit to end the argument. C04's audit is honest in both directions, and Self-Accusation carries a guard that applies here: nothing in it asks a person to accept blame for what they did not do, and no one should use it to keep someone quiet. C12's proof is a life that holds to the truth about itself under pressure to lie.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 28:1-28",
+      "pericope": "But where shall wisdom be found?… The fear of the Lord, that is wisdom",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C02",
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "A hymn in the middle of the argument. Men tunnel into the earth for silver and sapphires, to places no falcon has seen — 'but where shall wisdom be found?' Not in the deep, not in the sea, not for gold; 'hidden from the eyes of all living.' 'God understands its way.' And to man, the only wisdom available: 'Behold, the fear of the Lord, that is wisdom. To depart from evil is understanding.' C02's wisdom as a way of living rather than a body of knowledge, and the Discipline of Unknowing as its condition.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 29:1-25",
+      "pericope": "I was eyes to the blind, and feet to the lame. I was a father to the needy",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "Job remembers his former life, and the memory is of what he did for those without help: 'I delivered the poor who cried, and the fatherless also, who had none to help him… I caused the widow's heart to sing for joy… I was eyes to the blind, and feet to the lame. I was a father to the needy. The cause of him who I didn't know, I searched out.' Habitual Almsgiving as the shape of a whole life, and C16's authority used for the vulnerable. It is also the refutation, in his own testimony, of every charge Eliphaz invented in chapter 22.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 30:1-31",
+      "pericope": "Didn't I weep for him who was in trouble?… I cry to you, and you do not answer me",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "'But now' — mocked by the sons of outcasts, spat on, his honour chased away like wind. 'I cry to you, and you do not answer me. I stand up, and you gaze at me. You have turned to be cruel to me.' And the hardest question: 'Didn't I weep for him who was in trouble? Wasn't my soul grieved for the needy? When I looked for good, then evil came.' Sacred Lament that ends with the harp turned to mourning.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 31:1-40",
+      "pericope": "I made a covenant with my eyes… If I have rejoiced at the destruction of him who hated me",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C20"
+      ],
+      "practices": [
+        "PR01",
+        "PR12",
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "Job's final oath is the most thorough moral audit in the Old Testament, and it covers the Moral Audit's own five areas. Speech and deceit (31:5). Money — 'If I have made gold my hope… If I have rejoiced because my wealth was great' (31:24-25). The vulnerable — the poor, the widow, the orphan, 'if I have… eaten my morsel alone, and the fatherless has not eaten of it' (31:16-21). Partiality — 'If I have despised the cause of my male servant… Didn't he who made me in the womb make him?' (31:13-15). And consistency between hidden and open — the heart secretly enticed, transgression covered 'like Adam' (31:27, 33). It begins at the gate of the eye: 'I made a covenant with my eyes, how then should I look lustfully at a young woman?… if my heart walked after my eyes' — Watchfulness, set before the desire rather than after the act. And it reaches the summit: 'If I have rejoiced at the destruction of him who hated me, or lifted up myself when evil found him (yes, I have not allowed my mouth to sin by asking his life with a curse)' — Shedding Harshness's measure, the incapacity to delight in an enemy's ruin, sworn to. C04's audit and C20's watchman, in one chapter.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 32:1-33:33",
+      "pericope": "God speaks once, yes twice, though man pays no attention",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C21"
+      ],
+      "practices": [],
+      "connection": "Elihu has waited for his elders and is angry at all four men — at Job for justifying himself, at the friends for condemning without an answer. He is 'full of words… like new wineskins ready to burst,' and says so. Part of what he says moves past the friends: God speaks in dreams and in pain 'that he may withdraw man from his purpose, and hide pride from man,' and the sufferer restored sings, 'I have sinned… and it didn't profit me' — suffering read as warning and formation rather than only as punishment, which is closer to C25's refining and C21's diagnosis than anything the three friends said. The book does not tell us whether Elihu is right; God never answers him.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 34:1-35:16",
+      "pericope": "What man is like Job, who drinks scorn like water?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C03",
+        "C21"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "mode": "counter-example",
+      "connection": "Elihu's middle speeches fall back into the friends' error: Job 'goes in company with the workers of iniquity'; 'Job speaks without knowledge… I wish that Job were tried to the end, because of his answering like wicked men. For he adds rebellion to his sin.' The diagnosis has changed from 'what did you do' to 'what you say proves it,' and it is still a diagnosis of someone else's interior made without access to it. C03's judgment of the neighbour, and Interior Diagnosis turned outward once more.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 36:1-37:24",
+      "pericope": "Behold, God is great, and we don't know him… Stand still, and consider the wondrous works of God",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C25"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "Elihu's last speech turns from Job to the storm, and from accusation to wonder. 'He delivers the afflicted by their affliction, and opens their ear in oppression' is C25's. Then: 'Behold, God is great, and we don't know him… Can any understand the spreading of the clouds?… Listen to this, Job. Stand still, and consider the wondrous works of God… We can't reach the Almighty.' The Discipline of Unknowing commanded, and the frame for the voice from the whirlwind that follows.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 38:1-39:30",
+      "pericope": "Where were you when I laid the foundations of the earth?",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "God answers Job out of the whirlwind and does not answer his question. Instead: 'Where were you when I laid the foundations of the earth?… when the morning stars sang together?' The sea given its bounds, the dawn commanded, the storehouses of snow, rain on 'a land where no man is,' the lioness's prey, the mountain goat giving birth unwatched, the wild donkey free, the ostrich, the war horse, the hawk. A creation that does not centre on human beings or explain itself to them. The Discipline of Unknowing is the disciplined recognition that reality exceeds one's grasp of it, and this is that recognition administered by God, at length, to the one man who had earned the right to an explanation. C24's landscape of wonder in its source text.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 40:1-5",
+      "pericope": "Behold, I am of small account. What shall I answer you? I lay my hand on my mouth",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C22",
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "Job's first answer is two verses long: 'Behold, I am of small account. What shall I answer you? I lay my hand on my mouth. I have spoken once, and I will not answer; yes, twice, but I will proceed no further.' The man who demanded a hearing for thirty chapters is silent once he is given one. C22's quiet soul, and the practice of unknowing enacted — not defeated, but brought to the edge of what can be said.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 40:6-41:34",
+      "pericope": "Who has first given to me, that I should repay him?",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C24"
+      ],
+      "practices": [],
+      "connection": "The second speech: can you do my work — humble the proud, crush the wicked? Then behemoth and leviathan, creatures beyond human mastery, described with evident delight. 'Who has first given to me, that I should repay him? Everything under the heavens is mine.' C24's wonder, and the end of every transaction the friends assumed between righteousness and reward.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Job 42:1-6",
+      "pericope": "I have uttered that which I did not understand, things too wonderful for me",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C24",
+        "C06"
+      ],
+      "practices": [
+        "PR04",
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The Scriptural Appendix names Job's closing admission — 'I have uttered that which I did not understand, things too wonderful for me, which I didn't know' — as 'the model for both Sacred Lament and unknowing,' and assigns Job to C19 and C24. Its note is exact: Job is not rebuked for his questions, only for assuming he had the standing to answer them. 'I had heard of you by the hearing of the ear, but now my eye sees you' is C06's opening of the eyes: what changes Job is not an answer but a sight.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Job 42:7-9",
+      "pericope": "My servant Job shall pray for you",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C15"
+      ],
+      "practices": [
+        "PR15",
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "God's verdict reverses the book's argument: 'you have not spoken of me the thing that is right, as my servant Job has.' The friends who defended God with a false theory are wrong; the man who argued with God is right. And their restoration runs through the one they wronged: they must go to Job, and 'my servant Job shall pray for you.' Shedding Harshness asks for prayer for those who have wronged us, for their good and not their correction; Job prays for the three men who spent thirty chapters accusing him. Merciful Reintegration follows from it — the friends repent as commanded, and are received back through his intercession rather than kept on probation. C27's mature mercy, and C15's peace restored by the injured party.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Job 42:10-17",
+      "pericope": "Yahweh turned the captivity of Job, when he prayed for his friends",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C14"
+      ],
+      "practices": [],
+      "connection": "The turning comes 'when he prayed for his friends' — after the intercession, not before it. Brothers and sisters and old acquaintances who were absent in the suffering now come and eat with him and comfort him. His daughters are named, and given an inheritance among their brothers. 'So Job died, being old and full of days.' C19's restoration and C14's household rebuilt. The doubling of his goods is the narrator's conclusion; the index does not read it as making the suffering a transaction, which the whole book has just refused.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

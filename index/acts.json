@@ -1,12 +1,13 @@
 {
   "book": "Acts",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — chapters 1-12 indexed; 13-20 and 21-28 pending",
+  "status": "in progress — chapters 1-20 indexed (13-20 selectively); 21-28 pending",
   "method_version": "2.3",
   "text_source": "index/text/acts.json",
   "note": "Indexed in sections along the book's own movement outward: the church in Jerusalem (1-7), Samaria, Saul, and Cornelius (8-12), Paul's journeys (13-20), and the arrest, trials, and voyage to Rome (21-28). Narrative throughout, so every entry carries a mode.",
   "sectioning_note": "As with Jeremiah, the status field names what is done.",
   "prediction_note": "The indexing order named Acts 2:44-47 and 4:32-37 'the strongest candidate for PR28, the Heavenly Palace.' Both are tagged, at high confidence, as exemplifies: a community converting property into provision for whoever lacks is the practice's positive form at the scale the practice names. A third positive anchor appears at 11:27-30, where the Gentile church at Antioch sends its surplus to Judea before the famine arrives. Before today PR28 had no anchor at all; it now has these three, a positive prophetic anchor at Isaiah 23:15-18, and three counter-examples.",
+  "coverage_note": "Chapters 13-20 are indexed selectively, as a travel narrative: left out are the commissioning at Antioch and the encounter with Elymas (13:1-12), the synagogue sermon at Pisidian Antioch (13:13-41), Timothy's circumcision and the closed doors to Asia and Bithynia (16:1-10), Paul's break with the synagogue at Corinth and Gallio's tribunal (18:12-23), the disciples of John at Ephesus (19:1-7), Paul's plan for Jerusalem and Rome (19:21-22), and the journey through Macedonia and the night at Troas with Eutychus (20:1-16).",
   "entries": [
     {
       "ref": "Acts 1:1-11",
@@ -609,6 +610,359 @@
       "mode": "counter-example",
       "connection": "Herod in royal robes gives a speech, and the crowd shouts, 'The voice of a god, and not of a man!' He accepts it, 'and he was eaten by worms and died.' Set beside Peter two chapters earlier — 'Stand up! I myself am also a man' — the contrast is the narrator's: one refuses worship, one receives it. C22's humility and C23's refusal of the audience, shown by their absence.",
       "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 13:42-52",
+      "pericope": "I have set you as a light for the Gentiles",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "At Pisidian Antioch the Gentiles ask to hear more, almost the whole city gathers, and opposition rises from jealousy. Paul and Barnabas turn outward with Isaiah 49:6 as their mandate — 'I have set you as a light for the Gentiles, that you should bring salvation to the uttermost parts of the earth.' Expelled, they shake the dust from their feet and move on, and 'the disciples were filled with joy.' C27's widening, and C17's community that is driven out and keeps its joy.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 14:8-18",
+      "pericope": "Men, why are you doing these things? We also are men of like passions with you",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C22",
+        "C24"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Healed a lame man at Lystra, the apostles are hailed as gods and a priest brings oxen to sacrifice. They tear their clothes and run into the crowd: 'Men, why are you doing these things? We also are men of like passions with you.' Worship refused at the moment it would cost them nothing to accept — C22's humility as accurate self-description. And a sermon to pagans from the ordinary world: God 'didn't leave himself without witness, in that he did good and gave you rains from the sky and fruitful seasons, filling our hearts with food and gladness.' C24's landscape as testimony.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 14:19-28",
+      "pericope": "Through many afflictions we must enter into the Kingdom of God",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Stoned and dragged out of Lystra as dead, Paul gets up, goes back into the city, and after Derbe returns to the very towns that had expelled him, 'confirming the souls of the disciples, exhorting them to continue in the faith, and that through many afflictions we must enter into the Kingdom of God.' C25's road that runs through hardship rather than around it. Elders are appointed in every assembly with prayer and fasting — C16's authority handed on.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 15:1-35",
+      "pericope": "All the multitude kept silence, and they listened… to lay no greater burden on you than these necessary things",
+      "pillars": [
+        "humility",
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C15",
+        "C27"
+      ],
+      "practices": [
+        "PR09",
+        "PR16"
+      ],
+      "mode": "exemplifies",
+      "connection": "The first great dispute of the church — must Gentile believers be circumcised? — is settled by a council, and the process is as instructive as the outcome. 'After there had been much discussion,' Peter speaks; then 'all the multitude kept silence, and they listened to Barnabas and Paul'; then James sums up. Listening as Mercy practised by an entire assembly before it concludes. The decision is aimed at peace rather than at victory for either party — 'we don't trouble those from among the Gentiles who turn to God' — with a few requests for the sake of table fellowship, and it is sent with men from both sides and a letter that 'rejoiced' its readers 'over the encouragement.' The Architecture of Peace at the scale of a whole church, and C27's circle written into its constitution.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 15:36-41",
+      "pericope": "The contention grew so sharp that they separated from each other. Barnabas took Mark",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C16"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "Barnabas wants to take Mark, who had deserted them in Pamphylia; Paul refuses 'someone who had withdrawn from them… and didn't go with them to do the work.' The disagreement is sharp enough to separate them. Barnabas, true to his name, gives the one who failed a second chance without probation, which is Merciful Reintegration; Paul's refusal is recorded without comment. The index records the passage as it stands and notes, for a reader of the whole New Testament, that Paul later asks for Mark by name as 'useful to me for service' (2 Timothy 4:11). C15's conflict honestly left unresolved, and C16's question of who is fit to serve. Medium, because the text does not say Mark had repented.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 16:11-15",
+      "pericope": "Whose heart the Lord opened to listen… come into my house, and stay",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C06",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "By a river outside Philippi, at a place of prayer, a businesswoman named Lydia 'heard us; whose heart the Lord opened to listen.' Hearing as the gift — C06's opened sight given to the ear. Baptized with her household, she presses hospitality on the strangers: 'If you have judged me to be faithful to the Lord, come into my house, and stay.' C14's household opened as the church's first home in Europe.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 16:16-24",
+      "pericope": "When her masters saw that the hope of their gain was gone",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "A slave girl with a spirit of divination 'brought her masters much gain by fortune telling.' When she is freed of it, her owners do not rejoice; they see 'that the hope of their gain was gone,' drag the apostles to the magistrates, and have them beaten. A person valued only as revenue, which is C16's counter-portrait, and profit as the god that cannot bear a loss, which is C18's.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 16:25-34",
+      "pericope": "About midnight Paul and Silas were praying and singing hymns to God… Don't harm yourself, for we are all here!",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C22",
+        "C09",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Beaten, their feet in stocks in the inner prison, Paul and Silas pray and sing at midnight, 'and the prisoners were listening to them.' C09's prayer kept in the dark, and C22's quiet soul audible through a wall. When the earthquake opens the doors and the jailer draws his sword to kill himself, Paul's first concern is the man responsible for their chains: 'Don't harm yourself, for we are all here!' The jailer washes their wounds and sets food before them; the man who locked them in becomes their host. C27's mercy reaching the warden.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 16:35-40",
+      "pericope": "They have beaten us publicly, without a trial, men who are Romans… let them come themselves and bring us out",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "exemplifies",
+      "connection": "Offered a quiet release, Paul refuses to be hustled out: 'They have beaten us publicly, without a trial, men who are Romans, and have cast us into prison! Do they now release us secretly? No… let them come themselves and bring us out!' Full participation in the civic order, including its protections, claimed on behalf of a community the magistrates had wronged — and then the departure they request. The Citizen-Stranger is not withdrawal from society; this is that posture using the society's own law.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 17:1-15",
+      "pericope": "Examining the Scriptures daily to see whether these things were so",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The Bereans 'received the word with all readiness of the mind, examining the Scriptures daily to see whether these things were so.' Eagerness and testing together, and the narrator calls it nobility. C08's test of every teacher, and the posture the whole curriculum asks of its own readers: 'This appendix exists so that you can check me.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 17:16-34",
+      "pericope": "TO AN UNKNOWN GOD… In him we live, and move, and have our being",
+      "pillars": [
+        "humility",
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C24",
+        "C27",
+        "C17"
+      ],
+      "practices": [
+        "PR04",
+        "PR10"
+      ],
+      "mode": "exemplifies",
+      "connection": "Provoked by a city full of idols, Paul does not denounce it; he reasons daily in the marketplace and, before the council of philosophers, begins with their own altar: 'TO AN UNKNOWN GOD. What therefore you worship in ignorance, this I announce to you.' Their acknowledgement of not-knowing becomes his starting point — the Discipline of Unknowing honoured in others before it is answered. 'He made from one blood every nation of men… that they should seek the Lord… though he is not far from each one of us. For in him we live, and move, and have our being' — C27's single human family. And he quotes their own poets: the Citizen-Stranger's full participation in the culture he addresses, without surrendering the claim that judges it. Medium on both practice tags; the passage is mission, not personal formation, and the tags anchor the posture it models.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 18:1-11",
+      "pericope": "Because he practiced the same trade, he lived with them and worked, for by trade they were tent makers",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C13",
+        "C22"
+      ],
+      "practices": [
+        "PR23"
+      ],
+      "mode": "exemplifies",
+      "connection": "In Corinth the apostle finds a couple of the same trade 'and lived with them and worked, for by trade they were tent makers.' The greatest missionary of the church supporting himself by stitching leather. The Sacrament of the Ordinary locates the road's highest expression in honest work in unglamorous settings; this is that, done alongside the preaching rather than instead of it. When he is afraid, the word is C22's: 'Don't be afraid, but speak and don't be silent; for I am with you.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 18:24-28",
+      "pericope": "When Priscilla and Aquila heard him, they took him aside, and explained to him the way of God more accurately",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C08"
+      ],
+      "practices": [
+        "PR17"
+      ],
+      "mode": "exemplifies",
+      "connection": "Apollos is eloquent, 'mighty in the Scriptures,' fervent, accurate as far as he goes — and incomplete. Priscilla and Aquila hear him in the synagogue and do not correct him there. 'They took him aside, and explained to him the way of God more accurately.' Covering Weakness is the refusal to expose someone's mistake publicly when it would shame them, and this is its most exact enactment in the New Testament: the correction made in private, so that a gifted man can be completed rather than humiliated. The result is a better teacher — 'he greatly helped those who had believed.' C08's concern for accuracy, carried out with C15's care for the person.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 19:8-20",
+      "pericope": "Many also of those who had believed came, confessing, and declaring their deeds",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C18"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "exemplifies",
+      "connection": "After the sons of Sceva are overpowered by a spirit that knows Jesus and Paul but not them, fear falls on Ephesus, and believers come 'confessing, and declaring their deeds' — naming plainly what they had done, which is the Failure Recovery Protocol's first step (medium: the passage is communal and occasioned by fear). Then the cost: 'Many of those who practiced magical arts brought their books together and burned them in the sight of all. They counted their price, and found it to be fifty thousand pieces of silver.' C18's detachment, paid in full and in public.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 19:23-41",
+      "pericope": "Sirs, you know that by this business we have our wealth… you ought to be quiet, and to do nothing rash",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C15"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The riot at Ephesus begins with an honest sentence from a silversmith: 'Sirs, you know that by this business we have our wealth.' Religion defended because it is profitable — C18's counter-portrait — and a crowd that shouts for two hours, 'most of them didn't know why they had come together.' It is calmed not by the apostles but by a city official: 'you ought to be quiet, and to do nothing rash… the courts are open.' C15's de-escalation, practised by an outsider.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 20:17-38",
+      "pericope": "These hands served my necessities… so laboring you ought to help the weak… It is more blessed to give than to receive",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C18"
+      ],
+      "practices": [
+        "PR05",
+        "PR23"
+      ],
+      "mode": "exemplifies",
+      "connection": "Paul's farewell to the Ephesian elders is the only speech in Acts addressed to believers, and it is an account of a way of life: 'serving the Lord with all humility, with many tears'; 'nor do I hold my life dear to myself, so that I may finish my race with joy' (C18); 'Take heed… to all the flock… to shepherd the assembly' and 'therefore watch' (C16's authority and C20's guard). Then the economic testimony: 'I coveted no one's silver, or gold, or clothing. You yourselves know that these hands served my necessities, and those who were with me. In all things I gave you an example, that so laboring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, It is more blessed to give than to receive.' Work done with one's hands in order to give, which is Habitual Almsgiving built into the shape of labour, and the Sacrament of the Ordinary as its setting. They weep and fall on his neck.",
+      "confidence": "high",
       "prior": false
     }
   ]

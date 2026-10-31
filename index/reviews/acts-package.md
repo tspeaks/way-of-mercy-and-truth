@@ -1,12 +1,14 @@
 # Acts — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — chapters 1-12 indexed; 13-20 and 21-28 pending. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: in progress — chapters 1-20 indexed (13-20 selectively); 21-28 pending. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
 **Note.** Indexed in sections along the book's own movement outward: the church in Jerusalem (1-7), Samaria, Saul, and Cornelius (8-12), Paul's journeys (13-20), and the arrest, trials, and voyage to Rome (21-28). Narrative throughout, so every entry carries a mode.
 
 **Prediction note.** The indexing order named Acts 2:44-47 and 4:32-37 'the strongest candidate for PR28, the Heavenly Palace.' Both are tagged, at high confidence, as exemplifies: a community converting property into provision for whoever lacks is the practice's positive form at the scale the practice names. A third positive anchor appears at 11:27-30, where the Gentile church at Antioch sends its surplus to Judea before the famine arrives. Before today PR28 had no anchor at all; it now has these three, a positive prophetic anchor at Isaiah 23:15-18, and three counter-examples.
+
+**Coverage note.** Chapters 13-20 are indexed selectively, as a travel narrative: left out are the commissioning at Antioch and the encounter with Elymas (13:1-12), the synagogue sermon at Pisidian Antioch (13:13-41), Timothy's circumcision and the closed doors to Asia and Bithynia (16:1-10), Paul's break with the synagogue at Corinth and Gallio's tribunal (18:12-23), the disciples of John at Ephesus (19:1-7), Paul's plan for Jerusalem and Rome (19:21-22), and the journey through Macedonia and the night at Troas with Eutychus (20:1-16).
 
 **Sectioning note.** As with Jeremiah, the status field names what is done.
 
@@ -699,6 +701,356 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** Herod in royal robes gives a speech, and the crowd shouts, 'The voice of a god, and not of a man!' He accepts it, 'and he was eaten by worms and died.' Set beside Peter two chapters earlier — 'Stand up! I myself am also a man' — the contrast is the narrator's: one refuses worship, one receives it. C22's humility and C23's refusal of the audience, shown by their absence.
 
 **Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility · stages: S5, S6 · chapters: C22, C23 · practices: none · confidence: medium
+
+---
+
+## 29. Acts 13:42-52 — I have set you as a light for the Gentiles
+
+> **13:42** So when the Jews went out of the synagogue, the Gentiles begged that these words might be preached to them the next Sabbath.
+> **13:43** Now when the synagogue broke up, many of the Jews and of the devout proselytes followed Paul and Barnabas; who, speaking to them, urged them to continue in the grace of God.
+> **13:44** The next Sabbath almost the whole city was gathered together to hear the word of God.
+> **13:45** But when the Jews saw the multitudes, they were filled with jealousy, and contradicted the things which were spoken by Paul, and blasphemed.
+> **13:46** Paul and Barnabas spoke out boldly, and said, “It was necessary that God’s word should be spoken to you first. Since indeed you thrust it from you, and judge yourselves unworthy of eternal life, behold, we turn to the Gentiles.
+> **13:47** For so has the Lord commanded us, saying, ‘I have set you as a light for the Gentiles, that you should bring salvation to the uttermost parts of the earth.’”
+> **13:48** As the Gentiles heard this, they were glad, and glorified the word of God. As many as were appointed to eternal life believed.
+> **13:49** The Lord’s word was spread abroad throughout all the region.
+> **13:50** But the Jews stirred up the devout and prominent women and the chief men of the city, and stirred up a persecution against Paul and Barnabas, and threw them out of their borders.
+> **13:51** But they shook off the dust of their feet against them, and came to Iconium.
+> **13:52** The disciples were filled with joy with the Holy Spirit.
+
+**Claim.** At Pisidian Antioch the Gentiles ask to hear more, almost the whole city gathers, and opposition rises from jealousy. Paul and Barnabas turn outward with Isaiah 49:6 as their mandate — 'I have set you as a light for the Gentiles, that you should bring salvation to the uttermost parts of the earth.' Expelled, they shake the dust from their feet and move on, and 'the disciples were filled with joy.' C27's widening, and C17's community that is driven out and keeps its joy.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4, S7 · chapters: C27, C17 · practices: none · confidence: medium
+
+---
+
+## 30. Acts 14:8-18 — Men, why are you doing these things? We also are men of like passions with you
+
+> **14:8** At Lystra a certain man sat, impotent in his feet, a cripple from his mother’s womb, who never had walked.
+> **14:9** He was listening to Paul speaking, who, fastening eyes on him, and seeing that he had faith to be made whole,
+> **14:10** said with a loud voice, “Stand upright on your feet!” He leaped up and walked.
+> **14:11** When the multitude saw what Paul had done, they lifted up their voice, saying in the language of Lycaonia, “The gods have come down to us in the likeness of men!”
+> **14:12** They called Barnabas “Jupiter,” and Paul “Mercury,” because he was the chief speaker.
+> **14:13** The priest of Jupiter, whose temple was in front of their city, brought oxen and garlands to the gates, and would have made a sacrifice along with the multitudes.
+> **14:14** But when the apostles, Barnabas and Paul, heard of it, they tore their clothes, and sprang into the multitude, crying out,
+> **14:15** “Men, why are you doing these things? We also are men of like passions with you, and bring you good news, that you should turn from these vain things to the living God, who made the sky and the earth and the sea, and all that is in them;
+> **14:16** who in the generations gone by allowed all the nations to walk in their own ways.
+> **14:17** Yet he didn’t leave himself without witness, in that he did good and gave you rains from the sky and fruitful seasons, filling our hearts with food and gladness.”
+> **14:18** Even saying these things, they hardly stopped the multitudes from making a sacrifice to them.
+
+**Claim.** Healed a lame man at Lystra, the apostles are hailed as gods and a priest brings oxen to sacrifice. They tear their clothes and run into the crowd: 'Men, why are you doing these things? We also are men of like passions with you.' Worship refused at the moment it would cost them nothing to accept — C22's humility as accurate self-description. And a sermon to pagans from the ordinary world: God 'didn't leave himself without witness, in that he did good and gave you rains from the sky and fruitful seasons, filling our hearts with food and gladness.' C24's landscape as testimony.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, truth · stages: S5, S6 · chapters: C22, C24 · practices: none · confidence: medium
+
+---
+
+## 31. Acts 14:19-28 — Through many afflictions we must enter into the Kingdom of God
+
+> **14:19** But some Jews from Antioch and Iconium came there, and having persuaded the multitudes, they stoned Paul, and dragged him out of the city, supposing that he was dead.
+> **14:20** But as the disciples stood around him, he rose up, and entered into the city. On the next day he went out with Barnabas to Derbe.
+> **14:21** When they had preached the Good News to that city, and had made many disciples, they returned to Lystra, Iconium, and Antioch,
+> **14:22** confirming the souls of the disciples, exhorting them to continue in the faith, and that through many afflictions we must enter into the Kingdom of God.
+> **14:23** When they had appointed elders for them in every assembly, and had prayed with fasting, they commended them to the Lord, on whom they had believed.
+> **14:24** They passed through Pisidia, and came to Pamphylia.
+> **14:25** When they had spoken the word in Perga, they went down to Attalia.
+> **14:26** From there they sailed to Antioch, from where they had been committed to the grace of God for the work which they had fulfilled.
+> **14:27** When they had arrived, and had gathered the assembly together, they reported all the things that God had done with them, and that he had opened a door of faith to the nations.
+> **14:28** They stayed there with the disciples for a long time.
+
+**Claim.** Stoned and dragged out of Lystra as dead, Paul gets up, goes back into the city, and after Derbe returns to the very towns that had expelled him, 'confirming the souls of the disciples, exhorting them to continue in the faith, and that through many afflictions we must enter into the Kingdom of God.' C25's road that runs through hardship rather than around it. Elders are appointed in every assembly with prayer and fasting — C16's authority handed on.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4, S6 · chapters: C25, C16 · practices: none · confidence: medium
+
+---
+
+## 32. Acts 15:1-35 — All the multitude kept silence, and they listened… to lay no greater burden on you than these necessary things
+
+> **15:1** Some men came down from Judea and taught the brothers, “Unless you are circumcised after the custom of Moses, you can’t be saved.”
+> **15:2** Therefore when Paul and Barnabas had no small discord and discussion with them, they appointed Paul and Barnabas, and some others of them, to go up to Jerusalem to the apostles and elders about this question.
+> **15:3** They, being sent on their way by the assembly, passed through both Phoenicia and Samaria, declaring the conversion of the Gentiles. They caused great joy to all the brothers.
+> **15:4** When they had come to Jerusalem, they were received by the assembly and the apostles and the elders, and they reported all things that God had done with them.
+> **15:5** But some of the sect of the Pharisees who believed rose up, saying, “It is necessary to circumcise them, and to command them to keep the law of Moses.”
+> **15:6** The apostles and the elders were gathered together to see about this matter.
+> **15:7** When there had been much discussion, Peter rose up and said to them, “Brothers, you know that a good while ago God made a choice among you, that by my mouth the nations should hear the word of the Good News, and believe.
+> **15:8** God, who knows the heart, testified about them, giving them the Holy Spirit, just like he did to us.
+> **15:9** He made no distinction between us and them, cleansing their hearts by faith.
+> **15:10** Now therefore why do you tempt God, that you should put a yoke on the neck of the disciples which neither our fathers nor we were able to bear?
+> **15:11** But we believe that we are saved through the grace of the Lord Jesus, just as they are.”
+> **15:12** All the multitude kept silence, and they listened to Barnabas and Paul reporting what signs and wonders God had done among the nations through them.
+> **15:13** After they were silent, James answered, “Brothers, listen to me.
+> **15:14** Simeon has reported how God first visited the nations, to take out of them a people for his name.
+> **15:15** This agrees with the words of the prophets. As it is written,
+> **15:16** ‘After these things I will return. I will again build the tabernacle of David, which has fallen. I will again build its ruins. I will set it up,
+> **15:17** That the rest of men may seek after the Lord; All the Gentiles who are called by my name, Says the Lord, who does all these things.
+> **15:18** All his works are known to God from eternity.’
+> **15:19** “Therefore my judgment is that we don’t trouble those from among the Gentiles who turn to God,
+> **15:20** but that we write to them that they abstain from the pollution of idols, from sexual immorality, from what is strangled, and from blood.
+> **15:21** For Moses from generations of old has in every city those who preach him, being read in the synagogues every Sabbath.”
+> **15:22** Then it seemed good to the apostles and the elders, with the whole assembly, to choose men out of their company, and send them to Antioch with Paul and Barnabas: Judas called Barsabbas, and Silas, chief men among the brothers.
+> **15:23** They wrote these things by their hand: “The apostles, the elders, and the brothers, to the brothers who are of the Gentiles in Antioch, Syria, and Cilicia: greetings.
+> **15:24** Because we have heard that some who went out from us have troubled you with words, unsettling your souls, saying, ‘You must be circumcised and keep the law,’ to whom we gave no commandment;
+> **15:25** it seemed good to us, having come to one accord, to choose out men and send them to you with our beloved Barnabas and Paul,
+> **15:26** men who have risked their lives for the name of our Lord Jesus Christ.
+> **15:27** We have sent therefore Judas and Silas, who themselves will also tell you the same things by word of mouth.
+> **15:28** For it seemed good to the Holy Spirit, and to us, to lay no greater burden on you than these necessary things:
+> **15:29** that you abstain from things sacrificed to idols, from blood, from things strangled, and from sexual immorality, from which if you keep yourselves, it will be well with you. Farewell.”
+> **15:30** So, when they were sent off, they came to Antioch. Having gathered the multitude together, they delivered the letter.
+> **15:31** When they had read it, they rejoiced over the encouragement.
+> **15:32** Judas and Silas, also being prophets themselves, encouraged the brothers with many words, and strengthened them.
+> **15:33** After they had spent some time there, they were sent back with greetings from the brothers to the apostles.
+> **15:35** But Paul and Barnabas stayed in Antioch, teaching and preaching the word of the Lord, with many others also.
+
+**Claim.** The first great dispute of the church — must Gentile believers be circumcised? — is settled by a council, and the process is as instructive as the outcome. 'After there had been much discussion,' Peter speaks; then 'all the multitude kept silence, and they listened to Barnabas and Paul'; then James sums up. Listening as Mercy practised by an entire assembly before it concludes. The decision is aimed at peace rather than at victory for either party — 'we don't trouble those from among the Gentiles who turn to God' — with a few requests for the sake of table fellowship, and it is sent with men from both sides and a letter that 'rejoiced' its readers 'over the encouragement.' The Architecture of Peace at the scale of a whole church, and C27's circle written into its constitution.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy, truth · stages: S4, S7 · chapters: C15, C27 · practices: PR09, PR16 · confidence: high
+
+---
+
+## 33. Acts 15:36-41 — The contention grew so sharp that they separated from each other. Barnabas took Mark
+
+> **15:36** After some days Paul said to Barnabas, “Let’s return now and visit our brothers in every city in which we proclaimed the word of the Lord, to see how they are doing.”
+> **15:37** Barnabas planned to take John, who was called Mark, with them also.
+> **15:38** But Paul didn’t think that it was a good idea to take with them someone who had withdrawn from them in Pamphylia, and didn’t go with them to do the work.
+> **15:39** Then the contention grew so sharp that they separated from each other. Barnabas took Mark with him, and sailed away to Cyprus,
+> **15:40** but Paul chose Silas, and went out, being commended by the brothers to the grace of God.
+> **15:41** He went through Syria and Cilicia, strengthening the assemblies.
+
+**Claim.** Barnabas wants to take Mark, who had deserted them in Pamphylia; Paul refuses 'someone who had withdrawn from them… and didn't go with them to do the work.' The disagreement is sharp enough to separate them. Barnabas, true to his name, gives the one who failed a second chance without probation, which is Merciful Reintegration; Paul's refusal is recorded without comment. The index records the passage as it stands and notes, for a reader of the whole New Testament, that Paul later asks for Mark by name as 'useful to me for service' (2 Timothy 4:11). C15's conflict honestly left unresolved, and C16's question of who is fit to serve. Medium, because the text does not say Mark had repented.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S4 · chapters: C15, C16 · practices: PR29 · confidence: medium
+
+---
+
+## 34. Acts 16:11-15 — Whose heart the Lord opened to listen… come into my house, and stay
+
+> **16:11** Setting sail therefore from Troas, we made a straight course to Samothrace, and the day following to Neapolis;
+> **16:12** and from there to Philippi, which is a city of Macedonia, the foremost of the district, a Roman colony. We were staying some days in this city.
+> **16:13** On the Sabbath day we went forth outside of the city by a riverside, where we supposed there was a place of prayer, and we sat down, and spoke to the women who had come together.
+> **16:14** A certain woman named Lydia, a seller of purple, of the city of Thyatira, one who worshiped God, heard us; whose heart the Lord opened to listen to the things which were spoken by Paul.
+> **16:15** When she and her household were baptized, she begged us, saying, “If you have judged me to be faithful to the Lord, come into my house, and stay.” So she persuaded us.
+
+**Claim.** By a river outside Philippi, at a place of prayer, a businesswoman named Lydia 'heard us; whose heart the Lord opened to listen.' Hearing as the gift — C06's opened sight given to the ear. Baptized with her household, she presses hospitality on the strangers: 'If you have judged me to be faithful to the Lord, come into my house, and stay.' C14's household opened as the church's first home in Europe.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S2, S4 · chapters: C06, C14 · practices: none · confidence: medium
+
+---
+
+## 35. Acts 16:16-24 — When her masters saw that the hope of their gain was gone
+
+> **16:16** It happened, as we were going to prayer, that a certain girl having a spirit of divination met us, who brought her masters much gain by fortune telling.
+> **16:17** Following Paul and us, she cried out, “These men are servants of the Most High God, who proclaim to us a way of salvation!”
+> **16:18** She was doing this for many days. But Paul, becoming greatly annoyed, turned and said to the spirit, “I command you in the name of Jesus Christ to come out of her!” It came out that very hour.
+> **16:19** But when her masters saw that the hope of their gain was gone, they seized Paul and Silas, and dragged them into the marketplace before the rulers.
+> **16:20** When they had brought them to the magistrates, they said, “These men, being Jews, are agitating our city,
+> **16:21** and set forth customs which it is not lawful for us to accept or to observe, being Romans.”
+> **16:22** The multitude rose up together against them, and the magistrates tore their clothes off of them, and commanded them to be beaten with rods.
+> **16:23** When they had laid many stripes on them, they threw them into prison, charging the jailer to keep them safely,
+> **16:24** who, having received such a command, threw them into the inner prison, and secured their feet in the stocks.
+
+**Claim.** A slave girl with a spirit of divination 'brought her masters much gain by fortune telling.' When she is freed of it, her owners do not rejoice; they see 'that the hope of their gain was gone,' drag the apostles to the magistrates, and have them beaten. A person valued only as revenue, which is C16's counter-portrait, and profit as the god that cannot bear a loss, which is C18's.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: mercy, truth · stages: S4 · chapters: C16, C18 · practices: none · confidence: medium
+
+---
+
+## 36. Acts 16:25-34 — About midnight Paul and Silas were praying and singing hymns to God… Don't harm yourself, for we are all here!
+
+> **16:25** But about midnight Paul and Silas were praying and singing hymns to God, and the prisoners were listening to them.
+> **16:26** Suddenly there was a great earthquake, so that the foundations of the prison were shaken; and immediately all the doors were opened, and everyone’s bonds were loosened.
+> **16:27** The jailer, being roused out of sleep and seeing the prison doors open, drew his sword and was about to kill himself, supposing that the prisoners had escaped.
+> **16:28** But Paul cried with a loud voice, saying, “Don’t harm yourself, for we are all here!”
+> **16:29** He called for lights and sprang in, and, fell down trembling before Paul and Silas,
+> **16:30** and brought them out and said, “Sirs, what must I do to be saved?”
+> **16:31** They said, “Believe in the Lord Jesus Christ, and you will be saved, you and your household.”
+> **16:32** They spoke the word of the Lord to him, and to all who were in his house.
+> **16:33** He took them the same hour of the night, and washed their stripes, and was immediately baptized, he and all his household.
+> **16:34** He brought them up into his house, and set food before them, and rejoiced greatly, with all his household, having believed in God.
+
+**Claim.** Beaten, their feet in stocks in the inner prison, Paul and Silas pray and sing at midnight, 'and the prisoners were listening to them.' C09's prayer kept in the dark, and C22's quiet soul audible through a wall. When the earthquake opens the doors and the jailer draws his sword to kill himself, Paul's first concern is the man responsible for their chains: 'Don't harm yourself, for we are all here!' The jailer washes their wounds and sets food before them; the man who locked them in becomes their host. C27's mercy reaching the warden.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S3, S5, S7 · chapters: C22, C09, C27 · practices: none · confidence: high
+
+---
+
+## 37. Acts 16:35-40 — They have beaten us publicly, without a trial, men who are Romans… let them come themselves and bring us out
+
+> **16:35** But when it was day, the magistrates sent the sergeants, saying, “Let those men go.”
+> **16:36** The jailer reported these words to Paul, saying, “The magistrates have sent to let you go; now therefore come out, and go in peace.”
+> **16:37** But Paul said to them, “They have beaten us publicly, without a trial, men who are Romans, and have cast us into prison! Do they now release us secretly? No, most certainly, but let them come themselves and bring us out!”
+> **16:38** The sergeants reported these words to the magistrates, and they were afraid when they heard that they were Romans,
+> **16:39** and they came and begged them. When they had brought them out, they asked them to depart from the city.
+> **16:40** They went out of the prison, and entered into Lydia’s house. When they had seen the brothers, they encouraged them, and departed.
+
+**Claim.** Offered a quiet release, Paul refuses to be hustled out: 'They have beaten us publicly, without a trial, men who are Romans, and have cast us into prison! Do they now release us secretly? No… let them come themselves and bring us out!' Full participation in the civic order, including its protections, claimed on behalf of a community the magistrates had wronged — and then the departure they request. The Citizen-Stranger is not withdrawal from society; this is that posture using the society's own law.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S4 · chapters: C17 · practices: PR10 · confidence: medium
+
+---
+
+## 38. Acts 17:1-15 — Examining the Scriptures daily to see whether these things were so
+
+> **17:1** Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue.
+> **17:2** Paul, as was his custom, went in to them, and for three Sabbath days reasoned with them from the Scriptures,
+> **17:3** explaining and demonstrating that the Christ had to suffer and rise again from the dead, and saying, “This Jesus, whom I proclaim to you, is the Christ.”
+> **17:4** Some of them were persuaded, and joined Paul and Silas, of the devout Greeks a great multitude, and not a few of the chief women.
+> **17:5** But the unpersuaded Jews took along some wicked men from the marketplace, and gathering a crowd, set the city in an uproar. Assaulting the house of Jason, they sought to bring them out to the people.
+> **17:6** When they didn’t find them, they dragged Jason and certain brothers before the rulers of the city, crying, “These who have turned the world upside down have come here also,
+> **17:7** whom Jason has received. These all act contrary to the decrees of Caesar, saying that there is another king, Jesus!”
+> **17:8** The multitude and the rulers of the city were troubled when they heard these things.
+> **17:9** When they had taken security from Jason and the rest, they let them go.
+> **17:10** The brothers immediately sent Paul and Silas away by night to Beroea. When they arrived, they went into the Jewish synagogue.
+> **17:11** Now these were more noble than those in Thessalonica, in that they received the word with all readiness of the mind, examining the Scriptures daily to see whether these things were so.
+> **17:12** Many of them therefore believed; also of the prominent Greek women, and not a few men.
+> **17:13** But when the Jews of Thessalonica had knowledge that the word of God was proclaimed by Paul at Beroea also, they came there likewise, agitating the multitudes.
+> **17:14** Then the brothers immediately sent out Paul to go as far as to the sea, and Silas and Timothy still stayed there.
+> **17:15** But those who escorted Paul brought him as far as Athens. Receiving a commandment to Silas and Timothy that they should come to him very quickly, they departed.
+
+**Claim.** The Bereans 'received the word with all readiness of the mind, examining the Scriptures daily to see whether these things were so.' Eagerness and testing together, and the narrator calls it nobility. C08's test of every teacher, and the posture the whole curriculum asks of its own readers: 'This appendix exists so that you can check me.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S2 · chapters: C08 · practices: none · confidence: high
+
+---
+
+## 39. Acts 17:16-34 — TO AN UNKNOWN GOD… In him we live, and move, and have our being
+
+> **17:16** Now while Paul waited for them at Athens, his spirit was provoked within him as he saw the city full of idols.
+> **17:17** So he reasoned in the synagogue with the Jews and the devout persons, and in the marketplace every day with those who met him.
+> **17:18** Some of the Epicurean and Stoic philosophers also were conversing with him. Some said, “What does this babbler want to say?” Others said, “He seems to be advocating foreign deities,” because he preached Jesus and the resurrection.
+> **17:19** They took hold of him, and brought him to the Areopagus, saying, “May we know what this new teaching is, which is spoken by you?
+> **17:20** For you bring certain strange things to our ears. We want to know therefore what these things mean.”
+> **17:21** Now all the Athenians and the strangers living there spent their time in nothing else, but either to tell or to hear some new thing.
+> **17:22** Paul stood in the middle of the Areopagus, and said, “You men of Athens, I perceive that you are very religious in all things.
+> **17:23** For as I passed along, and observed the objects of your worship, I found also an altar with this inscription: ‘TO AN UNKNOWN GOD.’ What therefore you worship in ignorance, this I announce to you.
+> **17:24** The God who made the world and all things in it, he, being Lord of heaven and earth, doesn’t dwell in temples made with hands,
+> **17:25** neither is he served by men’s hands, as though he needed anything, seeing he himself gives to all life and breath, and all things.
+> **17:26** He made from one blood every nation of men to dwell on all the surface of the earth, having determined appointed seasons, and the boundaries of their dwellings,
+> **17:27** that they should seek the Lord, if perhaps they might reach out for him and find him, though he is not far from each one of us.
+> **17:28** ‘For in him we live, and move, and have our being.’ As some of your own poets have said, ‘For we are also his offspring.’
+> **17:29** Being then the offspring of God, we ought not to think that the Divine Nature is like gold, or silver, or stone, engraved by art and design of man.
+> **17:30** The times of ignorance therefore God overlooked. But now he commands that all people everywhere should repent,
+> **17:31** because he has appointed a day in which he will judge the world in righteousness by the man whom he has ordained; of which he has given assurance to all men, in that he has raised him from the dead.”
+> **17:32** Now when they heard of the resurrection of the dead, some mocked; but others said, “We want to hear you again concerning this.”
+> **17:33** Thus Paul went out from among them.
+> **17:34** But certain men joined with him, and believed, among whom also was Dionysius the Areopagite, and a woman named Damaris, and others with them.
+
+**Claim.** Provoked by a city full of idols, Paul does not denounce it; he reasons daily in the marketplace and, before the council of philosophers, begins with their own altar: 'TO AN UNKNOWN GOD. What therefore you worship in ignorance, this I announce to you.' Their acknowledgement of not-knowing becomes his starting point — the Discipline of Unknowing honoured in others before it is answered. 'He made from one blood every nation of men… that they should seek the Lord… though he is not far from each one of us. For in him we live, and move, and have our being' — C27's single human family. And he quotes their own poets: the Citizen-Stranger's full participation in the culture he addresses, without surrendering the claim that judges it. Medium on both practice tags; the passage is mission, not personal formation, and the tags anchor the posture it models.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, truth, mercy · stages: S4, S6, S7 · chapters: C24, C27, C17 · practices: PR04, PR10 · confidence: high
+
+---
+
+## 40. Acts 18:1-11 — Because he practiced the same trade, he lived with them and worked, for by trade they were tent makers
+
+> **18:1** After these things Paul departed from Athens, and came to Corinth.
+> **18:2** He found a certain Jew named Aquila, a man of Pontus by race, who had recently come from Italy, with his wife Priscilla, because Claudius had commanded all the Jews to depart from Rome. He came to them,
+> **18:3** and because he practiced the same trade, he lived with them and worked, for by trade they were tent makers.
+> **18:4** He reasoned in the synagogue every Sabbath, and persuaded Jews and Greeks.
+> **18:5** But when Silas and Timothy came down from Macedonia, Paul was compelled by the Spirit, testifying to the Jews that Jesus was the Christ.
+> **18:6** When they opposed him and blasphemed, he shook out his clothing and said to them, “Your blood be on your own heads! I am clean. From now on, I will go to the Gentiles!”
+> **18:7** He departed there, and went into the house of a certain man named Justus, one who worshiped God, whose house was next door to the synagogue.
+> **18:8** Crispus, the ruler of the synagogue, believed in the Lord with all his house. Many of the Corinthians, when they heard, believed and were baptized.
+> **18:9** The Lord said to Paul in the night by a vision, “Don’t be afraid, but speak and don’t be silent;
+> **18:10** for I am with you, and no one will attack you to harm you, for I have many people in this city.”
+> **18:11** He lived there a year and six months, teaching the word of God among them.
+
+**Claim.** In Corinth the apostle finds a couple of the same trade 'and lived with them and worked, for by trade they were tent makers.' The greatest missionary of the church supporting himself by stitching leather. The Sacrament of the Ordinary locates the road's highest expression in honest work in unglamorous settings; this is that, done alongside the preaching rather than instead of it. When he is afraid, the word is C22's: 'Don't be afraid, but speak and don't be silent; for I am with you.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4, S5 · chapters: C13, C22 · practices: PR23 · confidence: medium
+
+---
+
+## 41. Acts 18:24-28 — When Priscilla and Aquila heard him, they took him aside, and explained to him the way of God more accurately
+
+> **18:24** Now a certain Jew named Apollos, an Alexandrian by race, an eloquent man, came to Ephesus. He was mighty in the Scriptures.
+> **18:25** This man had been instructed in the way of the Lord; and being fervent in spirit, he spoke and taught accurately the things concerning Jesus, although he knew only the baptism of John.
+> **18:26** He began to speak boldly in the synagogue. But when Priscilla and Aquila heard him, they took him aside, and explained to him the way of God more accurately.
+> **18:27** When he had determined to pass over into Achaia, the brothers encouraged him, and wrote to the disciples to receive him. When he had come, he greatly helped those who had believed through grace;
+> **18:28** for he powerfully refuted the Jews, publicly showing by the Scriptures that Jesus was the Christ.
+
+**Claim.** Apollos is eloquent, 'mighty in the Scriptures,' fervent, accurate as far as he goes — and incomplete. Priscilla and Aquila hear him in the synagogue and do not correct him there. 'They took him aside, and explained to him the way of God more accurately.' Covering Weakness is the refusal to expose someone's mistake publicly when it would shame them, and this is its most exact enactment in the New Testament: the correction made in private, so that a gifted man can be completed rather than humiliated. The result is a better teacher — 'he greatly helped those who had believed.' C08's concern for accuracy, carried out with C15's care for the person.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility, truth · stages: S2, S4 · chapters: C15, C08 · practices: PR17 · confidence: high
+
+---
+
+## 42. Acts 19:8-20 — Many also of those who had believed came, confessing, and declaring their deeds
+
+> **19:8** He entered into the synagogue, and spoke boldly for a period of three months, reasoning and persuading about the things concerning the Kingdom of God.
+> **19:9** But when some were hardened and disobedient, speaking evil of the Way before the multitude, he departed from them, and separated the disciples, reasoning daily in the school of Tyrannus.
+> **19:10** This continued for two years, so that all those who lived in Asia heard the word of the Lord Jesus, both Jews and Greeks.
+> **19:11** God worked special miracles by the hands of Paul,
+> **19:12** so that even handkerchiefs or aprons were carried away from his body to the sick, and the evil spirits went out.
+> **19:13** But some of the itinerant Jews, exorcists, took on themselves to invoke over those who had the evil spirits the name of the Lord Jesus, saying, “We adjure you by Jesus whom Paul preaches.”
+> **19:14** There were seven sons of one Sceva, a Jewish chief priest, who did this.
+> **19:15** The evil spirit answered, “Jesus I know, and Paul I know, but who are you?”
+> **19:16** The man in whom the evil spirit was leaped on them, and overpowered them, and prevailed against them, so that they fled out of that house naked and wounded.
+> **19:17** This became known to all, both Jews and Greeks, who lived at Ephesus. Fear fell on them all, and the name of the Lord Jesus was magnified.
+> **19:18** Many also of those who had believed came, confessing, and declaring their deeds.
+> **19:19** Many of those who practiced magical arts brought their books together and burned them in the sight of all. They counted their price, and found it to be fifty thousand pieces of silver.
+> **19:20** So the word of the Lord was growing and becoming mighty.
+
+**Claim.** After the sons of Sceva are overpowered by a spirit that knows Jesus and Paul but not them, fear falls on Ephesus, and believers come 'confessing, and declaring their deeds' — naming plainly what they had done, which is the Failure Recovery Protocol's first step (medium: the passage is communal and occasioned by fear). Then the cost: 'Many of those who practiced magical arts brought their books together and burned them in the sight of all. They counted their price, and found it to be fifty thousand pieces of silver.' C18's detachment, paid in full and in public.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4, S5 · chapters: C19, C18 · practices: PR11 · confidence: medium
+
+---
+
+## 43. Acts 19:23-41 — Sirs, you know that by this business we have our wealth… you ought to be quiet, and to do nothing rash
+
+> **19:23** About that time there arose no small stir concerning the Way.
+> **19:24** For a certain man named Demetrius, a silversmith, who made silver shrines of Artemis, brought no little business to the craftsmen,
+> **19:25** whom he gathered together, with the workmen of like occupation, and said, “Sirs, you know that by this business we have our wealth.
+> **19:26** You see and hear, that not at Ephesus alone, but almost throughout all Asia, this Paul has persuaded and turned away many people, saying that they are no gods, that are made with hands.
+> **19:27** Not only is there danger that this our trade come into disrepute, but also that the temple of the great goddess Artemis will be counted as nothing, and her majesty destroyed, whom all Asia and the world worships.”
+> **19:28** When they heard this they were filled with anger, and cried out, saying, “Great is Artemis of the Ephesians!”
+> **19:29** The whole city was filled with confusion, and they rushed with one accord into the theater, having seized Gaius and Aristarchus, men of Macedonia, Paul’s companions in travel.
+> **19:30** When Paul wanted to enter in to the people, the disciples didn’t allow him.
+> **19:31** Certain also of the Asiarchs, being his friends, sent to him and begged him not to venture into the theater.
+> **19:32** Some therefore cried one thing, and some another, for the assembly was in confusion. Most of them didn’t know why they had come together.
+> **19:33** They brought Alexander out of the multitude, the Jews putting him forward. Alexander beckoned with his hand, and would have made a defense to the people.
+> **19:34** But when they perceived that he was a Jew, all with one voice for a time of about two hours cried out, “Great is Artemis of the Ephesians!”
+> **19:35** When the town clerk had quieted the multitude, he said, “You men of Ephesus, what man is there who doesn’t know that the city of the Ephesians is temple keeper of the great goddess Artemis, and of the image which fell down from Zeus?
+> **19:36** Seeing then that these things can’t be denied, you ought to be quiet, and to do nothing rash.
+> **19:37** For you have brought these men here, who are neither robbers of temples nor blasphemers of your goddess.
+> **19:38** If therefore Demetrius and the craftsmen who are with him have a matter against anyone, the courts are open, and there are proconsuls. Let them press charges against one another.
+> **19:39** But if you seek anything about other matters, it will be settled in the regular assembly.
+> **19:40** For indeed we are in danger of being accused concerning this day’s riot, there being no cause. Concerning it, we wouldn’t be able to give an account of this commotion.”
+> **19:41** When he had thus spoken, he dismissed the assembly.
+
+**Claim.** The riot at Ephesus begins with an honest sentence from a silversmith: 'Sirs, you know that by this business we have our wealth.' Religion defended because it is profitable — C18's counter-portrait — and a crowd that shouts for two hours, 'most of them didn't know why they had come together.' It is calmed not by the apostles but by a city official: 'you ought to be quiet, and to do nothing rash… the courts are open.' C15's de-escalation, practised by an outsider.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, humility · stages: S4 · chapters: C18, C15 · practices: none · confidence: medium
+
+---
+
+## 44. Acts 20:17-38 — These hands served my necessities… so laboring you ought to help the weak… It is more blessed to give than to receive
+
+> **20:17** From Miletus he sent to Ephesus, and called to himself the elders of the assembly.
+> **20:18** When they had come to him, he said to them, “You yourselves know, from the first day that I set foot in Asia, how I was with you all the time,
+> **20:19** serving the Lord with all humility, with many tears, and with trials which happened to me by the plots of the Jews;
+> **20:20** how I didn’t shrink from declaring to you anything that was profitable, teaching you publicly and from house to house,
+> **20:21** testifying both to Jews and to Greeks repentance toward God, and faith toward our Lord Jesus.
+> **20:22** Now, behold, I go bound by the Spirit to Jerusalem, not knowing what will happen to me there;
+> **20:23** except that the Holy Spirit testifies in every city, saying that bonds and afflictions wait for me.
+> **20:24** But these things don’t count; nor do I hold my life dear to myself, so that I may finish my race with joy, and the ministry which I received from the Lord Jesus, to fully testify to the Good News of the grace of God.
+> **20:25** “Now, behold, I know that you all, among whom I went about preaching the Kingdom of God, will see my face no more.
+> **20:26** Therefore I testify to you this day that I am clean from the blood of all men,
+> **20:27** for I didn’t shrink from declaring to you the whole counsel of God.
+> **20:28** Take heed, therefore, to yourselves, and to all the flock, in which the Holy Spirit has made you overseers, to shepherd the assembly of the Lord and God which he purchased with his own blood.
+> **20:29** For I know that after my departure, vicious wolves will enter in among you, not sparing the flock.
+> **20:30** Men will arise from among your own selves, speaking perverse things, to draw away the disciples after them.
+> **20:31** Therefore watch, remembering that for a period of three years I didn’t cease to admonish everyone night and day with tears.
+> **20:32** Now, brothers, I entrust you to God, and to the word of his grace, which is able to build up, and to give you the inheritance among all those who are sanctified.
+> **20:33** I coveted no one’s silver, or gold, or clothing.
+> **20:34** You yourselves know that these hands served my necessities, and those who were with me.
+> **20:35** In all things I gave you an example, that so laboring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, ‘It is more blessed to give than to receive.’”
+> **20:36** When he had spoken these things, he knelt down and prayed with them all.
+> **20:37** They all wept a lot, and fell on Paul’s neck and kissed him,
+> **20:38** sorrowing most of all because of the word which he had spoken, that they should see his face no more. And they accompanied him to the ship.
+
+**Claim.** Paul's farewell to the Ephesian elders is the only speech in Acts addressed to believers, and it is an account of a way of life: 'serving the Lord with all humility, with many tears'; 'nor do I hold my life dear to myself, so that I may finish my race with joy' (C18); 'Take heed… to all the flock… to shepherd the assembly' and 'therefore watch' (C16's authority and C20's guard). Then the economic testimony: 'I coveted no one's silver, or gold, or clothing. You yourselves know that these hands served my necessities, and those who were with me. In all things I gave you an example, that so laboring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, It is more blessed to give than to receive.' Work done with one's hands in order to give, which is Habitual Almsgiving built into the shape of labour, and the Sacrament of the Ordinary as its setting. They weep and fall on his neck.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility, truth · stages: S4 · chapters: C16, C18 · practices: PR05, PR23 · confidence: high
 
 ---
 

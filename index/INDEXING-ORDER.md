@@ -1,17 +1,24 @@
 # Indexing order for the remaining canon
 
-**Status, 31 October 2026.** Tiers 1, 2, and 3 are closed: twenty-five books started, all
-complete. The eleven books added today (1-2 Peter, Philippians, Colossians, Ephesians,
-Ecclesiastes, Deuteronomy, Genesis, Psalms, Job, Isaiah) are drafted and validated and await
-second-pass review (see `REVIEW-QUEUE.md`).
+**Status, 31 October 2026 (late morning).** Tiers 1 to 4 are closed. Thirty-seven books are
+complete: 1,233 entries covering 12,629 verses in pericopes, out of the 17,077 verses in those
+books. The twenty-three books added today are drafted and validated and await second-pass review
+(see `REVIEW-QUEUE.md`). They are 1-2 Peter, Philippians, Colossians, Ephesians, Ecclesiastes,
+Deuteronomy, Genesis, Psalms, Job, Isaiah, Acts, 2 Corinthians, Philemon, Galatians, Romans,
+Hebrews, 1 Corinthians, 1-2 Thessalonians, 1-2 Timothy and Titus. About 14,000 verses in 29 books
+are still untouched. Tier 5 begins with Mark.
 
-On the four practices that were unanchored this morning: PR26 had already closed with Ruth.
-PR24 has a first positive anchor at Ephesians 2:11-22 and a first counter-example at Isaiah
-65:5, both pending review. PR28 has counter-examples at Ecclesiastes 2:1-11 and Isaiah 5:8-10
-and a first positive anchor at Isaiah 23:15-18, all at medium; its strongest candidates (Acts
-2 and 4, 2 Corinthians 8-9) are still ahead in Tier 4. PR27 remains unanchored: its forecast
-anchor at 2 Peter 1:5-7 failed on the definition test, and nothing in Tiers 2 or 3 does what
-the practice describes. That is now the clearest open question in the index.
+On the four practices that were unanchored this morning:
+- **PR26** had already closed with Ruth, and 2 Timothy 1:15-18 (Onesiphorus) adds a second anchor.
+- **PR28** has positive anchors at Acts 2:42-47 and 4:32-37, 2 Corinthians 8-9 and 1 Timothy
+  6:17-19, and counter-examples at Ecclesiastes 2 and Isaiah 5. It is effectively closed, pending
+  review.
+- **PR24** has a first positive anchor at Ephesians 2:11-22 and a first counter-example at Isaiah
+  65:5, both pending review.
+- **PR27** is still the open question. Its forecast anchor at 2 Peter 1:5-7 failed the definition
+  test. Hebrews 12:4-13, where hardship is reframed as the training that "yields the peaceful fruit
+  of righteousness", is the closest candidate so far. It is tagged at medium and flagged for
+  review, because it states the practice's premise rather than its stone-by-stone act.
 
 *Originally written with thirteen books started: 9 complete, 4 partial, 53 untouched,
 and roughly 29,000 of the WEB's 31,098 verses unindexed.*

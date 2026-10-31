@@ -1,12 +1,12 @@
 # Genesis — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — chapters 1-11 (the primeval history) indexed; chapters 12-25, 25-36, and 37-50 pending. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: in progress — chapters 1-25:11 (the primeval history and Abraham) indexed; 25:19-36 and 37-50 pending. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
 **Note.** Indexed in sections along the book's own seams: the primeval history (1-11), Abraham (12-25:18), Jacob (25:19-36), and Joseph (37-50). The indexing order named chapter 18 the classic PR20 text and expected C14 and C01; chapter 18 falls in the second section.
 
-**Coverage note.** Chapters 1-11, unindexed: the sons of God and the Nephilim (6:1-4), which the index does not interpret; the genealogies of chapter 5 (except Enoch, 5:21-24), chapter 10, and 11:10-32; and the curse on Canaan (9:24-27). The last is left out deliberately. It was used for centuries to justify the enslavement of Africans, on a reading the text does not support — Canaan, not Ham, is cursed, and the Canaanites are not African — and the index will not place a formation tag on a passage with that history without saying so. The entry at 9:20-23 stops before it. Also left out: the birth of Seth and the first calling on the name (4:25-26), and the end of Noah's life (9:28-29).
+**Coverage note.** Chapters 1-11, unindexed: the sons of God and the Nephilim (6:1-4), which the index does not interpret; the genealogies of chapter 5 (except Enoch, 5:21-24), chapter 10, and 11:10-32; and the curse on Canaan (9:24-27). The last is left out deliberately. It was used for centuries to justify the enslavement of Africans, on a reading the text does not support — Canaan, not Ham, is cursed, and the Canaanites are not African — and the index will not place a formation tag on a passage with that history without saying so. The entry at 9:20-23 stops before it. Also left out: the birth of Seth and the first calling on the name (4:25-26), and the end of Noah's life (9:28-29). Chapters 12-25: the war of the kings (14:1-12, folded into the rescue entry as its setting), the boundary list of 15:18-21 (folded into its pericope), the assault at Lot's door with Lot's offer of his daughters (19:1-11), and the incest of Lot's daughters (19:30-38). Lot's hospitality in 19:1-3 is real, and the index declines to tag hospitality on a passage in which the host offers his daughters to a mob. Also left out: Nahor's descendants (22:20-24) and the genealogies of Keturah's and Ishmael's sons (25:12-18).
 
 **Sectioning note.** As with Jeremiah and Deuteronomy, the status field names what is done.
 
@@ -353,6 +353,559 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** The builders' motive is stated in their own words: 'let's build ourselves a city, and a tower whose top reaches to the sky, and let's make ourselves a name, lest we be scattered.' Achievement aimed at reputation, and security sought in a monument. The Hidden Life is the practice against exactly this — the reach for the audience, the energy spent on being perceived — and the tower is its absence at the scale of a civilisation, with its cost: the work is stopped and the builders scattered. C18's detachment is the other half: the tower is built to hold on. Confidence is medium; the passage is about collective ambition, and the practice is personal.
 
 **Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility, truth · stages: S4, S6 · chapters: C23, C18 · practices: PR13 · confidence: medium
+
+---
+
+## 17. Genesis 12:1-9 — Get out of your country… to the land that I will show you
+
+> **12:1** Now Yahweh said to Abram, “Get out of your country, and from your relatives, and from your father’s house, to the land that I will show you.
+> **12:2** I will make of you a great nation. I will bless you and make your name great. You will be a blessing.
+> **12:3** I will bless those who bless you, and I will curse him who curses you. All of the families of the earth will be blessed in you.”
+> **12:4** So Abram went, as Yahweh had spoken to him. Lot went with him. Abram was seventy-five years old when he departed out of Haran.
+> **12:5** Abram took Sarai his wife, Lot his brother’s son, all their substance that they had gathered, and the souls whom they had gotten in Haran, and they went to go into the land of Canaan. Into the land of Canaan they came.
+> **12:6** Abram passed through the land to the place of Shechem, to the oak of Moreh. The Canaanite was then in the land.
+> **12:7** Yahweh appeared to Abram and said, “I will give this land to your seed.” He built an altar there to Yahweh, who appeared to him.
+> **12:8** He left from there to the mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Ai on the east. There he built an altar to Yahweh and called on the name of Yahweh.
+> **12:9** Abram traveled, going on still toward the South.
+
+**Claim.** The call gives a direction and withholds the destination — 'to the land that I will show you' — and the response is one sentence: 'So Abram went.' He arrives in a land where 'the Canaanite was then in the land,' builds altars, and keeps moving. C17's citizen-stranger begins as a man living in tents in someone else's country, and C18's detachment as leaving a father's house on a word. Hebrews 11 will read the whole life this way.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4 · chapters: C17, C18 · practices: none · confidence: high
+
+---
+
+## 18. Genesis 12:10-20 — Please say that you are my sister
+
+> **12:10** There was a famine in the land. Abram went down into Egypt to live as a foreigner there, for the famine was severe in the land.
+> **12:11** It happened, when he had come near to enter Egypt, that he said to Sarai his wife, “See now, I know that you are a beautiful woman to look at.
+> **12:12** It will happen, when the Egyptians will see you, that they will say, ‘This is his wife.’ They will kill me, but they will save you alive.
+> **12:13** Please say that you are my sister, that it may be well with me for your sake, and that my soul may live because of you.”
+> **12:14** It happened that when Abram had come into Egypt, the Egyptians saw that the woman was very beautiful.
+> **12:15** The princes of Pharaoh saw her, and praised her to Pharaoh; and the woman was taken into Pharaoh’s house.
+> **12:16** He dealt well with Abram for her sake. He had sheep, cattle, male donkeys, male servants, female servants, female donkeys, and camels.
+> **12:17** Yahweh plagued Pharaoh and his house with great plagues because of Sarai, Abram’s wife.
+> **12:18** Pharaoh called Abram and said, “What is this that you have done to me? Why didn’t you tell me that she was your wife?
+> **12:19** Why did you say, ‘She is my sister,’ so that I took her to be my wife? Now therefore, see your wife, take her, and go your way.”
+> **12:20** Pharaoh commanded men concerning him, and they brought him on the way with his wife and all that he had.
+
+**Claim.** Fear produces a lie that endangers his wife and enriches himself, and it is the foreign king who rebukes the man of promise: 'What is this that you have done to me?' The narrator records it without softening. C21 traces failure to its root, and here the root is named in Abram's own words — 'they will kill me' — while C04's mirror is held up by an outsider.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, humility · stages: S1, S5 · chapters: C21, C04 · practices: none · confidence: medium
+
+---
+
+## 19. Genesis 13:1-18 — Let there be no strife between me and you… for we are relatives
+
+> **13:1** Abram went up out of Egypt: he, his wife, all that he had, and Lot with him, into the South.
+> **13:2** Abram was very rich in livestock, in silver, and in gold.
+> **13:3** He went on his journeys from the South even to Bethel, to the place where his tent had been at the beginning, between Bethel and Ai,
+> **13:4** to the place of the altar, which he had made there at the first. There Abram called on the name of Yahweh.
+> **13:5** Lot also, who went with Abram, had flocks, and herds, and tents.
+> **13:6** The land was not able to bear them, that they might live together: for their substance was great, so that they could not live together.
+> **13:7** There was a strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock: and the Canaanite and the Perizzite lived in the land at that time.
+> **13:8** Abram said to Lot, “Please, let there be no strife between me and you, and between my herdsmen and your herdsmen; for we are relatives.
+> **13:9** Isn’t the whole land before you? Please separate yourself from me. If you go to the left hand, then I will go to the right. Or if you go to the right hand, then I will go to the left.”
+> **13:10** Lot lifted up his eyes, and saw all the plain of the Jordan, that it was well-watered everywhere, before Yahweh destroyed Sodom and Gomorrah, like the garden of Yahweh, like the land of Egypt, as you go to Zoar.
+> **13:11** So Lot chose the Plain of the Jordan for himself. Lot traveled east, and they separated themselves the one from the other.
+> **13:12** Abram lived in the land of Canaan, and Lot lived in the cities of the plain, and moved his tent as far as Sodom.
+> **13:13** Now the men of Sodom were exceedingly wicked and sinners against Yahweh.
+> **13:14** Yahweh said to Abram, after Lot was separated from him, “Now, lift up your eyes, and look from the place where you are, northward and southward and eastward and westward,
+> **13:15** for all the land which you see, I will give to you, and to your offspring forever.
+> **13:16** I will make your offspring as the dust of the earth, so that if a man can number the dust of the earth, then your seed may also be numbered.
+> **13:17** Arise, walk through the land in its length and in its breadth; for I will give it to you.”
+> **13:18** Abram moved his tent, and came and lived by the oaks of Mamre, which are in Hebron, and built an altar there to Yahweh.
+
+**Claim.** Strife between the herdsmen, and the elder man, who has the right to choose, gives the choice away: 'Isn't the whole land before you?… If you go to the left hand, then I will go to the right.' The objective is changed from winning to keeping the relationship, and the concession is made first and out loud — the Architecture of Peace in its plainest narrative form. Lot chooses by what his eyes see, the well-watered plain 'like the garden of Yahweh,' which is toward Sodom: C07's lesson that what we see depends on what we want.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S2, S4 · chapters: C15, C07 · practices: PR09 · confidence: high
+
+---
+
+## 20. Genesis 14:1-16 — When Abram heard that his relative was taken captive
+
+> **14:1** It happened in the days of Amraphel, king of Shinar, Arioch, king of Ellasar, Chedorlaomer, king of Elam, and Tidal, king of Goiim,
+> **14:2** that they made war with Bera, king of Sodom, and with Birsha, king of Gomorrah, Shinab, king of Admah, and Shemeber, king of Zeboiim, and the king of Bela (the same is Zoar).
+> **14:3** All these joined together in the valley of Siddim (the same is the Salt Sea).
+> **14:4** Twelve years they served Chedorlaomer, and in the thirteenth year, they rebelled.
+> **14:5** In the fourteenth year Chedorlaomer came, and the kings who were with him, and struck the Rephaim in Ashteroth Karnaim, and the Zuzim in Ham, and the Emim in Shaveh Kiriathaim,
+> **14:6** and the Horites in their Mount Seir, to Elparan, which is by the wilderness.
+> **14:7** They returned, and came to En Mishpat (the same is Kadesh), and struck all the country of the Amalekites, and also the Amorites, that lived in Hazazon Tamar.
+> **14:8** The king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar) went out; and they set the battle in array against them in the valley of Siddim;
+> **14:9** against Chedorlaomer king of Elam, and Tidal king of Goiim, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings against the five.
+> **14:10** Now the valley of Siddim was full of tar pits; and the kings of Sodom and Gomorrah fled, and they fell there, and those who remained fled to the hills.
+> **14:11** They took all the goods of Sodom and Gomorrah, and all their food, and went their way.
+> **14:12** They took Lot, Abram’s brother’s son, who lived in Sodom, and his goods, and departed.
+> **14:13** One who had escaped came and told Abram, the Hebrew. Now he lived by the oaks of Mamre, the Amorite, brother of Eshcol, and brother of Aner; and these were allies of Abram.
+> **14:14** When Abram heard that his relative was taken captive, he led out his trained men, born in his house, three hundred and eighteen, and pursued as far as Dan.
+> **14:15** He divided himself against them by night, he and his servants, and struck them, and pursued them to Hobah, which is on the left hand of Damascus.
+> **14:16** He brought back all the goods, and also brought back his relative, Lot, and his goods, and the women also, and the people.
+
+**Claim.** Lot separated from Abram, took the better land, and moved toward Sodom. When Lot is carried off in a war that is no concern of Abram's, Abram arms his household and goes after him as far as Damascus. Unobligated Loyalty is fidelity in a season of difficulty when one is free to walk away; nothing obliged Abram to a nephew who had chosen against him, and he went. Confidence is medium because kinship carried real obligation in the ancient world, and the text gives no motive beyond 'his relative.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4 · chapters: C13 · practices: PR26 · confidence: medium
+
+---
+
+## 21. Genesis 14:17-24 — I will not take a thread nor a sandal strap
+
+> **14:17** The king of Sodom went out to meet him, after his return from the slaughter of Chedorlaomer and the kings who were with him, at the valley of Shaveh (that is, the King’s Valley).
+> **14:18** Melchizedek king of Salem brought out bread and wine: and he was priest of God Most High.
+> **14:19** He blessed him, and said, “Blessed be Abram of God Most High, possessor of heaven and earth:
+> **14:20** and blessed be God Most High, who has delivered your enemies into your hand.” Abram gave him a tenth of all.
+> **14:21** The king of Sodom said to Abram, “Give me the people, and take the goods to yourself.”
+> **14:22** Abram said to the king of Sodom, “I have lifted up my hand to Yahweh, God Most High, possessor of heaven and earth,
+> **14:23** that I will not take a thread nor a sandal strap nor anything that is yours, lest you should say, ‘I have made Abram rich.’
+> **14:24** I will accept nothing from you except that which the young men have eaten, and the portion of the men who went with me: Aner, Eshcol, and Mamre. Let them take their portion.”
+
+**Claim.** Offered the spoil by the king of Sodom, Abram refuses all of it — 'not a thread nor a sandal strap… lest you should say, I have made Abram rich' — while insisting that his allies receive their share. Detachment that protects his independence from a corrupt patron, C18's, and authority that guards the portion of those who fought with him, C16's. The tithe to Melchizedek and his blessing frame the refusal.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, truth · stages: S4 · chapters: C18, C16 · practices: none · confidence: high
+
+---
+
+## 22. Genesis 15:1-6 — What will you give me, since I go childless?
+
+> **15:1** After these things the word of Yahweh came to Abram in a vision, saying, “Don’t be afraid, Abram. I am your shield, your exceedingly great reward.”
+> **15:2** Abram said, “Lord Yahweh, what will you give me, since I go childless, and he who will inherit my estate is Eliezer of Damascus?”
+> **15:3** Abram said, “Behold, to me you have given no seed: and, behold, one born in my house is my heir.”
+> **15:4** Behold, the word of Yahweh came to him, saying, “This man will not be your heir, but he who will come out of your own body will be your heir.”
+> **15:5** Yahweh brought him outside, and said, “Look now toward the sky, and count the stars, if you are able to count them.” He said to Abram, “So shall your seed be.”
+> **15:6** He believed in Yahweh; and he reckoned it to him for righteousness.
+
+**Claim.** The promise of reward is answered with the grief underneath it: 'Lord Yahweh, what will you give me, since I go childless?' — said twice, plainly, to God's face. God does not rebuke the complaint; he takes Abram outside and tells him to count the stars 'if you are able.' Sacred Lament is the honest expression of grief before God without abandoning hope and without demanding immediate resolution, and Abram's next act is to believe. The night sky as the measure of the promise is C24's. Confidence is medium; the complaint is brief, and the book's stronger lament material lies in Psalms and Job.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S5, S6 · chapters: C19, C24 · practices: PR08 · confidence: medium
+
+---
+
+## 23. Genesis 15:7-21 — The iniquity of the Amorite is not yet full
+
+> **15:7** He said to him, “I am Yahweh who brought you out of Ur of the Chaldees, to give you this land to inherit it.”
+> **15:8** He said, “Lord Yahweh, how will I know that I will inherit it?”
+> **15:9** He said to him, “Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.”
+> **15:10** He brought him all of these, and divided them in the middle, and laid each half opposite the other; but he didn’t divide the birds.
+> **15:11** The birds of prey came down on the carcasses, and Abram drove them away.
+> **15:12** When the sun was going down, a deep sleep fell on Abram. Now terror and great darkness fell on him.
+> **15:13** He said to Abram, “Know for sure that your seed will live as foreigners in a land that is not theirs, and will serve them. They will afflict them four hundred years.
+> **15:14** I will also judge that nation, whom they will serve. Afterward they will come out with great wealth,
+> **15:15** but you will go to your fathers in peace. You will be buried in a good old age.
+> **15:16** In the fourth generation they will come here again, for the iniquity of the Amorite is not yet full.”
+> **15:17** It came to pass that, when the sun went down, and it was dark, behold, a smoking furnace, and a flaming torch passed between these pieces.
+> **15:18** In that day Yahweh made a covenant with Abram, saying, “To your seed I have given this land, from the river of Egypt to the great river, the river Euphrates:
+> **15:19** the Kenites, the Kenizzites, the Kadmonites,
+> **15:20** the Hittites, the Perizzites, the Rephaim,
+> **15:21** the Amorites, the Canaanites, the Girgashites, and the Jebusites.”
+
+**Claim.** A covenant cut in the dark, and a timetable longer than a life: four hundred years of affliction for his descendants, his own death 'in a good old age' before any of it is fulfilled, and judgment on the land's inhabitants deferred because their iniquity 'is not yet full.' C25's long view, in which God's purposes are measured in generations and no one sees the end of what he began.
+
+**Tags.** pillars: truth, humility · stages: S6 · chapters: C25 · practices: none · confidence: medium
+
+---
+
+## 24. Genesis 16:1-16 — You are a God who sees
+
+> **16:1** Now Sarai, Abram’s wife, bore him no children. She had a handmaid, an Egyptian, whose name was Hagar.
+> **16:2** Sarai said to Abram, “See now, Yahweh has restrained me from bearing. Please go in to my handmaid. It may be that I will obtain children by her.” Abram listened to the voice of Sarai.
+> **16:3** Sarai, Abram’s wife, took Hagar the Egyptian, her handmaid, after Abram had lived ten years in the land of Canaan, and gave her to Abram her husband to be his wife.
+> **16:4** He went in to Hagar, and she conceived. When she saw that she had conceived, her mistress was despised in her eyes.
+> **16:5** Sarai said to Abram, “This wrong is your fault. I gave my handmaid into your bosom, and when she saw that she had conceived, I was despised in her eyes. Yahweh judge between me and you.”
+> **16:6** But Abram said to Sarai, “Behold, your maid is in your hand. Do to her whatever is good in your eyes.” Sarai dealt harshly with her, and she fled from her face.
+> **16:7** The angel of Yahweh found her by a fountain of water in the wilderness, by the fountain in the way to Shur.
+> **16:8** He said, “Hagar, Sarai’s handmaid, where did you come from? Where are you going?” She said, “I am fleeing from the face of my mistress Sarai.”
+> **16:9** The angel of Yahweh said to her, “Return to your mistress, and submit yourself under her hands.”
+> **16:10** The angel of Yahweh said to her, “I will greatly multiply your seed, that they will not be numbered for multitude.”
+> **16:11** The angel of Yahweh said to her, “Behold, you are with child, and will bear a son. You shall call his name Ishmael, because Yahweh has heard your affliction.
+> **16:12** He will be like a wild donkey among men. His hand will be against every man, and every man’s hand against him. He will live opposite all of his brothers.”
+> **16:13** She called the name of Yahweh who spoke to her, “You are a God who sees,” for she said, “Have I even stayed alive after seeing him?”
+> **16:14** Therefore the well was called Beer Lahai Roi. Behold, it is between Kadesh and Bered.
+> **16:15** Hagar bore a son for Abram. Abram called the name of his son, whom Hagar bore, Ishmael.
+> **16:16** Abram was eighty-six years old when Hagar bore Ishmael to Abram.
+
+**Claim.** Sarai gives her servant to Abram, then blames him for the result — 'This wrong is your fault' — and Abram hands Hagar back to Sarai's power: 'Do to her whatever is good in your eyes.' The blaming reflex and the abdication of responsibility, both counter-examples, Sarai's of Self-Accusation (medium: she has a real grievance against Hagar's contempt, and the practice does not require silence about it). Then the one with least power is the one God finds, in the wilderness, and she names him: 'You are a God who sees.' C16's why-the-vulnerable-specifically and C19's shepherd seeking. The angel's instruction to return (16:9) is not read here as counsel to return to harsh treatment; the index does not commend it, and the curriculum's guard against loyalty that keeps someone in harm applies.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: mercy, truth · stages: S4, S5 · chapters: C16, C19 · practices: PR03 · confidence: medium
+
+---
+
+## 25. Genesis 17:1-27 — Walk before me, and be blameless
+
+> **17:1** When Abram was ninety-nine years old, Yahweh appeared to Abram, and said to him, “I am God Almighty. Walk before me, and be blameless.
+> **17:2** I will make my covenant between me and you, and will multiply you exceedingly.”
+> **17:3** Abram fell on his face. God talked with him, saying,
+> **17:4** “As for me, behold, my covenant is with you. You will be the father of a multitude of nations.
+> **17:5** Neither will your name any more be called Abram, but your name will be Abraham; for I have made you the father of a multitude of nations.
+> **17:6** I will make you exceedingly fruitful, and I will make nations of you. Kings will come out of you.
+> **17:7** I will establish my covenant between me and you and your seed after you throughout their generations for an everlasting covenant, to be a God to you and to your seed after you.
+> **17:8** I will give to you, and to your seed after you, the land where you are traveling, all the land of Canaan, for an everlasting possession. I will be their God.”
+> **17:9** God said to Abraham, “As for you, you will keep my covenant, you and your seed after you throughout their generations.
+> **17:10** This is my covenant, which you shall keep, between me and you and your seed after you. Every male among you shall be circumcised.
+> **17:11** You shall be circumcised in the flesh of your foreskin. It will be a token of the covenant between me and you.
+> **17:12** He who is eight days old will be circumcised among you, every male throughout your generations, he who is born in the house, or bought with money from any foreigner who is not of your seed.
+> **17:13** He who is born in your house, and he who is bought with your money, must be circumcised. My covenant will be in your flesh for an everlasting covenant.
+> **17:14** The uncircumcised male who is not circumcised in the flesh of his foreskin, that soul shall be cut off from his people. He has broken my covenant.”
+> **17:15** God said to Abraham, “As for Sarai your wife, you shall not call her name Sarai, but her name will be Sarah.
+> **17:16** I will bless her, and moreover I will give you a son by her. Yes, I will bless her, and she will be a mother of nations. Kings of peoples will come from her.”
+> **17:17** Then Abraham fell on his face, and laughed, and said in his heart, “Will a child be born to him who is one hundred years old? Will Sarah, who is ninety years old, give birth?”
+> **17:18** Abraham said to God, “Oh that Ishmael might live before you!”
+> **17:19** God said, “No, but Sarah, your wife, will bear you a son. You shall call his name Isaac. I will establish my covenant with him for an everlasting covenant for his seed after him.
+> **17:20** As for Ishmael, I have heard you. Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly. He will become the father of twelve princes, and I will make him a great nation.
+> **17:21** But my covenant I establish with Isaac, whom Sarah will bear to you at this set time next year.”
+> **17:22** When he finished talking with him, God went up from Abraham.
+> **17:23** Abraham took Ishmael his son, all who were born in his house, and all who were bought with his money; every male among the men of Abraham’s house, and circumcised the flesh of their foreskin in the same day, as God had said to him.
+> **17:24** Abraham was ninety-nine years old, when he was circumcised in the flesh of his foreskin.
+> **17:25** Ishmael, his son, was thirteen years old when he was circumcised in the flesh of his foreskin.
+> **17:26** In the same day both Abraham and Ishmael, his son, were circumcised.
+> **17:27** All the men of his house, those born in the house, and those bought with money of a foreigner, were circumcised with him.
+
+**Claim.** At ninety-nine, a command and a covenant: 'Walk before me, and be blameless.' Names changed, a sign given, and Abraham's response mixes laughter at the impossibility with a father's plea for the son who will not be the heir — 'Oh that Ishmael might live before you!' — which God hears. The circumcision of the whole household 'in the same day' is obedience without delay. C25's walk, given at the end of a long life rather than the beginning, and C14's household carried into the covenant together.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S4, S6 · chapters: C25, C14 · practices: none · confidence: medium
+
+---
+
+## 26. Genesis 18:1-8 — He ran to meet them from the tent door
+
+> **18:1** Yahweh appeared to him by the oaks of Mamre, as he sat in the tent door in the heat of the day.
+> **18:2** He lifted up his eyes and looked, and saw that three men stood opposite him. When he saw them, he ran to meet them from the tent door, and bowed himself to the earth,
+> **18:3** and said, “My lord, if now I have found favor in your sight, please don’t go away from your servant.
+> **18:4** Now let a little water be fetched, wash your feet, and rest yourselves under the tree.
+> **18:5** I will get a morsel of bread so you can refresh your heart. After that you may go your way, now that you have come to your servant.” They said, “Very well, do as you have said.”
+> **18:6** Abraham hurried into the tent to Sarah, and said, “Quickly prepare three measures of fine meal, knead it, and make cakes.”
+> **18:7** Abraham ran to the herd, and fetched a tender and good calf, and gave it to the servant. He hurried to dress it.
+> **18:8** He took butter, milk, and the calf which he had dressed, and set it before them. He stood by them under the tree, and they ate.
+
+**Claim.** The indexing order called this the classic text for the Sacrifice of Routine. Abraham is sitting at the tent door 'in the heat of the day,' the hour of rest, when three strangers appear. He runs to them, bows, begs them not to pass by, and then everything in the household moves: Sarah to the flour, Abraham running to the herd, the best calf, butter and milk. He offers 'a morsel of bread' and serves a feast, and he stands by them under the tree while they eat. PR20 is letting hospitality override one's own routine when a guest arrives, making the visitor comfortable without display. All of that is here. Confidence is medium for one reason: what is overridden is the midday rest, not a religious discipline, which is the specific thing the Desert Fathers' practice has in view.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4 · chapters: C14, C16 · practices: PR20 · confidence: high
+
+---
+
+## 27. Genesis 18:9-15 — No, but you did laugh
+
+> **18:9** They asked him, “Where is Sarah, your wife?” He said, “See, in the tent.”
+> **18:10** He said, “I will certainly return to you when the season comes round. Behold, Sarah your wife will have a son.” Sarah heard in the tent door, which was behind him.
+> **18:11** Now Abraham and Sarah were old, well advanced in age. Sarah had passed the age of childbearing.
+> **18:12** Sarah laughed within herself, saying, “After I have grown old will I have pleasure, my lord being old also?”
+> **18:13** Yahweh said to Abraham, “Why did Sarah laugh, saying, ‘Will I really bear a child, yet I am old?’
+> **18:14** Is anything too hard for Yahweh? At the set time I will return to you, when the season comes round, and Sarah will have a son.”
+> **18:15** Then Sarah denied, saying, “I didn’t laugh,” for she was afraid. He said, “No, but you did laugh.”
+
+**Claim.** Sarah laughs at the promise, denies it out of fear, and is answered with the plain fact and nothing more: 'No, but you did laugh.' The denial is named without being punished. 'Is anything too hard for Yahweh?' is C24's question, and the gentle refusal to accept the lie is C04's honesty without condemnation.
+
+**Tags.** pillars: truth, humility · stages: S1, S6 · chapters: C24, C04 · practices: none · confidence: medium
+
+---
+
+## 28. Genesis 18:16-33 — Shouldn't the Judge of all the earth do right?
+
+> **18:16** The men rose up from there, and looked toward Sodom. Abraham went with them to see them on their way.
+> **18:17** Yahweh said, “Will I hide from Abraham what I do,
+> **18:18** since Abraham has surely become a great and mighty nation, and all the nations of the earth will be blessed in him?
+> **18:19** For I have known him, to the end that he may command his children and his household after him, that they may keep the way of Yahweh, to do righteousness and justice; to the end that Yahweh may bring on Abraham that which he has spoken of him.”
+> **18:20** Yahweh said, “Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous,
+> **18:21** I will go down now, and see whether their deeds are as bad as the reports which have come to me. If not, I will know.”
+> **18:22** The men turned from there, and went toward Sodom, but Abraham stood yet before Yahweh.
+> **18:23** Abraham drew near, and said, “Will you consume the righteous with the wicked?
+> **18:24** What if there are fifty righteous within the city? Will you consume and not spare the place for the fifty righteous who are in it?
+> **18:25** Be it far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn’t the Judge of all the earth do right?”
+> **18:26** Yahweh said, “If I find in Sodom fifty righteous within the city, then I will spare all the place for their sake.”
+> **18:27** Abraham answered, “See now, I have taken it on myself to speak to the Lord, who am but dust and ashes.
+> **18:28** What if there will lack five of the fifty righteous? Will you destroy all the city for lack of five?” He said, “I will not destroy it, if I find forty-five there.”
+> **18:29** He spoke to him yet again, and said, “What if there are forty found there?” He said, “I will not do it for the forty’s sake.”
+> **18:30** He said, “Oh don’t let the Lord be angry, and I will speak. What if there are thirty found there?” He said, “I will not do it, if I find thirty there.”
+> **18:31** He said, “See now, I have taken it on myself to speak to the Lord. What if there are twenty found there?” He said, “I will not destroy it for the twenty’s sake.”
+> **18:32** He said, “Oh don’t let the Lord be angry, and I will speak just once more. What if ten are found there?” He said, “I will not destroy it for the ten’s sake.”
+> **18:33** Yahweh went his way, as soon as he had finished communing with Abraham, and Abraham returned to his place.
+
+**Claim.** Told that Sodom is to be judged, Abraham stands before God and argues for the city — fifty, forty-five, forty, thirty, twenty, ten — calling himself 'dust and ashes' and pressing anyway. He is pleading for the spared place, not only for his nephew. Shedding Harshness widens the circle of concern until no one stands outside it, and its practice is to pray for the good of those one has every reason to write off; this is that prayer, made for the most notorious city in scripture. The reason God discloses his plan is C14's: Abraham is to 'command his children and his household after him… to do righteousness and justice.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4, S7 · chapters: C27, C14 · practices: PR15 · confidence: high
+
+---
+
+## 29. Genesis 19:12-29 — But he lingered; and the men grabbed his hand… Yahweh being merciful to him
+
+> **19:12** The men said to Lot, “Do you have anybody else here? Sons-in-law, your sons, your daughters, and whoever you have in the city, bring them out of the place:
+> **19:13** for we will destroy this place, because the outcry against them has grown great before Yahweh that Yahweh has sent us to destroy it.”
+> **19:14** Lot went out, and spoke to his sons-in-law, who were pledged to marry his daughters, and said, “Get up! Get out of this place, for Yahweh will destroy the city.” But he seemed to his sons-in-law to be joking.
+> **19:15** When the morning came, then the angels hurried Lot, saying, “Get up! Take your wife, and your two daughters who are here, lest you be consumed in the iniquity of the city.”
+> **19:16** But he lingered; and the men grabbed his hand, his wife’s hand, and his two daughters’ hands, Yahweh being merciful to him; and they took him out, and set him outside of the city.
+> **19:17** It came to pass, when they had taken them out, that he said, “Escape for your life! Don’t look behind you, and don’t stay anywhere in the plain. Escape to the mountains, lest you be consumed!”
+> **19:18** Lot said to them, “Oh, not so, my lord.
+> **19:19** See now, your servant has found favor in your sight, and you have magnified your loving kindness, which you have shown to me in saving my life. I can’t escape to the mountain, lest evil overtake me, and I die.
+> **19:20** See now, this city is near to flee to, and it is a little one. Oh let me escape there (isn’t it a little one?), and my soul will live.”
+> **19:21** He said to him, “Behold, I have granted your request concerning this thing also, that I will not overthrow the city of which you have spoken.
+> **19:22** Hurry, escape there, for I can’t do anything until you get there.” Therefore the name of the city was called Zoar.
+> **19:23** The sun had risen on the earth when Lot came to Zoar.
+> **19:24** Then Yahweh rained on Sodom and on Gomorrah sulfur and fire from Yahweh out of the sky.
+> **19:25** He overthrew those cities, all the plain, all the inhabitants of the cities, and that which grew on the ground.
+> **19:26** But his wife looked back from behind him, and she became a pillar of salt.
+> **19:27** Abraham got up early in the morning to the place where he had stood before Yahweh.
+> **19:28** He looked toward Sodom and Gomorrah, and toward all the land of the plain, and looked, and saw that the smoke of the land went up as the smoke of a furnace.
+> **19:29** It happened, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the middle of the overthrow, when he overthrew the cities in which Lot lived.
+
+**Claim.** Warned, Lot cannot persuade his sons-in-law, who think he is joking, and at dawn he lingers — so the angels take him by the hand and put him outside, 'Yahweh being merciful to him.' Mercy that drags the reluctant out, which is C19's. His wife looks back and becomes a pillar of salt: the cost of being unable to let go of what is being left, C18's warning in its starkest image. The narrator ends with Abraham at dawn looking at the smoke, and 'God remembered Abraham, and sent Lot out.' The assault at Lot's door and Lot's offer of his daughters (19:1-11) are not indexed; see the coverage note.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: mercy, truth · stages: S4, S5 · chapters: C19, C18 · practices: none · confidence: high
+
+---
+
+## 30. Genesis 20:1-18 — Surely the fear of God is not in this place
+
+> **20:1** Abraham traveled from there toward the land of the South, and lived between Kadesh and Shur. He lived as a foreigner in Gerar.
+> **20:2** Abraham said about Sarah his wife, “She is my sister.” Abimelech king of Gerar sent, and took Sarah.
+> **20:3** But God came to Abimelech in a dream of the night, and said to him, “Behold, you are a dead man, because of the woman whom you have taken. For she is a man’s wife.”
+> **20:4** Now Abimelech had not come near her. He said, “Lord, will you kill even a righteous nation?
+> **20:5** Didn’t he tell me, ‘She is my sister?’ She, even she herself, said, ‘He is my brother.’ In the integrity of my heart and the innocence of my hands have I done this.”
+> **20:6** God said to him in the dream, “Yes, I know that in the integrity of your heart you have done this, and I also withheld you from sinning against me. Therefore I didn’t allow you to touch her.
+> **20:7** Now therefore, restore the man’s wife. For he is a prophet, and he will pray for you, and you will live. If you don’t restore her, know for sure that you will die, you, and all who are yours.”
+> **20:8** Abimelech rose early in the morning, and called all his servants, and told all these things in their ear. The men were very scared.
+> **20:9** Then Abimelech called Abraham, and said to him, “What have you done to us? How have I sinned against you, that you have brought on me and on my kingdom a great sin? You have done deeds to me that ought not to be done!”
+> **20:10** Abimelech said to Abraham, “What did you see, that you have done this thing?”
+> **20:11** Abraham said, “Because I thought, ‘Surely the fear of God is not in this place. They will kill me for my wife’s sake.’
+> **20:12** Besides, she is indeed my sister, the daughter of my father, but not the daughter of my mother; and she became my wife.
+> **20:13** It happened, when God caused me to wander from my father’s house, that I said to her, ‘This is your kindness which you shall show to me. Everywhere that we go, say of me, “He is my brother.”’”
+> **20:14** Abimelech took sheep and cattle, male servants and female servants, and gave them to Abraham, and restored Sarah, his wife, to him.
+> **20:15** Abimelech said, “Behold, my land is before you. Dwell where it pleases you.”
+> **20:16** To Sarah he said, “Behold, I have given your brother a thousand pieces of silver. Behold, it is for you a covering of the eyes to all that are with you. In front of all you are vindicated.”
+> **20:17** Abraham prayed to God. God healed Abimelech, and his wife, and his female servants, and they bore children.
+> **20:18** For Yahweh had closed up tight all the wombs of the house of Abimelech, because of Sarah, Abraham’s wife.
+
+**Claim.** The same lie as in Egypt, and the same reversal: the foreign king is the one with 'integrity of heart,' and Abraham's excuse exposes his assumption — 'I thought, Surely the fear of God is not in this place.' A prejudice about outsiders, proved false by the outsider. C21's diagnosis of fear as the root, and C04's mirror, again held up by someone the man of promise had written off. Abraham's prayer for Abimelech's household, at the end, is the repair.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, humility · stages: S1, S5 · chapters: C21, C04 · practices: none · confidence: medium
+
+---
+
+## 31. Genesis 21:1-7 — God has made me laugh. Everyone who hears will laugh with me
+
+> **21:1** Yahweh visited Sarah as he had said, and Yahweh did to Sarah as he had spoken.
+> **21:2** Sarah conceived, and bore Abraham a son in his old age, at the set time of which God had spoken to him.
+> **21:3** Abraham called his son who was born to him, whom Sarah bore to him, Isaac.
+> **21:4** Abraham circumcised his son, Isaac, when he was eight days old, as God had commanded him.
+> **21:5** Abraham was one hundred years old when his son, Isaac, was born to him.
+> **21:6** Sarah said, “God has made me laugh. Everyone who hears will laugh with me.”
+> **21:7** She said, “Who would have said to Abraham, that Sarah would nurse children? For I have borne him a son in his old age.”
+
+**Claim.** The laughter of disbelief in chapter 18 becomes the laughter of joy, and the child is named for it. 'At the set time of which God had spoken' — a promise kept on its own schedule, twenty-five years after it was given. C10's joy as something received, and C25's long wait with a definite end.
+
+**Tags.** pillars: mercy, humility · stages: S3, S6 · chapters: C10, C25 · practices: none · confidence: high
+
+---
+
+## 32. Genesis 21:8-21 — God opened her eyes, and she saw a well of water
+
+> **21:8** The child grew, and was weaned. Abraham made a great feast on the day that Isaac was weaned.
+> **21:9** Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, mocking.
+> **21:10** Therefore she said to Abraham, “Cast out this handmaid and her son! For the son of this handmaid will not be heir with my son, Isaac.”
+> **21:11** The thing was very grievous in Abraham’s sight on account of his son.
+> **21:12** God said to Abraham, “Don’t let it be grievous in your sight because of the boy, and because of your handmaid. In all that Sarah says to you, listen to her voice. For from Isaac will your seed be called.
+> **21:13** I will also make a nation of the son of the handmaid, because he is your seed.”
+> **21:14** Abraham rose up early in the morning, and took bread and a bottle of water, and gave it to Hagar, putting it on her shoulder; and gave her the child, and sent her away. She departed, and wandered in the wilderness of Beersheba.
+> **21:15** The water in the bottle was spent, and she cast the child under one of the shrubs.
+> **21:16** She went and sat down opposite him, a good way off, about a bow shot away. For she said, “Don’t let me see the death of the child.” She sat over against him, and lifted up her voice, and wept.
+> **21:17** God heard the voice of the boy. The angel of God called to Hagar out of the sky, and said to her, “What ails you, Hagar? Don’t be afraid. For God has heard the voice of the boy where he is.
+> **21:18** Get up, lift up the boy, and hold him in your hand. For I will make him a great nation.”
+> **21:19** God opened her eyes, and she saw a well of water. She went, filled the bottle with water, and gave the boy drink.
+> **21:20** God was with the boy, and he grew. He lived in the wilderness, and became, as he grew up, an archer.
+> **21:21** He lived in the wilderness of Paran. His mother took a wife for him out of the land of Egypt.
+
+**Claim.** Hagar and her son are sent into the wilderness with bread and a skin of water. When the water is gone she puts the boy under a bush and sits a bowshot away — 'Don't let me see the death of the child' — and lifts up her voice and weeps. 'God heard the voice of the boy.' Grief voiced without restraint in the far place, and heard: Sacred Lament at medium, since her weeping is not addressed to God by name, though the text answers it as though it were. Then 'God opened her eyes, and she saw a well' — the water was already there. C06 is built around exactly that kind of seeing, given rather than achieved. C19's door opens for the one cast out.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S2, S5 · chapters: C06, C19 · practices: PR08 · confidence: medium
+
+---
+
+## 33. Genesis 21:22-34 — Abraham complained to Abimelech because of a water well
+
+> **21:22** It happened at that time, that Abimelech and Phicol the captain of his army spoke to Abraham, saying, “God is with you in all that you do.
+> **21:23** Now, therefore, swear to me here by God that you will not deal falsely with me, nor with my son, nor with my son’s son. But according to the kindness that I have done to you, you shall do to me, and to the land in which you have lived as a foreigner.”
+> **21:24** Abraham said, “I will swear.”
+> **21:25** Abraham complained to Abimelech because of a water well, which Abimelech’s servants had violently taken away.
+> **21:26** Abimelech said, “I don’t know who has done this thing. You didn’t tell me, neither did I hear of it, until today.”
+> **21:27** Abraham took sheep and cattle, and gave them to Abimelech. Those two made a covenant.
+> **21:28** Abraham set seven ewe lambs of the flock by themselves.
+> **21:29** Abimelech said to Abraham, “What do these seven ewe lambs which you have set by themselves mean?”
+> **21:30** He said, “You shall take these seven ewe lambs from my hand, that it may be a witness to me, that I have dug this well.”
+> **21:31** Therefore he called that place Beersheba, because they both swore there.
+> **21:32** So they made a covenant at Beersheba. Abimelech rose up with Phicol, the captain of his army, and they returned into the land of the Philistines.
+> **21:33** Abraham planted a tamarisk tree in Beersheba, and called there on the name of Yahweh, the Everlasting God.
+> **21:34** Abraham lived as a foreigner in the land of the Philistines many days.
+
+**Claim.** A grievance raised honestly — the well seized by Abimelech's servants — and answered: 'I don't know who has done this thing.' Abraham does not press for a verdict; he gives sheep and cattle and sets aside seven lambs as a witness, and the two make a covenant. The dispute is resolved by repair rather than victory, which is the Architecture of Peace. Medium, because the gift also secures his claim to the well.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4 · chapters: C15 · practices: PR09 · confidence: medium
+
+---
+
+## 34. Genesis 22:1-19 — God will provide himself the lamb
+
+> **22:1** It happened after these things, that God tested Abraham, and said to him, “Abraham!” He said, “Here I am.”
+> **22:2** He said, “Now take your son, your only son, whom you love, even Isaac, and go into the land of Moriah. Offer him there for a burnt offering on one of the mountains which I will tell you of.”
+> **22:3** Abraham rose early in the morning, and saddled his donkey, and took two of his young men with him, and Isaac his son. He split the wood for the burnt offering, and rose up, and went to the place of which God had told him.
+> **22:4** On the third day Abraham lifted up his eyes, and saw the place far off.
+> **22:5** Abraham said to his young men, “Stay here with the donkey. The boy and I will go yonder. We will worship, and come back to you.”
+> **22:6** Abraham took the wood of the burnt offering and laid it on Isaac his son. He took in his hand the fire and the knife. They both went together.
+> **22:7** Isaac spoke to Abraham his father, and said, “My father?” He said, “Here I am, my son.” He said, “Here is the fire and the wood, but where is the lamb for a burnt offering?”
+> **22:8** Abraham said, “God will provide himself the lamb for a burnt offering, my son.” So they both went together.
+> **22:9** They came to the place which God had told him of. Abraham built the altar there, and laid the wood in order, bound Isaac his son, and laid him on the altar, on the wood.
+> **22:10** Abraham stretched out his hand, and took the knife to kill his son.
+> **22:11** The angel of Yahweh called to him out of the sky, and said, “Abraham, Abraham!” He said, “Here I am.”
+> **22:12** He said, “Don’t lay your hand on the boy, neither do anything to him. For now I know that you fear God, since you have not withheld your son, your only son, from me.”
+> **22:13** Abraham lifted up his eyes, and looked, and saw that behind him was a ram caught in the thicket by his horns. Abraham went and took the ram, and offered him up for a burnt offering instead of his son.
+> **22:14** Abraham called the name of that place Yahweh Will Provide. As it is said to this day, “On Yahweh’s mountain, it will be provided.”
+> **22:15** The angel of Yahweh called to Abraham a second time out of the sky,
+> **22:16** and said, “I have sworn by myself, says Yahweh, because you have done this thing, and have not withheld your son, your only son,
+> **22:17** that I will bless you greatly, and I will multiply your seed greatly like the stars of the heavens, and like the sand which is on the seashore. Your seed will possess the gate of his enemies.
+> **22:18** In your seed will all the nations of the earth be blessed, because you have obeyed my voice.”
+> **22:19** So Abraham returned to his young men, and they rose up and went together to Beersheba. Abraham lived at Beersheba.
+
+**Claim.** 'Take your son, your only son, whom you love.' Abraham rises early, saddles the donkey, splits the wood, and walks three days. To his son's question he answers, 'God will provide himself the lamb, my son,' and the text says twice, 'they both went together.' The index tags what the passage plainly shows: a man not withholding what he loves most, C18's detachment at its most extreme, and a trust that walks forward without understanding, C24's. PR04 was considered for the latter and not tagged; the passage is a test of obedience, and reading it as a discipline of unknowing would be to explain it, which the narrator conspicuously declines to do.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, truth · stages: S4, S6 · chapters: C18, C24 · practices: none · confidence: high
+
+---
+
+## 35. Genesis 23:1-20 — I am a stranger and a foreigner living with you
+
+> **23:1** Sarah lived one hundred twenty-seven years. This was the length of Sarah’s life.
+> **23:2** Sarah died in Kiriath Arba (the same is Hebron), in the land of Canaan. Abraham came to mourn for Sarah, and to weep for her.
+> **23:3** Abraham rose up from before his dead, and spoke to the children of Heth, saying,
+> **23:4** “I am a stranger and a foreigner living with you. Give me a possession of a burying-place with you, that I may bury my dead out of my sight.”
+> **23:5** The children of Heth answered Abraham, saying to him,
+> **23:6** “Hear us, my lord. You are a prince of God among us. Bury your dead in the best of our tombs. None of us will withhold from you his tomb. Bury your dead.”
+> **23:7** Abraham rose up, and bowed himself to the people of the land, even to the children of Heth.
+> **23:8** He talked with them, saying, “If it be your mind that I should bury my dead out of my sight, hear me, and entreat for me to Ephron the son of Zohar,
+> **23:9** that he may give me the cave of Machpelah, which he has, which is in the end of his field. For the full price let him give it to me among you for a possession of a burying-place.”
+> **23:10** Now Ephron was sitting in the middle of the children of Heth. Ephron the Hittite answered Abraham in the hearing of the children of Heth, even of all who went in at the gate of his city, saying,
+> **23:11** “No, my lord, hear me. I give you the field, and I give you the cave that is in it. In the presence of the children of my people I give it to you. Bury your dead.”
+> **23:12** Abraham bowed himself down before the people of the land.
+> **23:13** He spoke to Ephron in the audience of the people of the land, saying, “But if you will, please hear me. I will give the price of the field. Take it from me, and I will bury my dead there.”
+> **23:14** Ephron answered Abraham, saying to him,
+> **23:15** “My lord, listen to me. What is a piece of land worth four hundred shekels of silver between me and you? Therefore bury your dead.”
+> **23:16** Abraham listened to Ephron. Abraham weighed to Ephron the silver which he had named in the audience of the children of Heth, four hundred shekels of silver, according to the current merchants’ standard.
+> **23:17** So the field of Ephron, which was in Machpelah, which was before Mamre, the field, the cave which was in it, and all the trees that were in the field, that were in all of its borders, were deeded
+> **23:18** to Abraham for a possession in the presence of the children of Heth, before all who went in at the gate of his city.
+> **23:19** After this, Abraham buried Sarah his wife in the cave of the field of Machpelah before Mamre (that is, Hebron), in the land of Canaan.
+> **23:20** The field, and the cave that is in it, were deeded to Abraham for a possession of a burying place by the children of Heth.
+
+**Claim.** Sarah dies, and Abraham mourns and weeps. Then he negotiates for a grave as what he is — 'a stranger and a foreigner living with you' — bowing to the people of the land, declining a gift, and paying the full price in public 'according to the current merchants' standard.' Full, courteous, honest participation in the life of a society that is not his, while the burial itself is an act of faith in a promise about the land. The Citizen-Stranger's posture, conducted at a graveside.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4 · chapters: C17 · practices: PR10 · confidence: high
+
+---
+
+## 36. Genesis 24:1-27 — I will also draw for your camels, until they have done drinking
+
+> **24:1** Abraham was old, and well stricken in age. Yahweh had blessed Abraham in all things.
+> **24:2** Abraham said to his servant, the elder of his house, who ruled over all that he had, “Please put your hand under my thigh.
+> **24:3** I will make you swear by Yahweh, the God of heaven and the God of the earth, that you shall not take a wife for my son of the daughters of the Canaanites, among whom I live.
+> **24:4** But you shall go to my country, and to my relatives, and take a wife for my son Isaac.”
+> **24:5** The servant said to him, “What if the woman isn’t willing to follow me to this land? Must I bring your son again to the land you came from?”
+> **24:6** Abraham said to him, “Beware that you don’t bring my son there again.
+> **24:7** Yahweh, the God of heaven, who took me from my father’s house, and from the land of my birth, who spoke to me, and who swore to me, saying, ‘I will give this land to your seed.’ He will send his angel before you, and you shall take a wife for my son from there.
+> **24:8** If the woman isn’t willing to follow you, then you shall be clear from this my oath. Only you shall not bring my son there again.”
+> **24:9** The servant put his hand under the thigh of Abraham his master, and swore to him concerning this matter.
+> **24:10** The servant took ten camels, of his master’s camels, and departed, having a variety of good things of his master’s with him. He arose, and went to Mesopotamia, to the city of Nahor.
+> **24:11** He made the camels kneel down outside the city by the well of water at the time of evening, the time that women go out to draw water.
+> **24:12** He said, “Yahweh, the God of my master Abraham, please give me success this day, and show kindness to my master Abraham.
+> **24:13** Behold, I am standing by the spring of water. The daughters of the men of the city are coming out to draw water.
+> **24:14** Let it happen, that the young lady to whom I will say, ‘Please let down your pitcher, that I may drink,’ and she will say, ‘Drink, and I will also give your camels a drink,’—let her be the one you have appointed for your servant Isaac. By this I will know that you have shown kindness to my master.”
+> **24:15** It happened, before he had finished speaking, that behold, Rebekah came out, who was born to Bethuel the son of Milcah, the wife of Nahor, Abraham’s brother, with her pitcher on her shoulder.
+> **24:16** The young lady was very beautiful to look at, a virgin, neither had any man known her. She went down to the spring, filled her pitcher, and came up.
+> **24:17** The servant ran to meet her, and said, “Please give me a drink, a little water from your pitcher.”
+> **24:18** She said, “Drink, my lord.” She hurried, and let down her pitcher on her hand, and gave him drink.
+> **24:19** When she had done giving him drink, she said, “I will also draw for your camels, until they have done drinking.”
+> **24:20** She hurried, and emptied her pitcher into the trough, and ran again to the well to draw, and drew for all his camels.
+> **24:21** The man looked steadfastly at her, remaining silent, to know whether Yahweh had made his journey prosperous or not.
+> **24:22** It happened, as the camels had done drinking, that the man took a golden ring of half a shekel weight, and two bracelets for her hands of ten shekels weight of gold,
+> **24:23** and said, “Whose daughter are you? Please tell me. Is there room in your father’s house for us to lodge in?”
+> **24:24** She said to him, “I am the daughter of Bethuel the son of Milcah, whom she bore to Nahor.”
+> **24:25** She said moreover to him, “We have both straw and provender enough, and room to lodge in.”
+> **24:26** The man bowed his head, and worshiped Yahweh.
+> **24:27** He said, “Blessed be Yahweh, the God of my master Abraham, who has not forsaken his loving kindness and his truth toward my master. As for me, Yahweh has led me in the way to the house of my master’s relatives.”
+
+**Claim.** The servant prays for a sign of kindness and receives more than he asked: a stranger at a well gives him water and then, unasked, draws for all ten camels, running back and forth 'until they have done drinking.' Spontaneous Service is pausing one's own work to help someone finish theirs, and treating the interruption as the work; she was there to fill her own pitcher. The servant's faithfulness to an absent master — praying, watching in silence, worshipping when the answer comes — is C13's ordinary faithfulness and C16's stewardship.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4 · chapters: C13, C16 · practices: PR19 · confidence: high
+
+---
+
+## 37. Genesis 24:28-61 — I will not eat until I have told my message
+
+> **24:28** The young lady ran, and told her mother’s house about these words.
+> **24:29** Rebekah had a brother, and his name was Laban. Laban ran out to the man, to the spring.
+> **24:30** It happened, when he saw the ring, and the bracelets on his sister’s hands, and when he heard the words of Rebekah his sister, saying, “This is what the man said to me,” that he came to the man. Behold, he was standing by the camels at the spring.
+> **24:31** He said, “Come in, you blessed of Yahweh. Why do you stand outside? For I have prepared the house, and room for the camels.”
+> **24:32** The man came into the house, and he unloaded the camels. He gave straw and provender for the camels, and water to wash his feet and the feet of the men who were with him.
+> **24:33** Food was set before him to eat, but he said, “I will not eat until I have told my message.” He said, “Speak on.”
+> **24:34** He said, “I am Abraham’s servant.
+> **24:35** Yahweh has blessed my master greatly. He has become great. He has given him flocks and herds, silver and gold, male servants and female servants, and camels and donkeys.
+> **24:36** Sarah, my master’s wife, bore a son to my master when she was old. He has given all that he has to him.
+> **24:37** My master made me swear, saying, ‘You shall not take a wife for my son of the daughters of the Canaanites, in whose land I live,
+> **24:38** but you shall go to my father’s house, and to my relatives, and take a wife for my son.’
+> **24:39** I asked my master, ‘What if the woman will not follow me?’
+> **24:40** He said to me, ‘Yahweh, before whom I walk, will send his angel with you, and prosper your way. You shall take a wife for my son of my relatives, and of my father’s house.
+> **24:41** Then will you be clear from my oath, when you come to my relatives. If they don’t give her to you, you shall be clear from my oath.’
+> **24:42** I came this day to the spring, and said, ‘Yahweh, the God of my master Abraham, if now you do prosper my way which I go—
+> **24:43** behold, I am standing by this spring of water. Let it happen, that the maiden who comes out to draw, to whom I will say, “Please give me a little water from your pitcher to drink,”
+> **24:44** and she will tell me, “Drink, and I will also draw for your camels,”—let her be the woman whom Yahweh has appointed for my master’s son.’
+> **24:45** Before I had finished speaking in my heart, behold, Rebekah came out with her pitcher on her shoulder. She went down to the spring, and drew. I said to her, ‘Please let me drink.’
+> **24:46** She hurried and let down her pitcher from her shoulder, and said, ‘Drink, and I will also give your camels a drink.’ So I drank, and she also gave the camels a drink.
+> **24:47** I asked her, and said, ‘Whose daughter are you?’ She said, ‘The daughter of Bethuel, Nahor’s son, whom Milcah bore to him.’ I put the ring on her nose, and the bracelets on her hands.
+> **24:48** I bowed my head, and worshiped Yahweh, and blessed Yahweh, the God of my master Abraham, who had led me in the right way to take my master’s brother’s daughter for his son.
+> **24:49** Now if you will deal kindly and truly with my master, tell me. If not, tell me, that I may turn to the right hand, or to the left.”
+> **24:50** Then Laban and Bethuel answered, “The thing proceeds from Yahweh. We can’t speak to you bad or good.
+> **24:51** Behold, Rebekah is before you. Take her, and go, and let her be your master’s son’s wife, as Yahweh has spoken.”
+> **24:52** It happened that when Abraham’s servant heard their words, he bowed himself down to the earth to Yahweh.
+> **24:53** The servant brought out jewels of silver, and jewels of gold, and clothing, and gave them to Rebekah. He also gave precious things to her brother and her mother.
+> **24:54** They ate and drank, he and the men who were with him, and stayed all night. They rose up in the morning, and he said, “Send me away to my master.”
+> **24:55** Her brother and her mother said, “Let the young lady stay with us a few days, at least ten. After that she will go.”
+> **24:56** He said to them, “Don’t hinder me, since Yahweh has prospered my way. Send me away that I may go to my master.”
+> **24:57** They said, “We will call the young lady, and ask her.”
+> **24:58** They called Rebekah, and said to her, “Will you go with this man?” She said, “I will go.”
+> **24:59** They sent away Rebekah, their sister, with her nurse, Abraham’s servant, and his men.
+> **24:60** They blessed Rebekah, and said to her, “Our sister, may you be the mother of thousands of ten thousands, and let your seed possess the gate of those who hate them.”
+> **24:61** Rebekah arose with her ladies. They rode on the camels, and followed the man. The servant took Rebekah, and went his way.
+
+**Claim.** Food is set before a traveller who has come four hundred miles, and he refuses it until he has delivered his errand. The story is retold in full so that the household can judge it for themselves, and Rebekah herself is asked: 'Will you go with this man?' 'I will go.' C13's faithfulness of a servant who puts the task before his own comfort, and C14's household that consults the one whose life is being decided.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4 · chapters: C13, C14 · practices: none · confidence: medium
+
+---
+
+## 38. Genesis 24:62-67 — Isaac went out to meditate in the field at the evening
+
+> **24:62** Isaac came from the way of Beer Lahai Roi, for he lived in the land of the South.
+> **24:63** Isaac went out to meditate in the field at the evening. He lifted up his eyes, and saw, and, behold, there were camels coming.
+> **24:64** Rebekah lifted up her eyes, and when she saw Isaac, she dismounted from the camel.
+> **24:65** She said to the servant, “Who is the man who is walking in the field to meet us?” The servant said, “It is my master.” She took her veil, and covered herself.
+> **24:66** The servant told Isaac all the things that he had done.
+> **24:67** Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife. He loved her. Isaac was comforted after his mother’s death.
+
+**Claim.** Isaac is introduced alone, in a field, at evening, meditating — and looks up to see the camels. The marriage ends the chapter with three short clauses: she became his wife, he loved her, and 'Isaac was comforted after his mother's death.' C09's solitary place of prayer, and C14's household as the place where grief is comforted.
+
+**Tags.** pillars: humility, mercy · stages: S3, S4 · chapters: C09, C14 · practices: none · confidence: medium
+
+---
+
+## 39. Genesis 25:1-11 — Isaac and Ishmael, his sons, buried him
+
+> **25:1** Abraham took another wife, and her name was Keturah.
+> **25:2** She bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
+> **25:3** Jokshan became the father of Sheba, and Dedan. The sons of Dedan were Asshurim, Letushim, and Leummim.
+> **25:4** The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the children of Keturah.
+> **25:5** Abraham gave all that he had to Isaac,
+> **25:6** but to the sons of Abraham’s concubines, Abraham gave gifts. He sent them away from Isaac his son, while he yet lived, eastward, to the east country.
+> **25:7** These are the days of the years of Abraham’s life which he lived: one hundred seventy-five years.
+> **25:8** Abraham gave up the spirit, and died in a good old age, an old man, and full of years, and was gathered to his people.
+> **25:9** Isaac and Ishmael, his sons, buried him in the cave of Machpelah, in the field of Ephron, the son of Zohar the Hittite, which is before Mamre,
+> **25:10** the field which Abraham purchased of the children of Heth. Abraham was buried there with Sarah, his wife.
+> **25:11** It happened after the death of Abraham that God blessed Isaac, his son. Isaac lived by Beer Lahai Roi.
+
+**Claim.** Abraham dies 'in a good old age, an old man, and full of years,' and the two sons whose mothers were set against each other, one of whom was sent into the wilderness, bury him together in the field he bought. The narrator makes nothing of it. C15's peace, recorded at a grave rather than negotiated, and C25's life completed at the pace it was given.
+
+**Tags.** pillars: mercy, humility · stages: S4, S6 · chapters: C15, C25 · practices: none · confidence: medium
 
 ---
 

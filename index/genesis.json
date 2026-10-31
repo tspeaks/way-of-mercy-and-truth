@@ -1,12 +1,12 @@
 {
   "book": "Genesis",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — chapters 1-11 (the primeval history) indexed; chapters 12-25, 25-36, and 37-50 pending",
+  "status": "in progress — chapters 1-25:11 (the primeval history and Abraham) indexed; 25:19-36 and 37-50 pending",
   "method_version": "2.3",
   "text_source": "index/text/genesis.json",
   "note": "Indexed in sections along the book's own seams: the primeval history (1-11), Abraham (12-25:18), Jacob (25:19-36), and Joseph (37-50). The indexing order named chapter 18 the classic PR20 text and expected C14 and C01; chapter 18 falls in the second section.",
   "sectioning_note": "As with Jeremiah and Deuteronomy, the status field names what is done.",
-  "coverage_note": "Chapters 1-11, unindexed: the sons of God and the Nephilim (6:1-4), which the index does not interpret; the genealogies of chapter 5 (except Enoch, 5:21-24), chapter 10, and 11:10-32; and the curse on Canaan (9:24-27). The last is left out deliberately. It was used for centuries to justify the enslavement of Africans, on a reading the text does not support — Canaan, not Ham, is cursed, and the Canaanites are not African — and the index will not place a formation tag on a passage with that history without saying so. The entry at 9:20-23 stops before it. Also left out: the birth of Seth and the first calling on the name (4:25-26), and the end of Noah's life (9:28-29).",
+  "coverage_note": "Chapters 1-11, unindexed: the sons of God and the Nephilim (6:1-4), which the index does not interpret; the genealogies of chapter 5 (except Enoch, 5:21-24), chapter 10, and 11:10-32; and the curse on Canaan (9:24-27). The last is left out deliberately. It was used for centuries to justify the enslavement of Africans, on a reading the text does not support — Canaan, not Ham, is cursed, and the Canaanites are not African — and the index will not place a formation tag on a passage with that history without saying so. The entry at 9:20-23 stops before it. Also left out: the birth of Seth and the first calling on the name (4:25-26), and the end of Noah's life (9:28-29). Chapters 12-25: the war of the kings (14:1-12, folded into the rescue entry as its setting), the boundary list of 15:18-21 (folded into its pericope), the assault at Lot's door with Lot's offer of his daughters (19:1-11), and the incest of Lot's daughters (19:30-38). Lot's hospitality in 19:1-3 is real, and the index declines to tag hospitality on a passage in which the host offers his daughters to a mob. Also left out: Nahor's descendants (22:20-24) and the genealogies of Keturah's and Ishmael's sons (25:12-18).",
   "entries": [
     {
       "ref": "Genesis 1:1-2:3",
@@ -343,6 +343,490 @@
       ],
       "mode": "counter-example",
       "connection": "The builders' motive is stated in their own words: 'let's build ourselves a city, and a tower whose top reaches to the sky, and let's make ourselves a name, lest we be scattered.' Achievement aimed at reputation, and security sought in a monument. The Hidden Life is the practice against exactly this — the reach for the audience, the energy spent on being perceived — and the tower is its absence at the scale of a civilisation, with its cost: the work is stopped and the builders scattered. C18's detachment is the other half: the tower is built to hold on. Confidence is medium; the passage is about collective ambition, and the practice is personal.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 12:1-9",
+      "pericope": "Get out of your country… to the land that I will show you",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The call gives a direction and withholds the destination — 'to the land that I will show you' — and the response is one sentence: 'So Abram went.' He arrives in a land where 'the Canaanite was then in the land,' builds altars, and keeps moving. C17's citizen-stranger begins as a man living in tents in someone else's country, and C18's detachment as leaving a father's house on a word. Hebrews 11 will read the whole life this way.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 12:10-20",
+      "pericope": "Please say that you are my sister",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C04"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Fear produces a lie that endangers his wife and enriches himself, and it is the foreign king who rebukes the man of promise: 'What is this that you have done to me?' The narrator records it without softening. C21 traces failure to its root, and here the root is named in Abram's own words — 'they will kill me' — while C04's mirror is held up by an outsider.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 13:1-18",
+      "pericope": "Let there be no strife between me and you… for we are relatives",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C07"
+      ],
+      "practices": [
+        "PR09"
+      ],
+      "mode": "exemplifies",
+      "connection": "Strife between the herdsmen, and the elder man, who has the right to choose, gives the choice away: 'Isn't the whole land before you?… If you go to the left hand, then I will go to the right.' The objective is changed from winning to keeping the relationship, and the concession is made first and out loud — the Architecture of Peace in its plainest narrative form. Lot chooses by what his eyes see, the well-watered plain 'like the garden of Yahweh,' which is toward Sodom: C07's lesson that what we see depends on what we want.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 14:1-16",
+      "pericope": "When Abram heard that his relative was taken captive",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13"
+      ],
+      "practices": [
+        "PR26"
+      ],
+      "mode": "exemplifies",
+      "connection": "Lot separated from Abram, took the better land, and moved toward Sodom. When Lot is carried off in a war that is no concern of Abram's, Abram arms his household and goes after him as far as Damascus. Unobligated Loyalty is fidelity in a season of difficulty when one is free to walk away; nothing obliged Abram to a nephew who had chosen against him, and he went. Confidence is medium because kinship carried real obligation in the ancient world, and the text gives no motive beyond 'his relative.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 14:17-24",
+      "pericope": "I will not take a thread nor a sandal strap",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Offered the spoil by the king of Sodom, Abram refuses all of it — 'not a thread nor a sandal strap… lest you should say, I have made Abram rich' — while insisting that his allies receive their share. Detachment that protects his independence from a corrupt patron, C18's, and authority that guards the portion of those who fought with him, C16's. The tithe to Melchizedek and his blessing frame the refusal.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 15:1-6",
+      "pericope": "What will you give me, since I go childless?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C24"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The promise of reward is answered with the grief underneath it: 'Lord Yahweh, what will you give me, since I go childless?' — said twice, plainly, to God's face. God does not rebuke the complaint; he takes Abram outside and tells him to count the stars 'if you are able.' Sacred Lament is the honest expression of grief before God without abandoning hope and without demanding immediate resolution, and Abram's next act is to believe. The night sky as the measure of the promise is C24's. Confidence is medium; the complaint is brief, and the book's stronger lament material lies in Psalms and Job.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 15:7-21",
+      "pericope": "The iniquity of the Amorite is not yet full",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [],
+      "connection": "A covenant cut in the dark, and a timetable longer than a life: four hundred years of affliction for his descendants, his own death 'in a good old age' before any of it is fulfilled, and judgment on the land's inhabitants deferred because their iniquity 'is not yet full.' C25's long view, in which God's purposes are measured in generations and no one sees the end of what he began.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 16:1-16",
+      "pericope": "You are a God who sees",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C19"
+      ],
+      "practices": [
+        "PR03"
+      ],
+      "mode": "counter-example",
+      "connection": "Sarai gives her servant to Abram, then blames him for the result — 'This wrong is your fault' — and Abram hands Hagar back to Sarai's power: 'Do to her whatever is good in your eyes.' The blaming reflex and the abdication of responsibility, both counter-examples, Sarai's of Self-Accusation (medium: she has a real grievance against Hagar's contempt, and the practice does not require silence about it). Then the one with least power is the one God finds, in the wilderness, and she names him: 'You are a God who sees.' C16's why-the-vulnerable-specifically and C19's shepherd seeking. The angel's instruction to return (16:9) is not read here as counsel to return to harsh treatment; the index does not commend it, and the curriculum's guard against loyalty that keeps someone in harm applies.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 17:1-27",
+      "pericope": "Walk before me, and be blameless",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "At ninety-nine, a command and a covenant: 'Walk before me, and be blameless.' Names changed, a sign given, and Abraham's response mixes laughter at the impossibility with a father's plea for the son who will not be the heir — 'Oh that Ishmael might live before you!' — which God hears. The circumcision of the whole household 'in the same day' is obedience without delay. C25's walk, given at the end of a long life rather than the beginning, and C14's household carried into the covenant together.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 18:1-8",
+      "pericope": "He ran to meet them from the tent door",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14",
+        "C16"
+      ],
+      "practices": [
+        "PR20"
+      ],
+      "mode": "exemplifies",
+      "connection": "The indexing order called this the classic text for the Sacrifice of Routine. Abraham is sitting at the tent door 'in the heat of the day,' the hour of rest, when three strangers appear. He runs to them, bows, begs them not to pass by, and then everything in the household moves: Sarah to the flour, Abraham running to the herd, the best calf, butter and milk. He offers 'a morsel of bread' and serves a feast, and he stands by them under the tree while they eat. PR20 is letting hospitality override one's own routine when a guest arrives, making the visitor comfortable without display. All of that is here. Confidence is medium for one reason: what is overridden is the midday rest, not a religious discipline, which is the specific thing the Desert Fathers' practice has in view.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 18:9-15",
+      "pericope": "No, but you did laugh",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C04"
+      ],
+      "practices": [],
+      "connection": "Sarah laughs at the promise, denies it out of fear, and is answered with the plain fact and nothing more: 'No, but you did laugh.' The denial is named without being punished. 'Is anything too hard for Yahweh?' is C24's question, and the gentle refusal to accept the lie is C04's honesty without condemnation.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 18:16-33",
+      "pericope": "Shouldn't the Judge of all the earth do right?",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C14"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "Told that Sodom is to be judged, Abraham stands before God and argues for the city — fifty, forty-five, forty, thirty, twenty, ten — calling himself 'dust and ashes' and pressing anyway. He is pleading for the spared place, not only for his nephew. Shedding Harshness widens the circle of concern until no one stands outside it, and its practice is to pray for the good of those one has every reason to write off; this is that prayer, made for the most notorious city in scripture. The reason God discloses his plan is C14's: Abraham is to 'command his children and his household after him… to do righteousness and justice.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 19:12-29",
+      "pericope": "But he lingered; and the men grabbed his hand… Yahweh being merciful to him",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Warned, Lot cannot persuade his sons-in-law, who think he is joking, and at dawn he lingers — so the angels take him by the hand and put him outside, 'Yahweh being merciful to him.' Mercy that drags the reluctant out, which is C19's. His wife looks back and becomes a pillar of salt: the cost of being unable to let go of what is being left, C18's warning in its starkest image. The narrator ends with Abraham at dawn looking at the smoke, and 'God remembered Abraham, and sent Lot out.' The assault at Lot's door and Lot's offer of his daughters (19:1-11) are not indexed; see the coverage note.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 20:1-18",
+      "pericope": "Surely the fear of God is not in this place",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C04"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The same lie as in Egypt, and the same reversal: the foreign king is the one with 'integrity of heart,' and Abraham's excuse exposes his assumption — 'I thought, Surely the fear of God is not in this place.' A prejudice about outsiders, proved false by the outsider. C21's diagnosis of fear as the root, and C04's mirror, again held up by someone the man of promise had written off. Abraham's prayer for Abimelech's household, at the end, is the repair.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 21:1-7",
+      "pericope": "God has made me laugh. Everyone who hears will laugh with me",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C10",
+        "C25"
+      ],
+      "practices": [],
+      "connection": "The laughter of disbelief in chapter 18 becomes the laughter of joy, and the child is named for it. 'At the set time of which God had spoken' — a promise kept on its own schedule, twenty-five years after it was given. C10's joy as something received, and C25's long wait with a definite end.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 21:8-21",
+      "pericope": "God opened her eyes, and she saw a well of water",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C06",
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "Hagar and her son are sent into the wilderness with bread and a skin of water. When the water is gone she puts the boy under a bush and sits a bowshot away — 'Don't let me see the death of the child' — and lifts up her voice and weeps. 'God heard the voice of the boy.' Grief voiced without restraint in the far place, and heard: Sacred Lament at medium, since her weeping is not addressed to God by name, though the text answers it as though it were. Then 'God opened her eyes, and she saw a well' — the water was already there. C06 is built around exactly that kind of seeing, given rather than achieved. C19's door opens for the one cast out.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 21:22-34",
+      "pericope": "Abraham complained to Abimelech because of a water well",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
+      "practices": [
+        "PR09"
+      ],
+      "mode": "exemplifies",
+      "connection": "A grievance raised honestly — the well seized by Abimelech's servants — and answered: 'I don't know who has done this thing.' Abraham does not press for a verdict; he gives sheep and cattle and sets aside seven lambs as a witness, and the two make a covenant. The dispute is resolved by repair rather than victory, which is the Architecture of Peace. Medium, because the gift also secures his claim to the well.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 22:1-19",
+      "pericope": "God will provide himself the lamb",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C18",
+        "C24"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'Take your son, your only son, whom you love.' Abraham rises early, saddles the donkey, splits the wood, and walks three days. To his son's question he answers, 'God will provide himself the lamb, my son,' and the text says twice, 'they both went together.' The index tags what the passage plainly shows: a man not withholding what he loves most, C18's detachment at its most extreme, and a trust that walks forward without understanding, C24's. PR04 was considered for the latter and not tagged; the passage is a test of obedience, and reading it as a discipline of unknowing would be to explain it, which the narrator conspicuously declines to do.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 23:1-20",
+      "pericope": "I am a stranger and a foreigner living with you",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "exemplifies",
+      "connection": "Sarah dies, and Abraham mourns and weeps. Then he negotiates for a grave as what he is — 'a stranger and a foreigner living with you' — bowing to the people of the land, declining a gift, and paying the full price in public 'according to the current merchants' standard.' Full, courteous, honest participation in the life of a society that is not his, while the burial itself is an act of faith in a promise about the land. The Citizen-Stranger's posture, conducted at a graveside.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 24:1-27",
+      "pericope": "I will also draw for your camels, until they have done drinking",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C16"
+      ],
+      "practices": [
+        "PR19"
+      ],
+      "mode": "exemplifies",
+      "connection": "The servant prays for a sign of kindness and receives more than he asked: a stranger at a well gives him water and then, unasked, draws for all ten camels, running back and forth 'until they have done drinking.' Spontaneous Service is pausing one's own work to help someone finish theirs, and treating the interruption as the work; she was there to fill her own pitcher. The servant's faithfulness to an absent master — praying, watching in silence, worshipping when the answer comes — is C13's ordinary faithfulness and C16's stewardship.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 24:28-61",
+      "pericope": "I will not eat until I have told my message",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Food is set before a traveller who has come four hundred miles, and he refuses it until he has delivered his errand. The story is retold in full so that the household can judge it for themselves, and Rebekah herself is asked: 'Will you go with this man?' 'I will go.' C13's faithfulness of a servant who puts the task before his own comfort, and C14's household that consults the one whose life is being decided.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 24:62-67",
+      "pericope": "Isaac went out to meditate in the field at the evening",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C09",
+        "C14"
+      ],
+      "practices": [],
+      "connection": "Isaac is introduced alone, in a field, at evening, meditating — and looks up to see the camels. The marriage ends the chapter with three short clauses: she became his wife, he loved her, and 'Isaac was comforted after his mother's death.' C09's solitary place of prayer, and C14's household as the place where grief is comforted.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 25:1-11",
+      "pericope": "Isaac and Ishmael, his sons, buried him",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C15",
+        "C25"
+      ],
+      "practices": [],
+      "connection": "Abraham dies 'in a good old age, an old man, and full of years,' and the two sons whose mothers were set against each other, one of whom was sent into the wilderness, bury him together in the field he bought. The narrator makes nothing of it. C15's peace, recorded at a grave rather than negotiated, and C25's life completed at the pace it was given.",
       "confidence": "medium",
       "prior": false
     }

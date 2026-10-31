@@ -1,0 +1,739 @@
+{
+  "book": "1 Corinthians",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/1-corinthians.json",
+  "note": "Paul's answer to a gifted and divided church, worked through question by question: factions, a case of incest, lawsuits, marriage, food offered to idols, the Lord's Supper, spiritual gifts, the resurrection. Indexed in two sections (1-8, 9-16). Neither the curriculum nor the Scriptural Appendix cites the letter, so no entry carries a prior.",
+  "prediction_note": "Forecast: C13, C15, C16 and C22 dominant, with 13:1-13 the obvious centre; 16:1-2 the cleanest PR05 anchor in the epistles. Outcome: as forecast. Unexpected: 11:17-34 gives a genuine PR25 counter-example — the poor shamed at the community meal — and 10:27 a guest-side reading of PR20.",
+  "coverage_note": "Not indexed: 11:2-16 (head coverings) and 14:34-35 (women's silence in the assemblies). Both depend on customs and arguments the index cannot responsibly anchor to a practice, and 14:34-35 sits in tension with 11:5, which assumes women pray and prophesy in the assembly; the index leaves both to the commentators rather than turning either into formation guidance. The instruction at 5:5 is indexed as part of 5:1-13 but not offered as a model of practice. 7:1-16 is not offered as a complete teaching on divorce. The 'baptism for the dead' at 15:29 is carried inside 15:12-34 without comment. The close of chapter 14 (14:36-40) is not indexed separately.",
+  "entries": [
+    {
+      "ref": "1 Corinthians 1:1-9",
+      "pericope": "I always thank my God concerning you… God is faithful, through whom you were called into the fellowship of his Son",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C15"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The most troubled church Paul wrote to — factions, incest, lawsuits, drunkenness at the Lord's table — and the letter opens with thanksgiving: 'I always thank my God concerning you, for the grace of God which was given you… so that you come behind in no gift.' The confidence rests on God rather than on them: 'who will also confirm you until the end… God is faithful.' Correction that begins by naming what is genuinely good. C15's way into a hard conversation, and C13's fellowship as something given before it is achieved.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 1:10-17",
+      "pericope": "Each one of you says, 'I follow Paul,' 'I follow Apollos'… Is Christ divided? Was Paul crucified for you?",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C15",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'It has been reported to me… that there are contentions among you… each one of you says, \"I follow Paul,\" \"I follow Apollos,\" \"I follow Cephas,\" and, \"I follow Christ.\"' Paul's first move is against his own supporters: 'Is Christ divided? Was Paul crucified for you? Or were you baptized into the name of Paul? I thank God that I baptized none of you.' A leader refusing the faction that bears his name. C15's peace, which cannot be built while anyone is collecting followers, and C22's humility in the person with most to gain.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 1:18-31",
+      "pericope": "God chose the foolish things of the world that he might put to shame those who are wise… that no flesh should boast before God",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C06",
+        "C16"
+      ],
+      "practices": [],
+      "connection": "'For the word of the cross is foolishness to those who are dying, but to us who are saved it is the power of God… the foolishness of God is wiser than men, and the weakness of God is stronger than men.' C06's reversal of sight: what looks like defeat is the power. Then the evidence from the congregation itself: 'not many are wise according to the flesh, not many mighty, and not many noble; but God chose the foolish things of the world… the weak things… the lowly things of the world, and the things that are despised, and the things that are not… that no flesh should boast before God.' C22's humility as the only posture that fits the facts, and C16's downward direction of God's choosing. 'He who boasts, let him boast in the Lord.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 2:1-5",
+      "pericope": "I was with you in weakness, in fear, and in much trembling. My speech and my preaching were not in persuasive words of human wisdom",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'When I came to you, brothers, I didn't come with excellence of speech or of wisdom… For I determined not to know anything among you, except Jesus Christ, and him crucified. I was with you in weakness, in fear, and in much trembling.' The true messenger described by what he lacked: no technique, no confidence, no persuasive polish — 'that your faith wouldn't stand in the wisdom of men, but in the power of God.' C08's prophet who does not depend on the impression he makes, and C22's admission of fear without shame.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 2:6-16",
+      "pericope": "Things which an eye didn't see, and an ear didn't hear… The natural man doesn't receive the things of God's Spirit… because they are spiritually discerned",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C06",
+        "C07"
+      ],
+      "practices": [],
+      "connection": "A wisdom 'hidden,' unknown to 'the rulers of this world… For had they known it, they wouldn't have crucified the Lord of glory.' 'Things which an eye didn't see, and an ear didn't hear, which didn't enter into the heart of man, these God has prepared for those who love him. But to us, God revealed them through the Spirit.' C06's opening of the eyes as something done to the seer, not by him. And C07's condition of the lens: 'the natural man doesn't receive the things of God's Spirit, for they are foolishness to him, and he can't know them, because they are spiritually discerned.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 3:1-9",
+      "pericope": "I planted. Apollos watered. But God gave the increase. So then neither he who plants is anything, nor he who waters",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C22",
+        "C16"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "The church is still 'babies in Christ' — 'I fed you with milk, not with meat' — and the evidence is 'jealousy, strife, and factions.' Paul's answer reduces the leaders being compared: 'Who then is Apollos, and who is Paul, but servants…? I planted. Apollos watered. But God gave the increase. So then neither he who plants is anything, nor he who waters, but God who gives the increase.' The Discipline of Gradualism's two claims at once — growth belongs to a process no worker controls, and comparison between workers is a category error (medium). C25's growth, C22's humility, C16's service: 'we are God's fellow workers.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 3:10-23",
+      "pericope": "Each man's work will be revealed… the fire itself will test what sort of work each man's work is… you are a temple of God",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C12",
+        "C26",
+        "C22"
+      ],
+      "practices": [],
+      "connection": "'No one can lay any other foundation than that which has been laid, which is Jesus Christ. But if anyone builds on the foundation with gold, silver, costly stones, wood, hay, or stubble; each man's work will be revealed… the fire itself will test what sort of work each man's work is.' C12's proof — the work examined by what survives. 'Don't you know that you are a temple of God, and that God's Spirit lives in you?' C26's temple, here the community. And C22's: 'If anyone thinks that he is wise among you in this world, let him become a fool, that he may become wise… Therefore let no one boast in men. For all things are yours.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 4:1-5",
+      "pericope": "I don't judge my own self. For I know nothing against myself. Yet I am not justified by this… Therefore judge nothing before the time",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C13",
+        "C23",
+        "C04"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "'It is required of stewards, that they be found faithful' — C13. Then a careful statement of the limits of self-knowledge: 'with me it is a very small thing that I should be judged by you, or by man's judgment. Yes, I don't judge my own self. For I know nothing against myself. Yet I am not justified by this, but he who judges me is the Lord.' A clear conscience is not a verdict. The Discipline of Unknowing applied to one's own heart, which C04's mirror cannot fully read (medium). 'Therefore judge nothing before the time, until the Lord comes, who will… reveal the counsels of the hearts. Then each man will get his praise from God' — C23's hidden praise.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 4:6-13",
+      "pericope": "What do you have that you didn't receive?… When people curse us, we bless. Being persecuted, we endure. Being defamed, we entreat",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C03",
+        "C13"
+      ],
+      "practices": [
+        "PR06",
+        "PR18"
+      ],
+      "mode": "exemplifies",
+      "connection": "'For who makes you different? And what do you have that you didn't receive? But if you did receive it, why do you boast as if you had not received it?' C22's whole argument in three questions. Then the apostles set against the self-satisfied church: 'We are fools for Christ's sake, but you are wise in Christ… we hunger, thirst, are naked, are beaten… We toil, working with our own hands. When people curse us, we bless. Being persecuted, we endure. Being defamed, we entreat. We are made as the filth of the world.' Non-Retaliation lived rather than taught — C03's ethic in practice. Absorbing the Blow in 'being defamed, we entreat': nothing added to the fire, and the answer to slander is a request (medium). C13's manual work beside it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 4:14-21",
+      "pericope": "Though you have ten thousand tutors in Christ, yet not many fathers… be imitators of me… Timothy… will remind you of my ways",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C05"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'I don't write these things to shame you, but to admonish you as my beloved children. For though you have ten thousand tutors in Christ, yet not many fathers… I beg you therefore, be imitators of me. Because of this I have sent Timothy to you… who will remind you of my ways which are in Christ.' C05's apprenticeship exactly: formation by imitation of a life, carried by a person who has watched it. 'Shall I come to you with a rod, or in love and a spirit of gentleness?' The choice is offered to them.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 5:1-13",
+      "pericope": "You are puffed up, and didn't rather mourn… that the spirit may be saved… For what have I to do with also judging those who are outside?",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C14",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "A case of incest the church is proud of tolerating: 'You are puffed up, and didn't rather mourn.' The failure named is pride where grief belonged. The discipline Paul orders is severe and stated with its aim — 'that the spirit may be saved in the day of the Lord Jesus' — and 2 Corinthians 2:5-11 may record its outcome. 'A little yeast leavens the whole lump': C20's gate kept for the community. Then the limit, which C17 needs: Paul never meant separation from 'the sexual sinners of this world… for then you would have to leave the world. But… not to associate with anyone who is called a brother' who lives this way. 'For what have I to do with also judging those who are outside?… those who are outside, God judges.' Judgment is for the household, not the city. The index anchors the shape of the passage; the instruction at 5:5 is not offered as a model of practice.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 6:1-11",
+      "pericope": "Why not rather be wronged? Why not rather be defrauded?… Such were some of you, but you were washed",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C15",
+        "C03",
+        "C19"
+      ],
+      "practices": [
+        "PR06",
+        "PR09"
+      ],
+      "mode": "prescribes",
+      "connection": "Believers suing each other before pagan courts. Paul's first remedy is arbitration within the church — 'Isn't there even one wise man among you who would be able to decide between his brothers?' — and his second is the question that cuts beneath it: 'Therefore it is already altogether a defect in you, that you have lawsuits one with another. Why not rather be wronged? Why not rather be defrauded?' Non-Retaliation applied to property, and the Architecture of Peace's change of objective from winning to repair. C15 and C03 together. The list of those who 'will not inherit the Kingdom' ends with C19's turn: 'Such were some of you, but you were washed. But you were sanctified. But you were justified.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 6:12-20",
+      "pericope": "'All things are lawful for me,' but I will not be brought under the power of anything… You are not your own, for you were bought with a price",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C21",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The Corinthian slogans — 'All things are lawful for me,' 'Foods for the belly, and the belly for foods' — answered one at a time: 'but not all things are expedient… but I will not be brought under the power of anything.' C21's diagnostic of mastery: what you are free to do can still come to rule you. 'Flee sexual immorality!' — C20's gate, where fleeing is the wise response. And C26's temple: 'your body is a temple of the Holy Spirit which is in you… You are not your own, for you were bought with a price. Therefore glorify God in your body.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 7:1-16",
+      "pericope": "Let the husband render to his wife the affection owed her, and likewise also the wife to her husband… God has called us in peace",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Instruction on marriage that is striking in its first-century context for its mutuality: 'The wife doesn't have authority over her own body, but the husband. Likewise also the husband doesn't have authority over his own body, but the wife. Don't deprive one another.' Paul distinguishes carefully between what is the Lord's command and what is his own counsel — 'not I, but the Lord'; 'I — not the Lord — say.' C14's household as a place of mutual obligation. For a believer married to an unbeliever who is 'content to live with him,' the instruction is to stay; 'yet if the unbeliever departs, let there be separation… God has called us in peace.' The index anchors the mutuality and the honest distinction between command and counsel; it does not offer the passage as a complete teaching on divorce.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 7:17-24",
+      "pericope": "As God has called each, so let him walk… Let each man stay in that calling in which he was called",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C13",
+        "C23"
+      ],
+      "practices": [
+        "PR23"
+      ],
+      "mode": "prescribes",
+      "connection": "'Only, as the Lord has distributed to each man, as God has called each, so let him walk.' Circumcised or not, slave or free, the calling is lived where it found you: 'Let each man, in whatever condition he was called, stay in that condition with God.' The Sacrament of the Ordinary's claim that the highest expression of the road is found in one's actual circumstances — 'there is no other location available' (medium). C13 and C23. Indexed with a guard, as with the household codes: Paul adds at once, 'if you get an opportunity to become free, use it… Don't become bondservants of men.' The passage does not sanctify slavery; it refuses to let a person's station decide their standing with God.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 7:25-40",
+      "pericope": "Those who buy, as though they didn't possess; and those who use the world, as not using it to the fullest. For the mode of this world passes away",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Counsel on marriage and singleness given 'as one who has obtained mercy from the Lord to be trustworthy,' and plainly labelled as judgment rather than command. Its centre is C18's holy detachment stated as a rule for everything: 'the time is short, that from now on, both those who have wives may be as though they had none; and those who weep, as though they didn't weep; and those who rejoice, as though they didn't rejoice; and those who buy, as though they didn't possess; and those who use the world, as not using it to the fullest. For the mode of this world passes away.' Held, not clutched. 'That you may attend to the Lord without distraction.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 8:1-13",
+      "pericope": "Knowledge puffs up, but love builds up. But if anyone thinks that he knows anything, he doesn't yet know as he ought to know",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C15",
+        "C16",
+        "C22"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "'We know that we all have knowledge. Knowledge puffs up, but love builds up. But if anyone thinks that he knows anything, he doesn't yet know as he ought to know. But if anyone loves God, the same is known by him.' The Discipline of Unknowing set against a specific use of knowledge — as a weapon over the less informed (medium). The strong are right that 'no idol is anything,' and it does not matter: 'through your knowledge, he who is weak perishes, the brother for whose sake Christ died.' C15 and C16 in Paul's resolve: 'if food causes my brother to stumble, I will eat no meat forevermore.' C22's humility as the use of knowledge for another's sake.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 9:1-18",
+      "pericope": "Nevertheless we did not use this right, but we bear all things, that we may cause no hindrance to the Good News",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Paul argues at length for a right — to be supported by those he serves, 'even as the rest of the apostles' — and then declines it: 'Nevertheless we did not use this right, but we bear all things, that we may cause no hindrance to the Good News of Christ… What then is my reward? That, when I preach the Good News, I may present the Good News of Christ without charge.' The pattern of chapter 8 applied to himself: a real right laid down for another's sake. C16's service, and C13's ordinary labour — he supported himself with his hands so that no one could say he was paid to believe.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 9:19-23",
+      "pericope": "Though I was free from all, I brought myself under bondage to all… I have become all things to all men, that I may by all means save some",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'For though I was free from all, I brought myself under bondage to all, that I might gain the more. To the Jews I became as a Jew… to those who are without law, as without law (not being without law toward God, but under law toward Christ)… To the weak I became as weak.' Adaptation without surrender: C17's full participation in each setting with the anchor kept elsewhere, and C16's service that starts from where the other person is standing.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 9:24-27",
+      "pericope": "Every man who strives in the games exercises self-control in all things… lest by any means, after I have preached to others, I myself should be rejected",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C20",
+        "C25",
+        "C05"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Don't you know that those who run in a race all run, but one receives the prize? Run like that… Every man who strives in the games exercises self-control in all things. Now they do it to receive a corruptible crown, but we an incorruptible.' Training as the athlete trains — C05's apprenticeship of the body as well as the mind, and C25's long race. And the reason, which is a confession: 'I beat my body and bring it into submission, lest by any means, after I have preached to others, I myself should be rejected.' C20's watch kept by the teacher on himself.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 10:1-13",
+      "pericope": "Let him who thinks he stands be careful that he doesn't fall… God is faithful, who will not allow you to be tempted above what you are able",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C21"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "The wilderness generation, who had every privilege — 'all under the cloud… all ate the same spiritual food' — and fell anyway: to lust, idolatry, immorality, testing God, grumbling. 'Now these things were our examples… Therefore let him who thinks he stands be careful that he doesn't fall.' Watchfulness kept most carefully by those who feel safest. C21's catalogue of failures, with grumbling placed among them. Then the promise that makes the watch bearable: 'No temptation has taken you except what is common to man. God is faithful, who will not allow you to be tempted above what you are able, but will with the temptation also make the way of escape.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 10:14-22",
+      "pericope": "Because there is one loaf of bread, we, who are many, are one body… You can't both drink the cup of the Lord and the cup of demons",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C13",
+        "C28"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'The cup of blessing which we bless, isn't it a sharing of the blood of Christ? The bread which we break, isn't it a sharing of the body of Christ? Because there is one loaf of bread, we, who are many, are one body.' C28's liturgy forming C13's community — the shared meal makes the many one. And its exclusiveness: 'You can't both partake of the table of the Lord, and of the table of demons.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 10:23-11:1",
+      "pericope": "Let no one seek his own, but each one his neighbor's good… Whether therefore you eat, or drink, or whatever you do, do all to the glory of God",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C23",
+        "C15"
+      ],
+      "practices": [
+        "PR23",
+        "PR20"
+      ],
+      "mode": "prescribes",
+      "connection": "'\"All things are lawful for me,\" but not all things build up. Let no one seek his own, but each one his neighbor's good.' Then practical instructions for meals. At a pagan neighbour's table: 'if one of those who don't believe invites you to a meal, and you are inclined to go, eat whatever is set before you, asking no questions for the sake of conscience.' The Sacrifice of Routine concerns one's own scruples yielding to hospitality and refusing any display of religious severity; here the believer is the guest rather than the host, but the instruction is the same: eat, ask nothing, make no display (medium). If another's conscience is at stake, the liberty yields in turn. And the sentence that turns every meal into worship: 'Whether therefore you eat, or drink, or whatever you do, do all to the glory of God.' The Sacrament of the Ordinary in its most compressed form. 'Be imitators of me, even as I also am of Christ.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 11:17-34",
+      "pericope": "Each one takes his own supper first. One is hungry, and another is drunken… do you… put them to shame who don't have?… let a man examine himself",
+      "pillars": [
+        "mercy",
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C04",
+        "C16"
+      ],
+      "practices": [
+        "PR25",
+        "PR01"
+      ],
+      "mode": "counter-example",
+      "connection": "The Lord's Supper turned into a display of class: 'in your eating each one takes his own supper first. One is hungry, and another is drunken. What, don't you have houses to eat and to drink in? Or do you despise God's assembly, and put them to shame who don't have?' Deferential Seating asks that in any gathering the poor not be left at the back; here the poor are left hungry at the very meal that proclaims 'the Lord's death until he comes.' Counter-example of PR25 (medium). Paul then gives the institution narrative — 'This is my body, which is broken for you' — and the remedy, the Moral Audit at the table: 'let a man examine himself, and so let him eat… For if we discerned ourselves, we wouldn't be judged.' 'Discern the Lord's body' carries both meanings at once, the bread and the congregation. And the practical close: 'when you come together to eat, wait for one another.' C28's liturgy, C04's mirror, C16's service.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 12:1-31",
+      "pericope": "God composed the body together, giving more abundant honor to the inferior part… When one member suffers, all the members suffer with it",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C16",
+        "C15"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'There are various kinds of gifts, but the same Spirit… to each one is given the manifestation of the Spirit for the profit of all.' Then the body: the foot that says 'Because I'm not the hand, I'm not part of the body' and the eye that tells the hand 'I have no need for you' — both wrong. 'Much rather, those members of the body which seem to be weaker are necessary… God composed the body together, giving more abundant honor to the inferior part, that there should be no division in the body, but that the members should have the same care for one another. When one member suffers, all the members suffer with it.' C13's community, C16's service, C15's peace. The honouring of weaker members is the principle behind Deferential Seating and Covering Weakness, but the passage describes how God built the body rather than prescribing either practice; neither is tagged.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 13:1-13",
+      "pericope": "Love is patient and is kind… is not provoked, takes no account of evil… For now we see in a mirror, dimly… Now I know in part",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S3",
+        "S7"
+      ],
+      "chapters": [
+        "C03",
+        "C29",
+        "C12"
+      ],
+      "practices": [
+        "PR18",
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "Every gift measured against love and found worthless without it: 'If I dole out all my goods to feed the poor, and if I give my body to be burned, but don't have love, it profits me nothing.' C12's proof — the outward act is not the evidence. Then the portrait: 'Love is patient and is kind; love doesn't envy. Love doesn't brag, is not proud, doesn't behave itself inappropriately, doesn't seek its own way, is not provoked, takes no account of evil.' Absorbing the Blow in 'is not provoked' and the refusal to keep a ledger of wrongs (medium). 'Bears all things, believes all things, hopes all things, endures all things. Love never fails.' C03's blueprint and C29's fully formed heart. And the Discipline of Unknowing in the chapter's last movement: 'we know in part… For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I will know fully, even as I was also fully known.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 14:1-25",
+      "pericope": "In the assembly I would rather speak five words with my understanding, that I might instruct others also, than ten thousand words in another language",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The test for every gift in worship is whether it builds others up: 'he who prophesies speaks to men for their edification, exhortation, and consolation… seek that you may abound to the building up of the assembly.' Paul, who speaks in tongues 'more than you all,' would 'rather speak five words with my understanding, that I might instruct others also, than ten thousand words in another language.' The gift that impresses set below the gift that serves — C16. And attention to the outsider in the room: 'how will he who fills the place of the unlearned say the \"Amen\"… seeing he doesn't know what you say?' C13's shared life organised around the least-informed person present.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 14:26-33",
+      "pericope": "Let all things be done to build each other up… If a revelation is made to another sitting by, let the first keep silent… God is not a God of confusion, but of peace",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'When you come together, each one of you has a psalm, has a teaching, has a revelation… Let all things be done to build each other up.' Turn-taking as an act of humility: 'Let the prophets speak, two or three, and let the others discern. But if a revelation is made to another sitting by, let the first keep silent. For you all can prophesy one by one, that all may learn.' The speaker yields the floor. 'For God is not a God of confusion, but of peace.' C15's order, and C13's every-member gathering.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 15:1-11",
+      "pericope": "Last of all… he appeared to me also. For I am the least of the apostles… But by the grace of God I am what I am",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The earliest written list of resurrection witnesses — Cephas, the twelve, 'over five hundred brothers at once, most of whom remain until now,' James, all the apostles — 'and last of all, as to the child born at the wrong time, he appeared to me also. For I am the least of the apostles, who is not worthy to be called an apostle, because I persecuted the assembly of God. But by the grace of God I am what I am.' C19's door in a single biography: the persecutor named plainly, without euphemism, and received. C22's humility that does not deny the work — 'I worked more than all of them' — but locates it: 'yet not I, but the grace of God which was with me.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 15:12-34",
+      "pericope": "If we have only hoped in Christ in this life, we are of all men most pitiable… I die daily… Evil companionships corrupt good morals",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C18",
+        "C20"
+      ],
+      "practices": [],
+      "connection": "The argument stated with unusual exposure: 'If Christ has not been raised, then our preaching is in vain, and your faith also is in vain… If we have only hoped in Christ in this life, we are of all men most pitiable.' The whole road staked on one event. C18's detachment depends on it — without the resurrection, 'let us eat and drink, for tomorrow we die' is the reasonable conclusion. Paul's own life as evidence: 'Why do we also stand in jeopardy every hour?… I die daily.' And C20's gate in a quoted proverb: 'Don't be deceived! \"Evil companionships corrupt good morals.\"'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 15:35-58",
+      "pericope": "That which you yourself sow is not made alive unless it dies… It is sown in weakness; it is raised in power… your labor is not in vain in the Lord",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C26",
+        "C13"
+      ],
+      "practices": [],
+      "connection": "'That which you yourself sow is not made alive unless it dies. That which you sow, you don't sow the body that will be, but a bare grain.' C25's seed, whose growth requires a death. 'It is sown in corruption; it is raised in incorruption. It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power.' C26's transformation completed: 'As we have borne the image of those made of dust, let's also bear the image of the heavenly… we will all be changed.' 'Death, where is your sting?' And the ordinary conclusion drawn from the cosmic one: 'Therefore, my beloved brothers, be steadfast, immovable, always abounding in the Lord's work, because you know that your labor is not in vain in the Lord.' C13's faithfulness given its ground.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 16:1-4",
+      "pericope": "On the first day of the week, let each one of you save, as he may prosper, that no collections be made when I come",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14",
+        "C16",
+        "C18"
+      ],
+      "practices": [
+        "PR05",
+        "PR28"
+      ],
+      "mode": "prescribes",
+      "connection": "The collection for the poor in Jerusalem, given its method: 'On the first day of the week, let each one of you save, as he may prosper.' Habitual Almsgiving exactly as A1 describes it — 'a rhythm rather than an impulse,' a set portion budgeted and directed at real need. Weekly, proportional, planned in advance so that no pressure is needed at the last moment. The Heavenly Palace asks that surplus be redirected to the afflicted; 'as he may prosper' ties the gift to what has come in (medium for PR28; the forecast anchors are 2 Corinthians 8-9, describing the same collection). Accountability built in: 'I will send whoever you approve with letters to carry your gracious gift.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Corinthians 16:5-24",
+      "pericope": "Watch! Stand firm in the faith! Be courageous! Be strong! Let all that you do be done in love… they refreshed my spirit and yours",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C13",
+        "C20",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Travel plans, held loosely — 'if the Lord permits.' Care for a young and possibly timid colleague: 'if Timothy comes, see that he is with you without fear… let no one despise him.' Apollos's freedom respected: 'it was not at all his desire to come now.' Then five short commands: 'Watch! Stand firm in the faith! Be courageous! Be strong! Let all that you do be done in love' — C20's watch held together with love. The household of Stephanas, who 'set themselves to serve the saints' and 'refreshed my spirit and yours. Therefore acknowledge those who are like that.' C16's service noticed and honoured, and C13's ordinary faithfulness. The closing greetings are included here rather than indexed separately.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

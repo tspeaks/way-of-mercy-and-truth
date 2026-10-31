@@ -1091,6 +1091,54 @@
     ],
     "C03": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 13:1-13",
+        "name": "Love is patient and is kind… is not provoked, takes no account of evil… For now we see in a mirror, dimly… Now I know in part",
+        "chapters": [
+          "C03",
+          "C12",
+          "C29"
+        ],
+        "practices": [
+          "PR04",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 4:6-13",
+        "name": "What do you have that you didn't receive?… When people curse us, we bless. Being persecuted, we endure. Being defamed, we entreat",
+        "chapters": [
+          "C03",
+          "C13",
+          "C22"
+        ],
+        "practices": [
+          "PR06",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 6:1-11",
+        "name": "Why not rather be wronged? Why not rather be defrauded?… Such were some of you, but you were washed",
+        "chapters": [
+          "C03",
+          "C15",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "1 Peter.Json",
         "reference": "1 Peter 2:18-25",
         "name": "When he was cursed, he didn't curse back",
@@ -1634,6 +1682,37 @@
       }
     ],
     "C04": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 11:17-34",
+        "name": "Each one takes his own supper first. One is hungry, and another is drunken… do you… put them to shame who don't have?… let a man examine himself",
+        "chapters": [
+          "C04",
+          "C16",
+          "C28"
+        ],
+        "practices": [
+          "PR01",
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 4:1-5",
+        "name": "I don't judge my own self. For I know nothing against myself. Yet I am not justified by this… Therefore judge nothing before the time",
+        "chapters": [
+          "C04",
+          "C13",
+          "C23"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 1:8-10",
@@ -2558,6 +2637,30 @@
     ],
     "C05": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 4:14-21",
+        "name": "Though you have ten thousand tutors in Christ, yet not many fathers… be imitators of me… Timothy… will remind you of my ways",
+        "chapters": [
+          "C05"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 9:24-27",
+        "name": "Every man who strives in the games exercises self-control in all things… lest by any means, after I have preached to others, I myself should be rejected",
+        "chapters": [
+          "C05",
+          "C20",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "1 John.Json",
         "reference": "1 John 3:16-18",
         "name": "Sees his brother in need and closes his heart",
@@ -2874,6 +2977,31 @@
       }
     ],
     "C06": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 1:18-31",
+        "name": "God chose the foolish things of the world that he might put to shame those who are wise… that no flesh should boast before God",
+        "chapters": [
+          "C06",
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 2:6-16",
+        "name": "Things which an eye didn't see, and an ear didn't hear… The natural man doesn't receive the things of God's Spirit… because they are spiritually discerned",
+        "chapters": [
+          "C06",
+          "C07"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 1:1-4",
@@ -3454,6 +3582,18 @@
     ],
     "C07": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 2:6-16",
+        "name": "Things which an eye didn't see, and an ear didn't hear… The natural man doesn't receive the things of God's Spirit… because they are spiritually discerned",
+        "chapters": [
+          "C06",
+          "C07"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 1:5-11",
         "name": "In your faith supply moral excellence; and in moral excellence, knowledge",
@@ -3931,6 +4071,18 @@
       }
     ],
     "C08": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 2:1-5",
+        "name": "I was with you in weakness, in fear, and in much trembling. My speech and my preaching were not in persuasive words of human wisdom",
+        "chapters": [
+          "C08",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 2:18-27",
@@ -6321,6 +6473,35 @@
     ],
     "C12": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 13:1-13",
+        "name": "Love is patient and is kind… is not provoked, takes no account of evil… For now we see in a mirror, dimly… Now I know in part",
+        "chapters": [
+          "C03",
+          "C12",
+          "C29"
+        ],
+        "practices": [
+          "PR04",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 3:10-23",
+        "name": "Each man's work will be revealed… the fire itself will test what sort of work each man's work is… you are a temple of God",
+        "chapters": [
+          "C12",
+          "C22",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "1 John.Json",
         "reference": "1 John 1:5-7",
         "name": "God is light; walking in the light",
@@ -6931,6 +7112,150 @@
       }
     ],
     "C13": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 10:14-22",
+        "name": "Because there is one loaf of bread, we, who are many, are one body… You can't both drink the cup of the Lord and the cup of demons",
+        "chapters": [
+          "C13",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 12:1-31",
+        "name": "God composed the body together, giving more abundant honor to the inferior part… When one member suffers, all the members suffer with it",
+        "chapters": [
+          "C13",
+          "C15",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 14:1-25",
+        "name": "In the assembly I would rather speak five words with my understanding, that I might instruct others also, than ten thousand words in another language",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 14:26-33",
+        "name": "Let all things be done to build each other up… If a revelation is made to another sitting by, let the first keep silent… God is not a God of confusion, but of peace",
+        "chapters": [
+          "C13",
+          "C15"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 15:35-58",
+        "name": "That which you yourself sow is not made alive unless it dies… It is sown in weakness; it is raised in power… your labor is not in vain in the Lord",
+        "chapters": [
+          "C13",
+          "C25",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 16:5-24",
+        "name": "Watch! Stand firm in the faith! Be courageous! Be strong! Let all that you do be done in love… they refreshed my spirit and yours",
+        "chapters": [
+          "C13",
+          "C16",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 1:1-9",
+        "name": "I always thank my God concerning you… God is faithful, through whom you were called into the fellowship of his Son",
+        "chapters": [
+          "C13",
+          "C15"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 4:1-5",
+        "name": "I don't judge my own self. For I know nothing against myself. Yet I am not justified by this… Therefore judge nothing before the time",
+        "chapters": [
+          "C04",
+          "C13",
+          "C23"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 4:6-13",
+        "name": "What do you have that you didn't receive?… When people curse us, we bless. Being persecuted, we endure. Being defamed, we entreat",
+        "chapters": [
+          "C03",
+          "C13",
+          "C22"
+        ],
+        "practices": [
+          "PR06",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 7:17-24",
+        "name": "As God has called each, so let him walk… Let each man stay in that calling in which he was called",
+        "chapters": [
+          "C13",
+          "C23"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 9:1-18",
+        "name": "Nevertheless we did not use this right, but we bear all things, that we may cause no hindrance to the Good News",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "2 John.Json",
         "reference": "2 John 1:12-13",
@@ -7706,6 +8031,46 @@
       }
     ],
     "C14": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 16:1-4",
+        "name": "On the first day of the week, let each one of you save, as he may prosper, that no collections be made when I come",
+        "chapters": [
+          "C14",
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 5:1-13",
+        "name": "You are puffed up, and didn't rather mourn… that the spirit may be saved… For what have I to do with also judging those who are outside?",
+        "chapters": [
+          "C14",
+          "C17",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 7:1-16",
+        "name": "Let the husband render to his wife the affection owed her, and likewise also the wife to her husband… God has called us in peace",
+        "chapters": [
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 5:13-17",
@@ -8628,6 +8993,102 @@
       }
     ],
     "C15": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 10:23-11:1",
+        "name": "Let no one seek his own, but each one his neighbor's good… Whether therefore you eat, or drink, or whatever you do, do all to the glory of God",
+        "chapters": [
+          "C15",
+          "C23",
+          "C28"
+        ],
+        "practices": [
+          "PR20",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 12:1-31",
+        "name": "God composed the body together, giving more abundant honor to the inferior part… When one member suffers, all the members suffer with it",
+        "chapters": [
+          "C13",
+          "C15",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 14:26-33",
+        "name": "Let all things be done to build each other up… If a revelation is made to another sitting by, let the first keep silent… God is not a God of confusion, but of peace",
+        "chapters": [
+          "C13",
+          "C15"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 1:1-9",
+        "name": "I always thank my God concerning you… God is faithful, through whom you were called into the fellowship of his Son",
+        "chapters": [
+          "C13",
+          "C15"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 1:10-17",
+        "name": "Each one of you says, 'I follow Paul,' 'I follow Apollos'… Is Christ divided? Was Paul crucified for you?",
+        "chapters": [
+          "C15",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 6:1-11",
+        "name": "Why not rather be wronged? Why not rather be defrauded?… Such were some of you, but you were washed",
+        "chapters": [
+          "C03",
+          "C15",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 8:1-13",
+        "name": "Knowledge puffs up, but love builds up. But if anyone thinks that he knows anything, he doesn't yet know as he ought to know",
+        "chapters": [
+          "C15",
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 2:7-11",
@@ -9720,6 +10181,143 @@
       }
     ],
     "C16": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 11:17-34",
+        "name": "Each one takes his own supper first. One is hungry, and another is drunken… do you… put them to shame who don't have?… let a man examine himself",
+        "chapters": [
+          "C04",
+          "C16",
+          "C28"
+        ],
+        "practices": [
+          "PR01",
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 12:1-31",
+        "name": "God composed the body together, giving more abundant honor to the inferior part… When one member suffers, all the members suffer with it",
+        "chapters": [
+          "C13",
+          "C15",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 14:1-25",
+        "name": "In the assembly I would rather speak five words with my understanding, that I might instruct others also, than ten thousand words in another language",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 16:1-4",
+        "name": "On the first day of the week, let each one of you save, as he may prosper, that no collections be made when I come",
+        "chapters": [
+          "C14",
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 16:5-24",
+        "name": "Watch! Stand firm in the faith! Be courageous! Be strong! Let all that you do be done in love… they refreshed my spirit and yours",
+        "chapters": [
+          "C13",
+          "C16",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 1:18-31",
+        "name": "God chose the foolish things of the world that he might put to shame those who are wise… that no flesh should boast before God",
+        "chapters": [
+          "C06",
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 3:1-9",
+        "name": "I planted. Apollos watered. But God gave the increase. So then neither he who plants is anything, nor he who waters",
+        "chapters": [
+          "C16",
+          "C22",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 8:1-13",
+        "name": "Knowledge puffs up, but love builds up. But if anyone thinks that he knows anything, he doesn't yet know as he ought to know",
+        "chapters": [
+          "C15",
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 9:1-18",
+        "name": "Nevertheless we did not use this right, but we bear all things, that we may cause no hindrance to the Good News",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 9:19-23",
+        "name": "Though I was free from all, I brought myself under bondage to all… I have become all things to all men, that I may by all means save some",
+        "chapters": [
+          "C16",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 3:16-18",
@@ -11881,6 +12479,31 @@
     ],
     "C17": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 5:1-13",
+        "name": "You are puffed up, and didn't rather mourn… that the spirit may be saved… For what have I to do with also judging those who are outside?",
+        "chapters": [
+          "C14",
+          "C17",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 9:19-23",
+        "name": "Though I was free from all, I brought myself under bondage to all… I have become all things to all men, that I may by all means save some",
+        "chapters": [
+          "C16",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "1 Peter.Json",
         "reference": "1 Peter 1:17-21",
         "name": "Pass the time of your living as foreigners here",
@@ -12755,6 +13378,45 @@
       }
     ],
     "C18": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 15:12-34",
+        "name": "If we have only hoped in Christ in this life, we are of all men most pitiable… I die daily… Evil companionships corrupt good morals",
+        "chapters": [
+          "C18",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 16:1-4",
+        "name": "On the first day of the week, let each one of you save, as he may prosper, that no collections be made when I come",
+        "chapters": [
+          "C14",
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 7:25-40",
+        "name": "Those who buy, as though they didn't possess; and those who use the world, as not using it to the fullest. For the mode of this world passes away",
+        "chapters": [
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 2:15-17",
@@ -14181,6 +14843,34 @@
       }
     ],
     "C19": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 15:1-11",
+        "name": "Last of all… he appeared to me also. For I am the least of the apostles… But by the grace of God I am what I am",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 6:1-11",
+        "name": "Why not rather be wronged? Why not rather be defrauded?… Such were some of you, but you were washed",
+        "chapters": [
+          "C03",
+          "C15",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 1:8-10",
@@ -16873,6 +17563,84 @@
     ],
     "C20": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 10:1-13",
+        "name": "Let him who thinks he stands be careful that he doesn't fall… God is faithful, who will not allow you to be tempted above what you are able",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 15:12-34",
+        "name": "If we have only hoped in Christ in this life, we are of all men most pitiable… I die daily… Evil companionships corrupt good morals",
+        "chapters": [
+          "C18",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 16:5-24",
+        "name": "Watch! Stand firm in the faith! Be courageous! Be strong! Let all that you do be done in love… they refreshed my spirit and yours",
+        "chapters": [
+          "C13",
+          "C16",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 5:1-13",
+        "name": "You are puffed up, and didn't rather mourn… that the spirit may be saved… For what have I to do with also judging those who are outside?",
+        "chapters": [
+          "C14",
+          "C17",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 6:12-20",
+        "name": "'All things are lawful for me,' but I will not be brought under the power of anything… You are not your own, for you were bought with a price",
+        "chapters": [
+          "C20",
+          "C21",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 9:24-27",
+        "name": "Every man who strives in the games exercises self-control in all things… lest by any means, after I have preached to others, I myself should be rejected",
+        "chapters": [
+          "C05",
+          "C20",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "1 John.Json",
         "reference": "1 John 5:18-21",
         "name": "Keep yourselves from idols",
@@ -17807,6 +18575,33 @@
       }
     ],
     "C21": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 10:1-13",
+        "name": "Let him who thinks he stands be careful that he doesn't fall… God is faithful, who will not allow you to be tempted above what you are able",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 6:12-20",
+        "name": "'All things are lawful for me,' but I will not be brought under the power of anything… You are not your own, for you were bought with a price",
+        "chapters": [
+          "C20",
+          "C21",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 3:11-15",
@@ -18769,6 +19564,114 @@
       }
     ],
     "C22": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 15:1-11",
+        "name": "Last of all… he appeared to me also. For I am the least of the apostles… But by the grace of God I am what I am",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 1:10-17",
+        "name": "Each one of you says, 'I follow Paul,' 'I follow Apollos'… Is Christ divided? Was Paul crucified for you?",
+        "chapters": [
+          "C15",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 1:18-31",
+        "name": "God chose the foolish things of the world that he might put to shame those who are wise… that no flesh should boast before God",
+        "chapters": [
+          "C06",
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 2:1-5",
+        "name": "I was with you in weakness, in fear, and in much trembling. My speech and my preaching were not in persuasive words of human wisdom",
+        "chapters": [
+          "C08",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 3:1-9",
+        "name": "I planted. Apollos watered. But God gave the increase. So then neither he who plants is anything, nor he who waters",
+        "chapters": [
+          "C16",
+          "C22",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 3:10-23",
+        "name": "Each man's work will be revealed… the fire itself will test what sort of work each man's work is… you are a temple of God",
+        "chapters": [
+          "C12",
+          "C22",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 4:6-13",
+        "name": "What do you have that you didn't receive?… When people curse us, we bless. Being persecuted, we endure. Being defamed, we entreat",
+        "chapters": [
+          "C03",
+          "C13",
+          "C22"
+        ],
+        "practices": [
+          "PR06",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 8:1-13",
+        "name": "Knowledge puffs up, but love builds up. But if anyone thinks that he knows anything, he doesn't yet know as he ought to know",
+        "chapters": [
+          "C15",
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 Peter.Json",
         "reference": "1 Peter 2:1-3",
@@ -19928,6 +20831,51 @@
       }
     ],
     "C23": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 10:23-11:1",
+        "name": "Let no one seek his own, but each one his neighbor's good… Whether therefore you eat, or drink, or whatever you do, do all to the glory of God",
+        "chapters": [
+          "C15",
+          "C23",
+          "C28"
+        ],
+        "practices": [
+          "PR20",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 4:1-5",
+        "name": "I don't judge my own self. For I know nothing against myself. Yet I am not justified by this… Therefore judge nothing before the time",
+        "chapters": [
+          "C04",
+          "C13",
+          "C23"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 7:17-24",
+        "name": "As God has called each, so let him walk… Let each man stay in that calling in which he was called",
+        "chapters": [
+          "C13",
+          "C23"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 Peter.Json",
         "reference": "1 Peter 3:1-6",
@@ -21740,6 +22688,47 @@
     ],
     "C25": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 15:35-58",
+        "name": "That which you yourself sow is not made alive unless it dies… It is sown in weakness; it is raised in power… your labor is not in vain in the Lord",
+        "chapters": [
+          "C13",
+          "C25",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 3:1-9",
+        "name": "I planted. Apollos watered. But God gave the increase. So then neither he who plants is anything, nor he who waters",
+        "chapters": [
+          "C16",
+          "C22",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 9:24-27",
+        "name": "Every man who strives in the games exercises self-control in all things… lest by any means, after I have preached to others, I myself should be rejected",
+        "chapters": [
+          "C05",
+          "C20",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "1 John.Json",
         "reference": "1 John 2:12-14",
         "name": "I write to you, fathers, young men, little children",
@@ -22720,6 +23709,45 @@
       }
     ],
     "C26": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 15:35-58",
+        "name": "That which you yourself sow is not made alive unless it dies… It is sown in weakness; it is raised in power… your labor is not in vain in the Lord",
+        "chapters": [
+          "C13",
+          "C25",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 3:10-23",
+        "name": "Each man's work will be revealed… the fire itself will test what sort of work each man's work is… you are a temple of God",
+        "chapters": [
+          "C12",
+          "C22",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 6:12-20",
+        "name": "'All things are lawful for me,' but I will not be brought under the power of anything… You are not your own, for you were bought with a price",
+        "chapters": [
+          "C20",
+          "C21",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 2:28-3:3",
@@ -24410,6 +25438,50 @@
     ],
     "C28": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 10:14-22",
+        "name": "Because there is one loaf of bread, we, who are many, are one body… You can't both drink the cup of the Lord and the cup of demons",
+        "chapters": [
+          "C13",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 10:23-11:1",
+        "name": "Let no one seek his own, but each one his neighbor's good… Whether therefore you eat, or drink, or whatever you do, do all to the glory of God",
+        "chapters": [
+          "C15",
+          "C23",
+          "C28"
+        ],
+        "practices": [
+          "PR20",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 11:17-34",
+        "name": "Each one takes his own supper first. One is hungry, and another is drunken… do you… put them to shame who don't have?… let a man examine himself",
+        "chapters": [
+          "C04",
+          "C16",
+          "C28"
+        ],
+        "practices": [
+          "PR01",
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 6:1-13",
         "name": "As having nothing, and yet possessing all things… Our heart is enlarged",
@@ -24981,6 +26053,22 @@
     ],
     "C29": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 13:1-13",
+        "name": "Love is patient and is kind… is not provoked, takes no account of evil… For now we see in a mirror, dimly… Now I know in part",
+        "chapters": [
+          "C03",
+          "C12",
+          "C29"
+        ],
+        "practices": [
+          "PR04",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "1 John.Json",
         "reference": "1 John 5:13-17",
         "name": "Ask, and he will give him life",
@@ -25380,6 +26468,22 @@
   },
   "practices": {
     "PR01": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 11:17-34",
+        "name": "Each one takes his own supper first. One is hungry, and another is drunken… do you… put them to shame who don't have?… let a man examine himself",
+        "chapters": [
+          "C04",
+          "C16",
+          "C28"
+        ],
+        "practices": [
+          "PR01",
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 1:8-10",
@@ -26517,6 +27621,52 @@
     ],
     "PR04": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 13:1-13",
+        "name": "Love is patient and is kind… is not provoked, takes no account of evil… For now we see in a mirror, dimly… Now I know in part",
+        "chapters": [
+          "C03",
+          "C12",
+          "C29"
+        ],
+        "practices": [
+          "PR04",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 4:1-5",
+        "name": "I don't judge my own self. For I know nothing against myself. Yet I am not justified by this… Therefore judge nothing before the time",
+        "chapters": [
+          "C04",
+          "C13",
+          "C23"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 8:1-13",
+        "name": "Knowledge puffs up, but love builds up. But if anyone thinks that he knows anything, he doesn't yet know as he ought to know",
+        "chapters": [
+          "C15",
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "1 John.Json",
         "reference": "1 John 2:28-3:3",
         "name": "Remain in him; it is not yet revealed what we will be",
@@ -27136,6 +28286,22 @@
       }
     ],
     "PR05": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 16:1-4",
+        "name": "On the first day of the week, let each one of you save, as he may prosper, that no collections be made when I come",
+        "chapters": [
+          "C14",
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 3:16-18",
@@ -27842,6 +29008,38 @@
       }
     ],
     "PR06": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 4:6-13",
+        "name": "What do you have that you didn't receive?… When people curse us, we bless. Being persecuted, we endure. Being defamed, we entreat",
+        "chapters": [
+          "C03",
+          "C13",
+          "C22"
+        ],
+        "practices": [
+          "PR06",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 6:1-11",
+        "name": "Why not rather be wronged? Why not rather be defrauded?… Such were some of you, but you were washed",
+        "chapters": [
+          "C03",
+          "C15",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 Peter.Json",
         "reference": "1 Peter 2:18-25",
@@ -29366,6 +30564,22 @@
     ],
     "PR09": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 6:1-11",
+        "name": "Why not rather be wronged? Why not rather be defrauded?… Such were some of you, but you were washed",
+        "chapters": [
+          "C03",
+          "C15",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "1 Peter.Json",
         "reference": "1 Peter 3:8-12",
         "name": "Not rendering evil for evil, or insult for insult, but blessing",
@@ -30322,6 +31536,20 @@
       }
     ],
     "PR12": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 10:1-13",
+        "name": "Let him who thinks he stands be careful that he doesn't fall… God is faithful, who will not allow you to be tempted above what you are able",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "1 John.Json",
         "reference": "1 John 5:18-21",
@@ -31324,6 +32552,21 @@
     ],
     "PR14": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 3:1-9",
+        "name": "I planted. Apollos watered. But God gave the increase. So then neither he who plants is anything, nor he who waters",
+        "chapters": [
+          "C16",
+          "C22",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "1 John.Json",
         "reference": "1 John 2:12-14",
         "name": "I write to you, fathers, young men, little children",
@@ -32298,6 +33541,38 @@
     ],
     "PR18": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 13:1-13",
+        "name": "Love is patient and is kind… is not provoked, takes no account of evil… For now we see in a mirror, dimly… Now I know in part",
+        "chapters": [
+          "C03",
+          "C12",
+          "C29"
+        ],
+        "practices": [
+          "PR04",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 4:6-13",
+        "name": "What do you have that you didn't receive?… When people curse us, we bless. Being persecuted, we endure. Being defamed, we entreat",
+        "chapters": [
+          "C03",
+          "C13",
+          "C22"
+        ],
+        "practices": [
+          "PR06",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "Ecclesiastes.Json",
         "reference": "Ecclesiastes 10:4-7",
         "name": "Gentleness lays great offenses to rest",
@@ -32526,6 +33801,22 @@
       }
     ],
     "PR20": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 10:23-11:1",
+        "name": "Let no one seek his own, but each one his neighbor's good… Whether therefore you eat, or drink, or whatever you do, do all to the glory of God",
+        "chapters": [
+          "C15",
+          "C23",
+          "C28"
+        ],
+        "practices": [
+          "PR20",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "Acts.Json",
         "reference": "Acts 10:1-33",
@@ -32835,6 +34126,36 @@
     ],
     "PR23": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 10:23-11:1",
+        "name": "Let no one seek his own, but each one his neighbor's good… Whether therefore you eat, or drink, or whatever you do, do all to the glory of God",
+        "chapters": [
+          "C15",
+          "C23",
+          "C28"
+        ],
+        "practices": [
+          "PR20",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 7:17-24",
+        "name": "As God has called each, so let him walk… Let each man stay in that calling in which he was called",
+        "chapters": [
+          "C13",
+          "C23"
+        ],
+        "practices": [
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "3 John.Json",
         "reference": "3 John 1:13-14",
         "name": "Greet the friends by name",
@@ -33096,6 +34417,22 @@
     ],
     "PR25": [
       {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 11:17-34",
+        "name": "Each one takes his own supper first. One is hungry, and another is drunken… do you… put them to shame who don't have?… let a man examine himself",
+        "chapters": [
+          "C04",
+          "C16",
+          "C28"
+        ],
+        "practices": [
+          "PR01",
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
+      {
         "book": "James.Json",
         "reference": "James 2:1-7",
         "name": "Against partiality; the gold ring and the shabby clothing",
@@ -33253,6 +34590,22 @@
       }
     ],
     "PR28": [
+      {
+        "book": "1 Corinthians.Json",
+        "reference": "1 Corinthians 16:1-4",
+        "name": "On the first day of the week, let each one of you save, as he may prosper, that no collections be made when I come",
+        "chapters": [
+          "C14",
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "1-corinthians.json"
+      },
       {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 8:1-15",

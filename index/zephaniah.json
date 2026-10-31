@@ -1,0 +1,113 @@
+{
+  "book": "Zephaniah",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/zephaniah.json",
+  "note": "The day of Yahweh announced against Judah and the nations, ending in a song of God rejoicing over a humbled and restored people. Not cited by the curriculum or the Scriptural Appendix.",
+  "coverage_note": "1:1-11 and 1:14-2:2 (the day of wrath), 2:4-14 (oracles against the nations) and 3:8 are not indexed separately.",
+  "entries": [
+    {
+      "ref": "Zephaniah 1:12-13",
+      "pericope": "I will search Jerusalem with lamps, and I will punish the men who are settled on their dregs, who say in their heart, 'Yahweh will not do good, neither will he do evil.'",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C07"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "'I will search Jerusalem with lamps, and I will punish the men who are settled on their dregs' — wine left too long on its sediment, thick and unmoving — 'who say in their heart, \"Yahweh will not do good, neither will he do evil.\"' Not atheism but complacency: a God who does nothing either way. C07's lens settled into practical unbelief, and C20's gate left open by people who have stopped expecting anything to come through it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Zephaniah 2:3",
+      "pericope": "Seek Yahweh, all you humble of the land, who have kept his ordinances. Seek righteousness. Seek humility",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "In the middle of the announcement of the day of wrath, one instruction: 'Seek Yahweh, all you humble of the land, who have kept his ordinances. Seek righteousness. Seek humility. It may be that you will be hidden in the day of Yahweh's anger.' Humility is something to be sought, even by those who already have it — C22. The 'it may be' is honest.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Zephaniah 2:15-3:7",
+      "pericope": "The joyous city that lived carelessly, that said in her heart, 'I am, and there is none besides me.'… She didn't receive correction",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C04",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Nineveh's epitaph: 'This is the joyous city that lived carelessly, that said in her heart, \"I am, and there is none besides me.\"' The words of God given to a city — C22's pride at its limit. Then Jerusalem, in four refusals: 'She didn't obey the voice. She didn't receive correction. She didn't trust in Yahweh. She didn't draw near to her God.' C04's mirror refused. Her leaders are 'roaring lions… evening wolves'; 'Her prophets are arrogant and treacherous' — C08. And against it all: 'Every morning he brings his justice to light. He doesn't fail, but the unjust know no shame.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Zephaniah 3:9-13",
+      "pericope": "To serve him shoulder to shoulder… I will leave in the midst of you an afflicted and poor people, and they will take refuge in the name of Yahweh",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C13",
+        "C22"
+      ],
+      "practices": [],
+      "connection": "'For then I will purify the lips of the peoples, that they may all call on the name of Yahweh, to serve him shoulder to shoulder.' C13's community as a shared labour. The proud are removed, 'and you will no more be haughty in my holy mountain. But I will leave in the midst of you an afflicted and poor people, and they will take refuge in the name of Yahweh.' The remnant is defined by humility, and its first mark is speech: 'neither will a deceitful tongue be found in their mouth.' C22.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Zephaniah 3:14-20",
+      "pericope": "He will rejoice over you with joy. He will calm you in his love. He will rejoice over you with singing… I will save those who are lame",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C22",
+        "C27"
+      ],
+      "practices": [],
+      "connection": "The book that began with sweeping everything away ends in song. 'Yahweh, your God, is in the midst of you, a mighty one who will save. He will rejoice over you with joy. He will calm you in his love. He will rejoice over you with singing.' God singing over his people — C19's mercy at its most tender, and C22's quiet given from outside: 'He will calm you in his love.' And the weakest first: 'I will save those who are lame, and gather those who were driven away. I will give them praise and honor, whose shame has been in all the earth.' C27.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

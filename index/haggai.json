@@ -1,0 +1,75 @@
+{
+  "book": "Haggai",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/haggai.json",
+  "note": "Four short oracles to the returned exiles urging them to finish rebuilding the temple. Not cited by the curriculum or the Scriptural Appendix.",
+  "coverage_note": "2:20-23 (the oracle to Zerubbabel) is not indexed.",
+  "entries": [
+    {
+      "ref": "Haggai 1:1-15",
+      "pericope": "Is it a time for you yourselves to dwell in your paneled houses, while this house lies waste?… Consider your ways… he who earns wages earns wages to put them into a bag with holes in it",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C04",
+        "C18"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "prescribes",
+      "connection": "The returned exiles have stopped rebuilding: 'These people say, \"The time hasn't yet come.\"' 'Is it a time for you yourselves to dwell in your paneled houses, while this house lies waste? Now therefore this is what Yahweh of Armies says: Consider your ways. You have sown much, and bring in little. You eat, but you don't have enough… and he who earns wages earns wages to put them into a bag with holes in it.' The Moral Audit's question about money — where does spending contradict what you claim to value? — put twice in one chapter (medium). C04's mirror and C18's priorities. And a rare thing in the prophets, an immediate response: 'all the remnant of the people… obeyed the voice of Yahweh… \"I am with you,\" says Yahweh.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Haggai 2:1-9",
+      "pericope": "Who is left among you who saw this house in its former glory? How do you see it now? Isn't it in your eyes as nothing? Yet now be strong… and work, for I am with you",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C13"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "A month into the work, the old men who remember Solomon's temple are discouraged by the comparison. 'Who is left among you who saw this house in its former glory? How do you see it now? Isn't it in your eyes as nothing? Yet now be strong… Be strong, all you people of the land… and work, for I am with you.' The Discipline of Gradualism's refusal of comparison — measuring a beginning against someone else's finished work is 'a category error' — and its instruction to take the next step (medium). C25 and C13. 'The latter glory of this house will be greater than the former.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Haggai 2:10-19",
+      "pericope": "If one who is unclean by reason of a dead body touch any of these, will it be unclean?… Consider, please, from this day and backward… From this day will I bless you",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "A question for the priests: holiness does not pass by contact, but uncleanness does. 'So is this people… and so is every work of their hands.' C21's principle that disorder spreads more easily than health. Then the call to look back honestly — 'consider from this day and backward' — at the years of scarcity, 'yet you didn't turn to me.' And the turn marked by a date: 'From this day will I bless you.' C19's mercy beginning on a particular day.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

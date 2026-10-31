@@ -36,6 +36,11 @@ the first fourteen.
 | Hosea | 16 | `reviews/hosea-package.md` | 11:1-11 (PR22 through God's parental care, medium); 14:1-9 (PR11 + PR29); 7:1-16 (PR12 + PR08 counter-examples); 10:1-8 (PR28 counter-example); 3:1-5 (PR26 explicitly declined under its own guard); 2:14-23 (PR29, medium) |
 | Joel | 4 | `reviews/joel-package.md` | 2:12-17 (PR11 — "yet even now"; PR08); 1:1-20 (communal lament prescribed) |
 | Amos | 13 | `reviews/amos-package.md` | 4:1-5 (PR13 counter-example — offerings bragged about); 6:1-14 (PR28 + PR15 counter-examples); 7:1-6 (PR15, Amos interceding); 8:1-14 (PR01 counter-example); 4:6-13 (PR11 counter-example); 3:1-15 (PR28 counter-example) |
+| Obadiah | 2 | `reviews/obadiah-package.md` | **1:10-15 (PR15 prescribed — "don't rejoice… in the day of their destruction"; the clearest scriptural form of A1's "watch the flicker")** |
+| Nahum | 1 | `reviews/nahum-package.md` | The coverage note: only 1:2-8 indexed, in deliberate tension with Jonah |
+| Zephaniah | 5 | `reviews/zephaniah-package.md` | 3:14-20 (God rejoicing over his people); 2:3 ("seek humility") |
+| Haggai | 3 | `reviews/haggai-package.md` | 1:1-15 (PR01, "consider your ways"); 2:1-9 (PR14, refusing comparison with the former temple) |
+| Malachi | 7 | `reviews/malachi-package.md` | 3:6-12 (PR11 + PR05, with the note on "test me"); 2:10-16 (the divorce guard); 3:13-18 (C23) |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

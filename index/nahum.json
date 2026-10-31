@@ -1,0 +1,31 @@
+{
+  "book": "Nahum",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/nahum.json",
+  "note": "An oracle celebrating the fall of Nineveh. Not cited by the curriculum or the Scriptural Appendix.",
+  "coverage_note": "Only the opening hymn (1:2-8) is indexed. The remainder (1:1, 1:9-3:19) is a sustained oracle of judgment against Nineveh, much of it in violent imagery, and the index will not turn it into formation guidance. It stands in deliberate tension with Jonah, which is indexed in full: the same city, the same God, mercy in one book and judgment in the other.",
+  "entries": [
+    {
+      "ref": "Nahum 1:2-8",
+      "pericope": "Yahweh is slow to anger, and great in power… Yahweh is good, a stronghold in the day of trouble; and he knows those who take refuge in him",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C22",
+        "C24"
+      ],
+      "practices": [],
+      "connection": "The book is an oracle of judgment on Nineveh, and it opens with a hymn to the God who judges: 'Yahweh is slow to anger, and great in power, and will by no means leave the guilty unpunished… The mountains quake before him, and the hills melt away.' C24's awe. Inside it, a single verse of shelter: 'Yahweh is good, a stronghold in the day of trouble; and he knows those who take refuge in him.' C22's refuge. The index anchors this hymn and nothing else in Nahum; see the coverage note.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

@@ -646,6 +646,21 @@
         "source_file": "micah.json"
       },
       {
+        "book": "Obadiah.Json",
+        "reference": "Obadiah 1:10-15",
+        "name": "Don't look down on your brother in the day of his disaster, and don't rejoice over the children of Judah in the day of their destruction",
+        "chapters": [
+          "C01",
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "obadiah.json"
+      },
+      {
         "book": "Proverbs.Json",
         "reference": "Proverbs 1:8-19",
         "name": "If sinners entice you; the ambush that catches its own",
@@ -2290,6 +2305,20 @@
         "source_file": "genesis.json"
       },
       {
+        "book": "Haggai.Json",
+        "reference": "Haggai 1:1-15",
+        "name": "Is it a time for you yourselves to dwell in your paneled houses, while this house lies waste?… Consider your ways… he who earns wages earns wages to put them into a bag with holes in it",
+        "chapters": [
+          "C04",
+          "C18"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "haggai.json"
+      },
+      {
         "book": "Hebrews.Json",
         "reference": "Hebrews 4:12-13",
         "name": "The word of God is living, and active, and sharper than any two-edged sword… able to discern the thoughts and intentions of the heart",
@@ -2707,6 +2736,19 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Malachi.Json",
+        "reference": "Malachi 1:6-14",
+        "name": "When you offer the blind for sacrifice, isn't that evil?… Present it now to your governor!… You say also, 'Behold, what a weariness it is!'",
+        "chapters": [
+          "C04",
+          "C12",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
+      },
+      {
         "book": "Mark.Json",
         "reference": "Mark 14:12-26",
         "name": "They began to be sorrowful, and to ask him one by one, 'Surely not I?'… Take, eat. This is my body",
@@ -2999,6 +3041,19 @@
         ],
         "tags": [],
         "source_file": "song-of-solomon.json"
+      },
+      {
+        "book": "Zephaniah.Json",
+        "reference": "Zephaniah 2:15-3:7",
+        "name": "The joyous city that lived carelessly, that said in her heart, 'I am, and there is none besides me.'… She didn't receive correction",
+        "chapters": [
+          "C04",
+          "C08",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zephaniah.json"
       }
     ],
     "C05": [
@@ -4664,6 +4719,18 @@
         "source_file": "matthew.json"
       },
       {
+        "book": "Obadiah.Json",
+        "reference": "Obadiah 1:1-4",
+        "name": "The pride of your heart has deceived you… who says in his heart, 'Who will bring me down to the ground?'",
+        "chapters": [
+          "C07",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "obadiah.json"
+      },
+      {
         "book": "Philippians.Json",
         "reference": "Philippians 4:8-9",
         "name": "Whatever things are true… think about these things",
@@ -4810,6 +4877,18 @@
         "practices": [],
         "tags": [],
         "source_file": "titus.json"
+      },
+      {
+        "book": "Zephaniah.Json",
+        "reference": "Zephaniah 1:12-13",
+        "name": "I will search Jerusalem with lamps, and I will punish the men who are settled on their dregs, who say in their heart, 'Yahweh will not do good, neither will he do evil.'",
+        "chapters": [
+          "C07",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zephaniah.json"
       }
     ],
     "C08": [
@@ -5657,6 +5736,17 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Malachi.Json",
+        "reference": "Malachi 2:1-9",
+        "name": "The law of truth was in his mouth, and unrighteousness was not found in his lips. He walked with me in peace and uprightness, and turned many away from iniquity",
+        "chapters": [
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
+      },
+      {
         "book": "Mark.Json",
         "reference": "Mark 11:27-33",
         "name": "If we should say, 'From heaven;' he will say, 'Why then did you not believe him?'… They answered Jesus, 'We don't know.'",
@@ -5943,6 +6033,19 @@
         "practices": [],
         "tags": [],
         "source_file": "titus.json"
+      },
+      {
+        "book": "Zephaniah.Json",
+        "reference": "Zephaniah 2:15-3:7",
+        "name": "The joyous city that lived carelessly, that said in her heart, 'I am, and there is none besides me.'… She didn't receive correction",
+        "chapters": [
+          "C04",
+          "C08",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zephaniah.json"
       }
     ],
     "C09": [
@@ -8412,6 +8515,19 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Malachi.Json",
+        "reference": "Malachi 1:6-14",
+        "name": "When you offer the blind for sacrifice, isn't that evil?… Present it now to your governor!… You say also, 'Behold, what a weariness it is!'",
+        "chapters": [
+          "C04",
+          "C12",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
+      },
+      {
         "book": "Mark.Json",
         "reference": "Mark 11:12-26",
         "name": "He found nothing but leaves… 'My house will be called a house of prayer for all the nations'… Whenever you stand praying, forgive, if you have anything against anyone",
@@ -9325,6 +9441,20 @@
         "source_file": "genesis.json"
       },
       {
+        "book": "Haggai.Json",
+        "reference": "Haggai 2:1-9",
+        "name": "Who is left among you who saw this house in its former glory? How do you see it now? Isn't it in your eyes as nothing? Yet now be strong… and work, for I am with you",
+        "chapters": [
+          "C13",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "haggai.json"
+      },
+      {
         "book": "Hebrews.Json",
         "reference": "Hebrews 10:19-25",
         "name": "Let us consider how to provoke one another to love and good works, not forsaking our own assembling together",
@@ -9488,6 +9618,30 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Malachi.Json",
+        "reference": "Malachi 2:10-16",
+        "name": "Don't we all have one father? Hasn't one God created us? Why do we deal treacherously every man against his brother?… let no one deal treacherously against the wife of his youth",
+        "chapters": [
+          "C13",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
+      },
+      {
+        "book": "Malachi.Json",
+        "reference": "Malachi 3:13-18",
+        "name": "Then those who feared Yahweh spoke one with another; and Yahweh listened, and heard, and a book of memory was written before him",
+        "chapters": [
+          "C13",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
       },
       {
         "book": "Mark.Json",
@@ -9822,6 +9976,18 @@
         "practices": [],
         "tags": [],
         "source_file": "titus.json"
+      },
+      {
+        "book": "Zephaniah.Json",
+        "reference": "Zephaniah 3:9-13",
+        "name": "To serve him shoulder to shoulder… I will leave in the midst of you an afflicted and poor people, and they will take refuge in the name of Yahweh",
+        "chapters": [
+          "C13",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zephaniah.json"
       }
     ],
     "C14": [
@@ -10572,6 +10738,45 @@
         ],
         "tags": [],
         "source_file": "john.json"
+      },
+      {
+        "book": "Malachi.Json",
+        "reference": "Malachi 2:10-16",
+        "name": "Don't we all have one father? Hasn't one God created us? Why do we deal treacherously every man against his brother?… let no one deal treacherously against the wife of his youth",
+        "chapters": [
+          "C13",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
+      },
+      {
+        "book": "Malachi.Json",
+        "reference": "Malachi 3:6-12",
+        "name": "Return to me, and I will return to you… Bring the whole tithe into the storehouse, that there may be food in my house",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR05",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "malachi.json"
+      },
+      {
+        "book": "Malachi.Json",
+        "reference": "Malachi 4:1-6",
+        "name": "To you who fear my name shall the sun of righteousness arise with healing in its wings… He will turn the hearts of the fathers to the children, and the hearts of the children to their fathers",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
       },
       {
         "book": "Mark.Json",
@@ -11945,6 +12150,21 @@
         "practices": [],
         "tags": [],
         "source_file": "micah.json"
+      },
+      {
+        "book": "Obadiah.Json",
+        "reference": "Obadiah 1:10-15",
+        "name": "Don't look down on your brother in the day of his disaster, and don't rejoice over the children of Judah in the day of their destruction",
+        "chapters": [
+          "C01",
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "obadiah.json"
       },
       {
         "book": "Philippians.Json",
@@ -14025,6 +14245,19 @@
         "practices": [],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Malachi.Json",
+        "reference": "Malachi 2:17-3:5",
+        "name": "He is like a refiner's fire, and like launderer's soap… against those who oppress the hireling in his wages, the widow, and the fatherless, and who deprive the foreigner of justice",
+        "chapters": [
+          "C16",
+          "C21",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
       },
       {
         "book": "Mark.Json",
@@ -16499,6 +16732,20 @@
         "source_file": "habakkuk.json"
       },
       {
+        "book": "Haggai.Json",
+        "reference": "Haggai 1:1-15",
+        "name": "Is it a time for you yourselves to dwell in your paneled houses, while this house lies waste?… Consider your ways… he who earns wages earns wages to put them into a bag with holes in it",
+        "chapters": [
+          "C04",
+          "C18"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "haggai.json"
+      },
+      {
         "book": "Hebrews.Json",
         "reference": "Hebrews 10:32-39",
         "name": "You had compassion on me in my chains, and joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession",
@@ -18337,6 +18584,18 @@
         "source_file": "habakkuk.json"
       },
       {
+        "book": "Haggai.Json",
+        "reference": "Haggai 2:10-19",
+        "name": "If one who is unclean by reason of a dead body touch any of these, will it be unclean?… Consider, please, from this day and backward… From this day will I bless you",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "haggai.json"
+      },
+      {
         "book": "Hebrews.Json",
         "reference": "Hebrews 10:1-18",
         "name": "For the law, having a shadow of the good to come, not the very image of the things",
@@ -19697,6 +19956,33 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Malachi.Json",
+        "reference": "Malachi 3:6-12",
+        "name": "Return to me, and I will return to you… Bring the whole tithe into the storehouse, that there may be food in my house",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR05",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "malachi.json"
+      },
+      {
+        "book": "Malachi.Json",
+        "reference": "Malachi 4:1-6",
+        "name": "To you who fear my name shall the sun of righteousness arise with healing in its wings… He will turn the hearts of the fathers to the children, and the hearts of the children to their fathers",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
+      },
+      {
         "book": "Mark.Json",
         "reference": "Mark 10:17-31",
         "name": "Jesus looking at him loved him, and said to him, 'One thing you lack. Go, sell whatever you have, and give to the poor'… he went away sorrowful, for he was one who had great possessions",
@@ -20701,6 +20987,19 @@
         ],
         "tags": [],
         "source_file": "titus.json"
+      },
+      {
+        "book": "Zephaniah.Json",
+        "reference": "Zephaniah 3:14-20",
+        "name": "He will rejoice over you with joy. He will calm you in his love. He will rejoice over you with singing… I will save those who are lame",
+        "chapters": [
+          "C19",
+          "C22",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zephaniah.json"
       }
     ],
     "C20": [
@@ -21932,6 +22231,18 @@
         ],
         "tags": [],
         "source_file": "song-of-solomon.json"
+      },
+      {
+        "book": "Zephaniah.Json",
+        "reference": "Zephaniah 1:12-13",
+        "name": "I will search Jerusalem with lamps, and I will punish the men who are settled on their dregs, who say in their heart, 'Yahweh will not do good, neither will he do evil.'",
+        "chapters": [
+          "C07",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zephaniah.json"
       }
     ],
     "C21": [
@@ -22362,6 +22673,18 @@
         ],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Haggai.Json",
+        "reference": "Haggai 2:10-19",
+        "name": "If one who is unclean by reason of a dead body touch any of these, will it be unclean?… Consider, please, from this day and backward… From this day will I bless you",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "haggai.json"
       },
       {
         "book": "Hebrews.Json",
@@ -22835,6 +23158,19 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Malachi.Json",
+        "reference": "Malachi 2:17-3:5",
+        "name": "He is like a refiner's fire, and like launderer's soap… against those who oppress the hireling in his wages, the widow, and the fatherless, and who deprive the foreigner of justice",
+        "chapters": [
+          "C16",
+          "C21",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
       },
       {
         "book": "Mark.Json",
@@ -24332,6 +24668,30 @@
         "source_file": "matthew.json"
       },
       {
+        "book": "Nahum.Json",
+        "reference": "Nahum 1:2-8",
+        "name": "Yahweh is slow to anger, and great in power… Yahweh is good, a stronghold in the day of trouble; and he knows those who take refuge in him",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "nahum.json"
+      },
+      {
+        "book": "Obadiah.Json",
+        "reference": "Obadiah 1:1-4",
+        "name": "The pride of your heart has deceived you… who says in his heart, 'Who will bring me down to the ground?'",
+        "chapters": [
+          "C07",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "obadiah.json"
+      },
+      {
         "book": "Philippians.Json",
         "reference": "Philippians 1:12-18",
         "name": "What does it matter? Only that Christ is proclaimed",
@@ -24738,6 +25098,55 @@
         ],
         "tags": [],
         "source_file": "titus.json"
+      },
+      {
+        "book": "Zephaniah.Json",
+        "reference": "Zephaniah 2:15-3:7",
+        "name": "The joyous city that lived carelessly, that said in her heart, 'I am, and there is none besides me.'… She didn't receive correction",
+        "chapters": [
+          "C04",
+          "C08",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zephaniah.json"
+      },
+      {
+        "book": "Zephaniah.Json",
+        "reference": "Zephaniah 2:3",
+        "name": "Seek Yahweh, all you humble of the land, who have kept his ordinances. Seek righteousness. Seek humility",
+        "chapters": [
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zephaniah.json"
+      },
+      {
+        "book": "Zephaniah.Json",
+        "reference": "Zephaniah 3:14-20",
+        "name": "He will rejoice over you with joy. He will calm you in his love. He will rejoice over you with singing… I will save those who are lame",
+        "chapters": [
+          "C19",
+          "C22",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zephaniah.json"
+      },
+      {
+        "book": "Zephaniah.Json",
+        "reference": "Zephaniah 3:9-13",
+        "name": "To serve him shoulder to shoulder… I will leave in the midst of you an afflicted and poor people, and they will take refuge in the name of Yahweh",
+        "chapters": [
+          "C13",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zephaniah.json"
       }
     ],
     "C23": [
@@ -25394,6 +25803,18 @@
         "practices": [],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Malachi.Json",
+        "reference": "Malachi 3:13-18",
+        "name": "Then those who feared Yahweh spoke one with another; and Yahweh listened, and heard, and a book of memory was written before him",
+        "chapters": [
+          "C13",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
       },
       {
         "book": "Mark.Json",
@@ -26389,6 +26810,18 @@
         "source_file": "matthew.json"
       },
       {
+        "book": "Nahum.Json",
+        "reference": "Nahum 1:2-8",
+        "name": "Yahweh is slow to anger, and great in power… Yahweh is good, a stronghold in the day of trouble; and he knows those who take refuge in him",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "nahum.json"
+      },
+      {
         "book": "Proverbs.Json",
         "reference": "Proverbs 30:1-6",
         "name": "Surely I am the most ignorant man",
@@ -27183,6 +27616,20 @@
         ],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Haggai.Json",
+        "reference": "Haggai 2:1-9",
+        "name": "Who is left among you who saw this house in its former glory? How do you see it now? Isn't it in your eyes as nothing? Yet now be strong… and work, for I am with you",
+        "chapters": [
+          "C13",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "haggai.json"
       },
       {
         "book": "Hebrews.Json",
@@ -28358,6 +28805,19 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Malachi.Json",
+        "reference": "Malachi 2:17-3:5",
+        "name": "He is like a refiner's fire, and like launderer's soap… against those who oppress the hireling in his wages, the widow, and the fatherless, and who deprive the foreigner of justice",
+        "chapters": [
+          "C16",
+          "C21",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
       },
       {
         "book": "Philippians.Json",
@@ -29598,6 +30058,21 @@
         "source_file": "micah.json"
       },
       {
+        "book": "Obadiah.Json",
+        "reference": "Obadiah 1:10-15",
+        "name": "Don't look down on your brother in the day of his disaster, and don't rejoice over the children of Judah in the day of their destruction",
+        "chapters": [
+          "C01",
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "obadiah.json"
+      },
+      {
         "book": "Philippians.Json",
         "reference": "Philippians 3:17-21",
         "name": "I tell you even weeping; our citizenship is in heaven",
@@ -29808,6 +30283,19 @@
         ],
         "tags": [],
         "source_file": "song-of-solomon.json"
+      },
+      {
+        "book": "Zephaniah.Json",
+        "reference": "Zephaniah 3:14-20",
+        "name": "He will rejoice over you with joy. He will calm you in his love. He will rejoice over you with singing… I will save those who are lame",
+        "chapters": [
+          "C19",
+          "C22",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "zephaniah.json"
       }
     ],
     "C28": [
@@ -30315,6 +30803,19 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Malachi.Json",
+        "reference": "Malachi 1:6-14",
+        "name": "When you offer the blind for sacrifice, isn't that evil?… Present it now to your governor!… You say also, 'Behold, what a weariness it is!'",
+        "chapters": [
+          "C04",
+          "C12",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "malachi.json"
       },
       {
         "book": "Mark.Json",
@@ -31043,6 +31544,20 @@
         ],
         "tags": [],
         "source_file": "galatians.json"
+      },
+      {
+        "book": "Haggai.Json",
+        "reference": "Haggai 1:1-15",
+        "name": "Is it a time for you yourselves to dwell in your paneled houses, while this house lies waste?… Consider your ways… he who earns wages earns wages to put them into a bag with holes in it",
+        "chapters": [
+          "C04",
+          "C18"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "haggai.json"
       },
       {
         "book": "Hosea.Json",
@@ -33482,6 +33997,21 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Malachi.Json",
+        "reference": "Malachi 3:6-12",
+        "name": "Return to me, and I will return to you… Bring the whole tithe into the storehouse, that there may be food in my house",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR05",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "malachi.json"
       },
       {
         "book": "Mark.Json",
@@ -36631,6 +37161,21 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Malachi.Json",
+        "reference": "Malachi 3:6-12",
+        "name": "Return to me, and I will return to you… Bring the whole tithe into the storehouse, that there may be food in my house",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR05",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "malachi.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 14:22-33",
         "name": "Immediately he stretched out his hand and took hold of him",
@@ -37989,6 +38534,20 @@
         "source_file": "habakkuk.json"
       },
       {
+        "book": "Haggai.Json",
+        "reference": "Haggai 2:1-9",
+        "name": "Who is left among you who saw this house in its former glory? How do you see it now? Isn't it in your eyes as nothing? Yet now be strong… and work, for I am with you",
+        "chapters": [
+          "C13",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "haggai.json"
+      },
+      {
         "book": "Hebrews.Json",
         "reference": "Hebrews 12:1-3",
         "name": "Lay aside every weight and the sin which so easily entangles us, and let us run with patience the race that is set before us, looking to Jesus",
@@ -38573,6 +39132,21 @@
         ],
         "tags": [],
         "source_file": "micah.json"
+      },
+      {
+        "book": "Obadiah.Json",
+        "reference": "Obadiah 1:10-15",
+        "name": "Don't look down on your brother in the day of his disaster, and don't rejoice over the children of Judah in the day of their destruction",
+        "chapters": [
+          "C01",
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "obadiah.json"
       },
       {
         "book": "Philippians.Json",

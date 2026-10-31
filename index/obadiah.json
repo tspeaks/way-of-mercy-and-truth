@@ -1,0 +1,57 @@
+{
+  "book": "Obadiah",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/obadiah.json",
+  "note": "A single oracle against Edom for its conduct when Jerusalem fell. Not cited by the curriculum or the Scriptural Appendix.",
+  "coverage_note": "1:5-9 and 1:16-21 (the destruction of Edom and the possession of its land) are not indexed, per the precedent for the oracles against the nations.",
+  "entries": [
+    {
+      "ref": "Obadiah 1:1-4",
+      "pericope": "The pride of your heart has deceived you… who says in his heart, 'Who will bring me down to the ground?'",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C07"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Edom in its mountain fortress: 'The pride of your heart has deceived you, you who dwell in the clefts of the rock, whose habitation is high, who says in his heart, \"Who will bring me down to the ground?\" Though you mount on high as the eagle, and though your nest is set among the stars, I will bring you down from there.' C22's humility refused, and C07's insight that pride does its first damage to the one who holds it — it deceives.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Obadiah 1:10-15",
+      "pericope": "Don't look down on your brother in the day of his disaster, and don't rejoice over the children of Judah in the day of their destruction",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C15",
+        "C01"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "prescribes",
+      "connection": "Edom's crime is not that it attacked Jerusalem but that it watched, and then joined in: 'In the day that you stood on the other side, in the day that strangers carried away his substance… even you were like one of them.' Then eight prohibitions, each a stage of the same descent: 'don't look down on your brother in the day of his disaster, and don't rejoice over the children of Judah in the day of their destruction. Don't speak proudly in the day of distress… neither seize their wealth on the day of their calamity. Don't stand in the crossroads to cut off those of his who escape.' Shedding Harshness asks us to 'watch the flicker: when you hear of someone's downfall, catch the movement in your chest before you interpret it.' Obadiah traces where that flicker goes if it is not caught — from looking, to gloating, to taking, to cutting off the fugitives. C27 and C15. And C01's principle: 'As you have done, it will be done to you.'",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

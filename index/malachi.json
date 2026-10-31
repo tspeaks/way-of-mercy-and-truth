@@ -1,0 +1,159 @@
+{
+  "book": "Malachi",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/malachi.json",
+  "note": "A series of disputations with a weary and cynical post-exilic community: careless worship, faithless marriages, withheld tithes. Not cited by the curriculum or the Scriptural Appendix.",
+  "coverage_note": "1:1-5 (Jacob loved, Esau hated) is not indexed; Romans 9:13 quotes it and is indexed with its own note.",
+  "entries": [
+    {
+      "ref": "Malachi 1:6-14",
+      "pericope": "When you offer the blind for sacrifice, isn't that evil?… Present it now to your governor!… You say also, 'Behold, what a weariness it is!'",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S3",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C04",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "'A son honors his father, and a servant his master. If I am a father, then where is my honor?' The priests offer animals that are blind, lame and sick: 'Present it now to your governor! Will he be pleased with you?' God receives what no human official would accept. And the attitude beneath it: 'You say also, \"Behold, what a weariness it is!\" and you have sniffed at it.' C28's liturgy turned into a chore, done with leftovers. C04 and C12: the offering reveals the actual valuation. 'Oh that there were one among you who would shut the doors.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Malachi 2:1-9",
+      "pericope": "The law of truth was in his mouth, and unrighteousness was not found in his lips. He walked with me in peace and uprightness, and turned many away from iniquity",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The ideal priest described against the present ones: 'My covenant was with him of life and peace… The law of truth was in his mouth, and unrighteousness was not found in his lips. He walked with me in peace and uprightness, and turned many away from iniquity. For the priest's lips should keep knowledge.' C08's true teacher in four marks — truthful speech, a walk with God, peace, and people actually turned. The failure is the opposite on each count, ending with partiality: 'you… have had respect for persons in the law.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Malachi 2:10-16",
+      "pericope": "Don't we all have one father? Hasn't one God created us? Why do we deal treacherously every man against his brother?… let no one deal treacherously against the wife of his youth",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Don't we all have one father? Hasn't one God created us? Why do we deal treacherously every man against his brother?' C13's common origin as the ground of faithfulness to one another. Then the specific betrayal: men who abandoned the wives of their youth, and wept at the altar when their offerings were refused. 'Yahweh has been witness between you and the wife of your youth, against whom you have dealt treacherously, though she is your companion, and the wife of your covenant… Therefore take heed to your spirit.' C14's household as a covenant witnessed by God. The passage condemns treachery against a faithful spouse; the index anchors that, and does not offer it as a complete teaching on divorce or a verdict on any particular marriage.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Malachi 2:17-3:5",
+      "pericope": "He is like a refiner's fire, and like launderer's soap… against those who oppress the hireling in his wages, the widow, and the fatherless, and who deprive the foreigner of justice",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C16",
+        "C21"
+      ],
+      "practices": [],
+      "connection": "The people ask 'Where is the God of justice?' The answer is that he is coming, and that the question should frighten them: 'who can endure the day of his coming?… For he is like a refiner's fire, and like launderer's soap; and he will sit as a refiner and purifier of silver.' C26's transformation as purification, not decoration. And the list of those he will witness against puts economic injustice beside sorcery and adultery: 'those who oppress the hireling in his wages, the widow, and the fatherless, and who deprive the foreigner of justice.' C16 and C21.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Malachi 3:6-12",
+      "pericope": "Return to me, and I will return to you… Bring the whole tithe into the storehouse, that there may be food in my house",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C14"
+      ],
+      "practices": [
+        "PR11",
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "'For I, Yahweh, don't change; therefore you, sons of Jacob, are not consumed.' C19's mercy grounded in God's constancy. 'Return to me, and I will return to you. But you say, \"How shall we return?\"' The answer is concrete: 'Will a man rob God? Yet you rob me!… In tithes and offerings… Bring the whole tithe into the storehouse, that there may be food in my house.' The Failure Recovery Protocol's 'resume one act of ordinary obedience,' and Habitual Almsgiving's set portion — the tithe that fed the Levites, the stranger, the fatherless and the widow (Deuteronomy 14:28-29) (medium for both). The promise attached ('test me now in this') is recorded as written; the index does not treat it as a formula for return on giving.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Malachi 3:13-18",
+      "pericope": "Then those who feared Yahweh spoke one with another; and Yahweh listened, and heard, and a book of memory was written before him",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The cynics: 'It is vain to serve God… Now we call the proud happy.' Then a small group of others: 'Then those who feared Yahweh spoke one with another; and Yahweh listened, and heard, and a book of memory was written before him, for those who feared Yahweh, and who honored his name.' Faithfulness kept in conversation among ordinary people, unnoticed by anyone but God — and written down. C23's hidden life, and C13's community of the few.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Malachi 4:1-6",
+      "pericope": "To you who fear my name shall the sun of righteousness arise with healing in its wings… He will turn the hearts of the fathers to the children, and the hearts of the children to their fathers",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C14"
+      ],
+      "practices": [],
+      "connection": "The last words of the Old Testament in Christian order. 'But to you who fear my name shall the sun of righteousness arise with healing in its wings. You will go out, and leap like calves of the stall.' C19's healing. And the work of the coming Elijah, named in the most domestic terms possible: 'He will turn the hearts of the fathers to the children, and the hearts of the children to their fathers.' C14's household as the place the restoration begins. Luke 1:17 applies it to John the Baptist.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

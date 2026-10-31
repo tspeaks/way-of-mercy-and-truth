@@ -1,0 +1,352 @@
+{
+  "book": "Hosea",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/hosea.json",
+  "note": "The prophet of a betrayed love: Israel's unfaithfulness pictured in Hosea's marriage, the indictment of a prosperous and forgetful kingdom, and God's refusal to let go. Not cited by the curriculum or the Scriptural Appendix, though 6:6 is quoted by Jesus and 11:1 and 13:14 by the New Testament writers.",
+  "prediction_note": "Forecast: C19 dominant, with 14:1-9 the anchor for PR11 and PR29, and 6:6 for C03. Outcome: as forecast. Unforecast: 11:1-4 anchors PR22 through God's own parental care for a child who does not recognise it, and 7:9 is the clearest counter-example of PR12 in the prophets.",
+  "coverage_note": "The marriage of chapters 1-3 is indexed as prophetic sign, not as a model for marriage; 3:1-5 is explicitly not tagged PR26 because that practice's own guard applies. The violent imagery of judgment (2:3, 2:10, 9:11-16, 13:7-8, 13:15-16) belongs to the prophetic metaphor and is not offered as guidance; 9:1-9, 6:7-11 and 13:15-16 are not indexed.",
+  "entries": [
+    {
+      "ref": "Hosea 1:1-2:1",
+      "pericope": "In the place where it was said to them, 'You are not my people,' they will be called 'sons of the living God.'",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [],
+      "connection": "Hosea's marriage and his children's names are an enacted sermon: Jezreel, Lo-Ruhamah ('no mercy'), Lo-Ammi ('not my people'). The judgment is written into the household. Then the reversal, before the first chapter ends: 'in the place where it was said to them, \"You are not my people,\" they will be called \"sons of the living God\"… Say to your brothers, \"My people!\" and to your sisters, \"My loved one!\"' C19's door opened in the very place it was shut. Paul quotes it at Romans 9:25-26. The marriage is indexed as a prophetic sign; it is not offered as a model for anyone's marriage.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 2:2-13",
+      "pericope": "She did not know that I gave her the grain, the new wine, and the oil, and multiplied to her silver and gold, which they used for Baal",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C07",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The indictment of an unfaithful people, in the language of a betrayed marriage. Its centre is ingratitude: 'she said, \"I will go after my lovers, who give me my bread and my water, my wool and my flax\"… For she did not know that I gave her the grain, the new wine, and the oil, and multiplied to her silver and gold, which they used for Baal.' C07's failure of sight — gifts received and credited to the wrong source — and C21's anatomy of drift. The imagery of punishment in this section is harsh and belongs to the prophetic metaphor; the index anchors the diagnosis, not the imagery.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 2:14-23",
+      "pericope": "I will allure her, and bring her into the wilderness, and speak tenderly to her. I will give her… the valley of Achor for a door of hope",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C27"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "'Therefore, behold, I will allure her, and bring her into the wilderness, and speak tenderly to her. I will give her vineyards from there, and the valley of Achor for a door of hope.' Achor means 'trouble' — the valley where Achan was stoned (Joshua 7) — and it becomes the door. C19's door made out of the place of failure. 'You will call me \"my husband,\" and no longer call me \"my master.\"' 'I will betroth you to me in righteousness, in justice, in loving kindness, and in compassion… I will have mercy on her who had not obtained mercy.' Merciful Reintegration as God practises it: the unfaithful one welcomed fully, with a new name rather than a probation (medium). C27's love that does not stop at the boundary of desert.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 3:1-5",
+      "pericope": "Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C27"
+      ],
+      "practices": [],
+      "connection": "'Yahweh said to me, \"Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods.\" So I bought her for myself.' The prophet's household made into a picture of a love that pursues the unfaithful. C27's love without limit and C19's redemption at a price. Indexed with Unobligated Loyalty's own guard, and for that reason not tagged PR26: this is a prophetic sign of God's love, commanded for that purpose; it is not a template for remaining with an unfaithful or harmful partner, and the index does not offer it as one.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 4:1-19",
+      "pericope": "There is no truth, nor goodness, nor knowledge of God in the land… My people are destroyed for lack of knowledge… like people, like priest",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C08",
+        "C04"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "'Yahweh has a charge against the inhabitants of the land: \"Indeed there is no truth, nor goodness, nor knowledge of God in the land. There is cursing, lying, murder, stealing, and committing adultery.\"' C04's audit of a whole society. The responsibility falls hardest on those who were meant to teach: 'My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you, that you may be no priest to me… They feed on the sin of my people… It will be, like people, like priest.' C08's false teacher who profits from the condition he should cure. 'Prostitution, wine, and new wine take away understanding.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 5:1-15",
+      "pericope": "When Ephraim saw his sickness, and Judah his wound, Then Ephraim went to Assyria… but he is not able to heal you",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "'Their deeds won't allow them to turn to their God; for the spirit of prostitution is within them.' C21's account of a pattern that has become a captivity. Then the wrong physician: 'When Ephraim saw his sickness, and Judah his wound, Then Ephraim went to Assyria… but he is not able to heal you, neither will he cure you of your wound.' The diagnosis was correct; the remedy was sought in the wrong place. God withdraws 'until they acknowledge their offense, and seek my face.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 6:1-6",
+      "pericope": "Your love is like a morning cloud, and like the dew that disappears early… For I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "chapters": [
+        "C12",
+        "C06",
+        "C03"
+      ],
+      "practices": [],
+      "connection": "The people's song of return sounds right: 'Come, and let us return to Yahweh; for he has torn us to pieces, and he will heal us.' God's answer is grief at its shallowness: 'Ephraim, what shall I do to you?… For your love is like a morning cloud, and like the dew that disappears early.' C12's proof — love tested by whether it lasts past the morning. Then the line Jesus quotes twice (Matthew 9:13, 12:7): 'For I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings.' C06's reading of worship by its purpose, and C03's mercy as what God actually wants.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 7:1-16",
+      "pericope": "Strangers have devoured his strength, and he doesn't realize it. Indeed, gray hairs are here and there on him, and he doesn't realize it… They haven't cried to me with their heart, but they howl on their beds",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C21"
+      ],
+      "practices": [
+        "PR12",
+        "PR08"
+      ],
+      "mode": "counter-example",
+      "connection": "'Ephraim is a pancake not turned over' — burnt on one side, raw on the other. The decline is gradual and unnoticed: 'Strangers have devoured his strength, and he doesn't realize it. Indeed, gray hairs are here and there on him, and he doesn't realize it.' The cost of Watchfulness absent — C20's gate unkept, not by a single breach but by inattention over years. And a counterfeit of lament: 'They haven't cried to me with their heart, but they howl on their beds. They assemble themselves for grain and new wine.' Sacred Lament brings grief to God; this is distress that never turns toward him (medium for both). C21.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 8:1-14",
+      "pericope": "They sow the wind, and they will reap the whirlwind… Israel has forgotten his Maker and built palaces",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "'They cry to me, \"My God, we Israel acknowledge you!\" Israel has cast off that which is good.' The words of devotion and the reality apart. Kings set up 'but not by me,' idols made of their silver and gold. 'For they sow the wind, and they will reap the whirlwind.' C21's law of consequence. And the last line names what forgetting looks like in stone: 'Israel has forgotten his Maker and built palaces' — C18's warning about where the treasure goes.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 9:10-17",
+      "pericope": "I found Israel like grapes in the wilderness… but they came to Baal Peor… and became abominable like that which they loved",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C07"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "God's memory of first love — 'I found Israel like grapes in the wilderness. I saw your fathers as the first ripe in the fig tree at its first season' — and what followed: 'they came to Baal Peor, and consecrated themselves to the shameful thing, and became abominable like that which they loved.' C21's principle in its starkest form: a person becomes like what they love. C07: the object of love shapes the eye that sees it. The surrounding oracles of judgment (9:1-9, 9:11-16) are severe and are not indexed separately.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 10:1-8",
+      "pericope": "According to the abundance of his fruit he has multiplied his altars. As their land has prospered, they have adorned their sacred stones. Their heart is divided",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C18",
+        "C21"
+      ],
+      "practices": [
+        "PR28"
+      ],
+      "mode": "counter-example",
+      "connection": "'Israel is a luxuriant vine that puts forth his fruit. According to the abundance of his fruit he has multiplied his altars. As their land has prospered, they have adorned their sacred stones. Their heart is divided.' The Heavenly Palace's warning exactly: prosperity spent on ornament and display rather than on the afflicted (medium). C18's detachment absent, and C21's diagnosis: 'Their heart is divided.' 'They make promises, swearing falsely in making covenants.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 10:9-15",
+      "pericope": "Sow to yourselves in righteousness, reap according to kindness. Break up your fallow ground; for it is time to seek Yahweh",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C11"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "In the middle of the warnings, an agricultural command: 'Sow to yourselves in righteousness, reap according to kindness. Break up your fallow ground; for it is time to seek Yahweh, until he comes and rains righteousness on you.' C25's patient cultivation — the ground broken before seed can take — and C11's fruit as the harvest of what was sown. And its opposite: 'You have plowed wickedness. You have reaped iniquity. You have eaten the fruit of lies, for you trusted in your way.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 11:1-11",
+      "pericope": "I taught Ephraim to walk. I took them by his arms; but they didn't know that I healed them… How can I give you up, Ephraim?… My heart is turned within me, my compassion is aroused",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C14",
+        "C03"
+      ],
+      "practices": [
+        "PR22"
+      ],
+      "mode": "exemplifies",
+      "connection": "God as a parent: 'When Israel was a child, then I loved him, and called my son out of Egypt… Yet I taught Ephraim to walk. I took them by his arms; but they didn't know that I healed them. I drew them with cords of a man, with ties of love… and I bent down to him and I fed him.' C14's household love at its tenderest. The child runs to other gods and does not recognise the care. Unreciprocated Care: love that continues while the one helped turns away without thanks (medium). Then the turn inside God himself: 'How can I give you up, Ephraim? How can I hand you over, Israel?… My heart is turned within me, my compassion is aroused. I will not execute the fierceness of my anger… for I am God, and not man.' C19 and C03: mercy as the thing that distinguishes God from us.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 11:12-12:14",
+      "pericope": "Turn to your God. Keep kindness and justice, and wait continually for your God. A merchant has dishonest scales in his hand… 'In all my wealth they won't find in me any iniquity that is sin.'",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C19"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "prescribes",
+      "connection": "Jacob's history recalled — the heel, the wrestling, and the detail Genesis does not give: 'he wept, and made supplication to him.' Then the command: 'Therefore turn to your God. Keep kindness and justice, and wait continually for your God.' And its failure in commerce: 'A merchant has dishonest scales in his hand. He loves to defraud. Ephraim said, \"Surely I have become rich, I have found myself wealth. In all my wealth they won't find in me any iniquity that is sin.\"' The Moral Audit's money area, and the self-acquittal it exists to break (medium). C04 and C19.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 13:1-14",
+      "pericope": "According to their pasture, so were they filled; they were filled, and their heart was exalted. Therefore they have forgotten me",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "'I knew you in the wilderness, in the land of great drought. According to their pasture, so were they filled; they were filled, and their heart was exalted. Therefore they have forgotten me.' The sequence is C22's warning and C18's: provision, satisfaction, pride, forgetting. Deuteronomy 8 foresaw it; Hosea records it happening. And within the judgment, the promise Paul will turn into a taunt at 1 Corinthians 15:55: 'I will ransom them from the power of Sheol. I will redeem them from death! Death, where are your plagues?' 13:15-16 is not indexed.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Hosea 14:1-9",
+      "pericope": "Take words with you, and return to Yahweh. Tell him, 'Forgive all our sins'… in you the fatherless finds mercy… I will heal their waywardness. I will love them freely",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C11"
+      ],
+      "practices": [
+        "PR11",
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "The book ends with instructions for coming back. 'Israel, return to Yahweh your God; for you have fallen because of your sin. Take words with you, and return to Yahweh. Tell him, \"Forgive all our sins, and accept that which is good.\"' The Failure Recovery Protocol's 'name it plainly' — words prepared, the sin named, the false trusts renounced: 'Assyria can't save us… neither will we say any more to the work of our hands, \"Our gods!\" for in you the fatherless finds mercy.' And God's answer is Merciful Reintegration without probation: 'I will heal their waywardness. I will love them freely; for my anger is turned away from him. I will be like the dew to Israel. He will blossom like the lily.' C19's door, and C11's fruit at last: 'from me your fruit is found.'",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

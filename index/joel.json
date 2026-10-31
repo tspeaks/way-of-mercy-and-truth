@@ -1,0 +1,97 @@
+{
+  "book": "Joel",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/joel.json",
+  "note": "A locust plague read as a call to lament and return, followed by promises of restoration and of the Spirit poured out on all flesh. Not cited by the curriculum or the Scriptural Appendix.",
+  "coverage_note": "2:1-11 (the day of Yahweh as an army) is the setting for 2:12-17 and is not indexed separately. Chapter 3 (judgment on the nations in the valley of Jehoshaphat) is not indexed, per the precedent for the oracles against the nations in Isaiah.",
+  "entries": [
+    {
+      "ref": "Joel 1:1-20",
+      "pericope": "Tell your children about it, and have your children tell their children… Sanctify a fast. Call a solemn assembly… and cry to Yahweh",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C14",
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "prescribes",
+      "connection": "A locust plague so complete that 'joy has withered away from the sons of men.' The first instruction is memory across generations: 'Tell your children about it, and have your children tell their children, and their children, another generation' — C14's household as the place the story is kept. Then communal lament, commanded: 'Put on sackcloth and mourn, you priests!… Sanctify a fast. Call a solemn assembly. Gather the elders, and all the inhabitants of the land, to the house of Yahweh, your God, and cry to Yahweh.' The prophet leads it himself — 'Yahweh, I cry to you' — and even the animals 'pant to you.' Sacred Lament as a whole people's act. C19.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Joel 2:12-17",
+      "pericope": "Yet even now… turn to me with all your heart… Tear your heart, and not your garments… for he is gracious and merciful, slow to anger, and abundant in loving kindness",
+      "pillars": [
+        "mercy",
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C06"
+      ],
+      "practices": [
+        "PR11",
+        "PR08"
+      ],
+      "mode": "prescribes",
+      "connection": "After the description of the day of Yahweh as an invading army (2:1-11), the hinge of the book: '\"Yet even now,\" says Yahweh, \"turn to me with all your heart, and with fasting, and with weeping, and with mourning.\" Tear your heart, and not your garments, and turn to Yahweh, your God; for he is gracious and merciful, slow to anger, and abundant in loving kindness.' 'Yet even now' is the Failure Recovery Protocol's whole principle — the return is available at the latest possible moment, not deferred. C06's inward reading of the outward sign: the heart torn, not the clothes. Sacred Lament gathers everyone — 'the children, and those who nurse from breasts… the bridegroom… and the bride' — and the priests weep 'between the porch and the altar.' C19's door, with 'Who knows?' left honestly open.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Joel 2:18-27",
+      "pericope": "I will restore to you the years that the swarming locust has eaten",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C25"
+      ],
+      "practices": [],
+      "connection": "'Then Yahweh was jealous for his land, And had pity on his people.' The restoration answers the specific loss: 'I will restore to you the years that the swarming locust has eaten, the great locust, the grasshopper, and the caterpillar.' C19's mercy reaching backward into wasted time, and C25's assurance that growth can resume after years of loss. 'Land, don't be afraid. Be glad and rejoice.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Joel 2:28-32",
+      "pericope": "I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy… And also on the servants and on the handmaids",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C13",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "'It will happen afterward, that I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy. Your old men will dream dreams. Your young men will see visions. And also on the servants and on the handmaids in those days, I will pour out my Spirit.' Every distinction of age, sex and rank crossed in one sentence — C13's community in which the gift is not reserved to the few. 'Whoever will call on the name of Yahweh shall be saved' — C19. Peter quotes the passage at Pentecost (Acts 2:16-21).",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

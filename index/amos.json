@@ -1,0 +1,301 @@
+{
+  "book": "Amos",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/amos.json",
+  "note": "A herdsman from Judah sent to the prosperous northern kingdom with a single message: worship without justice is refused. Not cited by the curriculum or the Scriptural Appendix.",
+  "prediction_note": "Forecast: PR28 counter-examples at 3:15 and 6:4-6; C06 and C12 at 5:21-24. Outcome: as forecast. Unforecast: 4:5 is the clearest counter-example of PR13 in the prophets (offerings proclaimed and bragged about), and 6:6 ('not grieved for the affliction of Joseph') is a counter-example of PR15, the absence of grief as the sin.",
+  "coverage_note": "The oracles against the nations (1:3-2:3) are indexed as a unit for their moral premise, not individually. 9:1-6 (the vision at the altar) is not indexed separately.",
+  "entries": [
+    {
+      "ref": "Amos 1:3-2:3",
+      "pericope": "Because he pursued his brother with the sword, and cast off all pity, and his anger raged continually, and he kept his wrath forever",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C01",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Amos begins by condemning Israel's neighbours, one by one, for crimes that need no revealed law to recognise: threshing Gilead 'with threshing instruments of iron,' selling whole communities into slavery, ripping open pregnant women 'that they may enlarge their border,' desecrating a dead king's bones. C01's claim that the moral structure of reality binds everyone — these nations are judged without having received the Torah. The charge against Edom is the most interior: 'he pursued his brother with the sword, and cast off all pity, and his anger raged continually, and he kept his wrath forever.' C21's anatomy of anger that is never set down. Indexed as a unit for its moral premise; the oracles are not anchored individually.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Amos 2:4-16",
+      "pericope": "They have sold the righteous for silver, and the needy for a pair of shoes… they lay themselves down beside every altar on clothes taken in pledge",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C04",
+        "C16",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Having gathered his audience's agreement against the nations, Amos turns the same formula on Judah and then on Israel — the real target. 'Because they have sold the righteous for silver, and the needy for a pair of shoes; They trample on the dust of the earth on the head of the poor, and deny justice to the oppressed.' The worship is built on the spoils: 'they lay themselves down beside every altar on clothes taken in pledge; and in the house of their God they drink the wine of those who have been fined.' C04's audit of a whole society, and C16's order inverted. And the silencing of the true voice: 'you gave the Nazirites wine to drink, and commanded the prophets, saying, \"Don't prophesy!\"' — C08.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Amos 3:1-15",
+      "pericope": "Who hoard plunder and loot in their palaces… I will strike the winter house with the summer house; and the houses of ivory will perish",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C18",
+        "C21"
+      ],
+      "practices": [
+        "PR28"
+      ],
+      "mode": "counter-example",
+      "connection": "'You only have I chosen of all the families of the earth. Therefore I will punish you for all of your sins.' Privilege as greater accountability. The sequence of questions — 'Do two walk together, unless they have agreed?' — ends in the prophet's compulsion: 'The Lord Yahweh has spoken. Who can but prophesy?' Then the accusation: 'they don't know to do right… Who hoard plunder and loot in their palaces.' Judgment falls on the architecture of comfort: 'I will strike the winter house with the summer house; and the houses of ivory will perish, and the great houses will have an end.' The Heavenly Palace's counter-image — surplus built into second homes while the poor are plundered (medium). C18 and C21.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Amos 4:1-5",
+      "pericope": "You cows of Bashan… who oppress the poor, who crush the needy… proclaim free will offerings and brag about them: for this pleases you",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C12"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "counter-example",
+      "connection": "The wealthy women of Samaria, 'who oppress the poor, who crush the needy, who tell their husbands, \"Bring us drinks!\"' Then a sarcastic invitation to worship: 'Go to Bethel, and sin; to Gilgal, and sin more. Bring your sacrifices every morning, your tithes every three days… and proclaim free will offerings and brag about them: for this pleases you.' Religion performed for an audience. The Hidden Life asks that good be done unwitnessed and that one 'resist even the small confession afterward'; this is its precise opposite — generosity announced (medium). C23, and C12's proof failed: diligent ritual beside oppression of the poor.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Amos 4:6-13",
+      "pericope": "Yet you haven't returned to me… Prepare to meet your God, Israel",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C19"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "counter-example",
+      "connection": "Five calamities — famine, drought, blight, plague, overthrow — each followed by the same refrain: 'yet you haven't returned to me,' says Yahweh. Each was an invitation and each was refused. The Failure Recovery Protocol's same-day return, refused five times over years (medium). C21's hardening by repetition, and C19's door repeatedly offered. 'Therefore… prepare to meet your God, Israel.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Amos 5:1-17",
+      "pericope": "Seek me, and you will live… They hate him who reproves in the gate… Hate evil, love good, and establish justice in the courts",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C01",
+        "C08",
+        "C04"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A funeral song for a nation still alive — 'The virgin of Israel has fallen; She shall rise no more' — and inside it the Two Ways: 'Seek me, and you will live… Seek Yahweh, and you will live.' C01's choice. The accused 'turn justice to wormwood': 'They hate him who reproves in the gate, and they abhor him who speaks blamelessly' — C08's true voice resented. 'You who afflict the just, who take a bribe, and who turn aside the needy in the courts' — C04. The command is short: 'Seek good, and not evil, that you may live… Hate evil, love good, and establish justice in the courts. It may be that Yahweh… will be gracious.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Amos 5:18-27",
+      "pericope": "I hate, I despise your feasts… But let justice roll on like rivers, and righteousness like a mighty stream",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "chapters": [
+        "C06",
+        "C12",
+        "C03"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Woe to you who desire the day of Yahweh!' — the religious who assume judgment is for others. Then God's refusal of their worship in its entirety: 'I hate, I despise your feasts, and I can't stand your solemn assemblies… Take away from me the noise of your songs! I will not listen to the music of your harps. But let justice roll on like rivers, and righteousness like a mighty stream.' C06's reading of worship by what it produces, C12's proof, and C03's mercy as the thing worship was meant to express.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Amos 6:1-14",
+      "pericope": "Woe to those who are at ease in Zion… Who lie on beds of ivory… who drink wine in bowls, and anoint themselves with the best oils; but they are not grieved for the affliction of Joseph",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C18",
+        "C27"
+      ],
+      "practices": [
+        "PR28",
+        "PR15"
+      ],
+      "mode": "counter-example",
+      "connection": "'Woe to those who are at ease in Zion, and to those who are secure on the mountain of Samaria.' The portrait is precise: 'Who lie on beds of ivory, and stretch themselves on their couches, and eat the lambs out of the flock… who strum on the strings of a harp; who invent for themselves instruments of music… who drink wine in bowls, and anoint themselves with the best oils; but they are not grieved for the affliction of Joseph.' The Heavenly Palace's absence: surplus spent on refinement. And the last clause is the indictment Shedding Harshness addresses — 'name the boundary… whose suffering does not move you.' The sin is not only luxury but the absence of grief. C18 and C27. 'You have turned justice into poison.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Amos 7:1-6",
+      "pericope": "Lord Yahweh, forgive, I beg you! How could Jacob stand? For he is small. Yahweh relented concerning this",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C19"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "Two visions of judgment — locusts, then fire — and twice the prophet who has been denouncing Israel pleads for it: 'Lord Yahweh, forgive, I beg you! How could Jacob stand? For he is small.' 'Yahweh relented concerning this.' Shedding Harshness in the one who has most cause to want the guilty punished: he prays for the people he was sent to condemn, and pleads their smallness rather than their merit (medium). C27's widened heart, and C19's mercy moved by intercession.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Amos 7:7-17",
+      "pericope": "I was no prophet, neither was I a prophet's son; but I was a herdsman, and a farmer of sycamore figs… don't prophesy again any more at Bethel; for it is the king's sanctuary",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C08",
+        "C13",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The plumb line set against a crooked wall. Then the confrontation with the official priest: 'Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, \"Amos has conspired against you… The land is not able to bear all his words.\"' 'Don't prophesy again any more at Bethel; for it is the king's sanctuary, and it is a royal house!' — worship captured by the state, C17's warning. Amos's reply is C08's credential and C13's: 'I was no prophet, neither was I a prophet's son; but I was a herdsman, and a farmer of sycamore figs; and Yahweh took me from following the flock.' A layman with an ordinary trade, sent.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Amos 8:1-14",
+      "pericope": "When will the new moon be gone, that we may sell grain?… making the ephah small, and the shekel large, and dealing falsely with balances of deceit",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S2",
+        "S7"
+      ],
+      "chapters": [
+        "C04",
+        "C28",
+        "C08"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "counter-example",
+      "connection": "Merchants impatient for the holy day to end: 'When will the new moon be gone, that we may sell grain? And the Sabbath, that we may market wheat, making the ephah small, and the shekel large, and dealing falsely with balances of deceit; that we may buy the poor for silver, and the needy for a pair of shoes, and sell the sweepings with the wheat?' The Moral Audit's money area — where spending and dealing contradict what one claims to value — and C04's mirror held up to a whole marketplace (medium). C28's Sabbath endured rather than kept. And the judgment that fits: 'a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of Yahweh' — C08.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Amos 9:7-10",
+      "pericope": "Are you not like the children of the Ethiopians to me, children of Israel?… Haven't I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir?",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C22",
+        "C27"
+      ],
+      "practices": [],
+      "connection": "The vision of judgment at the altar (9:1-6) is followed by a question that dismantles national privilege: 'Are you not like the children of the Ethiopians to me, children of Israel? Haven't I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir?' God has guided other peoples' histories too. C22's humility applied to a chosen nation, and C27's reach. The sieve that follows will not lose 'the least kernel.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Amos 9:11-15",
+      "pericope": "In that day I will raise up the tent of David who is fallen… the plowman shall overtake the reaper",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C25"
+      ],
+      "practices": [],
+      "connection": "After nine chapters of judgment, five verses of restoration: 'In that day I will raise up the tent of David who is fallen, and close up its breaches.' Abundance so great 'that the plowman shall overtake the reaper.' 'They will rebuild the ruined cities, and inhabit them; and they will plant vineyards, and drink wine from them.' C19's mercy and C25's renewed growth. James quotes 9:11-12 at the Jerusalem council (Acts 15:16-17).",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

@@ -24,6 +24,31 @@
         "source_file": "2-peter.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 1:3-2:3",
+        "name": "Because he pursued his brother with the sword, and cast off all pity, and his anger raged continually, and he kept his wrath forever",
+        "chapters": [
+          "C01",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 5:1-17",
+        "name": "Seek me, and you will live… They hate him who reproves in the gate… Hate evil, love good, and establish justice in the courts",
+        "chapters": [
+          "C01",
+          "C04",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 1:15-20",
         "name": "In him all things are held together",
@@ -1214,6 +1239,19 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 5:18-27",
+        "name": "I hate, I despise your feasts… But let justice roll on like rivers, and righteousness like a mighty stream",
+        "chapters": [
+          "C03",
+          "C06",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 26:12-33",
         "name": "For now Yahweh has made room for us",
@@ -1270,6 +1308,34 @@
         ],
         "tags": [],
         "source_file": "habakkuk.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 11:1-11",
+        "name": "I taught Ephraim to walk. I took them by his arms; but they didn't know that I healed them… How can I give you up, Ephraim?… My heart is turned within me, my compassion is aroused",
+        "chapters": [
+          "C03",
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR22"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 6:1-6",
+        "name": "Your love is like a morning cloud, and like the dew that disappears early… For I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings",
+        "chapters": [
+          "C03",
+          "C06",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",
@@ -1984,6 +2050,47 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 2:4-16",
+        "name": "They have sold the righteous for silver, and the needy for a pair of shoes… they lay themselves down beside every altar on clothes taken in pledge",
+        "chapters": [
+          "C04",
+          "C08",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 5:1-17",
+        "name": "Seek me, and you will live… They hate him who reproves in the gate… Hate evil, love good, and establish justice in the courts",
+        "chapters": [
+          "C01",
+          "C04",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 8:1-14",
+        "name": "When will the new moon be gone, that we may sell grain?… making the ephah small, and the shekel large, and dealing falsely with balances of deceit",
+        "chapters": [
+          "C04",
+          "C08",
+          "C28"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Deuteronomy.Json",
         "reference": "Deuteronomy 21:1-9",
         "name": "Our hands have not shed this blood… Forgive, Yahweh, your people",
@@ -2193,6 +2300,32 @@
         "practices": [],
         "tags": [],
         "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 11:12-12:14",
+        "name": "Turn to your God. Keep kindness and justice, and wait continually for your God. A merchant has dishonest scales in his hand… 'In all my wealth they won't find in me any iniquity that is sin.'",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 4:1-19",
+        "name": "There is no truth, nor goodness, nor knowledge of God in the land… My people are destroyed for lack of knowledge… like people, like priest",
+        "chapters": [
+          "C04",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",
@@ -3531,6 +3664,19 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 5:18-27",
+        "name": "I hate, I despise your feasts… But let justice roll on like rivers, and righteousness like a mighty stream",
+        "chapters": [
+          "C03",
+          "C06",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 2:16-19",
         "name": "A shadow of the things to come; but the body is Christ's",
@@ -3678,6 +3824,19 @@
         "source_file": "hebrews.json"
       },
       {
+        "book": "Hosea.Json",
+        "reference": "Hosea 6:1-6",
+        "name": "Your love is like a morning cloud, and like the dew that disappears early… For I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings",
+        "chapters": [
+          "C03",
+          "C06",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
         "book": "Jeremiah.Json",
         "reference": "Jeremiah 1:11-19",
         "name": "What do you see? A branch of an almond tree",
@@ -3717,6 +3876,21 @@
         ],
         "tags": [],
         "source_file": "job.json"
+      },
+      {
+        "book": "Joel.Json",
+        "reference": "Joel 2:12-17",
+        "name": "Yet even now… turn to me with all your heart… Tear your heart, and not your garments… for he is gracious and merciful, slow to anger, and abundant in loving kindness",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "joel.json"
       },
       {
         "book": "John.Json",
@@ -4136,6 +4310,30 @@
         ],
         "tags": [],
         "source_file": "genesis.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 2:2-13",
+        "name": "She did not know that I gave her the grain, the new wine, and the oil, and multiplied to her silver and gold, which they used for Baal",
+        "chapters": [
+          "C07",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 9:10-17",
+        "name": "I found Israel like grapes in the wilderness… but they came to Baal Peor… and became abominable like that which they loved",
+        "chapters": [
+          "C07",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",
@@ -4911,6 +5109,60 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 2:4-16",
+        "name": "They have sold the righteous for silver, and the needy for a pair of shoes… they lay themselves down beside every altar on clothes taken in pledge",
+        "chapters": [
+          "C04",
+          "C08",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 5:1-17",
+        "name": "Seek me, and you will live… They hate him who reproves in the gate… Hate evil, love good, and establish justice in the courts",
+        "chapters": [
+          "C01",
+          "C04",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 7:7-17",
+        "name": "I was no prophet, neither was I a prophet's son; but I was a herdsman, and a farmer of sycamore figs… don't prophesy again any more at Bethel; for it is the king's sanctuary",
+        "chapters": [
+          "C08",
+          "C13",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 8:1-14",
+        "name": "When will the new moon be gone, that we may sell grain?… making the ephah small, and the shekel large, and dealing falsely with balances of deceit",
+        "chapters": [
+          "C04",
+          "C08",
+          "C28"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 2:1-5",
         "name": "In whom are all the treasures of wisdom and knowledge hidden",
@@ -5019,6 +5271,18 @@
         ],
         "tags": [],
         "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 4:1-19",
+        "name": "There is no truth, nor goodness, nor knowledge of God in the land… My people are destroyed for lack of knowledge… like people, like priest",
+        "chapters": [
+          "C04",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",
@@ -7247,6 +7511,33 @@
         "source_file": "hebrews.json"
       },
       {
+        "book": "Hosea.Json",
+        "reference": "Hosea 10:9-15",
+        "name": "Sow to yourselves in righteousness, reap according to kindness. Break up your fallow ground; for it is time to seek Yahweh",
+        "chapters": [
+          "C11",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 14:1-9",
+        "name": "Take words with you, and return to Yahweh. Tell him, 'Forgive all our sins'… in you the fatherless finds mercy… I will heal their waywardness. I will love them freely",
+        "chapters": [
+          "C11",
+          "C19"
+        ],
+        "practices": [
+          "PR11",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 27:1-13",
         "name": "A pleasant vineyard! I, Yahweh, am its keeper… Let him make peace with me",
@@ -7732,6 +8023,33 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 4:1-5",
+        "name": "You cows of Bashan… who oppress the poor, who crush the needy… proclaim free will offerings and brag about them: for this pleases you",
+        "chapters": [
+          "C12",
+          "C23"
+        ],
+        "practices": [
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 5:18-27",
+        "name": "I hate, I despise your feasts… But let justice roll on like rivers, and righteousness like a mighty stream",
+        "chapters": [
+          "C03",
+          "C06",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 1:3-8",
         "name": "Bearing fruit and growing, as it does in you also",
@@ -7801,6 +8119,19 @@
         "practices": [],
         "tags": [],
         "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 6:1-6",
+        "name": "Your love is like a morning cloud, and like the dew that disappears early… For I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings",
+        "chapters": [
+          "C03",
+          "C06",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",
@@ -8724,6 +9055,19 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 7:7-17",
+        "name": "I was no prophet, neither was I a prophet's son; but I was a herdsman, and a farmer of sycamore figs… don't prophesy again any more at Bethel; for it is the king's sanctuary",
+        "chapters": [
+          "C08",
+          "C13",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 3:22-4:1",
         "name": "Not just when they are looking, as men pleasers",
@@ -9057,6 +9401,18 @@
         ],
         "tags": [],
         "source_file": "job.json"
+      },
+      {
+        "book": "Joel.Json",
+        "reference": "Joel 2:28-32",
+        "name": "I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy… And also on the servants and on the handmaids",
+        "chapters": [
+          "C13",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "joel.json"
       },
       {
         "book": "John.Json",
@@ -10109,6 +10465,21 @@
         "source_file": "hebrews.json"
       },
       {
+        "book": "Hosea.Json",
+        "reference": "Hosea 11:1-11",
+        "name": "I taught Ephraim to walk. I took them by his arms; but they didn't know that I healed them… How can I give you up, Ephraim?… My heart is turned within me, my compassion is aroused",
+        "chapters": [
+          "C03",
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR22"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 39:1-8",
         "name": "There is nothing among my treasures that I have not shown them… there will be peace and truth in my days",
@@ -10173,6 +10544,20 @@
         "practices": [],
         "tags": [],
         "source_file": "job.json"
+      },
+      {
+        "book": "Joel.Json",
+        "reference": "Joel 1:1-20",
+        "name": "Tell your children about it, and have your children tell their children… Sanctify a fast. Call a solemn assembly… and cry to Yahweh",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "joel.json"
       },
       {
         "book": "John.Json",
@@ -12410,6 +12795,19 @@
         ],
         "tags": [],
         "source_file": "acts.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 2:4-16",
+        "name": "They have sold the righteous for silver, and the needy for a pair of shoes… they lay themselves down beside every altar on clothes taken in pledge",
+        "chapters": [
+          "C04",
+          "C08",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
       },
       {
         "book": "Colossians.Json",
@@ -14682,6 +15080,19 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 7:7-17",
+        "name": "I was no prophet, neither was I a prophet's son; but I was a herdsman, and a farmer of sycamore figs… don't prophesy again any more at Bethel; for it is the king's sanctuary",
+        "chapters": [
+          "C08",
+          "C13",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 4:5-6",
         "name": "Walk in wisdom toward those who are outside",
@@ -15707,6 +16118,35 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 3:1-15",
+        "name": "Who hoard plunder and loot in their palaces… I will strike the winter house with the summer house; and the houses of ivory will perish",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 6:1-14",
+        "name": "Woe to those who are at ease in Zion… Who lie on beds of ivory… who drink wine in bowls, and anoint themselves with the best oils; but they are not grieved for the affliction of Joseph",
+        "chapters": [
+          "C18",
+          "C27"
+        ],
+        "practices": [
+          "PR15",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 3:1-4",
         "name": "Your life is hidden with Christ in God",
@@ -16163,6 +16603,44 @@
         ],
         "tags": [],
         "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 10:1-8",
+        "name": "According to the abundance of his fruit he has multiplied his altars. As their land has prospered, they have adorned their sacred stones. Their heart is divided",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 13:1-14",
+        "name": "According to their pasture, so were they filled; they were filled, and their heart was exalted. Therefore they have forgotten me",
+        "chapters": [
+          "C18",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 8:1-14",
+        "name": "They sow the wind, and they will reap the whirlwind… Israel has forgotten his Maker and built palaces",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",
@@ -17337,6 +17815,46 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 4:6-13",
+        "name": "Yet you haven't returned to me… Prepare to meet your God, Israel",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 7:1-6",
+        "name": "Lord Yahweh, forgive, I beg you! How could Jacob stand? For he is small. Yahweh relented concerning this",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 9:11-15",
+        "name": "In that day I will raise up the tent of David who is fallen… the plowman shall overtake the reaper",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 1:21-23",
         "name": "Alienated and enemies in your mind, yet now reconciled",
@@ -17890,6 +18408,87 @@
         "practices": [],
         "tags": [],
         "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 11:1-11",
+        "name": "I taught Ephraim to walk. I took them by his arms; but they didn't know that I healed them… How can I give you up, Ephraim?… My heart is turned within me, my compassion is aroused",
+        "chapters": [
+          "C03",
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR22"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 11:12-12:14",
+        "name": "Turn to your God. Keep kindness and justice, and wait continually for your God. A merchant has dishonest scales in his hand… 'In all my wealth they won't find in me any iniquity that is sin.'",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 14:1-9",
+        "name": "Take words with you, and return to Yahweh. Tell him, 'Forgive all our sins'… in you the fatherless finds mercy… I will heal their waywardness. I will love them freely",
+        "chapters": [
+          "C11",
+          "C19"
+        ],
+        "practices": [
+          "PR11",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 1:1-2:1",
+        "name": "In the place where it was said to them, 'You are not my people,' they will be called 'sons of the living God.'",
+        "chapters": [
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 2:14-23",
+        "name": "I will allure her, and bring her into the wilderness, and speak tenderly to her. I will give her… the valley of Achor for a door of hope",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 3:1-5",
+        "name": "Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",
@@ -18673,6 +19272,59 @@
         ],
         "tags": [],
         "source_file": "job.json"
+      },
+      {
+        "book": "Joel.Json",
+        "reference": "Joel 1:1-20",
+        "name": "Tell your children about it, and have your children tell their children… Sanctify a fast. Call a solemn assembly… and cry to Yahweh",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "joel.json"
+      },
+      {
+        "book": "Joel.Json",
+        "reference": "Joel 2:12-17",
+        "name": "Yet even now… turn to me with all your heart… Tear your heart, and not your garments… for he is gracious and merciful, slow to anger, and abundant in loving kindness",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "joel.json"
+      },
+      {
+        "book": "Joel.Json",
+        "reference": "Joel 2:18-27",
+        "name": "I will restore to you the years that the swarming locust has eaten",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "joel.json"
+      },
+      {
+        "book": "Joel.Json",
+        "reference": "Joel 2:28-32",
+        "name": "I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy… And also on the servants and on the handmaids",
+        "chapters": [
+          "C13",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "joel.json"
       },
       {
         "book": "John.Json",
@@ -20621,6 +21273,21 @@
         "source_file": "hebrews.json"
       },
       {
+        "book": "Hosea.Json",
+        "reference": "Hosea 7:1-16",
+        "name": "Strangers have devoured his strength, and he doesn't realize it. Indeed, gray hairs are here and there on him, and he doesn't realize it… They haven't cried to me with their heart, but they howl on their beds",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR08",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 21:6-12",
         "name": "Watchman, what of the night?",
@@ -21399,6 +22066,46 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 1:3-2:3",
+        "name": "Because he pursued his brother with the sword, and cast off all pity, and his anger raged continually, and he kept his wrath forever",
+        "chapters": [
+          "C01",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 3:1-15",
+        "name": "Who hoard plunder and loot in their palaces… I will strike the winter house with the summer house; and the houses of ivory will perish",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 4:6-13",
+        "name": "Yet you haven't returned to me… Prepare to meet your God, Israel",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Deuteronomy.Json",
         "reference": "Deuteronomy 19:1-13",
         "name": "Lest the avenger of blood pursue the manslayer, while his heart is hot",
@@ -21708,6 +22415,82 @@
         ],
         "tags": [],
         "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 10:1-8",
+        "name": "According to the abundance of his fruit he has multiplied his altars. As their land has prospered, they have adorned their sacred stones. Their heart is divided",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 2:2-13",
+        "name": "She did not know that I gave her the grain, the new wine, and the oil, and multiplied to her silver and gold, which they used for Baal",
+        "chapters": [
+          "C07",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 5:1-15",
+        "name": "When Ephraim saw his sickness, and Judah his wound, Then Ephraim went to Assyria… but he is not able to heal you",
+        "chapters": [
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 7:1-16",
+        "name": "Strangers have devoured his strength, and he doesn't realize it. Indeed, gray hairs are here and there on him, and he doesn't realize it… They haven't cried to me with their heart, but they howl on their beds",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR08",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 8:1-14",
+        "name": "They sow the wind, and they will reap the whirlwind… Israel has forgotten his Maker and built palaces",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 9:10-17",
+        "name": "I found Israel like grapes in the wilderness… but they came to Baal Peor… and became abominable like that which they loved",
+        "chapters": [
+          "C07",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",
@@ -22702,6 +23485,18 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 9:7-10",
+        "name": "Are you not like the children of the Ethiopians to me, children of Israel?… Haven't I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir?",
+        "chapters": [
+          "C22",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Deuteronomy.Json",
         "reference": "Deuteronomy 19:1-13",
         "name": "Lest the avenger of blood pursue the manslayer, while his heart is hot",
@@ -22998,6 +23793,18 @@
         "practices": [],
         "tags": [],
         "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 13:1-14",
+        "name": "According to their pasture, so were they filled; they were filled, and their heart was exalted. Therefore they have forgotten me",
+        "chapters": [
+          "C18",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",
@@ -24084,6 +24891,20 @@
         "practices": [],
         "tags": [],
         "source_file": "acts.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 4:1-5",
+        "name": "You cows of Bashan… who oppress the poor, who crush the needy… proclaim free will offerings and brag about them: for this pleases you",
+        "chapters": [
+          "C12",
+          "C23"
+        ],
+        "practices": [
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
       },
       {
         "book": "Colossians.Json",
@@ -26145,6 +26966,18 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 9:11-15",
+        "name": "In that day I will raise up the tent of David who is fallen… the plowman shall overtake the reaper",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 1:3-8",
         "name": "Bearing fruit and growing, as it does in you also",
@@ -26472,6 +27305,18 @@
         "source_file": "hebrews.json"
       },
       {
+        "book": "Hosea.Json",
+        "reference": "Hosea 10:9-15",
+        "name": "Sow to yourselves in righteousness, reap according to kindness. Break up your fallow ground; for it is time to seek Yahweh",
+        "chapters": [
+          "C11",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 1:21-31",
         "name": "Your silver has become dross… I will thoroughly purge away your dross",
@@ -26703,6 +27548,18 @@
         ],
         "tags": [],
         "source_file": "job.json"
+      },
+      {
+        "book": "Joel.Json",
+        "reference": "Joel 2:18-27",
+        "name": "I will restore to you the years that the swarming locust has eaten",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "joel.json"
       },
       {
         "book": "John.Json",
@@ -27968,6 +28825,47 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 6:1-14",
+        "name": "Woe to those who are at ease in Zion… Who lie on beds of ivory… who drink wine in bowls, and anoint themselves with the best oils; but they are not grieved for the affliction of Joseph",
+        "chapters": [
+          "C18",
+          "C27"
+        ],
+        "practices": [
+          "PR15",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 7:1-6",
+        "name": "Lord Yahweh, forgive, I beg you! How could Jacob stand? For he is small. Yahweh relented concerning this",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 9:7-10",
+        "name": "Are you not like the children of the Ethiopians to me, children of Israel?… Haven't I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir?",
+        "chapters": [
+          "C22",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 3:5-11",
         "name": "Put off the old man… where there can't be Greek and Jew",
@@ -28153,6 +29051,32 @@
         "practices": [],
         "tags": [],
         "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 2:14-23",
+        "name": "I will allure her, and bring her into the wilderness, and speak tenderly to her. I will give her… the valley of Achor for a door of hope",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 3:1-5",
+        "name": "Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",
@@ -29008,6 +29932,21 @@
         ],
         "tags": [],
         "source_file": "acts.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 8:1-14",
+        "name": "When will the new moon be gone, that we may sell grain?… making the ephah small, and the shekel large, and dealing falsely with balances of deceit",
+        "chapters": [
+          "C04",
+          "C08",
+          "C28"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
       },
       {
         "book": "Colossians.Json",
@@ -30075,6 +31014,21 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 8:1-14",
+        "name": "When will the new moon be gone, that we may sell grain?… making the ephah small, and the shekel large, and dealing falsely with balances of deceit",
+        "chapters": [
+          "C04",
+          "C08",
+          "C28"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 6:1-5",
         "name": "Restore such a one in a spirit of gentleness; looking to yourself so that you also aren't tempted",
@@ -30089,6 +31043,20 @@
         ],
         "tags": [],
         "source_file": "galatians.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 11:12-12:14",
+        "name": "Turn to your God. Keep kindness and justice, and wait continually for your God. A merchant has dishonest scales in his hand… 'In all my wealth they won't find in me any iniquity that is sin.'",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",
@@ -33591,6 +34559,21 @@
         "source_file": "hebrews.json"
       },
       {
+        "book": "Hosea.Json",
+        "reference": "Hosea 7:1-16",
+        "name": "Strangers have devoured his strength, and he doesn't realize it. Indeed, gray hairs are here and there on him, and he doesn't realize it… They haven't cried to me with their heart, but they howl on their beds",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR08",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
         "book": "Isaiah.Json",
         "reference": "Isaiah 38:1-22",
         "name": "I have heard your prayer. I have seen your tears… you have cast all my sins behind your back",
@@ -33922,6 +34905,35 @@
         ],
         "tags": [],
         "source_file": "job.json"
+      },
+      {
+        "book": "Joel.Json",
+        "reference": "Joel 1:1-20",
+        "name": "Tell your children about it, and have your children tell their children… Sanctify a fast. Call a solemn assembly… and cry to Yahweh",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "joel.json"
+      },
+      {
+        "book": "Joel.Json",
+        "reference": "Joel 2:12-17",
+        "name": "Yet even now… turn to me with all your heart… Tear your heart, and not your garments… for he is gracious and merciful, slow to anger, and abundant in loving kindness",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "joel.json"
       },
       {
         "book": "John.Json",
@@ -35302,6 +36314,20 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 4:6-13",
+        "name": "Yet you haven't returned to me… Prepare to meet your God, Israel",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Deuteronomy.Json",
         "reference": "Deuteronomy 1:19-46",
         "name": "We have sinned… we will go up and fight",
@@ -35343,6 +36369,21 @@
         ],
         "tags": [],
         "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 14:1-9",
+        "name": "Take words with you, and return to Yahweh. Tell him, 'Forgive all our sins'… in you the fatherless finds mercy… I will heal their waywardness. I will love them freely",
+        "chapters": [
+          "C11",
+          "C19"
+        ],
+        "practices": [
+          "PR11",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "James.Json",
@@ -35457,6 +36498,21 @@
         ],
         "tags": [],
         "source_file": "jeremiah.json"
+      },
+      {
+        "book": "Joel.Json",
+        "reference": "Joel 2:12-17",
+        "name": "Yet even now… turn to me with all your heart… Tear your heart, and not your garments… for he is gracious and merciful, slow to anger, and abundant in loving kindness",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "joel.json"
       },
       {
         "book": "John.Json",
@@ -35894,6 +36950,21 @@
         ],
         "tags": [],
         "source_file": "hebrews.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 7:1-16",
+        "name": "Strangers have devoured his strength, and he doesn't realize it. Indeed, gray hairs are here and there on him, and he doesn't realize it… They haven't cried to me with their heart, but they howl on their beds",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR08",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "James.Json",
@@ -36401,6 +37472,20 @@
         ],
         "tags": [],
         "source_file": "acts.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 4:1-5",
+        "name": "You cows of Bashan… who oppress the poor, who crush the needy… proclaim free will offerings and brag about them: for this pleases you",
+        "chapters": [
+          "C12",
+          "C23"
+        ],
+        "practices": [
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
       },
       {
         "book": "Colossians.Json",
@@ -37262,6 +38347,35 @@
         ],
         "tags": [],
         "source_file": "acts.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 6:1-14",
+        "name": "Woe to those who are at ease in Zion… Who lie on beds of ivory… who drink wine in bowls, and anoint themselves with the best oils; but they are not grieved for the affliction of Joseph",
+        "chapters": [
+          "C18",
+          "C27"
+        ],
+        "practices": [
+          "PR15",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 7:1-6",
+        "name": "Lord Yahweh, forgive, I beg you! How could Jacob stand? For he is small. Yahweh relented concerning this",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
       },
       {
         "book": "Genesis.Json",
@@ -38469,6 +39583,21 @@
         "source_file": "genesis.json"
       },
       {
+        "book": "Hosea.Json",
+        "reference": "Hosea 11:1-11",
+        "name": "I taught Ephraim to walk. I took them by his arms; but they didn't know that I healed them… How can I give you up, Ephraim?… My heart is turned within me, my compassion is aroused",
+        "chapters": [
+          "C03",
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR22"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 17:11-19",
         "name": "Where are the nine?",
@@ -39215,6 +40344,35 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Amos.Json",
+        "reference": "Amos 3:1-15",
+        "name": "Who hoard plunder and loot in their palaces… I will strike the winter house with the summer house; and the houses of ivory will perish",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
+        "book": "Amos.Json",
+        "reference": "Amos 6:1-14",
+        "name": "Woe to those who are at ease in Zion… Who lie on beds of ivory… who drink wine in bowls, and anoint themselves with the best oils; but they are not grieved for the affliction of Joseph",
+        "chapters": [
+          "C18",
+          "C27"
+        ],
+        "practices": [
+          "PR15",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "amos.json"
+      },
+      {
         "book": "Ecclesiastes.Json",
         "reference": "Ecclesiastes 2:1-11",
         "name": "I built myself houses. I planted myself vineyards",
@@ -39226,6 +40384,20 @@
         ],
         "tags": [],
         "source_file": "ecclesiastes.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 10:1-8",
+        "name": "According to the abundance of his fruit he has multiplied his altars. As their land has prospered, they have adorned their sacred stones. Their heart is divided",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",
@@ -39445,6 +40617,35 @@
         ],
         "tags": [],
         "source_file": "genesis.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 14:1-9",
+        "name": "Take words with you, and return to Yahweh. Tell him, 'Forgive all our sins'… in you the fatherless finds mercy… I will heal their waywardness. I will love them freely",
+        "chapters": [
+          "C11",
+          "C19"
+        ],
+        "practices": [
+          "PR11",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
+      },
+      {
+        "book": "Hosea.Json",
+        "reference": "Hosea 2:14-23",
+        "name": "I will allure her, and bring her into the wilderness, and speak tenderly to her. I will give her… the valley of Achor for a door of hope",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "hosea.json"
       },
       {
         "book": "Isaiah.Json",

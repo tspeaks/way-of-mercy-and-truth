@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0C0B08">
+<title>Hosea — Scripture Index — The Way of Mercy and Truth</title>
+<meta name="description" content="Every passage of Hosea mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta property="og:type" content="book">
+<meta property="og:title" content="Hosea — Scripture Index — The Way of Mercy and Truth">
+<meta property="og:description" content="Every passage of Hosea mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%230C0B08%27/%3E%3Cpath d=%27M16 6 L16 26 M9 13 H23%27 stroke=%27%23C9A227%27 stroke-width=%272.6%27 stroke-linecap=%27round%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0C0B08; --bg-raised:#15140F;
+  --gold:#C9A227; --gold-bright:#E3C158; --gold-pale:#EADFC4; --gold-dim:#8A7327;
+  --text:#E4DCC6; --text-soft:#BFB49A; --text-muted:#8A8069;
+  --truth:#7FA9B5; --mercy:#C4795F; --spec:#9C8AB2;
+  --rule:rgba(201,162,39,0.22); --rule-strong:rgba(201,162,39,0.45);
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 10px 30px rgba(0,0,0,.35);
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0;
+  color:var(--text);
+  background-color:var(--bg);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(201,162,39,.07), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 110%, rgba(201,162,39,.05), transparent 70%);
+  background-attachment:fixed;
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-color:rgba(201,162,39,.45);text-underline-offset:3px;}
+a:hover{color:var(--gold-bright);text-decoration-color:var(--gold-bright);}
+:focus-visible{outline:2px solid var(--gold-bright);outline-offset:3px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule-strong);}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Cormorant Garamond','Iowan Old Style',Georgia,serif;font-weight:600;}
+
+.rule-orn{display:flex;align-items:center;gap:14px;margin:0;color:var(--gold-dim);}
+.rule-orn::before,.rule-orn::after{content:"";height:1px;flex:1;
+  background:linear-gradient(90deg,transparent,var(--rule-strong),transparent);}
+.rule-orn span{font-size:13px;letter-spacing:.3em;}
+
+.setup{background:rgba(196,121,95,.14);border-bottom:1px solid var(--rule-strong);
+  color:var(--gold-pale);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(201,162,39,.18);padding:1px 6px;font-size:13px;color:var(--gold-bright);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:62px 0 44px;text-align:center;}
+header.masthead::after{content:"";display:block;height:1px;margin-top:38px;
+  background:linear-gradient(90deg,transparent,var(--rule-strong) 20%,var(--rule-strong) 80%,transparent);}
+.crest{width:64px;height:64px;margin:0 auto 22px;display:block;color:var(--gold);opacity:.92;}
+.kicker{font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 16px;}
+h1.title{font-size:clamp(34px,9vw,58px);line-height:1.04;margin:0 0 12px;color:var(--gold-pale);
+  font-weight:600;letter-spacing:.005em;}
+.subtitle{font-size:clamp(15px,3.4vw,18px);color:var(--text-soft);font-style:italic;
+  margin:0 auto 30px;max-width:44ch;}
+blockquote.epigraph{margin:0 auto 30px;padding:20px 24px;max-width:52ch;
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  font-size:clamp(15.5px,3.4vw,18px);color:var(--text-soft);line-height:1.5;font-style:italic;}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;justify-content:center;}
+.badge{font-size:11px;letter-spacing:.08em;padding:5px 11px;text-transform:uppercase;
+  border:1px solid var(--rule);color:var(--text-muted);background:rgba(201,162,39,.05);white-space:nowrap;}
+.badge.gold{border-color:var(--rule-strong);color:var(--gold);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;}
+.btn{display:inline-block;padding:14px 26px;text-decoration:none;font-size:15px;font-weight:600;
+  letter-spacing:.02em;border:1px solid var(--gold-dim);background:transparent;color:var(--gold);min-height:44px;}
+.btn:hover{background:rgba(201,162,39,.1);border-color:var(--gold);color:var(--gold-bright);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#100E08;}
+.btn.primary:hover{background:var(--gold-bright);border-color:var(--gold-bright);color:#100E08;}
+
+section{padding:50px 0;}
+section + section{border-top:1px solid var(--rule);}
+h2.sec{font-size:clamp(23px,5vw,30px);margin:0 0 8px;color:var(--gold-pale);font-weight:600;}
+.section-note{color:var(--text-soft);margin:0 0 26px;max-width:62ch;}
+
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--rule);padding:19px 21px;box-shadow:var(--shadow);}
+.card .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 9px;}
+.card p{margin:0;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:11px 0 0;padding-top:11px;border-top:1px solid var(--rule);}
+
+.pull{background:rgba(201,162,39,.06);border-top:2px solid var(--gold-dim);
+  border-bottom:2px solid var(--gold-dim);padding:24px 26px;margin:30px 0 0;}
+.pull p{margin:0;font-size:clamp(16.5px,3.5vw,19px);line-height:1.45;color:var(--gold-pale);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:12px;letter-spacing:.05em;font-style:italic;}
+
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:26px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--rule);padding:18px 14px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;display:block;
+  margin-bottom:5px;color:var(--gold-pale);letter-spacing:.06em;}
+.pillar span{font-size:13px;color:var(--text-muted);}
+.pillar.t{border-top:2px solid var(--truth);}
+.pillar.h{border-top:2px solid var(--gold);}
+.pillar.m{border-top:2px solid var(--mercy);}
+
+.stage{border:1px solid var(--rule);background:var(--bg-raised);margin-bottom:12px;box-shadow:var(--shadow);}
+.stage summary{cursor:pointer;padding:17px 19px;list-style:none;display:flex;gap:15px;
+  align-items:center;min-height:44px;}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(201,162,39,.06);}
+.stage .snum{flex:none;width:34px;height:34px;border-radius:50%;background:transparent;
+  border:1px solid var(--gold-dim);color:var(--gold);display:inline-flex;align-items:center;
+  justify-content:center;font-size:14px;font-weight:600;}
+.stage[open] .snum{background:var(--gold);color:#100E08;border-color:var(--gold);}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;
+  font-weight:600;color:var(--gold-pale);letter-spacing:.05em;}
+.stage .sname span{display:block;font-size:14px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:11px;letter-spacing:.06em;}
+.stage .body{padding:4px 19px 17px;border-top:1px solid var(--rule);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li + li{border-top:1px solid var(--rule);}
+ol.chapters a{display:flex;gap:12px;align-items:baseline;padding:13px 2px;text-decoration:none;
+  color:var(--text);min-height:44px;}
+ol.chapters a:hover{color:var(--gold-bright);}
+ol.chapters .cid{flex:none;font-size:11px;color:var(--text-muted);width:42px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:14px;font-size:14px;}
+
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--rule);box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:16px 19px;text-decoration:none;color:var(--text);min-height:44px;}
+ul.linklist a:hover{background:rgba(201,162,39,.06);}
+ul.linklist .lt{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:19px;
+  display:block;color:var(--gold-pale);letter-spacing:.03em;}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:4px;}
+.flag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;margin-left:9px;
+  vertical-align:2px;white-space:nowrap;border:1px solid;}
+.flag.partial{border-color:var(--gold-dim);color:var(--gold);}
+.flag.speculative{border-color:var(--spec);color:var(--spec);}
+
+.warn{border:1px solid var(--rule);border-left:3px solid var(--mercy);
+  background:rgba(196,121,95,.07);padding:22px 24px;}
+.warn h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;margin:0 0 10px;
+  color:var(--mercy);letter-spacing:.02em;}
+.warn p{margin:0 0 11px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+.license{background:var(--bg-raised);border:1px solid var(--rule);padding:24px 26px;}
+.license .big{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:600;
+  margin:0 0 12px;color:var(--gold-pale);letter-spacing:.03em;}
+.license ul{margin:0 0 14px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:6px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+footer{padding:36px 0 64px;font-size:13px;color:var(--text-muted);
+  border-top:1px solid var(--rule);margin-top:20px;}
+footer p{margin:0 0 7px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+/* ================= reading pages ================= */
+.topbar{position:sticky;top:0;z-index:20;background:rgba(12,11,8,.94);
+  border-bottom:1px solid var(--rule);}
+@supports ((backdrop-filter:blur(8px)) or (-webkit-backdrop-filter:blur(8px))){
+  .topbar{-webkit-backdrop-filter:saturate(140%) blur(8px);backdrop-filter:saturate(140%) blur(8px);}
+}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:50px;}
+.topbar a.home{font-size:13.5px;text-decoration:none;color:var(--gold);white-space:nowrap;}
+.topbar .where{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.progress{height:2px;}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold-dim),var(--gold));}
+
+article{max-width:680px;margin:0 auto;padding:44px 22px 0;}
+.doc-head{margin-bottom:38px;padding-bottom:26px;border-bottom:1px solid var(--rule);text-align:center;}
+.doc-kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 14px;}
+.doc-title{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,7vw,44px);
+  line-height:1.1;margin:0;font-weight:600;color:var(--gold-pale);letter-spacing:.01em;}
+.doc-sub{font-size:15px;color:var(--truth);margin:12px 0 0;font-style:italic;}
+.doc-meta{font-size:12px;color:var(--text-muted);margin:14px 0 0;letter-spacing:.06em;}
+
+.doc-body{font-size:18px;line-height:1.75;color:var(--text);}
+.doc-body p{margin:0 0 1.25em;}
+.doc-body > p:first-of-type::first-letter{float:left;font-family:'Cormorant Garamond',Georgia,serif;
+  font-size:3.4em;line-height:.82;padding:.06em .1em 0 0;color:var(--gold);font-weight:600;}
+.doc-body h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;font-weight:600;
+  margin:2em 0 .7em;color:var(--gold-pale);letter-spacing:.03em;}
+.doc-body h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;font-weight:600;
+  margin:1.9em 0 .6em;color:var(--gold);letter-spacing:.03em;}
+blockquote.scripture{margin:1.7em 0;padding:16px 0 16px 22px;border-left:2px solid var(--gold-dim);
+  background:rgba(201,162,39,.04);}
+blockquote.scripture p{margin:0;font-style:italic;color:var(--gold-pale);font-size:17px;line-height:1.6;}
+blockquote.scripture cite{display:block;margin-top:9px;font-style:normal;font-size:12.5px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+
+.docnav{max-width:680px;margin:56px auto 0;padding:0 22px 70px;}
+.docnav .orn{margin-bottom:26px;}
+.navgrid{display:grid;grid-template-columns:1fr;gap:12px;}
+@media (min-width:560px){ .navgrid{grid-template-columns:1fr 1fr;} }
+.nav-btn{display:block;padding:17px 20px;border:1px solid var(--rule);text-decoration:none;
+  background:var(--bg-raised);min-height:44px;}
+.nav-btn:hover{background:rgba(201,162,39,.07);border-color:var(--gold-dim);}
+.nav-btn .nav-label{display:block;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--gold-dim);margin-bottom:5px;}
+.nav-btn .nav-title{display:block;font-size:15.5px;color:var(--text);line-height:1.3;}
+.nav-btn:hover .nav-title{color:var(--gold-bright);}
+.nav-btn.next{text-align:right;}
+.nav-btn.disabled{opacity:.42;}
+.nav-hub{text-align:center;margin-top:20px;font-size:13.5px;}
+.kbd-hint{text-align:center;margin-top:14px;font-size:11.5px;color:var(--text-muted);letter-spacing:.05em;}
+@media (hover:none){ .kbd-hint{display:none;} }
+
+.notfound{text-align:center;padding:90px 22px;}
+.notfound h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,8vw,46px);
+  color:var(--gold-pale);margin:0 0 14px;font-weight:600;}
+.notfound p{color:var(--text-soft);max-width:44ch;margin:0 auto 26px;}
+
+@media print{
+  body{background:#fff;color:#000;}
+  .topbar,.docnav,.skip,.setup,footer,.kbd-hint{display:none !important;}
+  article{max-width:none;padding:0;}
+  .doc-title,.doc-body h2,.doc-body h3{color:#000;}
+  .doc-body{font-size:12pt;}
+  blockquote.scripture{border-left:2px solid #999;background:none;}
+  blockquote.scripture p{color:#222;}
+  a{color:#000;text-decoration:none;}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<style>
+.entry{border-top:1px solid var(--rule);padding:34px 0;}
+.entry:first-of-type{border-top:0;}
+.entry-ref{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 6px;}
+.entry-name{font-family:'Cormorant Garamond',Georgia,serif;font-size:25px;font-weight:600;
+  color:var(--gold-pale);margin:0 0 18px;letter-spacing:.02em;}
+.passage{border-left:2px solid var(--gold-dim);padding:4px 0 4px 20px;margin:0 0 20px;
+  background:rgba(201,162,39,.04);}
+.passage p{margin:0 0 .7em;font-size:17px;line-height:1.65;color:var(--gold-pale);font-style:italic;}
+.passage p:last-child{margin-bottom:0;}
+.passage .vn{font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:10.5px;
+  color:var(--text-muted);vertical-align:3px;margin-right:5px;}
+.conn{font-size:16.5px;line-height:1.6;color:var(--text);margin:0 0 16px;}
+.tags{display:flex;flex-wrap:wrap;gap:7px;align-items:center;}
+.tag{font-size:11px;letter-spacing:.06em;padding:4px 10px;border:1px solid var(--rule);
+  color:var(--text-soft);text-decoration:none;white-space:nowrap;}
+a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
+.tag.pillar{text-transform:uppercase;letter-spacing:.12em;}
+.tag.pillar.t{border-color:var(--truth);color:var(--truth);}
+.tag.pillar.m{border-color:var(--mercy);color:var(--mercy);}
+.tag.pillar.h{border-color:var(--gold);color:var(--gold);}
+.tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
+.tag.corrected{border-color:var(--gold);color:var(--gold);}
+.tag.reviewed{border-color:var(--truth);color:var(--truth);}
+.passage.cluster p{font-style:normal;color:var(--text);}
+.passage.cluster .cref{color:var(--gold-dim);font-size:10.5px;margin-right:9px;vertical-align:2px;}
+.cluster-note{font-size:12px;color:var(--text-muted);letter-spacing:.06em;margin:0 0 12px;font-style:italic;}
+.entry-ref.cluster-label{color:var(--gold);}
+.tag.kind{border-style:solid;border-color:var(--gold-dim);color:var(--gold);
+  text-transform:uppercase;letter-spacing:.12em;font-size:10px;}
+.tag.mode{text-transform:uppercase;letter-spacing:.12em;font-size:10px;border-style:dotted;}
+.tag.mode.prescribes{border-color:var(--gold);color:var(--gold);}
+.tag.mode.exemplifies{border-color:var(--truth);color:var(--truth);}
+.tag.mode.counter{border-color:var(--mercy);color:var(--mercy);}
+.booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
+.stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
+@media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
+.stat div{border:1px solid var(--rule);background:var(--bg-raised);padding:14px;text-align:center;}
+.stat b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;
+  color:var(--gold-pale);font-weight:600;}
+.stat span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+</style>
+<div class="topbar"><div class="wrap">
+<a class="home" href="index.html">✦ The Way of Mercy and Truth</a>
+<span class="where mono">Hosea · index</span>
+</div><div class="progress"><i></i></div></div>
+<main id="main"><article>
+<div class="doc-head">
+<p class="doc-kicker">Scripture Index</p>
+<h1 class="doc-title">Hosea</h1>
+<p class="doc-sub">World English Bible · public domain</p>
+<p class="doc-meta mono">16 passages · 181 of 197 verses</p>
+</div>
+<div class="doc-body">
+<div class="entry">
+<p class="entry-ref">Hosea 1:1-2:1</p>
+<h2 class="entry-name">In the place where it was said to them, 'You are not my people,' they will be called 'sons of the living God.'</h2>
+<div class="passage">
+<p><span class="vn">1</span>The word of Yahweh that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.</p>
+<p><span class="vn">2</span>When Yahweh spoke at first by Hosea, Yahweh said to Hosea, “Go, take for yourself a wife of prostitution and children of unfaithfulness; for the land commits great adultery, forsaking Yahweh.”</p>
+<p><span class="vn">3</span>So he went and took Gomer the daughter of Diblaim; and she conceived, and bore him a son.</p>
+<p><span class="vn">4</span>Yahweh said to him, “Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel on the house of Jehu, and will cause the kingdom of the house of Israel to cease.</p>
+<p><span class="vn">5</span>It will happen in that day that I will break the bow of Israel in the valley of Jezreel.”</p>
+<p><span class="vn">6</span>She conceived again, and bore a daughter. Then he said to him, “Call her name Lo-Ruhamah; for I will no longer have mercy on the house of Israel, that I should in any way pardon them.</p>
+<p><span class="vn">7</span>But I will have mercy on the house of Judah, and will save them by Yahweh their God, and will not save them by bow, sword, battle, horses, or horsemen.”</p>
+<p><span class="vn">8</span>Now when she had weaned Lo-Ruhamah, she conceived, and bore a son.</p>
+<p><span class="vn">9</span>He said, “Call his name Lo-Ammi; for you are not my people, and I will not be yours.</p>
+<p><span class="vn">10</span>Yet the number of the children of Israel will be as the sand of the sea, which can’t be measured nor numbered; and it will come to pass that, in the place where it was said to them, ‘You are not my people,’ they will be called ‘sons of the living God.’</p>
+<p><span class="vn">11</span>The children of Judah and the children of Israel will be gathered together, and they will appoint themselves one head, and will go up from the land; for great will be the day of Jezreel.</p>
+<p><span class="vn">1</span>“Say to your brothers, ‘My people!’ and to your sisters, ‘My loved one!’</p>
+</div>
+<p class="conn">Hosea's marriage and his children's names are an enacted sermon: Jezreel, Lo-Ruhamah ('no mercy'), Lo-Ammi ('not my people'). The judgment is written into the household. Then the reversal, before the first chapter ends: 'in the place where it was said to them, &quot;You are not my people,&quot; they will be called &quot;sons of the living God&quot;… Say to your brothers, &quot;My people!&quot; and to your sisters, &quot;My loved one!&quot;' C19's door opened in the very place it was shut. Paul quotes it at Romans 9:25-26. The marriage is indexed as a prophetic sign; it is not offered as a model for anyone's marriage.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 2:2-13</p>
+<h2 class="entry-name">She did not know that I gave her the grain, the new wine, and the oil, and multiplied to her silver and gold, which they used for Baal</h2>
+<div class="passage">
+<p><span class="vn">2</span>Contend with your mother! Contend, for she is not my wife, neither am I her husband; and let her put away her prostitution from her face, and her adulteries from between her breasts;</p>
+<p><span class="vn">3</span>Lest I strip her naked, and make her bare as in the day that she was born, and make her like a wilderness, and set her like a dry land, and kill her with thirst.</p>
+<p><span class="vn">4</span>Indeed, on her children I will have no mercy; for they are children of unfaithfulness;</p>
+<p><span class="vn">5</span>For their mother has played the prostitute. She who conceived them has done shamefully; for she said, ‘I will go after my lovers, who give me my bread and my water, my wool and my flax, my oil and my drink.’</p>
+<p><span class="vn">6</span>Therefore, behold, I will hedge up your way with thorns, and I will build a wall against her, that she can’t find her way.</p>
+<p><span class="vn">7</span>She will follow after her lovers, but she won’t overtake them; and she will seek them, but won’t find them. Then she will say, ‘I will go and return to my first husband; for then was it better with me than now.’</p>
+<p><span class="vn">8</span>For she did not know that I gave her the grain, the new wine, and the oil, and multiplied to her silver and gold, which they used for Baal.</p>
+<p><span class="vn">9</span>Therefore I will take back my grain in its time, and my new wine in its season, and will pluck away my wool and my flax which should have covered her nakedness.</p>
+<p><span class="vn">10</span>Now I will uncover her lewdness in the sight of her lovers, and no one will deliver her out of my hand.</p>
+<p><span class="vn">11</span>I will also cause all her celebrations to cease: her feasts, her new moons, her Sabbaths, and all her solemn assemblies.</p>
+<p><span class="vn">12</span>I will lay waste her vines and her fig trees, about which she has said, ‘These are my wages that my lovers have given me; and I will make them a forest,’ and the animals of the field shall eat them.</p>
+<p><span class="vn">13</span>I will visit on her the days of the Baals, to which she burned incense, when she decked herself with her earrings and her jewels, and went after her lovers, and forgot me,” says Yahweh.</p>
+</div>
+<p class="conn">The indictment of an unfaithful people, in the language of a betrayed marriage. Its centre is ingratitude: 'she said, &quot;I will go after my lovers, who give me my bread and my water, my wool and my flax&quot;… For she did not know that I gave her the grain, the new wine, and the oil, and multiplied to her silver and gold, which they used for Baal.' C07's failure of sight — gifts received and credited to the wrong source — and C21's anatomy of drift. The imagery of punishment in this section is harsh and belongs to the prophetic metaphor; the index anchors the diagnosis, not the imagery.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S2 Perception</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c07.html">C07</a>
+<a class="tag" href="c21.html">C21</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 2:14-23</p>
+<h2 class="entry-name">I will allure her, and bring her into the wilderness, and speak tenderly to her. I will give her… the valley of Achor for a door of hope</h2>
+<div class="passage">
+<p><span class="vn">14</span>“Therefore, behold, I will allure her, and bring her into the wilderness, and speak tenderly to her.</p>
+<p><span class="vn">15</span>I will give her vineyards from there, and the valley of Achor for a door of hope; and she will respond there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.</p>
+<p><span class="vn">16</span>It will be in that day,” says Yahweh, “that you will call me ‘my husband,’ and no longer call me ‘my master.’</p>
+<p><span class="vn">17</span>For I will take away the names of the Baals out of her mouth, and they will no longer be mentioned by name.</p>
+<p><span class="vn">18</span>In that day I will make a covenant for them with the animals of the field, and with the birds of the sky, and with the creeping things of the ground. I will break the bow, the sword, and the battle out of the land, and will make them lie down safely.</p>
+<p><span class="vn">19</span>I will betroth you to me forever. Yes, I will betroth you to me in righteousness, in justice, in loving kindness, and in compassion.</p>
+<p><span class="vn">20</span>I will even betroth you to me in faithfulness; and you shall know Yahweh.</p>
+<p><span class="vn">21</span>It will happen in that day, I will respond,” says Yahweh, “I will respond to the heavens, and they will respond to the earth;</p>
+<p><span class="vn">22</span>and the earth will respond to the grain, and the new wine, and the oil; and they will respond to Jezreel.</p>
+<p><span class="vn">23</span>I will sow her to me in the earth; and I will have mercy on her who had not obtained mercy; and I will tell those who were not my people, ‘You are my people;’ and they will say, ‘My God!’”</p>
+</div>
+<p class="conn">'Therefore, behold, I will allure her, and bring her into the wilderness, and speak tenderly to her. I will give her vineyards from there, and the valley of Achor for a door of hope.' Achor means 'trouble' — the valley where Achan was stoned (Joshua 7) — and it becomes the door. C19's door made out of the place of failure. 'You will call me &quot;my husband,&quot; and no longer call me &quot;my master.&quot;' 'I will betroth you to me in righteousness, in justice, in loving kindness, and in compassion… I will have mercy on her who had not obtained mercy.' Merciful Reintegration as God practises it: the unfaithful one welcomed fully, with a new name rather than a probation (medium). C27's love that does not stop at the boundary of desert.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="a1.html">PR29</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 3:1-5</p>
+<h2 class="entry-name">Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods</h2>
+<div class="passage">
+<p><span class="vn">1</span>Yahweh said to me, “Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods, and love cakes of raisins.”</p>
+<p><span class="vn">2</span>So I bought her for myself for fifteen pieces of silver and a homer and a half of barley.</p>
+<p><span class="vn">3</span>I said to her, “You shall stay with me many days. You shall not play the prostitute, and you shall not be with any other man. I will also be so toward you.”</p>
+<p><span class="vn">4</span>For the children of Israel shall live many days without king, and without prince, and without sacrifice, and without sacred stone, and without ephod or idols.</p>
+<p><span class="vn">5</span>Afterward the children of Israel shall return, and seek Yahweh their God, and David their king, and shall come with trembling to Yahweh and to his blessings in the last days.</p>
+</div>
+<p class="conn">'Yahweh said to me, &quot;Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods.&quot; So I bought her for myself.' The prophet's household made into a picture of a love that pursues the unfaithful. C27's love without limit and C19's redemption at a price. Indexed with Unobligated Loyalty's own guard, and for that reason not tagged PR26: this is a prophetic sign of God's love, commanded for that purpose; it is not a template for remaining with an unfaithful or harmful partner, and the index does not offer it as one.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c27.html">C27</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 4:1-19</p>
+<h2 class="entry-name">There is no truth, nor goodness, nor knowledge of God in the land… My people are destroyed for lack of knowledge… like people, like priest</h2>
+<div class="passage">
+<p><span class="vn">1</span>Hear the word of Yahweh, you children of Israel; for Yahweh has a charge against the inhabitants of the land: “Indeed there is no truth, nor goodness, nor knowledge of God in the land.</p>
+<p><span class="vn">2</span>There is cursing, lying, murder, stealing, and committing adultery; they break boundaries, and bloodshed causes bloodshed.</p>
+<p><span class="vn">3</span>Therefore the land will mourn, and everyone who dwells therein will waste away. all living things in her, even the animals of the field and the birds of the sky; yes, the fish of the sea also die.</p>
+<p><span class="vn">4</span>“Yet let no man bring a charge, neither let any man accuse; For your people are like those who bring charges against a priest.</p>
+<p><span class="vn">5</span>You will stumble in the day, and the prophet will also stumble with you in the night; and I will destroy your mother.</p>
+<p><span class="vn">6</span>My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you, that you may be no priest to me. Because you have forgotten your God’s law, I will also forget your children.</p>
+<p><span class="vn">7</span>As they were multiplied, so they sinned against me. I will change their glory into shame.</p>
+<p><span class="vn">8</span>They feed on the sin of my people, and set their heart on their iniquity.</p>
+<p><span class="vn">9</span>It will be, like people, like priest; and I will punish them for their ways, and will repay them for their deeds.</p>
+<p><span class="vn">10</span>They will eat, and not have enough. They will play the prostitute, and will not increase; because they have abandoned giving to Yahweh.</p>
+<p><span class="vn">11</span>Prostitution, wine, and new wine take away understanding.</p>
+<p><span class="vn">12</span>My people consult with their wooden idol, and answer to a stick of wood. Indeed the spirit of prostitution has led them astray, and they have been unfaithful to their God.</p>
+<p><span class="vn">13</span>They sacrifice on the tops of the mountains, and burn incense on the hills, under oaks and poplars and terebinths, because its shade is good. Therefore your daughters play the prostitute, and your brides commit adultery.</p>
+<p><span class="vn">14</span>I will not punish your daughters when they play the prostitute, nor your brides when they commit adultery; because the men consort with prostitutes, and they sacrifice with the shrine prostitutes; so the people without understanding will come to ruin.</p>
+<p><span class="vn">15</span>“Though you, Israel, play the prostitute, yet don’t let Judah offend; and don’t come to Gilgal, neither go up to Beth Aven, nor swear, ‘As Yahweh lives.’</p>
+<p><span class="vn">16</span>For Israel has behaved extremely stubbornly, like a stubborn heifer. Then how will Yahweh feed them like a lamb in a meadow.</p>
+<p><span class="vn">17</span>Ephraim is joined to idols. Leave him alone!</p>
+<p><span class="vn">18</span>Their drink has become sour. They play the prostitute continually. Her rulers dearly love their shameful way.</p>
+<p><span class="vn">19</span>The wind has wrapped her up in its wings; and they shall be disappointed because of their sacrifices.</p>
+</div>
+<p class="conn">'Yahweh has a charge against the inhabitants of the land: &quot;Indeed there is no truth, nor goodness, nor knowledge of God in the land. There is cursing, lying, murder, stealing, and committing adultery.&quot;' C04's audit of a whole society. The responsibility falls hardest on those who were meant to teach: 'My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you, that you may be no priest to me… They feed on the sin of my people… It will be, like people, like priest.' C08's false teacher who profits from the condition he should cure. 'Prostitution, wine, and new wine take away understanding.'</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c08.html">C08</a>
+<a class="tag" href="c04.html">C04</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 5:1-15</p>
+<h2 class="entry-name">When Ephraim saw his sickness, and Judah his wound, Then Ephraim went to Assyria… but he is not able to heal you</h2>
+<div class="passage">
+<p><span class="vn">1</span>“Listen to this, you priests! Listen, house of Israel, and give ear, house of the king! For the judgment is against you; for you have been a snare at Mizpah, and a net spread on Tabor.</p>
+<p><span class="vn">2</span>The rebels are deep in slaughter; but I discipline all of them.</p>
+<p><span class="vn">3</span>I know Ephraim, and Israel is not hidden from me; for now, Ephraim, you have played the prostitute. Israel is defiled.</p>
+<p><span class="vn">4</span>Their deeds won’t allow them to turn to their God; for the spirit of prostitution is within them, and they don’t know Yahweh.</p>
+<p><span class="vn">5</span>The pride of Israel testifies to his face. Therefore Israel and Ephraim will stumble in their iniquity. Judah also will stumble with them.</p>
+<p><span class="vn">6</span>They will go with their flocks and with their herds to seek Yahweh; but they won’t find him. He has withdrawn himself from them.</p>
+<p><span class="vn">7</span>They are unfaithful to Yahweh; for they have borne illegitimate children. Now the new moon will devour them with their fields.</p>
+<p><span class="vn">8</span>“Blow the cornet in Gibeah, and the trumpet in Ramah! Sound a battle cry at Beth Aven, behind you, Benjamin!</p>
+<p><span class="vn">9</span>Ephraim will become a desolation in the day of rebuke. Among the tribes of Israel, I have made known that which will surely be.</p>
+<p><span class="vn">10</span>The princes of Judah are like those who remove a landmark. I will pour out my wrath on them like water.</p>
+<p><span class="vn">11</span>Ephraim is oppressed, he is crushed in judgment; Because he is intent in his pursuit of idols.</p>
+<p><span class="vn">12</span>Therefore I am to Ephraim like a moth, and to the house of Judah like rottenness.</p>
+<p><span class="vn">13</span>“When Ephraim saw his sickness, and Judah his wound, Then Ephraim went to Assyria, and sent to king Jareb: but he is not able to heal you, neither will he cure you of your wound.</p>
+<p><span class="vn">14</span>For I will be to Ephraim like a lion, and like a young lion to the house of Judah. I myself will tear in pieces and go away. I will carry off, and there will be no one to deliver.</p>
+<p><span class="vn">15</span>I will go and return to my place, until they acknowledge their offense, and seek my face. In their affliction they will seek me earnestly.”</p>
+</div>
+<p class="conn">'Their deeds won't allow them to turn to their God; for the spirit of prostitution is within them.' C21's account of a pattern that has become a captivity. Then the wrong physician: 'When Ephraim saw his sickness, and Judah his wound, Then Ephraim went to Assyria… but he is not able to heal you, neither will he cure you of your wound.' The diagnosis was correct; the remedy was sought in the wrong place. God withdraws 'until they acknowledge their offense, and seek my face.'</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c21.html">C21</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 6:1-6</p>
+<h2 class="entry-name">Your love is like a morning cloud, and like the dew that disappears early… For I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings</h2>
+<div class="passage">
+<p><span class="vn">1</span>“Come, and let us return to Yahweh; for he has torn us to pieces, and he will heal us; he has injured us, and he will bind up our wounds.</p>
+<p><span class="vn">2</span>After two days he will revive us. On the third day he will raise us up, and we will live before him.</p>
+<p><span class="vn">3</span>Let us acknowledge Yahweh. Let us press on to know Yahweh. As surely as the sun rises, Yahweh will appear. He will come to us like the rain, like the spring rain that waters the earth.”</p>
+<p><span class="vn">4</span>“Ephraim, what shall I do to you? Judah, what shall I do to you? For your love is like a morning cloud, and like the dew that disappears early.</p>
+<p><span class="vn">5</span>Therefore I have cut them to pieces with the prophets; I killed them with the words of my mouth. Your judgments are like a flash of lightning.</p>
+<p><span class="vn">6</span>For I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings.</p>
+</div>
+<p class="conn">The people's song of return sounds right: 'Come, and let us return to Yahweh; for he has torn us to pieces, and he will heal us.' God's answer is grief at its shallowness: 'Ephraim, what shall I do to you?… For your love is like a morning cloud, and like the dew that disappears early.' C12's proof — love tested by whether it lasts past the morning. Then the line Jesus quotes twice (Matthew 9:13, 12:7): 'For I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings.' C06's reading of worship by its purpose, and C03's mercy as what God actually wants.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S2 Perception</span>
+<span class="tag">S3 Abiding</span>
+<a class="tag" href="c12.html">C12</a>
+<a class="tag" href="c06.html">C06</a>
+<a class="tag" href="c03.html">C03</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 7:1-16</p>
+<h2 class="entry-name">Strangers have devoured his strength, and he doesn't realize it. Indeed, gray hairs are here and there on him, and he doesn't realize it… They haven't cried to me with their heart, but they howl on their beds</h2>
+<div class="passage">
+<p><span class="vn">1</span>When I would heal Israel, then the iniquity of Ephraim is uncovered, also the wickedness of Samaria; for they commit falsehood, and the thief enters in, and the gang of robbers ravages outside.</p>
+<p><span class="vn">2</span>They don’t consider in their hearts that I remember all their wickedness. Now their own deeds have engulfed them. They are before my face.</p>
+<p><span class="vn">3</span>They make the king glad with their wickedness, and the princes with their lies.</p>
+<p><span class="vn">4</span>They are all adulterers. They are burning like an oven that the baker stops stirring, from the kneading of the dough, until it is leavened.</p>
+<p><span class="vn">5</span>On the day of our king, the princes made themselves sick with the heat of wine. He joined his hand with mockers.</p>
+<p><span class="vn">6</span>For they have prepared their heart like an oven, while they lie in wait. Their baker sleeps all the night. In the morning it burns as a flaming fire.</p>
+<p><span class="vn">7</span>They are all hot as an oven, and devour their judges. All their kings have fallen. There is no one among them who calls to me.</p>
+<p><span class="vn">8</span>Ephraim, he mixes himself among the nations. Ephraim is a pancake not turned over.</p>
+<p><span class="vn">9</span>Strangers have devoured his strength, and he doesn’t realize it. Indeed, gray hairs are here and there on him, and he doesn’t realize it.</p>
+<p><span class="vn">10</span>The pride of Israel testifies to his face; yet they haven’t returned to Yahweh their God, nor sought him, for all this.</p>
+<p><span class="vn">11</span>“Ephraim is like an easily deceived dove, without understanding. They call to Egypt. They go to Assyria.</p>
+<p><span class="vn">12</span>When they go, I will spread my net on them. I will bring them down like the birds of the sky. I will chastise them, as their congregation has heard.</p>
+<p><span class="vn">13</span>Woe to them! For they have wandered from me. Destruction to them! For they have trespassed against me. Though I would redeem them, yet they have spoken lies against me.</p>
+<p><span class="vn">14</span>They haven’t cried to me with their heart, but they howl on their beds. They assemble themselves for grain and new wine. They turn away from me.</p>
+<p><span class="vn">15</span>Though I have taught and strengthened their arms, yet they plot evil against me.</p>
+<p><span class="vn">16</span>They return, but not to the Most High. They are like a faulty bow. Their princes will fall by the sword for the rage of their tongue. This will be their derision in the land of Egypt.</p>
+</div>
+<p class="conn">'Ephraim is a pancake not turned over' — burnt on one side, raw on the other. The decline is gradual and unnoticed: 'Strangers have devoured his strength, and he doesn't realize it. Indeed, gray hairs are here and there on him, and he doesn't realize it.' The cost of Watchfulness absent — C20's gate unkept, not by a single breach but by inattention over years. And a counterfeit of lament: 'They haven't cried to me with their heart, but they howl on their beds. They assemble themselves for grain and new wine.' Sacred Lament brings grief to God; this is distress that never turns toward him (medium for both). C21.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c20.html">C20</a>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="a1.html">PR12</a>
+<a class="tag" href="a1.html">PR08</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 8:1-14</p>
+<h2 class="entry-name">They sow the wind, and they will reap the whirlwind… Israel has forgotten his Maker and built palaces</h2>
+<div class="passage">
+<p><span class="vn">1</span>“Put the trumpet to your lips! Something like an eagle is over Yahweh’s house, because they have broken my covenant, and rebelled against my law.</p>
+<p><span class="vn">2</span>They cry to me, ‘My God, we Israel acknowledge you!’</p>
+<p><span class="vn">3</span>Israel has cast off that which is good. The enemy will pursue him.</p>
+<p><span class="vn">4</span>They have set up kings, but not by me. They have made princes, and I didn’t approve. Of their silver and their gold they have made themselves idols, that they may be cut off.</p>
+<p><span class="vn">5</span>Let Samaria throw out his calf idol! My anger burns against them! How long will it be until they are capable of purity?</p>
+<p><span class="vn">6</span>For this is even from Israel! The workman made it, and it is no God; indeed, the calf of Samaria shall be broken in pieces.</p>
+<p><span class="vn">7</span>For they sow the wind, and they will reap the whirlwind. He has no standing grain. The stalk will yield no head. If it does yield, strangers will swallow it up.</p>
+<p><span class="vn">8</span>Israel is swallowed up. Now they are among the nations like a worthless thing.</p>
+<p><span class="vn">9</span>For they have gone up to Assyria, like a wild donkey wandering alone. Ephraim has hired lovers for himself.</p>
+<p><span class="vn">10</span>But although they sold themselves among the nations, I will now gather them; and they begin to waste away because of the oppression of the king of mighty ones.</p>
+<p><span class="vn">11</span>Because Ephraim has multiplied altars for sinning, they became for him altars for sinning.</p>
+<p><span class="vn">12</span>I wrote for him the many things of my law; but they were regarded as a strange thing.</p>
+<p><span class="vn">13</span>As for the sacrifices of my offerings, they sacrifice flesh and eat it; But Yahweh doesn’t accept them. Now he will remember their iniquity, and punish their sins. They will return to Egypt.</p>
+<p><span class="vn">14</span>For Israel has forgotten his Maker and built palaces; and Judah has multiplied fortified cities; but I will send a fire on his cities, and it will devour its fortresses.”</p>
+</div>
+<p class="conn">'They cry to me, &quot;My God, we Israel acknowledge you!&quot; Israel has cast off that which is good.' The words of devotion and the reality apart. Kings set up 'but not by me,' idols made of their silver and gold. 'For they sow the wind, and they will reap the whirlwind.' C21's law of consequence. And the last line names what forgetting looks like in stone: 'Israel has forgotten his Maker and built palaces' — C18's warning about where the treasure goes.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="c18.html">C18</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 9:10-17</p>
+<h2 class="entry-name">I found Israel like grapes in the wilderness… but they came to Baal Peor… and became abominable like that which they loved</h2>
+<div class="passage">
+<p><span class="vn">10</span>I found Israel like grapes in the wilderness. I saw your fathers as the first ripe in the fig tree at its first season; but they came to Baal Peor, and consecrated themselves to the shameful thing, and became abominable like that which they loved.</p>
+<p><span class="vn">11</span>As for Ephraim, their glory will fly away like a bird. There will be no birth, none with child, and no conception.</p>
+<p><span class="vn">12</span>Though they bring up their children, yet I will bereave them, so that not a man shall be left. Indeed, woe also to them when I depart from them!</p>
+<p><span class="vn">13</span>I have seen Ephraim, like Tyre, planted in a pleasant place; but Ephraim will bring out his children to the murderer.</p>
+<p><span class="vn">14</span>Give them—Yahweh what will you give? Give them a miscarrying womb and dry breasts.</p>
+<p><span class="vn">15</span>“All their wickedness is in Gilgal; for there I hated them. Because of the wickedness of their deeds I will drive them out of my house! I will love them no more. All their princes are rebels.</p>
+<p><span class="vn">16</span>Ephraim is struck. Their root has dried up. They will bear no fruit. Even though they bring forth, yet I will kill the beloved ones of their womb.”</p>
+<p><span class="vn">17</span>My God will cast them away, because they did not listen to him; and they will be wanderers among the nations.</p>
+</div>
+<p class="conn">God's memory of first love — 'I found Israel like grapes in the wilderness. I saw your fathers as the first ripe in the fig tree at its first season' — and what followed: 'they came to Baal Peor, and consecrated themselves to the shameful thing, and became abominable like that which they loved.' C21's principle in its starkest form: a person becomes like what they love. C07: the object of love shapes the eye that sees it. The surrounding oracles of judgment (9:1-9, 9:11-16) are severe and are not indexed separately.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="c07.html">C07</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 10:1-8</p>
+<h2 class="entry-name">According to the abundance of his fruit he has multiplied his altars. As their land has prospered, they have adorned their sacred stones. Their heart is divided</h2>
+<div class="passage">
+<p><span class="vn">1</span>Israel is a luxuriant vine that puts forth his fruit. According to the abundance of his fruit he has multiplied his altars. As their land has prospered, they have adorned their sacred stones.</p>
+<p><span class="vn">2</span>Their heart is divided. Now they will be found guilty. He will demolish their altars. He will destroy their sacred stones.</p>
+<p><span class="vn">3</span>Surely now they will say, “We have no king; for we don’t fear Yahweh; and the king, what can he do for us?”</p>
+<p><span class="vn">4</span>They make promises, swearing falsely in making covenants. Therefore judgment springs up like poisonous weeds in the furrows of the field.</p>
+<p><span class="vn">5</span>The inhabitants of Samaria will be in terror for the calves of Beth Aven; for its people will mourn over it, Along with its priests who rejoiced over it, for its glory, because it has departed from it.</p>
+<p><span class="vn">6</span>It also will be carried to Assyria for a present to a great king. Ephraim will receive shame, and Israel will be ashamed of his own counsel.</p>
+<p><span class="vn">7</span>Samaria and her king float away, like a twig on the water.</p>
+<p><span class="vn">8</span>The high places also of Aven, the sin of Israel, will be destroyed. The thorn and the thistle will come up on their altars. They will tell the mountains, “Cover us!” and the hills, “Fall on us!”</p>
+</div>
+<p class="conn">'Israel is a luxuriant vine that puts forth his fruit. According to the abundance of his fruit he has multiplied his altars. As their land has prospered, they have adorned their sacred stones. Their heart is divided.' The Heavenly Palace's warning exactly: prosperity spent on ornament and display rather than on the afflicted (medium). C18's detachment absent, and C21's diagnosis: 'Their heart is divided.' 'They make promises, swearing falsely in making covenants.'</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c18.html">C18</a>
+<a class="tag" href="c21.html">C21</a>
+<a class="tag" href="a1.html">PR28</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 10:9-15</p>
+<h2 class="entry-name">Sow to yourselves in righteousness, reap according to kindness. Break up your fallow ground; for it is time to seek Yahweh</h2>
+<div class="passage">
+<p><span class="vn">9</span>“Israel, you have sinned from the days of Gibeah. There they remained. The battle against the children of iniquity doesn’t overtake them in Gibeah.</p>
+<p><span class="vn">10</span>When it is my desire, I will chastise them; and the nations will be gathered against them, when they are bound to their two transgressions.</p>
+<p><span class="vn">11</span>Ephraim is a trained heifer that loves to thresh; so I will put a yoke on her beautiful neck. I will set a rider on Ephraim. Judah will plow. Jacob will break his clods.</p>
+<p><span class="vn">12</span>Sow to yourselves in righteousness, reap according to kindness. Break up your fallow ground; for it is time to seek Yahweh, until he comes and rains righteousness on you.</p>
+<p><span class="vn">13</span>You have plowed wickedness. You have reaped iniquity. You have eaten the fruit of lies, for you trusted in your way, in the multitude of your mighty men.</p>
+<p><span class="vn">14</span>Therefore a battle roar will arise among your people, and all your fortresses will be destroyed, as Shalman destroyed Beth Arbel in the day of battle. The mother was dashed in pieces with her children.</p>
+<p><span class="vn">15</span>So Bethel will do to you because of your great wickedness. At daybreak the king of Israel will be destroyed.</p>
+</div>
+<p class="conn">In the middle of the warnings, an agricultural command: 'Sow to yourselves in righteousness, reap according to kindness. Break up your fallow ground; for it is time to seek Yahweh, until he comes and rains righteousness on you.' C25's patient cultivation — the ground broken before seed can take — and C11's fruit as the harvest of what was sown. And its opposite: 'You have plowed wickedness. You have reaped iniquity. You have eaten the fruit of lies, for you trusted in your way.'</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c25.html">C25</a>
+<a class="tag" href="c11.html">C11</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 11:1-11</p>
+<h2 class="entry-name">I taught Ephraim to walk. I took them by his arms; but they didn't know that I healed them… How can I give you up, Ephraim?… My heart is turned within me, my compassion is aroused</h2>
+<div class="passage">
+<p><span class="vn">1</span>“When Israel was a child, then I loved him, and called my son out of Egypt.</p>
+<p><span class="vn">2</span>They called to them, so they went from them. They sacrificed to the Baals, and burned incense to engraved images.</p>
+<p><span class="vn">3</span>Yet I taught Ephraim to walk. I took them by his arms; but they didn’t know that I healed them.</p>
+<p><span class="vn">4</span>I drew them with cords of a man, with ties of love; and I was to them like those who lift up the yoke on their necks; and I bent down to him and I fed him.</p>
+<p><span class="vn">5</span>“They won’t return into the land of Egypt; but the Assyrian will be their king, because they refused to repent.</p>
+<p><span class="vn">6</span>The sword will fall on their cities, and will destroy the bars of their gates, and will put an end to their plans.</p>
+<p><span class="vn">7</span>My people are determined to turn from me. Though they call to the Most High, he certainly won’t exalt them.</p>
+<p><span class="vn">8</span>“How can I give you up, Ephraim? How can I hand you over, Israel? How can I make you like Admah? How can I make you like Zeboiim? My heart is turned within me, my compassion is aroused.</p>
+<p><span class="vn">9</span>I will not execute the fierceness of my anger. I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of you; and I will not come in wrath.</p>
+<p><span class="vn">10</span>They will walk after Yahweh, who will roar like a lion; for he will roar, and the children will come trembling from the west.</p>
+<p><span class="vn">11</span>They will come trembling like a bird out of Egypt, and like a dove out of the land of Assyria; and I will settle them in their houses,” says Yahweh.</p>
+</div>
+<p class="conn">God as a parent: 'When Israel was a child, then I loved him, and called my son out of Egypt… Yet I taught Ephraim to walk. I took them by his arms; but they didn't know that I healed them. I drew them with cords of a man, with ties of love… and I bent down to him and I fed him.' C14's household love at its tenderest. The child runs to other gods and does not recognise the care. Unreciprocated Care: love that continues while the one helped turns away without thanks (medium). Then the turn inside God himself: 'How can I give you up, Ephraim? How can I hand you over, Israel?… My heart is turned within me, my compassion is aroused. I will not execute the fierceness of my anger… for I am God, and not man.' C19 and C03: mercy as the thing that distinguishes God from us.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c14.html">C14</a>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="a1.html">PR22</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 11:12-12:14</p>
+<h2 class="entry-name">Turn to your God. Keep kindness and justice, and wait continually for your God. A merchant has dishonest scales in his hand… 'In all my wealth they won't find in me any iniquity that is sin.'</h2>
+<div class="passage">
+<p><span class="vn">12</span>Ephraim surrounds me with falsehood, and the house of Israel with deceit. Judah still strays from God, and is unfaithful to the Holy One.</p>
+<p><span class="vn">1</span>Ephraim feeds on wind, and chases the east wind. He continually multiplies lies and desolation. They make a covenant with Assyria, and oil is carried into Egypt.</p>
+<p><span class="vn">2</span>Yahweh also has a controversy with Judah, and will punish Jacob according to his ways; according to his deeds he will repay him.</p>
+<p><span class="vn">3</span>In the womb he took his brother by the heel; and in his manhood he contended with God.</p>
+<p><span class="vn">4</span>Indeed, he struggled with the angel, and prevailed; he wept, and made supplication to him. He found him at Bethel, and there he spoke with us,</p>
+<p><span class="vn">5</span>even Yahweh, the God of Armies; Yahweh is his name of renown!</p>
+<p><span class="vn">6</span>Therefore turn to your God. Keep kindness and justice, and wait continually for your God.</p>
+<p><span class="vn">7</span>A merchant has dishonest scales in his hand. He loves to defraud.</p>
+<p><span class="vn">8</span>Ephraim said, “Surely I have become rich, I have found myself wealth. In all my wealth they won’t find in me any iniquity that is sin.”</p>
+<p><span class="vn">9</span>“But I am Yahweh your God from the land of Egypt. I will yet again make you dwell in tents, as in the days of the solemn feast.</p>
+<p><span class="vn">10</span>I have also spoken to the prophets, and I have multiplied visions; and by the ministry of the prophets I have used parables.</p>
+<p><span class="vn">11</span>If Gilead is wicked, surely they are worthless. In Gilgal they sacrifice bulls. Indeed, their altars are like heaps in the furrows of the field.</p>
+<p><span class="vn">12</span>Jacob fled into the country of Aram, and Israel served to get a wife, and for a wife he tended flocks and herds.</p>
+<p><span class="vn">13</span>By a prophet Yahweh brought Israel up out of Egypt, and by a prophet he was preserved.</p>
+<p><span class="vn">14</span>Ephraim has bitterly provoked anger. Therefore his blood will be left on him, and his Lord will repay his contempt.</p>
+</div>
+<p class="conn">Jacob's history recalled — the heel, the wrestling, and the detail Genesis does not give: 'he wept, and made supplication to him.' Then the command: 'Therefore turn to your God. Keep kindness and justice, and wait continually for your God.' And its failure in commerce: 'A merchant has dishonest scales in his hand. He loves to defraud. Ephraim said, &quot;Surely I have become rich, I have found myself wealth. In all my wealth they won't find in me any iniquity that is sin.&quot;' The Moral Audit's money area, and the self-acquittal it exists to break (medium). C04 and C19.</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="a1.html">PR01</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 13:1-14</p>
+<h2 class="entry-name">According to their pasture, so were they filled; they were filled, and their heart was exalted. Therefore they have forgotten me</h2>
+<div class="passage">
+<p><span class="vn">1</span>When Ephraim spoke, there was trembling. He exalted himself in Israel, but when he became guilty in Baal, he died.</p>
+<p><span class="vn">2</span>Now they sin more and more, and have made themselves molten images of their silver, even idols according to their own understanding, all of them the work of the craftsmen. They say of them, ‘They offer human sacrifice and kiss the calves.’</p>
+<p><span class="vn">3</span>Therefore they will be like the morning mist, and like the dew that passes away early, like the chaff that is driven with the whirlwind out of the threshing floor, and like the smoke out of the chimney.</p>
+<p><span class="vn">4</span>“Yet I am Yahweh your God from the land of Egypt; and you shall acknowledge no god but me, and besides me there is no savior.</p>
+<p><span class="vn">5</span>I knew you in the wilderness, in the land of great drought.</p>
+<p><span class="vn">6</span>According to their pasture, so were they filled; they were filled, and their heart was exalted. Therefore they have forgotten me.</p>
+<p><span class="vn">7</span>Therefore I am like a lion to them. Like a leopard, I will lurk by the path.</p>
+<p><span class="vn">8</span>I will meet them like a bear that is bereaved of her cubs, and will tear the covering of their heart. There I will devour them like a lioness. The wild animal will tear them.</p>
+<p><span class="vn">9</span>You are destroyed, Israel, because you are against me, against your help.</p>
+<p><span class="vn">10</span>Where is your king now, that he may save you in all your cities? And your judges, of whom you said, ‘Give me a king and princes?’</p>
+<p><span class="vn">11</span>I have given you a king in my anger, and have taken him away in my wrath.</p>
+<p><span class="vn">12</span>The guilt of Ephraim is stored up. His sin is stored up.</p>
+<p><span class="vn">13</span>The sorrows of a travailing woman will come on him. He is an unwise son; for when it is time, he doesn’t come to the opening of the womb.</p>
+<p><span class="vn">14</span>I will ransom them from the power of Sheol. I will redeem them from death! Death, where are your plagues? Sheol, where is your destruction? “Compassion will be hidden from my eyes.</p>
+</div>
+<p class="conn">'I knew you in the wilderness, in the land of great drought. According to their pasture, so were they filled; they were filled, and their heart was exalted. Therefore they have forgotten me.' The sequence is C22's warning and C18's: provision, satisfaction, pride, forgetting. Deuteronomy 8 foresaw it; Hosea records it happening. And within the judgment, the promise Paul will turn into a taunt at 1 Corinthians 15:55: 'I will ransom them from the power of Sheol. I will redeem them from death! Death, where are your plagues?' 13:15-16 is not indexed.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c22.html">C22</a>
+<a class="tag" href="c18.html">C18</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Hosea 14:1-9</p>
+<h2 class="entry-name">Take words with you, and return to Yahweh. Tell him, 'Forgive all our sins'… in you the fatherless finds mercy… I will heal their waywardness. I will love them freely</h2>
+<div class="passage">
+<p><span class="vn">1</span>Israel, return to Yahweh your God; for you have fallen because of your sin.</p>
+<p><span class="vn">2</span>Take words with you, and return to Yahweh. Tell him, “Forgive all our sins, and accept that which is good: so we offer our lips like bulls.</p>
+<p><span class="vn">3</span>Assyria can’t save us. We won’t ride on horses; neither will we say any more to the work of our hands, ‘Our gods!’ for in you the fatherless finds mercy.”</p>
+<p><span class="vn">4</span>“I will heal their waywardness. I will love them freely; for my anger is turned away from him.</p>
+<p><span class="vn">5</span>I will be like the dew to Israel. He will blossom like the lily, and send down his roots like Lebanon.</p>
+<p><span class="vn">6</span>His branches will spread, and his beauty will be like the olive tree, and his fragrance like Lebanon.</p>
+<p><span class="vn">7</span>Men will dwell in his shade. They will revive like the grain, and blossom like the vine. Their fragrance will be like the wine of Lebanon.</p>
+<p><span class="vn">8</span>Ephraim, what have I to do any more with idols? I answer, and will take care of him. I am like a green fir tree; from me your fruit is found.”</p>
+<p><span class="vn">9</span>Who is wise, that he may understand these things? Who is prudent, that he may know them? For the ways of Yahweh are right, and the righteous walk in them; But the rebellious stumble in them.</p>
+</div>
+<p class="conn">The book ends with instructions for coming back. 'Israel, return to Yahweh your God; for you have fallen because of your sin. Take words with you, and return to Yahweh. Tell him, &quot;Forgive all our sins, and accept that which is good.&quot;' The Failure Recovery Protocol's 'name it plainly' — words prepared, the sin named, the false trusts renounced: 'Assyria can't save us… neither will we say any more to the work of our hands, &quot;Our gods!&quot; for in you the fatherless finds mercy.' And God's answer is Merciful Reintegration without probation: 'I will heal their waywardness. I will love them freely; for my anger is turned away from him. I will be like the dew to Israel. He will blossom like the lily.' C19's door, and C11's fruit at last: 'from me your fruit is found.'</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S5 Healing</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c11.html">C11</a>
+<a class="tag" href="a1.html">PR11</a>
+<a class="tag" href="a1.html">PR29</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+</div>
+</article>
+<nav class="docnav">
+<p class="rule-orn orn"><span>✦</span></p>
+<p class="nav-hub"><a href="scripture.html">All indexed books</a> · <a href="index.html">Table of contents</a></p>
+</nav>
+</main></body></html>

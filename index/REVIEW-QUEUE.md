@@ -33,6 +33,9 @@ the first fourteen.
 | Mark | 67 | `reviews/mark-package.md` | The four stated divergences from the parallels: 6:30-44 (PR19, where Luke 9:10-17 has none), 9:14-29 (PR22 declined, where Luke 9:37-43 tags it), 10:32-45 (PR25 counter-example, where Matthew 20:20-28 has none), 14:43-52; the unforecast anchors 15:42-47 (PR26), 16:1-8 (PR29) and 14:12-26 (PR03); 9:14-29 (PR08 — "Help my unbelief"); 15:33-41 (PR08 at the cross); 4:26-29 and 7:14-23 (the A3 priors); 8:22-26 (PR14). Large: may be reviewed in sections 1-4, 5-8, 9-12, 13-16 |
 | Jude | 3 | `reviews/jude-package.md` | 1:17-25 (C10, care for the wavering with discernment); 1:5-16 (Michael's restraint, recorded in prose and not tagged) |
 | Lamentations | 8 | `reviews/lamentations-package.md` | 3:21-33 (A3 prior; PR08 + PR11); 2:1-22 (PR08 prescribed — "Pour out your heart like water"); 5:1-22 (lament that ends unresolved); 3:34-42 (PR01 + PR11, medium); 1:1-22 (PR03 inside lament, medium) |
+| Hosea | 16 | `reviews/hosea-package.md` | 11:1-11 (PR22 through God's parental care, medium); 14:1-9 (PR11 + PR29); 7:1-16 (PR12 + PR08 counter-examples); 10:1-8 (PR28 counter-example); 3:1-5 (PR26 explicitly declined under its own guard); 2:14-23 (PR29, medium) |
+| Joel | 4 | `reviews/joel-package.md` | 2:12-17 (PR11 — "yet even now"; PR08); 1:1-20 (communal lament prescribed) |
+| Amos | 13 | `reviews/amos-package.md` | 4:1-5 (PR13 counter-example — offerings bragged about); 6:1-14 (PR28 + PR15 counter-examples); 7:1-6 (PR15, Amos interceding); 8:1-14 (PR01 counter-example); 4:6-13 (PR11 counter-example); 3:1-15 (PR28 counter-example) |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

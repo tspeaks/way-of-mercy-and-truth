@@ -1,12 +1,14 @@
 # Isaiah — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — chapters 1-55 indexed (13-27 selectively); 56-66 pending. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: complete — selective in the oracles against the nations and some judgment passages; see coverage_note; awaiting second-pass review. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
 **Note.** Indexed in sections along the book's standard seams: the oracles concerning Judah and Jerusalem (1-12), the oracles against the nations and the Isaiah apocalypse (13-27), the woes and the Hezekiah narratives (28-39), the Book of Comfort (40-55), and the closing chapters (56-66). The Scriptural Appendix cites Isaiah 5 for C11 and 56:1-7 for C27 and Shedding Harshness; the indexing order expected C03 and C27.
 
-**Coverage note.** Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16. Chapters 13-27 are indexed selectively, as Jeremiah 46-51 was: the oracles against Babylon, Assyria, Philistia, Moab, Damascus, Cush, Egypt, Dumah, Arabia, and Tyre (13, 14:1-2 and 14:22-32, 15, 16:12-14, 17, 18, 19:1-15, 20, 21:1-5 and 21:16-17, 23:1-14) anchor nothing in personal formation on a plain reading, and allegory was declined. Within them the index carries what does anchor: Moab's refugees and the prophet's tears for Moab, Egypt and Assyria named God's people, the bread brought to fugitives in Arabia, and Tyre's wages turned from storage to provision. Chapters 28-39, unindexed: the woe on Ariel's siege (29:1-8), the oracle on the animals of the Negev (30:6-7) and the theophany against Assyria (30:27-33), the woe on reliance on Egypt (31), which repeats 30:1-17, the first half of chapter 33, and the judgment on Edom (34). Chapters 40-55, unindexed: the trial of the nations and the raising of Cyrus (41:1-7 and 41:21-29), the battle-hymn of 42:10-17, the oracle of 44:24-28, and the oppressors' end in 49:22-26.
+**Prediction note.** The indexing order expected Isaiah to anchor C03 and C27. C27 is reached twelve times, from the swords beaten into plowshares (2:1-5) to foreigners taken as priests (66:18-23), and carries PR15 four times including the appendix's own prior at 56:1-8; that half of the forecast holds. C03 is reached once, at the third Servant Song (50:4-11). The forecast was likely drawn from the Servant's non-retaliation, which the index tags under PR06 at 50:4-11 and 52:13-53:12; but C03's argument is Luke 6 — love of enemies grounded in what God is like — and Isaiah anchors that argument far less often than the drafter expected. Unforecast: two first-time findings for the three practices that were unanchored this morning. Tyre's wages at 23:15-18 are the first positive anchor for PR28 anywhere in the index, and the 'holier than you' of 65:5 is the first counter-example for PR24.
+
+**Coverage note.** Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16. Chapters 13-27 are indexed selectively, as Jeremiah 46-51 was: the oracles against Babylon, Assyria, Philistia, Moab, Damascus, Cush, Egypt, Dumah, Arabia, and Tyre (13, 14:1-2 and 14:22-32, 15, 16:12-14, 17, 18, 19:1-15, 20, 21:1-5 and 21:16-17, 23:1-14) anchor nothing in personal formation on a plain reading, and allegory was declined. Within them the index carries what does anchor: Moab's refugees and the prophet's tears for Moab, Egypt and Assyria named God's people, the bread brought to fugitives in Arabia, and Tyre's wages turned from storage to provision. Chapters 28-39, unindexed: the woe on Ariel's siege (29:1-8), the oracle on the animals of the Negev (30:6-7) and the theophany against Assyria (30:27-33), the woe on reliance on Egypt (31), which repeats 30:1-17, the first half of chapter 33, and the judgment on Edom (34). Chapters 40-55, unindexed: the trial of the nations and the raising of Cyrus (41:1-7 and 41:21-29), the battle-hymn of 42:10-17, the oracle of 44:24-28, and the oppressors' end in 49:22-26. Chapters 56-66, unindexed: the oracle against idolatry in 57:1-13; the winepress of 63:1-6; the judgment by fire of 66:15-17; and the final verse of the book (66:24).
 
 **Sectioning note.** As with Jeremiah, the status field names what is done.
 
@@ -1420,6 +1422,311 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** 'Come, everyone who thirsts, to the waters! Come, he who has no money, buy, and eat!' Grace offered free to the one who cannot pay — C19's. Then the question C18 asks of every life: 'Why do you spend money for that which is not bread? and your labor for that which doesn't satisfy?' The call to return — 'let the wicked forsake his way… and he will abundantly pardon' — is grounded in the distance between God and the one returning: 'For my thoughts are not your thoughts, neither are your ways my ways… as the heavens are higher than the earth.' The Discipline of Unknowing as the reason mercy can be larger than we expect. 'My word… shall not return to me void.'
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility, truth · stages: S4, S5, S6 · chapters: C19, C18, C24 · practices: PR04 · confidence: high
+
+---
+
+## 65. Isaiah 56:1-8 — My house shall be called a house of prayer for all peoples
+
+> **56:1** Thus says Yahweh, “Keep justice, and do righteousness; for my salvation is near to come, and my righteousness to be revealed.
+> **56:2** Blessed is the man who does this, and the son of man who holds it fast; who keeps the Sabbath from profaning it, and keeps his hand from doing any evil.”
+> **56:3** Neither let the foreigner, who has joined himself to Yahweh, speak, saying, “Yahweh will surely separate me from his people;” neither let the eunuch say, “Behold, I am a dry tree.”
+> **56:4** For thus says Yahweh, “To the eunuchs who keep my Sabbaths, and choose the things that please me, and hold fast my covenant:
+> **56:5** to them I will give in my house and within my walls a memorial and a name better than of sons and of daughters; I will give them an everlasting name, that shall not be cut off.
+> **56:6** Also the foreigners who join themselves to Yahweh, to minister to him, and to love the name of Yahweh, to be his servants, everyone who keeps the Sabbath from profaning it, and holds fast my covenant;
+> **56:7** even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices shall be accepted on my altar; for my house shall be called a house of prayer for all peoples.”
+> **56:8** The Lord Yahweh, who gathers the outcasts of Israel, says, “Yet will I gather others to him, besides his own who are gathered.”
+
+**Claim.** The Scriptural Appendix cites Isaiah 56:1-7 as 'the widening circle at the summit: the foreigner brought to the holy mountain, and a house of prayer for all peoples. This is the scriptural ground of Shedding Harshness,' and C27 takes 56:7 as its witness. The two figures who expected to be shut out are named and answered: 'Neither let the foreigner… speak, saying, Yahweh will surely separate me from his people; neither let the eunuch say, Behold, I am a dry tree.' The eunuch is given 'a name better than of sons and of daughters'; the foreigner is brought to the altar. 'Yet will I gather others to him, besides his own who are gathered.' Jesus quotes 56:7 when he clears the temple.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S7 · chapters: C27 · practices: PR15 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 66. Isaiah 56:9-12 — His watchmen are blind… they are all mute dogs, they can't bark
+
+> **56:9** All you animals of the field, come to devour, all you animals in the forest.
+> **56:10** His watchmen are blind, they are all without knowledge; they are all mute dogs, they can’t bark; dreaming, lying down, loving to slumber.
+> **56:11** Yes, the dogs are greedy, they can never have enough; and these are shepherds who can’t understand: they have all turned to their own way, each one to his gain, from every quarter.
+> **56:12** “Come,” say they, “I will get wine, and we will fill ourselves with strong drink; and tomorrow shall be as this day, great beyond measure.”
+
+**Claim.** 'His watchmen are blind, they are all without knowledge; they are all mute dogs, they can't bark; dreaming, lying down, loving to slumber.' The shepherds 'have all turned to their own way, each one to his gain.' C20's watchman asleep at the post, and C16's authority turned to self-interest. Their motto is complacency itself: 'tomorrow shall be as this day, great beyond measure.'
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S4, S5 · chapters: C20, C16 · practices: none · confidence: medium
+
+---
+
+## 67. Isaiah 57:14-21 — I dwell in the high and holy place, with him also who is of a contrite and humble spirit
+
+> **57:14** He will say, “Cast up, cast up, prepare the way, take up the stumbling-block out of the way of my people.”
+> **57:15** For thus says the high and lofty One who inhabits eternity, whose name is Holy: “I dwell in the high and holy place, with him also who is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite.
+> **57:16** For I will not contend forever, neither will I be always angry; for the spirit would faint before me, and the souls who I have made.
+> **57:17** For the iniquity of his covetousness was I angry, and struck him; I hid myself and was angry; and he went on backsliding in the way of his heart.
+> **57:18** I have seen his ways, and will heal him: I will lead him also, and restore comforts to him and to his mourners.
+> **57:19** I create the fruit of the lips: Peace, peace, to him who is far off and to him who is near,” says Yahweh; “and I will heal them.”
+> **57:20** But the wicked are like the troubled sea; for it can’t rest, and its waters cast up mire and dirt.
+> **57:21** “There is no peace,” says my God, “for the wicked.”
+
+**Claim.** 'For thus says the high and lofty One who inhabits eternity, whose name is Holy: I dwell in the high and holy place, with him also who is of a contrite and humble spirit, to revive the spirit of the humble.' The highest and the lowest in one dwelling — C22's humility as the address where God lives. 'For I will not contend forever, neither will I be always angry; for the spirit would faint before me' is C19's mercy measured to human frailty. 'Peace, peace, to him who is far off and to him who is near' is the verse Ephesians 2:17 quotes at the Compass's anchor (C15). And the restless counter-image: 'the wicked are like the troubled sea; for it can't rest.'
+
+**Tags.** pillars: humility, mercy · stages: S4, S5 · chapters: C22, C19, C15 · practices: none · confidence: high
+
+---
+
+## 68. Isaiah 58:1-12 — Isn't this the fast that I have chosen… to distribute your bread to the hungry, and that you bring the poor who are cast out to your house?
+
+> **58:1** “Cry aloud, don’t spare, lift up your voice like a trumpet, and declare to my people their disobedience, and to the house of Jacob their sins.
+> **58:2** Yet they seek me daily, and delight to know my ways: as a nation that did righteousness, and didn’t forsake the ordinance of their God, they ask of me righteous judgments; they delight to draw near to God.
+> **58:3** ‘Why have we fasted,’ say they, ‘and you don’t see? Why have we afflicted our soul, and you take no knowledge?’ “Behold, in the day of your fast you find pleasure, and exact all your labors.
+> **58:4** Behold, you fast for strife and contention, and to strike with the fist of wickedness: you don’t fast this day so as to make your voice to be heard on high.
+> **58:5** Is such the fast that I have chosen? the day for a man to afflict his soul? Is it to bow down his head as a rush, and to spread sackcloth and ashes under him? Will you call this a fast, and an acceptable day to Yahweh?
+> **58:6** “Isn’t this the fast that I have chosen: to release the bonds of wickedness, to undo the bands of the yoke, and to let the oppressed go free, and that you break every yoke?
+> **58:7** Isn’t it to distribute your bread to the hungry, and that you bring the poor who are cast out to your house? When you see the naked, that you cover him; and that you not hide yourself from your own flesh?
+> **58:8** Then your light shall break forth as the morning, and your healing shall spring forth speedily; and your righteousness shall go before you; the glory of Yahweh shall be your rear guard.
+> **58:9** Then you shall call, and Yahweh will answer; you shall cry, and he will say, ‘Here I am.’ “If you take away from the midst of you the yoke, the putting forth of the finger, and speaking wickedly;
+> **58:10** and if you draw out your soul to the hungry, and satisfy the afflicted soul: then your light shall rise in darkness, and your obscurity be as the noonday;
+> **58:11** and Yahweh will guide you continually, and satisfy your soul in dry places, and make strong your bones; and you shall be like a watered garden, and like a spring of water, whose waters don’t fail.
+> **58:12** Those who shall be of you shall build the old waste places; you shall raise up the foundations of many generations; and you shall be called The repairer of the breach, The restorer of paths to dwell in.
+
+**Claim.** A people who fast and ask why God does not notice — 'Why have we fasted, and you don't see?' — are told that their fast is a display, kept 'for strife and contention,' with heads bowed 'as a rush' and sackcloth spread. Then the fast God chooses: 'to let the oppressed go free… to distribute your bread to the hungry, and that you bring the poor who are cast out to your house… When you see the naked, that you cover him; and that you not hide yourself from your own flesh.' Habitual Almsgiving as the substance of religious practice, which is C12's proof. And the discipline itself is redefined around the guest: the poor brought into the house in place of a fast performed to be seen. The Sacrifice of Routine is letting hospitality override one's discipline and avoiding any display of religious severity; this passage condemns the severity and puts the stranger at the table in its place. PR20 at medium, since no single guest's arrival is narrated. The promise that follows — 'you shall be called The repairer of the breach' — is C16's.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S3, S4 · chapters: C16, C12 · practices: PR05, PR20 · confidence: high
+
+---
+
+## 69. Isaiah 58:13-14 — And call the Sabbath a delight
+
+> **58:13** “If you turn away your foot from the Sabbath, from doing your pleasure on my holy day; and call the Sabbath a delight, and the holy of Yahweh honorable; and shall honor it, not doing your own ways, nor finding your own pleasure, nor speaking your own words:
+> **58:14** then you shall delight yourself in Yahweh; and I will make you to ride on the high places of the earth; and I will feed you with the heritage of Jacob your father:” for the mouth of Yahweh has spoken it.
+
+**Claim.** The Sabbath kept not as a burden but as joy — 'call the Sabbath a delight, and the holy of Yahweh honorable… then you shall delight yourself in Yahweh.' C10's movement from duty to delight, applied to the week's own rhythm, which is C28's.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility · stages: S3, S7 · chapters: C10, C28 · practices: none · confidence: medium
+
+---
+
+## 70. Isaiah 59:1-21 — Your iniquities have separated between you and your God… truth is fallen in the street
+
+> **59:1** Behold, Yahweh’s hand is not shortened, that it can’t save; neither his ear heavy, that it can’t hear:
+> **59:2** but your iniquities have separated between you and your God, and your sins have hidden his face from you, so that he will not hear.
+> **59:3** For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue mutters wickedness.
+> **59:4** None sues in righteousness, and none pleads in truth: they trust in vanity, and speak lies; they conceive mischief, and bring forth iniquity.
+> **59:5** They hatch adders’ eggs, and weave the spider’s web: he who eats of their eggs dies; and that which is crushed breaks out into a viper.
+> **59:6** Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands.
+> **59:7** Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity; desolation and destruction are in their paths.
+> **59:8** The way of peace they don’t know; and there is no justice in their goings: they have made them crooked paths; whoever goes therein does not know peace.
+> **59:9** Therefore is justice far from us, neither does righteousness overtake us: we look for light, but, behold, darkness; for brightness, but we walk in obscurity.
+> **59:10** We grope for the wall like the blind; yes, we grope as those who have no eyes: we stumble at noonday as in the twilight; among those who are lusty we are as dead men.
+> **59:11** We roar all like bears, and moan bitterly like doves: we look for justice, but there is none; for salvation, but it is far off from us.
+> **59:12** For our transgressions are multiplied before you, and our sins testify against us; for our transgressions are with us, and as for our iniquities, we know them:
+> **59:13** transgressing and denying Yahweh, and turning away from following our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
+> **59:14** Justice is turned away backward, and righteousness stands afar off; for truth is fallen in the street, and uprightness can’t enter.
+> **59:15** Yes, truth is lacking; and he who departs from evil makes himself a prey. Yahweh saw it, and it displeased him that there was no justice.
+> **59:16** He saw that there was no man, and wondered that there was no intercessor: therefore his own arm brought salvation to him; and his righteousness, it upheld him.
+> **59:17** He put on righteousness as a breastplate, and a helmet of salvation on his head; and he put on garments of vengeance for clothing, and was clad with zeal as a mantle.
+> **59:18** According to their deeds, accordingly he will repay, wrath to his adversaries, recompense to his enemies; to the islands he will repay recompense.
+> **59:19** So shall they fear the name of Yahweh from the west, and his glory from the rising of the sun; for he will come as a rushing stream, which the breath of Yahweh drives.
+> **59:20** “A Redeemer will come to Zion, and to those who turn from disobedience in Jacob,” says Yahweh.
+> **59:21** “As for me, this is my covenant with them,” says Yahweh. “My Spirit who is on you, and my words which I have put in your mouth, shall not depart out of your mouth, nor out of the mouth of your seed, nor out of the mouth of your seed’s seed,” says Yahweh, “from henceforth and forever.”
+
+**Claim.** 'Yahweh's hand is not shortened… but your iniquities have separated between you and your God.' The diagnosis traces the distance to its cause, which is C21's. Then the people's own confession, honest and unhedged: 'our transgressions are with us, and as for our iniquities, we know them… Justice is turned away backward… truth is fallen in the street, and uprightness can't enter. Yes, truth is lacking; and he who departs from evil makes himself a prey.' C04's audit carried out by a whole people. 'He saw that there was no man, and wondered that there was no intercessor.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S1, S5 · chapters: C21, C04 · practices: none · confidence: medium
+
+---
+
+## 71. Isaiah 60:1-22 — Arise, shine; for your light has come
+
+> **60:1** “Arise, shine; for your light has come, and the glory of Yahweh is risen on you.
+> **60:2** For, behold, darkness shall cover the earth, and gross darkness the peoples; but Yahweh will arise on you, and his glory shall be seen on you.
+> **60:3** Nations shall come to your light, and kings to the brightness of your rising.
+> **60:4** “Lift up your eyes all around, and see: they all gather themselves together, they come to you; your sons shall come from far, and your daughters shall be carried in the arms.
+> **60:5** Then you shall see and be radiant, and your heart shall thrill and be enlarged; because the abundance of the sea shall be turned to you, the wealth of the nations shall come to you.
+> **60:6** The multitude of camels shall cover you, the dromedaries of Midian and Ephah; all they from Sheba shall come; they shall bring gold and frankincense, and shall proclaim the praises of Yahweh.
+> **60:7** All the flocks of Kedar shall be gathered together to you, the rams of Nebaioth shall minister to you; they shall come up with acceptance on my altar; and I will glorify the house of my glory.
+> **60:8** “Who are these who fly as a cloud, and as the doves to their windows?
+> **60:9** Surely the islands shall wait for me, and the ships of Tarshish first, to bring your sons from far, their silver and their gold with them, for the name of Yahweh your God, and for the Holy One of Israel, because he has glorified you.
+> **60:10** “Foreigners shall build up your walls, and their kings shall minister to you: for in my wrath I struck you, but in my favor have I had mercy on you.
+> **60:11** Your gates also shall be open continually; they shall not be shut day nor night; that men may bring to you the wealth of the nations, and their kings led captive.
+> **60:12** For that nation and kingdom that will not serve you shall perish; yes, those nations shall be utterly wasted.
+> **60:13** “The glory of Lebanon shall come to you, the fir tree, the pine, and the box tree together, to beautify the place of my sanctuary; and I will make the place of my feet glorious.
+> **60:14** The sons of those who afflicted you shall come bending to you; and all those who despised you shall bow themselves down at the soles of your feet; and they shall call you The city of Yahweh, The Zion of the Holy One of Israel.
+> **60:15** “Whereas you have been forsaken and hated, so that no man passed through you, I will make you an eternal excellency, a joy of many generations.
+> **60:16** You shall also drink the milk of the nations, and shall nurse from royal breasts; and you shall know that I, Yahweh, am your Savior, and your Redeemer, the Mighty One of Jacob.
+> **60:17** For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron. I will also make your officers peace, and righteousness your ruler.
+> **60:18** Violence shall no more be heard in your land, desolation nor destruction within your borders; but you shall call your walls Salvation, and your gates Praise.
+> **60:19** The sun shall be no more your light by day; neither for brightness shall the moon give light to you: but Yahweh will be to you an everlasting light, and your God your glory.
+> **60:20** Your sun shall no more go down, neither shall your moon withdraw itself; for Yahweh will be your everlasting light, and the days of your mourning shall be ended.
+> **60:21** Your people also shall be all righteous; they shall inherit the land forever, the branch of my planting, the work of my hands, that I may be glorified.
+> **60:22** The little one shall become a thousand, and the small one a strong nation; I, Yahweh, will hasten it in its time.”
+
+**Claim.** 'Arise, shine; for your light has come, and the glory of Yahweh is risen on you.' Darkness over the earth and light on one people, so that 'nations shall come to your light.' C26's temple of light at the scale of a city, with gates 'open continually… not shut day nor night,' and officers who are peace and a ruler who is righteousness. The nations streaming in is C27's; the threat of 60:12 is part of the oracle and not what the entry anchors.
+
+**Tags.** pillars: mercy · stages: S6, S7 · chapters: C26, C27 · practices: none · confidence: medium
+
+---
+
+## 72. Isaiah 61:1-11 — To bind up the brokenhearted… the oil of joy for mourning, the garment of praise for the spirit of heaviness
+
+> **61:1** The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and release to those who are bound;
+> **61:2** to proclaim the year of Yahweh’s favor, and the day of vengeance of our God; to comfort all who mourn;
+> **61:3** to appoint to those who mourn in Zion, to give to them a garland for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they may be called trees of righteousness, the planting of Yahweh, that he may be glorified.
+> **61:4** They shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.
+> **61:5** Strangers shall stand and feed your flocks, and foreigners shall be your plowmen and your vinedressers.
+> **61:6** But you shall be named the priests of Yahweh; men will call you the ministers of our God: you will eat the wealth of the nations, and you will boast in their glory.
+> **61:7** Instead of your shame you shall have double; and instead of dishonor they shall rejoice in their portion: therefore in their land they shall possess double; everlasting joy shall be to them.
+> **61:8** “For I, Yahweh, love justice, I hate robbery with iniquity; and I will give them their recompense in truth, and I will make an everlasting covenant with them.
+> **61:9** Their seed shall be known among the nations, and their offspring among the peoples; all who see them shall acknowledge them, that they are the seed which Yahweh has blessed.”
+> **61:10** I will greatly rejoice in Yahweh, my soul shall be joyful in my God; for he has clothed me with the garments of salvation, he has covered me with the robe of righteousness, as a bridegroom decks himself with a garland, and as a bride adorns herself with her jewels.
+> **61:11** For as the earth brings forth its bud, and as the garden causes the things that are sown in it to spring forth; so the Lord Yahweh will cause righteousness and praise to spring forth before all the nations.
+
+**Claim.** The text Jesus reads in the synagogue at Nazareth (Luke 4:18-19): 'The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the brokenhearted, to proclaim liberty to the captives.' The vocation is defined by those it serves, C16's, and by what it gives them: 'a garland for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness' — C19's healing and C10's joy. 'For I, Yahweh, love justice, I hate robbery.'
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S3, S4, S5 · chapters: C16, C19, C10 · practices: none · confidence: high
+
+---
+
+## 73. Isaiah 62:1-12 — You shall no more be termed Forsaken… you shall be called Sought out, A city not forsaken
+
+> **62:1** For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until her righteousness go forth as brightness, and her salvation as a lamp that burns.
+> **62:2** The nations shall see your righteousness, and all kings your glory, and you shall be called by a new name, which the mouth of Yahweh shall name.
+> **62:3** You shall also be a crown of beauty in the hand of Yahweh, and a royal diadem in the hand of your God.
+> **62:4** You shall no more be termed Forsaken; neither shall your land any more be termed Desolate: but you shall be called Hephzibah, and your land Beulah; for Yahweh delights in you, and your land shall be married.
+> **62:5** For as a young man marries a virgin, so your sons shall marry you; and as the bridegroom rejoices over the bride, so your God will rejoice over you.
+> **62:6** I have set watchmen on your walls, Jerusalem; they shall never hold their peace day nor night: you who call on Yahweh, take no rest,
+> **62:7** and give him no rest, until he establishes, and until he makes Jerusalem a praise in the earth.
+> **62:8** Yahweh has sworn by his right hand, and by the arm of his strength, “Surely I will no more give your grain to be food for your enemies; and foreigners shall not drink your new wine, for which you have labored:
+> **62:9** but those who have garnered it shall eat it, and praise Yahweh; and those who have gathered it shall drink it in the courts of my sanctuary.”
+> **62:10** Go through, go through the gates! Prepare the way of the people! Cast up, cast up the highway! Gather out the stones! Lift up a banner for the peoples.
+> **62:11** Behold, Yahweh has proclaimed to the end of the earth, “Say to the daughter of Zion, ‘Behold, your salvation comes. Behold, his reward is with him, and his recompense before him.’”
+> **62:12** They shall call them The holy people, The redeemed of Yahweh: and you shall be called Sought out, A city not forsaken.
+
+**Claim.** 'For Zion's sake will I not hold my peace.' Watchmen on the walls 'who call on Yahweh, take no rest, and give him no rest' — C09's prayer as persistence. And the renaming: 'You shall no more be termed Forsaken… but you shall be called Hephzibah' — my delight is in her — and at the end, 'Sought out, A city not forsaken.' C19's door, opened by a God who goes looking.
+
+**Tags.** pillars: mercy · stages: S3, S5 · chapters: C19, C09 · practices: none · confidence: medium
+
+---
+
+## 74. Isaiah 63:7-64:12 — In all their affliction he was afflicted… Oh that you would tear the heavens, that you would come down
+
+> **63:7** I will make mention of the loving kindnesses of Yahweh and the praises of Yahweh, according to all that Yahweh has bestowed on us, and the great goodness toward the house of Israel, which he has bestowed on them according to his mercies, and according to the multitude of his loving kindnesses.
+> **63:8** For he said, “Surely, they are my people, children who will not deal falsely:” so he was their Savior.
+> **63:9** In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bore them, and carried them all the days of old.
+> **63:10** But they rebelled, and grieved his holy Spirit: therefore he was turned to be their enemy, and he himself fought against them.
+> **63:11** Then he remembered the days of old, Moses and his people, saying, Where is he who brought them up out of the sea with the shepherds of his flock? where is he who put his holy Spirit in their midst?
+> **63:12** who caused his glorious arm to go at the right hand of Moses? who divided the waters before them, to make himself an everlasting name?
+> **63:13** who led them through the depths, as a horse in the wilderness, so that they didn’t stumble?
+> **63:14** As the livestock that go down into the valley, the Spirit of Yahweh caused them to rest; so you led your people, to make yourself a glorious name.
+> **63:15** Look down from heaven, and see from the habitation of your holiness and of your glory: where are your zeal and your mighty acts? the yearning of your heart and your compassion is restrained toward me.
+> **63:16** For you are our Father, though Abraham doesn’t know us, and Israel does not acknowledge us: you, Yahweh, are our Father; our Redeemer from everlasting is your name.
+> **63:17** O Yahweh, why do you make us to err from your ways, and harden our heart from your fear? Return for your servants’ sake, the tribes of your inheritance.
+> **63:18** Your holy people possessed it but a little while: our adversaries have trodden down your sanctuary.
+> **63:19** We have become as they over whom you never bear rule, as those who were not called by your name.
+> **64:1** Oh that you would tear the heavens, that you would come down, that the mountains might quake at your presence,
+> **64:2** as when fire kindles the brushwood, and the fire causes the waters to boil; to make your name known to your adversaries, that the nations may tremble at your presence!
+> **64:3** When you did awesome things which we didn’t look for, you came down, the mountains quaked at your presence.
+> **64:4** For from of old men have not heard, nor perceived by the ear, neither has the eye seen a God besides you, who works for him who waits for him.
+> **64:5** You meet him who rejoices and works righteousness, those who remember you in your ways. Behold, you were angry, and we sinned. We have been in sin for a long time; and shall we be saved?
+> **64:6** For we have all become as one who is unclean, and all our righteousness is as a polluted garment: and we all fade as a leaf; and our iniquities, like the wind, take us away.
+> **64:7** There is none who calls on your name, who stirs up himself to take hold of you; for you have hidden your face from us, and have consumed us by means of our iniquities.
+> **64:8** But now, Yahweh, you are our Father; we are the clay, and you our potter; and we all are the work of your hand.
+> **64:9** Don’t be furious, Yahweh, neither remember iniquity forever: see, look, we beg you, we are all your people.
+> **64:10** Your holy cities are become a wilderness, Zion has become a wilderness, Jerusalem a desolation.
+> **64:11** Our holy and our beautiful house, where our fathers praised you, is burned with fire; and all our pleasant places are laid waste.
+> **64:12** Will you refrain yourself for these things, Yahweh? Will you hold your peace, and afflict us very severely?
+
+**Claim.** The great communal lament of the book. It begins in memory — 'In all their affliction he was afflicted… in his love and in his pity he redeemed them' — and turns to complaint: 'where are your zeal and your mighty acts? the yearning of your heart and your compassion is restrained toward me.' Then the cry: 'Oh that you would tear the heavens, that you would come down!' The confession is unsparing — 'all our righteousness is as a polluted garment: and we all fade as a leaf' — and the appeal is to relationship: 'But now, Yahweh, you are our Father; we are the clay, and you our potter… Don't… remember iniquity forever.' Sacred Lament, with C26's clay in the potter's hand as the ground of hope.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility, mercy · stages: S5, S6 · chapters: C19, C26 · practices: PR08 · confidence: high
+
+---
+
+## 75. Isaiah 65:1-16 — Who say, Stand by yourself, don't come near to me, for I am holier than you
+
+> **65:1** “I am inquired of by those who didn’t ask; I am found by those who didn’t seek me: I said, See me, see me, to a nation that was not called by my name.
+> **65:2** I have spread out my hands all the day to a rebellious people, who walk in a way that is not good, after their own thoughts;
+> **65:3** a people who provoke me to my face continually, sacrificing in gardens, and burning incense on bricks;
+> **65:4** who sit among the graves, and lodge in the secret places; who eat pig’s flesh, and broth of abominable things is in their vessels;
+> **65:5** who say, Stand by yourself, don’t come near to me, for I am holier than you. These are a smoke in my nose, a fire that burns all the day.
+> **65:6** “Behold, it is written before me: I will not keep silence, but will recompense, yes, I will recompense into their bosom,
+> **65:7** your own iniquities, and the iniquities of your fathers together,” says Yahweh, “who have burned incense on the mountains, and blasphemed me on the hills; therefore will I first measure their work into their bosom.”
+> **65:8** Thus says Yahweh, “As the new wine is found in the cluster, and one says, ‘Don’t destroy it, for a blessing is in it:’ so will I do for my servants’ sake, that I may not destroy them all.
+> **65:9** I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains; and my chosen shall inherit it, and my servants shall dwell there.
+> **65:10** Sharon shall be a fold of flocks, and the valley of Achor a place for herds to lie down in, for my people who have sought me.
+> **65:11** “But you who forsake Yahweh, who forget my holy mountain, who prepare a table for Fortune, and who fill up mixed wine to Destiny;
+> **65:12** I will destine you to the sword, and you shall all bow down to the slaughter; because when I called, you didn’t answer; when I spoke, you didn’t listen; but you did that which was evil in my eyes, and chose that in which I didn’t delight.”
+> **65:13** Therefore thus says the Lord Yahweh, “Behold, my servants shall eat, but you shall be hungry; behold, my servants shall drink, but you shall be thirsty; behold, my servants shall rejoice, but you shall be disappointed;
+> **65:14** behold, my servants shall sing for joy of heart, but you shall cry for sorrow of heart, and shall wail for anguish of spirit.
+> **65:15** You shall leave your name for a curse to my chosen; and the Lord Yahweh will kill you; and he will call his servants by another name:
+> **65:16** so that he who blesses himself in the earth shall bless himself in the God of truth; and he who swears in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hidden from my eyes.
+
+**Claim.** God is 'found by those who didn't seek me' and spreads out his hands 'all the day to a rebellious people.' Among the rebels, one sentence stands out because it is the voice of religious achievement: 'Stand by yourself, don't come near to me, for I am holier than you. These are a smoke in my nose.' The Compass asks, 'Am I using my spirituality to isolate myself?' — you cannot claim to be moving toward the centre while moving away from your neighbour. This is that failure in its own words: holiness invoked as the reason to keep others at a distance, and named as an offence to God. C12's test against spiritual elitism, and C22's pride. The first counter-example for PR24 in the index, beside the positive anchor at Ephesians 2:11-22.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility, truth · stages: S3, S5 · chapters: C12, C22 · practices: PR24 · confidence: medium
+
+---
+
+## 76. Isaiah 65:17-25 — They shall build houses, and inhabit them; and they shall plant vineyards, and eat their fruit
+
+> **65:17** “For, behold, I create new heavens and a new earth; and the former things shall not be remembered, nor come into mind.
+> **65:18** But be you glad and rejoice forever in that which I create; for, behold, I create Jerusalem a rejoicing, and her people a joy.
+> **65:19** I will rejoice in Jerusalem, and joy in my people; and there shall be heard in her no more the voice of weeping and the voice of crying.
+> **65:20** “There shall be no more there an infant of days, nor an old man who has not filled his days; for the child shall die one hundred years old, and the sinner being one hundred years old shall be accursed.
+> **65:21** They shall build houses, and inhabit them; and they shall plant vineyards, and eat their fruit.
+> **65:22** They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree shall be the days of my people, and my chosen shall long enjoy the work of their hands.
+> **65:23** They shall not labor in vain, nor bring forth for calamity; for they are the seed of the blessed of Yahweh, and their offspring with them.
+> **65:24** It shall happen that, before they call, I will answer; and while they are yet speaking, I will hear.
+> **65:25** The wolf and the lamb shall feed together, and the lion shall eat straw like the ox; and dust shall be the serpent’s food. They shall not hurt nor destroy in all my holy mountain,” says Yahweh.
+
+**Claim.** The new heavens and new earth are described almost entirely in ordinary terms: no infant who dies in days, no old man who does not fill his years; 'they shall build houses, and inhabit them; and they shall plant vineyards, and eat their fruit… They shall not labor in vain.' Ordinary work, finally not frustrated — C28's liturgy of the ordinary as the shape of the end itself. 'Before they call, I will answer.' 'The wolf and the lamb shall feed together… They shall not hurt nor destroy in all my holy mountain' — C15's peace.
+
+**Tags.** pillars: mercy, truth · stages: S4, S7 · chapters: C28, C15 · practices: none · confidence: high
+
+---
+
+## 77. Isaiah 66:1-2 — To this man will I look, even to him who is poor and of a contrite spirit, and who trembles at my word
+
+> **66:1** Thus says Yahweh, “Heaven is my throne, and the earth is my footstool: what kind of house will you build to me? and what place shall be my rest?
+> **66:2** For all these things has my hand made, and so all these things came to be,” says Yahweh: “but to this man will I look, even to him who is poor and of a contrite spirit, and who trembles at my word.
+
+**Claim.** 'Heaven is my throne, and the earth is my footstool: what kind of house will you build to me?' Every monument is dwarfed in a sentence. And then God's gaze is directed downward, to a single kind of person: 'but to this man will I look, even to him who is poor and of a contrite spirit, and who trembles at my word.' C22's humility and C23's hidden life, as the place God looks.
+
+**Tags.** pillars: humility · stages: S5, S6 · chapters: C22, C23 · practices: none · confidence: high
+
+---
+
+## 78. Isaiah 66:5-14 — As one whom his mother comforts, so will I comfort you
+
+> **66:5** Hear the word of Yahweh, you who tremble at his word: “Your brothers who hate you, who cast you out for my name’s sake, have said, ‘Let Yahweh be glorified, that we may see your joy;’ but it is those who shall be disappointed.
+> **66:6** A voice of tumult from the city, a voice from the temple, a voice of Yahweh that renders recompense to his enemies.
+> **66:7** “Before she travailed, she brought forth; before her pain came, she delivered a son.
+> **66:8** Who has heard such a thing? who has seen such things? Shall a land be born in one day? shall a nation be brought forth at once? for as soon as Zion travailed, she brought forth her children.
+> **66:9** Shall I bring to the birth, and not cause to bring forth?” says Yahweh: “shall I who cause to bring forth shut the womb?” says your God.
+> **66:10** “Rejoice with Jerusalem, and be glad for her, all you who love her: rejoice for joy with her, all you who mourn over her;
+> **66:11** that you may nurse and be satisfied at the comforting breasts; that you may drink deeply, and be delighted with the abundance of her glory.”
+> **66:12** For thus says Yahweh, “Behold, I will extend peace to her like a river, and the glory of the nations like an overflowing stream: and you will nurse. You will be carried on her side, and will be dandled on her knees.
+> **66:13** As one whom his mother comforts, so will I comfort you; and you will be comforted in Jerusalem.”
+> **66:14** You will see it, and your heart shall rejoice, and your bones shall flourish like the tender grass: and the hand of Yahweh shall be known toward his servants; and he will have indignation against his enemies.
+
+**Claim.** To those who tremble at his word, and whose brothers 'cast you out for my name's sake' — C17's cost of fidelity — the promise is maternal: 'you will be carried on her side, and will be dandled on her knees. As one whom his mother comforts, so will I comfort you.' C19's comfort in its tenderest image.
+
+**Tags.** pillars: mercy · stages: S4, S5 · chapters: C19, C17 · practices: none · confidence: medium
+
+---
+
+## 79. Isaiah 66:18-23 — Of them also will I take for priests and for Levites
+
+> **66:18** “For I know their works and their thoughts: the time comes, that I will gather all nations and languages; and they shall come, and shall see my glory.
+> **66:19** “I will set a sign among them, and I will send such as escape of them to the nations, to Tarshish, Pul, and Lud, who draw the bow, to Tubal and Javan, to the islands afar off, who have not heard my fame, neither have seen my glory; and they shall declare my glory among the nations.
+> **66:20** They shall bring all your brothers out of all the nations for an offering to Yahweh, on horses, and in chariots, and in litters, and on mules, and on dromedaries, to my holy mountain Jerusalem, says Yahweh, as the children of Israel bring their offering in a clean vessel into the house of Yahweh.
+> **66:21** Of them also will I take for priests and for Levites,” says Yahweh.
+> **66:22** “For as the new heavens and the new earth, which I will make, shall remain before me,” says Yahweh, “so your seed and your name shall remain.
+> **66:23** It shall happen, that from one new moon to another, and from one Sabbath to another, shall all flesh come to worship before me,” says Yahweh.
+
+**Claim.** The book ends by gathering 'all nations and languages,' sending survivors to the distant islands 'who have not heard my fame,' and then a sentence that overturns the boundary of the priesthood itself: 'Of them also will I take for priests and for Levites.' Foreigners serving at the altar — the circle of 56:1-8 completed, which is C27's. And the rhythm of the end: 'from one new moon to another, and from one Sabbath to another, shall all flesh come to worship before me' — C28's. The final verse (66:24) is not indexed.
+
+**Tags.** pillars: mercy · stages: S7 · chapters: C27, C28 · practices: none · confidence: medium
 
 ---
 

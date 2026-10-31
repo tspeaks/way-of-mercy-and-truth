@@ -1,12 +1,13 @@
 {
   "book": "Isaiah",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — chapters 1-55 indexed (13-27 selectively); 56-66 pending",
+  "status": "complete — selective in the oracles against the nations and some judgment passages; see coverage_note; awaiting second-pass review",
   "method_version": "2.3",
   "text_source": "index/text/isaiah.json",
   "note": "Indexed in sections along the book's standard seams: the oracles concerning Judah and Jerusalem (1-12), the oracles against the nations and the Isaiah apocalypse (13-27), the woes and the Hezekiah narratives (28-39), the Book of Comfort (40-55), and the closing chapters (56-66). The Scriptural Appendix cites Isaiah 5 for C11 and 56:1-7 for C27 and Shedding Harshness; the indexing order expected C03 and C27.",
   "sectioning_note": "As with Jeremiah, the status field names what is done.",
-  "coverage_note": "Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16. Chapters 13-27 are indexed selectively, as Jeremiah 46-51 was: the oracles against Babylon, Assyria, Philistia, Moab, Damascus, Cush, Egypt, Dumah, Arabia, and Tyre (13, 14:1-2 and 14:22-32, 15, 16:12-14, 17, 18, 19:1-15, 20, 21:1-5 and 21:16-17, 23:1-14) anchor nothing in personal formation on a plain reading, and allegory was declined. Within them the index carries what does anchor: Moab's refugees and the prophet's tears for Moab, Egypt and Assyria named God's people, the bread brought to fugitives in Arabia, and Tyre's wages turned from storage to provision. Chapters 28-39, unindexed: the woe on Ariel's siege (29:1-8), the oracle on the animals of the Negev (30:6-7) and the theophany against Assyria (30:27-33), the woe on reliance on Egypt (31), which repeats 30:1-17, the first half of chapter 33, and the judgment on Edom (34). Chapters 40-55, unindexed: the trial of the nations and the raising of Cyrus (41:1-7 and 41:21-29), the battle-hymn of 42:10-17, the oracle of 44:24-28, and the oppressors' end in 49:22-26.",
+  "coverage_note": "Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16. Chapters 13-27 are indexed selectively, as Jeremiah 46-51 was: the oracles against Babylon, Assyria, Philistia, Moab, Damascus, Cush, Egypt, Dumah, Arabia, and Tyre (13, 14:1-2 and 14:22-32, 15, 16:12-14, 17, 18, 19:1-15, 20, 21:1-5 and 21:16-17, 23:1-14) anchor nothing in personal formation on a plain reading, and allegory was declined. Within them the index carries what does anchor: Moab's refugees and the prophet's tears for Moab, Egypt and Assyria named God's people, the bread brought to fugitives in Arabia, and Tyre's wages turned from storage to provision. Chapters 28-39, unindexed: the woe on Ariel's siege (29:1-8), the oracle on the animals of the Negev (30:6-7) and the theophany against Assyria (30:27-33), the woe on reliance on Egypt (31), which repeats 30:1-17, the first half of chapter 33, and the judgment on Edom (34). Chapters 40-55, unindexed: the trial of the nations and the raising of Cyrus (41:1-7 and 41:21-29), the battle-hymn of 42:10-17, the oracle of 44:24-28, and the oppressors' end in 49:22-26. Chapters 56-66, unindexed: the oracle against idolatry in 57:1-13; the winepress of 63:1-6; the judgment by fire of 66:15-17; and the final verse of the book (66:24).",
+  "prediction_note": "The indexing order expected Isaiah to anchor C03 and C27. C27 is reached twelve times, from the swords beaten into plowshares (2:1-5) to foreigners taken as priests (66:18-23), and carries PR15 four times including the appendix's own prior at 56:1-8; that half of the forecast holds. C03 is reached once, at the third Servant Song (50:4-11). The forecast was likely drawn from the Servant's non-retaliation, which the index tags under PR06 at 50:4-11 and 52:13-53:12; but C03's argument is Luke 6 — love of enemies grounded in what God is like — and Isaiah anchors that argument far less often than the drafter expected. Unforecast: two first-time findings for the three practices that were unanchored this morning. Tyre's wages at 23:15-18 are the first positive anchor for PR28 anywhere in the index, and the 'holier than you' of 65:5 is the first counter-example for PR24.",
   "entries": [
     {
       "ref": "Isaiah 1:1-9",
@@ -1329,6 +1330,315 @@
       "mode": "prescribes",
       "connection": "'Come, everyone who thirsts, to the waters! Come, he who has no money, buy, and eat!' Grace offered free to the one who cannot pay — C19's. Then the question C18 asks of every life: 'Why do you spend money for that which is not bread? and your labor for that which doesn't satisfy?' The call to return — 'let the wicked forsake his way… and he will abundantly pardon' — is grounded in the distance between God and the one returning: 'For my thoughts are not your thoughts, neither are your ways my ways… as the heavens are higher than the earth.' The Discipline of Unknowing as the reason mercy can be larger than we expect. 'My word… shall not return to me void.'",
       "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 56:1-8",
+      "pericope": "My house shall be called a house of prayer for all peoples",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix cites Isaiah 56:1-7 as 'the widening circle at the summit: the foreigner brought to the holy mountain, and a house of prayer for all peoples. This is the scriptural ground of Shedding Harshness,' and C27 takes 56:7 as its witness. The two figures who expected to be shut out are named and answered: 'Neither let the foreigner… speak, saying, Yahweh will surely separate me from his people; neither let the eunuch say, Behold, I am a dry tree.' The eunuch is given 'a name better than of sons and of daughters'; the foreigner is brought to the altar. 'Yet will I gather others to him, besides his own who are gathered.' Jesus quotes 56:7 when he clears the temple.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Isaiah 56:9-12",
+      "pericope": "His watchmen are blind… they are all mute dogs, they can't bark",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "'His watchmen are blind, they are all without knowledge; they are all mute dogs, they can't bark; dreaming, lying down, loving to slumber.' The shepherds 'have all turned to their own way, each one to his gain.' C20's watchman asleep at the post, and C16's authority turned to self-interest. Their motto is complacency itself: 'tomorrow shall be as this day, great beyond measure.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 57:14-21",
+      "pericope": "I dwell in the high and holy place, with him also who is of a contrite and humble spirit",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C19",
+        "C15"
+      ],
+      "practices": [],
+      "connection": "'For thus says the high and lofty One who inhabits eternity, whose name is Holy: I dwell in the high and holy place, with him also who is of a contrite and humble spirit, to revive the spirit of the humble.' The highest and the lowest in one dwelling — C22's humility as the address where God lives. 'For I will not contend forever, neither will I be always angry; for the spirit would faint before me' is C19's mercy measured to human frailty. 'Peace, peace, to him who is far off and to him who is near' is the verse Ephesians 2:17 quotes at the Compass's anchor (C15). And the restless counter-image: 'the wicked are like the troubled sea; for it can't rest.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 58:1-12",
+      "pericope": "Isn't this the fast that I have chosen… to distribute your bread to the hungry, and that you bring the poor who are cast out to your house?",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C12"
+      ],
+      "practices": [
+        "PR05",
+        "PR20"
+      ],
+      "mode": "prescribes",
+      "connection": "A people who fast and ask why God does not notice — 'Why have we fasted, and you don't see?' — are told that their fast is a display, kept 'for strife and contention,' with heads bowed 'as a rush' and sackcloth spread. Then the fast God chooses: 'to let the oppressed go free… to distribute your bread to the hungry, and that you bring the poor who are cast out to your house… When you see the naked, that you cover him; and that you not hide yourself from your own flesh.' Habitual Almsgiving as the substance of religious practice, which is C12's proof. And the discipline itself is redefined around the guest: the poor brought into the house in place of a fast performed to be seen. The Sacrifice of Routine is letting hospitality override one's discipline and avoiding any display of religious severity; this passage condemns the severity and puts the stranger at the table in its place. PR20 at medium, since no single guest's arrival is narrated. The promise that follows — 'you shall be called The repairer of the breach' — is C16's.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 58:13-14",
+      "pericope": "And call the Sabbath a delight",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S7"
+      ],
+      "chapters": [
+        "C10",
+        "C28"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The Sabbath kept not as a burden but as joy — 'call the Sabbath a delight, and the holy of Yahweh honorable… then you shall delight yourself in Yahweh.' C10's movement from duty to delight, applied to the week's own rhythm, which is C28's.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 59:1-21",
+      "pericope": "Your iniquities have separated between you and your God… truth is fallen in the street",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C04"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'Yahweh's hand is not shortened… but your iniquities have separated between you and your God.' The diagnosis traces the distance to its cause, which is C21's. Then the people's own confession, honest and unhedged: 'our transgressions are with us, and as for our iniquities, we know them… Justice is turned away backward… truth is fallen in the street, and uprightness can't enter. Yes, truth is lacking; and he who departs from evil makes himself a prey.' C04's audit carried out by a whole people. 'He saw that there was no man, and wondered that there was no intercessor.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 60:1-22",
+      "pericope": "Arise, shine; for your light has come",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C26",
+        "C27"
+      ],
+      "practices": [],
+      "connection": "'Arise, shine; for your light has come, and the glory of Yahweh is risen on you.' Darkness over the earth and light on one people, so that 'nations shall come to your light.' C26's temple of light at the scale of a city, with gates 'open continually… not shut day nor night,' and officers who are peace and a ruler who is righteousness. The nations streaming in is C27's; the threat of 60:12 is part of the oracle and not what the entry anchors.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 61:1-11",
+      "pericope": "To bind up the brokenhearted… the oil of joy for mourning, the garment of praise for the spirit of heaviness",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C19",
+        "C10"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The text Jesus reads in the synagogue at Nazareth (Luke 4:18-19): 'The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the brokenhearted, to proclaim liberty to the captives.' The vocation is defined by those it serves, C16's, and by what it gives them: 'a garland for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness' — C19's healing and C10's joy. 'For I, Yahweh, love justice, I hate robbery.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 62:1-12",
+      "pericope": "You shall no more be termed Forsaken… you shall be called Sought out, A city not forsaken",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C09"
+      ],
+      "practices": [],
+      "connection": "'For Zion's sake will I not hold my peace.' Watchmen on the walls 'who call on Yahweh, take no rest, and give him no rest' — C09's prayer as persistence. And the renaming: 'You shall no more be termed Forsaken… but you shall be called Hephzibah' — my delight is in her — and at the end, 'Sought out, A city not forsaken.' C19's door, opened by a God who goes looking.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 63:7-64:12",
+      "pericope": "In all their affliction he was afflicted… Oh that you would tear the heavens, that you would come down",
+      "pillars": [
+        "truth",
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C26"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The great communal lament of the book. It begins in memory — 'In all their affliction he was afflicted… in his love and in his pity he redeemed them' — and turns to complaint: 'where are your zeal and your mighty acts? the yearning of your heart and your compassion is restrained toward me.' Then the cry: 'Oh that you would tear the heavens, that you would come down!' The confession is unsparing — 'all our righteousness is as a polluted garment: and we all fade as a leaf' — and the appeal is to relationship: 'But now, Yahweh, you are our Father; we are the clay, and you our potter… Don't… remember iniquity forever.' Sacred Lament, with C26's clay in the potter's hand as the ground of hope.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 65:1-16",
+      "pericope": "Who say, Stand by yourself, don't come near to me, for I am holier than you",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C12",
+        "C22"
+      ],
+      "practices": [
+        "PR24"
+      ],
+      "mode": "counter-example",
+      "connection": "God is 'found by those who didn't seek me' and spreads out his hands 'all the day to a rebellious people.' Among the rebels, one sentence stands out because it is the voice of religious achievement: 'Stand by yourself, don't come near to me, for I am holier than you. These are a smoke in my nose.' The Compass asks, 'Am I using my spirituality to isolate myself?' — you cannot claim to be moving toward the centre while moving away from your neighbour. This is that failure in its own words: holiness invoked as the reason to keep others at a distance, and named as an offence to God. C12's test against spiritual elitism, and C22's pride. The first counter-example for PR24 in the index, beside the positive anchor at Ephesians 2:11-22.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 65:17-25",
+      "pericope": "They shall build houses, and inhabit them; and they shall plant vineyards, and eat their fruit",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C15"
+      ],
+      "practices": [],
+      "connection": "The new heavens and new earth are described almost entirely in ordinary terms: no infant who dies in days, no old man who does not fill his years; 'they shall build houses, and inhabit them; and they shall plant vineyards, and eat their fruit… They shall not labor in vain.' Ordinary work, finally not frustrated — C28's liturgy of the ordinary as the shape of the end itself. 'Before they call, I will answer.' 'The wolf and the lamb shall feed together… They shall not hurt nor destroy in all my holy mountain' — C15's peace.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 66:1-2",
+      "pericope": "To this man will I look, even to him who is poor and of a contrite spirit, and who trembles at my word",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C22",
+        "C23"
+      ],
+      "practices": [],
+      "connection": "'Heaven is my throne, and the earth is my footstool: what kind of house will you build to me?' Every monument is dwarfed in a sentence. And then God's gaze is directed downward, to a single kind of person: 'but to this man will I look, even to him who is poor and of a contrite spirit, and who trembles at my word.' C22's humility and C23's hidden life, as the place God looks.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 66:5-14",
+      "pericope": "As one whom his mother comforts, so will I comfort you",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C17"
+      ],
+      "practices": [],
+      "connection": "To those who tremble at his word, and whose brothers 'cast you out for my name's sake' — C17's cost of fidelity — the promise is maternal: 'you will be carried on her side, and will be dandled on her knees. As one whom his mother comforts, so will I comfort you.' C19's comfort in its tenderest image.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 66:18-23",
+      "pericope": "Of them also will I take for priests and for Levites",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C28"
+      ],
+      "practices": [],
+      "connection": "The book ends by gathering 'all nations and languages,' sending survivors to the distant islands 'who have not heard my fame,' and then a sentence that overturns the boundary of the priesthood itself: 'Of them also will I take for priests and for Levites.' Foreigners serving at the altar — the circle of 56:1-8 completed, which is C27's. And the rhythm of the end: 'from one new moon to another, and from one Sabbath to another, shall all flesh come to worship before me' — C28's. The final verse (66:24) is not indexed.",
+      "confidence": "medium",
       "prior": false
     }
   ]

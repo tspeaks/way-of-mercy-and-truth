@@ -1,13 +1,13 @@
 {
   "book": "Psalms",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — Books I-IV (Psalms 1-106) indexed; Book V pending; awaiting second-pass review",
+  "status": "complete — all five books; selective in the royal, battle, and imprecatory psalms; see coverage_note; awaiting second-pass review",
   "method_version": "2.3",
   "text_source": "index/text/psalms.json",
-  "note": "The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39; in Book II, 51 and 63; in Book III, 82 and 84; in Book IV, 90, 92, 100, and 103.",
+  "note": "The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39; in Book II, 51 and 63; in Book III, 82 and 84; in Book IV, 90, 92, 100, and 103; in Book V, 112, 119 (four priors, carried in four stanza entries), 127, 128, 131, 133, 139, and 141. Every psalm the appendix's table names is carried. Psalm 119 is indexed by stanza, grouped where consecutive stanzas make one point.",
   "genre_note": "The Psalms are prayer, not instruction, and they are indexed as prayer. A psalm that brings grief or complaint honestly before God enacts Sacred Lament, and is marked exemplifies; PR08 is tagged where the lament is the psalm's centre, not wherever a complaint appears, so that the count reflects anchors rather than mentions. The imprecations — prayers for the confusion or destruction of enemies — are not softened and are not tagged as models: where they bear on a practice the index says so (35:1-28, 41:4-13), and otherwise they are read as what they are, the honest voicing of rage to God rather than its enactment against a neighbour, which the curriculum's own account of lament permits. Superscriptions are included in the verse text as the WEB numbers them and are not separately interpreted. Royal and battle psalms are indexed only where they anchor something beyond the king's victory. The enthronement psalms of Book IV (93, 96-99) are gathered into a single cluster, since they make one claim in five hymns.",
-  "prediction_note": "The indexing order said Psalms would settle Sacred Lament permanently, and C09 with it. In Book I, PR08 is tagged on six psalms (6, 10, 13, 22, 30, 38); the rest of the index carries thirty-two, a third of them added today in Genesis, Deuteronomy, and Ecclesiastes. In Book II it is tagged on five more (42-43, 44, 55, 62, 69), and Psalm 62:8 — 'pour out your heart before him' — is the first passage in the index to prescribe the practice in so many words rather than enact it. C09 is reached by Psalms 5, 17, 42-43, 57, 61, and the appendix's own 63; its other named psalm, 84, falls in Book III.",
-  "coverage_note": "Book I, unindexed: Psalm 21, a royal thanksgiving whose second half celebrates the destruction of the king's enemies' descendants, and the battle portion of Psalm 18 (18:37-50). Book II, unindexed: Psalm 45, a royal wedding song (whose 45:4 — the king riding 'on behalf of truth, humility, and righteousness' — comes close to the three pillars without being their source); Psalms 47 and 48, Zion and kingship hymns; Psalm 53, which repeats Psalm 14, and Psalm 70, which repeats 40:13-17; Psalm 54, a brief petition with nothing not anchored elsewhere; Psalms 58 and 59, imprecations against corrupt judges and besiegers, the first ending with the righteous washing their feet in the blood of the wicked, which the index will not tag as a model and has no other reason to tag; Psalm 60, a national oracle after defeat; Psalm 64, a complaint against conspirators; and the battle imagery of Psalm 68 outside 68:4-10. Book III, unindexed: Psalm 76, a victory hymn, and Psalm 83, a national imprecation against a coalition of enemies.",
+  "prediction_note": "The indexing order said Psalms would settle Sacred Lament permanently, and C09 with it. Across the five books PR08 is tagged on 23 psalms or stanzas, against thirty-two anchors in the whole of the rest of the index; Psalm 62:8 ('pour out your heart before him') prescribes the practice outright, Psalm 102's superscription defines it, and Psalm 88 shows it with no resolution at all. C09 is reached 14 times, with both of the appendix's C09 psalms (63, 84) carried as priors. Whether that settles either is for the reviewer; the drafter wrote the forecast. Unforecast: the Psalter also gives the index its clearest internal tension, at Psalm 119:136 and 119:158, where the same poet weeps over and then loathes the same people, and both are recorded.",
+  "coverage_note": "Book I, unindexed: Psalm 21, a royal thanksgiving whose second half celebrates the destruction of the king's enemies' descendants, and the battle portion of Psalm 18 (18:37-50). Book II, unindexed: Psalm 45, a royal wedding song (whose 45:4 — the king riding 'on behalf of truth, humility, and righteousness' — comes close to the three pillars without being their source); Psalms 47 and 48, Zion and kingship hymns; Psalm 53, which repeats Psalm 14, and Psalm 70, which repeats 40:13-17; Psalm 54, a brief petition with nothing not anchored elsewhere; Psalms 58 and 59, imprecations against corrupt judges and besiegers, the first ending with the righteous washing their feet in the blood of the wicked, which the index will not tag as a model and has no other reason to tag; Psalm 60, a national oracle after defeat; Psalm 64, a complaint against conspirators; and the battle imagery of Psalm 68 outside 68:4-10. Book III, unindexed: Psalm 76, a victory hymn, and Psalm 83, a national imprecation against a coalition of enemies. Book V, unindexed: Psalm 108, a composite of 57 and 60; Psalm 109, the harshest imprecation in the Psalter, whose 109:4 — 'In return for my love, they are my adversaries; but I am in prayer' — is the one line in it the index would anchor and cannot without carrying the curses of 109:6-19 with it; Psalm 110, a royal oracle, the most-quoted psalm in the New Testament and a Christological text rather than a formation one; Psalms 124, 125, 129, 132, 135 (which repeats 115:4-8), 140, and 144, which add nothing not anchored elsewhere or end in imprecation; Psalm 149, which places a two-edged sword in the hands of the saints to bind the kings of the nations; and Psalm 137:7-9, the blessing on whoever dashes Babylon's infants against the rock. The last is the verse most often cited against the Psalter. The index does not soften it or allegorise it, and does not let it disappear: it is the cry of people whose own children were killed, preserved in scripture as what grief can become, and the entry at 137:1-6 stops before it so that no formation tag is asserted over it.",
   "entries": [
     {
       "ref": "Psalm 1:1-6",
@@ -1888,6 +1888,1011 @@
       "practices": [],
       "mode": "exemplifies",
       "connection": "A confession that begins in the present tense — 'We have sinned with our fathers' — and retells the wilderness as a history of forgetting. One verse names a judgment that operates from within: 'He gave them their request, but sent leanness into their soul.' Getting what one craves and being emptied by it is C21's diagnosis. Moses 'stood before him in the breach,' and the ending is C19's: 'Nevertheless he regarded their distress, when he heard their cry.' The psalm's complaint that the people did not destroy the nations (106:34) is part of the confession's argument and is not what the entry anchors.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 107:1-43",
+      "pericope": "Then they cried to Yahweh in their trouble, and he delivered them",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C02"
+      ],
+      "practices": [],
+      "connection": "Four portraits of distress — wanderers with no city, prisoners in iron 'because they rebelled,' fools sick from their own iniquity, sailors at their wits' end — and four times the same sentence: 'Then they cried to Yahweh in their trouble, and he delivered them.' Some of the trouble is self-inflicted and the door opens anyway, which is C19's. 'Whoever is wise will pay attention to these things' is C02's.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 111:1-10",
+      "pericope": "The fear of Yahweh is the beginning of wisdom",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C02",
+        "C24"
+      ],
+      "practices": [],
+      "connection": "An acrostic hymn whose last line is the entrance requirement C02 takes from Proverbs 1:7: 'The fear of Yahweh is the beginning of wisdom.' God's works are 'pondered by all those who delight in them' — study as delight, which is C24's.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 112:1-10",
+      "pericope": "Light dawns in the darkness for the upright… He has dispersed, he has given to the poor",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "The Scriptural Appendix assigns Psalm 112 to C14, and C14 takes 112:4 as its witness for the harder seasons: 'Light dawns in the darkness for the upright, gracious, merciful, and righteous' — within the darkness, not instead of it. The portrait of the upright man is a portrait of habitual generosity: he 'deals graciously and lends,' and 'he has dispersed, he has given to the poor' — the verse Paul quotes in 2 Corinthians 9:9 of the collection for Jerusalem. Habitual Almsgiving as the shape of a household.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 113:1-9",
+      "pericope": "He raises up the poor out of the dust… that he may set him with princes",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "connection": "The God enthroned on high 'stoops down to see,' and what he sees is the poor in the dust and the needy on the ash heap, whom he sets with princes, and the barren woman, whom he settles as a joyful mother. C16's why-the-vulnerable-specifically, as the character of God. PR25 is not tagged: the reversal is God's, and the practice is giving up one's own seat in a gathering, the distinction that has drawn PR25 in error before.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 115:1-18",
+      "pericope": "Not to us, Yahweh, not to us… Those who make them will be like them",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C26"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Not to us, Yahweh, not to us, but to your name give glory' — the refusal of credit that is the hidden life's, C23's. Then the idols: mouths that do not speak, eyes that do not see — 'Those who make them will be like them; yes, everyone who trusts in them.' C26's mechanism stated in reverse: we are transformed into what we behold, and those who behold what cannot see become unseeing. Psalm 135:15-18 repeats the passage and is not separately indexed.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 116:1-19",
+      "pericope": "Return to your rest, my soul… What will I give to Yahweh for all his benefits?",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C10"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Rescued from 'the cords of death,' the psalmist speaks to his own soul — 'Return to your rest, my soul' — and records an honest lapse: 'I said in my haste, All men are liars.' Then the question that gratitude asks: 'What will I give to Yahweh for all his benefits toward me?' C22's quieted soul, and C10's thanksgiving, paid as vows 'in the presence of all his people.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 117:1-2",
+      "pericope": "Praise Yahweh, all you nations!",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [],
+      "connection": "The shortest psalm, and its scope is the widest: 'Praise Yahweh, all you nations! Extol him, all you peoples!' C27's circle, in two verses.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 118:1-29",
+      "pericope": "This is the day that Yahweh has made. We will rejoice and be glad in it!",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "'It is better to take refuge in Yahweh, than to put confidence in man… than to put confidence in princes' — C18's misplaced trust named twice. 'Yah has punished me severely, but he has not given me over to death.' And the line that makes a single day the unit of joy: 'This is the day that Yahweh has made. We will rejoice and be glad in it!' C28's day, received rather than managed. The rejected stone become the cornerstone (118:22) is quoted of Christ in all three Synoptics and in 1 Peter 2.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:1-8",
+      "pericope": "Blessed are those whose ways are blameless, who walk according to Yahweh's law",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C12"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix assigns 119:1-2 to C12: walking in truth. The longest psalm opens with a blessing on those who walk in the law and 'seek him with their whole heart,' and then a confession of the gap: 'Oh that my ways were steadfast to obey your statutes!' The walk is the proof, and the psalmist knows he has not yet walked it.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 119:9-16",
+      "pericope": "I have hidden your word in my heart, that I might not sin against you",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'How can a young man keep his way pure? By living according to your word… I have hidden your word in my heart, that I might not sin against you.' The guard is set before the temptation arrives, by what has been stored inside — the forward provision C20 makes against the movements it watches for.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:17-24",
+      "pericope": "Open my eyes, that I may see wondrous things out of your law. I am a stranger on the earth",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C06",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Two priors in two consecutive verses. The Scriptural Appendix assigns 119:18 to C06 — 'Open my eyes, that I may see wondrous things out of your law,' the prayer of the whole second stage — and 119:19 to C17 — 'I am a stranger on the earth. Don't hide your commandments from me,' which C17 takes as its witness. Sight asked for rather than assumed, by someone who knows he is not at home. 'Though princes sit and slander me, your servant will meditate on your statutes.'",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 119:25-32",
+      "pericope": "I run in the path of your commandments, for you have set my heart free",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C10"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'My soul is laid low in the dust… My soul is weary with sorrow.' Then an account given — 'I declared my ways, and you answered me' — and a change in the experience of obedience: 'I run in the path of your commandments, for you have set my heart free.' C19's revival from the dust, and C10's movement from duty to delight: the same path, run instead of trudged.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:33-40",
+      "pericope": "Turn my heart toward your statutes, not toward selfish gain. Turn my eyes away from looking at worthless things",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C07",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Two turnings asked for, of the heart and of the eyes: 'Turn my heart toward your statutes, not toward selfish gain. Turn my eyes away from looking at worthless things.' C07's cleansing of the lens and C18's release from gain, both requested rather than achieved — the psalmist does not trust himself to make the turn unaided.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:41-56",
+      "pericope": "Your statutes have been my songs, in the house where I live",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C17",
+        "C09"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Two stanzas of a man under mockery who will 'speak of your statutes before kings' and 'walk in liberty.' 'This is my comfort in my affliction… Your statutes have been my songs, in the house where I live' — the house of his sojourning, the same word as 119:19's stranger. 'I have remembered your name, Yahweh, in the night.' C17's citizen-stranger singing in a borrowed house, and C09's night prayer.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:57-64",
+      "pericope": "I considered my ways, and turned my steps to your statutes. I will hurry, and not delay",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C18"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "exemplifies",
+      "connection": "'Yahweh is my portion' — C18's. And the shortest description of repentance in the Psalter: 'I considered my ways, and turned my steps to your statutes. I will hurry, and not delay, to obey your commandments.' The Failure Recovery Protocol says return the same day, at the next available moment, with no ceremony; this is that rule, kept by a man who examined his ways and did not wait. 'At midnight I will rise to give thanks to you.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:65-80",
+      "pericope": "It is good for me that I have been afflicted, that I may learn your statutes",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'Before I was afflicted, I went astray; but now I observe your word… It is good for me that I have been afflicted, that I may learn your statutes… In faithfulness you have afflicted me.' Affliction read, after the fact, as formation — C25's long road, on which the hard stretches are part of the way rather than detours from it. The comfort asked for in 119:76 is C19's. The index does not read these verses as a claim that all suffering is sent for instruction; the psalmist says it of his own.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:81-88",
+      "pericope": "I have become like a wineskin in the smoke… When will you comfort me?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "'My soul faints for your salvation… My eyes fail for your word. I say, When will you comfort me? For I have become like a wineskin in the smoke' — dried out, blackened, cracking. 'How many are the days of your servant?' The lament stanza of the long psalm, and its refusal: 'They had almost wiped me from the earth, but I didn't forsake your precepts.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:89-96",
+      "pericope": "I have seen a limit to all perfection, but your commands are boundless",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C10"
+      ],
+      "practices": [],
+      "connection": "The word settled in heaven, a faithfulness 'to all generations,' and one line on the limits of everything else: 'I have seen a limit to all perfection, but your commands are boundless.' C24's measure — every human achievement has an edge, and what the psalmist loves has none. 'Unless your law had been my delight, I would have perished in my affliction' is C10's.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:97-104",
+      "pericope": "Through your precepts, I get understanding; therefore I hate every false way",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C02",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'How I love your law! It is my meditation all day.' Wisdom beyond his enemies, his teachers, and the aged, because of what he keeps rather than what he knows — C02's skill of living. The Scriptural Appendix assigns 119:104-105 to C08, 'understanding before discernment': 'Through your precepts, I get understanding; therefore I hate every false way.' Discernment as the fruit of obedience, not its precondition.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 119:105-112",
+      "pericope": "Your word is a lamp to my feet, and a light for my path",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "C08 takes 119:105 as the companion of its whole chapter: 'Your word is a lamp to my feet, and a light for my path.' A lamp for the next step, not a floodlight for the whole road. 'My soul is continually in my hand, yet I won't forget your law' — the danger is real, and the lamp is carried through it.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 119:113-120",
+      "pericope": "I hate double-minded men… You are my hiding place and my shield",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C09"
+      ],
+      "practices": [],
+      "connection": "'I hate double-minded men, but I love your law.' The divided heart that C26 opens with, rejected first in others and then implicitly in himself. 'You are my hiding place and my shield' is C09's sheltered place. 'My flesh trembles for fear of you.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:121-136",
+      "pericope": "Streams of tears run down my eyes, because they don't observe your law",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C06"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "'The entrance of your words gives light. It gives understanding to the simple' — light given to those with least claim to it, which is C06's sight. And the stanza ends with grief rather than indignation at others' failure: 'Streams of tears run down my eyes, because they don't observe your law.' Shedding Harshness measures the mature heart by the movement it feels at another's downfall; here the movement is tears. Medium, because the same psalm records the opposite movement at 119:158, and the index records both.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:137-144",
+      "pericope": "I am small and despised. I don't forget your precepts",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C23"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'My zeal wears me out… I am small and despised. I don't forget your precepts.' Faithfulness from someone who counts for nothing in the eyes of others and keeps going — C23's hidden life in a single line.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:145-152",
+      "pericope": "I rise before dawn and cry for help… My eyes stay open through the night watches",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C09"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'I rise before dawn and cry for help. I put my hope in your words. My eyes stay open through the night watches, that I might meditate on your word.' Prayer fixed at the edges of the day and the hours of the night, which is C28's rhythm and C09's place. Together with 119:62 (midnight) and 119:164 (seven times a day), these verses are the scriptural root of the monastic hours; PR30's fixed-hour devotion is defined by the Lord's Prayer and is not tagged here.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:153-160",
+      "pericope": "I look at the faithless with loathing, because they don't observe your word",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "counter-example",
+      "connection": "Twenty-two verses after weeping over those who do not keep the law (119:136), the psalmist says: 'I look at the faithless with loathing, because they don't observe your word.' The same failure in others, met first with tears and then with loathing. Shedding Harshness is the slow widening of the circle until no one stands outside it; this verse is the circle drawn tight again, recorded honestly in the most devoted poem in scripture. The index keeps both entries so that the psalm's own unevenness is visible.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:161-168",
+      "pericope": "Seven times a day, I praise you… Those who love your law have great peace",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C22",
+        "C28"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'Seven times a day, I praise you, because of your righteous ordinances. Those who love your law have great peace. Nothing causes them to stumble.' Praise by the clock, which is C28's rhythm, and a peace that keeps the feet, which is C22's. 'All my ways are before you' — a life lived without a hidden compartment.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 119:169-176",
+      "pericope": "I have gone astray like a lost sheep. Seek your servant",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "After a hundred and seventy-five verses of love for the law, the psalm ends not with a claim of faithfulness but with a confession: 'I have gone astray like a lost sheep. Seek your servant, for I don't forget your commandments.' The most devoted voice in the Psalter closes as a sheep needing to be found. C19's shepherd, and the parable of Luke 15 in a single verse.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 120:1-7",
+      "pericope": "I am for peace, but when I speak, they are for war",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17",
+        "C15"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The first Song of Ascents begins in exile among the tents of Kedar, 'too long with him who hates peace. I am for peace, but when I speak, they are for war.' C17's stranger in a hostile land, and C15's peace pursued even where the other party refuses it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 121:1-8",
+      "pericope": "He who keeps you will not slumber",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22"
+      ],
+      "practices": [],
+      "connection": "'I will lift up my eyes to the hills. Where does my help come from?' Six times the verb keep: a keeper who neither slumbers nor sleeps, who keeps 'your going out and your coming in.' C22's quiet soul resting on a vigilance not its own.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 122:1-9",
+      "pericope": "For my brothers' and companions' sakes, I will now say, Peace be within you",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Pray for the peace of Jerusalem.' The pilgrim asks peace for the city 'for my brothers' and companions' sakes… I will seek your good.' C15's peace as a thing sought for others, and C13's community as its occasion.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 123:1-4",
+      "pericope": "As the eyes of servants look to the hand of their master",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Attention as prayer: 'as the eyes of servants look to the hand of their master… so our eyes look to Yahweh, our God, until he has mercy on us.' The people are filled with 'the contempt of the proud' and answer it with watchful dependence. C22's relational humility, turned upward.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 126:1-6",
+      "pericope": "Those who sow in tears will reap in joy",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "'He who goes out weeping, carrying seed for sowing, will certainly come again with joy, carrying his sheaves.' The weeping and the sowing happen together, and the harvest comes later. C25's long view, in which work done in grief is not wasted, and C19's restored fortunes 'like the streams in the Negev.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 127:1-5",
+      "pericope": "Unless Yahweh builds the house, they labor in vain who build it",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "The Scriptural Appendix assigns Psalm 127 to C26: unless Yahweh builds the house. The temple of light is not self-constructed. 'It is vain for you to rise up early, to stay up late, eating the bread of toil; for he gives sleep to his loved ones' — C18's freedom from the anxious labour that thinks everything depends on it.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 128:1-6",
+      "pericope": "Your children like olive plants, around your table",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [],
+      "connection": "The Scriptural Appendix assigns Psalm 128 to C14, and C14 takes 128:1-2 as its witness: a quiet domestic psalm — honest work, a table, children around it, the household in order. 'You will eat the labor of your hands. You will be happy.'",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 130:1-8",
+      "pericope": "If you, Yah, kept a record of sins, Lord, who could stand? But there is forgiveness with you",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "'Out of the depths I have cried to you.' The penitential psalm turns on a question that has no answer from the human side — 'If you, Yah, kept a record of sins, who could stand?' — and an answer from God's: 'But there is forgiveness with you.' Then waiting, 'more than watchmen long for the morning.' Sacred Lament from the depths, and C19's door at its most compact.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 131:1-3",
+      "pericope": "Nor do I concern myself with great matters, or things too wonderful for me",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C22",
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "The Scriptural Appendix assigns Psalm 131 to C22, and C22 takes 131:1-2 as its witness: the weaned child, the quiet soul. 'My heart isn't haughty, nor my eyes lofty; nor do I concern myself with great matters, or things too wonderful for me. Surely I have stilled and quieted my soul.' The first verse is also the Discipline of Unknowing in its plainest form: the disciplined recognition that some things exceed one's grasp, and the peace of not reaching for them.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 133:1-3",
+      "pericope": "See how good and how pleasant it is for brothers to live together in unity!",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C12",
+        "C13",
+        "C15"
+      ],
+      "practices": [],
+      "connection": "The Scriptural Appendix assigns Psalm 133 to three chapters — C12, C13, and C15 — under 'oil and dew descending; unity in shared life,' and C12 and C13 take it as their witness. Unity pictured as something that runs down from above: oil from the head to the beard to the hem, dew from Hermon to the hills of Zion. 'For there Yahweh gives the blessing.'",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 134:1-3",
+      "pericope": "All you servants of Yahweh, who stand by night in Yahweh's house",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S7"
+      ],
+      "chapters": [
+        "C09",
+        "C28"
+      ],
+      "practices": [],
+      "connection": "The last Song of Ascents is addressed to those who keep the night watch in the temple: 'Lift up your hands in the sanctuary.' Prayer kept through the night by those whose service is unseen — C09's place and C28's hours.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 136:1-26",
+      "pericope": "For his loving kindness endures forever",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S7"
+      ],
+      "chapters": [
+        "C10",
+        "C28"
+      ],
+      "practices": [],
+      "connection": "Twenty-six lines, each answered by the same refrain. Creation, exodus, wilderness, and then the line closest to the worshipper: 'Who remembered us in our low estate… Who gives food to every creature.' Gratitude formed by repetition rather than novelty, which is C10's discipline practised in C28's way.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 137:1-6",
+      "pericope": "By the rivers of Babylon, there we sat down. Yes, we wept",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "Exiles weep by foreign rivers and hang up their harps when their captors demand 'one of the songs of Zion.' 'How can we sing Yahweh's song in a foreign land?' Sacred Lament for a lost home, and C17's question at its most painful: how to remain anchored elsewhere while living, against one's will, here. The entry stops at 137:6. The psalm ends (137:7-9) with a blessing on whoever dashes Babylon's infants against the rock; see the coverage note.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 138:1-8",
+      "pericope": "Though Yahweh is high, yet he looks after the lowly",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C16"
+      ],
+      "practices": [],
+      "connection": "'Though Yahweh is high, yet he looks after the lowly; but the proud, he knows from afar.' The distance God keeps is from pride, not from lowliness — C22's humility and C16's lowly as those God draws near. 'Yahweh will fulfill that which concerns me.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 139:1-24",
+      "pericope": "Search me, God, and know my heart… This knowledge is beyond me",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C21",
+        "C24"
+      ],
+      "practices": [
+        "PR02",
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix assigns Psalm 139 to C21: 'Search me — the invited examination.' C21 takes 139:1-2 and 139:23-24 as its witness. The psalm begins with being known completely — 'you perceive my thoughts from afar… there is not a word on my tongue, but… you know it' — and ends asking for it: 'Search me, God, and know my heart. Try me, and know my thoughts. See if there is any wicked way in me.' Interior Diagnosis in its humble form, the examination handed to someone who can see what the self cannot. And at its centre, the Discipline of Unknowing: 'This knowledge is beyond me. It's lofty. I can't attain it.' The 'perfect hatred' of 139:19-22 sits immediately before the request to be searched, and the index reads the request as the psalm's own answer to it.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 141:1-10",
+      "pericope": "Set a watch, Yahweh, before my mouth. Keep the door of my lips",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix assigns Psalm 141 to C04 and C20, 'guarding the mouth and the gate of the heart,' and C20 takes 141:3 as its witness: 'Set a watch, Yahweh, before my mouth. Keep the door of my lips. Don't incline my heart to any evil thing.' Watchfulness asked for as a gift. And a second discipline beside it: 'Let the righteous strike me, it is kindness; let him reprove me, it is like oil on the head; don't let my head refuse it' — correction received as mercy, which is where C04's audit becomes bearable.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 142:1-7",
+      "pericope": "I pour out my complaint before him. I tell him my troubles",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C18"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "Written, the superscription says, in the cave. 'I pour out my complaint before him. I tell him my troubles… there is no one who is concerned for me. Refuge has fled from me. No one cares for my soul.' Sacred Lament described by the one doing it. Then: 'You are my refuge, my portion in the land of the living' — C18's portion, claimed with nothing else left.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 143:1-12",
+      "pericope": "Don't enter into judgment with your servant, for in your sight no man living is righteous",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C09"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The last penitential psalm asks for mercy on the only ground available: 'Don't enter into judgment with your servant, for in your sight no man living is righteous' — the verse Paul echoes in Romans 3:20. A spirit overwhelmed, a soul that 'thirsts for you, like a parched land,' and the morning prayer: 'Cause me to hear your loving kindness in the morning… Teach me to do your will.' C19's door, and C09's thirst.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 145:1-21",
+      "pericope": "His greatness is unsearchable… His tender mercies are over all his works",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C24"
+      ],
+      "practices": [],
+      "connection": "An acrostic of praise 'every day.' 'His greatness is unsearchable' is C24's; 'Yahweh is good to all. His tender mercies are over all his works… Yahweh upholds all who fall, and raises up all those who are bowed down… near to all those who call on him in truth' is C27's mercy with no one left outside it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 146:1-10",
+      "pericope": "Don't put your trust in princes… He upholds the fatherless and widow",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "'Don't put your trust in princes… His spirit departs, and he returns to the earth. In that very day, his thoughts perish.' C18's release from trust in power. And the God who is trustworthy is identified by those he serves: the oppressed, the hungry, the prisoners, the blind, those bowed down, 'the foreigners… the fatherless and widow.' C16's list, in God's own character.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 147:1-20",
+      "pericope": "He heals the broken in heart… He counts the number of the stars",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C24"
+      ],
+      "practices": [],
+      "connection": "Two kinds of greatness side by side: 'He heals the broken in heart, and binds up their wounds. He counts the number of the stars. He calls them all by their names.' The God of the galaxies attending to a wound — C19's healing and C24's wonder in one breath. 'He doesn't delight in the strength of the horse.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 148:1-14",
+      "pericope": "Praise him, sun and moon! Praise him, all you shining stars!",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C24"
+      ],
+      "practices": [],
+      "connection": "Everything summoned to praise in order — angels, sun and moon, sea creatures, hail and snow, fruit trees and cedars, wild animals, kings, young men and maidens, old men and children. C24's landscape, made a choir.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 150:1-6",
+      "pericope": "Let everything that has breath praise Yah!",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C10"
+      ],
+      "practices": [],
+      "connection": "The Psalter ends in praise without argument and without petition: trumpet, harp, tambourine, dance, cymbals, 'Let everything that has breath praise Yah!' The book that has carried every lament to God ends where C10 says the road is going — delight.",
       "confidence": "medium",
       "prior": false
     }

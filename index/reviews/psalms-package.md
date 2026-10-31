@@ -1,16 +1,16 @@
 # Psalms — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — Books I-IV (Psalms 1-106) indexed; Book V pending; awaiting second-pass review. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: complete — all five books; selective in the royal, battle, and imprecatory psalms; see coverage_note; awaiting second-pass review. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
-**Note.** The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39; in Book II, 51 and 63; in Book III, 82 and 84; in Book IV, 90, 92, 100, and 103.
+**Note.** The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39; in Book II, 51 and 63; in Book III, 82 and 84; in Book IV, 90, 92, 100, and 103; in Book V, 112, 119 (four priors, carried in four stanza entries), 127, 128, 131, 133, 139, and 141. Every psalm the appendix's table names is carried. Psalm 119 is indexed by stanza, grouped where consecutive stanzas make one point.
 
 **Genre note.** The Psalms are prayer, not instruction, and they are indexed as prayer. A psalm that brings grief or complaint honestly before God enacts Sacred Lament, and is marked exemplifies; PR08 is tagged where the lament is the psalm's centre, not wherever a complaint appears, so that the count reflects anchors rather than mentions. The imprecations — prayers for the confusion or destruction of enemies — are not softened and are not tagged as models: where they bear on a practice the index says so (35:1-28, 41:4-13), and otherwise they are read as what they are, the honest voicing of rage to God rather than its enactment against a neighbour, which the curriculum's own account of lament permits. Superscriptions are included in the verse text as the WEB numbers them and are not separately interpreted. Royal and battle psalms are indexed only where they anchor something beyond the king's victory. The enthronement psalms of Book IV (93, 96-99) are gathered into a single cluster, since they make one claim in five hymns.
 
-**Prediction note.** The indexing order said Psalms would settle Sacred Lament permanently, and C09 with it. In Book I, PR08 is tagged on six psalms (6, 10, 13, 22, 30, 38); the rest of the index carries thirty-two, a third of them added today in Genesis, Deuteronomy, and Ecclesiastes. In Book II it is tagged on five more (42-43, 44, 55, 62, 69), and Psalm 62:8 — 'pour out your heart before him' — is the first passage in the index to prescribe the practice in so many words rather than enact it. C09 is reached by Psalms 5, 17, 42-43, 57, 61, and the appendix's own 63; its other named psalm, 84, falls in Book III.
+**Prediction note.** The indexing order said Psalms would settle Sacred Lament permanently, and C09 with it. Across the five books PR08 is tagged on 23 psalms or stanzas, against thirty-two anchors in the whole of the rest of the index; Psalm 62:8 ('pour out your heart before him') prescribes the practice outright, Psalm 102's superscription defines it, and Psalm 88 shows it with no resolution at all. C09 is reached 14 times, with both of the appendix's C09 psalms (63, 84) carried as priors. Whether that settles either is for the reviewer; the drafter wrote the forecast. Unforecast: the Psalter also gives the index its clearest internal tension, at Psalm 119:136 and 119:158, where the same poet weeps over and then loathes the same people, and both are recorded.
 
-**Coverage note.** Book I, unindexed: Psalm 21, a royal thanksgiving whose second half celebrates the destruction of the king's enemies' descendants, and the battle portion of Psalm 18 (18:37-50). Book II, unindexed: Psalm 45, a royal wedding song (whose 45:4 — the king riding 'on behalf of truth, humility, and righteousness' — comes close to the three pillars without being their source); Psalms 47 and 48, Zion and kingship hymns; Psalm 53, which repeats Psalm 14, and Psalm 70, which repeats 40:13-17; Psalm 54, a brief petition with nothing not anchored elsewhere; Psalms 58 and 59, imprecations against corrupt judges and besiegers, the first ending with the righteous washing their feet in the blood of the wicked, which the index will not tag as a model and has no other reason to tag; Psalm 60, a national oracle after defeat; Psalm 64, a complaint against conspirators; and the battle imagery of Psalm 68 outside 68:4-10. Book III, unindexed: Psalm 76, a victory hymn, and Psalm 83, a national imprecation against a coalition of enemies.
+**Coverage note.** Book I, unindexed: Psalm 21, a royal thanksgiving whose second half celebrates the destruction of the king's enemies' descendants, and the battle portion of Psalm 18 (18:37-50). Book II, unindexed: Psalm 45, a royal wedding song (whose 45:4 — the king riding 'on behalf of truth, humility, and righteousness' — comes close to the three pillars without being their source); Psalms 47 and 48, Zion and kingship hymns; Psalm 53, which repeats Psalm 14, and Psalm 70, which repeats 40:13-17; Psalm 54, a brief petition with nothing not anchored elsewhere; Psalms 58 and 59, imprecations against corrupt judges and besiegers, the first ending with the righteous washing their feet in the blood of the wicked, which the index will not tag as a model and has no other reason to tag; Psalm 60, a national oracle after defeat; Psalm 64, a complaint against conspirators; and the battle imagery of Psalm 68 outside 68:4-10. Book III, unindexed: Psalm 76, a victory hymn, and Psalm 83, a national imprecation against a coalition of enemies. Book V, unindexed: Psalm 108, a composite of 57 and 60; Psalm 109, the harshest imprecation in the Psalter, whose 109:4 — 'In return for my love, they are my adversaries; but I am in prayer' — is the one line in it the index would anchor and cannot without carrying the curses of 109:6-19 with it; Psalm 110, a royal oracle, the most-quoted psalm in the New Testament and a Christological text rather than a formation one; Psalms 124, 125, 129, 132, 135 (which repeats 115:4-8), 140, and 144, which add nothing not anchored elsewhere or end in imprecation; Psalm 149, which places a two-edged sword in the hands of the saints to bind the kings of the nations; and Psalm 137:7-9, the blessing on whoever dashes Babylon's infants against the rock. The last is the verse most often cited against the Psalter. The index does not soften it or allegorise it, and does not let it disappear: it is the cry of people whose own children were killed, preserved in scripture as what grief can become, and the entry at 137:1-6 stops before it so that no formation tag is asserted over it.
 
 ---
 
@@ -2433,6 +2433,1020 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** A confession that begins in the present tense — 'We have sinned with our fathers' — and retells the wilderness as a history of forgetting. One verse names a judgment that operates from within: 'He gave them their request, but sent leanness into their soul.' Getting what one craves and being emptied by it is C21's diagnosis. Moses 'stood before him in the breach,' and the ending is C19's: 'Nevertheless he regarded their distress, when he heard their cry.' The psalm's complaint that the people did not destroy the nations (106:34) is part of the confession's argument and is not what the entry anchors.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S5 · chapters: C21, C19 · practices: none · confidence: medium
+
+---
+
+## 92. Psalm 107:1-43 — Then they cried to Yahweh in their trouble, and he delivered them
+
+> **107:1** Give thanks to Yahweh, for he is good, for his loving kindness endures forever.
+> **107:2** Let the redeemed by Yahweh say so, whom he has redeemed from the hand of the adversary,
+> **107:3** And gathered out of the lands, from the east and from the west, from the north and from the south.
+> **107:4** They wandered in the wilderness in a desert way. They found no city to live in.
+> **107:5** Hungry and thirsty, their soul fainted in them.
+> **107:6** Then they cried to Yahweh in their trouble, and he delivered them out of their distresses,
+> **107:7** he led them also by a straight way, that they might go to a city to live in.
+> **107:8** Let them praise Yahweh for his loving kindness, for his wonderful works to the children of men!
+> **107:9** For he satisfies the longing soul. He fills the hungry soul with good.
+> **107:10** Some sat in darkness and in the shadow of death, being bound in affliction and iron,
+> **107:11** because they rebelled against the words of God, and condemned the counsel of the Most High.
+> **107:12** Therefore he brought down their heart with labor. They fell down, and there was none to help.
+> **107:13** Then they cried to Yahweh in their trouble, and he saved them out of their distresses.
+> **107:14** He brought them out of darkness and the shadow of death, and broke their bonds in sunder.
+> **107:15** Let them praise Yahweh for his loving kindness, for his wonderful works to the children of men!
+> **107:16** For he has broken the gates of brass, and cut through bars of iron.
+> **107:17** Fools are afflicted because of their disobedience, and because of their iniquities.
+> **107:18** Their soul abhors all kinds of food. They draw near to the gates of death.
+> **107:19** Then they cry to Yahweh in their trouble, he saves them out of their distresses.
+> **107:20** He sends his word, and heals them, and delivers them from their graves.
+> **107:21** Let them praise Yahweh for his loving kindness, for his wonderful works to the children of men!
+> **107:22** Let them offer the sacrifices of thanksgiving, and declare his works with singing.
+> **107:23** Those who go down to the sea in ships, who do business in great waters;
+> **107:24** These see Yahweh’s works, and his wonders in the deep.
+> **107:25** For he commands, and raises the stormy wind, which lifts up its waves.
+> **107:26** They mount up to the sky; they go down again to the depths. Their soul melts away because of trouble.
+> **107:27** They reel back and forth, and stagger like a drunken man, and are at their wits’ end.
+> **107:28** Then they cry to Yahweh in their trouble, and he brings them out of their distress.
+> **107:29** He makes the storm a calm, so that its waves are still.
+> **107:30** Then they are glad because it is calm, so he brings them to their desired haven.
+> **107:31** Let them praise Yahweh for his loving kindness, for his wonderful works for the children of men!
+> **107:32** Let them exalt him also in the assembly of the people, and praise him in the seat of the elders.
+> **107:33** He turns rivers into a desert, water springs into a thirsty ground,
+> **107:34** and a fruitful land into a salt waste, for the wickedness of those who dwell in it.
+> **107:35** He turns a desert into a pool of water, and a dry land into water springs.
+> **107:36** There he makes the hungry live, that they may prepare a city to live in,
+> **107:37** sow fields, plant vineyards, and reap the fruits of increase.
+> **107:38** He blesses them also, so that they are multiplied greatly. He doesn’t allow their livestock to decrease.
+> **107:39** Again, they are diminished and bowed down through oppression, trouble, and sorrow.
+> **107:40** He pours contempt on princes, and causes them to wander in a trackless waste.
+> **107:41** Yet he lifts the needy out of their affliction, and increases their families like a flock.
+> **107:42** The upright will see it, and be glad. All the wicked will shut their mouths.
+> **107:43** Whoever is wise will pay attention to these things. They will consider the loving kindnesses of Yahweh.
+
+**Claim.** Four portraits of distress — wanderers with no city, prisoners in iron 'because they rebelled,' fools sick from their own iniquity, sailors at their wits' end — and four times the same sentence: 'Then they cried to Yahweh in their trouble, and he delivered them.' Some of the trouble is self-inflicted and the door opens anyway, which is C19's. 'Whoever is wise will pay attention to these things' is C02's.
+
+**Tags.** pillars: mercy, truth · stages: S1, S5 · chapters: C19, C02 · practices: none · confidence: high
+
+---
+
+## 93. Psalm 111:1-10 — The fear of Yahweh is the beginning of wisdom
+
+> **111:1** Praise Yah! I will give thanks to Yahweh with my whole heart, in the council of the upright, and in the congregation.
+> **111:2** Yahweh’s works are great, pondered by all those who delight in them.
+> **111:3** His work is honor and majesty. His righteousness endures forever.
+> **111:4** He has caused his wonderful works to be remembered. Yahweh is gracious and merciful.
+> **111:5** He has given food to those who fear him. He always remembers his covenant.
+> **111:6** He has shown his people the power of his works, in giving them the heritage of the nations.
+> **111:7** The works of his hands are truth and justice. All his precepts are sure.
+> **111:8** They are established forever and ever. They are done in truth and uprightness.
+> **111:9** He has sent redemption to his people. He has ordained his covenant forever. His name is holy and awesome!
+> **111:10** The fear of Yahweh is the beginning of wisdom. All those who do his work have a good understanding. His praise endures forever!
+
+**Claim.** An acrostic hymn whose last line is the entrance requirement C02 takes from Proverbs 1:7: 'The fear of Yahweh is the beginning of wisdom.' God's works are 'pondered by all those who delight in them' — study as delight, which is C24's.
+
+**Tags.** pillars: truth, humility · stages: S1, S6 · chapters: C02, C24 · practices: none · confidence: medium
+
+---
+
+## 94. Psalm 112:1-10 — Light dawns in the darkness for the upright… He has dispersed, he has given to the poor
+
+> **112:1** Praise Yah! Blessed is the man who fears Yahweh, who delights greatly in his commandments.
+> **112:2** His seed will be mighty in the land. The generation of the upright will be blessed.
+> **112:3** Wealth and riches are in his house. His righteousness endures forever.
+> **112:4** Light dawns in the darkness for the upright, gracious, merciful, and righteous.
+> **112:5** It is well with the man who deals graciously and lends. He will maintain his cause in judgment.
+> **112:6** For he will never be shaken. The righteous will be remembered forever.
+> **112:7** He will not be afraid of evil news. His heart is steadfast, trusting in Yahweh.
+> **112:8** His heart is established. He will not be afraid in the end when he sees his adversaries.
+> **112:9** He has dispersed, he has given to the poor. His righteousness endures forever. His horn will be exalted with honor.
+> **112:10** The wicked will see it, and be grieved. He shall gnash with his teeth, and melt away. The desire of the wicked will perish.
+
+**Claim.** The Scriptural Appendix assigns Psalm 112 to C14, and C14 takes 112:4 as its witness for the harder seasons: 'Light dawns in the darkness for the upright, gracious, merciful, and righteous' — within the darkness, not instead of it. The portrait of the upright man is a portrait of habitual generosity: he 'deals graciously and lends,' and 'he has dispersed, he has given to the poor' — the verse Paul quotes in 2 Corinthians 9:9 of the collection for Jerusalem. Habitual Almsgiving as the shape of a household.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S4 · chapters: C14 · practices: PR05 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 95. Psalm 113:1-9 — He raises up the poor out of the dust… that he may set him with princes
+
+> **113:1** Praise Yah! Praise, you servants of Yahweh, praise the name of Yahweh.
+> **113:2** Blessed be the name of Yahweh, from this time forth and forevermore.
+> **113:3** From the rising of the sun to the going down of the same, Yahweh’s name is to be praised.
+> **113:4** Yahweh is high above all nations, his glory above the heavens.
+> **113:5** Who is like Yahweh, our God, who has his seat on high,
+> **113:6** Who stoops down to see in heaven and in the earth?
+> **113:7** He raises up the poor out of the dust. Lifts up the needy from the ash heap;
+> **113:8** that he may set him with princes, even with the princes of his people.
+> **113:9** He settles the barren woman in her home, as a joyful mother of children. Praise Yah!
+
+**Claim.** The God enthroned on high 'stoops down to see,' and what he sees is the poor in the dust and the needy on the ash heap, whom he sets with princes, and the barren woman, whom he settles as a joyful mother. C16's why-the-vulnerable-specifically, as the character of God. PR25 is not tagged: the reversal is God's, and the practice is giving up one's own seat in a gathering, the distinction that has drawn PR25 in error before.
+
+**Tags.** pillars: mercy, humility · stages: S4 · chapters: C16 · practices: none · confidence: medium
+
+---
+
+## 96. Psalm 115:1-18 — Not to us, Yahweh, not to us… Those who make them will be like them
+
+> **115:1** Not to us, Yahweh, not to us, but to your name give glory, for your loving kindness, and for your truth’s sake.
+> **115:2** Why should the nations say, “Where is their God, now?”
+> **115:3** But our God is in the heavens. He does whatever he pleases.
+> **115:4** Their idols are silver and gold, the work of men’s hands.
+> **115:5** They have mouths, but they don’t speak. They have eyes, but they don’t see.
+> **115:6** They have ears, but they don’t hear. They have noses, but they don’t smell.
+> **115:7** They have hands, but they don’t feel. They have feet, but they don’t walk, neither do they speak through their throat.
+> **115:8** Those who make them will be like them; yes, everyone who trusts in them.
+> **115:9** Israel, trust in Yahweh! He is their help and their shield.
+> **115:10** House of Aaron, trust in Yahweh! He is their help and their shield.
+> **115:11** You who fear Yahweh, trust in Yahweh! He is their help and their shield.
+> **115:12** Yahweh remembers us. He will bless us. He will bless the house of Israel. He will bless the house of Aaron.
+> **115:13** He will bless those who fear Yahweh, both small and great.
+> **115:14** May Yahweh increase you more and more, you and your children.
+> **115:15** Blessed are you by Yahweh, who made heaven and earth.
+> **115:16** The heavens are the heavens of Yahweh; but the earth has he given to the children of men.
+> **115:17** The dead don’t praise Yah, neither any who go down into silence;
+> **115:18** But we will bless Yah, from this time forth and forevermore. Praise Yah!
+
+**Claim.** 'Not to us, Yahweh, not to us, but to your name give glory' — the refusal of credit that is the hidden life's, C23's. Then the idols: mouths that do not speak, eyes that do not see — 'Those who make them will be like them; yes, everyone who trusts in them.' C26's mechanism stated in reverse: we are transformed into what we behold, and those who behold what cannot see become unseeing. Psalm 135:15-18 repeats the passage and is not separately indexed.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S6 · chapters: C23, C26 · practices: none · confidence: high
+
+---
+
+## 97. Psalm 116:1-19 — Return to your rest, my soul… What will I give to Yahweh for all his benefits?
+
+> **116:1** I love Yahweh, because he listens to my voice, and my cries for mercy.
+> **116:2** Because he has turned his ear to me, therefore I will call on him as long as I live.
+> **116:3** The cords of death surrounded me, the pains of Sheol got a hold of me. I found trouble and sorrow.
+> **116:4** Then I called on the name of Yahweh: “Yahweh, I beg you, deliver my soul.”
+> **116:5** Yahweh is Gracious and righteous. Yes, our God is merciful.
+> **116:6** Yahweh preserves the simple. I was brought low, and he saved me.
+> **116:7** Return to your rest, my soul, for Yahweh has dealt bountifully with you.
+> **116:8** For you have delivered my soul from death, my eyes from tears, and my feet from falling.
+> **116:9** I will walk before Yahweh in the land of the living.
+> **116:10** I believed, therefore I said, “I was greatly afflicted.”
+> **116:11** I said in my haste, “All men are liars.”
+> **116:12** What will I give to Yahweh for all his benefits toward me?
+> **116:13** I will take the cup of salvation, and call on the name of Yahweh.
+> **116:14** I will pay my vows to Yahweh, yes, in the presence of all his people.
+> **116:15** Precious in the sight of Yahweh is the death of his saints.
+> **116:16** Yahweh, truly I am your servant. I am your servant, the son of your handmaid. You have freed me from my chains.
+> **116:17** I will offer to you the sacrifice of thanksgiving, and will call on the name of Yahweh.
+> **116:18** I will pay my vows to Yahweh, yes, in the presence of all his people,
+> **116:19** in the courts of Yahweh’s house, in the midst of you, Jerusalem. Praise Yah!
+
+**Claim.** Rescued from 'the cords of death,' the psalmist speaks to his own soul — 'Return to your rest, my soul' — and records an honest lapse: 'I said in my haste, All men are liars.' Then the question that gratitude asks: 'What will I give to Yahweh for all his benefits toward me?' C22's quieted soul, and C10's thanksgiving, paid as vows 'in the presence of all his people.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S3, S5 · chapters: C22, C10 · practices: none · confidence: medium
+
+---
+
+## 98. Psalm 117:1-2 — Praise Yahweh, all you nations!
+
+> **117:1** Praise Yahweh, all you nations! Extol him, all you peoples!
+> **117:2** For his loving kindness is great toward us. Yahweh’s faithfulness endures forever. Praise Yah!
+
+**Claim.** The shortest psalm, and its scope is the widest: 'Praise Yahweh, all you nations! Extol him, all you peoples!' C27's circle, in two verses.
+
+**Tags.** pillars: mercy · stages: S7 · chapters: C27 · practices: none · confidence: medium
+
+---
+
+## 99. Psalm 118:1-29 — This is the day that Yahweh has made. We will rejoice and be glad in it!
+
+> **118:1** Give thanks to Yahweh, for he is good, for his loving kindness endures forever.
+> **118:2** Let Israel now say that his loving kindness endures forever.
+> **118:3** Let the house of Aaron now say that his loving kindness endures forever.
+> **118:4** Now let those who fear Yahweh say that his loving kindness endures forever.
+> **118:5** Out of my distress, I called on Yah. Yah answered me with freedom.
+> **118:6** Yahweh is on my side. I will not be afraid. What can man do to me?
+> **118:7** Yahweh is on my side among those who help me. Therefore I will look in triumph at those who hate me.
+> **118:8** It is better to take refuge in Yahweh, than to put confidence in man.
+> **118:9** It is better to take refuge in Yahweh, than to put confidence in princes.
+> **118:10** All the nations surrounded me, but in the name of Yahweh, I cut them off.
+> **118:11** They surrounded me, yes, they surrounded me. In the name of Yahweh I indeed cut them off.
+> **118:12** They surrounded me like bees. They are quenched like the burning thorns. In the name of Yahweh I cut them off.
+> **118:13** You pushed me back hard, to make me fall, but Yahweh helped me.
+> **118:14** Yah is my strength and song. He has become my salvation.
+> **118:15** The voice of rejoicing and salvation is in the tents of the righteous. “The right hand of Yahweh does valiantly.
+> **118:16** The right hand of Yahweh is exalted! The right hand of Yahweh does valiantly!”
+> **118:17** I will not die, but live, and declare Yah’s works.
+> **118:18** Yah has punished me severely, but he has not given me over to death.
+> **118:19** Open to me the gates of righteousness. I will enter into them. I will give thanks to Yah.
+> **118:20** This is the gate of Yahweh; the righteous will enter into it.
+> **118:21** I will give thanks to you, for you have answered me, and have become my salvation.
+> **118:22** The stone which the builders rejected has become the head of the corner.
+> **118:23** This is Yahweh’s doing. It is marvelous in our eyes.
+> **118:24** This is the day that Yahweh has made. We will rejoice and be glad in it!
+> **118:25** Save us now, we beg you, Yahweh! Yahweh, we beg you, send prosperity now.
+> **118:26** Blessed is he who comes in the name of Yahweh! We have blessed you out of the house of Yahweh.
+> **118:27** Yahweh is God, and he has given us light. Bind the sacrifice with cords, even to the horns of the altar.
+> **118:28** You are my God, and I will give thanks to you. You are my God, I will exalt you.
+> **118:29** Oh give thanks to Yahweh, for he is good, for his loving kindness endures forever.
+
+**Claim.** 'It is better to take refuge in Yahweh, than to put confidence in man… than to put confidence in princes' — C18's misplaced trust named twice. 'Yah has punished me severely, but he has not given me over to death.' And the line that makes a single day the unit of joy: 'This is the day that Yahweh has made. We will rejoice and be glad in it!' C28's day, received rather than managed. The rejected stone become the cornerstone (118:22) is quoted of Christ in all three Synoptics and in 1 Peter 2.
+
+**Tags.** pillars: humility, mercy · stages: S4, S7 · chapters: C28, C18 · practices: none · confidence: high
+
+---
+
+## 100. Psalm 119:1-8 — Blessed are those whose ways are blameless, who walk according to Yahweh's law
+
+> **119:1** ALEPH Blessed are those whose ways are blameless, who walk according to Yahweh’s law.
+> **119:2** Blessed are those who keep his statutes, who seek him with their whole heart.
+> **119:3** Yes, they do nothing wrong. They walk in his ways.
+> **119:4** You have commanded your precepts, that we should fully obey them.
+> **119:5** Oh that my ways were steadfast to obey your statutes!
+> **119:6** Then I wouldn’t be disappointed, when I consider all of your commandments.
+> **119:7** I will give thanks to you with uprightness of heart, when I learn your righteous judgments.
+> **119:8** I will observe your statutes. Don’t utterly forsake me. BET
+
+**Claim.** The Scriptural Appendix assigns 119:1-2 to C12: walking in truth. The longest psalm opens with a blessing on those who walk in the law and 'seek him with their whole heart,' and then a confession of the gap: 'Oh that my ways were steadfast to obey your statutes!' The walk is the proof, and the psalmist knows he has not yet walked it.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S3 · chapters: C12 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 101. Psalm 119:9-16 — I have hidden your word in my heart, that I might not sin against you
+
+> **119:9** How can a young man keep his way pure? By living according to your word.
+> **119:10** With my whole heart, I have sought you. Don’t let me wander from your commandments.
+> **119:11** I have hidden your word in my heart, that I might not sin against you.
+> **119:12** Blessed are you, Yahweh. Teach me your statutes.
+> **119:13** With my lips, I have declared all the ordinances of your mouth.
+> **119:14** I have rejoiced in the way of your testimonies, as much as in all riches.
+> **119:15** I will meditate on your precepts, and consider your ways.
+> **119:16** I will delight myself in your statutes. I will not forget your word. GIMEL
+
+**Claim.** 'How can a young man keep his way pure? By living according to your word… I have hidden your word in my heart, that I might not sin against you.' The guard is set before the temptation arrives, by what has been stored inside — the forward provision C20 makes against the movements it watches for.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S5 · chapters: C20 · practices: none · confidence: medium
+
+---
+
+## 102. Psalm 119:17-24 — Open my eyes, that I may see wondrous things out of your law. I am a stranger on the earth
+
+> **119:17** Do good to your servant. I will live and I will obey your word.
+> **119:18** Open my eyes, that I may see wondrous things out of your law.
+> **119:19** I am a stranger on the earth. Don’t hide your commandments from me.
+> **119:20** My soul is consumed with longing for your ordinances at all times.
+> **119:21** You have rebuked the proud who are cursed, who wander from your commandments.
+> **119:22** Take reproach and contempt away from me, for I have kept your statutes.
+> **119:23** Though princes sit and slander me, your servant will meditate on your statutes.
+> **119:24** Indeed your statutes are my delight, and my counselors. DALED
+
+**Claim.** Two priors in two consecutive verses. The Scriptural Appendix assigns 119:18 to C06 — 'Open my eyes, that I may see wondrous things out of your law,' the prayer of the whole second stage — and 119:19 to C17 — 'I am a stranger on the earth. Don't hide your commandments from me,' which C17 takes as its witness. Sight asked for rather than assumed, by someone who knows he is not at home. 'Though princes sit and slander me, your servant will meditate on your statutes.'
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S2, S4 · chapters: C06, C17 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 103. Psalm 119:25-32 — I run in the path of your commandments, for you have set my heart free
+
+> **119:25** My soul is laid low in the dust. Revive me according to your word!
+> **119:26** I declared my ways, and you answered me. Teach me your statutes.
+> **119:27** Let me understand the teaching of your precepts! Then I will meditate on your wondrous works.
+> **119:28** My soul is weary with sorrow: strengthen me according to your word.
+> **119:29** Keep me from the way of deceit. Grant me your law graciously!
+> **119:30** I have chosen the way of truth. I have set your ordinances before me.
+> **119:31** I cling to your statutes, Yahweh. Don’t let me be disappointed.
+> **119:32** I run in the path of your commandments, for you have set my heart free. HEY
+
+**Claim.** 'My soul is laid low in the dust… My soul is weary with sorrow.' Then an account given — 'I declared my ways, and you answered me' — and a change in the experience of obedience: 'I run in the path of your commandments, for you have set my heart free.' C19's revival from the dust, and C10's movement from duty to delight: the same path, run instead of trudged.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S3, S5 · chapters: C19, C10 · practices: none · confidence: medium
+
+---
+
+## 104. Psalm 119:33-40 — Turn my heart toward your statutes, not toward selfish gain. Turn my eyes away from looking at worthless things
+
+> **119:33** Teach me, Yahweh, the way of your statutes. I will keep them to the end.
+> **119:34** Give me understanding, and I will keep your law. Yes, I will obey it with my whole heart.
+> **119:35** Direct me in the path of your commandments, for I delight in them.
+> **119:36** Turn my heart toward your statutes, not toward selfish gain.
+> **119:37** Turn my eyes away from looking at worthless things. Revive me in your ways.
+> **119:38** Fulfill your promise to your servant, that you may be feared.
+> **119:39** Take away my disgrace that I dread, for your ordinances are good.
+> **119:40** Behold, I long for your precepts! Revive me in your righteousness. WAW
+
+**Claim.** Two turnings asked for, of the heart and of the eyes: 'Turn my heart toward your statutes, not toward selfish gain. Turn my eyes away from looking at worthless things.' C07's cleansing of the lens and C18's release from gain, both requested rather than achieved — the psalmist does not trust himself to make the turn unaided.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S2, S4 · chapters: C07, C18 · practices: none · confidence: high
+
+---
+
+## 105. Psalm 119:41-56 — Your statutes have been my songs, in the house where I live
+
+> **119:41** Let your loving kindness also come to me, Yahweh, your salvation, according to your word.
+> **119:42** So I will have an answer for him who reproaches me, for I trust in your word.
+> **119:43** Don’t snatch the word of truth out of my mouth, for I put my hope in your ordinances.
+> **119:44** So I will obey your law continually, forever and ever.
+> **119:45** I will walk in liberty, for I have sought your precepts.
+> **119:46** I will also speak of your statutes before kings, and will not be disappointed.
+> **119:47** I will delight myself in your commandments, because I love them.
+> **119:48** I reach out my hands for your commandments, which I love. I will meditate on your statutes. ZAYIN
+> **119:49** Remember your word to your servant, because you gave me hope.
+> **119:50** This is my comfort in my affliction, for your word has revived me.
+> **119:51** The arrogant mock me excessively, but I don’t swerve from your law.
+> **119:52** I remember your ordinances of old, Yahweh, and have comforted myself.
+> **119:53** Indignation has taken hold on me, because of the wicked who forsake your law.
+> **119:54** Your statutes have been my songs, in the house where I live.
+> **119:55** I have remembered your name, Yahweh, in the night, and I obey your law.
+> **119:56** This is my way, that I keep your precepts. CHET
+
+**Claim.** Two stanzas of a man under mockery who will 'speak of your statutes before kings' and 'walk in liberty.' 'This is my comfort in my affliction… Your statutes have been my songs, in the house where I live' — the house of his sojourning, the same word as 119:19's stranger. 'I have remembered your name, Yahweh, in the night.' C17's citizen-stranger singing in a borrowed house, and C09's night prayer.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S3, S4 · chapters: C17, C09 · practices: none · confidence: medium
+
+---
+
+## 106. Psalm 119:57-64 — I considered my ways, and turned my steps to your statutes. I will hurry, and not delay
+
+> **119:57** Yahweh is my portion. I promised to obey your words.
+> **119:58** I sought your favor with my whole heart. Be merciful to me according to your word.
+> **119:59** I considered my ways, and turned my steps to your statutes.
+> **119:60** I will hurry, and not delay, to obey your commandments.
+> **119:61** The ropes of the wicked bind me, but I won’t forget your law.
+> **119:62** At midnight I will rise to give thanks to you, because of your righteous ordinances.
+> **119:63** I am a friend of all those who fear you, of those who observe your precepts.
+> **119:64** The earth is full of your loving kindness, Yahweh. Teach me your statutes. TET
+
+**Claim.** 'Yahweh is my portion' — C18's. And the shortest description of repentance in the Psalter: 'I considered my ways, and turned my steps to your statutes. I will hurry, and not delay, to obey your commandments.' The Failure Recovery Protocol says return the same day, at the next available moment, with no ceremony; this is that rule, kept by a man who examined his ways and did not wait. 'At midnight I will rise to give thanks to you.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4, S5 · chapters: C19, C18 · practices: PR11 · confidence: high
+
+---
+
+## 107. Psalm 119:65-80 — It is good for me that I have been afflicted, that I may learn your statutes
+
+> **119:65** Do good to your servant, according to your word, Yahweh.
+> **119:66** Teach me good judgment and knowledge, for I believe in your commandments.
+> **119:67** Before I was afflicted, I went astray; but now I observe your word.
+> **119:68** You are good, and do good. Teach me your statutes.
+> **119:69** The proud have smeared a lie upon me. With my whole heart, I will keep your precepts.
+> **119:70** Their heart is as callous as the fat, but I delight in your law.
+> **119:71** It is good for me that I have been afflicted, that I may learn your statutes.
+> **119:72** The law of your mouth is better to me than thousands of pieces of gold and silver. YUD
+> **119:73** Your hands have made me and formed me. Give me understanding, that I may learn your commandments.
+> **119:74** Those who fear you will see me and be glad, because I have put my hope in your word.
+> **119:75** Yahweh, I know that your judgments are righteous, that in faithfulness you have afflicted me.
+> **119:76** Please let your loving kindness be for my comfort, according to your word to your servant.
+> **119:77** Let your tender mercies come to me, that I may live; for your law is my delight.
+> **119:78** Let the proud be disappointed, for they have overthrown me wrongfully. I will meditate on your precepts.
+> **119:79** Let those who fear you turn to me. They will know your statutes.
+> **119:80** Let my heart be blameless toward your decrees, that I may not be disappointed. KAF
+
+**Claim.** 'Before I was afflicted, I went astray; but now I observe your word… It is good for me that I have been afflicted, that I may learn your statutes… In faithfulness you have afflicted me.' Affliction read, after the fact, as formation — C25's long road, on which the hard stretches are part of the way rather than detours from it. The comfort asked for in 119:76 is C19's. The index does not read these verses as a claim that all suffering is sent for instruction; the psalmist says it of his own.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S5, S6 · chapters: C25, C19 · practices: none · confidence: high
+
+---
+
+## 108. Psalm 119:81-88 — I have become like a wineskin in the smoke… When will you comfort me?
+
+> **119:81** My soul faints for your salvation. I hope in your word.
+> **119:82** My eyes fail for your word. I say, “When will you comfort me?”
+> **119:83** For I have become like a wineskin in the smoke. I don’t forget your statutes.
+> **119:84** How many are the days of your servant? When will you execute judgment on those who persecute me?
+> **119:85** The proud have dug pits for me, contrary to your law.
+> **119:86** All of your commandments are faithful. They persecute me wrongfully. Help me!
+> **119:87** They had almost wiped me from the earth, but I didn’t forsake your precepts.
+> **119:88** Preserve my life according to your loving kindness, so I will obey the statutes of your mouth. LAMED
+
+**Claim.** 'My soul faints for your salvation… My eyes fail for your word. I say, When will you comfort me? For I have become like a wineskin in the smoke' — dried out, blackened, cracking. 'How many are the days of your servant?' The lament stanza of the long psalm, and its refusal: 'They had almost wiped me from the earth, but I didn't forsake your precepts.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S5 · chapters: C19 · practices: PR08 · confidence: medium
+
+---
+
+## 109. Psalm 119:89-96 — I have seen a limit to all perfection, but your commands are boundless
+
+> **119:89** Yahweh, your word is settled in heaven forever.
+> **119:90** Your faithfulness is to all generations. You have established the earth, and it remains.
+> **119:91** Your laws remain to this day, for all things serve you.
+> **119:92** Unless your law had been my delight, I would have perished in my affliction.
+> **119:93** I will never forget your precepts, for with them, you have revived me.
+> **119:94** I am yours. Save me, for I have sought your precepts.
+> **119:95** The wicked have waited for me, to destroy me. I will consider your statutes.
+> **119:96** I have seen a limit to all perfection, but your commands are boundless. MEM
+
+**Claim.** The word settled in heaven, a faithfulness 'to all generations,' and one line on the limits of everything else: 'I have seen a limit to all perfection, but your commands are boundless.' C24's measure — every human achievement has an edge, and what the psalmist loves has none. 'Unless your law had been my delight, I would have perished in my affliction' is C10's.
+
+**Tags.** pillars: humility, truth · stages: S3, S6 · chapters: C24, C10 · practices: none · confidence: medium
+
+---
+
+## 110. Psalm 119:97-104 — Through your precepts, I get understanding; therefore I hate every false way
+
+> **119:97** How I love your law! It is my meditation all day.
+> **119:98** Your commandments make me wiser than my enemies, for your commandments are always with me.
+> **119:99** I have more understanding than all my teachers, for your testimonies are my meditation.
+> **119:100** I understand more than the aged, because I have kept your precepts.
+> **119:101** I have kept my feet from every evil way, that I might observe your word.
+> **119:102** I have not turned aside from your ordinances, for you have taught me.
+> **119:103** How sweet are your promises to my taste, more than honey to my mouth!
+> **119:104** Through your precepts, I get understanding; therefore I hate every false way. NUN
+
+**Claim.** 'How I love your law! It is my meditation all day.' Wisdom beyond his enemies, his teachers, and the aged, because of what he keeps rather than what he knows — C02's skill of living. The Scriptural Appendix assigns 119:104-105 to C08, 'understanding before discernment': 'Through your precepts, I get understanding; therefore I hate every false way.' Discernment as the fruit of obedience, not its precondition.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S1, S2 · chapters: C02, C08 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 111. Psalm 119:105-112 — Your word is a lamp to my feet, and a light for my path
+
+> **119:105** Your word is a lamp to my feet, and a light for my path.
+> **119:106** I have sworn, and have confirmed it, that I will obey your righteous ordinances.
+> **119:107** I am afflicted very much. Revive me, Yahweh, according to your word.
+> **119:108** Accept, I beg you, the willing offerings of my mouth. Yahweh, teach me your ordinances.
+> **119:109** My soul is continually in my hand, yet I won’t forget your law.
+> **119:110** The wicked have laid a snare for me, yet I haven’t gone astray from your precepts.
+> **119:111** I have taken your testimonies as a heritage forever, for they are the joy of my heart.
+> **119:112** I have set my heart to perform your statutes forever, even to the end. SAMEKH
+
+**Claim.** C08 takes 119:105 as the companion of its whole chapter: 'Your word is a lamp to my feet, and a light for my path.' A lamp for the next step, not a floodlight for the whole road. 'My soul is continually in my hand, yet I won't forget your law' — the danger is real, and the lamp is carried through it.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S2 · chapters: C08 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 112. Psalm 119:113-120 — I hate double-minded men… You are my hiding place and my shield
+
+> **119:113** I hate double-minded men, but I love your law.
+> **119:114** You are my hiding place and my shield. I hope in your word.
+> **119:115** Depart from me, you evildoers, that I may keep the commandments of my God.
+> **119:116** Uphold me according to your word, that I may live. Let me not be ashamed of my hope.
+> **119:117** Hold me up, and I will be safe, and will have respect for your statutes continually.
+> **119:118** You reject all those who stray from your statutes, for their deceit is in vain.
+> **119:119** You put away all the wicked of the earth like dross. Therefore I love your testimonies.
+> **119:120** My flesh trembles for fear of you. I am afraid of your judgments. AYIN
+
+**Claim.** 'I hate double-minded men, but I love your law.' The divided heart that C26 opens with, rejected first in others and then implicitly in himself. 'You are my hiding place and my shield' is C09's sheltered place. 'My flesh trembles for fear of you.'
+
+**Tags.** pillars: truth, humility · stages: S3, S6 · chapters: C26, C09 · practices: none · confidence: medium
+
+---
+
+## 113. Psalm 119:121-136 — Streams of tears run down my eyes, because they don't observe your law
+
+> **119:121** I have done what is just and righteous. Don’t leave me to my oppressors.
+> **119:122** Ensure your servant’s well-being. Don’t let the proud oppress me.
+> **119:123** My eyes fail looking for your salvation, for your righteous word.
+> **119:124** Deal with your servant according to your loving kindness. Teach me your statutes.
+> **119:125** I am your servant. Give me understanding, that I may know your testimonies.
+> **119:126** It is time to act, Yahweh, for they break your law.
+> **119:127** Therefore I love your commandments more than gold, yes, more than pure gold.
+> **119:128** Therefore I consider all of your precepts to be right. I hate every false way. PEY
+> **119:129** Your testimonies are wonderful, therefore my soul keeps them.
+> **119:130** The entrance of your words gives light. It gives understanding to the simple.
+> **119:131** I opened my mouth wide and panted, for I longed for your commandments.
+> **119:132** Turn to me, and have mercy on me, as you always do to those who love your name.
+> **119:133** Establish my footsteps in your word. Don’t let any iniquity have dominion over me.
+> **119:134** Redeem me from the oppression of man, so I will observe your precepts.
+> **119:135** Make your face shine on your servant. Teach me your statutes.
+> **119:136** Streams of tears run down my eyes, because they don’t observe your law. TZADI
+
+**Claim.** 'The entrance of your words gives light. It gives understanding to the simple' — light given to those with least claim to it, which is C06's sight. And the stanza ends with grief rather than indignation at others' failure: 'Streams of tears run down my eyes, because they don't observe your law.' Shedding Harshness measures the mature heart by the movement it feels at another's downfall; here the movement is tears. Medium, because the same psalm records the opposite movement at 119:158, and the index records both.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S2, S7 · chapters: C27, C06 · practices: PR15 · confidence: medium
+
+---
+
+## 114. Psalm 119:137-144 — I am small and despised. I don't forget your precepts
+
+> **119:137** You are righteous, Yahweh. Your judgments are upright.
+> **119:138** You have commanded your statutes in righteousness. They are fully trustworthy.
+> **119:139** My zeal wears me out, because my enemies ignore your words.
+> **119:140** Your promises have been thoroughly tested, and your servant loves them.
+> **119:141** I am small and despised. I don’t forget your precepts.
+> **119:142** Your righteousness is an everlasting righteousness. Your law is truth.
+> **119:143** Trouble and anguish have taken hold of me. Your commandments are my delight.
+> **119:144** Your testimonies are righteous forever. Give me understanding, that I may live. KUF
+
+**Claim.** 'My zeal wears me out… I am small and despised. I don't forget your precepts.' Faithfulness from someone who counts for nothing in the eyes of others and keeps going — C23's hidden life in a single line.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, truth · stages: S6 · chapters: C23 · practices: none · confidence: medium
+
+---
+
+## 115. Psalm 119:145-152 — I rise before dawn and cry for help… My eyes stay open through the night watches
+
+> **119:145** I have called with my whole heart. Answer me, Yahweh! I will keep your statutes.
+> **119:146** I have called to you. Save me! I will obey your statutes.
+> **119:147** I rise before dawn and cry for help. I put my hope in your words.
+> **119:148** My eyes stay open through the night watches, that I might meditate on your word.
+> **119:149** Hear my voice according to your loving kindness. Revive me, Yahweh, according to your ordinances.
+> **119:150** They draw near who follow after wickedness. They are far from your law.
+> **119:151** You are near, Yahweh. All your commandments are truth.
+> **119:152** Of old I have known from your testimonies, that you have founded them forever. RESH
+
+**Claim.** 'I rise before dawn and cry for help. I put my hope in your words. My eyes stay open through the night watches, that I might meditate on your word.' Prayer fixed at the edges of the day and the hours of the night, which is C28's rhythm and C09's place. Together with 119:62 (midnight) and 119:164 (seven times a day), these verses are the scriptural root of the monastic hours; PR30's fixed-hour devotion is defined by the Lord's Prayer and is not tagged here.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, truth · stages: S3, S7 · chapters: C28, C09 · practices: none · confidence: medium
+
+---
+
+## 116. Psalm 119:153-160 — I look at the faithless with loathing, because they don't observe your word
+
+> **119:153** Consider my affliction, and deliver me, for I don’t forget your law.
+> **119:154** Plead my cause, and redeem me! Revive me according to your promise.
+> **119:155** Salvation is far from the wicked, for they don’t seek your statutes.
+> **119:156** Great are your tender mercies, Yahweh. Revive me according to your ordinances.
+> **119:157** Many are my persecutors and my adversaries. I haven’t swerved from your testimonies.
+> **119:158** I look at the faithless with loathing, because they don’t observe your word.
+> **119:159** Consider how I love your precepts. Revive me, Yahweh, according to your loving kindness.
+> **119:160** All of your words are truth. Every one of your righteous ordinances endures forever. SIN AND SHIN
+
+**Claim.** Twenty-two verses after weeping over those who do not keep the law (119:136), the psalmist says: 'I look at the faithless with loathing, because they don't observe your word.' The same failure in others, met first with tears and then with loathing. Shedding Harshness is the slow widening of the circle until no one stands outside it; this verse is the circle drawn tight again, recorded honestly in the most devoted poem in scripture. The index keeps both entries so that the psalm's own unevenness is visible.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S7 · chapters: C27 · practices: PR15 · confidence: medium
+
+---
+
+## 117. Psalm 119:161-168 — Seven times a day, I praise you… Those who love your law have great peace
+
+> **119:161** Princes have persecuted me without a cause, but my heart stands in awe of your words.
+> **119:162** I rejoice at your word, as one who finds great spoil.
+> **119:163** I hate and abhor falsehood. I love your law.
+> **119:164** Seven times a day, I praise you, because of your righteous ordinances.
+> **119:165** Those who love your law have great peace. Nothing causes them to stumble.
+> **119:166** I have hoped for your salvation, Yahweh. I have done your commandments.
+> **119:167** My soul has observed your testimonies. I love them exceedingly.
+> **119:168** I have obeyed your precepts and your testimonies, for all my ways are before you. TAV
+
+**Claim.** 'Seven times a day, I praise you, because of your righteous ordinances. Those who love your law have great peace. Nothing causes them to stumble.' Praise by the clock, which is C28's rhythm, and a peace that keeps the feet, which is C22's. 'All my ways are before you' — a life lived without a hidden compartment.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, truth · stages: S5, S7 · chapters: C22, C28 · practices: none · confidence: medium
+
+---
+
+## 118. Psalm 119:169-176 — I have gone astray like a lost sheep. Seek your servant
+
+> **119:169** Let my cry come before you, Yahweh. Give me understanding according to your word.
+> **119:170** Let my supplication come before you. Deliver me according to your word.
+> **119:171** Let my lips utter praise, for you teach me your statutes.
+> **119:172** Let my tongue sing of your word, for all your commandments are righteousness.
+> **119:173** Let your hand be ready to help me, for I have chosen your precepts.
+> **119:174** I have longed for your salvation, Yahweh. Your law is my delight.
+> **119:175** Let my soul live, that I may praise you. Let your ordinances help me.
+> **119:176** I have gone astray like a lost sheep. Seek your servant, for I don’t forget your commandments.
+
+**Claim.** After a hundred and seventy-five verses of love for the law, the psalm ends not with a claim of faithfulness but with a confession: 'I have gone astray like a lost sheep. Seek your servant, for I don't forget your commandments.' The most devoted voice in the Psalter closes as a sheep needing to be found. C19's shepherd, and the parable of Luke 15 in a single verse.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S5 · chapters: C19 · practices: none · confidence: high
+
+---
+
+## 119. Psalm 120:1-7 — I am for peace, but when I speak, they are for war
+
+> **120:1** A Song of Ascents. In my distress, I cried to Yahweh. He answered me.
+> **120:2** Deliver my soul, Yahweh, from lying lips, from a deceitful tongue.
+> **120:3** What will be given to you, and what will be done more to you, you deceitful tongue?
+> **120:4** Sharp arrows of the mighty, with coals of juniper.
+> **120:5** Woe is me, that I live in Meshech, that I dwell among the tents of Kedar!
+> **120:6** My soul has had her dwelling too long with him who hates peace.
+> **120:7** I am for peace, but when I speak, they are for war.
+
+**Claim.** The first Song of Ascents begins in exile among the tents of Kedar, 'too long with him who hates peace. I am for peace, but when I speak, they are for war.' C17's stranger in a hostile land, and C15's peace pursued even where the other party refuses it.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S4 · chapters: C17, C15 · practices: none · confidence: medium
+
+---
+
+## 120. Psalm 121:1-8 — He who keeps you will not slumber
+
+> **121:1** A Song of Ascents. I will lift up my eyes to the hills. Where does my help come from?
+> **121:2** My help comes from Yahweh, who made heaven and earth.
+> **121:3** He will not allow your foot to be moved. He who keeps you will not slumber.
+> **121:4** Behold, he who keeps Israel will neither slumber nor sleep.
+> **121:5** Yahweh is your keeper. Yahweh is your shade on your right hand.
+> **121:6** The sun will not harm you by day, nor the moon by night.
+> **121:7** Yahweh will keep you from all evil. He will keep your soul.
+> **121:8** Yahweh will keep your going out and your coming in, from this time forth, and forevermore.
+
+**Claim.** 'I will lift up my eyes to the hills. Where does my help come from?' Six times the verb keep: a keeper who neither slumbers nor sleeps, who keeps 'your going out and your coming in.' C22's quiet soul resting on a vigilance not its own.
+
+**Tags.** pillars: humility · stages: S5 · chapters: C22 · practices: none · confidence: medium
+
+---
+
+## 121. Psalm 122:1-9 — For my brothers' and companions' sakes, I will now say, Peace be within you
+
+> **122:1** A Song of Ascents. By David. I was glad when they said to me, “Let’s go to Yahweh’s house!”
+> **122:2** Our feet are standing within your gates, Jerusalem;
+> **122:3** Jerusalem, that is built as a city that is compact together;
+> **122:4** where the tribes go up, even Yah’s tribes, according to an ordinance for Israel, to give thanks to the name of Yahweh.
+> **122:5** For there are set thrones for judgment, the thrones of David’s house.
+> **122:6** Pray for the peace of Jerusalem. Those who love you will prosper.
+> **122:7** Peace be within your walls, and prosperity within your palaces.
+> **122:8** For my brothers’ and companions’ sakes, I will now say, “Peace be within you.”
+> **122:9** For the sake of the house of Yahweh our God, I will seek your good.
+
+**Claim.** 'Pray for the peace of Jerusalem.' The pilgrim asks peace for the city 'for my brothers' and companions' sakes… I will seek your good.' C15's peace as a thing sought for others, and C13's community as its occasion.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4 · chapters: C15, C13 · practices: none · confidence: medium
+
+---
+
+## 122. Psalm 123:1-4 — As the eyes of servants look to the hand of their master
+
+> **123:1** A Song of Ascents. To you I do lift up my eyes, you who sit in the heavens.
+> **123:2** Behold, as the eyes of servants look to the hand of their master, as the eyes of a maid to the hand of her mistress; so our eyes look to Yahweh, our God, until he has mercy on us.
+> **123:3** Have mercy on us, Yahweh, have mercy on us, for we have endured much contempt.
+> **123:4** Our soul is exceedingly filled with the scoffing of those who are at ease, with the contempt of the proud.
+
+**Claim.** Attention as prayer: 'as the eyes of servants look to the hand of their master… so our eyes look to Yahweh, our God, until he has mercy on us.' The people are filled with 'the contempt of the proud' and answer it with watchful dependence. C22's relational humility, turned upward.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S5 · chapters: C22 · practices: none · confidence: medium
+
+---
+
+## 123. Psalm 126:1-6 — Those who sow in tears will reap in joy
+
+> **126:1** A Song of Ascents. When Yahweh brought back those who returned to Zion, we were like those who dream.
+> **126:2** Then our mouth was filled with laughter, and our tongue with singing. Then they said among the nations, “Yahweh has done great things for them.”
+> **126:3** Yahweh has done great things for us, and we are glad.
+> **126:4** Restore our fortunes again, Yahweh, like the streams in the Negev.
+> **126:5** Those who sow in tears will reap in joy.
+> **126:6** He who goes out weeping, carrying seed for sowing, will certainly come again with joy, carrying his sheaves.
+
+**Claim.** 'He who goes out weeping, carrying seed for sowing, will certainly come again with joy, carrying his sheaves.' The weeping and the sowing happen together, and the harvest comes later. C25's long view, in which work done in grief is not wasted, and C19's restored fortunes 'like the streams in the Negev.'
+
+**Tags.** pillars: mercy, humility · stages: S5, S6 · chapters: C25, C19 · practices: none · confidence: high
+
+---
+
+## 124. Psalm 127:1-5 — Unless Yahweh builds the house, they labor in vain who build it
+
+> **127:1** A Song of Ascents. By Solomon. Unless Yahweh builds the house, they labor in vain who build it. Unless Yahweh watches over the city, the watchman guards it in vain.
+> **127:2** It is vain for you to rise up early, to stay up late, eating the bread of toil; for he gives sleep to his loved ones.
+> **127:3** Behold, children are a heritage of Yahweh. The fruit of the womb is his reward.
+> **127:4** As arrows in the hand of a mighty man, so are the children of youth.
+> **127:5** Happy is the man who has his quiver full of them. They won’t be disappointed when they speak with their enemies in the gate.
+
+**Claim.** The Scriptural Appendix assigns Psalm 127 to C26: unless Yahweh builds the house. The temple of light is not self-constructed. 'It is vain for you to rise up early, to stay up late, eating the bread of toil; for he gives sleep to his loved ones' — C18's freedom from the anxious labour that thinks everything depends on it.
+
+**Tags.** pillars: humility · stages: S4, S6 · chapters: C26, C18 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 125. Psalm 128:1-6 — Your children like olive plants, around your table
+
+> **128:1** A Song of Ascents. Blessed is everyone who fears Yahweh, who walks in his ways.
+> **128:2** For you will eat the labor of your hands. You will be happy, and it will be well with you.
+> **128:3** Your wife will be as a fruitful vine, in the innermost parts of your house; your children like olive plants, around your table.
+> **128:4** Behold, thus is the man blessed who fears Yahweh.
+> **128:5** May Yahweh bless you out of Zion, and may you see the good of Jerusalem all the days of your life.
+> **128:6** Yes, may you see your children’s children. Peace be upon Israel.
+
+**Claim.** The Scriptural Appendix assigns Psalm 128 to C14, and C14 takes 128:1-2 as its witness: a quiet domestic psalm — honest work, a table, children around it, the household in order. 'You will eat the labor of your hands. You will be happy.'
+
+**Tags.** pillars: mercy, truth · stages: S4 · chapters: C14 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 126. Psalm 130:1-8 — If you, Yah, kept a record of sins, Lord, who could stand? But there is forgiveness with you
+
+> **130:1** A Song of Ascents. Out of the depths I have cried to you, Yahweh.
+> **130:2** Lord, hear my voice. Let your ears be attentive to the voice of my petitions.
+> **130:3** If you, Yah, kept a record of sins, Lord, who could stand?
+> **130:4** But there is forgiveness with you, therefore you are feared.
+> **130:5** I wait for Yahweh. My soul waits. I hope in his word.
+> **130:6** My soul longs for the Lord more than watchmen long for the morning; more than watchmen for the morning.
+> **130:7** Israel, hope in Yahweh, for with Yahweh there is loving kindness. With him is abundant redemption.
+> **130:8** He will redeem Israel from all their sins.
+
+**Claim.** 'Out of the depths I have cried to you.' The penitential psalm turns on a question that has no answer from the human side — 'If you, Yah, kept a record of sins, who could stand?' — and an answer from God's: 'But there is forgiveness with you.' Then waiting, 'more than watchmen long for the morning.' Sacred Lament from the depths, and C19's door at its most compact.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S5 · chapters: C19 · practices: PR08 · confidence: medium
+
+---
+
+## 127. Psalm 131:1-3 — Nor do I concern myself with great matters, or things too wonderful for me
+
+> **131:1** A Song of Ascents. By David. Yahweh, my heart isn’t haughty, nor my eyes lofty; nor do I concern myself with great matters, or things too wonderful for me.
+> **131:2** Surely I have stilled and quieted my soul, like a weaned child with his mother, like a weaned child is my soul within me.
+> **131:3** Israel, hope in Yahweh, from this time forth and forevermore.
+
+**Claim.** The Scriptural Appendix assigns Psalm 131 to C22, and C22 takes 131:1-2 as its witness: the weaned child, the quiet soul. 'My heart isn't haughty, nor my eyes lofty; nor do I concern myself with great matters, or things too wonderful for me. Surely I have stilled and quieted my soul.' The first verse is also the Discipline of Unknowing in its plainest form: the disciplined recognition that some things exceed one's grasp, and the peace of not reaching for them.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S5, S6 · chapters: C22, C24 · practices: PR04 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 128. Psalm 133:1-3 — See how good and how pleasant it is for brothers to live together in unity!
+
+> **133:1** A Song of Ascents. By David. See how good and how pleasant it is for brothers to live together in unity!
+> **133:2** It is like the precious oil on the head, that ran down on the beard, even Aaron’s beard; that came down on the edge of his robes;
+> **133:3** like the dew of Hermon, that comes down on the hills of Zion: for there Yahweh gives the blessing, even life forevermore.
+
+**Claim.** The Scriptural Appendix assigns Psalm 133 to three chapters — C12, C13, and C15 — under 'oil and dew descending; unity in shared life,' and C12 and C13 take it as their witness. Unity pictured as something that runs down from above: oil from the head to the beard to the hem, dew from Hermon to the hills of Zion. 'For there Yahweh gives the blessing.'
+
+**Tags.** pillars: mercy, humility · stages: S3, S4 · chapters: C12, C13, C15 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 129. Psalm 134:1-3 — All you servants of Yahweh, who stand by night in Yahweh's house
+
+> **134:1** A Song of Ascents. Look! Praise Yahweh, all you servants of Yahweh, who stand by night in Yahweh’s house!
+> **134:2** Lift up your hands in the sanctuary. Praise Yahweh!
+> **134:3** May Yahweh bless you from Zion; even he who made heaven and earth.
+
+**Claim.** The last Song of Ascents is addressed to those who keep the night watch in the temple: 'Lift up your hands in the sanctuary.' Prayer kept through the night by those whose service is unseen — C09's place and C28's hours.
+
+**Tags.** pillars: humility · stages: S3, S7 · chapters: C09, C28 · practices: none · confidence: medium
+
+---
+
+## 130. Psalm 136:1-26 — For his loving kindness endures forever
+
+> **136:1** Give thanks to Yahweh, for he is good; for his loving kindness endures forever.
+> **136:2** Give thanks to the God of gods; for his loving kindness endures forever.
+> **136:3** Give thanks to the Lord of lords; for his loving kindness endures forever:
+> **136:4** To him who alone does great wonders; for his loving kindness endures forever:
+> **136:5** To him who by understanding made the heavens; for his loving kindness endures forever:
+> **136:6** To him who spread out the earth above the waters; for his loving kindness endures forever:
+> **136:7** To him who made the great lights; for his loving kindness endures forever:
+> **136:8** The sun to rule by day; for his loving kindness endures forever;
+> **136:9** The moon and stars to rule by night; for his loving kindness endures forever:
+> **136:10** To him who struck down the Egyptian firstborn; for his loving kindness endures forever;
+> **136:11** And brought out Israel from among them; for his loving kindness endures forever;
+> **136:12** With a strong hand, and with an outstretched arm; for his loving kindness endures forever:
+> **136:13** To him who divided the Red Sea apart; for his loving kindness endures forever;
+> **136:14** And made Israel to pass through its midst; for his loving kindness endures forever;
+> **136:15** But overthrew Pharaoh and his army in the Red Sea; for his loving kindness endures forever:
+> **136:16** To him who led his people through the wilderness; for his loving kindness endures forever:
+> **136:17** To him who struck great kings; for his loving kindness endures forever;
+> **136:18** And killed mighty kings; for his loving kindness endures forever:
+> **136:19** Sihon king of the Amorites; for his loving kindness endures forever;
+> **136:20** Og king of Bashan; for his loving kindness endures forever;
+> **136:21** And gave their land as an inheritance; for his loving kindness endures forever;
+> **136:22** Even a heritage to Israel his servant; for his loving kindness endures forever:
+> **136:23** Who remembered us in our low estate; for his loving kindness endures forever;
+> **136:24** And has delivered us from our adversaries; for his loving kindness endures forever:
+> **136:25** Who gives food to every creature; for his loving kindness endures forever.
+> **136:26** Oh give thanks to the God of heaven; for his loving kindness endures forever.
+
+**Claim.** Twenty-six lines, each answered by the same refrain. Creation, exodus, wilderness, and then the line closest to the worshipper: 'Who remembered us in our low estate… Who gives food to every creature.' Gratitude formed by repetition rather than novelty, which is C10's discipline practised in C28's way.
+
+**Tags.** pillars: mercy, humility · stages: S3, S7 · chapters: C10, C28 · practices: none · confidence: medium
+
+---
+
+## 131. Psalm 137:1-6 — By the rivers of Babylon, there we sat down. Yes, we wept
+
+> **137:1** By the rivers of Babylon, there we sat down. Yes, we wept, when we remembered Zion.
+> **137:2** On the willows in its midst, we hung up our harps.
+> **137:3** For there, those who led us captive asked us for songs. Those who tormented us demanded songs of joy: “Sing us one of the songs of Zion!”
+> **137:4** How can we sing Yahweh’s song in a foreign land?
+> **137:5** If I forget you, Jerusalem, let my right hand forget its skill.
+> **137:6** Let my tongue stick to the roof of my mouth if I don’t remember you; if I don’t prefer Jerusalem above my chief joy.
+
+**Claim.** Exiles weep by foreign rivers and hang up their harps when their captors demand 'one of the songs of Zion.' 'How can we sing Yahweh's song in a foreign land?' Sacred Lament for a lost home, and C17's question at its most painful: how to remain anchored elsewhere while living, against one's will, here. The entry stops at 137:6. The psalm ends (137:7-9) with a blessing on whoever dashes Babylon's infants against the rock; see the coverage note.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4 · chapters: C17 · practices: PR08 · confidence: high
+
+---
+
+## 132. Psalm 138:1-8 — Though Yahweh is high, yet he looks after the lowly
+
+> **138:1** By David. I will give you thanks with my whole heart. Before the gods, I will sing praises to you.
+> **138:2** I will bow down toward your holy temple, and give thanks to your Name for your loving kindness and for your truth; for you have exalted your Name and your Word above all.
+> **138:3** In the day that I called, you answered me. You encouraged me with strength in my soul.
+> **138:4** All the kings of the earth will give you thanks, Yahweh, for they have heard the words of your mouth.
+> **138:5** Yes, they will sing of the ways of Yahweh; for great is Yahweh’s glory.
+> **138:6** For though Yahweh is high, yet he looks after the lowly; but the proud, he knows from afar.
+> **138:7** Though I walk in the midst of trouble, you will revive me. You will stretch forth your hand against the wrath of my enemies. Your right hand will save me.
+> **138:8** Yahweh will fulfill that which concerns me; your loving kindness, Yahweh, endures forever. Don’t forsake the works of your own hands.
+
+**Claim.** 'Though Yahweh is high, yet he looks after the lowly; but the proud, he knows from afar.' The distance God keeps is from pride, not from lowliness — C22's humility and C16's lowly as those God draws near. 'Yahweh will fulfill that which concerns me.'
+
+**Tags.** pillars: humility, mercy · stages: S4, S5 · chapters: C22, C16 · practices: none · confidence: medium
+
+---
+
+## 133. Psalm 139:1-24 — Search me, God, and know my heart… This knowledge is beyond me
+
+> **139:1** For the Chief Musician. A Psalm by David. Yahweh, you have searched me, and you know me.
+> **139:2** You know my sitting down and my rising up. You perceive my thoughts from afar.
+> **139:3** You search out my path and my lying down, and are acquainted with all my ways.
+> **139:4** For there is not a word on my tongue, but, behold, Yahweh, you know it altogether.
+> **139:5** You hem me in behind and before. You laid your hand on me.
+> **139:6** This knowledge is beyond me. It’s lofty. I can’t attain it.
+> **139:7** Where could I go from your Spirit? Or where could I flee from your presence?
+> **139:8** If I ascend up into heaven, you are there. If I make my bed in Sheol, behold, you are there!
+> **139:9** If I take the wings of the dawn, and settle in the uttermost parts of the sea;
+> **139:10** Even there your hand will lead me, and your right hand will hold me.
+> **139:11** If I say, “Surely the darkness will overwhelm me; the light around me will be night;”
+> **139:12** even the darkness doesn’t hide from you, but the night shines as the day. The darkness is like light to you.
+> **139:13** For you formed my inmost being. You knit me together in my mother’s womb.
+> **139:14** I will give thanks to you, for I am fearfully and wonderfully made. Your works are wonderful. My soul knows that very well.
+> **139:15** My frame wasn’t hidden from you, when I was made in secret, woven together in the depths of the earth.
+> **139:16** Your eyes saw my body. In your book they were all written, the days that were ordained for me, when as yet there were none of them.
+> **139:17** How precious to me are your thoughts, God! How vast is their sum!
+> **139:18** If I would count them, they are more in number than the sand. When I wake up, I am still with you.
+> **139:19** If only you, God, would kill the wicked. Get away from me, you bloodthirsty men!
+> **139:20** For they speak against you wickedly. Your enemies take your name in vain.
+> **139:21** Yahweh, don’t I hate those who hate you? Am I not grieved with those who rise up against you?
+> **139:22** I hate them with perfect hatred. They have become my enemies.
+> **139:23** Search me, God, and know my heart. Try me, and know my thoughts.
+> **139:24** See if there is any wicked way in me, and lead me in the everlasting way.
+
+**Claim.** The Scriptural Appendix assigns Psalm 139 to C21: 'Search me — the invited examination.' C21 takes 139:1-2 and 139:23-24 as its witness. The psalm begins with being known completely — 'you perceive my thoughts from afar… there is not a word on my tongue, but… you know it' — and ends asking for it: 'Search me, God, and know my heart. Try me, and know my thoughts. See if there is any wicked way in me.' Interior Diagnosis in its humble form, the examination handed to someone who can see what the self cannot. And at its centre, the Discipline of Unknowing: 'This knowledge is beyond me. It's lofty. I can't attain it.' The 'perfect hatred' of 139:19-22 sits immediately before the request to be searched, and the index reads the request as the psalm's own answer to it.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S5, S6 · chapters: C21, C24 · practices: PR02, PR04 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 134. Psalm 141:1-10 — Set a watch, Yahweh, before my mouth. Keep the door of my lips
+
+> **141:1** A Psalm by David. Yahweh, I have called on you. Come to me quickly! Listen to my voice when I call to you.
+> **141:2** Let my prayer be set before you like incense; the lifting up of my hands like the evening sacrifice.
+> **141:3** Set a watch, Yahweh, before my mouth. Keep the door of my lips.
+> **141:4** Don’t incline my heart to any evil thing, to practice deeds of wickedness with men who work iniquity. Don’t let me eat of their delicacies.
+> **141:5** Let the righteous strike me, it is kindness; let him reprove me, it is like oil on the head; don’t let my head refuse it; Yet my prayer is always against evil deeds.
+> **141:6** Their judges are thrown down by the sides of the rock. They will hear my words, for they are well spoken.
+> **141:7** “As when one plows and breaks up the earth, our bones are scattered at the mouth of Sheol.”
+> **141:8** For my eyes are on you, Yahweh, the Lord. In you, I take refuge. Don’t leave my soul destitute.
+> **141:9** Keep me from the snare which they have laid for me, from the traps of the workers of iniquity.
+> **141:10** Let the wicked fall together into their own nets, while I pass by.
+
+**Claim.** The Scriptural Appendix assigns Psalm 141 to C04 and C20, 'guarding the mouth and the gate of the heart,' and C20 takes 141:3 as its witness: 'Set a watch, Yahweh, before my mouth. Keep the door of my lips. Don't incline my heart to any evil thing.' Watchfulness asked for as a gift. And a second discipline beside it: 'Let the righteous strike me, it is kindness; let him reprove me, it is like oil on the head; don't let my head refuse it' — correction received as mercy, which is where C04's audit becomes bearable.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S1, S5 · chapters: C04, C20 · practices: PR12 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 135. Psalm 142:1-7 — I pour out my complaint before him. I tell him my troubles
+
+> **142:1** A contemplation by David, when he was in the cave. A Prayer. I cry with my voice to Yahweh. With my voice, I ask Yahweh for mercy.
+> **142:2** I pour out my complaint before him. I tell him my troubles.
+> **142:3** When my spirit was overwhelmed within me, you knew my path. In the way in which I walk, they have hidden a snare for me.
+> **142:4** Look on my right, and see; for there is no one who is concerned for me. Refuge has fled from me. No one cares for my soul.
+> **142:5** I cried to you, Yahweh. I said, “You are my refuge, my portion in the land of the living.”
+> **142:6** Listen to my cry, for I am in desperate need. deliver me from my persecutors, For they are stronger than me.
+> **142:7** Bring my soul out of prison, that I may give thanks to your name. The righteous will surround me, for you will be good to me.
+
+**Claim.** Written, the superscription says, in the cave. 'I pour out my complaint before him. I tell him my troubles… there is no one who is concerned for me. Refuge has fled from me. No one cares for my soul.' Sacred Lament described by the one doing it. Then: 'You are my refuge, my portion in the land of the living' — C18's portion, claimed with nothing else left.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4, S5 · chapters: C19, C18 · practices: PR08 · confidence: high
+
+---
+
+## 136. Psalm 143:1-12 — Don't enter into judgment with your servant, for in your sight no man living is righteous
+
+> **143:1** A Psalm by David. Hear my prayer, Yahweh. Listen to my petitions. In your faithfulness and righteousness, relieve me.
+> **143:2** Don’t enter into judgment with your servant, for in your sight no man living is righteous.
+> **143:3** For the enemy pursues my soul. He has struck my life down to the ground. He has made me live in dark places, as those who have been long dead.
+> **143:4** Therefore my spirit is overwhelmed within me. My heart within me is desolate.
+> **143:5** I remember the days of old. I meditate on all your doings. I contemplate the work of your hands.
+> **143:6** I spread forth my hands to you. My soul thirsts for you, like a parched land. Selah.
+> **143:7** Hurry to answer me, Yahweh. My spirit fails. Don’t hide your face from me, so that I don’t become like those who go down into the pit.
+> **143:8** Cause me to hear your loving kindness in the morning, for I trust in you. Cause me to know the way in which I should walk, for I lift up my soul to you.
+> **143:9** Deliver me, Yahweh, from my enemies. I flee to you to hide me.
+> **143:10** Teach me to do your will, for you are my God. Your Spirit is good. Lead me in the land of uprightness.
+> **143:11** Revive me, Yahweh, for your name’s sake. In your righteousness, bring my soul out of trouble.
+> **143:12** In your loving kindness, cut off my enemies, and destroy all those who afflict my soul, For I am your servant.
+
+**Claim.** The last penitential psalm asks for mercy on the only ground available: 'Don't enter into judgment with your servant, for in your sight no man living is righteous' — the verse Paul echoes in Romans 3:20. A spirit overwhelmed, a soul that 'thirsts for you, like a parched land,' and the morning prayer: 'Cause me to hear your loving kindness in the morning… Teach me to do your will.' C19's door, and C09's thirst.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S3, S5 · chapters: C19, C09 · practices: PR08 · confidence: medium
+
+---
+
+## 137. Psalm 145:1-21 — His greatness is unsearchable… His tender mercies are over all his works
+
+> **145:1** A praise psalm by David. I will exalt you, my God, the King. I will praise your name forever and ever.
+> **145:2** Every day I will praise you. I will extol your name forever and ever.
+> **145:3** Great is Yahweh, and greatly to be praised! His greatness is unsearchable.
+> **145:4** One generation will commend your works to another, and will declare your mighty acts.
+> **145:5** Of the glorious majesty of your honor, of your wondrous works, I will meditate.
+> **145:6** Men will speak of the might of your awesome acts. I will declare your greatness.
+> **145:7** They will utter the memory of your great goodness, and will sing of your righteousness.
+> **145:8** Yahweh is gracious, merciful, slow to anger, and of great loving kindness.
+> **145:9** Yahweh is good to all. His tender mercies are over all his works.
+> **145:10** All your works will give thanks to you, Yahweh. Your saints will extol you.
+> **145:11** They will speak of the glory of your kingdom, and talk about your power;
+> **145:12** to make known to the sons of men his mighty acts, the glory of the majesty of his kingdom.
+> **145:13** Your kingdom is an everlasting kingdom. Your dominion endures throughout all generations. Yahweh is faithful in all his words, and loving in all his deeds.
+> **145:14** Yahweh upholds all who fall, and raises up all those who are bowed down.
+> **145:15** The eyes of all wait for you. You give them their food in due season.
+> **145:16** You open your hand, and satisfy the desire of every living thing.
+> **145:17** Yahweh is righteous in all his ways, and gracious in all his works.
+> **145:18** Yahweh is near to all those who call on him, to all who call on him in truth.
+> **145:19** He will fulfill the desire of those who fear him. He also will hear their cry, and will save them.
+> **145:20** Yahweh preserves all those who love him, but all the wicked he will destroy.
+> **145:21** My mouth will speak the praise of Yahweh. Let all flesh bless his holy name forever and ever.
+
+**Claim.** An acrostic of praise 'every day.' 'His greatness is unsearchable' is C24's; 'Yahweh is good to all. His tender mercies are over all his works… Yahweh upholds all who fall, and raises up all those who are bowed down… near to all those who call on him in truth' is C27's mercy with no one left outside it.
+
+**Tags.** pillars: mercy, humility · stages: S6, S7 · chapters: C27, C24 · practices: none · confidence: high
+
+---
+
+## 138. Psalm 146:1-10 — Don't put your trust in princes… He upholds the fatherless and widow
+
+> **146:1** Praise Yah! Praise Yahweh, my soul.
+> **146:2** While I live, I will praise Yahweh. I will sing praises to my God as long as I exist.
+> **146:3** Don’t put your trust in princes, each a son of man in whom there is no help.
+> **146:4** His spirit departs, and he returns to the earth. In that very day, his thoughts perish.
+> **146:5** Happy is he who has the God of Jacob for his help, whose hope is in Yahweh, his God:
+> **146:6** who made heaven and earth, the sea, and all that is in them; who keeps truth forever;
+> **146:7** who executes justice for the oppressed; who gives food to the hungry. Yahweh frees the prisoners.
+> **146:8** Yahweh opens the eyes of the blind. Yahweh raises up those who are bowed down. Yahweh loves the righteous.
+> **146:9** Yahweh preserves the foreigners. He upholds the fatherless and widow, but the way of the wicked he turns upside down.
+> **146:10** Yahweh will reign forever; your God, O Zion, to all generations. Praise Yah!
+
+**Claim.** 'Don't put your trust in princes… His spirit departs, and he returns to the earth. In that very day, his thoughts perish.' C18's release from trust in power. And the God who is trustworthy is identified by those he serves: the oppressed, the hungry, the prisoners, the blind, those bowed down, 'the foreigners… the fatherless and widow.' C16's list, in God's own character.
+
+**Tags.** pillars: mercy, humility · stages: S4 · chapters: C16, C18 · practices: none · confidence: high
+
+---
+
+## 139. Psalm 147:1-20 — He heals the broken in heart… He counts the number of the stars
+
+> **147:1** Praise Yah, for it is good to sing praises to our God; for it is pleasant and fitting to praise him.
+> **147:2** Yahweh builds up Jerusalem. He gathers together the outcasts of Israel.
+> **147:3** He heals the broken in heart, and binds up their wounds.
+> **147:4** He counts the number of the stars. He calls them all by their names.
+> **147:5** Great is our Lord, and mighty in power. His understanding is infinite.
+> **147:6** Yahweh upholds the humble. He brings the wicked down to the ground.
+> **147:7** Sing to Yahweh with thanksgiving. Sing praises on the harp to our God,
+> **147:8** who covers the sky with clouds, who prepares rain for the earth, who makes grass grow on the mountains.
+> **147:9** He provides food for the livestock, and for the young ravens when they call.
+> **147:10** He doesn’t delight in the strength of the horse. He takes no pleasure in the legs of a man.
+> **147:11** Yahweh takes pleasure in those who fear him, in those who hope in his loving kindness.
+> **147:12** Praise Yahweh, Jerusalem! Praise your God, Zion!
+> **147:13** For he has strengthened the bars of your gates. He has blessed your children within you.
+> **147:14** He makes peace in your borders. He fills you with the finest of the wheat.
+> **147:15** He sends out his commandment to the earth. His word runs very swiftly.
+> **147:16** He gives snow like wool, and scatters frost like ashes.
+> **147:17** He hurls down his hail like pebbles. Who can stand before his cold?
+> **147:18** He sends out his word, and melts them. He causes his wind to blow, and the waters flow.
+> **147:19** He shows his word to Jacob; his statutes and his ordinances to Israel.
+> **147:20** He has not done this for just any nation. They don’t know his ordinances. Praise Yah!
+
+**Claim.** Two kinds of greatness side by side: 'He heals the broken in heart, and binds up their wounds. He counts the number of the stars. He calls them all by their names.' The God of the galaxies attending to a wound — C19's healing and C24's wonder in one breath. 'He doesn't delight in the strength of the horse.'
+
+**Tags.** pillars: mercy, humility · stages: S5, S6 · chapters: C19, C24 · practices: none · confidence: medium
+
+---
+
+## 140. Psalm 148:1-14 — Praise him, sun and moon! Praise him, all you shining stars!
+
+> **148:1** Praise Yah! Praise Yahweh from the heavens! Praise him in the heights!
+> **148:2** Praise him, all his angels! Praise him, all his army!
+> **148:3** Praise him, sun and moon! Praise him, all you shining stars!
+> **148:4** Praise him, you heavens of heavens, You waters that are above the heavens.
+> **148:5** Let them praise the name of Yahweh, For he commanded, and they were created.
+> **148:6** He has also established them forever and ever. He has made a decree which will not pass away.
+> **148:7** Praise Yahweh from the earth, you great sea creatures, and all depths!
+> **148:8** Lightning and hail, snow and clouds; stormy wind, fulfilling his word;
+> **148:9** mountains and all hills; fruit trees and all cedars;
+> **148:10** wild animals and all livestock; small creatures and flying birds;
+> **148:11** kings of the earth and all peoples; princes and all judges of the earth;
+> **148:12** both young men and maidens; old men and children:
+> **148:13** let them praise the name of Yahweh, for his name alone is exalted. His glory is above the earth and the heavens.
+> **148:14** He has lifted up the horn of his people, the praise of all his saints; even of the children of Israel, a people near to him. Praise Yah!
+
+**Claim.** Everything summoned to praise in order — angels, sun and moon, sea creatures, hail and snow, fruit trees and cedars, wild animals, kings, young men and maidens, old men and children. C24's landscape, made a choir.
+
+**Tags.** pillars: humility · stages: S6 · chapters: C24 · practices: none · confidence: medium
+
+---
+
+## 141. Psalm 150:1-6 — Let everything that has breath praise Yah!
+
+> **150:1** Praise Yah! Praise God in his sanctuary! Praise him in his heavens for his acts of power!
+> **150:2** Praise him for his mighty acts! Praise him according to his excellent greatness!
+> **150:3** Praise him with the sounding of the trumpet! Praise him with harp and lyre!
+> **150:4** Praise him with tambourine and dancing! Praise him with stringed instruments and flute!
+> **150:5** Praise him with loud cymbals! Praise him with resounding cymbals!
+> **150:6** Let everything that has breath praise Yah! Praise Yah!
+
+**Claim.** The Psalter ends in praise without argument and without petition: trumpet, harp, tambourine, dance, cymbals, 'Let everything that has breath praise Yah!' The book that has carried every lament to God ends where C10 says the road is going — delight.
+
+**Tags.** pillars: mercy, humility · stages: S3 · chapters: C10 · practices: none · confidence: medium
 
 ---
 

@@ -1,0 +1,122 @@
+{
+  "book": "Joshua",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/joshua.json",
+  "note": "The entry into the land and its division among the tribes, indexed selectively under the honest-coverage precedent set for the herem texts in Deuteronomy. Not cited by the curriculum or the Scriptural Appendix.",
+  "coverage_note": "Five entries, by design. The conquest narratives and the herem — Jericho (6), Ai (8), the southern and northern campaigns and the lists of kings and cities (10-12), and the execution of Achan and his household (7:22-26) — are not anchored as formation guidance, per the precedent recorded in the Deuteronomy coverage note; 7:19-21 is indexed only as a diagnosis of how desire becomes action. Rahab (2) is not indexed here; Hebrews 11:31 and James 2:25 carry her, and both are indexed. Also not indexed: the crossing and memorial stones (3-5), the Gibeonite treaty (9), the land allotments and cities of refuge (13-21), and 23-24 apart from 24:14-15.",
+  "entries": [
+    {
+      "ref": "Joshua 1:6-9",
+      "pericope": "This book of the law shall not depart out of your mouth, but you shall meditate on it day and night… Be strong and courageous. Don't be afraid… for Yahweh your God is with you wherever you go",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C09",
+        "C05",
+        "C22"
+      ],
+      "practices": [
+        "PR07"
+      ],
+      "mode": "prescribes",
+      "connection": "Joshua's commissioning, after Moses's death. Three times: 'Be strong and courageous.' The courage is tied to a daily practice: 'This book of the law shall not depart out of your mouth, but you shall meditate on it day and night, that you may observe to do according to all that is written therein.' The Daily Anchors' rhythm — the word kept in the mouth morning and night (medium) — and C09 and C05. C22's ground: 'Don't be afraid, neither be dismayed: for Yahweh your God is with you wherever you go.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Joshua 7:19-21",
+      "pericope": "When I saw among the spoil a beautiful Babylonian robe… then I coveted them and took them. Behold, they are hidden in the ground in the middle of my tent",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C20"
+      ],
+      "practices": [
+        "PR02",
+        "PR12"
+      ],
+      "mode": "counter-example",
+      "connection": "Achan's confession, which the index anchors as a diagnosis and not for what follows it (see the coverage note). 'I have truly sinned against Yahweh… When I saw among the spoil a beautiful Babylonian robe, two hundred shekels of silver, and a wedge of gold… then I coveted them and took them. Behold, they are hidden in the ground in the middle of my tent.' Four verbs — saw, coveted, took, hid — which is C21's anatomy of a fall in its shortest form, and exactly the sequence Interior Diagnosis traces backward. Watchfulness's gate failed at the second step (medium for both). C20. 2 Samuel 11:2-4 follows the same order.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Joshua 14:6-12",
+      "pericope": "I wholly followed Yahweh my God… Now, behold, I am eighty-five years old, today. As yet I am as strong today as I was in the day that Moses sent me… give me this hill country",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Forty-five years after his minority report, Caleb asks for the hardest ground. 'I brought him word again as it was in my heart. Nevertheless, my brothers who went up with me made the heart of the people melt; but I wholly followed Yahweh my God… Now, behold, I am eighty-five years old, today. As yet I am as strong today as I was in the day that Moses sent me… Now therefore give me this hill country… how the Anakim were there.' C25's faithfulness sustained across a lifetime, and C12's proof given at eighty-five. 'It may be that Yahweh will be with me.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Joshua 22:10-34",
+      "pericope": "The whole congregation… gathered themselves together at Shiloh, to go up against them to war… 'it will be a witness between us and you'… it pleased them well… and spoke no more of going up against them to war",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C13"
+      ],
+      "practices": [
+        "PR09",
+        "PR16"
+      ],
+      "mode": "exemplifies",
+      "connection": "The eastern tribes build a large altar by the Jordan, and the rest of Israel assumes apostasy and prepares for civil war. Before fighting they send a delegation, and the delegation asks — strongly, but it asks. The eastern tribes explain: the altar is not for sacrifice but a witness, built out of fear that 'in time to come your children might speak to our children, saying, \"What have you to do with Yahweh?\"' 'When Phinehas the priest, and the princes… heard the words… it pleased them well.' Listening as Mercy — the hearing that 'uncovers a hidden reality' and makes the correction unnecessary — and the Architecture of Peace, which aims at understanding rather than victory. Both sides offer something: the delegation offers land on its own side of the river (22:19). 'The children of Israel… spoke no more of going up against them to war.' C15 and C13. The altar is named 'A Witness Between Us that Yahweh is God.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Joshua 24:14-15",
+      "pericope": "Choose this day whom you will serve… but as for me and my house, we will serve Yahweh",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C01",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "At the covenant renewal at Shechem, Joshua's last challenge: 'Now therefore fear Yahweh, and serve him in sincerity and in truth. Put away the gods which your fathers served… If it seems evil to you to serve Yahweh, choose this day whom you will serve… but as for me and my house, we will serve Yahweh.' C01's Two Ways put as a decision for today, and C14's household as the unit of decision.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

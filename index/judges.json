@@ -1,0 +1,133 @@
+{
+  "book": "Judges",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/judges.json",
+  "note": "The cycle of apostasy and rescue between the conquest and the monarchy, indexed selectively. Not cited by the curriculum or the Scriptural Appendix.",
+  "coverage_note": "Six entries, by design. Not indexed: the conquest summaries (1), Ehud (3), Deborah, Barak and Jael (4-5), Gideon's battles and reprisals (6:25-8:21, 8:28-35), Abimelech (9), the minor judges (10, 12), Jephthah and his vow (11), Samson apart from 16:15-21 (13-16), Micah's idol and the Danite migration (17-18), and the Levite's concubine and the war against Benjamin (19-21:24). Chapter 19 is a narrative of rape and murder and chapter 21 of abduction; the index records that they are there, that the book frames them with 21:25, and that it will not turn them into guidance.",
+  "entries": [
+    {
+      "ref": "Judges 2:10-19",
+      "pericope": "There arose another generation after them, who didn't know Yahweh, nor yet the work which he had worked for Israel… it grieved Yahweh because of their groaning",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C14",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The book's thesis in ten verses. 'All that generation were gathered to their fathers: and there arose another generation after them, who didn't know Yahweh, nor yet the work which he had worked for Israel.' The failure begins with what was not handed down — C14's household as the place memory is kept or lost. Then the cycle: apostasy, oppression, groaning, rescue, relapse — 'they turned back, and dealt more corruptly than their fathers.' C21's anatomy of a repeated fall. And inside the cycle, C19: 'it grieved Yahweh because of their groaning by reason of those who oppressed them.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Judges 6:11-16",
+      "pericope": "Gideon was beating out wheat in the winepress, to hide it from the Midianites… 'if Yahweh is with us, why then has all this happened to us?'… 'I am the least in my father's house.'",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "Gideon threshing in a winepress, hiding his grain. Greeted as 'you mighty man of valor,' he answers with the question every sufferer asks: 'Oh, my lord, if Yahweh is with us, why then has all this happened to us? Where are all his wondrous works which our fathers told us of?' Sacred Lament said directly to the messenger of God — and not rebuked; the answer is a commission (medium). C19. His next objection is C22's: 'Behold, my family is the poorest in Manasseh, and I am the least in my father's house.' 'Surely I will be with you.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Judges 7:2-3",
+      "pericope": "The people who are with you are too many for me… lest Israel vaunt themselves against me, saying, 'My own hand has saved me.'",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22"
+      ],
+      "practices": [],
+      "connection": "An army reduced on purpose: 'The people who are with you are too many for me to give the Midianites into their hand, lest Israel vaunt themselves against me, saying, \"My own hand has saved me.\"' The fearful are sent home, then most of the rest. C22's principle that strength can be the obstacle — success that would teach the wrong lesson is withheld.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Judges 8:22-27",
+      "pericope": "I will not rule over you, neither shall my son rule over you. Yahweh shall rule over you… Gideon made an ephod of it… and it became a snare to Gideon, and to his house",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C21",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Offered a dynasty, Gideon refuses it rightly: 'I will not rule over you, neither shall my son rule over you. Yahweh shall rule over you.' C22's humility, in public. Then, in the same breath, a small request: 'that you would give me every man the earrings of his spoil.' Seventeen hundred shekels of gold become an ephod in his home town, 'and all Israel played the prostitute after it there; and it became a snare to Gideon, and to his house.' C21's warning that the fall often follows the refusal of the obvious temptation, through a less obvious one — C20's side gate.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Judges 16:15-21",
+      "pericope": "He awoke out of his sleep, and said, 'I will go out as at other times, and shake myself free.' But he didn't know that Yahweh had departed from him",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C21"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "counter-example",
+      "connection": "Delilah presses him 'daily with her words,' and eventually 'he told her all his heart.' The line that follows is among the most frightening in the Old Testament: 'He awoke out of his sleep, and said, \"I will go out as at other times, and shake myself free.\" But he didn't know that Yahweh had departed from him.' Watchfulness absent so long that the loss went unnoticed — the confidence of past habit outliving the reality (medium). C20 and C21. 'The Philistines… put out his eyes; and… he ground at the mill in the prison.' The rest of the Samson cycle is not indexed.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Judges 21:25",
+      "pericope": "In those days there was no king in Israel: every man did that which was right in his own eyes",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C07",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The book's last sentence, repeated from 17:6 as a frame around its worst stories: 'In those days there was no king in Israel: every man did that which was right in his own eyes.' C07's lens with no correction from outside — each person's sight its own authority — and C08's absence of a true voice. The index records the verdict and not the narratives it frames (see the coverage note).",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

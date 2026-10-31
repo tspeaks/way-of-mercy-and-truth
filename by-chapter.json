@@ -575,6 +575,18 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Joshua.Json",
+        "reference": "Joshua 24:14-15",
+        "name": "Choose this day whom you will serve… but as for me and my house, we will serve Yahweh",
+        "chapters": [
+          "C01",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "joshua.json"
+      },
+      {
         "book": "Leviticus.Json",
         "reference": "Leviticus 19:1-10",
         "name": "You shall be holy; for I Yahweh your God am holy… you shall not wholly reap the corners of your field… you shall leave them for the poor and for the foreigner",
@@ -3822,6 +3834,21 @@
         "source_file": "jeremiah.json"
       },
       {
+        "book": "Joshua.Json",
+        "reference": "Joshua 1:6-9",
+        "name": "This book of the law shall not depart out of your mouth, but you shall meditate on it day and night… Be strong and courageous. Don't be afraid… for Yahweh your God is with you wherever you go",
+        "chapters": [
+          "C05",
+          "C09",
+          "C22"
+        ],
+        "practices": [
+          "PR07"
+        ],
+        "tags": [],
+        "source_file": "joshua.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 14:25-33",
         "name": "Which of you, desiring to build a tower, doesn't first count the cost?",
@@ -5221,6 +5248,18 @@
         "source_file": "john.json"
       },
       {
+        "book": "Judges.Json",
+        "reference": "Judges 21:25",
+        "name": "In those days there was no king in Israel: every man did that which was right in his own eyes",
+        "chapters": [
+          "C07",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "judges.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 11:37-44",
         "name": "You cleanse the outside of the cup",
@@ -6393,6 +6432,18 @@
         "source_file": "jude.json"
       },
       {
+        "book": "Judges.Json",
+        "reference": "Judges 21:25",
+        "name": "In those days there was no king in Israel: every man did that which was right in his own eyes",
+        "chapters": [
+          "C07",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "judges.json"
+      },
+      {
         "book": "Lamentations.Json",
         "reference": "Lamentations 2:1-22",
         "name": "Pour out your heart like water before the face of the Lord: Lift up your hands toward him for the life of your young children",
@@ -7287,6 +7338,21 @@
         ],
         "tags": [],
         "source_file": "jonah.json"
+      },
+      {
+        "book": "Joshua.Json",
+        "reference": "Joshua 1:6-9",
+        "name": "This book of the law shall not depart out of your mouth, but you shall meditate on it day and night… Be strong and courageous. Don't be afraid… for Yahweh your God is with you wherever you go",
+        "chapters": [
+          "C05",
+          "C09",
+          "C22"
+        ],
+        "practices": [
+          "PR07"
+        ],
+        "tags": [],
+        "source_file": "joshua.json"
       },
       {
         "book": "Jude.Json",
@@ -9432,6 +9498,18 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Joshua.Json",
+        "reference": "Joshua 14:6-12",
+        "name": "I wholly followed Yahweh my God… Now, behold, I am eighty-five years old, today. As yet I am as strong today as I was in the day that Moses sent me… give me this hill country",
+        "chapters": [
+          "C12",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "joshua.json"
+      },
+      {
         "book": "Jude.Json",
         "reference": "Jude 1:5-16",
         "name": "Michael, the archangel… dared not bring against him an abusive condemnation, but said, 'May the Lord rebuke you!'… clouds without water… autumn leaves without fruit",
@@ -10806,6 +10884,21 @@
         "source_file": "john.json"
       },
       {
+        "book": "Joshua.Json",
+        "reference": "Joshua 22:10-34",
+        "name": "The whole congregation… gathered themselves together at Shiloh, to go up against them to war… 'it will be a witness between us and you'… it pleased them well… and spoke no more of going up against them to war",
+        "chapters": [
+          "C13",
+          "C15"
+        ],
+        "practices": [
+          "PR09",
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "joshua.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 10:38-42",
         "name": "Martha was distracted with much serving",
@@ -12150,6 +12243,31 @@
         ],
         "tags": [],
         "source_file": "john.json"
+      },
+      {
+        "book": "Joshua.Json",
+        "reference": "Joshua 24:14-15",
+        "name": "Choose this day whom you will serve… but as for me and my house, we will serve Yahweh",
+        "chapters": [
+          "C01",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "joshua.json"
+      },
+      {
+        "book": "Judges.Json",
+        "reference": "Judges 2:10-19",
+        "name": "There arose another generation after them, who didn't know Yahweh, nor yet the work which he had worked for Israel… it grieved Yahweh because of their groaning",
+        "chapters": [
+          "C14",
+          "C19",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "judges.json"
       },
       {
         "book": "Malachi.Json",
@@ -13529,6 +13647,21 @@
         ],
         "tags": [],
         "source_file": "john.json"
+      },
+      {
+        "book": "Joshua.Json",
+        "reference": "Joshua 22:10-34",
+        "name": "The whole congregation… gathered themselves together at Shiloh, to go up against them to war… 'it will be a witness between us and you'… it pleased them well… and spoke no more of going up against them to war",
+        "chapters": [
+          "C13",
+          "C15"
+        ],
+        "practices": [
+          "PR09",
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "joshua.json"
       },
       {
         "book": "Luke.Json",
@@ -22327,6 +22460,33 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Judges.Json",
+        "reference": "Judges 2:10-19",
+        "name": "There arose another generation after them, who didn't know Yahweh, nor yet the work which he had worked for Israel… it grieved Yahweh because of their groaning",
+        "chapters": [
+          "C14",
+          "C19",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "judges.json"
+      },
+      {
+        "book": "Judges.Json",
+        "reference": "Judges 6:11-16",
+        "name": "Gideon was beating out wheat in the winepress, to hide it from the Midianites… 'if Yahweh is with us, why then has all this happened to us?'… 'I am the least in my father's house.'",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "judges.json"
+      },
+      {
         "book": "Lamentations.Json",
         "reference": "Lamentations 1:1-22",
         "name": "Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow… Yahweh is righteous; for I have rebelled",
@@ -24505,6 +24665,48 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Joshua.Json",
+        "reference": "Joshua 7:19-21",
+        "name": "When I saw among the spoil a beautiful Babylonian robe… then I coveted them and took them. Behold, they are hidden in the ground in the middle of my tent",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR02",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "joshua.json"
+      },
+      {
+        "book": "Judges.Json",
+        "reference": "Judges 16:15-21",
+        "name": "He awoke out of his sleep, and said, 'I will go out as at other times, and shake myself free.' But he didn't know that Yahweh had departed from him",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "judges.json"
+      },
+      {
+        "book": "Judges.Json",
+        "reference": "Judges 8:22-27",
+        "name": "I will not rule over you, neither shall my son rule over you. Yahweh shall rule over you… Gideon made an ephod of it… and it became a snare to Gideon, and to his house",
+        "chapters": [
+          "C20",
+          "C21",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "judges.json"
+      },
+      {
         "book": "Leviticus.Json",
         "reference": "Leviticus 19:11-18",
         "name": "The wages of a hired servant shall not remain with you all night… You shall not curse the deaf, nor put a stumbling block before the blind… You shall not hate your brother in your heart… nor bear any grudge… but you shall love your neighbor as yourself",
@@ -26070,6 +26272,21 @@
         "source_file": "john.json"
       },
       {
+        "book": "Joshua.Json",
+        "reference": "Joshua 7:19-21",
+        "name": "When I saw among the spoil a beautiful Babylonian robe… then I coveted them and took them. Behold, they are hidden in the ground in the middle of my tent",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR02",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "joshua.json"
+      },
+      {
         "book": "Jude.Json",
         "reference": "Jude 1:17-25",
         "name": "Keep yourselves in the love of God… On some have compassion, making a distinction, and some save, snatching them out of the fire",
@@ -26081,6 +26298,46 @@
         "practices": [],
         "tags": [],
         "source_file": "jude.json"
+      },
+      {
+        "book": "Judges.Json",
+        "reference": "Judges 16:15-21",
+        "name": "He awoke out of his sleep, and said, 'I will go out as at other times, and shake myself free.' But he didn't know that Yahweh had departed from him",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "judges.json"
+      },
+      {
+        "book": "Judges.Json",
+        "reference": "Judges 2:10-19",
+        "name": "There arose another generation after them, who didn't know Yahweh, nor yet the work which he had worked for Israel… it grieved Yahweh because of their groaning",
+        "chapters": [
+          "C14",
+          "C19",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "judges.json"
+      },
+      {
+        "book": "Judges.Json",
+        "reference": "Judges 8:22-27",
+        "name": "I will not rule over you, neither shall my son rule over you. Yahweh shall rule over you… Gideon made an ephod of it… and it became a snare to Gideon, and to his house",
+        "chapters": [
+          "C20",
+          "C21",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "judges.json"
       },
       {
         "book": "Lamentations.Json",
@@ -27702,6 +27959,59 @@
         "practices": [],
         "tags": [],
         "source_file": "john.json"
+      },
+      {
+        "book": "Joshua.Json",
+        "reference": "Joshua 1:6-9",
+        "name": "This book of the law shall not depart out of your mouth, but you shall meditate on it day and night… Be strong and courageous. Don't be afraid… for Yahweh your God is with you wherever you go",
+        "chapters": [
+          "C05",
+          "C09",
+          "C22"
+        ],
+        "practices": [
+          "PR07"
+        ],
+        "tags": [],
+        "source_file": "joshua.json"
+      },
+      {
+        "book": "Judges.Json",
+        "reference": "Judges 6:11-16",
+        "name": "Gideon was beating out wheat in the winepress, to hide it from the Midianites… 'if Yahweh is with us, why then has all this happened to us?'… 'I am the least in my father's house.'",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "judges.json"
+      },
+      {
+        "book": "Judges.Json",
+        "reference": "Judges 7:2-3",
+        "name": "The people who are with you are too many for me… lest Israel vaunt themselves against me, saying, 'My own hand has saved me.'",
+        "chapters": [
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "judges.json"
+      },
+      {
+        "book": "Judges.Json",
+        "reference": "Judges 8:22-27",
+        "name": "I will not rule over you, neither shall my son rule over you. Yahweh shall rule over you… Gideon made an ephod of it… and it became a snare to Gideon, and to his house",
+        "chapters": [
+          "C20",
+          "C21",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "judges.json"
       },
       {
         "book": "Lamentations.Json",
@@ -31560,6 +31870,18 @@
         ],
         "tags": [],
         "source_file": "john.json"
+      },
+      {
+        "book": "Joshua.Json",
+        "reference": "Joshua 14:6-12",
+        "name": "I wholly followed Yahweh my God… Now, behold, I am eighty-five years old, today. As yet I am as strong today as I was in the day that Moses sent me… give me this hill country",
+        "chapters": [
+          "C12",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "joshua.json"
       },
       {
         "book": "Lamentations.Json",
@@ -36399,6 +36721,21 @@
         "source_file": "john.json"
       },
       {
+        "book": "Joshua.Json",
+        "reference": "Joshua 7:19-21",
+        "name": "When I saw among the spoil a beautiful Babylonian robe… then I coveted them and took them. Behold, they are hidden in the ground in the middle of my tent",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR02",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "joshua.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 22:54-62",
         "name": "The Lord turned and looked at Peter",
@@ -39245,6 +39582,21 @@
         "source_file": "jeremiah.json"
       },
       {
+        "book": "Joshua.Json",
+        "reference": "Joshua 1:6-9",
+        "name": "This book of the law shall not depart out of your mouth, but you shall meditate on it day and night… Be strong and courageous. Don't be afraid… for Yahweh your God is with you wherever you go",
+        "chapters": [
+          "C05",
+          "C09",
+          "C22"
+        ],
+        "practices": [
+          "PR07"
+        ],
+        "tags": [],
+        "source_file": "joshua.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 11:5-13",
         "name": "The friend at midnight",
@@ -40167,6 +40519,20 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Judges.Json",
+        "reference": "Judges 6:11-16",
+        "name": "Gideon was beating out wheat in the winepress, to hide it from the Midianites… 'if Yahweh is with us, why then has all this happened to us?'… 'I am the least in my father's house.'",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "judges.json"
+      },
+      {
         "book": "Lamentations.Json",
         "reference": "Lamentations 1:1-22",
         "name": "Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow… Yahweh is righteous; for I have rebelled",
@@ -41041,6 +41407,21 @@
         ],
         "tags": [],
         "source_file": "john.json"
+      },
+      {
+        "book": "Joshua.Json",
+        "reference": "Joshua 22:10-34",
+        "name": "The whole congregation… gathered themselves together at Shiloh, to go up against them to war… 'it will be a witness between us and you'… it pleased them well… and spoke no more of going up against them to war",
+        "chapters": [
+          "C13",
+          "C15"
+        ],
+        "practices": [
+          "PR09",
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "joshua.json"
       },
       {
         "book": "Matthew.Json",
@@ -42525,6 +42906,35 @@
         ],
         "tags": [],
         "source_file": "jonah.json"
+      },
+      {
+        "book": "Joshua.Json",
+        "reference": "Joshua 7:19-21",
+        "name": "When I saw among the spoil a beautiful Babylonian robe… then I coveted them and took them. Behold, they are hidden in the ground in the middle of my tent",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR02",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "joshua.json"
+      },
+      {
+        "book": "Judges.Json",
+        "reference": "Judges 16:15-21",
+        "name": "He awoke out of his sleep, and said, 'I will go out as at other times, and shake myself free.' But he didn't know that Yahweh had departed from him",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "judges.json"
       },
       {
         "book": "Leviticus.Json",
@@ -44595,6 +45005,21 @@
         ],
         "tags": [],
         "source_file": "john.json"
+      },
+      {
+        "book": "Joshua.Json",
+        "reference": "Joshua 22:10-34",
+        "name": "The whole congregation… gathered themselves together at Shiloh, to go up against them to war… 'it will be a witness between us and you'… it pleased them well… and spoke no more of going up against them to war",
+        "chapters": [
+          "C13",
+          "C15"
+        ],
+        "practices": [
+          "PR09",
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "joshua.json"
       },
       {
         "book": "Luke.Json",

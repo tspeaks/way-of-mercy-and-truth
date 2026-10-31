@@ -1,13 +1,13 @@
 {
   "book": "Psalms",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — Book I (Psalms 1-41) indexed; Books II-V pending; awaiting second-pass review",
+  "status": "in progress — Books I and II (Psalms 1-72) indexed; Books III-V pending; awaiting second-pass review",
   "method_version": "2.3",
   "text_source": "index/text/psalms.json",
-  "note": "The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39.",
+  "note": "The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39; in Book II, 51 and 63.",
   "genre_note": "The Psalms are prayer, not instruction, and they are indexed as prayer. A psalm that brings grief or complaint honestly before God enacts Sacred Lament, and is marked exemplifies; PR08 is tagged where the lament is the psalm's centre, not wherever a complaint appears, so that the count reflects anchors rather than mentions. The imprecations — prayers for the confusion or destruction of enemies — are not softened and are not tagged as models: where they bear on a practice the index says so (35:1-28, 41:4-13), and otherwise they are read as what they are, the honest voicing of rage to God rather than its enactment against a neighbour, which the curriculum's own account of lament permits. Superscriptions are included in the verse text as the WEB numbers them and are not separately interpreted. Royal and battle psalms are indexed only where they anchor something beyond the king's victory.",
-  "prediction_note": "The indexing order said Psalms would settle Sacred Lament permanently, and C09 with it. In Book I, PR08 is tagged on six psalms (6, 10, 13, 22, 30, 38); the rest of the index carries thirty-two, a third of them added today in Genesis, Deuteronomy, and Ecclesiastes. C09 is reached by Psalms 5, 17, and 31 directly; the C09 psalms the appendix names (63, 84) fall in later books.",
-  "coverage_note": "Book I, unindexed: Psalm 21, a royal thanksgiving whose second half celebrates the destruction of the king's enemies' descendants, and the battle portion of Psalm 18 (18:37-50).",
+  "prediction_note": "The indexing order said Psalms would settle Sacred Lament permanently, and C09 with it. In Book I, PR08 is tagged on six psalms (6, 10, 13, 22, 30, 38); the rest of the index carries thirty-two, a third of them added today in Genesis, Deuteronomy, and Ecclesiastes. In Book II it is tagged on five more (42-43, 44, 55, 62, 69), and Psalm 62:8 — 'pour out your heart before him' — is the first passage in the index to prescribe the practice in so many words rather than enact it. C09 is reached by Psalms 5, 17, 42-43, 57, 61, and the appendix's own 63; its other named psalm, 84, falls in Book III.",
+  "coverage_note": "Book I, unindexed: Psalm 21, a royal thanksgiving whose second half celebrates the destruction of the king's enemies' descendants, and the battle portion of Psalm 18 (18:37-50). Book II, unindexed: Psalm 45, a royal wedding song (whose 45:4 — the king riding 'on behalf of truth, humility, and righteousness' — comes close to the three pillars without being their source); Psalms 47 and 48, Zion and kingship hymns; Psalm 53, which repeats Psalm 14, and Psalm 70, which repeats 40:13-17; Psalm 54, a brief petition with nothing not anchored elsewhere; Psalms 58 and 59, imprecations against corrupt judges and besiegers, the first ending with the righteous washing their feet in the blood of the wicked, which the index will not tag as a model and has no other reason to tag; Psalm 60, a national oracle after defeat; Psalm 64, a complaint against conspirators; and the battle imagery of Psalm 68 outside 68:4-10.",
   "entries": [
     {
       "ref": "Psalm 1:1-6",
@@ -863,6 +863,418 @@
       "mode": "counter-example",
       "connection": "Sick and slandered, the psalmist is betrayed by the friend 'who ate bread with me' — the verse Christ applies to Judas in John 13:18. And he asks for strength 'that I may repay them.' The index records the prayer as it stands: Non-Retaliation's absence, honestly voiced in prayer, by a man who had first blessed those who consider the poor. The curriculum's practice is the answer the Gospels give to this verse, not an endorsement of it.",
       "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 42:1-43:5",
+      "pericope": "As the deer pants for the water brooks… Why are you in despair, my soul?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C09",
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "One poem in two psalms, held together by its refrain. Thirst for God — 'my soul thirsts for God, for the living God' — and tears as food 'day and night' while others ask 'Where is your God?' Three times the psalmist questions his own soul and commands it in the same breath: 'Why are you in despair, my soul?… Hope in God!' Sacred Lament that argues with itself rather than with God alone, and that holds memory of past joy and present desolation side by side. C09's longing as the engine of prayer, and C19's hope commanded into a despairing heart.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 44:1-26",
+      "pericope": "Wake up! Why do you sleep, Lord?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C24"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "A communal lament with a protest of innocence at its centre: 'All this has come on us, yet have we not forgotten you… Our heart has not turned back.' The suffering has no moral root the people can find, and they say so to God directly — 'Wake up! Why do you sleep, Lord?… Why do you hide your face?' Sacred Lament in its boldest form, and suffering that exceeds explanation, which is the ground C24 asks the reader to stand on without forcing an answer. Paul quotes 44:22 in Romans 8:36.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 46:1-11",
+      "pericope": "Be still, and know that I am God",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C22",
+        "C24"
+      ],
+      "practices": [],
+      "connection": "Refuge in the middle of upheaval — 'though the earth changes, though the mountains are shaken into the heart of the seas' — and a river that gladdens the city while everything around it roars. The command at the end is to stop: 'Be still, and know that I am God.' C22's quiet soul, commanded rather than achieved, and C24's knowing that comes by stillness rather than by mastery.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 49:1-20",
+      "pericope": "They name their lands after themselves",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C02"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A wisdom psalm addressed to rich and poor together. No one can ransom a brother from death; the rich leave their wealth to others; 'their inward thought is that their houses will endure forever… They name their lands after themselves.' 'When he dies he shall carry nothing away.' C18's detachment argued from the grave, and C02's wisdom: 'a man who has riches without understanding is like the animals that perish.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 50:1-23",
+      "pericope": "What right do you have to declare my statutes… You sit and speak against your brother",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C04",
+        "C06"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "God has no need of bulls — 'every animal of the forest is mine' — and asks instead for the sacrifice of thanksgiving: the outward rite read for its inward meaning, which is C06's. Then the indictment of the man who recites the covenant and lives against it: he consents with thieves, frames deceit, 'sit[s] and speak[s] against your brother.' C04's hearer who is not a doer, confronted by the God he quotes.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 51:1-19",
+      "pericope": "Create in me a clean heart, O God",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C26"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "exemplifies",
+      "connection": "C19 takes 51:1-3, 51:10, and 51:17 as its witness, and the Scriptural Appendix names David — 2 Samuel 11-12 with Psalm 51 — as the model for the Failure Recovery Protocol: a man who 'names it without excuse or explanation of circumstances and throws himself on mercy.' 'For I know my transgressions. My sin is constantly before me.' Then the request that is more than forgiveness: 'Create in me a clean heart… Renew a right spirit within me' — the change of heart C26 promises. 'A broken and contrite heart, O God, you will not despise.'",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 52:1-9",
+      "pericope": "I am like a green olive tree in God's house",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C04",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "Against the man whose 'tongue plots destruction, like a sharp razor,' who loves lying more than truth and 'trusted in the abundance of his riches,' the psalmist sets himself as an olive tree rooted in God's house. C04's audit of the tongue and C18's misplaced trust, in one portrait.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 55:1-23",
+      "pericope": "It was not an enemy who insulted me… but it was you, my companion",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C18"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "'I am restless in my complaint, and moan.' The wish to escape — 'Oh that I had wings like a dove!' — and the wound named precisely: an enemy he could have endured, 'but it was you, a man like me, my companion, and my familiar friend… His mouth was smooth as butter, but his heart was war.' Sacred Lament over betrayal, prayed 'evening, morning, and at noon,' and ending in 'cast your burden on Yahweh.' C15's broken fellowship, and C18's burden handed over. The thrice-daily prayer of 55:17 is the Jewish rhythm the Didache later assigns to the Lord's Prayer; PR30 is defined by that prayer and is not tagged here.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 56:1-13",
+      "pericope": "You put my tears into your bottle",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'When I am afraid, I will put my trust in you' — fear and trust in the same sentence, not in sequence. And a single image of what God does with grief: 'You number my wanderings. You put my tears into your bottle. Aren't they in your book?' Sorrow kept, not dismissed. C22's quiet held inside fear, and C19's God who keeps account of tears.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 57:1-11",
+      "pericope": "In the shadow of your wings, I will take refuge, until disaster has passed",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C09",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Written, the superscription says, in a cave while hunted. Refuge 'until disaster has passed,' and then a heart made steady enough to sing: 'My heart is steadfast, God, my heart is steadfast… I will wake up the dawn.' C09's sheltered place, and C22's steadiness found inside it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 61:1-8",
+      "pericope": "Lead me to the rock that is higher than I",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C09",
+        "C13"
+      ],
+      "practices": [],
+      "connection": "'From the end of the earth, I will call to you, when my heart is overwhelmed. Lead me to the rock that is higher than I.' A refuge above oneself, sought from the far edge. The psalm ends in the ordinary keeping of a promise — 'that I may fulfill my vows daily' — which is C13's faithfulness.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 62:1-12",
+      "pericope": "Pour out your heart before him",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C18"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "prescribes",
+      "connection": "The psalm of silence — 'my soul rests in God alone… My soul, wait in silence for God alone' — contains the plainest command to lament in the Psalter: 'Trust in him at all times, you people. Pour out your heart before him.' Sacred Lament prescribed, and prescribed together with trust rather than against it. 'If riches increase, don't set your heart on them' is C18's, and the waiting silence is C22's.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 63:1-11",
+      "pericope": "My soul thirsts for you… in a dry and weary land, where there is no water",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C09"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The Scriptural Appendix assigns Psalm 63 to C09: thirst in the dry land, entering the secret place. 'Your loving kindness is better than life'; 'when I remember you on my bed, and think about you in the night watches… My soul stays close to you.' The final verses against enemies are read under the genre note.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Psalm 65:1-13",
+      "pericope": "You crown the year with your bounty",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C10"
+      ],
+      "practices": [],
+      "connection": "'Sins overwhelmed me, but you atoned for our transgressions' — and then the year described as God's work from furrow to harvest: rain softening the ridges, the hills 'clothed with gladness,' the valleys shouting for joy. 'You call the morning's dawn and the evening with songs of joy.' C24's landscape of wonder and C10's gratitude, in a harvest hymn.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 66:1-20",
+      "pericope": "We went through fire and through water, but you brought us to the place of abundance",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Testing described as refining — 'you have refined us, as silver is refined… We went through fire and through water' — and arriving at abundance. C25's formation through trial, not around it. And one sentence on what blocks prayer: 'If I cherished sin in my heart, the Lord wouldn't have listened.' Not the sin's arrival but its cherishing, which is C20's distinction between a thought received and a thought hosted.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 67:1-7",
+      "pericope": "Let all the peoples praise you",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [],
+      "connection": "The priestly blessing — 'God be merciful to us, bless us, and cause his face to shine on us' — asked so that God's way 'may be known on earth, and your salvation among all nations.' Blessing received for the sake of the widest circle, which is C27's.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 68:4-10",
+      "pericope": "A father of the fatherless, and a defender of the widows… God sets the lonely in families",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C14"
+      ],
+      "practices": [],
+      "connection": "In a long processional hymn, a few verses define God by those he takes in: 'A father of the fatherless, and a defender of the widows… God sets the lonely in families. He brings out the prisoners with singing… You, God, prepared your goodness for the poor.' C16's vulnerable, and C14's household as the place the lonely are set. The battle imagery of the rest of the psalm is not indexed.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 69:1-36",
+      "pericope": "I looked for some to take pity, but there was none; for comforters, but I found none",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C17"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "'Save me, God, for the waters have come up to my neck!' Hated without cause, made 'a stranger to my brothers,' a byword for his very devotion — 'the zeal of your house consumes me' — mocked while he fasts, given vinegar for his thirst. 'I looked for some to take pity, but there was none.' The New Testament quotes it of the passion more than any psalm but 22. Sacred Lament that includes honest confession ('you know my foolishness') and the fiercest imprecations in Book II (69:22-28), which are read under the genre note. The alienation of the faithful from their own kin is C17's cost.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 71:1-24",
+      "pericope": "Don't reject me in my old age… until I have declared your strength to the next generation",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The prayer of an old man who has trusted God 'from the womb' and asks not to be abandoned 'when my strength fails' — and asks it for a reason: 'until I have declared your strength to the next generation.' He tells of God's righteousness 'though I don't know its full measure.' C25's long road walked to its end, and C14's handing on.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Psalm 72:1-20",
+      "pericope": "He will deliver the needy when he cries; the poor, who has no helper",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The prayer for the ideal king is a prayer that he will be measured by the poor: 'He will judge your people with righteousness, and your poor with justice… He will deliver the needy when he cries; the poor, who has no helper… Their blood will be precious in his sight.' C16's account of what authority is for, sung over a coronation.",
+      "confidence": "high",
       "prior": false
     }
   ]

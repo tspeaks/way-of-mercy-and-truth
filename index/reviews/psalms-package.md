@@ -1,16 +1,16 @@
 # Psalms — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — Book I (Psalms 1-41) indexed; Books II-V pending; awaiting second-pass review. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: in progress — Books I and II (Psalms 1-72) indexed; Books III-V pending; awaiting second-pass review. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
-**Note.** The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39.
+**Note.** The Psalter is indexed in its own five books (1-41, 42-72, 73-89, 90-106, 107-150), one entry per psalm except where a psalm divides at a clear seam. The Scriptural Appendix assigns one psalm to each chapter as its anchor, and every one of those assignments is carried as a prior; in Book I they are Psalms 1, 8, 15, 16, 19, 24, 27, 34, and 39; in Book II, 51 and 63.
 
 **Genre note.** The Psalms are prayer, not instruction, and they are indexed as prayer. A psalm that brings grief or complaint honestly before God enacts Sacred Lament, and is marked exemplifies; PR08 is tagged where the lament is the psalm's centre, not wherever a complaint appears, so that the count reflects anchors rather than mentions. The imprecations — prayers for the confusion or destruction of enemies — are not softened and are not tagged as models: where they bear on a practice the index says so (35:1-28, 41:4-13), and otherwise they are read as what they are, the honest voicing of rage to God rather than its enactment against a neighbour, which the curriculum's own account of lament permits. Superscriptions are included in the verse text as the WEB numbers them and are not separately interpreted. Royal and battle psalms are indexed only where they anchor something beyond the king's victory.
 
-**Prediction note.** The indexing order said Psalms would settle Sacred Lament permanently, and C09 with it. In Book I, PR08 is tagged on six psalms (6, 10, 13, 22, 30, 38); the rest of the index carries thirty-two, a third of them added today in Genesis, Deuteronomy, and Ecclesiastes. C09 is reached by Psalms 5, 17, and 31 directly; the C09 psalms the appendix names (63, 84) fall in later books.
+**Prediction note.** The indexing order said Psalms would settle Sacred Lament permanently, and C09 with it. In Book I, PR08 is tagged on six psalms (6, 10, 13, 22, 30, 38); the rest of the index carries thirty-two, a third of them added today in Genesis, Deuteronomy, and Ecclesiastes. In Book II it is tagged on five more (42-43, 44, 55, 62, 69), and Psalm 62:8 — 'pour out your heart before him' — is the first passage in the index to prescribe the practice in so many words rather than enact it. C09 is reached by Psalms 5, 17, 42-43, 57, 61, and the appendix's own 63; its other named psalm, 84, falls in Book III.
 
-**Coverage note.** Book I, unindexed: Psalm 21, a royal thanksgiving whose second half celebrates the destruction of the king's enemies' descendants, and the battle portion of Psalm 18 (18:37-50).
+**Coverage note.** Book I, unindexed: Psalm 21, a royal thanksgiving whose second half celebrates the destruction of the king's enemies' descendants, and the battle portion of Psalm 18 (18:37-50). Book II, unindexed: Psalm 45, a royal wedding song (whose 45:4 — the king riding 'on behalf of truth, humility, and righteousness' — comes close to the three pillars without being their source); Psalms 47 and 48, Zion and kingship hymns; Psalm 53, which repeats Psalm 14, and Psalm 70, which repeats 40:13-17; Psalm 54, a brief petition with nothing not anchored elsewhere; Psalms 58 and 59, imprecations against corrupt judges and besiegers, the first ending with the righteous washing their feet in the blood of the wicked, which the index will not tag as a model and has no other reason to tag; Psalm 60, a national oracle after defeat; Psalm 64, a complaint against conspirators; and the battle imagery of Psalm 68 outside 68:4-10.
 
 ---
 
@@ -996,6 +996,519 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** Sick and slandered, the psalmist is betrayed by the friend 'who ate bread with me' — the verse Christ applies to Judas in John 13:18. And he asks for strength 'that I may repay them.' The index records the prayer as it stands: Non-Retaliation's absence, honestly voiced in prayer, by a man who had first blessed those who consider the poor. The curriculum's practice is the answer the Gospels give to this verse, not an endorsement of it.
 
 **Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, mercy · stages: S4 · chapters: C15 · practices: PR06 · confidence: medium
+
+---
+
+## 43. Psalm 42:1-43:5 — As the deer pants for the water brooks… Why are you in despair, my soul?
+
+> **42:1** For the Chief Musician. A contemplation by the sons of Korah. As the deer pants for the water brooks, so my soul pants after you, God.
+> **42:2** My soul thirsts for God, for the living God. When shall I come and appear before God?
+> **42:3** My tears have been my food day and night, while they continually ask me, “Where is your God?”
+> **42:4** These things I remember, and pour out my soul within me, how I used to go with the crowd, and led them to the house of God, with the voice of joy and praise, a multitude keeping a holy day.
+> **42:5** Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him for the saving help of his presence.
+> **42:6** My God, my soul is in despair within me. Therefore I remember you from the land of the Jordan, the heights of Hermon, from the hill Mizar.
+> **42:7** Deep calls to deep at the noise of your waterfalls. All your waves and your billows have swept over me.
+> **42:8** Yahweh will command his loving kindness in the daytime. In the night his song shall be with me: a prayer to the God of my life.
+> **42:9** I will ask God, my rock, “Why have you forgotten me? Why do I go mourning because of the oppression of the enemy?”
+> **42:10** As with a sword in my bones, my adversaries reproach me, while they continually ask me, “Where is your God?”
+> **42:11** Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him, the saving help of my countenance, and my God.
+> **43:1** Vindicate me, God, and plead my cause against an ungodly nation. Oh, deliver me from deceitful and wicked men.
+> **43:2** For you are the God of my strength. Why have you rejected me? Why do I go mourning because of the oppression of the enemy?
+> **43:3** Oh, send out your light and your truth. Let them lead me. Let them bring me to your holy hill, To your tents.
+> **43:4** Then I will go to the altar of God, to God, my exceeding joy. I will praise you on the harp, God, my God.
+> **43:5** Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him: my Savior, my helper, and my God.
+
+**Claim.** One poem in two psalms, held together by its refrain. Thirst for God — 'my soul thirsts for God, for the living God' — and tears as food 'day and night' while others ask 'Where is your God?' Three times the psalmist questions his own soul and commands it in the same breath: 'Why are you in despair, my soul?… Hope in God!' Sacred Lament that argues with itself rather than with God alone, and that holds memory of past joy and present desolation side by side. C09's longing as the engine of prayer, and C19's hope commanded into a despairing heart.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S3, S5 · chapters: C09, C19 · practices: PR08 · confidence: high
+
+---
+
+## 44. Psalm 44:1-26 — Wake up! Why do you sleep, Lord?
+
+> **44:1** For the Chief Musician. By the sons of Korah. A contemplative psalm. We have heard with our ears, God; our fathers have told us, what work you did in their days, in the days of old.
+> **44:2** You drove out the nations with your hand, but you planted them. You afflicted the peoples, but you spread them abroad.
+> **44:3** For they didn’t get the land in possession by their own sword, neither did their own arm save them; but your right hand, and your arm, and the light of your face, because you were favorable to them.
+> **44:4** You are my King, God. Command victories for Jacob!
+> **44:5** Through you, will we push down our adversaries. Through your name, will we tread them under who rise up against us.
+> **44:6** For I will not trust in my bow, neither shall my sword save me.
+> **44:7** But you have saved us from our adversaries, and have shamed those who hate us.
+> **44:8** In God we have made our boast all day long, we will give thanks to your name forever. Selah.
+> **44:9** But now you rejected us, and brought us to dishonor, and don’t go out with our armies.
+> **44:10** You make us turn back from the adversary. Those who hate us take spoil for themselves.
+> **44:11** You have made us like sheep for food, and have scattered us among the nations.
+> **44:12** You sell your people for nothing, and have gained nothing from their sale.
+> **44:13** You make us a reproach to our neighbors, a scoffing and a derision to those who are around us.
+> **44:14** You make us a byword among the nations, a shaking of the head among the peoples.
+> **44:15** All day long my dishonor is before me, and shame covers my face,
+> **44:16** At the taunt of one who reproaches and verbally abuses, because of the enemy and the avenger.
+> **44:17** All this has come on us, yet have we not forgotten you, Neither have we been false to your covenant.
+> **44:18** Our heart has not turned back, neither have our steps strayed from your path,
+> **44:19** Though you have crushed us in the haunt of jackals, and covered us with the shadow of death.
+> **44:20** If we have forgotten the name of our God, or spread forth our hands to a strange god;
+> **44:21** won’t God search this out? For he knows the secrets of the heart.
+> **44:22** Yes, for your sake we are killed all day long. We are regarded as sheep for the slaughter.
+> **44:23** Wake up! Why do you sleep, Lord? Arise! Don’t reject us forever.
+> **44:24** Why do you hide your face, and forget our affliction and our oppression?
+> **44:25** For our soul is bowed down to the dust. Our body clings to the earth.
+> **44:26** Rise up to help us. Redeem us for your loving kindness’ sake.
+
+**Claim.** A communal lament with a protest of innocence at its centre: 'All this has come on us, yet have we not forgotten you… Our heart has not turned back.' The suffering has no moral root the people can find, and they say so to God directly — 'Wake up! Why do you sleep, Lord?… Why do you hide your face?' Sacred Lament in its boldest form, and suffering that exceeds explanation, which is the ground C24 asks the reader to stand on without forcing an answer. Paul quotes 44:22 in Romans 8:36.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S5, S6 · chapters: C19, C24 · practices: PR08 · confidence: high
+
+---
+
+## 45. Psalm 46:1-11 — Be still, and know that I am God
+
+> **46:1** For the Chief Musician. By the sons of Korah. According to Alamoth. God is our refuge and strength, a very present help in trouble.
+> **46:2** Therefore we won’t be afraid, though the earth changes, though the mountains are shaken into the heart of the seas;
+> **46:3** though its waters roar and are troubled, though the mountains tremble with their swelling. Selah.
+> **46:4** There is a river, the streams of which make the city of God glad, the holy place of the tents of the Most High.
+> **46:5** God is in her midst. She shall not be moved. God will help her at dawn.
+> **46:6** The nations raged. The kingdoms were moved. He lifted his voice, and the earth melted.
+> **46:7** Yahweh of Armies is with us. The God of Jacob is our refuge. Selah.
+> **46:8** Come, see Yahweh’s works, what desolations he has made in the earth.
+> **46:9** He makes wars cease to the end of the earth. He breaks the bow, and shatters the spear. He burns the chariots in the fire.
+> **46:10** “Be still, and know that I am God. I will be exalted among the nations. I will be exalted in the earth.”
+> **46:11** Yahweh of Armies is with us. The God of Jacob is our refuge. Selah.
+
+**Claim.** Refuge in the middle of upheaval — 'though the earth changes, though the mountains are shaken into the heart of the seas' — and a river that gladdens the city while everything around it roars. The command at the end is to stop: 'Be still, and know that I am God.' C22's quiet soul, commanded rather than achieved, and C24's knowing that comes by stillness rather than by mastery.
+
+**Tags.** pillars: humility · stages: S5, S6 · chapters: C22, C24 · practices: none · confidence: high
+
+---
+
+## 46. Psalm 49:1-20 — They name their lands after themselves
+
+> **49:1** For the Chief Musician. A Psalm by the sons of Korah. Hear this, all you peoples. Listen, all you inhabitants of the world,
+> **49:2** both low and high, rich and poor together.
+> **49:3** My mouth will speak words of wisdom. My heart shall utter understanding.
+> **49:4** I will incline my ear to a proverb. I will open my riddle on the harp.
+> **49:5** Why should I fear in the days of evil, when iniquity at my heels surrounds me?
+> **49:6** Those who trust in their wealth, and boast in the multitude of their riches—
+> **49:7** none of them can by any means redeem his brother, nor give God a ransom for him.
+> **49:8** For the redemption of their life is costly, no payment is ever enough,
+> **49:9** That he should live on forever, that he should not see corruption.
+> **49:10** For he sees that wise men die; likewise the fool and the senseless perish, and leave their wealth to others.
+> **49:11** Their inward thought is that their houses will endure forever, and their dwelling places to all generations. They name their lands after themselves.
+> **49:12** But man, despite his riches, doesn’t endure. He is like the animals that perish.
+> **49:13** This is the destiny of those who are foolish, and of those who approve their sayings. Selah.
+> **49:14** They are appointed as a flock for Sheol. Death shall be their shepherd. The upright shall have dominion over them in the morning. Their beauty shall decay in Sheol, far from their mansion.
+> **49:15** But God will redeem my soul from the power of Sheol, for he will receive me. Selah.
+> **49:16** Don’t be afraid when a man is made rich, when the glory of his house is increased.
+> **49:17** For when he dies he shall carry nothing away. His glory shall not descend after him.
+> **49:18** Though while he lived he blessed his soul—and men praise you when you do well for yourself—
+> **49:19** he shall go to the generation of his fathers. They shall never see the light.
+> **49:20** A man who has riches without understanding, is like the animals that perish.
+
+**Claim.** A wisdom psalm addressed to rich and poor together. No one can ransom a brother from death; the rich leave their wealth to others; 'their inward thought is that their houses will endure forever… They name their lands after themselves.' 'When he dies he shall carry nothing away.' C18's detachment argued from the grave, and C02's wisdom: 'a man who has riches without understanding is like the animals that perish.'
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S1, S4 · chapters: C18, C02 · practices: none · confidence: high
+
+---
+
+## 47. Psalm 50:1-23 — What right do you have to declare my statutes… You sit and speak against your brother
+
+> **50:1** A Psalm by Asaph. The Mighty One, God, Yahweh, speaks, and calls the earth from sunrise to sunset.
+> **50:2** Out of Zion, the perfection of beauty, God shines forth.
+> **50:3** Our God comes, and does not keep silent. A fire devours before him. It is very stormy around him.
+> **50:4** He calls to the heavens above, to the earth, that he may judge his people:
+> **50:5** “Gather my saints together to me, those who have made a covenant with me by sacrifice.”
+> **50:6** The heavens shall declare his righteousness, for God himself is judge. Selah.
+> **50:7** “Hear, my people, and I will speak; Israel, and I will testify against you. I am God, your God.
+> **50:8** I don’t rebuke you for your sacrifices. Your burnt offerings are continually before me.
+> **50:9** I have no need for a bull from your stall, nor male goats from your pens.
+> **50:10** For every animal of the forest is mine, and the livestock on a thousand hills.
+> **50:11** I know all the birds of the mountains. The wild animals of the field are mine.
+> **50:12** If I were hungry, I would not tell you, for the world is mine, and all that is in it.
+> **50:13** Will I eat the flesh of bulls, or drink the blood of goats?
+> **50:14** Offer to God the sacrifice of thanksgiving. Pay your vows to the Most High.
+> **50:15** Call on me in the day of trouble. I will deliver you, and you will honor me.”
+> **50:16** But to the wicked God says, “What right do you have to declare my statutes, that you have taken my covenant on your lips,
+> **50:17** since you hate instruction, and throw my words behind you?
+> **50:18** When you saw a thief, you consented with him, and have participated with adulterers.
+> **50:19** “You give your mouth to evil. Your tongue frames deceit.
+> **50:20** You sit and speak against your brother. You slander your own mother’s son.
+> **50:21** You have done these things, and I kept silent. You thought that I was just like you. I will rebuke you, and accuse you in front of your eyes.
+> **50:22** “Now consider this, you who forget God, lest I tear you into pieces, and there be none to deliver.
+> **50:23** Whoever offers the sacrifice of thanksgiving glorifies me, and prepares his way so that I will show God’s salvation to him.”
+
+**Claim.** God has no need of bulls — 'every animal of the forest is mine' — and asks instead for the sacrifice of thanksgiving: the outward rite read for its inward meaning, which is C06's. Then the indictment of the man who recites the covenant and lives against it: he consents with thieves, frames deceit, 'sit[s] and speak[s] against your brother.' C04's hearer who is not a doer, confronted by the God he quotes.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S1, S2 · chapters: C04, C06 · practices: none · confidence: high
+
+---
+
+## 48. Psalm 51:1-19 — Create in me a clean heart, O God
+
+> **51:1** For the Chief Musician. A Psalm by David, when Nathan the prophet came to him, after he had gone in to Bathsheba. Have mercy on me, God, according to your loving kindness. According to the multitude of your tender mercies, blot out my transgressions.
+> **51:2** Wash me thoroughly from my iniquity. Cleanse me from my sin.
+> **51:3** For I know my transgressions. My sin is constantly before me.
+> **51:4** Against you, and you only, have I sinned, and done that which is evil in your sight; that you may be proved right when you speak, and justified when you judge.
+> **51:5** Behold, I was brought forth in iniquity. In sin my mother conceived me.
+> **51:6** Behold, you desire truth in the inward parts. You teach me wisdom in the inmost place.
+> **51:7** Purify me with hyssop, and I will be clean. Wash me, and I will be whiter than snow.
+> **51:8** Let me hear joy and gladness, That the bones which you have broken may rejoice.
+> **51:9** Hide your face from my sins, and blot out all of my iniquities.
+> **51:10** Create in me a clean heart, O God. Renew a right spirit within me.
+> **51:11** Don’t throw me from your presence, and don’t take your holy Spirit from me.
+> **51:12** Restore to me the joy of your salvation. Uphold me with a willing spirit.
+> **51:13** Then I will teach transgressors your ways. Sinners shall be converted to you.
+> **51:14** Deliver me from bloodguiltiness, O God, the God of my salvation. My tongue shall sing aloud of your righteousness.
+> **51:15** Lord, open my lips. My mouth shall declare your praise.
+> **51:16** For you don’t delight in sacrifice, or else I would give it. You have no pleasure in burnt offering.
+> **51:17** The sacrifices of God are a broken spirit. A broken and contrite heart, O God, you will not despise.
+> **51:18** Do well in your good pleasure to Zion. Build the walls of Jerusalem.
+> **51:19** Then you will delight in the sacrifices of righteousness, in burnt offerings and in whole burnt offerings. Then they will offer bulls on your altar.
+
+**Claim.** C19 takes 51:1-3, 51:10, and 51:17 as its witness, and the Scriptural Appendix names David — 2 Samuel 11-12 with Psalm 51 — as the model for the Failure Recovery Protocol: a man who 'names it without excuse or explanation of circumstances and throws himself on mercy.' 'For I know my transgressions. My sin is constantly before me.' Then the request that is more than forgiveness: 'Create in me a clean heart… Renew a right spirit within me' — the change of heart C26 promises. 'A broken and contrite heart, O God, you will not despise.'
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy, humility · stages: S5, S6 · chapters: C19, C26 · practices: PR11 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 49. Psalm 52:1-9 — I am like a green olive tree in God's house
+
+> **52:1** For the Chief Musician. A contemplation by David, when Doeg the Edomite came and told Saul, “David has come to Abimelech’s house.” Why do you boast of mischief, mighty man? God’s loving kindness endures continually.
+> **52:2** Your tongue plots destruction, like a sharp razor, working deceitfully.
+> **52:3** You love evil more than good, lying rather than speaking the truth. Selah.
+> **52:4** You love all devouring words, you deceitful tongue.
+> **52:5** God will likewise destroy you forever. He will take you up, and pluck you out of your tent, and root you out of the land of the living. Selah.
+> **52:6** The righteous also will see it, and fear, and laugh at him, saying,
+> **52:7** “Behold, this is the man who didn’t make God his strength, but trusted in the abundance of his riches, and strengthened himself in his wickedness.”
+> **52:8** But as for me, I am like a green olive tree in God’s house. I trust in God’s loving kindness forever and ever.
+> **52:9** I will give you thanks forever, because you have done it. I will hope in your name, for it is good, in the presence of your saints.
+
+**Claim.** Against the man whose 'tongue plots destruction, like a sharp razor,' who loves lying more than truth and 'trusted in the abundance of his riches,' the psalmist sets himself as an olive tree rooted in God's house. C04's audit of the tongue and C18's misplaced trust, in one portrait.
+
+**Tags.** pillars: truth, humility · stages: S1, S4 · chapters: C04, C18 · practices: none · confidence: medium
+
+---
+
+## 50. Psalm 55:1-23 — It was not an enemy who insulted me… but it was you, my companion
+
+> **55:1** For the Chief Musician. On stringed instruments. A contemplation by David. Listen to my prayer, God. Don’t hide yourself from my supplication.
+> **55:2** Attend to me, and answer me. I am restless in my complaint, and moan,
+> **55:3** Because of the voice of the enemy, Because of the oppression of the wicked. For they bring suffering on me. In anger they hold a grudge against me.
+> **55:4** My heart is severely pained within me. The terrors of death have fallen on me.
+> **55:5** Fearfulness and trembling have come on me. Horror has overwhelmed me.
+> **55:6** I said, “Oh that I had wings like a dove! Then I would fly away, and be at rest.
+> **55:7** Behold, then I would wander far off. I would lodge in the wilderness.” Selah.
+> **55:8** “I would hurry to a shelter from the stormy wind and storm.”
+> **55:9** Confuse them, Lord, and confound their language, for I have seen violence and strife in the city.
+> **55:10** Day and night they prowl around on its walls. Malice and abuse are also within her.
+> **55:11** Destructive forces are within her. Threats and lies don’t depart from her streets.
+> **55:12** For it was not an enemy who insulted me, then I could have endured it. Neither was it he who hated me who raised himself up against me, then I would have hidden myself from him.
+> **55:13** But it was you, a man like me, my companion, and my familiar friend.
+> **55:14** We took sweet fellowship together. We walked in God’s house with company.
+> **55:15** Let death come suddenly on them. Let them go down alive into Sheol. For wickedness is in their dwelling, in their midst.
+> **55:16** As for me, I will call on God. Yahweh will save me.
+> **55:17** Evening, morning, and at noon, I will cry out in distress. He will hear my voice.
+> **55:18** He has redeemed my soul in peace from the battle that was against me, although there are many who oppose me.
+> **55:19** God, who is enthroned forever, will hear, and answer them. Selah. They never change, who don’t fear God.
+> **55:20** He raises his hands against his friends. He has violated his covenant.
+> **55:21** His mouth was smooth as butter, but his heart was war. His words were softer than oil, yet they were drawn swords.
+> **55:22** Cast your burden on Yahweh, and he will sustain you. He will never allow the righteous to be moved.
+> **55:23** But you, God, will bring them down into the pit of destruction. Bloodthirsty and deceitful men shall not live out half their days, but I will trust in you.
+
+**Claim.** 'I am restless in my complaint, and moan.' The wish to escape — 'Oh that I had wings like a dove!' — and the wound named precisely: an enemy he could have endured, 'but it was you, a man like me, my companion, and my familiar friend… His mouth was smooth as butter, but his heart was war.' Sacred Lament over betrayal, prayed 'evening, morning, and at noon,' and ending in 'cast your burden on Yahweh.' C15's broken fellowship, and C18's burden handed over. The thrice-daily prayer of 55:17 is the Jewish rhythm the Didache later assigns to the Lord's Prayer; PR30 is defined by that prayer and is not tagged here.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4 · chapters: C15, C18 · practices: PR08 · confidence: high
+
+---
+
+## 51. Psalm 56:1-13 — You put my tears into your bottle
+
+> **56:1** For the Chief Musician. To the tune of “Silent Dove in Distant Lands.” A poem by David, when the Philistines seized him in Gath. Be merciful to me, God, for man wants to swallow me up. All day long, he attacks and oppresses me.
+> **56:2** My enemies want to swallow me up all day long, for they are many who fight proudly against me.
+> **56:3** When I am afraid, I will put my trust in you.
+> **56:4** In God, I praise his word. In God, I put my trust. I will not be afraid. What can flesh do to me?
+> **56:5** All day long they twist my words. All their thoughts are against me for evil.
+> **56:6** They conspire and lurk, watching my steps, they are eager to take my life.
+> **56:7** Shall they escape by iniquity? In anger cast down the peoples, God.
+> **56:8** You number my wanderings. You put my tears into your bottle. Aren’t they in your book?
+> **56:9** Then my enemies shall turn back in the day that I call. I know this, that God is for me.
+> **56:10** In God, I will praise his word. In Yahweh, I will praise his word.
+> **56:11** I have put my trust in God. I will not be afraid. What can man do to me?
+> **56:12** Your vows are on me, God. I will give thank offerings to you.
+> **56:13** For you have delivered my soul from death, and prevented my feet from falling, that I may walk before God in the light of the living.
+
+**Claim.** 'When I am afraid, I will put my trust in you' — fear and trust in the same sentence, not in sequence. And a single image of what God does with grief: 'You number my wanderings. You put my tears into your bottle. Aren't they in your book?' Sorrow kept, not dismissed. C22's quiet held inside fear, and C19's God who keeps account of tears.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S5 · chapters: C22, C19 · practices: none · confidence: medium
+
+---
+
+## 52. Psalm 57:1-11 — In the shadow of your wings, I will take refuge, until disaster has passed
+
+> **57:1** For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, when he fled from Saul, in the cave. Be merciful to me, God, be merciful to me, for my soul takes refuge in you. Yes, in the shadow of your wings, I will take refuge, until disaster has passed.
+> **57:2** I cry out to God Most High, to God who accomplishes my requests for me.
+> **57:3** He will send from heaven, and save me, he rebukes the one who is pursuing me. Selah. God will send out his loving kindness and his truth.
+> **57:4** My soul is among lions. I lie among those who are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword.
+> **57:5** Be exalted, God, above the heavens! Let your glory be above all the earth!
+> **57:6** They have prepared a net for my steps. My soul is bowed down. They dig a pit before me. They fall into its midst themselves. Selah.
+> **57:7** My heart is steadfast, God, my heart is steadfast. I will sing, yes, I will sing praises.
+> **57:8** Wake up, my glory! Wake up, psaltery and harp! I will wake up the dawn.
+> **57:9** I will give thanks to you, Lord, among the peoples. I will sing praises to you among the nations.
+> **57:10** For your great loving kindness reaches to the heavens, and your truth to the skies.
+> **57:11** Be exalted, God, above the heavens. Let your glory be over all the earth.
+
+**Claim.** Written, the superscription says, in a cave while hunted. Refuge 'until disaster has passed,' and then a heart made steady enough to sing: 'My heart is steadfast, God, my heart is steadfast… I will wake up the dawn.' C09's sheltered place, and C22's steadiness found inside it.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S3, S5 · chapters: C09, C22 · practices: none · confidence: medium
+
+---
+
+## 53. Psalm 61:1-8 — Lead me to the rock that is higher than I
+
+> **61:1** For the Chief Musician. For a stringed instrument. By David. Hear my cry, God. Listen to my prayer.
+> **61:2** From the end of the earth, I will call to you, when my heart is overwhelmed. Lead me to the rock that is higher than I.
+> **61:3** For you have been a refuge for me, a strong tower from the enemy.
+> **61:4** I will dwell in your tent forever. I will take refuge in the shelter of your wings. Selah.
+> **61:5** For you, God, have heard my vows. You have given me the heritage of those who fear your name.
+> **61:6** You will prolong the king’s life; his years shall be for generations.
+> **61:7** He shall be enthroned in God’s presence forever. Appoint your loving kindness and truth, that they may preserve him.
+> **61:8** So I will sing praise to your name forever, that I may fulfill my vows daily.
+
+**Claim.** 'From the end of the earth, I will call to you, when my heart is overwhelmed. Lead me to the rock that is higher than I.' A refuge above oneself, sought from the far edge. The psalm ends in the ordinary keeping of a promise — 'that I may fulfill my vows daily' — which is C13's faithfulness.
+
+**Tags.** pillars: humility · stages: S3, S4 · chapters: C09, C13 · practices: none · confidence: medium
+
+---
+
+## 54. Psalm 62:1-12 — Pour out your heart before him
+
+> **62:1** For the Chief Musician. To Jeduthan. A Psalm by David. My soul rests in God alone. My salvation is from him.
+> **62:2** He alone is my rock and my salvation, my fortress—I will never be greatly shaken.
+> **62:3** How long will you assault a man, would all of you throw him down, Like a leaning wall, like a tottering fence?
+> **62:4** They fully intend to throw him down from his lofty place. They delight in lies. They bless with their mouth, but they curse inwardly. Selah.
+> **62:5** My soul, wait in silence for God alone, for my expectation is from him.
+> **62:6** He alone is my rock and my salvation, my fortress. I will not be shaken.
+> **62:7** With God is my salvation and my honor. The rock of my strength, and my refuge, is in God.
+> **62:8** Trust in him at all times, you people. Pour out your heart before him. God is a refuge for us. Selah.
+> **62:9** Surely men of low degree are just a breath, and men of high degree are a lie. In the balances they will go up. They are together lighter than a breath.
+> **62:10** Don’t trust in oppression. Don’t become vain in robbery. If riches increase, don’t set your heart on them.
+> **62:11** God has spoken once; twice I have heard this, that power belongs to God.
+> **62:12** Also to you, Lord, belongs loving kindness, for you reward every man according to his work.
+
+**Claim.** The psalm of silence — 'my soul rests in God alone… My soul, wait in silence for God alone' — contains the plainest command to lament in the Psalter: 'Trust in him at all times, you people. Pour out your heart before him.' Sacred Lament prescribed, and prescribed together with trust rather than against it. 'If riches increase, don't set your heart on them' is C18's, and the waiting silence is C22's.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S4, S5 · chapters: C22, C18 · practices: PR08 · confidence: high
+
+---
+
+## 55. Psalm 63:1-11 — My soul thirsts for you… in a dry and weary land, where there is no water
+
+> **63:1** A Psalm by David, when he was in the desert of Judah. God, you are my God. I will earnestly seek you. My soul thirsts for you. My flesh longs for you, in a dry and weary land, where there is no water.
+> **63:2** So I have seen you in the sanctuary, watching your power and your glory.
+> **63:3** Because your loving kindness is better than life, my lips shall praise you.
+> **63:4** So I will bless you while I live. I will lift up my hands in your name.
+> **63:5** My soul shall be satisfied as with the richest food. My mouth shall praise you with joyful lips,
+> **63:6** when I remember you on my bed, and think about you in the night watches.
+> **63:7** For you have been my help. I will rejoice in the shadow of your wings.
+> **63:8** My soul stays close to you. Your right hand holds me up.
+> **63:9** But those who seek my soul, to destroy it, shall go into the lower parts of the earth.
+> **63:10** They shall be given over to the power of the sword. They shall be jackal food.
+> **63:11** But the king shall rejoice in God. Everyone who swears by him will praise him, for the mouth of those who speak lies shall be silenced.
+
+**Claim.** The Scriptural Appendix assigns Psalm 63 to C09: thirst in the dry land, entering the secret place. 'Your loving kindness is better than life'; 'when I remember you on my bed, and think about you in the night watches… My soul stays close to you.' The final verses against enemies are read under the genre note.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S3 · chapters: C09 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 56. Psalm 65:1-13 — You crown the year with your bounty
+
+> **65:1** For the Chief Musician. A Psalm by David. A song. Praise waits for you, God, in Zion. To you shall vows be performed.
+> **65:2** You who hear prayer, to you all men will come.
+> **65:3** Sins overwhelmed me, but you atoned for our transgressions.
+> **65:4** Blessed is one whom you choose, and cause to come near, that he may live in your courts. We will be filled with the goodness of your house, your holy temple.
+> **65:5** By awesome deeds of righteousness, you answer us, God of our salvation. You who are the hope of all the ends of the earth, of those who are far away on the sea;
+> **65:6** Who by his power forms the mountains, having armed yourself with strength;
+> **65:7** who stills the roaring of the seas, the roaring of their waves, and the turmoil of the nations.
+> **65:8** They also who dwell in faraway places are afraid at your wonders. You call the morning’s dawn and the evening with songs of joy.
+> **65:9** You visit the earth, and water it. You greatly enrich it. The river of God is full of water. You provide them grain, for so you have ordained it.
+> **65:10** You drench its furrows. You level its ridges. You soften it with showers. You bless it with a crop.
+> **65:11** You crown the year with your bounty. Your carts overflow with abundance.
+> **65:12** The wilderness grasslands overflow. The hills are clothed with gladness.
+> **65:13** The pastures are covered with flocks. The valleys also are clothed with grain. They shout for joy! They also sing.
+
+**Claim.** 'Sins overwhelmed me, but you atoned for our transgressions' — and then the year described as God's work from furrow to harvest: rain softening the ridges, the hills 'clothed with gladness,' the valleys shouting for joy. 'You call the morning's dawn and the evening with songs of joy.' C24's landscape of wonder and C10's gratitude, in a harvest hymn.
+
+**Tags.** pillars: mercy, humility · stages: S3, S6 · chapters: C24, C10 · practices: none · confidence: medium
+
+---
+
+## 57. Psalm 66:1-20 — We went through fire and through water, but you brought us to the place of abundance
+
+> **66:1** For the Chief Musician. A song. A Psalm. Make a joyful shout to God, all the earth!
+> **66:2** Sing to the glory of his name! Offer glory and praise!
+> **66:3** Tell God, “How awesome are your deeds! Through the greatness of your power, your enemies submit themselves to you.
+> **66:4** All the earth will worship you, and will sing to you; they will sing to your name.” Selah.
+> **66:5** Come, and see God’s deeds—awesome work on behalf of the children of men.
+> **66:6** He turned the sea into dry land. They went through the river on foot. There, we rejoiced in him.
+> **66:7** He rules by his might forever. His eyes watch the nations. Don’t let the rebellious rise up against him. Selah.
+> **66:8** Praise our God, you peoples! Make the sound of his praise heard,
+> **66:9** who preserves our life among the living, and doesn’t allow our feet to be moved.
+> **66:10** For you, God, have tested us. You have refined us, as silver is refined.
+> **66:11** You brought us into prison. You laid a burden on our backs.
+> **66:12** You allowed men to ride over our heads. We went through fire and through water, but you brought us to the place of abundance.
+> **66:13** I will come into your temple with burnt offerings. I will pay my vows to you,
+> **66:14** which my lips promised, and my mouth spoke, when I was in distress.
+> **66:15** I will offer to you burnt offerings of fat animals, with the offering of rams, I will offer bulls with goats. Selah.
+> **66:16** Come, and hear, all you who fear God. I will declare what he has done for my soul.
+> **66:17** I cried to him with my mouth. He was extolled with my tongue.
+> **66:18** If I cherished sin in my heart, the Lord wouldn’t have listened.
+> **66:19** But most certainly, God has listened. He has heard the voice of my prayer.
+> **66:20** Blessed be God, who has not turned away my prayer, nor his loving kindness from me.
+
+**Claim.** Testing described as refining — 'you have refined us, as silver is refined… We went through fire and through water' — and arriving at abundance. C25's formation through trial, not around it. And one sentence on what blocks prayer: 'If I cherished sin in my heart, the Lord wouldn't have listened.' Not the sin's arrival but its cherishing, which is C20's distinction between a thought received and a thought hosted.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S5, S6 · chapters: C25, C20 · practices: none · confidence: medium
+
+---
+
+## 58. Psalm 67:1-7 — Let all the peoples praise you
+
+> **67:1** For the Chief Musician. With stringed instruments. A Psalm. A song. May God be merciful to us, bless us, and cause his face to shine on us. Selah.
+> **67:2** That your way may be known on earth, and your salvation among all nations,
+> **67:3** let the peoples praise you, God. Let all the peoples praise you.
+> **67:4** Oh let the nations be glad and sing for joy, for you will judge the peoples with equity, and govern the nations on earth. Selah.
+> **67:5** Let the peoples praise you, God. Let all the peoples praise you.
+> **67:6** The earth has yielded its increase. God, even our own God, will bless us.
+> **67:7** God will bless us. All the ends of the earth shall fear him.
+
+**Claim.** The priestly blessing — 'God be merciful to us, bless us, and cause his face to shine on us' — asked so that God's way 'may be known on earth, and your salvation among all nations.' Blessing received for the sake of the widest circle, which is C27's.
+
+**Tags.** pillars: mercy · stages: S7 · chapters: C27 · practices: none · confidence: medium
+
+---
+
+## 59. Psalm 68:4-10 — A father of the fatherless, and a defender of the widows… God sets the lonely in families
+
+> **68:4** Sing to God! Sing praises to his name! Extol him who rides on the clouds: to Yah, his name! Rejoice before him!
+> **68:5** A father of the fatherless, and a defender of the widows, is God in his holy habitation.
+> **68:6** God sets the lonely in families. He brings out the prisoners with singing, but the rebellious dwell in a sun-scorched land.
+> **68:7** God, when you went forth before your people, when you marched through the wilderness... Selah.
+> **68:8** The earth trembled. The sky also poured down rain at the presence of the God of Sinai—at the presence of God, the God of Israel.
+> **68:9** You, God, sent a plentiful rain. You confirmed your inheritance, when it was weary.
+> **68:10** Your congregation lived therein. You, God, prepared your goodness for the poor.
+
+**Claim.** In a long processional hymn, a few verses define God by those he takes in: 'A father of the fatherless, and a defender of the widows… God sets the lonely in families. He brings out the prisoners with singing… You, God, prepared your goodness for the poor.' C16's vulnerable, and C14's household as the place the lonely are set. The battle imagery of the rest of the psalm is not indexed.
+
+**Tags.** pillars: mercy · stages: S4 · chapters: C16, C14 · practices: none · confidence: high
+
+---
+
+## 60. Psalm 69:1-36 — I looked for some to take pity, but there was none; for comforters, but I found none
+
+> **69:1** For the Chief Musician. To the tune of “Lilies.” By David. Save me, God, for the waters have come up to my neck!
+> **69:2** I sink in deep mire, where there is no foothold. I have come into deep waters, where the floods overflow me.
+> **69:3** I am weary with my crying. My throat is dry. My eyes fail, looking for my God.
+> **69:4** Those who hate me without a cause are more than the hairs of my head. Those who want to cut me off, being my enemies wrongfully, are mighty. I have to restore what I didn’t take away.
+> **69:5** God, you know my foolishness. My sins aren’t hidden from you.
+> **69:6** Don’t let those who wait for you be shamed through me, Lord Yahweh of Armies. Don’t let those who seek you be brought to dishonor through me, God of Israel.
+> **69:7** Because for your sake, I have borne reproach. Shame has covered my face.
+> **69:8** I have become a stranger to my brothers, an alien to my mother’s children.
+> **69:9** For the zeal of your house consumes me. The reproaches of those who reproach you have fallen on me.
+> **69:10** When I wept and I fasted, that was to my reproach.
+> **69:11** When I made sackcloth my clothing, I became a byword to them.
+> **69:12** Those who sit in the gate talk about me. I am the song of the drunkards.
+> **69:13** But as for me, my prayer is to you, Yahweh, in an acceptable time. God, in the abundance of your loving kindness, answer me in the truth of your salvation.
+> **69:14** Deliver me out of the mire, and don’t let me sink. Let me be delivered from those who hate me, and out of the deep waters.
+> **69:15** Don’t let the flood waters overwhelm me, neither let the deep swallow me up. Don’t let the pit shut its mouth on me.
+> **69:16** Answer me, Yahweh, for your loving kindness is good. According to the multitude of your tender mercies, turn to me.
+> **69:17** Don’t hide your face from your servant, for I am in distress. Answer me speedily!
+> **69:18** Draw near to my soul, and redeem it. Ransom me because of my enemies.
+> **69:19** You know my reproach, my shame, and my dishonor. My adversaries are all before you.
+> **69:20** Reproach has broken my heart, and I am full of heaviness. I looked for some to take pity, but there was none; for comforters, but I found none.
+> **69:21** They also gave me gall for my food. In my thirst, they gave me vinegar to drink.
+> **69:22** Let their table before them become a snare. May it become a retribution and a trap.
+> **69:23** Let their eyes be darkened, so that they can’t see. Let their backs be continually bent.
+> **69:24** Pour out your indignation on them. Let the fierceness of your anger overtake them.
+> **69:25** Let their habitation be desolate. Let no one dwell in their tents.
+> **69:26** For they persecute him whom you have wounded. They tell of the sorrow of those whom you have hurt.
+> **69:27** Charge them with crime upon crime. Don’t let them come into your righteousness.
+> **69:28** Let them be blotted out of the book of life, and not be written with the righteous.
+> **69:29** But I am in pain and distress. Let your salvation, God, protect me.
+> **69:30** I will praise the name of God with a song, and will magnify him with thanksgiving.
+> **69:31** It will please Yahweh better than an ox, or a bull that has horns and hoofs.
+> **69:32** The humble have seen it, and are glad. You who seek after God, let your heart live.
+> **69:33** For Yahweh hears the needy, and doesn’t despise his captive people.
+> **69:34** Let heaven and earth praise him; the seas, and everything that moves therein!
+> **69:35** For God will save Zion, and build the cities of Judah. They shall settle there, and own it.
+> **69:36** The children also of his servants shall inherit it. Those who love his name shall dwell therein.
+
+**Claim.** 'Save me, God, for the waters have come up to my neck!' Hated without cause, made 'a stranger to my brothers,' a byword for his very devotion — 'the zeal of your house consumes me' — mocked while he fasts, given vinegar for his thirst. 'I looked for some to take pity, but there was none.' The New Testament quotes it of the passion more than any psalm but 22. Sacred Lament that includes honest confession ('you know my foolishness') and the fiercest imprecations in Book II (69:22-28), which are read under the genre note. The alienation of the faithful from their own kin is C17's cost.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4, S5 · chapters: C19, C17 · practices: PR08 · confidence: medium
+
+---
+
+## 61. Psalm 71:1-24 — Don't reject me in my old age… until I have declared your strength to the next generation
+
+> **71:1** In you, Yahweh, I take refuge. Never let me be disappointed.
+> **71:2** Deliver me in your righteousness, and rescue me. Turn your ear to me, and save me.
+> **71:3** Be to me a rock of refuge to which I may always go. Give the command to save me, for you are my rock and my fortress.
+> **71:4** Rescue me, my God, from the hand of the wicked, from the hand of the unrighteous and cruel man.
+> **71:5** For you are my hope, Lord Yahweh; my confidence from my youth.
+> **71:6** I have relied on you from the womb. You are he who took me out of my mother’s womb. I will always praise you.
+> **71:7** I am a marvel to many, but you are my strong refuge.
+> **71:8** My mouth shall be filled with your praise, with your honor all the day.
+> **71:9** Don’t reject me in my old age. Don’t forsake me when my strength fails.
+> **71:10** For my enemies talk about me. Those who watch for my soul conspire together,
+> **71:11** saying, “God has forsaken him. Pursue and take him, for no one will rescue him.”
+> **71:12** God, don’t be far from me. My God, hurry to help me.
+> **71:13** Let my accusers be disappointed and consumed. Let them be covered with disgrace and scorn who want to harm me.
+> **71:14** But I will always hope, and will add to all of your praise.
+> **71:15** My mouth will tell about your righteousness, and of your salvation all day, though I don’t know its full measure.
+> **71:16** I will come with the mighty acts of the Lord Yahweh. I will make mention of your righteousness, even of yours alone.
+> **71:17** God, you have taught me from my youth. Until now, I have declared your wondrous works.
+> **71:18** Yes, even when I am old and gray-haired, God, don’t forsake me, until I have declared your strength to the next generation, your might to everyone who is to come.
+> **71:19** Your righteousness also, God, reaches to the heavens; you have done great things. God, who is like you?
+> **71:20** You, who have shown us many and bitter troubles, you will let me live. You will bring us up again from the depths of the earth.
+> **71:21** Increase my honor, and comfort me again.
+> **71:22** I will also praise you with the harp for your faithfulness, my God. I sing praises to you with the lyre, Holy One of Israel.
+> **71:23** My lips shall shout for joy! My soul, which you have redeemed, sings praises to you!
+> **71:24** My tongue will also talk about your righteousness all day long, for they are disappointed, and they are confounded, who want to harm me.
+
+**Claim.** The prayer of an old man who has trusted God 'from the womb' and asks not to be abandoned 'when my strength fails' — and asks it for a reason: 'until I have declared your strength to the next generation.' He tells of God's righteousness 'though I don't know its full measure.' C25's long road walked to its end, and C14's handing on.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, truth · stages: S4, S6 · chapters: C25, C14 · practices: none · confidence: medium
+
+---
+
+## 62. Psalm 72:1-20 — He will deliver the needy when he cries; the poor, who has no helper
+
+> **72:1** By Solomon. God, give the king your justice; your righteousness to the royal son.
+> **72:2** He will judge your people with righteousness, and your poor with justice.
+> **72:3** The mountains shall bring prosperity to the people. The hills bring the fruit of righteousness.
+> **72:4** He will judge the poor of the people. He will save the children of the needy, and will break the oppressor in pieces.
+> **72:5** They shall fear you while the sun endures; and as long as the moon, throughout all generations.
+> **72:6** He will come down like rain on the mown grass, as showers that water the earth.
+> **72:7** In his days, the righteous shall flourish, and abundance of peace, until the moon is no more.
+> **72:8** He shall have dominion also from sea to sea, from the River to the ends of the earth.
+> **72:9** Those who dwell in the wilderness shall bow before him. His enemies shall lick the dust.
+> **72:10** The kings of Tarshish and of the islands will bring tribute. The kings of Sheba and Seba shall offer gifts.
+> **72:11** Yes, all kings shall fall down before him. All nations shall serve him.
+> **72:12** For he will deliver the needy when he cries; the poor, who has no helper.
+> **72:13** He will have pity on the poor and needy. He will save the souls of the needy.
+> **72:14** He will redeem their soul from oppression and violence. Their blood will be precious in his sight.
+> **72:15** They shall live, and to him shall be given of the gold of Sheba. Men shall pray for him continually. They shall bless him all day long.
+> **72:16** Abundance of grain shall be throughout the land. Its fruit sways like Lebanon. Let it flourish, thriving like the grass of the field.
+> **72:17** His name endures forever. His name continues as long as the sun. Men shall be blessed by him. All nations will call him blessed.
+> **72:18** Praise be to Yahweh God, the God of Israel, who alone does marvelous deeds.
+> **72:19** Blessed be his glorious name forever! Let the whole earth be filled with his glory! Amen and amen.
+> **72:20** This ends the prayers by David, the son of Jesse.
+
+**Claim.** The prayer for the ideal king is a prayer that he will be measured by the poor: 'He will judge your people with righteousness, and your poor with justice… He will deliver the needy when he cries; the poor, who has no helper… Their blood will be precious in his sight.' C16's account of what authority is for, sung over a coronation.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S4 · chapters: C16 · practices: none · confidence: high
 
 ---
 

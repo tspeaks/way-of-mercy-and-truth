@@ -1,0 +1,540 @@
+{
+  "book": "Deuteronomy",
+  "translation": "World English Bible (public domain)",
+  "status": "in progress — chapters 1-11 of 34 indexed (Moses' first and second addresses); chapters 12-26, 27-30, and 31-34 pending",
+  "method_version": "2.3",
+  "text_source": "index/text/deuteronomy.json",
+  "note": "The Two Ways in its original form, upstream of both the Didache and C01. Indexed in sections along the book's own seams: the first address and the history (1-4), the second address with the Decalogue and the Shema (5-11), the law code (12-26), the blessings, curses, and covenant renewal (27-30), and the song and death of Moses (31-34). This file covers the first two.",
+  "sectioning_note": "As with Jeremiah, sectioning is a practical necessity and the status field names what is done. The prior citations the Scriptural Appendix makes for this book — 18:15, 30:19, 32:4, and the gleaning, wage, and honest-scale laws — all fall in sections not yet indexed.",
+  "coverage_note": "Chapters 1-11, unindexed by decision: the destruction of Sihon and Og with 'the women and the little ones' (2:24-3:11), the allotment of the eastern lands (3:12-17), the summary at 4:44-49, and the command to destroy the seven nations and show them no mercy, with the blessings and assurances bound up in it (7:1-5, 7:12-26: 'your eye shall not pity them'). These are among the hardest texts in the canon for a curriculum built on mercy, and the index does not soften them by allegory — including the long monastic tradition of reading 7:22, 'by little and little,' as the gradual conquest of the passions — nor tag them by stretching. WMT's genealogy nowhere adopts an allegorical hermeneutic, as noted for the Song of Solomon. They are recorded here as left out, not as judged to be of no weight; a reader of the curriculum will meet them, and the index should not pretend they are absent.",
+  "entries": [
+    {
+      "ref": "Deuteronomy 1:1-8",
+      "pericope": "You have lived long enough in this mountain",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [],
+      "connection": "The book opens at the edge of the land, forty years late, with the instruction given at Horeb repeated: 'You have lived long enough in this mountain: turn, and take your journey.' The place of revelation is not the place to stay. C25's growth by steps, in which each stage is left for the next, has its first image here.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 1:9-18",
+      "pericope": "You shall hear the small and the great alike",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Moses admits he cannot bear the people alone and distributes the burden, and the charge to the judges is the first statement of the book's justice: judge between a man and his brother 'and the foreigner who is living with him,' without partiality, 'the small and the great alike,' unafraid of any face, 'for the judgment is God's.' Authority shared rather than hoarded, and held for the weak in the case, is C16's account of what authority is for.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 1:19-46",
+      "pericope": "We have sinned… we will go up and fight",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C19"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "counter-example",
+      "connection": "Two failures in sequence. At Kadesh the people refuse the land and explain their fear by reading the worst motive into God — 'Because Yahweh hated us, he has brought us forth' — a misdiagnosis of the kind C21 traces to its root, against the record of a God who 'bore you, as a man does bear his son.' Then, told they will not enter, they say 'We have sinned' and go up to fight after all, against an explicit command, and are routed. The confession is turned into a bid to reverse the consequence rather than a return to the obedience actually asked, which was to turn back into the wilderness. The Failure Recovery Protocol asks for exactly the ordinary next act of obedience, without ceremony; this is what its absence looks like when it is dressed as repentance.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 2:1-23",
+      "pericope": "Don't contend with them… you have lacked nothing",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Three peoples are to be passed by and not fought — Esau, Moab, Ammon — because their land was given to them, and Israel is to pay for its food and water. Esau is named 'your brothers.' Restraint toward kin who are also rivals is C15's ground, and the reason given for being content to buy rather than take — 'these forty years Yahweh your God has been with you; you have lacked nothing' — is C18's.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 3:18-22",
+      "pericope": "Until Yahweh gives rest to your brothers, as to you",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The tribes who have already received their land east of the Jordan are to cross armed ahead of the others and not return home until their brothers have rest as well. Their own settlement is deferred until the others are settled. C13's ordinary faithfulness to a shared life, as a condition of enjoying one's own portion. PR26 does not apply: the obligation is commanded, not unobligated.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 3:23-29",
+      "pericope": "Let it suffice you; speak no more to me of this matter",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Moses pleads to see the land and is refused: 'Let it suffice you.' He is allowed to see it from Pisgah and told to spend what remains on strengthening Joshua, who will go where he cannot. The refusal is accepted and the energy turned to a successor. Detachment from the one thing he had worked forty years toward, C18, issuing in the logic of service, C16.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 4:1-14",
+      "pericope": "Take heed to yourself, and keep your soul diligently",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C02",
+        "C20",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The statutes are called 'your wisdom and your understanding in the sight of the peoples,' wisdom as a way of living that can be seen, which is C02's definition. 'Keep your soul diligently, lest you forget… and lest they depart from your heart' uses the keeping of the heart that C20 takes from Proverbs 4:23, and the remedy for forgetting is to teach it to one's children, which is C14's household. PR12 shares the guard but its object here is memory rather than the arriving thought, so it is not tagged.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 4:15-31",
+      "pericope": "You saw no kind of form",
+      "pillars": [
+        "humility",
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The prohibition of images is grounded in what was and was not seen at Horeb: a voice, and no form. God is not to be reduced to a likeness that can be held. C24's discipline of wonder rests on the same refusal, though the curriculum's PR04 concerns mental grasp rather than images and is not tagged here. The paragraph ends in exile and return: 'from there you shall seek Yahweh your God, and you shall find him, when you search after him with all your heart… for Yahweh your God is a merciful God.' C19's door, opened from the far country.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 4:32-40",
+      "pericope": "Know therefore this day, and lay it to your heart",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Ask of all the days since creation whether anything like this has happened. The argument moves from what was seen to what is to be known — 'Yahweh he is God in heaven above and on the earth beneath; there is none else' — and from that to keeping the statutes 'that it may go well with you.' C01's reality with a grain: the commandments are given as fitted to the way things are.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 4:41-43",
+      "pericope": "The manslayer… who didn't hate him in time past",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Cities of refuge for one who kills his neighbour 'unawares, and didn't hate him in time past.' The law distinguishes the act from the heart that produced it, which is C21's distinction between a visible failure and its root, and it provides a door for the one whose harm did not come from hatred — C19's mercy given an address.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 5:1-11",
+      "pericope": "Not with our fathers, but with us, who are all of us here alive this day",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The covenant is made not with a past generation but 'with us, even us, who are all of us here alive this day,' and the first words are the reason before the rule: 'I am Yahweh your God, who brought you out… out of the house of bondage.' The commandments as the shape of a freedom already given, which is how C01 presents the moral order — not imposed on reality but describing it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 5:12-15",
+      "pericope": "That your male servant and your female servant may rest as well as you",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Deuteronomy's sabbath differs from Exodus's in its reason. Here it is so that the servant, the stranger, even the ox may rest 'as well as you,' and 'you shall remember that you were a servant in the land of Egypt.' The household's rhythm is set for the benefit of its weakest members, by a people told to remember being the weakest. C16's why-the-vulnerable-specifically, kept inside C14's home.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 5:16-21",
+      "pericope": "Neither shall you covet",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C01",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The second table, ending in a command against a desire rather than an act: 'neither shall you covet… neither shall you desire your neighbor's house.' The moral order reaches inward to the movement before the deed, which is C20's territory. PR12 shares the subject but the commandment forbids the movement without prescribing the attention by which it is caught, so it is not tagged.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 5:22-33",
+      "pericope": "Oh that there were such a heart in them",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S6"
+      ],
+      "chapters": [
+        "C08",
+        "C26"
+      ],
+      "practices": [],
+      "connection": "Afraid of the fire, the people ask for a mediator, and God approves the request — the arrangement that 18:15 will extend into the promise of a prophet like Moses, C08's True Prophet. Then a sentence of longing from God's side: 'Oh that there were such a heart in them, that they would fear me.' The change of heart that C26 promises through Ezekiel is first wished for here.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 6:1-9",
+      "pericope": "When you lie down, and when you rise up",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C01",
+        "C14",
+        "C28"
+      ],
+      "practices": [
+        "PR07"
+      ],
+      "mode": "prescribes",
+      "connection": "The Shema: Yahweh is one, and love him with all your heart, soul, and might. Then the means, which are entirely ordinary — on your heart, taught to your children, spoken of 'when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up.' A love sustained by being returned to at fixed points in the day. The Daily Anchors set the day between a morning choice and an evening review, and this is their oldest form. Confidence is medium because the passage commands keeping the words present across the day rather than the Anchors' specific morning, midday, and evening content; PR30's fixed-hour prayer is the Lord's Prayer and is not tagged.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 6:10-19",
+      "pericope": "Houses full of all good things, which you didn't fill",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C10"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Cities you didn't build, houses you didn't fill, cisterns you didn't dig, vineyards you didn't plant — 'and you shall eat and be full; then beware lest you forget.' Abundance named as the danger rather than the reward. C18's warning, and the remedy is C10's: remembering who gave it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 6:20-25",
+      "pericope": "When your son asks you in time to come",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The child's question — what do all these commands mean? — is answered with a story rather than a rationale: we were slaves, and he brought us out, and commanded these things 'for our good always.' C14's household as the school in which the meaning of the law is handed down, and handed down as a memory of deliverance.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 7:6-11",
+      "pericope": "You were the fewest of all peoples",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The choice of Israel is explained by ruling out every reason that would flatter it: not because you were many, 'for you were the fewest of all peoples: but because Yahweh loves you.' Love that precedes merit, and a God who keeps covenant 'to a thousand generations.' C19's door is the same door — opened before anyone qualified to walk through it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 8:1-10",
+      "pericope": "That he might humble you, to prove you, to know what was in your heart",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C21",
+        "C18",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The forty years are read as a test 'to know what was in your heart' — pressure that reveals rather than creates, which is C21's diagnostic principle that what comes out under strain is inventory. The lesson of the manna is C18's: 'man does not live by bread only.' And the forty years themselves, with clothing that did not wear out, are C25's long formation, measured in decades rather than days.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 8:11-20",
+      "pericope": "My power and the might of my hand has gotten me this wealth",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The second warning against abundance, more exact than the first: when the houses are built and the silver and gold multiplied, 'your heart be lifted up, and you forget,' and you say in your heart that you made this yourself. 'Remember Yahweh your God, for it is he who gives you power to get wealth.' C18's detachment as an accurate account of where wealth comes from. PR28 is not tagged; the danger named is pride and forgetting, not the use of the surplus.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 9:1-6",
+      "pericope": "Not for your righteousness",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Before success comes, the interpretation of it is forbidden: 'Don't say in your heart… For my righteousness Yahweh has brought me in.' Said three times, and ended with 'you are a stiff-necked people.' C04's mirror held up before a victory rather than after a failure, and C22's relational humility in its national form.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 9:7-10:11",
+      "pericope": "I fell down before Yahweh forty days and forty nights",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The golden calf retold, and Moses' part in it: the tablets broken, the calf ground to dust, and forty days face down interceding for a people who had 'quickly turned aside' — and for Aaron, who made the calf. 'Yahweh listened to me that time also.' Then the tablets are cut again and written 'according to the first writing,' and the journey resumes. C16's authority as standing between the weak and what they deserve; C19's door, reopened after the worst failure in the people's history. PR29 was considered, since the covenant is restored in full rather than on probation, but the text records Moses' intercession rather than the people's repentance, which the practice requires.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 10:12-22",
+      "pericope": "Circumcise the foreskin of your heart… love the foreigner",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C01",
+        "C06",
+        "C16"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "'What does Yahweh your God require of you' — the question Micah 6:8 will answer with the three pillars is asked first here. The answer reaches the heart: 'circumcise therefore the foreskin of your heart,' the inward reading of the sign that C06 takes from Jeremiah 4:4 and that Jeremiah takes from this verse. Then the character of God as the ground of conduct: he 'executes justice for the fatherless and widow, and loves the foreigner, in giving him food and clothing. Therefore love the foreigner.' Provision for the stranger, the fatherless and the widow is how the Scriptural Appendix grounds Habitual Almsgiving in the Torah, and the reason given — 'for you were foreigners in the land of Egypt' — is C16's.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 11:1-17",
+      "pericope": "Lest your heart be deceived, and you turn aside",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C01",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The land is described as one 'which Yahweh your God cares for: the eyes of Yahweh your God are always on it, from the beginning of the year even to the end of the year,' and its rain is tied to faithfulness. The moral order of C01 extended to weather. The warning is aimed at the heart before the act — 'take heed to yourselves, lest your heart be deceived, and you turn aside' — which is C20's.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 11:18-25",
+      "pericope": "You shall lay up these my words in your heart",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C14",
+        "C28"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The Shema's means repeated almost word for word: on the heart, on the hand, on the doorposts, taught to children when sitting, walking, lying down, rising. The repetition is itself the point — C28's formation by return. The practice tag is carried once, at 6:1-9.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 11:26-32",
+      "pericope": "Behold, I set before you this day a blessing and a curse",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The Two Ways set out for the first time in the book, 'this day,' and fixed to two mountains so that the choice has a geography. C01's opening — reality has a grain, and choices go with it or against it — is this passage. Its fullest statement comes at 30:15-20, which the Scriptural Appendix cites and which will carry the prior when chapters 27-30 are indexed.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

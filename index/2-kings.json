@@ -1,0 +1,214 @@
+{
+  "book": "2 Kings",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/2-kings.json",
+  "note": "Elisha, the fall of the northern kingdom, Josiah's reform and the fall of Jerusalem, indexed selectively. The Scriptural Appendix cites 6:1-7 for C26; C26 quotes 6:6.",
+  "prediction_note": "Forecast: 6:1-7 the prior; 5:1-27 and 6:8-23 for C22 and PR06. Outcome: as forecast. Unforecast: 5:3 anchors PR15 through a captive child, and 7:9 gives a positive PR28 anchor in four lepers.",
+  "coverage_note": "Indexed selectively. Not indexed: Ahaziah and the fire from heaven (1), the bears at Bethel (2:23-25), the wars and the Moabite campaign (3), the remaining Elisha miracles (4:18-44, 6:24-7:2, 7:12-8:15), the coups of Jehu and Athaliah and the reigns of the kings (8:16-21:26, 23:28-25:26), and Josiah's reform measures (23:1-27), whose violence the index does not anchor.",
+  "entries": [
+    {
+      "ref": "2 Kings 2:1-14",
+      "pericope": "As Yahweh lives, and as your soul lives, I will not leave you… 'My father, my father, the chariots of Israel and its horsemen!'",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C05",
+        "C13"
+      ],
+      "practices": [
+        "PR26"
+      ],
+      "mode": "exemplifies",
+      "connection": "Three times Elijah tells his apprentice to stay behind — 'Please wait here' — and three times Elisha answers in the same words: 'As Yahweh lives, and as your soul lives, I will not leave you.' Released and refusing release, like Ruth and like Ittai. Unobligated Loyalty to a master who is about to be taken away (medium: Elisha does ask for a double portion of his spirit). C05's apprenticeship completed: the mantle falls, and Elisha strikes the water with it, asking, 'Where is Yahweh, the God of Elijah?' And grief: 'My father, my father… He saw him no more: and he took hold of his own clothes, and tore them in two pieces.' C13.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Kings 4:1-7",
+      "pericope": "The creditor has come to take for himself my two children to be slaves… 'What shall I do for you? Tell me: what do you have in the house?'",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "A prophet's widow is about to lose her sons to debt slavery. Elisha's first question is about her: 'What shall I do for you? Tell me: what do you have in the house?' 'Your handmaid has nothing in the house, except a pot of oil.' The help begins with what she already has and requires her neighbours' empty jars: 'Don't borrow just a few.' C16's service that starts from the person's own resources, and C14's household saved whole: 'Go, sell the oil, and pay your debt; and you and your sons live on the rest.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Kings 4:8-17",
+      "pericope": "Please let us make a little room on the wall. Let us set for him there a bed, a table, a chair, and a lamp stand… 'I dwell among my own people.'",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14",
+        "C13",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "A prominent woman in Shunem feeds a travelling prophet whenever he passes, and then plans for him: 'Please let us make a little room on the wall. Let us set for him there a bed, a table, a chair, and a lamp stand.' C14's household as a place of standing hospitality. Offered a favour at court in return, she declines it in four words: 'I dwell among my own people.' C13's contentment with an ordinary place and C18's freedom from wanting advancement. The gift she receives — a son — is one she did not ask for and did not dare hope for: 'do not lie to your handmaid.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Kings 5:1-27",
+      "pericope": "I wish that my lord were with the prophet who is in Samaria!… 'My father, if the prophet had asked you do some great thing, wouldn't you have done it?'",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C22",
+        "C13",
+        "C18"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "A girl taken captive in a raid serves in the house of the enemy commander. Her first recorded words are a wish for his healing: 'I wish that my lord were with the prophet who is in Samaria! Then he would heal him of his leprosy.' Shedding Harshness in a child who has every reason for bitterness — the circle of concern drawn around the household that enslaved her. C27. Naaman arrives with silver, gold and expectations, and is told by a messenger to wash in a muddy river. 'Behold, I thought, \"He will surely come out to me…\"' His servants correct him: 'My father, if the prophet had asked you do some great thing, wouldn't you have done it? How much rather then, when he says to you, \"Wash, and be clean?\"' C22's humility and C13's ordinary instruction. Elisha refuses payment — C18. Gehazi runs after the gift, lies twice, and takes Naaman's leprosy: 'Is it a time to receive money?' 5:18-19 (the house of Rimmon) is carried without comment.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Kings 6:1-7",
+      "pericope": "As one was felling a beam, the axe head fell into the water. Then he cried, and said, 'Alas, my master! For it was borrowed.'… and made the iron float",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C26"
+      ],
+      "practices": [],
+      "connection": "The Scriptural Appendix cites 2 Kings 6:1-7 for C26 as 'the Macarian image of transformation. Iron is heavy by nature, not by accident; a piece of wood raises it against that nature. If wood can raise iron, the argument runs, the Spirit can raise a soul sunk in heavy water. The promise is not better behavior but a change of nature.' C26 quotes 6:6. A small story: a borrowed axe head lost in the Jordan, and a man more troubled by the debt than the inconvenience — 'Alas, my master! For it was borrowed.' 'He cut down a stick, threw it in there, and made the iron float. He said, \"Take it.\"'",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "2 Kings 6:8-23",
+      "pericope": "Yahweh, please open his eyes, that he may see… 'You shall not strike them… Set bread and water before them, that they may eat and drink, and go to their master.'",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C07",
+        "C03",
+        "C15"
+      ],
+      "practices": [
+        "PR06",
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "An army surrounds the town to capture one prophet. 'Alas, my master! What shall we do?' 'Don't be afraid; for those who are with us are more than those who are with them.' 'Elisha prayed, and said, \"Yahweh, please open his eyes, that he may see.\"' — C07's sight restored. The army is led blind into the enemy capital, and the king of Israel asks twice, eagerly, 'My father, shall I strike them? Shall I strike them?' 'You shall not strike them… Set bread and water before them, that they may eat and drink, and go to their master. He prepared great feast for them.' Non-Retaliation turned into a banquet, and Shedding Harshness extended to an invading army — the text behind Romans 12:20 ('If your enemy is hungry, feed him'). And the outcome C15 hopes for: 'The bands of Syria stopped raiding the land of Israel.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Kings 7:3-11",
+      "pericope": "We aren't doing right. This day is a day of good news, and we keep silent… let us go and tell the king's household",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C04",
+        "C16"
+      ],
+      "practices": [
+        "PR28"
+      ],
+      "mode": "exemplifies",
+      "connection": "Four lepers outside a starving city find the enemy camp abandoned. They eat, take silver and gold and clothing, and hide it — twice. Then conscience: 'We aren't doing right. This day is a day of good news, and we keep silent.' The Heavenly Palace's turn exactly — sudden surplus, first hoarded, then redirected to the afflicted (medium). C04's self-examination arriving mid-plunder, and C16: the outcasts at the gate become the ones who save the city.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Kings 22:8-20",
+      "pericope": "When the king had heard the words of the book of the law, that he tore his clothes… 'because your heart was tender, and you humbled yourself before Yahweh… and wept before me; I also have heard you'",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C04",
+        "C26",
+        "C19"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "exemplifies",
+      "connection": "During repairs to the temple a book of the law is found and read aloud to the young king. 'It happened, when the king had heard the words of the book of the law, that he tore his clothes.' He does not defend the past; he sends to inquire 'because our fathers have not listened to the words of this book.' The Moral Audit's measure — the word heard and the self tested by it — taken up by a whole administration (medium). The prophetess Huldah's answer names what God saw: 'because your heart was tender, and you humbled yourself before Yahweh… and have torn your clothes, and wept before me; I also have heard you.' C26's tender heart, the one Ezekiel will promise, and C19.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Kings 25:27-30",
+      "pericope": "He spoke kindly to him… and changed his prison garments. Jehoiachin ate bread before him continually all the days of his life",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "The history of the kings ends in exile, with the temple burned. Its last paragraph is a small mercy: after thirty-seven years in a Babylonian prison, the deposed king of Judah is released by a new emperor, who 'spoke kindly to him, and set his throne above the throne of the kings who were with him in Babylon, and changed his prison garments. Jehoiachin ate bread before him continually all the days of his life.' Merciful Reintegration from an unexpected hand — the prison clothes changed, a place at the table, 'a continual allowance… every day a portion' (medium). C19: the books of Kings end not on judgment but on a door left open.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

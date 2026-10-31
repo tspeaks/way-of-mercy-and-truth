@@ -13,6 +13,17 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 18:21",
+        "name": "How long will you waver between the two sides? If Yahweh is God, follow him; but if Baal, then follow him",
+        "chapters": [
+          "C01"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 2:4-9",
         "name": "Righteous Lot, tormented from day to day",
@@ -756,6 +767,32 @@
     ],
     "C02": [
       {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 3:16-28",
+        "name": "Her heart yearned over her son, and she said, 'Oh, my lord, give her the living child, and in no way kill it!'",
+        "chapters": [
+          "C02",
+          "C03"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 3:5-14",
+        "name": "I am but a little child. I don't know how to go out or come in… Give your servant therefore an understanding heart",
+        "chapters": [
+          "C02",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 1:9-14",
         "name": "Filled with the knowledge of his will in all spiritual wisdom",
@@ -1179,6 +1216,18 @@
         "source_file": "1-corinthians.json"
       },
       {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 3:16-28",
+        "name": "Her heart yearned over her son, and she said, 'Oh, my lord, give her the living child, and in no way kill it!'",
+        "chapters": [
+          "C02",
+          "C03"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
         "book": "1 Peter.Json",
         "reference": "1 Peter 2:18-25",
         "name": "When he was cursed, he didn't curse back",
@@ -1239,6 +1288,22 @@
         ],
         "tags": [],
         "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 6:8-23",
+        "name": "Yahweh, please open his eyes, that he may see… 'You shall not strike them… Set bread and water before them, that they may eat and drink, and go to their master.'",
+        "chapters": [
+          "C03",
+          "C07",
+          "C15"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
       },
       {
         "book": "2 Samuel.Json",
@@ -2071,6 +2136,35 @@
         "practices": [],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 22:8-20",
+        "name": "When the king had heard the words of the book of the law, that he tore his clothes… 'because your heart was tender, and you humbled yourself before Yahweh… and wept before me; I also have heard you'",
+        "chapters": [
+          "C04",
+          "C19",
+          "C26"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 7:3-11",
+        "name": "We aren't doing right. This day is a day of good news, and we keep silent… let us go and tell the king's household",
+        "chapters": [
+          "C04",
+          "C16"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
       },
       {
         "book": "2 Samuel.Json",
@@ -3243,6 +3337,20 @@
         ],
         "tags": [],
         "source_file": "1-timothy.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 2:1-14",
+        "name": "As Yahweh lives, and as your soul lives, I will not leave you… 'My father, my father, the chariots of Israel and its horsemen!'",
+        "chapters": [
+          "C05",
+          "C13"
+        ],
+        "practices": [
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
       },
       {
         "book": "2 Thessalonians.Json",
@@ -4456,6 +4564,22 @@
         "source_file": "1-samuel.json"
       },
       {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 6:8-23",
+        "name": "Yahweh, please open his eyes, that he may see… 'You shall not strike them… Set bread and water before them, that they may eat and drink, and go to their master.'",
+        "chapters": [
+          "C03",
+          "C07",
+          "C15"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 1:5-11",
         "name": "In your faith supply moral excellence; and in moral excellence, knowledge",
@@ -5103,6 +5227,31 @@
         "practices": [],
         "tags": [],
         "source_file": "1-john.json"
+      },
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 12:1-19",
+        "name": "If you will be a servant to this people this day, and will serve them… then they will be your servants forever… So the king didn't listen to the people",
+        "chapters": [
+          "C08",
+          "C16"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 22:5-28",
+        "name": "Please let your word be like the word of one of them, and speak good… 'As Yahweh lives, what Yahweh says to me, that I will speak.'",
+        "chapters": [
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-kings.json"
       },
       {
         "book": "1 Samuel.Json",
@@ -6312,6 +6461,22 @@
       }
     ],
     "C09": [
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 19:1-18",
+        "name": "It is enough. Now, O Yahweh, take away my life… 'Arise and eat, because the journey is too great for you.'… after the fire a still small voice",
+        "chapters": [
+          "C09",
+          "C13",
+          "C21",
+          "C22"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
       {
         "book": "1 Samuel.Json",
         "reference": "1 Samuel 1:1-28",
@@ -9224,6 +9389,22 @@
         "source_file": "1-corinthians.json"
       },
       {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 19:1-18",
+        "name": "It is enough. Now, O Yahweh, take away my life… 'Arise and eat, because the journey is too great for you.'… after the fire a still small voice",
+        "chapters": [
+          "C09",
+          "C13",
+          "C21",
+          "C22"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
         "book": "1 Samuel.Json",
         "reference": "1 Samuel 16:1-13",
         "name": "Man looks at the outward appearance, but Yahweh looks at the heart… There remains yet the youngest, and behold, he is keeping the sheep",
@@ -9413,6 +9594,49 @@
         "practices": [],
         "tags": [],
         "source_file": "2-john.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 2:1-14",
+        "name": "As Yahweh lives, and as your soul lives, I will not leave you… 'My father, my father, the chariots of Israel and its horsemen!'",
+        "chapters": [
+          "C05",
+          "C13"
+        ],
+        "practices": [
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 4:8-17",
+        "name": "Please let us make a little room on the wall. Let us set for him there a bed, a table, a chair, and a lamp stand… 'I dwell among my own people.'",
+        "chapters": [
+          "C13",
+          "C14",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 5:1-27",
+        "name": "I wish that my lord were with the prophet who is in Samaria!… 'My father, if the prophet had asked you do some great thing, wouldn't you have done it?'",
+        "chapters": [
+          "C13",
+          "C18",
+          "C22",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
       },
       {
         "book": "2 Samuel.Json",
@@ -10592,6 +10816,31 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 4:1-7",
+        "name": "The creditor has come to take for himself my two children to be slaves… 'What shall I do for you? Tell me: what do you have in the house?'",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 4:8-17",
+        "name": "Please let us make a little room on the wall. Let us set for him there a bed, a table, a chair, and a lamp stand… 'I dwell among my own people.'",
+        "chapters": [
+          "C13",
+          "C14",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-kings.json"
       },
       {
         "book": "2 Samuel.Json",
@@ -11899,6 +12148,22 @@
         "source_file": "2-corinthians.json"
       },
       {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 6:8-23",
+        "name": "Yahweh, please open his eyes, that he may see… 'You shall not strike them… Set bread and water before them, that they may eat and drink, and go to their master.'",
+        "chapters": [
+          "C03",
+          "C07",
+          "C15"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 3:14-16",
         "name": "Some things that are hard to understand",
@@ -13187,6 +13452,34 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 12:1-19",
+        "name": "If you will be a servant to this people this day, and will serve them… then they will be your servants forever… So the king didn't listen to the people",
+        "chapters": [
+          "C08",
+          "C16"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 17:8-16",
+        "name": "I don't have a cake, but a handful of meal in the jar, and a little oil… that we may eat it, and die… make me of it a little cake first",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
         "book": "1 Peter.Json",
         "reference": "1 Peter 4:7-11",
         "name": "Be hospitable to one another without grumbling",
@@ -13466,6 +13759,32 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 4:1-7",
+        "name": "The creditor has come to take for himself my two children to be slaves… 'What shall I do for you? Tell me: what do you have in the house?'",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 7:3-11",
+        "name": "We aren't doing right. This day is a day of good news, and we keep silent… let us go and tell the king's household",
+        "chapters": [
+          "C04",
+          "C16"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
       },
       {
         "book": "2 Samuel.Json",
@@ -17001,6 +17320,35 @@
         "source_file": "2-corinthians.json"
       },
       {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 4:8-17",
+        "name": "Please let us make a little room on the wall. Let us set for him there a bed, a table, a chair, and a lamp stand… 'I dwell among my own people.'",
+        "chapters": [
+          "C13",
+          "C14",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 5:1-27",
+        "name": "I wish that my lord were with the prophet who is in Samaria!… 'My father, if the prophet had asked you do some great thing, wouldn't you have done it?'",
+        "chapters": [
+          "C13",
+          "C18",
+          "C22",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 3:11-13",
         "name": "What kind of people ought you to be",
@@ -18559,6 +18907,34 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 21:1-29",
+        "name": "Have you killed and also taken possession?… See how Ahab humbles himself before me? Because he humbles himself before me, I will not bring the evil in his days",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 8:27-30",
+        "name": "Behold, heaven and the heaven of heavens can't contain you; how much less this house that I have built!… hear in heaven, your dwelling place; and when you hear, forgive",
+        "chapters": [
+          "C19",
+          "C24"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
         "book": "1 Peter.Json",
         "reference": "1 Peter 1:3-9",
         "name": "Though now you don't see him, you rejoice",
@@ -18736,6 +19112,34 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 22:8-20",
+        "name": "When the king had heard the words of the book of the law, that he tore his clothes… 'because your heart was tender, and you humbled yourself before Yahweh… and wept before me; I also have heard you'",
+        "chapters": [
+          "C04",
+          "C19",
+          "C26"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 25:27-30",
+        "name": "He spoke kindly to him… and changed his prison garments. Jehoiachin ate bread before him continually all the days of his life",
+        "chapters": [
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
       },
       {
         "book": "2 Samuel.Json",
@@ -22148,6 +22552,20 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 11:1-11",
+        "name": "It happened, when Solomon was old, that his wives turned away his heart after other gods; and his heart was not perfect with Yahweh his God",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
         "book": "1 Peter.Json",
         "reference": "1 Peter 1:13-16",
         "name": "Prepare your minds for action; be sober",
@@ -23398,6 +23816,50 @@
         ],
         "tags": [],
         "source_file": "1-john.json"
+      },
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 11:1-11",
+        "name": "It happened, when Solomon was old, that his wives turned away his heart after other gods; and his heart was not perfect with Yahweh his God",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 19:1-18",
+        "name": "It is enough. Now, O Yahweh, take away my life… 'Arise and eat, because the journey is too great for you.'… after the fire a still small voice",
+        "chapters": [
+          "C09",
+          "C13",
+          "C21",
+          "C22"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 21:1-29",
+        "name": "Have you killed and also taken possession?… See how Ahab humbles himself before me? Because he humbles himself before me, I will not bring the evil in his days",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
       },
       {
         "book": "1 Samuel.Json",
@@ -24878,6 +25340,36 @@
         "source_file": "1-corinthians.json"
       },
       {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 19:1-18",
+        "name": "It is enough. Now, O Yahweh, take away my life… 'Arise and eat, because the journey is too great for you.'… after the fire a still small voice",
+        "chapters": [
+          "C09",
+          "C13",
+          "C21",
+          "C22"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 3:5-14",
+        "name": "I am but a little child. I don't know how to go out or come in… Give your servant therefore an understanding heart",
+        "chapters": [
+          "C02",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
         "book": "1 Peter.Json",
         "reference": "1 Peter 2:1-3",
         "name": "As newborn babies, long for the pure milk",
@@ -24951,6 +25443,22 @@
         ],
         "tags": [],
         "source_file": "1-timothy.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 5:1-27",
+        "name": "I wish that my lord were with the prophet who is in Samaria!… 'My father, if the prophet had asked you do some great thing, wouldn't you have done it?'",
+        "chapters": [
+          "C13",
+          "C18",
+          "C22",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
       },
       {
         "book": "2 Samuel.Json",
@@ -27439,6 +27947,20 @@
       }
     ],
     "C24": [
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 8:27-30",
+        "name": "Behold, heaven and the heaven of heavens can't contain you; how much less this house that I have built!… hear in heaven, your dwelling place; and when you hear, forgive",
+        "chapters": [
+          "C19",
+          "C24"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
       {
         "book": "1 Timothy.Json",
         "reference": "1 Timothy 4:1-5",
@@ -29976,6 +30498,32 @@
         "source_file": "2-corinthians.json"
       },
       {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 22:8-20",
+        "name": "When the king had heard the words of the book of the law, that he tore his clothes… 'because your heart was tender, and you humbled yourself before Yahweh… and wept before me; I also have heard you'",
+        "chapters": [
+          "C04",
+          "C19",
+          "C26"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 6:1-7",
+        "name": "As one was felling a beam, the axe head fell into the water. Then he cried, and said, 'Alas, my master! For it was borrowed.'… and made the iron float",
+        "chapters": [
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
         "book": "2 Peter.Json",
         "reference": "2 Peter 1:3-4",
         "name": "Partakers of the divine nature",
@@ -30471,6 +31019,31 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 17:8-16",
+        "name": "I don't have a cake, but a handful of meal in the jar, and a little oil… that we may eat it, and die… make me of it a little cake first",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 8:41-43",
+        "name": "Moreover concerning the foreigner, who is not of your people Israel… hear in heaven… and do according to all that the foreigner calls to you for",
+        "chapters": [
+          "C27"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
         "book": "1 Peter.Json",
         "reference": "1 Peter 2:18-25",
         "name": "When he was cursed, he didn't curse back",
@@ -30529,6 +31102,22 @@
         ],
         "tags": [],
         "source_file": "1-timothy.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 5:1-27",
+        "name": "I wish that my lord were with the prophet who is in Samaria!… 'My father, if the prophet had asked you do some great thing, wouldn't you have done it?'",
+        "chapters": [
+          "C13",
+          "C18",
+          "C22",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
       },
       {
         "book": "2 Peter.Json",
@@ -33075,6 +33664,21 @@
         "source_file": "2-corinthians.json"
       },
       {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 22:8-20",
+        "name": "When the king had heard the words of the book of the law, that he tore his clothes… 'because your heart was tender, and you humbled yourself before Yahweh… and wept before me; I also have heard you'",
+        "chapters": [
+          "C04",
+          "C19",
+          "C26"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
         "book": "2 Samuel.Json",
         "reference": "2 Samuel 12:1-14",
         "name": "You are the man… David said to Nathan, 'I have sinned against Yahweh.' Nathan said to David, 'Yahweh also has put away your sin.'",
@@ -34438,6 +35042,34 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 3:5-14",
+        "name": "I am but a little child. I don't know how to go out or come in… Give your servant therefore an understanding heart",
+        "chapters": [
+          "C02",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 8:27-30",
+        "name": "Behold, heaven and the heaven of heavens can't contain you; how much less this house that I have built!… hear in heaven, your dwelling place; and when you hear, forgive",
+        "chapters": [
+          "C19",
+          "C24"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 12:1-10",
         "name": "Whether in the body, I don't know… God knows… I refrain, so that no man may think more of me than that which he sees",
@@ -35115,6 +35747,20 @@
         ],
         "tags": [],
         "source_file": "1-john.json"
+      },
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 17:8-16",
+        "name": "I don't have a cake, but a handful of meal in the jar, and a little oil… that we may eat it, and die… make me of it a little cake first",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
       },
       {
         "book": "1 Timothy.Json",
@@ -35993,6 +36639,22 @@
         "source_file": "1-thessalonians.json"
       },
       {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 6:8-23",
+        "name": "Yahweh, please open his eyes, that he may see… 'You shall not strike them… Set bread and water before them, that they may eat and drink, and go to their master.'",
+        "chapters": [
+          "C03",
+          "C07",
+          "C15"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
         "book": "2 Samuel.Json",
         "reference": "2 Samuel 16:5-14",
         "name": "Shimei… cursed still as he came… 'Leave him alone, and let him curse; for Yahweh has invited him. It may be that Yahweh will look on the wrong done to me'",
@@ -36648,6 +37310,22 @@
       }
     ],
     "PR08": [
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 19:1-18",
+        "name": "It is enough. Now, O Yahweh, take away my life… 'Arise and eat, because the journey is too great for you.'… after the fire a still small voice",
+        "chapters": [
+          "C09",
+          "C13",
+          "C21",
+          "C22"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
       {
         "book": "1 Samuel.Json",
         "reference": "1 Samuel 1:1-28",
@@ -39202,6 +39880,20 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 11:1-11",
+        "name": "It happened, when Solomon was old, that his wives turned away his heart after other gods; and his heart was not perfect with Yahweh his God",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
         "book": "1 Peter.Json",
         "reference": "1 Peter 1:13-16",
         "name": "Prepare your minds for action; be sober",
@@ -40868,6 +41560,38 @@
         "source_file": "1-samuel.json"
       },
       {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 5:1-27",
+        "name": "I wish that my lord were with the prophet who is in Samaria!… 'My father, if the prophet had asked you do some great thing, wouldn't you have done it?'",
+        "chapters": [
+          "C13",
+          "C18",
+          "C22",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 6:8-23",
+        "name": "Yahweh, please open his eyes, that he may see… 'You shall not strike them… Set bread and water before them, that they may eat and drink, and go to their master.'",
+        "chapters": [
+          "C03",
+          "C07",
+          "C15"
+        ],
+        "practices": [
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
         "book": "2 Samuel.Json",
         "reference": "2 Samuel 1:11-27",
         "name": "How the mighty have fallen!… Saul and Jonathan were lovely and pleasant in their lives… I am distressed for you, my brother Jonathan",
@@ -41269,6 +41993,20 @@
       }
     ],
     "PR16": [
+      {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 12:1-19",
+        "name": "If you will be a servant to this people this day, and will serve them… then they will be your servants forever… So the king didn't listen to the people",
+        "chapters": [
+          "C08",
+          "C16"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
       {
         "book": "1 Samuel.Json",
         "reference": "1 Samuel 1:1-28",
@@ -42837,6 +43575,20 @@
         "source_file": "1-samuel.json"
       },
       {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 2:1-14",
+        "name": "As Yahweh lives, and as your soul lives, I will not leave you… 'My father, my father, the chariots of Israel and its horsemen!'",
+        "chapters": [
+          "C05",
+          "C13"
+        ],
+        "practices": [
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
+      },
+      {
         "book": "2 Samuel.Json",
         "reference": "2 Samuel 15:13-37",
         "name": "You are a foreigner, and also an exile. Return to your own place… Ittai answered… 'in what place my lord the king shall is, whether for death or for life, even there also will your servant be.'",
@@ -43027,6 +43779,20 @@
         "source_file": "1-corinthians.json"
       },
       {
+        "book": "1 Kings.Json",
+        "reference": "1 Kings 21:1-29",
+        "name": "Have you killed and also taken possession?… See how Ahab humbles himself before me? Because he humbles himself before me, I will not bring the evil in his days",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "1-kings.json"
+      },
+      {
         "book": "1 Timothy.Json",
         "reference": "1 Timothy 6:17-19",
         "name": "Charge those who are rich in this present world that they not be haughty, nor have their hope set on the uncertainty of riches… ready to distribute, willing to communicate",
@@ -43070,6 +43836,20 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 7:3-11",
+        "name": "We aren't doing right. This day is a day of good news, and we keep silent… let us go and tell the king's household",
+        "chapters": [
+          "C04",
+          "C16"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
       },
       {
         "book": "Acts.Json",
@@ -43227,6 +44007,19 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Kings.Json",
+        "reference": "2 Kings 25:27-30",
+        "name": "He spoke kindly to him… and changed his prison garments. Jehoiachin ate bread before him continually all the days of his life",
+        "chapters": [
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-kings.json"
       },
       {
         "book": "2 Samuel.Json",

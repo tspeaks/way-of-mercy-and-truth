@@ -1,0 +1,247 @@
+{
+  "book": "1 Kings",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/1-kings.json",
+  "note": "Solomon's reign, the division of the kingdom, and Elijah, indexed selectively. Not cited by the curriculum or the Scriptural Appendix.",
+  "prediction_note": "Forecast: 19:1-18 the anchor for PR08 and C22; 22 for C08. Outcome: as forecast. 12:7 states C16's logic as plainly as any text outside the Gospels.",
+  "coverage_note": "Indexed selectively. Not indexed: the succession and Solomon's purges (1-2), the administration, building and wealth (4-7, 9-10), most of the dedication prayer (8:1-26, 8:31-40, 8:44-66), the kings of the divided monarchy (12:20-16:34, 22:29-53), the man of God from Judah (13), the contest on Carmel and the killing of the prophets of Baal (18:1-20, 18:22-46), the call of Elisha (19:19-21), and the Aramean wars (20).",
+  "entries": [
+    {
+      "ref": "1 Kings 3:5-14",
+      "pericope": "I am but a little child. I don't know how to go out or come in… Give your servant therefore an understanding heart",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C02",
+        "C22"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "'Ask what I shall give you.' Solomon begins with gratitude for his father, then admits his inadequacy: 'I am but a little child. I don't know how to go out or come in.' The Discipline of Unknowing at the start of a reign (medium). He asks for C02's skill of living rather than for himself: 'Give your servant therefore an understanding heart to judge your people, that I may discern between good and evil.' God's answer names what he did not ask for — 'long life… riches… the life of your enemies' — and gives them anyway. C22.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Kings 3:16-28",
+      "pericope": "Her heart yearned over her son, and she said, 'Oh, my lord, give her the living child, and in no way kill it!'",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C03",
+        "C02"
+      ],
+      "practices": [],
+      "connection": "Two women, one living child, no witnesses. Solomon calls for a sword. The mother is revealed by what she is willing to lose: 'her heart yearned over her son, and she said, \"Oh, my lord, give her the living child, and in no way kill it!\" But the other said, \"It shall be neither mine nor yours. Divide it.\"' C03's mercy as the evidence of truth — love would rather lose than destroy — and C02's wisdom that knew how to make it visible.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Kings 8:27-30",
+      "pericope": "Behold, heaven and the heaven of heavens can't contain you; how much less this house that I have built!… hear in heaven, your dwelling place; and when you hear, forgive",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C19"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "At the dedication of the temple he spent seven years building, Solomon says it cannot hold the one it was built for: 'But will God in very deed dwell on the earth? Behold, heaven and the heaven of heavens can't contain you; how much less this house that I have built!' The Discipline of Unknowing at the moment of greatest religious achievement (medium). C24's awe. And the prayer's refrain, repeated through the chapter: 'hear in heaven, your dwelling place; and when you hear, forgive' — C19.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Kings 8:41-43",
+      "pericope": "Moreover concerning the foreigner, who is not of your people Israel… hear in heaven… and do according to all that the foreigner calls to you for",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [],
+      "connection": "Inside the dedication prayer, a petition for people outside the covenant: 'Moreover concerning the foreigner, who is not of your people Israel, when he shall come out of a far country for your name's sake… when he shall come and pray toward this house; hear in heaven, your dwelling place, and do according to all that the foreigner calls to you for; that all the peoples of the earth may know your name.' C27's widened circle written into the foundation of the temple — the ground for Isaiah 56:7 and Mark 11:17.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Kings 11:1-11",
+      "pericope": "It happened, when Solomon was old, that his wives turned away his heart after other gods; and his heart was not perfect with Yahweh his God",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "counter-example",
+      "connection": "The wisest king's decline is gradual and late: 'It happened, when Solomon was old, that his wives turned away his heart after other gods; and his heart was not perfect with Yahweh his God… Then Solomon built a high place for Chemosh… on the mountain that is before Jerusalem.' Shrines to foreign gods on the hill facing the temple he built. C21's anatomy of drift over decades, and the cost of Watchfulness relaxed in old age (medium) — C20. 'Yahweh was angry with Solomon, because his heart was turned away from Yahweh… who had appeared to him twice.' The polygamy is recorded as the narrative gives it, not commended.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Kings 12:1-19",
+      "pericope": "If you will be a servant to this people this day, and will serve them… then they will be your servants forever… So the king didn't listen to the people",
+      "pillars": [
+        "humility",
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C08"
+      ],
+      "practices": [
+        "PR16"
+      ],
+      "mode": "counter-example",
+      "connection": "The people ask the new king to lighten the load his father laid on them. The old men's counsel is C16's logic of service in one sentence: 'If you will be a servant to this people this day, and will serve them, and answer them, and speak good words to them, then they will be your servants forever.' The young men's counsel is contempt: 'My little finger is thicker than my father's waist.' Rehoboam takes it. 'So the king didn't listen to the people.' Listening as Mercy refused at the cost of a kingdom (medium as counter-example): 'What portion have we in David?… To your tents, Israel!' C08's test of counsel by whom it serves.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Kings 17:8-16",
+      "pericope": "I don't have a cake, but a handful of meal in the jar, and a little oil… that we may eat it, and die… make me of it a little cake first",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "A foreign widow in Sidon, gathering sticks for the last meal she and her son will eat. A stranger asks for water, then bread. 'As Yahweh your God lives, I don't have a cake, but a handful of meal in the jar, and a little oil in the jar. Behold, I am gathering two sticks, that I may go in and bake it for me and my son, that we may eat it, and die.' She gives first anyway. Habitual Almsgiving measured, as with the widow at the treasury (Mark 12:41-44), by cost rather than amount (medium). C16 and C27: Jesus cites her at Nazareth (Luke 4:25-26) as the one Elijah was sent to — a Gentile. 'The jar of meal didn't empty, neither did the jar of oil fail.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Kings 18:21",
+      "pericope": "How long will you waver between the two sides? If Yahweh is God, follow him; but if Baal, then follow him",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "On Carmel, before the contest, Elijah addresses the crowd rather than the prophets of Baal: 'How long will you waver between the two sides? If Yahweh is God, follow him; but if Baal, then follow him.' C01's Two Ways reduced to a demand for decision. 'The people answered him not a word.' The contest and the killing of the prophets of Baal that follow (18:20-40) are not indexed.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Kings 19:1-18",
+      "pericope": "It is enough. Now, O Yahweh, take away my life… 'Arise and eat, because the journey is too great for you.'… after the fire a still small voice",
+      "pillars": [
+        "truth",
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C09",
+        "C21",
+        "C13"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "Straight after the victory on Carmel, one threat from Jezebel and Elijah runs. Under a juniper tree: 'he requested for himself that he might die, and said, \"It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.\"' Sacred Lament at its lowest — the unacceptable thing said, and not rebuked. God's first response is not a word but care for the body: 'an angel touched him, and said to him, \"Arise and eat!\"… He ate and drank, and lay down again. The angel… came again the second time… \"Arise and eat, because the journey is too great for you.\"' C21's physician, who treats exhaustion with sleep and food before conversation. Then Horeb: wind, earthquake, fire, 'and after the fire a still small voice' — C09's secret place, where God is not in the spectacle. Elijah's complaint, twice: 'I, even I only, am left.' The answer corrects his isolation: 'Yet will I leave seven thousand in Israel' — C13, and C22's quiet restored.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Kings 21:1-29",
+      "pericope": "Have you killed and also taken possession?… See how Ahab humbles himself before me? Because he humbles himself before me, I will not bring the evil in his days",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C19"
+      ],
+      "practices": [
+        "PR28"
+      ],
+      "mode": "counter-example",
+      "connection": "A king who owns a nation lies on his bed sulking because a farmer will not sell him the family vineyard next to the palace for 'a garden of herbs.' Naboth's refusal is about inheritance: 'May Yahweh forbid me, that I should give the inheritance of my fathers to you!' Jezebel arranges a fast, two false witnesses and a stoning. The Heavenly Palace's counter-image at its worst — expansion of a royal garden at the cost of a poor man's land and life (medium). Elijah's question is C21's verdict: 'Have you killed and also taken possession?' And then, unexpectedly, C19: Ahab 'tore his clothes, and put sackcloth on his flesh, and fasted… and went softly.' 'See how Ahab humbles himself before me? Because he humbles himself before me, I will not bring the evil in his days.' Even this king's repentance is seen.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Kings 22:5-28",
+      "pericope": "Please let your word be like the word of one of them, and speak good… 'As Yahweh lives, what Yahweh says to me, that I will speak.'",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Four hundred prophets tell two kings what they want to hear. Jehoshaphat asks whether there is another. 'There is yet one man… Micaiah the son of Imlah; but I hate him; for he does not prophesy good concerning me, but evil.' The messenger coaches him on the way: 'See now, the prophets declare good to the king with one mouth. Please let your word be like the word of one of them, and speak good.' Micaiah: 'As Yahweh lives, what Yahweh says to me, that I will speak.' C08's true prophet set against a unanimous court. He is struck in the face and sent to prison on 'bread of affliction,' and his last word is the test Deuteronomy 18:22 prescribes: 'If you return at all in peace, Yahweh has not spoken by me.'",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

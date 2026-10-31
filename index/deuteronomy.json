@@ -1,12 +1,13 @@
 {
   "book": "Deuteronomy",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — chapters 1-26 of 34 indexed (the two addresses and the law code, the code selectively); chapters 27-30 and 31-34 pending",
+  "status": "complete — selective in the law code and the conquest material; see coverage_note; awaiting second-pass review",
   "method_version": "2.3",
   "text_source": "index/text/deuteronomy.json",
-  "note": "The Two Ways in its original form, upstream of both the Didache and C01. Indexed in sections along the book's own seams: the first address and the history (1-4), the second address with the Decalogue and the Shema (5-11), the law code (12-26), the blessings, curses, and covenant renewal (27-30), and the song and death of Moses (31-34). This file covers the first three.",
-  "sectioning_note": "As with Jeremiah, sectioning is a practical necessity and the status field names what is done. The prior citations the Scriptural Appendix makes for this book — 18:15, 30:19, 32:4, and the gleaning, wage, and honest-scale laws — fall partly in the law code, where they are now carried (18:15, 24:10-15, 24:17-22, 25:13-16); 30:19 and 32:4 fall in sections not yet indexed.",
-  "coverage_note": "Chapters 1-11, unindexed by decision: the destruction of Sihon and Og with 'the women and the little ones' (2:24-3:11), the allotment of the eastern lands (3:12-17), the summary at 4:44-49, and the command to destroy the seven nations and show them no mercy, with the blessings and assurances bound up in it (7:1-5, 7:12-26: 'your eye shall not pity them'). These are among the hardest texts in the canon for a curriculum built on mercy, and the index does not soften them by allegory — including the long monastic tradition of reading 7:22, 'by little and little,' as the gradual conquest of the passions — nor tag them by stretching. WMT's genealogy nowhere adopts an allegorical hermeneutic, as noted for the Song of Solomon. They are recorded here as left out, not as judged to be of no weight; a reader of the curriculum will meet them, and the index should not pretend they are absent. Chapters 12-26, the law code, are indexed selectively, as Jeremiah 46-52 was. Left out: the destruction of the nations' shrines (12:1-4) and the blood and meat regulations (12:20-28); the death penalties for enticement and apostasy and the destruction of an apostate town (13:5-18, 17:2-7); the food laws (14:1-21); the firstborn and blemished-sacrifice rules (15:19-23, 17:1) and the central court (17:8-13); the landmark law (19:14); the war laws, including the herem of 20:16-18 (20:10-20); the captive woman (21:10-14); the stoning of a rebellious son and the hanged man (21:18-23); the laws of clothing, mixed seed, and fringes (22:5-12); the sexual and marriage laws of 22:13-30 and the divorce law of 24:1-4, which Jesus addresses directly in Matthew 19 and which are better indexed there; the assembly exclusions (23:1-6), camp purity (23:9-14), cult prostitution and interest (23:17-20) and the passer-by's right to eat (23:24-25); the millstone pledge, kidnapping, and leprosy laws (24:6-9) and individual responsibility (24:16); the ox unmuzzled (25:4); the woman's hand (25:11-12); and the command to blot out Amalek (25:17-19). Some of these are humane and some are among the hardest laws in the Torah; what they share is that they anchor nothing in a curriculum of personal formation without allegory or a stretched tag.",
+  "note": "The Two Ways in its original form, upstream of both the Didache and C01. Indexed in sections along the book's own seams: the first address and the history (1-4), the second address with the Decalogue and the Shema (5-11), the law code (12-26), the blessings, curses, and covenant renewal (27-30), and the song and death of Moses (31-34). All five sections are indexed.",
+  "sectioning_note": "As with Jeremiah, sectioning is a practical necessity and the status field names what is done. The prior citations the Scriptural Appendix makes for this book — 18:15, 30:19, 32:4, and the gleaning, wage, and honest-scale laws — are all carried: 18:15, 24:10-15, 24:17-22, and 25:13-16 in the law code, 30:15-20 and 32:1-14 in the closing chapters.",
+  "coverage_note": "Chapters 1-11, unindexed by decision: the destruction of Sihon and Og with 'the women and the little ones' (2:24-3:11), the allotment of the eastern lands (3:12-17), the summary at 4:44-49, and the command to destroy the seven nations and show them no mercy, with the blessings and assurances bound up in it (7:1-5, 7:12-26: 'your eye shall not pity them'). These are among the hardest texts in the canon for a curriculum built on mercy, and the index does not soften them by allegory — including the long monastic tradition of reading 7:22, 'by little and little,' as the gradual conquest of the passions — nor tag them by stretching. WMT's genealogy nowhere adopts an allegorical hermeneutic, as noted for the Song of Solomon. They are recorded here as left out, not as judged to be of no weight; a reader of the curriculum will meet them, and the index should not pretend they are absent. Chapters 12-26, the law code, are indexed selectively, as Jeremiah 46-52 was. Left out: the destruction of the nations' shrines (12:1-4) and the blood and meat regulations (12:20-28); the death penalties for enticement and apostasy and the destruction of an apostate town (13:5-18, 17:2-7); the food laws (14:1-21); the firstborn and blemished-sacrifice rules (15:19-23, 17:1) and the central court (17:8-13); the landmark law (19:14); the war laws, including the herem of 20:16-18 (20:10-20); the captive woman (21:10-14); the stoning of a rebellious son and the hanged man (21:18-23); the laws of clothing, mixed seed, and fringes (22:5-12); the sexual and marriage laws of 22:13-30 and the divorce law of 24:1-4, which Jesus addresses directly in Matthew 19 and which are better indexed there; the assembly exclusions (23:1-6), camp purity (23:9-14), cult prostitution and interest (23:17-20) and the passer-by's right to eat (23:24-25); the millstone pledge, kidnapping, and leprosy laws (24:6-9) and individual responsibility (24:16); the ox unmuzzled (25:4); the woman's hand (25:11-12); and the command to blot out Amalek (25:17-19). Some of these are humane and some are among the hardest laws in the Torah; what they share is that they anchor nothing in a curriculum of personal formation without allegory or a stretched tag. In chapters 27-34, the tribal blessings of 33:1-25 and 33:28-29 are left out for the same reason.",
+  "prediction_note": "The indexing order called Deuteronomy 'the Two Ways in its original form, upstream of both the Didache and C01,' with 30:15-20 as its centre. The Two Ways is reached four times — 11:26-32, 28:1-14, 28:15-68, and 30:15-20 — and the last carries PR07, the Daily Anchors, whose morning sentence is drawn from it. The drafter did not forecast that the book would also be the densest single source for Habitual Almsgiving yet indexed: eight entries carry PR05, three of them on the Scriptural Appendix's own citations.",
   "entries": [
     {
       "ref": "Deuteronomy 1:1-8",
@@ -1116,6 +1117,365 @@
       ],
       "practices": [],
       "connection": "The law code closes with a mutual declaration on the same day: the people declare Yahweh their God, and Yahweh declares them his people. The moral order of C01 presented as a covenant between persons rather than a code imposed from outside.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 27:1-10",
+      "pericope": "Write on the stones all the words of this law very plainly",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The law is to be written on plastered stones at the entrance to the land, 'very plainly,' beside an altar of uncut stone, and the people told: 'this day you have become the people of Yahweh your God.' A public, legible, checkable text at the threshold — C01's moral order set where everyone entering must pass it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 27:11-26",
+      "pericope": "Cursed is he who strikes his neighbor in secret",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C04"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Twelve curses, each answered by the whole people with Amen. They gather on what is done out of sight: the image set up 'in secret,' the neighbour struck 'in secret,' the moved landmark, the blind led astray, the foreigner, fatherless, and widow deprived of justice. The community binds itself publicly against its own private conduct, which is the Moral Audit's question about consistency — where private conduct differs from public — said aloud by everyone at once. It is a covenant liturgy rather than an examination, so PR01 is not tagged; C04 carries the connection.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 28:1-14",
+      "pericope": "You shall be blessed when you come in, and you shall be blessed when you go out",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "practices": [],
+      "connection": "The blessings: city and field, body and ground, basket and kneading trough, coming in and going out. The claim is C01's — that conduct and consequence are not unrelated, that a life lived with the grain is blessed in its ordinary places. The book does not hide that the claim will be tested; Job and Ecclesiastes record the counter-evidence, and the index does not treat this chapter as a guarantee.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 28:15-68",
+      "pericope": "Because you didn't serve Yahweh your God with joyfulness… by reason of the abundance of all things",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C01",
+        "C10",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The curses, longer and more detailed than the blessings, ending in exile and in a siege where the most refined man and woman in the city turn cruel toward their own families (28:53-57) — what comes out under pressure is inventory, as C21 says, and here it is described at its most terrible. One verse names the root: 'because you didn't serve Yahweh your God with joyfulness, and with gladness of heart, by reason of the abundance of all things.' Joyless obedience in plenty is given as the cause. C10's claim that delight belongs in a book of moral formation, and not as ornament, has its sternest warrant here. The siege passages are part of the pericope because they are part of the argument; they are not separately anchored.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 29:1-9",
+      "pericope": "Yahweh has not given you a heart to know, and eyes to see, and ears to hear, to this day",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C06"
+      ],
+      "practices": [],
+      "connection": "Forty years of signs, and the verdict: they saw the great wonders and were not given 'eyes to see.' Having witnessed is not the same as having perceived. C06 is built on the prayer of Psalm 119:18, open my eyes, because sight is given rather than achieved, and this is the sentence that makes the prayer necessary.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 29:10-28",
+      "pericope": "Lest there should be among you a root that bears gall and wormwood",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The covenant is made with everyone standing there — heads, elders, little ones, wives, the foreigner, 'from the one who cuts your wood to the one who draws your water' — and with those not yet born. C13's community, which includes its least members by name. Then a warning aimed at the interior: a 'root that bears gall,' the person who hears the curse and 'bless[es] himself in his heart, saying, I shall have peace, though I walk in the stubbornness of my heart.' Failure traced to a root and a private reassurance, which is C21's anatomy; PR02 shares the image but the passage warns rather than prescribes the tracing, and it is not tagged.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 29:29",
+      "pericope": "The secret things belong to Yahweh our God; but the things that are revealed belong to us",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "One verse divides knowledge in two: the hidden things are God's, and the revealed things are 'ours and our children's forever, that we may do all the words of this law.' The Discipline of Unknowing says it is not indecision — that one can act steadfastly while knowing one's understanding is partial. This verse is that sentence in its oldest form: what is not given is left with God, and what is given is for doing.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 30:1-10",
+      "pericope": "Yahweh your God will circumcise your heart",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C26"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "After the curse, return: from the farthest exile, 'from there will Yahweh your God gather you.' The change that 10:16 commanded — circumcise your heart — is now promised as God's own act: 'Yahweh your God will circumcise your heart… to love Yahweh your God.' C19's door from the far country, and C26's change of nature by gift, the promise Ezekiel 36:26 will repeat.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 30:11-14",
+      "pericope": "It is not too hard for you, neither is it far off",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C05",
+        "C11"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The commandment is neither in heaven nor beyond the sea; 'the word is very near to you, in your mouth, and in your heart, that you may do it.' C05's insistence that the road be walkable — 'do what you are able' — answered from the law's side: it was never meant to be out of reach. And the word in the heart is C11's indwelling in its Old Testament form, which Paul will quote in Romans 10.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 30:15-20",
+      "pericope": "Therefore choose life",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "practices": [
+        "PR07"
+      ],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix cites 30:19 as the Two Ways in God's own words: life and good, death and evil, set before you 'this day' — 'therefore choose life.' C01 begins here. The Daily Anchors begin each morning with the same choice spoken aloud, 'today I choose the Way of Life,' and the passage makes the choice daily, repeated, and concrete: love, obey, cling, 'for he is your life, and the length of your days.' This is where the practice's morning sentence comes from.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Deuteronomy 31:1-8",
+      "pericope": "He will not fail you, nor forsake you",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C16",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "A man of a hundred and twenty who can 'no more go out and come in' hands on his work in public, and his last charge to his successor is encouragement: be strong, don't be afraid, 'he will not fail you, neither forsake you.' Authority laid down for the sake of the one who takes it up, C16's, and growth across a span longer than one life, C25's.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 31:9-13",
+      "pericope": "That their children, who have not known, may hear, and learn",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C14",
+        "C28"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Every seventh year at the feast of tents the whole law is read aloud to everyone — men, women, little ones, the foreigner — 'that they may hear, and that they may learn.' Formation by scheduled return to the same text, C28's rhythm, and the household of C14 extended to the whole people with the children named as the point.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 31:14-29",
+      "pericope": "I know their imagination which they frame this day",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "God tells Moses that the people will turn away, and gives a song to be their witness 'for it shall not be forgotten out of the mouths of their seed.' The failure is foreseen — 'I know their imagination which they frame this day, before I have brought them into the land' — and provision is made in advance for the moment they are ready to recognise it. C21's reading of the heart before the act, and C19's door built before the fall rather than after it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 32:1-14",
+      "pericope": "The Rock, his work is perfect, for all his ways are justice",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C01",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "The Scriptural Appendix cites 32:4 for the claim that God's ways are justice — that the moral order and the divine character are one thing seen from two angles, which is C01's foundation. The song then tells what that character did: found a people 'in the waste howling wilderness,' kept him 'as the apple of his eye,' as an eagle stirs her nest and bears her young on her wings. The justice and the care belong to the same Rock, which is the ground of C19's hope.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Deuteronomy 32:15-43",
+      "pericope": "Jeshurun grew fat, and kicked",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C02"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The prosperity of the first half produces the apostasy of the second: 'Jeshurun grew fat, and kicked… Then he forsook God who made him.' C18's warning about abundance in its most compressed form. The lament at the centre — 'Oh that they were wise, that they understood this, that they would consider their latter end!' — is C02's first truth, seeing the end of the path. 'Vengeance is mine, and recompense' (32:35) is the verse Paul quotes in Romans 12:19 when he tells his readers not to avenge themselves; here it is God's declaration about his adversaries rather than an instruction to anyone, and the anchor for Paul's use of it belongs at Romans.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 32:44-52",
+      "pericope": "It is no vain thing for you; because it is your life",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C01",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "Moses' last word on the law — 'it is no vain thing for you; because it is your life' — and then the command to climb Nebo and die there, seeing the land and not entering, because of Meribah. The law as life is C01; the consequence that stands even after forty years of faithful service, accepted without protest, is C18's freedom from the one thing he wanted.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 33:26-27",
+      "pericope": "The eternal God is your dwelling place. Underneath are the everlasting arms",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C09",
+        "C11"
+      ],
+      "practices": [],
+      "connection": "From the blessing of the tribes, the one line that reaches beyond them: God as a dwelling place, and underneath, the everlasting arms. C09's secret place and C11's remaining are both spatial images of being held, and this is their Old Testament root. The rest of the tribal blessings (33:1-25, 28-29) are not indexed; they bless particular tribes and anchor nothing in personal formation. 27b ('Destroy!') belongs to the conquest material and is not what the entry anchors.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 34:1-12",
+      "pericope": "No man knows of his tomb to this day",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The greatest prophet in Israel dies outside the land, is buried by God, and 'no man knows of his tomb to this day.' His eye was not dim; the people wept thirty days, and then 'the days of weeping in the mourning for Moses were ended.' A life given to a promise he would not personally enter, ending in a grave no one could make into a monument. C23's hidden life at its most literal, and C18's detachment completed.",
       "confidence": "medium",
       "prior": false
     }

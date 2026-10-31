@@ -1,14 +1,16 @@
 # Deuteronomy — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — chapters 1-26 of 34 indexed (the two addresses and the law code, the code selectively); chapters 27-30 and 31-34 pending. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: complete — selective in the law code and the conquest material; see coverage_note; awaiting second-pass review. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
-**Note.** The Two Ways in its original form, upstream of both the Didache and C01. Indexed in sections along the book's own seams: the first address and the history (1-4), the second address with the Decalogue and the Shema (5-11), the law code (12-26), the blessings, curses, and covenant renewal (27-30), and the song and death of Moses (31-34). This file covers the first three.
+**Note.** The Two Ways in its original form, upstream of both the Didache and C01. Indexed in sections along the book's own seams: the first address and the history (1-4), the second address with the Decalogue and the Shema (5-11), the law code (12-26), the blessings, curses, and covenant renewal (27-30), and the song and death of Moses (31-34). All five sections are indexed.
 
-**Coverage note.** Chapters 1-11, unindexed by decision: the destruction of Sihon and Og with 'the women and the little ones' (2:24-3:11), the allotment of the eastern lands (3:12-17), the summary at 4:44-49, and the command to destroy the seven nations and show them no mercy, with the blessings and assurances bound up in it (7:1-5, 7:12-26: 'your eye shall not pity them'). These are among the hardest texts in the canon for a curriculum built on mercy, and the index does not soften them by allegory — including the long monastic tradition of reading 7:22, 'by little and little,' as the gradual conquest of the passions — nor tag them by stretching. WMT's genealogy nowhere adopts an allegorical hermeneutic, as noted for the Song of Solomon. They are recorded here as left out, not as judged to be of no weight; a reader of the curriculum will meet them, and the index should not pretend they are absent. Chapters 12-26, the law code, are indexed selectively, as Jeremiah 46-52 was. Left out: the destruction of the nations' shrines (12:1-4) and the blood and meat regulations (12:20-28); the death penalties for enticement and apostasy and the destruction of an apostate town (13:5-18, 17:2-7); the food laws (14:1-21); the firstborn and blemished-sacrifice rules (15:19-23, 17:1) and the central court (17:8-13); the landmark law (19:14); the war laws, including the herem of 20:16-18 (20:10-20); the captive woman (21:10-14); the stoning of a rebellious son and the hanged man (21:18-23); the laws of clothing, mixed seed, and fringes (22:5-12); the sexual and marriage laws of 22:13-30 and the divorce law of 24:1-4, which Jesus addresses directly in Matthew 19 and which are better indexed there; the assembly exclusions (23:1-6), camp purity (23:9-14), cult prostitution and interest (23:17-20) and the passer-by's right to eat (23:24-25); the millstone pledge, kidnapping, and leprosy laws (24:6-9) and individual responsibility (24:16); the ox unmuzzled (25:4); the woman's hand (25:11-12); and the command to blot out Amalek (25:17-19). Some of these are humane and some are among the hardest laws in the Torah; what they share is that they anchor nothing in a curriculum of personal formation without allegory or a stretched tag.
+**Prediction note.** The indexing order called Deuteronomy 'the Two Ways in its original form, upstream of both the Didache and C01,' with 30:15-20 as its centre. The Two Ways is reached four times — 11:26-32, 28:1-14, 28:15-68, and 30:15-20 — and the last carries PR07, the Daily Anchors, whose morning sentence is drawn from it. The drafter did not forecast that the book would also be the densest single source for Habitual Almsgiving yet indexed: eight entries carry PR05, three of them on the Scriptural Appendix's own citations.
 
-**Sectioning note.** As with Jeremiah, sectioning is a practical necessity and the status field names what is done. The prior citations the Scriptural Appendix makes for this book — 18:15, 30:19, 32:4, and the gleaning, wage, and honest-scale laws — fall partly in the law code, where they are now carried (18:15, 24:10-15, 24:17-22, 25:13-16); 30:19 and 32:4 fall in sections not yet indexed.
+**Coverage note.** Chapters 1-11, unindexed by decision: the destruction of Sihon and Og with 'the women and the little ones' (2:24-3:11), the allotment of the eastern lands (3:12-17), the summary at 4:44-49, and the command to destroy the seven nations and show them no mercy, with the blessings and assurances bound up in it (7:1-5, 7:12-26: 'your eye shall not pity them'). These are among the hardest texts in the canon for a curriculum built on mercy, and the index does not soften them by allegory — including the long monastic tradition of reading 7:22, 'by little and little,' as the gradual conquest of the passions — nor tag them by stretching. WMT's genealogy nowhere adopts an allegorical hermeneutic, as noted for the Song of Solomon. They are recorded here as left out, not as judged to be of no weight; a reader of the curriculum will meet them, and the index should not pretend they are absent. Chapters 12-26, the law code, are indexed selectively, as Jeremiah 46-52 was. Left out: the destruction of the nations' shrines (12:1-4) and the blood and meat regulations (12:20-28); the death penalties for enticement and apostasy and the destruction of an apostate town (13:5-18, 17:2-7); the food laws (14:1-21); the firstborn and blemished-sacrifice rules (15:19-23, 17:1) and the central court (17:8-13); the landmark law (19:14); the war laws, including the herem of 20:16-18 (20:10-20); the captive woman (21:10-14); the stoning of a rebellious son and the hanged man (21:18-23); the laws of clothing, mixed seed, and fringes (22:5-12); the sexual and marriage laws of 22:13-30 and the divorce law of 24:1-4, which Jesus addresses directly in Matthew 19 and which are better indexed there; the assembly exclusions (23:1-6), camp purity (23:9-14), cult prostitution and interest (23:17-20) and the passer-by's right to eat (23:24-25); the millstone pledge, kidnapping, and leprosy laws (24:6-9) and individual responsibility (24:16); the ox unmuzzled (25:4); the woman's hand (25:11-12); and the command to blot out Amalek (25:17-19). Some of these are humane and some are among the hardest laws in the Torah; what they share is that they anchor nothing in a curriculum of personal formation without allegory or a stretched tag. In chapters 27-34, the tribal blessings of 33:1-25 and 33:28-29 are left out for the same reason.
+
+**Sectioning note.** As with Jeremiah, sectioning is a practical necessity and the status field names what is done. The prior citations the Scriptural Appendix makes for this book — 18:15, 30:19, 32:4, and the gleaning, wage, and honest-scale laws — are all carried: 18:15, 24:10-15, 24:17-22, and 25:13-16 in the law code, 30:15-20 and 32:1-14 in the closing chapters.
 
 ---
 
@@ -998,6 +1000,410 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** The law code closes with a mutual declaration on the same day: the people declare Yahweh their God, and Yahweh declares them his people. The moral order of C01 presented as a covenant between persons rather than a code imposed from outside.
 
 **Tags.** pillars: truth · stages: S1 · chapters: C01 · practices: none · confidence: medium
+
+---
+
+## 56. Deuteronomy 27:1-10 — Write on the stones all the words of this law very plainly
+
+> **27:1** Moses and the elders of Israel commanded the people, saying, “Keep all the commandment which I command you this day.
+> **27:2** It shall be on the day when you shall pass over the Jordan to the land which Yahweh your God gives you, that you shall set yourself up great stones, and plaster them with plaster:
+> **27:3** and you shall write on them all the words of this law, when you have passed over; that you may go in to the land which Yahweh your God gives you, a land flowing with milk and honey, as Yahweh, the God of your fathers, has promised you.
+> **27:4** It shall be, when you have passed over the Jordan, that you shall set up these stones, which I command you this day, in Mount Ebal, and you shall plaster them with plaster.
+> **27:5** There you shall build an altar to Yahweh your God, an altar of stones: you shall lift up no iron on them.
+> **27:6** You shall build the altar of Yahweh your God of uncut stones; and you shall offer burnt offerings thereon to Yahweh your God:
+> **27:7** and you shall sacrifice peace offerings, and shall eat there; and you shall rejoice before Yahweh your God.
+> **27:8** You shall write on the stones all the words of this law very plainly.”
+> **27:9** Moses and the priests the Levites spoke to all Israel, saying, “Keep silence, and listen, Israel: this day you have become the people of Yahweh your God.
+> **27:10** You shall therefore obey the voice of Yahweh your God, and do his commandments and his statutes, which I command you this day.”
+
+**Claim.** The law is to be written on plastered stones at the entrance to the land, 'very plainly,' beside an altar of uncut stone, and the people told: 'this day you have become the people of Yahweh your God.' A public, legible, checkable text at the threshold — C01's moral order set where everyone entering must pass it.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S1 · chapters: C01 · practices: none · confidence: medium
+
+---
+
+## 57. Deuteronomy 27:11-26 — Cursed is he who strikes his neighbor in secret
+
+> **27:11** Moses commanded the people the same day, saying,
+> **27:12** “These shall stand on Mount Gerizim to bless the people, when you have passed over the Jordan: Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin.
+> **27:13** These shall stand on Mount Ebal for the curse: Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali.
+> **27:14** The Levites shall answer, and tell all the men of Israel with a loud voice,
+> **27:15** ‘Cursed is the man who makes an engraved or molten image, an abomination to Yahweh, the work of the hands of the craftsman, and sets it up in secret.’ All the people shall answer and say, ‘Amen.’
+> **27:16** ‘Cursed is he who sets light by his father or his mother.’ All the people shall say, ‘Amen.’
+> **27:17** ‘Cursed is he who removes his neighbor’s landmark.’ All the people shall say, ‘Amen.’
+> **27:18** ‘Cursed is he who makes the blind to wander out of the way.’ All the people shall say, ‘Amen.’
+> **27:19** ‘Cursed is he who the foreigner, fatherless, and widow of justice.’ All the people shall say, ‘Amen.’
+> **27:20** ‘Cursed is he who lies with his father’s wife, because he has uncovered his father’s skirt.’ All the people shall say, ‘Amen.’
+> **27:21** ‘Cursed is he who lies with any kind of animal.’ All the people shall say, ‘Amen.’
+> **27:22** ‘Cursed is he who lies with his sister, the daughter of his father, or the daughter of his mother.’ All the people shall say, ‘Amen.’
+> **27:23** ‘Cursed is he who lies with his mother-in-law.’ All the people shall say, ‘Amen.’
+> **27:24** ‘Cursed is he who strikes his neighbor in secret.’ All the people shall say, ‘Amen.’
+> **27:25** ‘Cursed is he who takes a bribe to kill an innocent person.’ All the people shall say, ‘Amen.’
+> **27:26** ‘Cursed is he who doesn’t confirm the words of this law to do them.’ All the people shall say, ‘Amen.’”
+
+**Claim.** Twelve curses, each answered by the whole people with Amen. They gather on what is done out of sight: the image set up 'in secret,' the neighbour struck 'in secret,' the moved landmark, the blind led astray, the foreigner, fatherless, and widow deprived of justice. The community binds itself publicly against its own private conduct, which is the Moral Audit's question about consistency — where private conduct differs from public — said aloud by everyone at once. It is a covenant liturgy rather than an examination, so PR01 is not tagged; C04 carries the connection.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S1 · chapters: C04 · practices: none · confidence: medium
+
+---
+
+## 58. Deuteronomy 28:1-14 — You shall be blessed when you come in, and you shall be blessed when you go out
+
+> **28:1** It shall happen, if you shall listen diligently to the voice of Yahweh your God, to observe to do all his commandments which I command you this day, that Yahweh your God will set you on high above all the nations of the earth:
+> **28:2** and all these blessings shall come on you, and overtake you, if you shall listen to the voice of Yahweh your God.
+> **28:3** You shall be blessed in the city, and you shall be blessed in the field.
+> **28:4** You shall be blessed in the fruit of your body, the fruit of your ground, the fruit of your animals, the increase of your livestock, and the young of your flock.
+> **28:5** Your basket and your kneading trough shall be blessed.
+> **28:6** You shall be blessed when you come in, and you shall be blessed when you go out.
+> **28:7** Yahweh will cause your enemies who rise up against you to be struck before you. They will come out against you one way, and will flee before you seven ways.
+> **28:8** Yahweh will command the blessing on you in your barns, and in all that you put your hand to; and he will bless you in the land which Yahweh your God gives you.
+> **28:9** Yahweh will establish you for a holy people to himself, as he has sworn to you; if you shall keep the commandments of Yahweh your God, and walk in his ways.
+> **28:10** All the peoples of the earth shall see that you are called by the name of Yahweh; and they shall be afraid of you.
+> **28:11** Yahweh will make you plenteous for good, in the fruit of your body, and in the fruit of your livestock, and in the fruit of your ground, in the land which Yahweh swore to your fathers to give you.
+> **28:12** Yahweh will open to you his good treasure in the sky, to give the rain of your land in its season, and to bless all the work of your hand: and you shall lend to many nations, and you shall not borrow.
+> **28:13** Yahweh will make you the head, and not the tail; and you shall be above only, and you shall not be beneath; if you shall listen to the commandments of Yahweh your God, which I command you this day, to observe and to do,
+> **28:14** and shall not turn aside from any of the words which I command you this day, to the right hand, or to the left, to go after other gods to serve them.
+
+**Claim.** The blessings: city and field, body and ground, basket and kneading trough, coming in and going out. The claim is C01's — that conduct and consequence are not unrelated, that a life lived with the grain is blessed in its ordinary places. The book does not hide that the claim will be tested; Job and Ecclesiastes record the counter-evidence, and the index does not treat this chapter as a guarantee.
+
+**Tags.** pillars: truth · stages: S1 · chapters: C01 · practices: none · confidence: medium
+
+---
+
+## 59. Deuteronomy 28:15-68 — Because you didn't serve Yahweh your God with joyfulness… by reason of the abundance of all things
+
+> **28:15** But it shall come to pass, if you will not listen to the voice of Yahweh your God, to observe to do all his commandments and his statutes which I command you this day, that all these curses shall come on you, and overtake you.
+> **28:16** You shall be cursed in the city, and you shall be cursed in the field.
+> **28:17** Your basket and your kneading trough shall be cursed.
+> **28:18** The fruit of your body, the fruit of your ground, the increase of your livestock, and the young of your flock shall be cursed.
+> **28:19** You shall be cursed when you come in, and you shall be cursed when you go out.
+> **28:20** Yahweh will send on you cursing, confusion, and rebuke, in all that you put your hand to do, until you are destroyed, and until you perish quickly; because of the evil of your doings, by which you have forsaken me.
+> **28:21** Yahweh will make the pestilence cling to you, until he has consumed you from off the land, where you go in to possess it.
+> **28:22** Yahweh will strike you with consumption, and with fever, and with inflammation, and with fiery heat, and with the sword, and with blight, and with mildew; and they shall pursue you until you perish.
+> **28:23** Your sky that is over your head shall be brass, and the earth that is under you shall be iron.
+> **28:24** Yahweh will make the rain of your land powder and dust: from the sky shall it come down on you, until you are destroyed.
+> **28:25** Yahweh will cause you to be struck before your enemies; you shall go out one way against them, and shall flee seven ways before them: and you shall be tossed back and forth among all the kingdoms of the earth.
+> **28:26** Your dead body shall be food to all birds of the sky, and to the animals of the earth; and there shall be none to frighten them away.
+> **28:27** Yahweh will strike you with the boil of Egypt, and with the tumors, and with the scurvy, and with the itch, of which you can not be healed.
+> **28:28** Yahweh will strike you with madness, and with blindness, and with astonishment of heart;
+> **28:29** and you shall grope at noonday, as the blind gropes in darkness, and you shall not prosper in your ways: and you shall be only oppressed and robbed always, and there shall be none to save you.
+> **28:30** You shall betroth a wife, and another man shall lie with her: you shall build a house, and you shall not dwell therein: you shall plant a vineyard, and shall not use its fruit.
+> **28:31** Your ox shall be slain before your eyes, and you shall not eat of it: your donkey shall be violently taken away from before your face, and shall not be restored to you: your sheep shall be given to your enemies, and you shall have none to save you.
+> **28:32** Your sons and your daughters shall be given to another people; and your eyes shall look, and fail with longing for them all the day: and there shall be nothing in the power of your hand.
+> **28:33** The fruit of your ground, and all your labors, shall a nation which you don’t know eat up; and you shall be only oppressed and crushed always;
+> **28:34** so that you shall be mad for the sight of your eyes which you shall see.
+> **28:35** Yahweh will strike you in the knees, and in the legs, with a sore boil, of which you can not be healed, from the sole of your foot to the crown of your head.
+> **28:36** Yahweh will bring you, and your king whom you shall set over you, to a nation that you have not known, you nor your fathers; and there you shall serve other gods, wood and stone.
+> **28:37** You shall become an astonishment, a proverb, and a byword, among all the peoples where Yahweh shall lead you away.
+> **28:38** You shall carry much seed out into the field, and shall gather little in; for the locust shall consume it.
+> **28:39** You shall plant vineyards and dress them, but you shall neither drink of the wine, nor harvest; for the worm shall eat them.
+> **28:40** You shall have olive trees throughout all your borders, but you shall not anoint yourself with the oil; for your olives shall drop off.
+> **28:41** You shall father sons and daughters, but they shall not be yours; for they shall go into captivity.
+> **28:42** All your trees and the fruit of your ground shall the locust possess.
+> **28:43** The foreigner who is in the midst of you shall mount up above you higher and higher; and you shall come down lower and lower.
+> **28:44** He shall lend to you, and you shall not lend to him: he shall be the head, and you shall be the tail.
+> **28:45** All these curses shall come on you, and shall pursue you, and overtake you, until you are destroyed; because you didn’t listen to the voice of Yahweh your God, to keep his commandments and his statutes which he commanded you:
+> **28:46** and they shall be on you for a sign and for a wonder, and on your seed forever.
+> **28:47** Because you didn’t serve Yahweh your God with joyfulness, and with gladness of heart, by reason of the abundance of all things;
+> **28:48** therefore you shall serve your enemies whom Yahweh shall send against you, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron on your neck, until he has destroyed you.
+> **28:49** Yahweh will bring a nation against you from far, from the end of the earth, as the eagle flies; a nation whose language you shall not understand;
+> **28:50** a nation of fierce facial expressions, that shall not respect the person of the old, nor show favor to the young,
+> **28:51** and shall eat the fruit of your livestock, and the fruit of your ground, until you are destroyed; that also shall not leave you grain, new wine, or oil, the increase of your livestock, or the young of your flock, until they have caused you to perish.
+> **28:52** They shall besiege you in all your gates, until your high and fortified walls come down, in which you trusted, throughout all your land; and they shall besiege you in all your gates throughout all your land, which Yahweh your God has given you.
+> **28:53** You shall eat the fruit of your own body, the flesh of your sons and of your daughters, whom Yahweh your God has given you, in the siege and in the distress with which your enemies shall distress you.
+> **28:54** The man who is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children whom he has remaining;
+> **28:55** so that he will not give to any of them of the flesh of his children whom he shall eat, because he has nothing left him, in the siege and in the distress with which your enemy shall distress you in all your gates.
+> **28:56** The tender and delicate woman among you, who would not adventure to set the sole of her foot on the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,
+> **28:57** and toward her young one who comes out from between her feet, and toward her children whom she shall bear; for she shall eat them for want of all things secretly, in the siege and in the distress with which your enemy shall distress you in your gates.
+> **28:58** If you will not observe to do all the words of this law that are written in this book, that you may fear this glorious and fearful name, YAHWEH YOUR GOD;
+> **28:59** then Yahweh will make your plagues wonderful, and the plagues of your seed, even great plagues, and of long continuance, and severe sicknesses, and of long continuance.
+> **28:60** He will bring on you again all the diseases of Egypt, which you were afraid of; and they shall cling to you.
+> **28:61** Also every sickness, and every plague, which is not written in the book of this law, Yahweh will bring them on you, until you are destroyed.
+> **28:62** You shall be left few in number, whereas you were as the stars of the sky for multitude; because you didn’t listen to the voice of Yahweh your God.
+> **28:63** It shall happen that as Yahweh rejoiced over you to do you good, and to multiply you, so Yahweh will rejoice over you to cause you to perish, and to destroy you; and you shall be plucked from off the land where you go in to possess it.
+> **28:64** Yahweh will scatter you among all peoples, from the one end of the earth even to the other end of the earth; and there you shall serve other gods, which you have not known, you nor your fathers, even wood and stone.
+> **28:65** Among these nations you shall find no ease, and there shall be no rest for the sole of your foot: but Yahweh will give you there a trembling heart, and failing of eyes, and pining of soul;
+> **28:66** and your life shall hang in doubt before you; and you shall fear night and day, and shall have no assurance of your life.
+> **28:67** In the morning you shall say, “I wish it were evening!” and at evening you shall say, “I wish it were morning!” for the fear of your heart which you shall fear, and for the sight of your eyes which you shall see.
+> **28:68** Yahweh will bring you into Egypt again with ships, by the way of which I said to you, You shall see it no more again: and there you shall sell yourselves to your enemies for bondservants and for bondmaids, and no man shall buy you.
+
+**Claim.** The curses, longer and more detailed than the blessings, ending in exile and in a siege where the most refined man and woman in the city turn cruel toward their own families (28:53-57) — what comes out under pressure is inventory, as C21 says, and here it is described at its most terrible. One verse names the root: 'because you didn't serve Yahweh your God with joyfulness, and with gladness of heart, by reason of the abundance of all things.' Joyless obedience in plenty is given as the cause. C10's claim that delight belongs in a book of moral formation, and not as ornament, has its sternest warrant here. The siege passages are part of the pericope because they are part of the argument; they are not separately anchored.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S1, S3, S5 · chapters: C01, C10, C21 · practices: none · confidence: high
+
+---
+
+## 60. Deuteronomy 29:1-9 — Yahweh has not given you a heart to know, and eyes to see, and ears to hear, to this day
+
+> **29:1** These are the words of the covenant which Yahweh commanded Moses to make with the children of Israel in the land of Moab, besides the covenant which he made with them in Horeb.
+> **29:2** Moses called to all Israel, and said to them, You have seen all that Yahweh did before your eyes in the land of Egypt to Pharaoh, and to all his servants, and to all his land;
+> **29:3** the great trials which your eyes saw, the signs, and those great wonders:
+> **29:4** but Yahweh has not given you a heart to know, and eyes to see, and ears to hear, to this day.
+> **29:5** I have led you forty years in the wilderness: your clothes have not grown old on you, and your shoes have not grown old on your feet.
+> **29:6** You have not eaten bread, neither have you drunk wine or strong drink; that you may know that I am Yahweh your God.
+> **29:7** When you came to this place, Sihon the king of Heshbon, and Og the king of Bashan, came out against us to battle, and we struck them:
+> **29:8** and we took their land, and gave it for an inheritance to the Reubenites, and to the Gadites, and to the half-tribe of the Manassites.
+> **29:9** Keep therefore the words of this covenant, and do them, that you may prosper in all that you do.
+
+**Claim.** Forty years of signs, and the verdict: they saw the great wonders and were not given 'eyes to see.' Having witnessed is not the same as having perceived. C06 is built on the prayer of Psalm 119:18, open my eyes, because sight is given rather than achieved, and this is the sentence that makes the prayer necessary.
+
+**Tags.** pillars: truth, humility · stages: S2 · chapters: C06 · practices: none · confidence: high
+
+---
+
+## 61. Deuteronomy 29:10-28 — Lest there should be among you a root that bears gall and wormwood
+
+> **29:10** You stand this day all of you before Yahweh your God; your heads, your tribes, your elders, and your officers, even all the men of Israel,
+> **29:11** your little ones, your wives, and your foreigner who is in the midst of your camps, from the one who cuts your wood to the one who draws your water;
+> **29:12** that you may enter into the covenant of Yahweh your God, and into his oath, which Yahweh your God makes with you this day;
+> **29:13** that he may establish you this day to himself for a people, and that he may be to you a God, as he spoke to you, and as he swore to your fathers, to Abraham, to Isaac, and to Jacob.
+> **29:14** Neither with you only do I make this covenant and this oath,
+> **29:15** but with him who stands here with us this day before Yahweh our God, and also with him who is not here with us this day
+> **29:16** (for you know how we lived in the land of Egypt, and how we came through the midst of the nations through which you passed;
+> **29:17** and you have seen their abominations, and their idols, wood and stone, silver and gold, which were among them);
+> **29:18** lest there should be among you man, or woman, or family, or tribe, whose heart turns away this day from Yahweh our God, to go to serve the gods of those nations; lest there should be among you a root that bears gall and wormwood;
+> **29:19** and it happen, when he hears the words of this curse, that he bless himself in his heart, saying, “I shall have peace, though I walk in the stubbornness of my heart, to destroy the moist with the dry.”
+> **29:20** Yahweh will not pardon him, but then the anger of Yahweh and his jealousy will smoke against that man, and all the curse that is written in this book shall lie on him, and Yahweh will blot out his name from under the sky.
+> **29:21** Yahweh will set him apart to evil out of all the tribes of Israel, according to all the curses of the covenant that is written in this book of the law.
+> **29:22** The generation to come, your children who shall rise up after you, and the foreigner who shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses with which Yahweh has made it sick;
+> **29:23** and that the whole land of it is sulfur, salt, and burning, that it is not sown, nor bears, nor any grass grows therein, like the overthrow of Sodom and Gomorrah, Admah and Zeboiim, which Yahweh overthrew in his anger, and in his wrath:
+> **29:24** even all the nations shall say, “Why has Yahweh done thus to this land? What does the heat of this great anger mean?”
+> **29:25** Then men shall say, “Because they forsook the covenant of Yahweh, the God of their fathers, which he made with them when he brought them forth out of the land of Egypt,
+> **29:26** and went and served other gods, and worshiped them, gods that they didn’t know, and that he had not given to them:
+> **29:27** therefore the anger of Yahweh was kindled against this land, to bring on it all the curse that is written in this book;
+> **29:28** and Yahweh rooted them out of their land in anger, and in wrath, and in great indignation, and cast them into another land, as at this day.”
+
+**Claim.** The covenant is made with everyone standing there — heads, elders, little ones, wives, the foreigner, 'from the one who cuts your wood to the one who draws your water' — and with those not yet born. C13's community, which includes its least members by name. Then a warning aimed at the interior: a 'root that bears gall,' the person who hears the curse and 'bless[es] himself in his heart, saying, I shall have peace, though I walk in the stubbornness of my heart.' Failure traced to a root and a private reassurance, which is C21's anatomy; PR02 shares the image but the passage warns rather than prescribes the tracing, and it is not tagged.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S4, S5 · chapters: C21, C13 · practices: none · confidence: high
+
+---
+
+## 62. Deuteronomy 29:29 — The secret things belong to Yahweh our God; but the things that are revealed belong to us
+
+> **29:29** The secret things belong to Yahweh our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.
+
+**Claim.** One verse divides knowledge in two: the hidden things are God's, and the revealed things are 'ours and our children's forever, that we may do all the words of this law.' The Discipline of Unknowing says it is not indecision — that one can act steadfastly while knowing one's understanding is partial. This verse is that sentence in its oldest form: what is not given is left with God, and what is given is for doing.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S6 · chapters: C24 · practices: PR04 · confidence: high
+
+---
+
+## 63. Deuteronomy 30:1-10 — Yahweh your God will circumcise your heart
+
+> **30:1** It shall happen, when all these things have come on you, the blessing and the curse, which I have set before you, and you shall call them to mind among all the nations, where Yahweh your God has driven you,
+> **30:2** and shall return to Yahweh your God, and shall obey his voice according to all that I command you this day, you and your children, with all your heart, and with all your soul;
+> **30:3** that then Yahweh your God will turn your captivity, and have compassion on you, and will return and gather you from all the peoples, where Yahweh your God has scattered you.
+> **30:4** If your outcasts are in the uttermost parts of the heavens, from there will Yahweh your God gather you, and from there he will bring you back:
+> **30:5** and Yahweh your God will bring you into the land which your fathers possessed, and you shall possess it; and he will do you good, and multiply you above your fathers.
+> **30:6** Yahweh your God will circumcise your heart, and the heart of your seed, to love Yahweh your God with all your heart, and with all your soul, that you may live.
+> **30:7** Yahweh your God will put all these curses on your enemies, and on those who hate you, who persecuted you.
+> **30:8** You shall return and obey the voice of Yahweh, and do all his commandments which I command you this day.
+> **30:9** Yahweh your God will make you plenteous in all the work of your hand, in the fruit of your body, and in the fruit of your livestock, and in the fruit of your ground, for good: for Yahweh will again rejoice over you for good, as he rejoiced over your fathers;
+> **30:10** if you shall obey the voice of Yahweh your God, to keep his commandments and his statutes which are written in this book of the law; if you turn to Yahweh your God with all your heart, and with all your soul.
+
+**Claim.** After the curse, return: from the farthest exile, 'from there will Yahweh your God gather you.' The change that 10:16 commanded — circumcise your heart — is now promised as God's own act: 'Yahweh your God will circumcise your heart… to love Yahweh your God.' C19's door from the far country, and C26's change of nature by gift, the promise Ezekiel 36:26 will repeat.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S5, S6 · chapters: C19, C26 · practices: none · confidence: high
+
+---
+
+## 64. Deuteronomy 30:11-14 — It is not too hard for you, neither is it far off
+
+> **30:11** For this commandment which I command you this day, it is not too hard for you, neither is it far off.
+> **30:12** It is not in heaven, that you should say, “Who shall go up for us to heaven, and bring it to us, and make us to hear it, that we may do it?”
+> **30:13** Neither is it beyond the sea, that you should say, “Who shall go over the sea for us, and bring it to us, and make us to hear it, that we may do it?”
+> **30:14** But the word is very near to you, in your mouth, and in your heart, that you may do it.
+
+**Claim.** The commandment is neither in heaven nor beyond the sea; 'the word is very near to you, in your mouth, and in your heart, that you may do it.' C05's insistence that the road be walkable — 'do what you are able' — answered from the law's side: it was never meant to be out of reach. And the word in the heart is C11's indwelling in its Old Testament form, which Paul will quote in Romans 10.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility · stages: S1, S3 · chapters: C05, C11 · practices: none · confidence: high
+
+---
+
+## 65. Deuteronomy 30:15-20 — Therefore choose life
+
+> **30:15** Behold, I have set before you this day life and good, and death and evil;
+> **30:16** in that I command you this day to love Yahweh your God, to walk in his ways, and to keep his commandments and his statutes and his ordinances, that you may live and multiply, and that Yahweh your God may bless you in the land where you go in to possess it.
+> **30:17** But if your heart turns away, and you will not hear, but shall be drawn away, and worship other gods, and serve them;
+> **30:18** I denounce to you this day, that you shall surely perish; you shall not prolong your days in the land, where you pass over the Jordan to go in to possess it.
+> **30:19** I call heaven and earth to witness against you this day, that I have set before you life and death, the blessing and the curse: therefore choose life, that you may live, you and your seed;
+> **30:20** to love Yahweh your God, to obey his voice, and to cling to him; for he is your life, and the length of your days; that you may dwell in the land which Yahweh swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them.
+
+**Claim.** The Scriptural Appendix cites 30:19 as the Two Ways in God's own words: life and good, death and evil, set before you 'this day' — 'therefore choose life.' C01 begins here. The Daily Anchors begin each morning with the same choice spoken aloud, 'today I choose the Way of Life,' and the passage makes the choice daily, repeated, and concrete: love, obey, cling, 'for he is your life, and the length of your days.' This is where the practice's morning sentence comes from.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, mercy, humility · stages: S1 · chapters: C01 · practices: PR07 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 66. Deuteronomy 31:1-8 — He will not fail you, nor forsake you
+
+> **31:1** Moses went and spoke these words to all Israel.
+> **31:2** He said to them, “I am one hundred twenty years old this day; I can no more go out and come in: and Yahweh has said to me, ‘You shall not go over this Jordan.’
+> **31:3** Yahweh your God, he will go over before you; he will destroy these nations from before you, and you shall dispossess them. Joshua shall go over before you, as Yahweh has spoken.
+> **31:4** Yahweh will do to them as he did to Sihon and to Og, the kings of the Amorites, and to their land; whom he destroyed.
+> **31:5** Yahweh will deliver them up before you, and you shall do to them according to all the commandment which I have commanded you.
+> **31:6** Be strong and courageous, don’t be afraid, nor be scared of them: for Yahweh your God, he it is who does go with you; he will not fail you, nor forsake you.”
+> **31:7** Moses called to Joshua, and said to him in the sight of all Israel, “Be strong and courageous: for you shall go with this people into the land which Yahweh has sworn to their fathers to give them; and you shall cause them to inherit it.
+> **31:8** Yahweh, he it is who does go before you; he will be with you, he will not fail you, neither forsake you: don’t be afraid, neither be dismayed.”
+
+**Claim.** A man of a hundred and twenty who can 'no more go out and come in' hands on his work in public, and his last charge to his successor is encouragement: be strong, don't be afraid, 'he will not fail you, neither forsake you.' Authority laid down for the sake of the one who takes it up, C16's, and growth across a span longer than one life, C25's.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S4, S6 · chapters: C16, C25 · practices: none · confidence: medium
+
+---
+
+## 67. Deuteronomy 31:9-13 — That their children, who have not known, may hear, and learn
+
+> **31:9** Moses wrote this law, and delivered it to the priests the sons of Levi, who bore the ark of the covenant of Yahweh, and to all the elders of Israel.
+> **31:10** Moses commanded them, saying, “At the end of every seven years, in the set time of the year of release, in the feast of tents,
+> **31:11** when all Israel has come to appear before Yahweh your God in the place which he shall choose, you shall read this law before all Israel in their hearing.
+> **31:12** Assemble the people, the men and the women and the little ones, and your foreigner who is within your gates, that they may hear, and that they may learn, and fear Yahweh your God, and observe to do all the words of this law;
+> **31:13** and that their children, who have not known, may hear, and learn to fear Yahweh your God, as long as you live in the land where you go over the Jordan to possess it.”
+
+**Claim.** Every seventh year at the feast of tents the whole law is read aloud to everyone — men, women, little ones, the foreigner — 'that they may hear, and that they may learn.' Formation by scheduled return to the same text, C28's rhythm, and the household of C14 extended to the whole people with the children named as the point.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S4, S7 · chapters: C14, C28 · practices: none · confidence: medium
+
+---
+
+## 68. Deuteronomy 31:14-29 — I know their imagination which they frame this day
+
+> **31:14** Yahweh said to Moses, “Behold, your days approach that you must die: call Joshua, and present yourselves in the Tent of Meeting, that I may commission him.” Moses and Joshua went, and presented themselves in the Tent of Meeting.
+> **31:15** Yahweh appeared in the Tent in a pillar of cloud: and the pillar of cloud stood over the door of the Tent.
+> **31:16** Yahweh said to Moses, “Behold, you shall sleep with your fathers; and this people will rise up, and play the prostitute after the strange gods of the land, where they go to be among them, and will forsake me, and break my covenant which I have made with them.
+> **31:17** Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall come on them; so that they will say in that day, ‘Haven’t these evils come on us because our God is not among us?’
+> **31:18** I will surely hide my face in that day for all the evil which they shall have worked, in that they are turned to other gods.
+> **31:19** “Now therefore write this song for yourselves, and teach it to the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.
+> **31:20** For when I shall have brought them into the land which I swore to their fathers, flowing with milk and honey, and they shall have eaten and filled themselves, and grown fat; then will they turn to other gods, and serve them, and despise me, and break my covenant.
+> **31:21** It shall happen, when many evils and troubles have come on them, that this song shall testify before them as a witness; for it shall not be forgotten out of the mouths of their seed: for I know their imagination which they frame this day, before I have brought them into the land which I swore.”
+> **31:22** So Moses wrote this song the same day, and taught it the children of Israel.
+> **31:23** He commissioned Joshua the son of Nun, and said, “Be strong and courageous; for you shall bring the children of Israel into the land which I swore to them: and I will be with you.”
+> **31:24** It happened, when Moses had made an end of writing the words of this law in a book, until they were finished,
+> **31:25** that Moses commanded the Levites, who bore the ark of the covenant of Yahweh, saying,
+> **31:26** “Take this book of the law, and put it by the side of the ark of the covenant of Yahweh your God, that it may be there for a witness against you.
+> **31:27** For I know your rebellion, and your stiff neck: behold, while I am yet alive with you this day, you have been rebellious against Yahweh; and how much more after my death?
+> **31:28** Assemble to me all the elders of your tribes, and your officers, that I may speak these words in their ears, and call heaven and earth to witness against them.
+> **31:29** For I know that after my death you will utterly corrupt yourselves, and turn aside from the way which I have commanded you; and evil will happen to you in the latter days; because you will do that which is evil in the sight of Yahweh, to provoke him to anger through the work of your hands.”
+
+**Claim.** God tells Moses that the people will turn away, and gives a song to be their witness 'for it shall not be forgotten out of the mouths of their seed.' The failure is foreseen — 'I know their imagination which they frame this day, before I have brought them into the land' — and provision is made in advance for the moment they are ready to recognise it. C21's reading of the heart before the act, and C19's door built before the fall rather than after it.
+
+**Tags.** pillars: truth, mercy · stages: S5 · chapters: C21, C19 · practices: none · confidence: medium
+
+---
+
+## 69. Deuteronomy 32:1-14 — The Rock, his work is perfect, for all his ways are justice
+
+> **32:1** Give ear, you heavens, and I will speak. Let the earth hear the words of my mouth.
+> **32:2** My doctrine shall drop as the rain. My speech shall condense as the dew, as the small rain on the tender grass, as the showers on the herb.
+> **32:3** For I will proclaim the name of Yahweh. Ascribe greatness to our God!
+> **32:4** The Rock, his work is perfect, for all his ways are justice: a God of faithfulness and without iniquity, just and right is he.
+> **32:5** They have dealt corruptly with him. They are not his children, because of their defect. They are a perverse and crooked generation.
+> **32:6** Do you thus requite Yahweh, foolish people and unwise? Isn’t he your father who has bought you? He has made you, and established you.
+> **32:7** Remember the days of old. Consider the years of many generations. Ask your father, and he will show you; your elders, and they will tell you.
+> **32:8** When the Most High gave to the nations their inheritance, when he separated the children of men, he set the bounds of the peoples according to the number of the children of Israel.
+> **32:9** For Yahweh’s portion is his people. Jacob is the lot of his inheritance.
+> **32:10** He found him in a desert land, in the waste howling wilderness. He surrounded him. He cared for him. He kept him as the apple of his eye.
+> **32:11** As an eagle that stirs up her nest, that flutters over her young, he spread abroad his wings, he took them, he bore them on his feathers.
+> **32:12** Yahweh alone led him. There was no foreign god with him.
+> **32:13** He made him ride on the high places of the earth. He ate the increase of the field. He caused him to suck honey out of the rock, oil out of the flinty rock;
+> **32:14** Butter of the herd, and milk of the flock, with fat of lambs, rams of the breed of Bashan, and goats, with the finest of the wheat. Of the blood of the grape you drank wine.
+
+**Claim.** The Scriptural Appendix cites 32:4 for the claim that God's ways are justice — that the moral order and the divine character are one thing seen from two angles, which is C01's foundation. The song then tells what that character did: found a people 'in the waste howling wilderness,' kept him 'as the apple of his eye,' as an eagle stirs her nest and bears her young on her wings. The justice and the care belong to the same Rock, which is the ground of C19's hope.
+
+**Tags.** pillars: truth, mercy · stages: S1, S5 · chapters: C01, C19 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 70. Deuteronomy 32:15-43 — Jeshurun grew fat, and kicked
+
+> **32:15** But Jeshurun grew fat, and kicked. You have grown fat. You have grown thick. You have become sleek. Then he forsook God who made him, and lightly esteemed the Rock of his salvation.
+> **32:16** They moved him to jealousy with strange gods. They provoked him to anger with abominations.
+> **32:17** They sacrificed to demons, not God, to gods that they didn’t know, to new gods that came up recently, which your fathers didn’t dread.
+> **32:18** Of the Rock who became your father, you are unmindful, and have forgotten God who gave you birth.
+> **32:19** Yahweh saw and abhorred, because of the provocation of his sons and his daughters.
+> **32:20** He said, “I will hide my face from them. I will see what their end shall be; for they are a very perverse generation, children in whom is no faithfulness.
+> **32:21** They have moved me to jealousy with that which is not God. They have provoked me to anger with their vanities. I will move them to jealousy with those who are not a people. I will provoke them to anger with a foolish nation.
+> **32:22** For a fire is kindled in my anger, Burns to the lowest Sheol, Devours the earth with its increase, and sets the foundations of the mountains on fire.
+> **32:23** “I will heap evils on them. I will spend my arrows on them.
+> **32:24** They shall be wasted with hunger, and devoured with burning heat and bitter destruction. I will send the teeth of animals on them, With the poison of crawling things of the dust.
+> **32:25** Outside the sword shall bereave, and in the rooms, terror; on both young man and virgin, The nursing infant with the gray-haired man.
+> **32:26** I said, I would scatter them afar. I would make their memory to cease from among men;
+> **32:27** were it not that I feared the provocation of the enemy, lest their adversaries should judge wrongly, lest they should say, ‘Our hand is exalted, Yahweh has not done all this.’”
+> **32:28** For they are a nation void of counsel. There is no understanding in them.
+> **32:29** Oh that they were wise, that they understood this, that they would consider their latter end!
+> **32:30** How could one chase a thousand, and two put ten thousand to flight, unless their Rock had sold them, and Yahweh had delivered them up?
+> **32:31** For their rock is not as our Rock, even our enemies themselves being judges.
+> **32:32** For their vine is of the vine of Sodom, of the fields of Gomorrah. Their grapes are grapes of gall, Their clusters are bitter.
+> **32:33** Their wine is the poison of serpents, The cruel venom of asps.
+> **32:34** “Isn’t this laid up in store with me, sealed up among my treasures?
+> **32:35** Vengeance is mine, and recompense, at the time when their foot slides; for the day of their calamity is at hand. The things that are to come on them shall make haste.”
+> **32:36** For Yahweh will judge his people, and have compassion on his servants, when he sees that their power is gone, There is none remaining, shut up or left at large.
+> **32:37** He will say, “Where are their gods, The rock in which they took refuge;
+> **32:38** Which ate the fat of their sacrifices, And drank the wine of their drink offering? Let them rise up and help you! Let them be your protection.
+> **32:39** “See now that I, even I, am he, There is no god with me. I kill, and I make alive. I wound, and I heal. There is no one who can deliver out of my hand.
+> **32:40** For I lift up my hand to heaven, And say, As I live forever,
+> **32:41** if I whet my glittering sword, My hand take hold on judgment; I will render vengeance to my adversaries, and will recompense those who hate me.
+> **32:42** I will make my arrows drunk with blood. My sword shall devour flesh with the blood of the slain and the captives, from the head of the leaders of the enemy.”
+> **32:43** Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will render vengeance to his adversaries, And will make expiation for his land, for his people.
+
+**Claim.** The prosperity of the first half produces the apostasy of the second: 'Jeshurun grew fat, and kicked… Then he forsook God who made him.' C18's warning about abundance in its most compressed form. The lament at the centre — 'Oh that they were wise, that they understood this, that they would consider their latter end!' — is C02's first truth, seeing the end of the path. 'Vengeance is mine, and recompense' (32:35) is the verse Paul quotes in Romans 12:19 when he tells his readers not to avenge themselves; here it is God's declaration about his adversaries rather than an instruction to anyone, and the anchor for Paul's use of it belongs at Romans.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, humility · stages: S1, S4 · chapters: C18, C02 · practices: none · confidence: high
+
+---
+
+## 71. Deuteronomy 32:44-52 — It is no vain thing for you; because it is your life
+
+> **32:44** Moses came and spoke all the words of this song in the ears of the people, he and Joshua the son of Nun.
+> **32:45** Moses made an end of speaking all these words to all Israel;
+> **32:46** He said to them, “Set your heart to all the words which I testify to you this day, which you shall command your children to observe to do, all the words of this law.
+> **32:47** For it is no vain thing for you; because it is your life, and through this thing you shall prolong your days in the land, where you go over the Jordan to possess it.”
+> **32:48** Yahweh spoke to Moses that same day, saying,
+> **32:49** “Go up into this mountain of Abarim, to Mount Nebo, which is in the land of Moab, that is over against Jericho; and see the land of Canaan, which I give to the children of Israel for a possession;
+> **32:50** and die on the mountain where you go up, and be gathered to your people, as Aaron your brother died on Mount Hor, and was gathered to his people:
+> **32:51** because you trespassed against me in the midst of the children of Israel at the waters of Meribah of Kadesh, in the wilderness of Zin; because you didn’t sanctify me in the midst of the children of Israel.
+> **32:52** For you shall see the land before you; but you shall not go there into the land which I give the children of Israel.”
+
+**Claim.** Moses' last word on the law — 'it is no vain thing for you; because it is your life' — and then the command to climb Nebo and die there, seeing the land and not entering, because of Meribah. The law as life is C01; the consequence that stands even after forty years of faithful service, accepted without protest, is C18's freedom from the one thing he wanted.
+
+**Tags.** pillars: truth, humility · stages: S1, S4 · chapters: C01, C18 · practices: none · confidence: medium
+
+---
+
+## 72. Deuteronomy 33:26-27 — The eternal God is your dwelling place. Underneath are the everlasting arms
+
+> **33:26** “There is none like God, Jeshurun, who rides on the heavens for your help, In his excellency on the skies.
+> **33:27** The eternal God is your dwelling place. Underneath are the everlasting arms. He thrust out the enemy from before you, and said, ‘Destroy!’
+
+**Claim.** From the blessing of the tribes, the one line that reaches beyond them: God as a dwelling place, and underneath, the everlasting arms. C09's secret place and C11's remaining are both spatial images of being held, and this is their Old Testament root. The rest of the tribal blessings (33:1-25, 28-29) are not indexed; they bless particular tribes and anchor nothing in personal formation. 27b ('Destroy!') belongs to the conquest material and is not what the entry anchors.
+
+**Tags.** pillars: mercy, humility · stages: S3 · chapters: C09, C11 · practices: none · confidence: high
+
+---
+
+## 73. Deuteronomy 34:1-12 — No man knows of his tomb to this day
+
+> **34:1** Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is over against Jericho. Yahweh showed him all the land of Gilead, to Dan,
+> **34:2** and all Naphtali, and the land of Ephraim and Manasseh, and all the land of Judah, to the hinder sea,
+> **34:3** and the South, and the Plain of the valley of Jericho the city of palm trees, to Zoar.
+> **34:4** Yahweh said to him, “This is the land which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your seed.’ I have caused you to see it with your eyes, but you shall not go over there.”
+> **34:5** So Moses the servant of Yahweh died there in the land of Moab, according to the word of Yahweh.
+> **34:6** He buried him in the valley in the land of Moab over against Beth Peor: but no man knows of his tomb to this day.
+> **34:7** Moses was one hundred twenty years old when he died: his eye was not dim, nor his natural force abated.
+> **34:8** The children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping in the mourning for Moses were ended.
+> **34:9** Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands on him: and the children of Israel listened to him, and did as Yahweh commanded Moses.
+> **34:10** There has not arisen a prophet since in Israel like Moses, whom Yahweh knew face to face,
+> **34:11** in all the signs and the wonders, which Yahweh sent him to do in the land of Egypt, to Pharaoh, and to all his servants, and to all his land,
+> **34:12** and in all the mighty hand, and in all the great terror, which Moses worked in the sight of all Israel.
+
+**Claim.** The greatest prophet in Israel dies outside the land, is buried by God, and 'no man knows of his tomb to this day.' His eye was not dim; the people wept thirty days, and then 'the days of weeping in the mourning for Moses were ended.' A life given to a promise he would not personally enter, ending in a grave no one could make into a monument. C23's hidden life at its most literal, and C18's detachment completed.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility · stages: S4, S6 · chapters: C23, C18 · practices: none · confidence: medium
 
 ---
 

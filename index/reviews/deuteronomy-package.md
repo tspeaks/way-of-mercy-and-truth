@@ -1,14 +1,14 @@
 # Deuteronomy — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — chapters 1-11 of 34 indexed (Moses' first and second addresses); chapters 12-26, 27-30, and 31-34 pending. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: in progress — chapters 1-26 of 34 indexed (the two addresses and the law code, the code selectively); chapters 27-30 and 31-34 pending. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
-**Note.** The Two Ways in its original form, upstream of both the Didache and C01. Indexed in sections along the book's own seams: the first address and the history (1-4), the second address with the Decalogue and the Shema (5-11), the law code (12-26), the blessings, curses, and covenant renewal (27-30), and the song and death of Moses (31-34). This file covers the first two.
+**Note.** The Two Ways in its original form, upstream of both the Didache and C01. Indexed in sections along the book's own seams: the first address and the history (1-4), the second address with the Decalogue and the Shema (5-11), the law code (12-26), the blessings, curses, and covenant renewal (27-30), and the song and death of Moses (31-34). This file covers the first three.
 
-**Coverage note.** Chapters 1-11, unindexed by decision: the destruction of Sihon and Og with 'the women and the little ones' (2:24-3:11), the allotment of the eastern lands (3:12-17), the summary at 4:44-49, and the command to destroy the seven nations and show them no mercy, with the blessings and assurances bound up in it (7:1-5, 7:12-26: 'your eye shall not pity them'). These are among the hardest texts in the canon for a curriculum built on mercy, and the index does not soften them by allegory — including the long monastic tradition of reading 7:22, 'by little and little,' as the gradual conquest of the passions — nor tag them by stretching. WMT's genealogy nowhere adopts an allegorical hermeneutic, as noted for the Song of Solomon. They are recorded here as left out, not as judged to be of no weight; a reader of the curriculum will meet them, and the index should not pretend they are absent.
+**Coverage note.** Chapters 1-11, unindexed by decision: the destruction of Sihon and Og with 'the women and the little ones' (2:24-3:11), the allotment of the eastern lands (3:12-17), the summary at 4:44-49, and the command to destroy the seven nations and show them no mercy, with the blessings and assurances bound up in it (7:1-5, 7:12-26: 'your eye shall not pity them'). These are among the hardest texts in the canon for a curriculum built on mercy, and the index does not soften them by allegory — including the long monastic tradition of reading 7:22, 'by little and little,' as the gradual conquest of the passions — nor tag them by stretching. WMT's genealogy nowhere adopts an allegorical hermeneutic, as noted for the Song of Solomon. They are recorded here as left out, not as judged to be of no weight; a reader of the curriculum will meet them, and the index should not pretend they are absent. Chapters 12-26, the law code, are indexed selectively, as Jeremiah 46-52 was. Left out: the destruction of the nations' shrines (12:1-4) and the blood and meat regulations (12:20-28); the death penalties for enticement and apostasy and the destruction of an apostate town (13:5-18, 17:2-7); the food laws (14:1-21); the firstborn and blemished-sacrifice rules (15:19-23, 17:1) and the central court (17:8-13); the landmark law (19:14); the war laws, including the herem of 20:16-18 (20:10-20); the captive woman (21:10-14); the stoning of a rebellious son and the hanged man (21:18-23); the laws of clothing, mixed seed, and fringes (22:5-12); the sexual and marriage laws of 22:13-30 and the divorce law of 24:1-4, which Jesus addresses directly in Matthew 19 and which are better indexed there; the assembly exclusions (23:1-6), camp purity (23:9-14), cult prostitution and interest (23:17-20) and the passer-by's right to eat (23:24-25); the millstone pledge, kidnapping, and leprosy laws (24:6-9) and individual responsibility (24:16); the ox unmuzzled (25:4); the woman's hand (25:11-12); and the command to blot out Amalek (25:17-19). Some of these are humane and some are among the hardest laws in the Torah; what they share is that they anchor nothing in a curriculum of personal formation without allegory or a stretched tag.
 
-**Sectioning note.** As with Jeremiah, sectioning is a practical necessity and the status field names what is done. The prior citations the Scriptural Appendix makes for this book — 18:15, 30:19, 32:4, and the gleaning, wage, and honest-scale laws — all fall in sections not yet indexed.
+**Sectioning note.** As with Jeremiah, sectioning is a practical necessity and the status field names what is done. The prior citations the Scriptural Appendix makes for this book — 18:15, 30:19, 32:4, and the gleaning, wage, and honest-scale laws — fall partly in the law code, where they are now carried (18:15, 24:10-15, 24:17-22, 25:13-16); 30:19 and 32:4 fall in sections not yet indexed.
 
 ---
 
@@ -534,6 +534,470 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** The Two Ways set out for the first time in the book, 'this day,' and fixed to two mountains so that the choice has a geography. C01's opening — reality has a grain, and choices go with it or against it — is this passage. Its fullest statement comes at 30:15-20, which the Scriptural Appendix cites and which will carry the prior when chapters 27-30 are indexed.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S1 · chapters: C01 · practices: none · confidence: high
+
+---
+
+## 27. Deuteronomy 12:5-19 — You shall rejoice… you and your households… and the Levite who is within your gates
+
+> **12:5** But to the place which Yahweh your God shall choose out of all your tribes, to put his name there, even to his habitation you shall seek, and there you shall come;
+> **12:6** and there you shall bring your burnt offerings, and your sacrifices, and your tithes, and the wave offering of your hand, and your vows, and your freewill offerings, and the firstborn of your herd and of your flock:
+> **12:7** and there you shall eat before Yahweh your God, and you shall rejoice in all that you put your hand to, you and your households, in which Yahweh your God has blessed you.
+> **12:8** You shall not do after all the things that we do here this day, every man whatever is right in his own eyes;
+> **12:9** for you haven’t yet come to the rest and to the inheritance, which Yahweh your God gives you.
+> **12:10** But when you go over the Jordan, and dwell in the land which Yahweh your God causes you to inherit, and he gives you rest from all your enemies around you, so that you dwell in safety;
+> **12:11** then it shall happen that to the place which Yahweh your God shall choose, to cause his name to dwell there, there you shall bring all that I command you: your burnt offerings, and your sacrifices, your tithes, and the wave offering of your hand, and all your choice vows which you vow to Yahweh.
+> **12:12** You shall rejoice before Yahweh your God, you, and your sons, and your daughters, and your male servants, and your female servants, and the Levite who is within your gates, because he has no portion nor inheritance with you.
+> **12:13** Take heed to yourself that you don’t offer your burnt offerings in every place that you see;
+> **12:14** but in the place which Yahweh shall choose in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I command you.
+> **12:15** Notwithstanding, you may kill and eat flesh within all your gates, after all the desire of your soul, according to the blessing of Yahweh your God which he has given you: the unclean and the clean may eat of it, as of the gazelle, and as of the hart.
+> **12:16** Only you shall not eat the blood; you shall pour it out on the earth as water.
+> **12:17** You may not eat within your gates the tithe of your grain, or of your new wine, or of your oil, or the firstborn of your herd or of your flock, nor any of your vows which you vow, nor your freewill offerings, nor the wave offering of your hand;
+> **12:18** but you shall eat them before Yahweh your God in the place which Yahweh your God shall choose, you, and your son, and your daughter, and your male servant, and your female servant, and the Levite who is within your gates: and you shall rejoice before Yahweh your God in all that you put your hand to.
+> **12:19** Take heed to yourself that you don’t forsake the Levite as long as you live in your land.
+
+**Claim.** Worship in the law code begins with a meal and a command to rejoice, and the table is set wide: sons, daughters, male and female servants, and the Levite, 'because he has no portion nor inheritance with you.' 'Take heed to yourself that you don't forsake the Levite as long as you live in your land.' C10's delight, kept inside C14's household, with C16's insistence on the one who has no share of his own.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility · stages: S3, S4 · chapters: C10, C14, C16 · practices: none · confidence: medium
+
+---
+
+## 28. Deuteronomy 12:29-32 — How do these nations serve their gods? I will do likewise
+
+> **12:29** When Yahweh your God shall cut off the nations from before you, where you go in to dispossess them, and you dispossess them, and dwell in their land;
+> **12:30** take heed to yourself that you not be ensnared to follow them, after that they are destroyed from before you; and that you not inquire after their gods, saying, “How do these nations serve their gods? I will do likewise.”
+> **12:31** You shall not do so to Yahweh your God: for every abomination to Yahweh, which he hates, have they done to their gods; for even their sons and their daughters do they burn in the fire to their gods.
+> **12:32** Whatever thing I command you, that you shall observe to do: you shall not add thereto, nor diminish from it.
+
+**Claim.** The danger is placed at the moment of curiosity, before any act: 'take heed to yourself that you not be ensnared… and that you not inquire after their gods, saying, How do these nations serve their gods? I will do likewise.' The thought is quoted as it arrives, which is the attention C20 asks for.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S5 · chapters: C20 · practices: none · confidence: medium
+
+---
+
+## 29. Deuteronomy 13:1-4 — If the sign or the wonder come to pass
+
+> **13:1** If there arise in the midst of you a prophet, or a dreamer of dreams, and he give you a sign or a wonder,
+> **13:2** and the sign or the wonder come to pass, of which he spoke to you, saying, “Let us go after other gods” (which you have not known) “and let us serve them;”
+> **13:3** you shall not listen to the words of that prophet, or to that dreamer of dreams: for Yahweh your God proves you, to know whether you love Yahweh your God with all your heart and with all your soul.
+> **13:4** You shall walk after Yahweh your God, and fear him, and keep his commandments, and obey his voice, and you shall serve him, and cling to him.
+
+**Claim.** The test of a prophet is not whether his sign comes true. A prophet whose wonder happens exactly as predicted is still not to be heard if he leads 'after other gods,' and the sign is read as a test of the hearers' love. C08's fruit test in its sharpest form: what a teacher leads toward outweighs what he can do. The sentence that follows (13:5) and the laws of 13:6-18 are not indexed; see the coverage note.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S2 · chapters: C08 · practices: none · confidence: high
+
+---
+
+## 30. Deuteronomy 14:22-29 — The foreigner, and the fatherless, and the widow… shall come, and shall eat and be satisfied
+
+> **14:22** You shall surely tithe all the increase of your seed, that which comes forth from the field year by year.
+> **14:23** You shall eat before Yahweh your God, in the place which he shall choose, to cause his name to dwell there, the tithe of your grain, of your new wine, and of your oil, and the firstborn of your herd and of your flock; that you may learn to fear Yahweh your God always.
+> **14:24** If the way is too long for you, so that you are not able to carry it, because the place is too far from you, which Yahweh your God shall choose, to set his name there, when Yahweh your God shall bless you;
+> **14:25** then you shall turn it into money, and bind up the money in your hand, and shall go to the place which Yahweh your God shall choose:
+> **14:26** and you shall bestow the money for whatever your soul desires, for cattle, or for sheep, or for wine, or for strong drink, or for whatever your soul asks of you; and you shall eat there before Yahweh your God, and you shall rejoice, you and your household.
+> **14:27** The Levite who is within your gates, you shall not forsake him; for he has no portion nor inheritance with you.
+> **14:28** At the end of every three years you shall bring forth all the tithe of your increase in the same year, and shall lay it up within your gates:
+> **14:29** and the Levite, because he has no portion nor inheritance with you, and the foreigner living among you, and the fatherless, and the widow, who are within your gates, shall come, and shall eat and be satisfied; that Yahweh your God may bless you in all the work of your hand which you do.
+
+**Claim.** Two tithes. The yearly one is eaten before God with rejoicing — turned into money if the way is far and spent 'for whatever your soul desires.' The third-year tithe is laid up in the towns for those with no portion: the Levite, the foreigner, the fatherless, the widow, who 'shall eat and be satisfied.' A fixed share of increase, on a schedule, directed to actual need: Habitual Almsgiving as law, and the Torah's provision for the sojourner, the fatherless, and the widow that the Scriptural Appendix names as the practice's ground.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S3, S4 · chapters: C16, C10 · practices: PR05 · confidence: high
+
+---
+
+## 31. Deuteronomy 15:1-11 — Beware that there not be a base thought in your heart
+
+> **15:1** At the end of every seven years you shall make a release.
+> **15:2** This is the way of the release: every creditor shall release that which he has lent to his neighbor; he shall not exact it of his neighbor and his brother; because Yahweh’s release has been proclaimed.
+> **15:3** Of a foreigner you may exact it: but whatever of your is with your brother your hand shall release.
+> **15:4** However there shall be no poor with you; (for Yahweh will surely bless you in the land which Yahweh your God gives you for an inheritance to possess it;)
+> **15:5** if only you diligently listen to the voice of Yahweh your God, to observe to do all this commandment which I command you this day.
+> **15:6** For Yahweh your God will bless you, as he promised you: and you shall lend to many nations, but you shall not borrow; and you shall rule over many nations, but they shall not rule over you.
+> **15:7** If a poor man, one of your brothers, is with you within any of your gates in your land which Yahweh your God gives you, you shall not harden your heart, nor shut your hand from your poor brother;
+> **15:8** but you shall surely open your hand to him, and shall surely lend him sufficient for his need, which he lacks.
+> **15:9** Beware that there not be a base thought in your heart, saying, “The seventh year, the year of release, is at hand;” and your eye be evil against your poor brother, and you give him nothing; and he cry to Yahweh against you, and it be sin to you.
+> **15:10** You shall surely give him, and your heart shall not be grieved when you give to him; because that for this thing Yahweh your God will bless you in all your work, and in all that you put your hand to.
+> **15:11** For the poor will never cease out of the land: therefore I command you, saying, You shall surely open your hand to your brother, to your needy, and to your poor, in your land.
+
+**Claim.** The year of release, and the most searching law in the book about giving. 'You shall not harden your heart, nor shut your hand from your poor brother.' Then the thought before the refusal is named: 'Beware that there not be a base thought in your heart, saying, The seventh year, the year of release, is at hand' — the calculation that the loan will be cancelled — 'and your eye be evil against your poor brother, and you give him nothing.' Watchfulness catches a thought at the gate before it hardens into action; this law quotes the thought and tells you to catch it. And the giving itself reaches the heart: 'your heart shall not be grieved when you give.' 'The poor will never cease out of the land: therefore… you shall surely open your hand' makes almsgiving a permanent rhythm rather than a response to an emergency.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S4, S5 · chapters: C16, C20 · practices: PR05, PR12 · confidence: high
+
+---
+
+## 32. Deuteronomy 15:12-18 — You shall not let him go empty
+
+> **15:12** If your brother, a Hebrew man, or a Hebrew woman, is sold to you, and serves you six years; then in the seventh year you shall let him go free from you.
+> **15:13** When you let him go free from you, you shall not let him go empty:
+> **15:14** you shall furnish him liberally out of your flock, and out of your threshing floor, and out of your winepress; as Yahweh your God has blessed you, you shall give to him.
+> **15:15** You shall remember that you were a bondservant in the land of Egypt, and Yahweh your God redeemed you: therefore I command you this thing today.
+> **15:16** It shall be, if he tells you, “I will not go out from you;” because he loves you and your house, because he is well with you;
+> **15:17** then you shall take an awl, and thrust it through his ear to the door, and he shall be your servant forever. Also to your female servant you shall do likewise.
+> **15:18** It shall not seem hard to you, when you let him go free from you; for to the double of the hire of a hireling has he served you six years: and Yahweh your God will bless you in all that you do.
+
+**Claim.** A Hebrew servant goes free in the seventh year, and not empty-handed: 'you shall furnish him liberally out of your flock, and out of your threshing floor, and out of your winepress; as Yahweh your God has blessed you, you shall give to him.' Giving proportioned to one's own blessing, and grounded in memory: 'you shall remember that you were a bondservant.' The law regulates an institution the index does not commend; what it anchors is the command to send the departing away provided for, and 'it shall not seem hard to you.'
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4 · chapters: C16, C14 · practices: PR05 · confidence: medium
+
+---
+
+## 33. Deuteronomy 16:1-17 — You shall rejoice in your feast, you… and the foreigner, and the fatherless, and the widow
+
+> **16:1** Observe the month of Abib, and keep the Passover to Yahweh your God; for in the month of Abib Yahweh your God brought you forth out of Egypt by night.
+> **16:2** You shall sacrifice the Passover to Yahweh your God, of the flock and the herd, in the place which Yahweh shall choose, to cause his name to dwell there.
+> **16:3** You shall eat no leavened bread with it. You shall eat unleavened bread with it seven days, even the bread of affliction; for you came forth out of the land of Egypt in haste: that you may remember the day when you came forth out of the land of Egypt all the days of your life.
+> **16:4** No yeast shall be seen with you in all your borders seven days; neither shall any of the flesh, which you sacrifice the first day at evening, remain all night until the morning.
+> **16:5** You may not sacrifice the Passover within any of your gates, which Yahweh your God gives you;
+> **16:6** but at the place which Yahweh your God shall choose, to cause his name to dwell in, there you shall sacrifice the Passover at evening, at the going down of the sun, at the season that you came forth out of Egypt.
+> **16:7** You shall roast and eat it in the place which Yahweh your God shall choose: and you shall turn in the morning, and go to your tents.
+> **16:8** Six days you shall eat unleavened bread. On the seventh day shall be a solemn assembly to Yahweh your God; you shall do no work.
+> **16:9** You shall count for yourselves seven weeks: from the time you begin to put the sickle to the standing grain you shall begin to number seven weeks.
+> **16:10** You shall keep the feast of weeks to Yahweh your God with a tribute of a freewill offering of your hand, which you shall give, according as Yahweh your God blesses you:
+> **16:11** and you shall rejoice before Yahweh your God, you, and your son, and your daughter, and your male servant, and your female servant, and the Levite who is within your gates, and the foreigner, and the fatherless, and the widow, who are in the midst of you, in the place which Yahweh your God shall choose, to cause his name to dwell there.
+> **16:12** You shall remember that you were a bondservant in Egypt: and you shall observe and do these statutes.
+> **16:13** You shall keep the feast of tents seven days, after that you have gathered in from your threshing floor and from your winepress:
+> **16:14** and you shall rejoice in your feast, you, and your son, and your daughter, and your male servant, and your female servant, and the Levite, and the foreigner, and the fatherless, and the widow, who are within your gates.
+> **16:15** You shall keep a feast to Yahweh your God seven days in the place which Yahweh shall choose; because Yahweh your God will bless you in all your increase, and in all the work of your hands, and you shall be altogether joyful.
+> **16:16** Three times in a year shall all your males appear before Yahweh your God in the place which he shall choose: in the feast of unleavened bread, and in the feast of weeks, and in the feast of tents; and they shall not appear before Yahweh empty:
+> **16:17** every man shall give as he is able, according to the blessing of Yahweh your God which he has given you.
+
+**Claim.** Three feasts a year, each a remembering — the bread of affliction eaten 'that you may remember the day when you came forth out of the land of Egypt all the days of your life' — and each a rejoicing to which the household's margins are named one by one: servants, the Levite, the foreigner, the fatherless, the widow. C28's formation by a rhythm of return, and C10's joy, made communal. PR25 shares the subject of the poor at the table, but nothing here is someone giving up their own seat, and it is not tagged.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility · stages: S3, S7 · chapters: C28, C10 · practices: none · confidence: high
+
+---
+
+## 34. Deuteronomy 16:18-20 — A bribe does blind the eyes of the wise
+
+> **16:18** You shall make judges and officers in all your gates, which Yahweh your God gives you, according to your tribes; and they shall judge the people with righteous judgment.
+> **16:19** You shall not wrest justice: you shall not respect persons; neither shall you take a bribe; for a bribe does blind the eyes of the wise, and pervert the words of the righteous.
+> **16:20** You shall follow that which is altogether just, that you may live, and inherit the land which Yahweh your God gives you.
+
+**Claim.** Judges in every gate, no partiality, no bribe — 'for a bribe does blind the eyes of the wise, and pervert the words of the righteous.' Interest corrupts perception before it corrupts judgment: the wise are blinded, not merely tempted. That is C07's claim that the lens is clouded by the condition of the one looking. 'That which is altogether just you shall follow' is C16's charge to those who hold power.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S2, S4 · chapters: C07, C16 · practices: none · confidence: high
+
+---
+
+## 35. Deuteronomy 17:14-20 — That his heart not be lifted up above his brothers
+
+> **17:14** When you have come to the land which Yahweh your God gives you, and shall possess it, and shall dwell therein, and shall say, “I will set a king over me, like all the nations that are around me;”
+> **17:15** you shall surely set him king over yourselves, whom Yahweh your God shall choose: one from among your brothers you shall set king over you; you may not put a foreigner over you, who is not your brother.
+> **17:16** Only he shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he may multiply horses; because Yahweh has said to you, “You shall not go back that way again.”
+> **17:17** Neither shall he multiply wives to himself, that his heart not turn away: neither shall he greatly multiply to himself silver and gold.
+> **17:18** It shall be, when he sits on the throne of his kingdom, that he shall write him a copy of this law in a book, out of that which is before the priests the Levites:
+> **17:19** and it shall be with him, and he shall read therein all the days of his life; that he may learn to fear Yahweh his God, to keep all the words of this law and these statutes, to do them;
+> **17:20** that his heart not be lifted up above his brothers, and that he not turn aside from the commandment, to the right hand, or to the left: to the end that he may prolong his days in his kingdom, he and his children, in the midst of Israel.
+
+**Claim.** The only law of kingship in the Torah limits the king rather than empowering him: not many horses, not many wives, not much silver and gold. And he is to write out a copy of the law and read it 'all the days of his life… that his heart not be lifted up above his brothers.' Authority constrained in what it may accumulate and kept level with those it governs is C16's argument, and the limit on accumulation is C18's.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S4 · chapters: C16, C18 · practices: none · confidence: high
+
+---
+
+## 36. Deuteronomy 18:1-8 — Yahweh is their inheritance
+
+> **18:1** The priests the Levites, all the tribe of Levi, shall have no portion nor inheritance with Israel: they shall eat the offerings of Yahweh made by fire, and his inheritance.
+> **18:2** They shall have no inheritance among their brothers: Yahweh is their inheritance, as he has spoken to them.
+> **18:3** This shall be the priests’ due from the people, from those who offer a sacrifice, whether it be ox or sheep, that they shall give to the priest the shoulder, and the two cheeks, and the maw.
+> **18:4** The first fruits of your grain, of your new wine, and of your oil, and the first of the fleece of your sheep, you shall give him.
+> **18:5** For Yahweh your God has chosen him out of all your tribes, to stand to minister in the name of Yahweh, him and his sons for ever.
+> **18:6** If a Levite comes from any of your gates out of all Israel, where he lives as a foreigner, and comes with all the desire of his soul to the place which Yahweh shall choose;
+> **18:7** then he shall minister in the name of Yahweh his God, as all his brothers the Levites do, who stand there before Yahweh.
+> **18:8** They shall have like portions to eat, besides that which comes of the sale of his patrimony.
+
+**Claim.** The Levites receive no land: 'Yahweh is their inheritance.' A tribe whose portion is a relation rather than a possession is C18's detachment as a social arrangement, provided for by the gifts of the others.
+
+**Tags.** pillars: humility · stages: S4 · chapters: C18 · practices: none · confidence: medium
+
+---
+
+## 37. Deuteronomy 18:9-22 — Yahweh your God will raise up to you a prophet… like me
+
+> **18:9** When you have come into the land which Yahweh your God gives you, you shall not learn to do after the abominations of those nations.
+> **18:10** There shall not be found with you anyone who makes his son or his daughter to pass through the fire, one who uses divination, one who practices sorcery, or an enchanter, or a sorcerer,
+> **18:11** or a charmer, or a consulter with a familiar spirit, or a wizard, or a necromancer.
+> **18:12** For whoever does these things is an abomination to Yahweh: and because of these abominations Yahweh your God does drive them out from before you.
+> **18:13** You shall be perfect with Yahweh your God.
+> **18:14** For these nations, that you shall dispossess, listen to those who practice sorcery, and to diviners; but as for you, Yahweh your God has not allowed you so to do.
+> **18:15** Yahweh your God will raise up to you a prophet from the midst of you, of your brothers, like me. You shall listen to him.
+> **18:16** This is according to all that you desired of Yahweh your God in Horeb in the day of the assembly, saying, “Let me not hear again the voice of Yahweh my God, neither let me see this great fire any more, that I not die.”
+> **18:17** Yahweh said to me, “They have well said that which they have spoken.
+> **18:18** I will raise them up a prophet from among their brothers, like you; and I will put my words in his mouth, and he shall speak to them all that I shall command him.
+> **18:19** It shall happen, that whoever will not listen to my words which he shall speak in my name, I will require it of him.
+> **18:20** But the prophet, who shall speak a word presumptuously in my name, which I have not commanded him to speak, or who shall speak in the name of other gods, that same prophet shall die.”
+> **18:21** If you say in your heart, “How shall we know the word which Yahweh has not spoken?”
+> **18:22** when a prophet speaks in the name of Yahweh, if the thing doesn’t follow, nor happen, that is the thing which Yahweh has not spoken: the prophet has spoken it presumptuously, you shall not be afraid of him.
+
+**Claim.** The Scriptural Appendix cites 18:15 as the promise of the True Prophet. The passage frames it twice: against divination and sorcery, the illegitimate ways of knowing the future, and with a test for the prophet who speaks presumptuously — 'if the thing doesn't follow, nor happen… you shall not be afraid of him.' 'You shall be perfect with Yahweh your God' (18:13) is the wholeness the Book of Steps will later call the Perfect.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S2 · chapters: C08 · practices: none · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 38. Deuteronomy 19:1-13 — Lest the avenger of blood pursue the manslayer, while his heart is hot
+
+> **19:1** When Yahweh your God shall cut off the nations, whose land Yahweh your God gives you, and you succeed them, and dwell in their cities, and in their houses;
+> **19:2** you shall set apart three cities for you in the midst of your land, which Yahweh your God gives you to possess it.
+> **19:3** You shall prepare you the way, and divide the borders of your land, which Yahweh your God causes you to inherit, into three parts, that every manslayer may flee there.
+> **19:4** This is the case of the manslayer, that shall flee there and live: whoever kills his neighbor unawares, and didn’t hate him in time past;
+> **19:5** as when a man goes into the forest with his neighbor to chop wood, and his hand fetches a stroke with the axe to cut down the tree, and the head slips from the handle, and lights on his neighbor, so that he dies; he shall flee to one of these cities and live:
+> **19:6** lest the avenger of blood pursue the manslayer, while his heart is hot, and overtake him, because the way is long, and strike him mortally; whereas he was not worthy of death, inasmuch as he didn’t hate him in time past.
+> **19:7** Therefore I command you, saying, You shall set apart three cities for yourselves.
+> **19:8** If Yahweh your God enlarges your border, as he has sworn to your fathers, and gives you all the land which he promised to give to your fathers;
+> **19:9** if you keep all this commandment to do it, which I command you this day, to love Yahweh your God, and to walk ever in his ways; then you shall add three cities more for yourselves, besides these three:
+> **19:10** that innocent blood not be shed in the midst of your land, which Yahweh your God gives you for an inheritance, and so blood be on you.
+> **19:11** But if any man hates his neighbor, and lies in wait for him, and rises up against him, and strikes him mortally so that he dies, and he flees into one of these cities;
+> **19:12** then the elders of his city shall send and bring him there, and deliver him into the hand of the avenger of blood, that he may die.
+> **19:13** Your eye shall not pity him, but you shall put away the innocent blood from Israel, that it may go well with you.
+
+**Claim.** The cities of refuge in full, with the case given: an axe head flies off the handle and kills a neighbour. The law distinguishes the killing from the heart behind it — 'he didn't hate him in time past' — which is C21's distinction between act and root. It provides a door, C19's, close enough to reach. And it names the danger on the other side precisely: the avenger 'while his heart is hot,' anger that cannot tell the difference, which is why C22 measures healing by what anger does.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S5 · chapters: C21, C19, C22 · practices: none · confidence: high
+
+---
+
+## 39. Deuteronomy 19:15-21 — At the mouth of two witnesses… shall a matter be established
+
+> **19:15** One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sins: at the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.
+> **19:16** If an unrighteous witness rise up against any man to testify against him of wrongdoing,
+> **19:17** then both the men, between whom the controversy is, shall stand before Yahweh, before the priests and the judges who shall be in those days;
+> **19:18** and the judges shall make diligent inquisition: and, behold, if the witness is a false witness, and has testified falsely against his brother;
+> **19:19** then you shall do to him as he had thought to do to his brother: so you shall put away the evil from the midst of you.
+> **19:20** Those who remain shall hear, and fear, and shall henceforth commit no more any such evil in the midst of you.
+> **19:21** Your eyes shall not pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
+
+**Claim.** No conviction on one witness, and the false witness receives what he intended for his brother. A claim must be tested before it is believed, which is C08's posture toward every voice. The closing formula, 'eye for eye, tooth for tooth' (19:21), is a limit on courts rather than a licence for persons, and it is the line Matthew 5:38-39 answers with Non-Retaliation; no practice is tagged here.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S2 · chapters: C08 · practices: none · confidence: medium
+
+---
+
+## 40. Deuteronomy 20:1-9 — Let him go and return to his house
+
+> **20:1** When you go forth to battle against your enemies, and see horses, chariots, and a people more than you, you shall not be afraid of them; for Yahweh your God is with you, who brought you up out of the land of Egypt.
+> **20:2** It shall be, when you draw near to the battle, that the priest shall approach and speak to the people,
+> **20:3** and shall tell them, “Hear, Israel, you draw near this day to battle against your enemies: don’t let your heart faint; don’t be afraid, nor tremble, neither be scared of them;
+> **20:4** for Yahweh your God is he who goes with you, to fight for you against your enemies, to save you.”
+> **20:5** The officers shall speak to the people, saying, “What man is there who has built a new house, and has not dedicated it? Let him go and return to his house, lest he die in the battle, and another man dedicate it.
+> **20:6** What man is there who has planted a vineyard, and has not used its fruit? Let him go and return to his house, lest he die in the battle, and another man use its fruit.
+> **20:7** What man is there who has pledged to be married a wife, and has not taken her? Let him go and return to his house, lest he die in the battle, and another man take her.”
+> **20:8** The officers shall speak further to the people, and they shall say, “What man is there who is fearful and fainthearted? Let him go and return to his house, lest his brother’s heart melt as his heart.”
+> **20:9** It shall be, when the officers have made an end of speaking to the people, that they shall appoint captains of armies at the head of the people.
+
+**Claim.** Before battle, the officers send home the man with a new house not yet dedicated, a vineyard not yet tasted, a betrothed wife not yet married — and the man who is afraid, 'lest his brother's heart melt as his heart.' The ordinary goods of a household are protected even from the nation's war. C14's household, given priority over the army. The war laws that follow (20:10-20) are not indexed.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4 · chapters: C14 · practices: none · confidence: medium
+
+---
+
+## 41. Deuteronomy 21:1-9 — Our hands have not shed this blood… Forgive, Yahweh, your people
+
+> **21:1** If one be found slain in the land which Yahweh your God gives you to possess it, lying in the field, and it isn’t known who has struck him;
+> **21:2** then your elders and your judges shall come forth, and they shall measure to the cities which are around him who is slain:
+> **21:3** and it shall be, that the city which is nearest to the slain man, even the elders of that city shall take a heifer of the herd, which hasn’t been worked with, and which has not drawn in the yoke;
+> **21:4** and the elders of that city shall bring down the heifer to a valley with running water, which is neither plowed nor sown, and shall break the heifer’s neck there in the valley.
+> **21:5** The priests the sons of Levi shall come near; for them Yahweh your God has chosen to minister to him, and to bless in the name of Yahweh; and according to their word shall every controversy and every stroke be.
+> **21:6** All the elders of that city, who are nearest to the slain man, shall wash their hands over the heifer whose neck was broken in the valley;
+> **21:7** and they shall answer and say, “Our hands have not shed this blood, neither have our eyes seen it.
+> **21:8** Forgive, Yahweh, your people Israel, whom you have redeemed, and don’t allow innocent blood in the midst of your people Israel.” The blood shall be forgiven them.
+> **21:9** So you shall put away the innocent blood from the midst of you, when you shall do that which is right in the eyes of Yahweh.
+
+**Claim.** A body is found in the open country and no one knows who killed him. The elders of the nearest town take responsibility for a death they did not cause: they declare honestly that their hands did not shed this blood, and then they ask forgiveness anyway. C04's audit carried out by a community rather than a person, and C16's account of the responsibility that comes with standing nearest.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S1, S4 · chapters: C04, C16 · practices: none · confidence: medium
+
+---
+
+## 42. Deuteronomy 21:15-17 — He may not make the son of the beloved the firstborn before the son of the hated
+
+> **21:15** If a man have two wives, the one beloved, and the other hated, and they have borne him children, both the beloved and the hated; and if the firstborn son be hers who was hated;
+> **21:16** then it shall be, in the day that he causes his sons to inherit that which he has, that he may not make the son of the beloved the firstborn before the son of the hated, who is the firstborn:
+> **21:17** but he shall acknowledge the firstborn, the son of the hated, by giving him a double portion of all that he has; for he is the beginning of his strength; the right of the firstborn is his.
+
+**Claim.** A father's preference for one wife may not override the right of the unloved wife's son. The household's justice is protected from its affections. C14's household in order, with the order defending the one the head of the house would rather pass over.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, mercy · stages: S4 · chapters: C14 · practices: none · confidence: medium
+
+---
+
+## 43. Deuteronomy 22:1-4 — You shall not see your brother's donkey or his ox fallen down by the way, and hide yourself
+
+> **22:1** You shall not see your brother’s ox or his sheep go astray, and hide yourself from them: you shall surely bring them again to your brother.
+> **22:2** If your brother isn’t near to you, or if you don’t know him, then you shall bring it home to your house, and it shall be with you until your brother seek after it, and you shall restore it to him.
+> **22:3** So you shall do with his donkey; and so you shall do with his garment; and so you shall do with every lost thing of your brother’s, which he has lost, and you have found: you may not hide yourself.
+> **22:4** You shall not see your brother’s donkey or his ox fallen down by the way, and hide yourself from them: you shall surely help him to lift them up again.
+
+**Claim.** A neighbour's ox astray, his donkey fallen on the road: 'you may not hide yourself.' Bring it back, keep it until he comes for it, help him lift it up. The law is aimed at the moment of seeing and looking away, and it makes the interruption on the road the duty. Spontaneous Service is pausing your own work to help someone finish theirs, with the interruption treated as the actual work; this is its earliest form, and its failure named exactly — hiding yourself from what you have seen.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4 · chapters: C13, C16 · practices: PR19 · confidence: high
+
+---
+
+## 44. Deuteronomy 23:7-8 — You shall not abhor an Egyptian, because you lived as a foreigner in his land
+
+> **23:7** You shall not abhor an Edomite; for he is your brother: you shall not abhor an Egyptian, because you lived as a foreigner in his land.
+> **23:8** The children of the third generation who are born to them shall enter into the assembly of Yahweh.
+
+**Claim.** Of all the nations, the Egyptian — the enslaver of the exodus — is not to be abhorred, and the reason given is not his merit but Israel's memory: 'you lived as a foreigner in his land.' The Citizen-Stranger's practice includes a specific discipline: identify a group you have permitted yourself to despise, and lay down the contempt. This is that discipline commanded about the one group with the best claim to it. The circle is widened (C27) to include the third generation in the assembly. The verses immediately before, which exclude the Moabite 'forever' (23:3-6), are not indexed; the book of Ruth, whose heroine is a Moabite, is the canon's own reply to them.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility · stages: S4, S7 · chapters: C17, C27 · practices: PR10 · confidence: medium
+
+---
+
+## 45. Deuteronomy 23:15-16 — You shall not deliver to his master a servant who is escaped
+
+> **23:15** You shall not deliver to his master a servant who is escaped from his master to you:
+> **23:16** he shall dwell with you, in the midst of you, in the place which he shall choose within one of your gates, where it pleases him best: you shall not oppress him.
+
+**Claim.** A slave who escapes is not returned. He is to live 'in the place which he shall choose… where it pleases him best: you shall not oppress him.' The law sides with the one fleeing against the one with the claim, and gives him the choice of where to live. C16's why-the-vulnerable-specifically, in one of the most countercultural laws of the ancient world.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4 · chapters: C16 · practices: none · confidence: high
+
+---
+
+## 46. Deuteronomy 23:21-23 — That which is gone out of your lips you shall observe and do
+
+> **23:21** When you shall vow a vow to Yahweh your God, you shall not be slack to pay it: for Yahweh your God will surely require it of you; and it would be sin in you.
+> **23:22** But if you shall forbear to vow, it shall be no sin in you.
+> **23:23** That which is gone out of your lips you shall observe and do; according as you have vowed to Yahweh your God, a freewill offering, which you have promised with your mouth.
+
+**Claim.** There is no sin in not vowing; there is sin in vowing and not paying. What has left the lips is to be done. C13 is built around a vow kept, Ruth's, and this is the law beneath it: the vow is optional and the keeping is not.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S4 · chapters: C13 · practices: none · confidence: medium
+
+---
+
+## 47. Deuteronomy 24:5 — He shall be free at home one year, and shall cheer his wife
+
+> **24:5** When a man takes a new wife, he shall not go out in the army, neither shall he be assigned any business: he shall be free at home one year, and shall cheer his wife whom he has taken.
+
+**Claim.** A newly married man is exempt from war and from public business for a year, and the purpose is stated: to 'cheer his wife whom he has taken.' The household's joy given legal priority over the nation's needs. C14's ordinary faithfulness, written into the calendar.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4 · chapters: C14 · practices: none · confidence: high
+
+---
+
+## 48. Deuteronomy 24:10-15 — In his day you shall give him his hire, neither shall the sun go down on it
+
+> **24:10** When you do lend your neighbor any kind of loan, you shall not go into his house to get his pledge.
+> **24:11** You shall stand outside, and the man to whom you do lend shall bring forth the pledge outside to you.
+> **24:12** If he be a poor man, you shall not sleep with his pledge;
+> **24:13** you shall surely restore to him the pledge when the sun goes down, that he may sleep in his garment, and bless you: and it shall be righteousness to you before Yahweh your God.
+> **24:14** You shall not oppress a hired servant who is poor and needy, whether he be of your brothers, or of your foreigners who are in your land within your gates:
+> **24:15** in his day you shall give him his hire, neither shall the sun go down on it; for he is poor, and sets his heart on it: lest he cry against you to Yahweh, and it be sin to you.
+
+**Claim.** Two laws with the same deadline. A lender may not enter a poor man's house to take his pledge, and if the pledge is his cloak it goes back before nightfall, 'that he may sleep in his garment.' The hired worker is paid the same day, 'neither shall the sun go down on it; for he is poor, and sets his heart on it.' The Scriptural Appendix names the wage paid before sundown as one of the Torah's grounds for Habitual Almsgiving. Mercy measured in hours, with the day as the unit of obligation that C28 makes the unit of formation.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4, S7 · chapters: C16, C28 · practices: PR05 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 49. Deuteronomy 24:17-22 — It shall be for the foreigner, for the fatherless, and for the widow
+
+> **24:17** You shall not deprive the foreigner, or the fatherless of justice, nor take a widow’s clothing in pledge;
+> **24:18** but you shall remember that you were a bondservant in Egypt, and Yahweh your God redeemed you there: therefore I command you to do this thing.
+> **24:19** When you reap your harvest in your field, and have forgot a sheaf in the field, you shall not go again to get it: it shall be for the foreigner, for the fatherless, and for the widow; that Yahweh your God may bless you in all the work of your hands.
+> **24:20** When you beat your olive tree, you shall not go over the boughs again: it shall be for the foreigner, for the fatherless, and for the widow.
+> **24:21** When you harvest your vineyard, you shall not glean it after yourselves: it shall be for the foreigner, for the fatherless, and for the widow.
+> **24:22** You shall remember that you were a bondservant in the land of Egypt: therefore I command you to do this thing.
+
+**Claim.** Justice for the foreigner and the fatherless, the widow's cloak not taken in pledge, and the gleaning laws: the forgotten sheaf left in the field, the olive boughs not beaten twice, the vineyard not gleaned 'after yourselves.' The Scriptural Appendix names the law of gleanings as a ground of Habitual Almsgiving, and it is the law under which Ruth gleans in Boaz's field — C13's three pillars in a barley field. Twice: 'you shall remember that you were a bondservant in the land of Egypt.'
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S4 · chapters: C16, C13 · practices: PR05 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 50. Deuteronomy 25:1-3 — Lest your brother should seem vile to you
+
+> **25:1** If there is a controversy between men, and they come to judgment, and the judges judge them; then they shall justify the righteous, and condemn the wicked;
+> **25:2** and it shall be, if the wicked man be worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his wickedness, by number.
+> **25:3** Forty stripes he may give him, he shall not exceed; lest, if he should exceed, and beat him above these with many stripes, then your brother should seem vile to you.
+
+**Claim.** A guilty man may be beaten, but not beyond forty stripes, and the reason is not his body but his standing in the community's eyes: 'lest… your brother should seem vile to you.' Punishment is capped so that it does not turn the offender into something contemptible — he remains 'your brother' in the same sentence that sentences him. Merciful Reintegration exists so that a failure does not become a person's permanent identity. Confidence is medium: the law limits punishment rather than describing restoration after repentance, but its stated purpose is the practice's.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S4 · chapters: C16 · practices: PR29 · confidence: medium
+
+---
+
+## 51. Deuteronomy 25:5-10 — So shall it be done to the man who does not build up his brother's house
+
+> **25:5** If brothers dwell together, and one of them die, and have no son, the wife of the dead shall not be married outside to a stranger: her husband’s brother shall go in to her, and take her to him as wife, and perform the duty of a husband’s brother to her.
+> **25:6** It shall be, that the firstborn whom she bears shall succeed in the name of his brother who is dead, that his name not be blotted out of Israel.
+> **25:7** If the man doesn’t want to take his brother’s wife, then his brother’s wife shall go up to the gate to the elders, and say, “My husband’s brother refuses to raise up to his brother a name in Israel; he will not perform the duty of a husband’s brother to me.”
+> **25:8** Then the elders of his city shall call him, and speak to him: and if he stand, and say, “I don’t want to take her;”
+> **25:9** then his brother’s wife shall come to him in the presence of the elders, and loose his shoe from off his foot, and spit in his face; and she shall answer and say, “So shall it be done to the man who does not build up his brother’s house.”
+> **25:10** His name shall be called in Israel, The house of him who has his shoe untied.
+
+**Claim.** The duty of the brother-in-law to a childless widow, and the public shame of the man who refuses it. The law is the background of Ruth 4, where the nearer kinsman declines and Boaz accepts. PR26 is not tagged: the brother is obligated by law, and the practice is loyalty where one is free to walk away. What the passage anchors is C14 and C13 — a household's obligation to its most exposed member, and the cost of evading it.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: mercy, truth · stages: S4 · chapters: C14, C13 · practices: none · confidence: medium
+
+---
+
+## 52. Deuteronomy 25:13-16 — You shall have a perfect and just weight
+
+> **25:13** You shall not have in your bag diverse weights, a great and a small.
+> **25:14** You shall not have in your house diverse measures, a great and a small.
+> **25:15** You shall have a perfect and just weight. You shall have a perfect and just measure, that your days may be long in the land which Yahweh your God gives you.
+> **25:16** For all who do such things, all who do unrighteously, are an abomination to Yahweh your God.
+
+**Claim.** No two weights in the bag, no two measures in the house, 'a great and a small' — one for buying and one for selling. The Scriptural Appendix names the honest scale as a ground of Habitual Almsgiving, and the tag follows the author. The drafter notes that the passage reads as naturally under the Moral Audit's examination of money and consistency, and that the connection to almsgiving is through the poor, who are always the ones measured with the false weight; a reviewer who reads it otherwise is disagreeing with WMT A3. C04's audit and C13's ordinary faithfulness in trade.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S1, S4 · chapters: C04, C13 · practices: PR05 · confidence: high
+
+**Prior** — cited in the curriculum before this index existed. The author's judgment, not the drafter's.
+
+---
+
+## 53. Deuteronomy 26:1-11 — A Syrian ready to perish was my father
+
+> **26:1** It shall be, when you have come in to the land which Yahweh your God gives you for an inheritance, and possess it, and dwell therein,
+> **26:2** that you shall take of the first of all the fruit of the ground, which you shall bring in from your land that Yahweh your God gives you; and you shall put it in a basket, and shall go to the place which Yahweh your God shall choose, to cause his name to dwell there.
+> **26:3** You shall come to the priest who shall be in those days, and tell him, “I profess this day to Yahweh your God, that I am come to the land which Yahweh swore to our fathers to give us.”
+> **26:4** The priest shall take the basket out of your hand, and set it down before the altar of Yahweh your God.
+> **26:5** You shall answer and say before Yahweh your God, “A Syrian ready to perish was my father; and he went down into Egypt, and lived there, few in number; and he became there a nation, great, mighty, and populous.
+> **26:6** The Egyptians dealt ill with us, and afflicted us, and laid on us hard bondage:
+> **26:7** and we cried to Yahweh, the God of our fathers, and Yahweh heard our voice, and saw our affliction, and our toil, and our oppression;
+> **26:8** and Yahweh brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terror, and with signs, and with wonders;
+> **26:9** and he has brought us into this place, and has given us this land, a land flowing with milk and honey.
+> **26:10** Now, behold, I have brought the first of the fruit of the ground, which you, Yahweh, have given me.” You shall set it down before Yahweh your God, and worship before Yahweh your God.
+> **26:11** You shall rejoice in all the good which Yahweh your God has given to you, and to your house, you, and the Levite, and the foreigner who is in the midst of you.
+
+**Claim.** The worshipper brings the first fruits and recites a story in which he is the beneficiary at every step: a perishing ancestor, affliction in Egypt, 'we cried to Yahweh… and Yahweh heard our voice, and saw our affliction.' Then 'you shall rejoice in all the good… you, and the Levite, and the foreigner.' Gratitude as a spoken memory of having been rescued, which is C10's discipline, and the cry heard which is C19's door.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, mercy · stages: S3, S5 · chapters: C10, C19 · practices: none · confidence: high
+
+---
+
+## 54. Deuteronomy 26:12-15 — I have given them to the Levite, and to the foreigner, to the fatherless, and to the widow
+
+> **26:12** When you have made an end of tithing all the tithe of your increase in the third year, which is the year of tithing, then you shall give it to the Levite, to the foreigner, to the fatherless, and to the widow, that they may eat within your gates, and be filled.
+> **26:13** You shall say before Yahweh your God, “I have put away the holy things out of my house, and also have given them to the Levite, and to the foreigner, to the fatherless, and to the widow, according to all your commandment which you have commanded me: I have not transgressed any of your commandments, neither have I forgotten them:
+> **26:14** I have not eaten of it in my mourning, neither have I put away of it, being unclean, nor given of it for the dead: I have listened to the voice of Yahweh my God; I have done according to all that you have commanded me.
+> **26:15** Look down from your holy habitation, from heaven, and bless your people Israel, and the ground which you have given us, as you swore to our fathers, a land flowing with milk and honey.”
+
+**Claim.** At the end of the third-year tithe the giver makes a declaration before God: I have given it, according to the commandment; I have not forgotten. Giving followed by an honest account of the giving. Habitual Almsgiving with its accounting attached; the declaration resembles the Moral Audit's question about the vulnerable — whom did I help? — but is a vow fulfilled rather than an examination, so PR01 is not tagged.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S1, S4 · chapters: C16, C04 · practices: PR05 · confidence: medium
+
+---
+
+## 55. Deuteronomy 26:16-19 — You have declared Yahweh this day to be your God… and Yahweh has declared you
+
+> **26:16** This day Yahweh your God commands you to do these statutes and ordinances: you shall therefore keep and do them with all your heart, and with all your soul.
+> **26:17** You have declared Yahweh this day to be your God, and that you would walk in his ways, and keep his statutes, and his commandments, and his ordinances, and listen to his voice:
+> **26:18** and Yahweh has declared you this day to be a people for his own possession, as he has promised you, and that you should keep all his commandments;
+> **26:19** and to make you high above all nations that he has made, in praise, and in name, and in honor; and that you may be a holy people to Yahweh your God, as he has spoken.
+
+**Claim.** The law code closes with a mutual declaration on the same day: the people declare Yahweh their God, and Yahweh declares them his people. The moral order of C01 presented as a covenant between persons rather than a code imposed from outside.
+
+**Tags.** pillars: truth · stages: S1 · chapters: C01 · practices: none · confidence: medium
 
 ---
 

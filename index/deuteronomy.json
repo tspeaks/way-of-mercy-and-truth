@@ -1,12 +1,12 @@
 {
   "book": "Deuteronomy",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — chapters 1-11 of 34 indexed (Moses' first and second addresses); chapters 12-26, 27-30, and 31-34 pending",
+  "status": "in progress — chapters 1-26 of 34 indexed (the two addresses and the law code, the code selectively); chapters 27-30 and 31-34 pending",
   "method_version": "2.3",
   "text_source": "index/text/deuteronomy.json",
-  "note": "The Two Ways in its original form, upstream of both the Didache and C01. Indexed in sections along the book's own seams: the first address and the history (1-4), the second address with the Decalogue and the Shema (5-11), the law code (12-26), the blessings, curses, and covenant renewal (27-30), and the song and death of Moses (31-34). This file covers the first two.",
-  "sectioning_note": "As with Jeremiah, sectioning is a practical necessity and the status field names what is done. The prior citations the Scriptural Appendix makes for this book — 18:15, 30:19, 32:4, and the gleaning, wage, and honest-scale laws — all fall in sections not yet indexed.",
-  "coverage_note": "Chapters 1-11, unindexed by decision: the destruction of Sihon and Og with 'the women and the little ones' (2:24-3:11), the allotment of the eastern lands (3:12-17), the summary at 4:44-49, and the command to destroy the seven nations and show them no mercy, with the blessings and assurances bound up in it (7:1-5, 7:12-26: 'your eye shall not pity them'). These are among the hardest texts in the canon for a curriculum built on mercy, and the index does not soften them by allegory — including the long monastic tradition of reading 7:22, 'by little and little,' as the gradual conquest of the passions — nor tag them by stretching. WMT's genealogy nowhere adopts an allegorical hermeneutic, as noted for the Song of Solomon. They are recorded here as left out, not as judged to be of no weight; a reader of the curriculum will meet them, and the index should not pretend they are absent.",
+  "note": "The Two Ways in its original form, upstream of both the Didache and C01. Indexed in sections along the book's own seams: the first address and the history (1-4), the second address with the Decalogue and the Shema (5-11), the law code (12-26), the blessings, curses, and covenant renewal (27-30), and the song and death of Moses (31-34). This file covers the first three.",
+  "sectioning_note": "As with Jeremiah, sectioning is a practical necessity and the status field names what is done. The prior citations the Scriptural Appendix makes for this book — 18:15, 30:19, 32:4, and the gleaning, wage, and honest-scale laws — fall partly in the law code, where they are now carried (18:15, 24:10-15, 24:17-22, 25:13-16); 30:19 and 32:4 fall in sections not yet indexed.",
+  "coverage_note": "Chapters 1-11, unindexed by decision: the destruction of Sihon and Og with 'the women and the little ones' (2:24-3:11), the allotment of the eastern lands (3:12-17), the summary at 4:44-49, and the command to destroy the seven nations and show them no mercy, with the blessings and assurances bound up in it (7:1-5, 7:12-26: 'your eye shall not pity them'). These are among the hardest texts in the canon for a curriculum built on mercy, and the index does not soften them by allegory — including the long monastic tradition of reading 7:22, 'by little and little,' as the gradual conquest of the passions — nor tag them by stretching. WMT's genealogy nowhere adopts an allegorical hermeneutic, as noted for the Song of Solomon. They are recorded here as left out, not as judged to be of no weight; a reader of the curriculum will meet them, and the index should not pretend they are absent. Chapters 12-26, the law code, are indexed selectively, as Jeremiah 46-52 was. Left out: the destruction of the nations' shrines (12:1-4) and the blood and meat regulations (12:20-28); the death penalties for enticement and apostasy and the destruction of an apostate town (13:5-18, 17:2-7); the food laws (14:1-21); the firstborn and blemished-sacrifice rules (15:19-23, 17:1) and the central court (17:8-13); the landmark law (19:14); the war laws, including the herem of 20:16-18 (20:10-20); the captive woman (21:10-14); the stoning of a rebellious son and the hanged man (21:18-23); the laws of clothing, mixed seed, and fringes (22:5-12); the sexual and marriage laws of 22:13-30 and the divorce law of 24:1-4, which Jesus addresses directly in Matthew 19 and which are better indexed there; the assembly exclusions (23:1-6), camp purity (23:9-14), cult prostitution and interest (23:17-20) and the passer-by's right to eat (23:24-25); the millstone pledge, kidnapping, and leprosy laws (24:6-9) and individual responsibility (24:16); the ox unmuzzled (25:4); the woman's hand (25:11-12); and the command to blot out Amalek (25:17-19). Some of these are humane and some are among the hardest laws in the Torah; what they share is that they anchor nothing in a curriculum of personal formation without allegory or a stretched tag.",
   "entries": [
     {
       "ref": "Deuteronomy 1:1-8",
@@ -534,6 +534,589 @@
       "mode": "prescribes",
       "connection": "The Two Ways set out for the first time in the book, 'this day,' and fixed to two mountains so that the choice has a geography. C01's opening — reality has a grain, and choices go with it or against it — is this passage. Its fullest statement comes at 30:15-20, which the Scriptural Appendix cites and which will carry the prior when chapters 27-30 are indexed.",
       "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 12:5-19",
+      "pericope": "You shall rejoice… you and your households… and the Levite who is within your gates",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C10",
+        "C14",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Worship in the law code begins with a meal and a command to rejoice, and the table is set wide: sons, daughters, male and female servants, and the Levite, 'because he has no portion nor inheritance with you.' 'Take heed to yourself that you don't forsake the Levite as long as you live in your land.' C10's delight, kept inside C14's household, with C16's insistence on the one who has no share of his own.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 12:29-32",
+      "pericope": "How do these nations serve their gods? I will do likewise",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The danger is placed at the moment of curiosity, before any act: 'take heed to yourself that you not be ensnared… and that you not inquire after their gods, saying, How do these nations serve their gods? I will do likewise.' The thought is quoted as it arrives, which is the attention C20 asks for.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 13:1-4",
+      "pericope": "If the sign or the wonder come to pass",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The test of a prophet is not whether his sign comes true. A prophet whose wonder happens exactly as predicted is still not to be heard if he leads 'after other gods,' and the sign is read as a test of the hearers' love. C08's fruit test in its sharpest form: what a teacher leads toward outweighs what he can do. The sentence that follows (13:5) and the laws of 13:6-18 are not indexed; see the coverage note.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 14:22-29",
+      "pericope": "The foreigner, and the fatherless, and the widow… shall come, and shall eat and be satisfied",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C10"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "Two tithes. The yearly one is eaten before God with rejoicing — turned into money if the way is far and spent 'for whatever your soul desires.' The third-year tithe is laid up in the towns for those with no portion: the Levite, the foreigner, the fatherless, the widow, who 'shall eat and be satisfied.' A fixed share of increase, on a schedule, directed to actual need: Habitual Almsgiving as law, and the Torah's provision for the sojourner, the fatherless, and the widow that the Scriptural Appendix names as the practice's ground.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 15:1-11",
+      "pericope": "Beware that there not be a base thought in your heart",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C20"
+      ],
+      "practices": [
+        "PR05",
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "The year of release, and the most searching law in the book about giving. 'You shall not harden your heart, nor shut your hand from your poor brother.' Then the thought before the refusal is named: 'Beware that there not be a base thought in your heart, saying, The seventh year, the year of release, is at hand' — the calculation that the loan will be cancelled — 'and your eye be evil against your poor brother, and you give him nothing.' Watchfulness catches a thought at the gate before it hardens into action; this law quotes the thought and tells you to catch it. And the giving itself reaches the heart: 'your heart shall not be grieved when you give.' 'The poor will never cease out of the land: therefore… you shall surely open your hand' makes almsgiving a permanent rhythm rather than a response to an emergency.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 15:12-18",
+      "pericope": "You shall not let him go empty",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C14"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "A Hebrew servant goes free in the seventh year, and not empty-handed: 'you shall furnish him liberally out of your flock, and out of your threshing floor, and out of your winepress; as Yahweh your God has blessed you, you shall give to him.' Giving proportioned to one's own blessing, and grounded in memory: 'you shall remember that you were a bondservant.' The law regulates an institution the index does not commend; what it anchors is the command to send the departing away provided for, and 'it shall not seem hard to you.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 16:1-17",
+      "pericope": "You shall rejoice in your feast, you… and the foreigner, and the fatherless, and the widow",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C10"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Three feasts a year, each a remembering — the bread of affliction eaten 'that you may remember the day when you came forth out of the land of Egypt all the days of your life' — and each a rejoicing to which the household's margins are named one by one: servants, the Levite, the foreigner, the fatherless, the widow. C28's formation by a rhythm of return, and C10's joy, made communal. PR25 shares the subject of the poor at the table, but nothing here is someone giving up their own seat, and it is not tagged.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 16:18-20",
+      "pericope": "A bribe does blind the eyes of the wise",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C07",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Judges in every gate, no partiality, no bribe — 'for a bribe does blind the eyes of the wise, and pervert the words of the righteous.' Interest corrupts perception before it corrupts judgment: the wise are blinded, not merely tempted. That is C07's claim that the lens is clouded by the condition of the one looking. 'That which is altogether just you shall follow' is C16's charge to those who hold power.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 17:14-20",
+      "pericope": "That his heart not be lifted up above his brothers",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The only law of kingship in the Torah limits the king rather than empowering him: not many horses, not many wives, not much silver and gold. And he is to write out a copy of the law and read it 'all the days of his life… that his heart not be lifted up above his brothers.' Authority constrained in what it may accumulate and kept level with those it governs is C16's argument, and the limit on accumulation is C18's.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 18:1-8",
+      "pericope": "Yahweh is their inheritance",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [],
+      "connection": "The Levites receive no land: 'Yahweh is their inheritance.' A tribe whose portion is a relation rather than a possession is C18's detachment as a social arrangement, provided for by the gifts of the others.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 18:9-22",
+      "pericope": "Yahweh your God will raise up to you a prophet… like me",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix cites 18:15 as the promise of the True Prophet. The passage frames it twice: against divination and sorcery, the illegitimate ways of knowing the future, and with a test for the prophet who speaks presumptuously — 'if the thing doesn't follow, nor happen… you shall not be afraid of him.' 'You shall be perfect with Yahweh your God' (18:13) is the wholeness the Book of Steps will later call the Perfect.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Deuteronomy 19:1-13",
+      "pericope": "Lest the avenger of blood pursue the manslayer, while his heart is hot",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C19",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The cities of refuge in full, with the case given: an axe head flies off the handle and kills a neighbour. The law distinguishes the killing from the heart behind it — 'he didn't hate him in time past' — which is C21's distinction between act and root. It provides a door, C19's, close enough to reach. And it names the danger on the other side precisely: the avenger 'while his heart is hot,' anger that cannot tell the difference, which is why C22 measures healing by what anger does.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 19:15-21",
+      "pericope": "At the mouth of two witnesses… shall a matter be established",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "No conviction on one witness, and the false witness receives what he intended for his brother. A claim must be tested before it is believed, which is C08's posture toward every voice. The closing formula, 'eye for eye, tooth for tooth' (19:21), is a limit on courts rather than a licence for persons, and it is the line Matthew 5:38-39 answers with Non-Retaliation; no practice is tagged here.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 20:1-9",
+      "pericope": "Let him go and return to his house",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Before battle, the officers send home the man with a new house not yet dedicated, a vineyard not yet tasted, a betrothed wife not yet married — and the man who is afraid, 'lest his brother's heart melt as his heart.' The ordinary goods of a household are protected even from the nation's war. C14's household, given priority over the army. The war laws that follow (20:10-20) are not indexed.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 21:1-9",
+      "pericope": "Our hands have not shed this blood… Forgive, Yahweh, your people",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C04",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A body is found in the open country and no one knows who killed him. The elders of the nearest town take responsibility for a death they did not cause: they declare honestly that their hands did not shed this blood, and then they ask forgiveness anyway. C04's audit carried out by a community rather than a person, and C16's account of the responsibility that comes with standing nearest.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 21:15-17",
+      "pericope": "He may not make the son of the beloved the firstborn before the son of the hated",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A father's preference for one wife may not override the right of the unloved wife's son. The household's justice is protected from its affections. C14's household in order, with the order defending the one the head of the house would rather pass over.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 22:1-4",
+      "pericope": "You shall not see your brother's donkey or his ox fallen down by the way, and hide yourself",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C16"
+      ],
+      "practices": [
+        "PR19"
+      ],
+      "mode": "prescribes",
+      "connection": "A neighbour's ox astray, his donkey fallen on the road: 'you may not hide yourself.' Bring it back, keep it until he comes for it, help him lift it up. The law is aimed at the moment of seeing and looking away, and it makes the interruption on the road the duty. Spontaneous Service is pausing your own work to help someone finish theirs, with the interruption treated as the actual work; this is its earliest form, and its failure named exactly — hiding yourself from what you have seen.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 23:7-8",
+      "pericope": "You shall not abhor an Egyptian, because you lived as a foreigner in his land",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C17",
+        "C27"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "prescribes",
+      "connection": "Of all the nations, the Egyptian — the enslaver of the exodus — is not to be abhorred, and the reason given is not his merit but Israel's memory: 'you lived as a foreigner in his land.' The Citizen-Stranger's practice includes a specific discipline: identify a group you have permitted yourself to despise, and lay down the contempt. This is that discipline commanded about the one group with the best claim to it. The circle is widened (C27) to include the third generation in the assembly. The verses immediately before, which exclude the Moabite 'forever' (23:3-6), are not indexed; the book of Ruth, whose heroine is a Moabite, is the canon's own reply to them.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 23:15-16",
+      "pericope": "You shall not deliver to his master a servant who is escaped",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A slave who escapes is not returned. He is to live 'in the place which he shall choose… where it pleases him best: you shall not oppress him.' The law sides with the one fleeing against the one with the claim, and gives him the choice of where to live. C16's why-the-vulnerable-specifically, in one of the most countercultural laws of the ancient world.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 23:21-23",
+      "pericope": "That which is gone out of your lips you shall observe and do",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "There is no sin in not vowing; there is sin in vowing and not paying. What has left the lips is to be done. C13 is built around a vow kept, Ruth's, and this is the law beneath it: the vow is optional and the keeping is not.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 24:5",
+      "pericope": "He shall be free at home one year, and shall cheer his wife",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A newly married man is exempt from war and from public business for a year, and the purpose is stated: to 'cheer his wife whom he has taken.' The household's joy given legal priority over the nation's needs. C14's ordinary faithfulness, written into the calendar.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 24:10-15",
+      "pericope": "In his day you shall give him his hire, neither shall the sun go down on it",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C28"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "Two laws with the same deadline. A lender may not enter a poor man's house to take his pledge, and if the pledge is his cloak it goes back before nightfall, 'that he may sleep in his garment.' The hired worker is paid the same day, 'neither shall the sun go down on it; for he is poor, and sets his heart on it.' The Scriptural Appendix names the wage paid before sundown as one of the Torah's grounds for Habitual Almsgiving. Mercy measured in hours, with the day as the unit of obligation that C28 makes the unit of formation.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Deuteronomy 24:17-22",
+      "pericope": "It shall be for the foreigner, for the fatherless, and for the widow",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C13"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "Justice for the foreigner and the fatherless, the widow's cloak not taken in pledge, and the gleaning laws: the forgotten sheaf left in the field, the olive boughs not beaten twice, the vineyard not gleaned 'after yourselves.' The Scriptural Appendix names the law of gleanings as a ground of Habitual Almsgiving, and it is the law under which Ruth gleans in Boaz's field — C13's three pillars in a barley field. Twice: 'you shall remember that you were a bondservant in the land of Egypt.'",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Deuteronomy 25:1-3",
+      "pericope": "Lest your brother should seem vile to you",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "A guilty man may be beaten, but not beyond forty stripes, and the reason is not his body but his standing in the community's eyes: 'lest… your brother should seem vile to you.' Punishment is capped so that it does not turn the offender into something contemptible — he remains 'your brother' in the same sentence that sentences him. Merciful Reintegration exists so that a failure does not become a person's permanent identity. Confidence is medium: the law limits punishment rather than describing restoration after repentance, but its stated purpose is the practice's.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 25:5-10",
+      "pericope": "So shall it be done to the man who does not build up his brother's house",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The duty of the brother-in-law to a childless widow, and the public shame of the man who refuses it. The law is the background of Ruth 4, where the nearer kinsman declines and Boaz accepts. PR26 is not tagged: the brother is obligated by law, and the practice is loyalty where one is free to walk away. What the passage anchors is C14 and C13 — a household's obligation to its most exposed member, and the cost of evading it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 25:13-16",
+      "pericope": "You shall have a perfect and just weight",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C04",
+        "C13"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "No two weights in the bag, no two measures in the house, 'a great and a small' — one for buying and one for selling. The Scriptural Appendix names the honest scale as a ground of Habitual Almsgiving, and the tag follows the author. The drafter notes that the passage reads as naturally under the Moral Audit's examination of money and consistency, and that the connection to almsgiving is through the poor, who are always the ones measured with the false weight; a reviewer who reads it otherwise is disagreeing with WMT A3. C04's audit and C13's ordinary faithfulness in trade.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Deuteronomy 26:1-11",
+      "pericope": "A Syrian ready to perish was my father",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C10",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The worshipper brings the first fruits and recites a story in which he is the beneficiary at every step: a perishing ancestor, affliction in Egypt, 'we cried to Yahweh… and Yahweh heard our voice, and saw our affliction.' Then 'you shall rejoice in all the good… you, and the Levite, and the foreigner.' Gratitude as a spoken memory of having been rescued, which is C10's discipline, and the cry heard which is C19's door.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 26:12-15",
+      "pericope": "I have given them to the Levite, and to the foreigner, to the fatherless, and to the widow",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C04"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "At the end of the third-year tithe the giver makes a declaration before God: I have given it, according to the commandment; I have not forgotten. Giving followed by an honest account of the giving. Habitual Almsgiving with its accounting attached; the declaration resembles the Moral Audit's question about the vulnerable — whom did I help? — but is a vow fulfilled rather than an examination, so PR01 is not tagged.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Deuteronomy 26:16-19",
+      "pericope": "You have declared Yahweh this day to be your God… and Yahweh has declared you",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "practices": [],
+      "connection": "The law code closes with a mutual declaration on the same day: the people declare Yahweh their God, and Yahweh declares them his people. The moral order of C01 presented as a covenant between persons rather than a code imposed from outside.",
+      "confidence": "medium",
       "prior": false
     }
   ]

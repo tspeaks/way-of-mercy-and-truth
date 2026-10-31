@@ -1169,6 +1169,22 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 5:12-15",
+        "name": "Admonish the disorderly, encourage the fainthearted, support the weak, be patient toward all. See that no one returns evil for evil to anyone",
+        "chapters": [
+          "C03",
+          "C13",
+          "C15"
+        ],
+        "practices": [
+          "PR06",
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 28:3-6",
         "name": "No doubt this man is a murderer, whom… Justice has not allowed to live",
@@ -2675,6 +2691,34 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 1:1-10",
+        "name": "Remembering without ceasing your work of faith and labor of love and patience of hope… You became imitators of us, and of the Lord",
+        "chapters": [
+          "C05",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "2 Thessalonians.Json",
+        "reference": "2 Thessalonians 3:6-15",
+        "name": "If anyone will not work, neither let him eat… don't be weary in doing well… Don't count him as an enemy, but admonish him as a brother",
+        "chapters": [
+          "C05",
+          "C13",
+          "C19"
+        ],
+        "practices": [
+          "PR23",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-thessalonians.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 4:1-22",
         "name": "They recognized that they had been with Jesus… Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves",
@@ -3619,6 +3663,18 @@
         "source_file": "2-peter.json"
       },
       {
+        "book": "2 Thessalonians.Json",
+        "reference": "2 Thessalonians 2:1-12",
+        "name": "Not to be quickly shaken in your mind… because they didn't receive the love of the truth, that they might be saved",
+        "chapters": [
+          "C07",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-thessalonians.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 28:17-31",
         "name": "Paul stayed two whole years in his own rented house, and received all who were coming to him",
@@ -4106,6 +4162,34 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 2:1-12",
+        "name": "Not as pleasing men, but God, who tests our hearts… we were gentle among you, like a nursing mother… to impart to you, not the Good News of God only, but also our own souls",
+        "chapters": [
+          "C08",
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 5:16-22",
+        "name": "Rejoice always. Pray without ceasing. In everything give thanks… Test all things, and hold firmly that which is good",
+        "chapters": [
+          "C08",
+          "C09",
+          "C28"
+        ],
+        "practices": [
+          "PR30"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 11:1-15",
         "name": "Even Satan masquerades as an angel of light",
@@ -4176,6 +4260,18 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "2 Thessalonians.Json",
+        "reference": "2 Thessalonians 2:1-12",
+        "name": "Not to be quickly shaken in your mind… because they didn't receive the love of the truth, that they might be saved",
+        "chapters": [
+          "C07",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-thessalonians.json"
       },
       {
         "book": "3 John.Json",
@@ -4848,6 +4944,21 @@
       }
     ],
     "C09": [
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 5:16-22",
+        "name": "Rejoice always. Pray without ceasing. In everything give thanks… Test all things, and hold firmly that which is good",
+        "chapters": [
+          "C08",
+          "C09",
+          "C28"
+        ],
+        "practices": [
+          "PR30"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
       {
         "book": "Acts.Json",
         "reference": "Acts 12:1-19",
@@ -6558,6 +6669,18 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 1:1-10",
+        "name": "Remembering without ceasing your work of faith and labor of love and patience of hope… You became imitators of us, and of the Lord",
+        "chapters": [
+          "C05",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
         "book": "2 John.Json",
         "reference": "2 John 1:4-6",
         "name": "This is love, that we should walk according to his commandments",
@@ -6567,6 +6690,18 @@
         "practices": [],
         "tags": [],
         "source_file": "2-john.json"
+      },
+      {
+        "book": "2 Thessalonians.Json",
+        "reference": "2 Thessalonians 1:3-12",
+        "name": "Your faith grows exceedingly, and the love of each and every one of you towards one another abounds… your patience and faith in all your persecutions",
+        "chapters": [
+          "C12",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-thessalonians.json"
       },
       {
         "book": "3 John.Json",
@@ -7257,6 +7392,94 @@
         "source_file": "1-corinthians.json"
       },
       {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 2:1-12",
+        "name": "Not as pleasing men, but God, who tests our hearts… we were gentle among you, like a nursing mother… to impart to you, not the Good News of God only, but also our own souls",
+        "chapters": [
+          "C08",
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 2:17-3:13",
+        "name": "We sent Timothy… to establish you, and to comfort you concerning your faith; that no one be moved by these afflictions",
+        "chapters": [
+          "C13",
+          "C27"
+        ],
+        "practices": [
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 4:13-18",
+        "name": "So that you don't grieve like the rest, who have no hope… Therefore comfort one another with these words",
+        "chapters": [
+          "C13",
+          "C19"
+        ],
+        "practices": [
+          "PR08",
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 4:9-12",
+        "name": "Make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands… that you may walk properly toward those who are outside",
+        "chapters": [
+          "C13",
+          "C17",
+          "C23"
+        ],
+        "practices": [
+          "PR10",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 5:1-11",
+        "name": "Let's not sleep, as the rest do, but let's watch and be sober… Therefore exhort one another, and build each other up",
+        "chapters": [
+          "C13",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 5:12-15",
+        "name": "Admonish the disorderly, encourage the fainthearted, support the weak, be patient toward all. See that no one returns evil for evil to anyone",
+        "chapters": [
+          "C03",
+          "C13",
+          "C15"
+        ],
+        "practices": [
+          "PR06",
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
         "book": "2 John.Json",
         "reference": "2 John 1:12-13",
         "name": "Not with paper and ink, but face to face",
@@ -7266,6 +7489,22 @@
         "practices": [],
         "tags": [],
         "source_file": "2-john.json"
+      },
+      {
+        "book": "2 Thessalonians.Json",
+        "reference": "2 Thessalonians 3:6-15",
+        "name": "If anyone will not work, neither let him eat… don't be weary in doing well… Don't count him as an enemy, but admonish him as a brother",
+        "chapters": [
+          "C05",
+          "C13",
+          "C19"
+        ],
+        "practices": [
+          "PR23",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-thessalonians.json"
       },
       {
         "book": "3 John.Json",
@@ -9130,6 +9369,22 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 5:12-15",
+        "name": "Admonish the disorderly, encourage the fainthearted, support the weak, be patient toward all. See that no one returns evil for evil to anyone",
+        "chapters": [
+          "C03",
+          "C13",
+          "C15"
+        ],
+        "practices": [
+          "PR06",
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 13:1-14",
         "name": "Test your own selves, whether you are in the faith. Test your own selves",
@@ -10354,6 +10609,19 @@
         "practices": [],
         "tags": [],
         "source_file": "1-peter.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 2:1-12",
+        "name": "Not as pleasing men, but God, who tests our hearts… we were gentle among you, like a nursing mother… to impart to you, not the Good News of God only, but also our own souls",
+        "chapters": [
+          "C08",
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -12563,6 +12831,22 @@
         "practices": [],
         "tags": [],
         "source_file": "1-peter.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 4:9-12",
+        "name": "Make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands… that you may walk properly toward those who are outside",
+        "chapters": [
+          "C13",
+          "C17",
+          "C23"
+        ],
+        "practices": [
+          "PR10",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -14979,6 +15263,21 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 4:13-18",
+        "name": "So that you don't grieve like the rest, who have no hope… Therefore comfort one another with these words",
+        "chapters": [
+          "C13",
+          "C19"
+        ],
+        "practices": [
+          "PR08",
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 1:3-11",
         "name": "Who comforts us in all our affliction, that we may be able to comfort those who are in any affliction",
@@ -15033,6 +15332,22 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Thessalonians.Json",
+        "reference": "2 Thessalonians 3:6-15",
+        "name": "If anyone will not work, neither let him eat… don't be weary in doing well… Don't count him as an enemy, but admonish him as a brother",
+        "chapters": [
+          "C05",
+          "C13",
+          "C19"
+        ],
+        "practices": [
+          "PR23",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-thessalonians.json"
       },
       {
         "book": "Acts.Json",
@@ -17693,6 +18008,32 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 4:1-8",
+        "name": "This is the will of God: your sanctification… that no one should take advantage of and wrong a brother or sister in this matter",
+        "chapters": [
+          "C20",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 5:1-11",
+        "name": "Let's not sleep, as the rest do, but let's watch and be sober… Therefore exhort one another, and build each other up",
+        "chapters": [
+          "C13",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 10:1-18",
         "name": "Bringing every thought into captivity to the obedience of Christ… measuring themselves by themselves, and comparing themselves with themselves",
@@ -19697,6 +20038,18 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Thessalonians.Json",
+        "reference": "2 Thessalonians 2:13-3:5",
+        "name": "Stand firm, and hold the traditions… May the Lord direct your hearts into the love of God, and into the patience of Christ",
+        "chapters": [
+          "C22",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-thessalonians.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 12:1-19",
         "name": "Constant prayer was made by the assembly to God for him… Peter was sleeping between two soldiers",
@@ -20888,6 +21241,22 @@
         ],
         "tags": [],
         "source_file": "1-peter.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 4:9-12",
+        "name": "Make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands… that you may walk properly toward those who are outside",
+        "chapters": [
+          "C13",
+          "C17",
+          "C23"
+        ],
+        "practices": [
+          "PR10",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -22804,6 +23173,30 @@
         "source_file": "2-peter.json"
       },
       {
+        "book": "2 Thessalonians.Json",
+        "reference": "2 Thessalonians 1:3-12",
+        "name": "Your faith grows exceedingly, and the love of each and every one of you towards one another abounds… your patience and faith in all your persecutions",
+        "chapters": [
+          "C12",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-thessalonians.json"
+      },
+      {
+        "book": "2 Thessalonians.Json",
+        "reference": "2 Thessalonians 2:13-3:5",
+        "name": "Stand firm, and hold the traditions… May the Lord direct your hearts into the love of God, and into the patience of Christ",
+        "chapters": [
+          "C22",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-thessalonians.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 14:19-28",
         "name": "Through many afflictions we must enter into the Kingdom of God",
@@ -23775,6 +24168,18 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 4:1-8",
+        "name": "This is the will of God: your sanctification… that no one should take advantage of and wrong a brother or sister in this matter",
+        "chapters": [
+          "C20",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 3:1-6",
         "name": "Written not with ink, but with the Spirit… not in tablets of stone, but in tablets that are hearts of flesh",
@@ -24285,6 +24690,20 @@
         ],
         "tags": [],
         "source_file": "1-peter.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 2:17-3:13",
+        "name": "We sent Timothy… to establish you, and to comfort you concerning your faith; that no one be moved by these afflictions",
+        "chapters": [
+          "C13",
+          "C27"
+        ],
+        "practices": [
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
       },
       {
         "book": "2 Peter.Json",
@@ -25480,6 +25899,21 @@
         ],
         "tags": [],
         "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 5:16-22",
+        "name": "Rejoice always. Pray without ceasing. In everything give thanks… Test all things, and hold firmly that which is good",
+        "chapters": [
+          "C08",
+          "C09",
+          "C28"
+        ],
+        "practices": [
+          "PR30"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -29071,6 +29505,22 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 5:12-15",
+        "name": "Admonish the disorderly, encourage the fainthearted, support the weak, be patient toward all. See that no one returns evil for evil to anyone",
+        "chapters": [
+          "C03",
+          "C13",
+          "C15"
+        ],
+        "practices": [
+          "PR06",
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 7:54-60",
         "name": "Lord, don't hold this sin against them!",
@@ -29593,6 +30043,21 @@
       }
     ],
     "PR08": [
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 4:13-18",
+        "name": "So that you don't grieve like the rest, who have no hope… Therefore comfort one another with these words",
+        "chapters": [
+          "C13",
+          "C19"
+        ],
+        "practices": [
+          "PR08",
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
       {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 7:2-16",
@@ -30919,6 +31384,22 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 4:9-12",
+        "name": "Make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands… that you may walk properly toward those who are outside",
+        "chapters": [
+          "C13",
+          "C17",
+          "C23"
+        ],
+        "practices": [
+          "PR10",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 16:35-40",
         "name": "They have beaten us publicly, without a trial, men who are Romans… let them come themselves and bring us out",
@@ -31589,6 +32070,20 @@
         ],
         "tags": [],
         "source_file": "1-peter.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 5:1-11",
+        "name": "Let's not sleep, as the rest do, but let's watch and be sober… Therefore exhort one another, and build each other up",
+        "chapters": [
+          "C13",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -33890,6 +34385,51 @@
     ],
     "PR21": [
       {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 2:17-3:13",
+        "name": "We sent Timothy… to establish you, and to comfort you concerning your faith; that no one be moved by these afflictions",
+        "chapters": [
+          "C13",
+          "C27"
+        ],
+        "practices": [
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 4:13-18",
+        "name": "So that you don't grieve like the rest, who have no hope… Therefore comfort one another with these words",
+        "chapters": [
+          "C13",
+          "C19"
+        ],
+        "practices": [
+          "PR08",
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 5:12-15",
+        "name": "Admonish the disorderly, encourage the fainthearted, support the weak, be patient toward all. See that no one returns evil for evil to anyone",
+        "chapters": [
+          "C03",
+          "C13",
+          "C15"
+        ],
+        "practices": [
+          "PR06",
+          "PR21"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 1:3-11",
         "name": "Who comforts us in all our affliction, that we may be able to comfort those who are in any affliction",
@@ -34154,6 +34694,38 @@
         ],
         "tags": [],
         "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 4:9-12",
+        "name": "Make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands… that you may walk properly toward those who are outside",
+        "chapters": [
+          "C13",
+          "C17",
+          "C23"
+        ],
+        "practices": [
+          "PR10",
+          "PR23"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "2 Thessalonians.Json",
+        "reference": "2 Thessalonians 3:6-15",
+        "name": "If anyone will not work, neither let him eat… don't be weary in doing well… Don't count him as an enemy, but admonish him as a brother",
+        "chapters": [
+          "C05",
+          "C13",
+          "C19"
+        ],
+        "practices": [
+          "PR23",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-thessalonians.json"
       },
       {
         "book": "3 John.Json",
@@ -34751,6 +35323,22 @@
         "source_file": "2-corinthians.json"
       },
       {
+        "book": "2 Thessalonians.Json",
+        "reference": "2 Thessalonians 3:6-15",
+        "name": "If anyone will not work, neither let him eat… don't be weary in doing well… Don't count him as an enemy, but admonish him as a brother",
+        "chapters": [
+          "C05",
+          "C13",
+          "C19"
+        ],
+        "practices": [
+          "PR23",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-thessalonians.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 15:36-41",
         "name": "The contention grew so sharp that they separated from each other. Barnabas took Mark",
@@ -35221,6 +35809,21 @@
       }
     ],
     "PR30": [
+      {
+        "book": "1 Thessalonians.Json",
+        "reference": "1 Thessalonians 5:16-22",
+        "name": "Rejoice always. Pray without ceasing. In everything give thanks… Test all things, and hold firmly that which is good",
+        "chapters": [
+          "C08",
+          "C09",
+          "C28"
+        ],
+        "practices": [
+          "PR30"
+        ],
+        "tags": [],
+        "source_file": "1-thessalonians.json"
+      },
       {
         "book": "Matthew.Json",
         "reference": "Matthew 6:5-15",

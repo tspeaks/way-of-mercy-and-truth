@@ -1,0 +1,219 @@
+{
+  "book": "1 Thessalonians",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/1-thessalonians.json",
+  "note": "Probably the earliest surviving Christian letter, written to a young church under persecution: thanksgiving, Paul's account of his conduct, encouragement about the dead in Christ, and a run of short commands for community life. Not cited by the curriculum or the Scriptural Appendix.",
+  "prediction_note": "Forecast: PR21 anchored by 5:14 ('encourage the fainthearted'), PR23 by 4:11. Outcome: both held at high. 4:13-18 adds PR08 at medium — grief instructed, not forbidden.",
+  "coverage_note": "2:13-16 is not indexed: 2:13 is a thanksgiving already represented elsewhere, and 2:14-16 is a polemic against 'the Jews' the index will not turn into formation guidance. The closing blessing and greetings (5:23-28) are not indexed separately.",
+  "entries": [
+    {
+      "ref": "1 Thessalonians 1:1-10",
+      "pericope": "Remembering without ceasing your work of faith and labor of love and patience of hope… You became imitators of us, and of the Lord",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C05",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The earliest surviving Christian letter opens with three virtues each tied to its work: 'your work of faith and labor of love and patience of hope.' C12's proof — faith that works, love that labours, hope that endures. And the way it spread: 'You became imitators of us, and of the Lord, having received the word in much affliction, with joy… so that you became an example to all who believe.' C05's apprenticeship passed from life to life until 'we need not to say anything.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Thessalonians 2:1-12",
+      "pericope": "Not as pleasing men, but God, who tests our hearts… we were gentle among you, like a nursing mother… to impart to you, not the Good News of God only, but also our own souls",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C08",
+        "C16",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Paul's account of how he behaved in Thessalonica reads as C08's checklist of the true messenger, each item a temptation refused: 'not of error, nor of uncleanness, nor in deception… not as pleasing men, but God, who tests our hearts. For neither were we at any time found using words of flattery… nor a cloak of covetousness… nor seeking glory from men.' Then the positive picture: 'we were gentle among you, like a nursing mother cherishes her own children. Even so, affectionately longing for you, we were well pleased to impart to you, not the Good News of God only, but also our own souls.' C16's service that gives the self along with the message, and C13's ordinary labour: 'working night and day, that we might not burden any of you.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Thessalonians 2:17-3:13",
+      "pericope": "We sent Timothy… to establish you, and to comfort you concerning your faith; that no one be moved by these afflictions",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C13",
+        "C27"
+      ],
+      "practices": [
+        "PR21"
+      ],
+      "mode": "exemplifies",
+      "connection": "Separated from a young church under persecution, Paul 'couldn't stand it any longer' and sent Timothy 'to establish you, and to comfort you concerning your faith; that no one be moved by these afflictions.' Verbal Almsgiving: seeking out the afflicted to give them a word of strength, treated as a real act of charity, at the cost of being 'left behind at Athens alone' (medium — Paul sends the word rather than speaking it). The comfort runs both ways: 'when Timothy came just now to us from you, and brought us glad news of your faith and love… we were comforted over you in all our distress… For now we live, if you stand fast.' C13's shared life across distance, and C27's prayer: 'the Lord make you to increase and abound in love one toward another, and toward all men.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Thessalonians 4:1-8",
+      "pericope": "This is the will of God: your sanctification… that no one should take advantage of and wrong a brother or sister in this matter",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'For this is the will of God: your sanctification, that you abstain from sexual immorality, that each one of you know how to possess himself of his own vessel in sanctification and honor, not in the passion of lust.' C26's holiness, kept at C20's gate. Sexual sin described in terms of its victim: 'that no one should take advantage of and wrong a brother or sister in this matter.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Thessalonians 4:9-12",
+      "pericope": "Make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands… that you may walk properly toward those who are outside",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C13",
+        "C23",
+        "C17"
+      ],
+      "practices": [
+        "PR23",
+        "PR10"
+      ],
+      "mode": "prescribes",
+      "connection": "'Concerning brotherly love, you have no need that one write to you… But we exhort you… that you make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands… that you may walk properly toward those who are outside, and may have need of nothing.' An ambition for quietness — the phrase is deliberately paradoxical. The Sacrament of the Ordinary's insistence that the road runs through daily work, and the Citizen-Stranger's 'let your goodness be ordinary and largely unremarked,' with its witness to outsiders (medium for PR10). C13's faithfulness and C23's hidden life.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Thessalonians 4:13-18",
+      "pericope": "So that you don't grieve like the rest, who have no hope… Therefore comfort one another with these words",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C13"
+      ],
+      "practices": [
+        "PR08",
+        "PR21"
+      ],
+      "mode": "prescribes",
+      "connection": "'We don't want you to be ignorant, brothers, concerning those who have fallen asleep, so that you don't grieve like the rest, who have no hope.' The instruction is not to stop grieving but to grieve differently — Sacred Lament's grief 'without abandoning hope.' The hope is given its content: 'if we believe that Jesus died and rose again, even so God will bring with him those who have fallen asleep in Jesus… So we will be with the Lord forever.' C19's hope. And the command that closes it: 'Therefore comfort one another with these words.' Verbal Almsgiving directed at the bereaved, with the words supplied (medium for both practices).",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Thessalonians 5:1-11",
+      "pericope": "Let's not sleep, as the rest do, but let's watch and be sober… Therefore exhort one another, and build each other up",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C13"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "'The day of the Lord comes like a thief in the night. For when they are saying, \"Peace and safety,\" then sudden destruction will come.' The response is not calculation of dates — 'concerning the times and the seasons… you have no need' — but wakefulness: 'so then let's not sleep, as the rest do, but let's watch and be sober… putting on the breastplate of faith and love, and, for a helmet, the hope of salvation.' Watchfulness as a way of life rather than a crisis measure. C20's watch, kept together: 'exhort one another, and build each other up, even as you also do.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Thessalonians 5:12-15",
+      "pericope": "Admonish the disorderly, encourage the fainthearted, support the weak, be patient toward all. See that no one returns evil for evil to anyone",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C15",
+        "C03"
+      ],
+      "practices": [
+        "PR21",
+        "PR06"
+      ],
+      "mode": "prescribes",
+      "connection": "A congregation's care given four different tools for four different people: 'admonish the disorderly, encourage the fainthearted, support the weak, be patient toward all.' The fainthearted receive encouragement, not correction — Verbal Almsgiving aimed exactly where A1 aims it, at the discouraged. The discernment to tell the disorderly from the fainthearted is part of the instruction. 'Be at peace among yourselves' — C15. And Non-Retaliation as a community responsibility: 'See that no one returns evil for evil to anyone, but always follow after that which is good, for one another, and for all.' C03.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Thessalonians 5:16-22",
+      "pericope": "Rejoice always. Pray without ceasing. In everything give thanks… Test all things, and hold firmly that which is good",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S3",
+        "S7"
+      ],
+      "chapters": [
+        "C09",
+        "C28",
+        "C08"
+      ],
+      "practices": [
+        "PR30"
+      ],
+      "mode": "prescribes",
+      "connection": "Three of the shortest commands in scripture: 'Rejoice always. Pray without ceasing. In everything give thanks, for this is the will of God in Christ Jesus toward you.' Prayer as continuous orientation rather than occasional intensity — the Secret Rhythmic Devotion's principle that 'continuity matters more than intensity' (medium: the passage commands the continuity, not the threefold rhythm). C09's inner room carried through the day, and C28's thanksgiving in the ordinary. Then discernment: 'Don't quench the Spirit. Don't despise prophesies. Test all things, and hold firmly that which is good. Abstain from every form of evil' — C08's testing.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

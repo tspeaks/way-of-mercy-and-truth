@@ -1,12 +1,12 @@
 {
   "book": "Isaiah",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — chapters 1-12 indexed; 13-27, 28-39, 40-55, and 56-66 pending",
+  "status": "in progress — chapters 1-27 indexed (13-27 selectively); 28-39, 40-55, and 56-66 pending",
   "method_version": "2.3",
   "text_source": "index/text/isaiah.json",
   "note": "Indexed in sections along the book's standard seams: the oracles concerning Judah and Jerusalem (1-12), the oracles against the nations and the Isaiah apocalypse (13-27), the woes and the Hezekiah narratives (28-39), the Book of Comfort (40-55), and the closing chapters (56-66). The Scriptural Appendix cites Isaiah 5 for C11 and 56:1-7 for C27 and Shedding Harshness; the indexing order expected C03 and C27.",
   "sectioning_note": "As with Jeremiah, the status field names what is done.",
-  "coverage_note": "Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16.",
+  "coverage_note": "Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16. Chapters 13-27 are indexed selectively, as Jeremiah 46-51 was: the oracles against Babylon, Assyria, Philistia, Moab, Damascus, Cush, Egypt, Dumah, Arabia, and Tyre (13, 14:1-2 and 14:22-32, 15, 16:12-14, 17, 18, 19:1-15, 20, 21:1-5 and 21:16-17, 23:1-14) anchor nothing in personal formation on a plain reading, and allegory was declined. Within them the index carries what does anchor: Moab's refugees and the prophet's tears for Moab, Egypt and Assyria named God's people, the bread brought to fugitives in Arabia, and Tyre's wages turned from storage to provision.",
   "entries": [
     {
       "ref": "Isaiah 1:1-9",
@@ -351,6 +351,252 @@
       ],
       "practices": [],
       "connection": "The song of the redeemed: 'I will give thanks to you, Yahweh; for though you were angry with me, your anger has turned away and you comfort me… With joy you will draw water out of the wells of salvation.' C19's turning and C10's joy, sung in the first person.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 14:3-21",
+      "pericope": "You said in your heart, I will ascend into heaven… I will make myself like the Most High",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "A taunt-song over the fallen king of Babylon, 'who struck the peoples in wrath with a continual stroke… who didn't release his prisoners to their home.' His self-description is the anatomy of pride: 'You said in your heart, I will ascend into heaven! I will exalt my throne above the stars of God… I will make myself like the Most High!' And the dead kings greet him in Sheol: 'Have you also become as weak as we are?' C22's humility as accurate self-knowledge, inverted, and C16's tyranny. The long tradition of reading 14:12 as the fall of Satan is not adopted; the text names its subject as the king of Babylon.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 16:1-11",
+      "pericope": "Hide the outcasts! Don't betray the fugitive!… My heart sounds like a harp for Moab",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "Two movements of mercy toward an enemy nation. Moab's refugees are at the fords, and the command is given on their behalf: 'Hide the outcasts! Don't betray the fugitive! Let my outcasts dwell with you!' — and a throne promised that is 'established in loving kindness,' with one on it 'in truth,' mercy and truth together. Then the prophet weeps over Moab's ruin: 'I will water you with my tears, Heshbon… my heart sounds like a harp for Moab.' Shedding Harshness is measured by the movement in the chest at news of someone's downfall; the prophet's movement over an old enemy's downfall is grief. C16's refugee and C27's widened circle.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 19:16-25",
+      "pericope": "Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "The two great oppressors of Israel's history are named with the titles of Israel itself: 'Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance.' A highway from Egypt to Assyria, the enemies worshipping together, and Israel 'the third with Egypt and with Assyria, a blessing in the midst of the earth.' C27's circle at its most startling, with no one left outside — the same movement as Psalm 87 and Isaiah 56, and tagged as they are, at medium, because the widening is God's and the practice is its human imitation.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 21:6-12",
+      "pericope": "Watchman, what of the night?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20"
+      ],
+      "practices": [],
+      "connection": "'I stand continually on the watchtower in the daytime, and every night I stay at my post.' A watchman set to see and report, and the question from the dark: 'Watchman, what of the night?… The morning comes, and also the night. If you will inquire, inquire. Come back again.' C20's watchman, whose vigilance is a post held rather than a feeling kept up. PR12 shares the image but the watch here is for news, not for the movements of a heart, and it is not tagged.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 21:13-15",
+      "pericope": "They brought water to him who was thirsty… met the fugitives with their bread",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "In a brief oracle on Arabia, a single act recorded: 'They brought water to him who was thirsty. The inhabitants of the land of Tema met the fugitives with their bread. For they fled away from the swords.' Strangers feeding strangers in flight. C16's care for those with no claim.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 22:1-14",
+      "pericope": "Let us eat and drink, for tomorrow we will die",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C07",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Jerusalem under siege prepares its walls and water supply 'but you didn't look to him who had done this' — C07's failure to see. The Lord calls to weeping and sackcloth, 'and behold, joy and gladness… Let us eat and drink, for tomorrow we will die.' A call to return answered with a party, which is C19's door declined. The prophet's own response is grief that refuses easy comfort: 'Look away from me. I will weep bitterly. Don't labor to comfort me.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 22:15-25",
+      "pericope": "Who has you here, that you have dug out a tomb here?… cutting himself out a tomb on high",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C16"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "counter-example",
+      "connection": "The royal treasurer Shebna is caught carving himself a grand tomb in the rock: 'What are you doing here?… Cutting himself out a tomb on high, chiseling a habitation for himself in the rock!' A monument to his own name, built while the city is under threat. The Hidden Life is the practice against the reach for an audience, and this is the reach carried into the grave. He is replaced by Eliakim, who 'will be a father to the inhabitants of Jerusalem' — C16's authority as service. Medium, as with Babel, because the passage is about one official's self-display and the practice is broader.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 23:15-18",
+      "pericope": "Her merchandise and her wages will be holiness to Yahweh. It will not be treasured nor laid up",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C16"
+      ],
+      "practices": [
+        "PR28"
+      ],
+      "mode": "exemplifies",
+      "connection": "At the end of an oracle against Tyre, the great merchant city, a reversal of its whole economy: 'Her merchandise and her wages will be holiness to Yahweh. It will not be treasured nor laid up; for her merchandise will be for those who dwell before Yahweh, to eat sufficiently, and for durable clothing.' Profit not stored but redirected to others' food and clothing. The Heavenly Palace's positive form — surplus turned away from accumulation toward provision — in a prophecy rather than a command, and with its recipients named as 'those who dwell before Yahweh' rather than the poor; medium for both reasons. The first passage in the index to show the practice done rather than its absence costed.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 24:1-23",
+      "pericope": "As with the servant, so with his master… as with the creditor, so with the debtor",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C01",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "The Isaiah apocalypse begins with the earth emptied, and every distinction of rank cancelled by the same judgment: 'as with the people, so with the priest; as with the servant, so with his master… as with the creditor, so with the debtor.' The earth 'polluted under its inhabitants, because they have… broken the everlasting covenant' — C01's moral order reaching the ground itself. Every source of mirth ceases, which is C18's lesson written across a whole world.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 25:1-12",
+      "pericope": "He will wipe away tears from off all faces",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C19",
+        "C16"
+      ],
+      "practices": [],
+      "connection": "'You have been a stronghold to the poor, a stronghold to the needy in his distress.' Then the feast on the mountain 'for all peoples… He will destroy… the veil that is spread over all nations. He has swallowed up death forever! The Lord Yahweh will wipe away tears from off all faces.' C27's widest circle, C19's final healing, and C16's poor at its foundation. Revelation 21:4 takes its words from here. The oracle against Moab that closes the chapter (25:10-12) is part of the pericope's argument and not what it anchors.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 26:1-21",
+      "pericope": "You will keep whoever's mind is steadfast in perfect peace… Come, my people, enter into your rooms, and shut your doors",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C09"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'You will keep whoever's mind is steadfast in perfect peace, because he trusts in you' — C22's quiet soul in its most quoted form. 'With my soul have I desired you in the night' is C09's longing. And at the end, an instruction that Matthew 6:6 echoes: 'Come, my people, enter into your rooms, and shut your doors behind you. Hide yourself for a little moment.' The confession in the middle is unusually honest: 'We have been with child. We have been in pain. We gave birth, it seems, only to wind.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Isaiah 27:1-13",
+      "pericope": "A pleasant vineyard! I, Yahweh, am its keeper… Let him make peace with me",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C11",
+        "C15"
+      ],
+      "practices": [],
+      "connection": "The second song of the vineyard answers the first (5:1-7). Now the keeper says, 'I will water it every moment. Lest anyone damage it, I will keep it night and day. Wrath is not in me.' And to any who oppose it: 'let him take hold of my strength, that he may make peace with me. Let him make peace with me.' 'Israel will blossom and bud. They will fill the surface of the world with fruit.' C11's vine tended rather than abandoned, and C15's peace offered twice to an adversary.",
       "confidence": "medium",
       "prior": false
     }

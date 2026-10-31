@@ -1,12 +1,12 @@
 # Isaiah — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — chapters 1-12 indexed; 13-27, 28-39, 40-55, and 56-66 pending. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: in progress — chapters 1-27 indexed (13-27 selectively); 28-39, 40-55, and 56-66 pending. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
 **Note.** Indexed in sections along the book's standard seams: the oracles concerning Judah and Jerusalem (1-12), the oracles against the nations and the Isaiah apocalypse (13-27), the woes and the Hezekiah narratives (28-39), the Book of Comfort (40-55), and the closing chapters (56-66). The Scriptural Appendix cites Isaiah 5 for C11 and 56:1-7 for C27 and Shedding Harshness; the indexing order expected C03 and C27.
 
-**Coverage note.** Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16.
+**Coverage note.** Chapters 1-12, unindexed: the finery of the daughters of Zion (3:16-4:1), the branch and the canopy (4:2-6), the invading nation (5:26-30), the Assyrian razor (7:18-25), Maher-Shalal-Hash-Baz (8:1-10), the remnant oracle (10:20-34), and the conquests of 11:14-16. Chapters 13-27 are indexed selectively, as Jeremiah 46-51 was: the oracles against Babylon, Assyria, Philistia, Moab, Damascus, Cush, Egypt, Dumah, Arabia, and Tyre (13, 14:1-2 and 14:22-32, 15, 16:12-14, 17, 18, 19:1-15, 20, 21:1-5 and 21:16-17, 23:1-14) anchor nothing in personal formation on a plain reading, and allegory was declined. Within them the index carries what does anchor: Moab's refugees and the prophet's tears for Moab, Egypt and Assyria named God's people, the bread brought to fugitives in Arabia, and Tyre's wages turned from storage to provision.
 
 **Sectioning note.** As with Jeremiah, the status field names what is done.
 
@@ -358,6 +358,262 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** The song of the redeemed: 'I will give thanks to you, Yahweh; for though you were angry with me, your anger has turned away and you comfort me… With joy you will draw water out of the wells of salvation.' C19's turning and C10's joy, sung in the first person.
 
 **Tags.** pillars: mercy · stages: S3, S5 · chapters: C19, C10 · practices: none · confidence: medium
+
+---
+
+## 18. Isaiah 14:3-21 — You said in your heart, I will ascend into heaven… I will make myself like the Most High
+
+> **14:3** It will happen in the day that Yahweh will give you rest from your sorrow, from your trouble, and from the hard service in which you were made to serve,
+> **14:4** that you will take up this parable against the king of Babylon, and say, “How the oppressor has ceased! The golden city has ceased!”
+> **14:5** Yahweh has broken the staff of the wicked, the scepter of the rulers,
+> **14:6** who struck the peoples in wrath with a continual stroke, who ruled the nations in anger, with a persecution that none restrained.
+> **14:7** The whole earth is at rest, and is quiet. They break out song.
+> **14:8** Yes, the fir trees rejoice with you, with the cedars of Lebanon, saying, “Since you are humbled, no lumberjack has come up against us.”
+> **14:9** Sheol from beneath has moved for you to meet you at your coming. It stirs up the dead for you, even all the rulers of the earth. It has raised up from their thrones all the kings of the nations.
+> **14:10** They all will answer and ask you, “Have you also become as weak as we are? Have you become like us?”
+> **14:11** Your pomp is brought down to Sheol, with the sound of your stringed instruments. Maggots are spread out under you, and worms cover you.
+> **14:12** How you have fallen from heaven, morning star, son of the dawn! How you are cut down to the ground, who laid the nations low!
+> **14:13** You said in your heart, “I will ascend into heaven! I will exalt my throne above the stars of God! I will sit on the mountain of assembly, in the far north!
+> **14:14** I will ascend above the heights of the clouds! I will make myself like the Most High!”
+> **14:15** Yet you shall be brought down to Sheol, to the depths of the pit.
+> **14:16** Those who see you will stare at you. They will ponder you, saying, “Is this the man who made the earth to tremble, who shook kingdoms;
+> **14:17** who made the world like a wilderness, and overthrew its cities; who didn’t release his prisoners to their home?”
+> **14:18** All the kings of the nations, sleep in glory, everyone in his own house.
+> **14:19** But you are cast away from your tomb like an abominable branch, clothed with the slain, who are thrust through with the sword, who go down to the stones of the pit; like a dead body trodden under foot.
+> **14:20** You will not join them in burial, because you have destroyed your land. You have killed your people. The seed of evildoers will not be named forever.
+> **14:21** Prepare for slaughter of his children because of the iniquity of their fathers, that they not rise up and possess the earth, and fill the surface of the world with cities.
+
+**Claim.** A taunt-song over the fallen king of Babylon, 'who struck the peoples in wrath with a continual stroke… who didn't release his prisoners to their home.' His self-description is the anatomy of pride: 'You said in your heart, I will ascend into heaven! I will exalt my throne above the stars of God… I will make myself like the Most High!' And the dead kings greet him in Sheol: 'Have you also become as weak as we are?' C22's humility as accurate self-knowledge, inverted, and C16's tyranny. The long tradition of reading 14:12 as the fall of Satan is not adopted; the text names its subject as the king of Babylon.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility, truth · stages: S4, S5 · chapters: C22, C16 · practices: none · confidence: medium
+
+---
+
+## 19. Isaiah 16:1-11 — Hide the outcasts! Don't betray the fugitive!… My heart sounds like a harp for Moab
+
+> **16:1** Send the lambs for the ruler of the land from Selah to the wilderness, to the mountain of the daughter of Zion.
+> **16:2** For it will be that as wandering birds, as a scattered nest, so will the daughters of Moab be at the fords of the Arnon.
+> **16:3** Give counsel! Execute justice! Make your shade like the night in the midst of the noonday! Hide the outcasts! Don’t betray the fugitive!
+> **16:4** Let my outcasts dwell with you! As for Moab, be a hiding place for him from the face of the destroyer. For the extortioner is brought to nothing. Destruction ceases. The oppressors are consumed out of the land.
+> **16:5** A throne will be established in loving kindness. One will sit on it in truth, in the tent of David, judging, seeking justice, and swift to do righteousness.
+> **16:6** We have heard of the pride of Moab, that he is very proud; even of his arrogance, his pride, and his wrath. His boastings are nothing.
+> **16:7** Therefore Moab will wail for Moab. Everyone will wail. You will mourn for the raisin cakes of Kir Hareseth, utterly stricken.
+> **16:8** For the fields of Heshbon languish with the vine of Sibmah. The lords of the nations have broken down its choice branches, which reached even to Jazer, which wandered into the wilderness. Its shoots were spread abroad. They passed over the sea.
+> **16:9** Therefore I will weep with the weeping of Jazer for the vine of Sibmah. I will water you with my tears, Heshbon, and Elealeh: for on your summer fruits and on your harvest the battle shout has fallen.
+> **16:10** Gladness is taken away, and joy out of the fruitful field; and in the vineyards there will be no singing, neither joyful noise. Nobody will tread out wine in the presses. I have made the shouting stop.
+> **16:11** Therefore my heart sounds like a harp for Moab, and my inward parts for Kir Heres.
+
+**Claim.** Two movements of mercy toward an enemy nation. Moab's refugees are at the fords, and the command is given on their behalf: 'Hide the outcasts! Don't betray the fugitive! Let my outcasts dwell with you!' — and a throne promised that is 'established in loving kindness,' with one on it 'in truth,' mercy and truth together. Then the prophet weeps over Moab's ruin: 'I will water you with my tears, Heshbon… my heart sounds like a harp for Moab.' Shedding Harshness is measured by the movement in the chest at news of someone's downfall; the prophet's movement over an old enemy's downfall is grief. C16's refugee and C27's widened circle.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S4, S7 · chapters: C16, C27 · practices: PR15 · confidence: medium
+
+---
+
+## 20. Isaiah 19:16-25 — Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance
+
+> **19:16** In that day the Egyptians will be like women. They will tremble and fear because of the shaking of the hand of Yahweh of Armies, which he shakes over them.
+> **19:17** The land of Judah will become a terror to Egypt. Everyone to whom mention is made of it will be afraid, because of the plans of Yahweh of Armies, which he determines against it.
+> **19:18** In that day, there will be five cities in the land of Egypt that speak the language of Canaan, and swear to Yahweh of Armies. One will be called “The city of destruction.”
+> **19:19** In that day, there will be an altar to Yahweh in the midst of the land of Egypt, and a pillar to Yahweh at its border.
+> **19:20** It will be for a sign and for a witness to Yahweh of Armies in the land of Egypt; for they will cry to Yahweh because of oppressors, and he will send them a savior and a defender, and he will deliver them.
+> **19:21** Yahweh will be known to Egypt, and the Egyptians will know Yahweh in that day. Yes, they will worship with sacrifice and offering, and will vow a vow to Yahweh, and will perform it.
+> **19:22** Yahweh will strike Egypt, striking and healing. They will return to Yahweh, and he will be entreated by them, and will heal them.
+> **19:23** In that day there will be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria; and the Egyptians will worship with the Assyrians.
+> **19:24** In that day, Israel will be the third with Egypt and with Assyria, a blessing in the midst of the earth;
+> **19:25** because Yahweh of Armies has blessed them, saying, “Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance.”
+
+**Claim.** The two great oppressors of Israel's history are named with the titles of Israel itself: 'Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance.' A highway from Egypt to Assyria, the enemies worshipping together, and Israel 'the third with Egypt and with Assyria, a blessing in the midst of the earth.' C27's circle at its most startling, with no one left outside — the same movement as Psalm 87 and Isaiah 56, and tagged as they are, at medium, because the widening is God's and the practice is its human imitation.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S7 · chapters: C27 · practices: PR15 · confidence: medium
+
+---
+
+## 21. Isaiah 21:6-12 — Watchman, what of the night?
+
+> **21:6** For the Lord said to me, “Go, set a watchman. Let him declare what he sees.
+> **21:7** When he sees a troop, horsemen in pairs, a troop of donkeys, a troop of camels, he shall listen diligently with great attentiveness.”
+> **21:8** He cried like a lion: “Lord, I stand continually on the watchtower in the daytime, and every night I stay at my post.
+> **21:9** Behold, here comes a troop of men, horsemen in pairs.” He answered, “Fallen, fallen is Babylon; and all the engraved images of her gods are broken to the ground.
+> **21:10** You are my threshing, and the grain of my floor!” That which I have heard from Yahweh of Armies, the God of Israel, I have declared to you.
+> **21:11** The burden of Dumah. One calls to me out of Seir, “Watchman, what of the night? Watchman, what of the night?”
+> **21:12** The watchman said, “The morning comes, and also the night. If you will inquire, inquire. Come back again.”
+
+**Claim.** 'I stand continually on the watchtower in the daytime, and every night I stay at my post.' A watchman set to see and report, and the question from the dark: 'Watchman, what of the night?… The morning comes, and also the night. If you will inquire, inquire. Come back again.' C20's watchman, whose vigilance is a post held rather than a feeling kept up. PR12 shares the image but the watch here is for news, not for the movements of a heart, and it is not tagged.
+
+**Tags.** pillars: truth · stages: S5 · chapters: C20 · practices: none · confidence: medium
+
+---
+
+## 22. Isaiah 21:13-15 — They brought water to him who was thirsty… met the fugitives with their bread
+
+> **21:13** The burden on Arabia. In the forest in Arabia you will lodge, you caravans of Dedanites.
+> **21:14** They brought water to him who was thirsty. The inhabitants of the land of Tema met the fugitives with their bread.
+> **21:15** For they fled away from the swords, from the drawn sword, from the bent bow, and from the heat of battle.
+
+**Claim.** In a brief oracle on Arabia, a single act recorded: 'They brought water to him who was thirsty. The inhabitants of the land of Tema met the fugitives with their bread. For they fled away from the swords.' Strangers feeding strangers in flight. C16's care for those with no claim.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4 · chapters: C16 · practices: none · confidence: medium
+
+---
+
+## 23. Isaiah 22:1-14 — Let us eat and drink, for tomorrow we will die
+
+> **22:1** The burden of the valley of vision. What ails you now, that you have all gone up to the housetops?
+> **22:2** You that are full of shouting, a tumultuous city, a joyous town; your slain are not slain with the sword, neither are they dead in battle.
+> **22:3** All your rulers fled away together. They were bound by the archers. All who were found by you were bound together. They fled far away.
+> **22:4** Therefore I said, “Look away from me. I will weep bitterly. Don’t labor to comfort me for the destruction of the daughter of my people.
+> **22:5** For it is a day of confusion, and of treading down, and of perplexity, from the Lord, Yahweh of Armies, in the valley of vision; a breaking down of the walls, and a crying to the mountains.”
+> **22:6** Elam carried his quiver, with chariots of men and horsemen; and Kir uncovered the shield.
+> **22:7** It happened that your choicest valleys were full of chariots, and the horsemen set themselves in array at the gate.
+> **22:8** He took away the covering of Judah; and you looked in that day to the armor in the house of the forest.
+> **22:9** You saw the breaches of the city of David, that they were many; and you gathered together the waters of the lower pool.
+> **22:10** You numbered the houses of Jerusalem, and you broke down the houses to fortify the wall.
+> **22:11** You also made a reservoir between the two walls for the water of the old pool. But you didn’t look to him who had done this, neither did you have respect for him who purposed it long ago.
+> **22:12** In that day, the Lord, Yahweh of Armies, called to weeping, and to mourning, and to baldness, and to dressing in sackcloth:
+> **22:13** and behold, joy and gladness, killing cattle and killing sheep, eating flesh and drinking wine: “Let us eat and drink, for tomorrow we will die.”
+> **22:14** Yahweh of Armies revealed himself in my ears, “Surely this iniquity will not be forgiven you until you die,” says the Lord, Yahweh of Armies.
+
+**Claim.** Jerusalem under siege prepares its walls and water supply 'but you didn't look to him who had done this' — C07's failure to see. The Lord calls to weeping and sackcloth, 'and behold, joy and gladness… Let us eat and drink, for tomorrow we will die.' A call to return answered with a party, which is C19's door declined. The prophet's own response is grief that refuses easy comfort: 'Look away from me. I will weep bitterly. Don't labor to comfort me.'
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, humility · stages: S2, S5 · chapters: C07, C19 · practices: none · confidence: medium
+
+---
+
+## 24. Isaiah 22:15-25 — Who has you here, that you have dug out a tomb here?… cutting himself out a tomb on high
+
+> **22:15** Thus says the Lord, Yahweh of Armies, “Go, get yourself to this treasurer, even to Shebna, who is over the house, and say,
+> **22:16** ‘What are you doing here? Who has you here, that you have dug out a tomb here?’ Cutting himself out a tomb on high, chiseling a habitation for himself in the rock!”
+> **22:17** Behold, Yahweh will overcome you and hurl you away violently. Yes, he will grasp you firmly.
+> **22:18** He will surely wind you around and around, and throw you like a ball into a large country. There you will die, and there the chariots of your glory will be, you shame of your lord’s house.
+> **22:19** I will thrust you from your office. You will be pulled down from your station.
+> **22:20** It will happen in that day that I will call my servant Eliakim the son of Hilkiah,
+> **22:21** and I will clothe him with your robe, and strengthen him with your belt. I will commit your government into his hand; and he will be a father to the inhabitants of Jerusalem, and to the house of Judah.
+> **22:22** I will lay the key of the house of David on his shoulder. He will open, and no one will shut. He will shut, and no one will open.
+> **22:23** I will fasten him like a nail in a sure place. He will be for a throne of glory to his father’s house.
+> **22:24** They will hang on him all the glory of his father’s house, the offspring and the issue, every small vessel, from the cups even to all the pitchers.
+> **22:25** “In that day,” says Yahweh of Armies, “the nail that was fastened in a sure place will give way. It will be cut down, and fall. The burden that was on it will be cut off, for Yahweh has spoken it.”
+
+**Claim.** The royal treasurer Shebna is caught carving himself a grand tomb in the rock: 'What are you doing here?… Cutting himself out a tomb on high, chiseling a habitation for himself in the rock!' A monument to his own name, built while the city is under threat. The Hidden Life is the practice against the reach for an audience, and this is the reach carried into the grave. He is replaced by Eliakim, who 'will be a father to the inhabitants of Jerusalem' — C16's authority as service. Medium, as with Babel, because the passage is about one official's self-display and the practice is broader.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: humility, truth · stages: S4, S6 · chapters: C23, C16 · practices: PR13 · confidence: medium
+
+---
+
+## 25. Isaiah 23:15-18 — Her merchandise and her wages will be holiness to Yahweh. It will not be treasured nor laid up
+
+> **23:15** It will come to pass in that day that Tyre will be forgotten seventy years, according to the days of one king. After the end of seventy years it will be to Tyre like in the song of the prostitute.
+> **23:16** Take a harp; go about the city, you prostitute that has been forgotten. Make sweet melody. Sing many songs, that you may be remembered.
+> **23:17** It will happen after the end of seventy years that Yahweh will visit Tyre, and she shall return to her wages, and will play the prostitute with all the kingdoms of the world on the surface of the earth.
+> **23:18** Her merchandise and her wages will be holiness to Yahweh. It will not be treasured nor laid up; for her merchandise will be for those who dwell before Yahweh, to eat sufficiently, and for durable clothing.
+
+**Claim.** At the end of an oracle against Tyre, the great merchant city, a reversal of its whole economy: 'Her merchandise and her wages will be holiness to Yahweh. It will not be treasured nor laid up; for her merchandise will be for those who dwell before Yahweh, to eat sufficiently, and for durable clothing.' Profit not stored but redirected to others' food and clothing. The Heavenly Palace's positive form — surplus turned away from accumulation toward provision — in a prophecy rather than a command, and with its recipients named as 'those who dwell before Yahweh' rather than the poor; medium for both reasons. The first passage in the index to show the practice done rather than its absence costed.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S4 · chapters: C18, C16 · practices: PR28 · confidence: medium
+
+---
+
+## 26. Isaiah 24:1-23 — As with the servant, so with his master… as with the creditor, so with the debtor
+
+> **24:1** Behold, Yahweh makes the earth empty, makes it waste, turns it upside down, and scatters its inhabitants.
+> **24:2** It will be as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the creditor, so with the debtor; as with the taker of interest, so with the giver of interest.
+> **24:3** The earth will be utterly emptied and utterly laid waste; for Yahweh has spoken this word.
+> **24:4** The earth mourns and fades away. The world languishes and fades away. The lofty people of the earth languish.
+> **24:5** The earth also is polluted under its inhabitants, because they have transgressed the laws, violated the statutes, and broken the everlasting covenant.
+> **24:6** Therefore the curse has devoured the earth, and those who dwell therein are found guilty. Therefore the inhabitants of the earth are burned, and few men left.
+> **24:7** The new wine mourns. The vine languishes. All the merry-hearted sigh.
+> **24:8** The mirth of tambourines ceases. The sound of those who rejoice ends. The joy of the harp ceases.
+> **24:9** They will not drink wine with a song. Strong drink will be bitter to those who drink it.
+> **24:10** The confused city is broken down. Every house is shut up, that no man may come in.
+> **24:11** There is a crying in the streets because of the wine. All joy is darkened. The mirth of the land is gone.
+> **24:12** The city is left in desolation, and the gate is struck with destruction.
+> **24:13** For it will be so in the midst of the earth among the peoples, as the shaking of an olive tree, as the gleanings when the vintage is done.
+> **24:14** These shall lift up their voice. They will shout for the majesty of Yahweh. They cry aloud from the sea.
+> **24:15** Therefore glorify Yahweh in the east, even the name of Yahweh, the God of Israel, in the islands of the sea!
+> **24:16** From the uttermost part of the earth have we heard songs. Glory to the righteous! But I said, “I pine away! I pine away! woe is me!” The treacherous have dealt treacherously. Yes, the treacherous have dealt very treacherously.
+> **24:17** Fear, the pit, and the snare, are on you who inhabitant the earth.
+> **24:18** It will happen that he who flees from the noise of the fear will fall into the pit; and he who comes up out of the midst of the pit will be taken in the snare; for the windows on high are opened, and the foundations of the earth tremble.
+> **24:19** The earth is utterly broken. The earth is torn apart. The earth is shaken violently.
+> **24:20** The earth will stagger like a drunken man, and will sway back and forth like a hammock. Its disobedience will be heavy on it, and it will fall and not rise again.
+> **24:21** It shall happen in that day that Yahweh will punish the army of the high ones on high, and the kings of the earth on the earth.
+> **24:22** They shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison; and after many days shall they be visited.
+> **24:23** Then the moon shall be confounded, and the sun ashamed; for Yahweh of Armies will reign on Mount Zion, and in Jerusalem; and before his elders will be glory.
+
+**Claim.** The Isaiah apocalypse begins with the earth emptied, and every distinction of rank cancelled by the same judgment: 'as with the people, so with the priest; as with the servant, so with his master… as with the creditor, so with the debtor.' The earth 'polluted under its inhabitants, because they have… broken the everlasting covenant' — C01's moral order reaching the ground itself. Every source of mirth ceases, which is C18's lesson written across a whole world.
+
+**Tags.** pillars: truth, humility · stages: S1, S4 · chapters: C01, C18 · practices: none · confidence: medium
+
+---
+
+## 27. Isaiah 25:1-12 — He will wipe away tears from off all faces
+
+> **25:1** Yahweh, you are my God. I will exalt you! I will praise your name, for you have done wonderful things, things planned long ago, in complete faithfulness and truth.
+> **25:2** For you have made a city into a heap, a fortified city into a ruin, a palace of strangers to be no city. It will never be built.
+> **25:3** Therefore a strong people will glorify you. A city of awesome nations will fear you.
+> **25:4** For you have been a stronghold to the poor, a stronghold to the needy in his distress, a refuge from the storm, a shade from the heat, when the blast of the dreaded ones is like a storm against the wall.
+> **25:5** As the heat in a dry place will you bring down the noise of strangers; as the heat by the shade of a cloud, the song of the dreaded ones will be brought low.
+> **25:6** In this mountain, Yahweh of Armies will make all peoples a feast of fat things, a feast of choice wines, of fat things full of marrow, of well refined choice wines.
+> **25:7** He will destroy in this mountain the surface of the covering that covers all peoples, and the veil that is spread over all nations.
+> **25:8** He has swallowed up death forever! The Lord Yahweh will wipe away tears from off all faces. He will take the reproach of his people away from off all the earth, for Yahweh has spoken it.
+> **25:9** It shall be said in that day, “Behold, this is our God! We have waited for him, and he will save us! This is Yahweh! We have waited for him. We will be glad and rejoice in his salvation!”
+> **25:10** For in this mountain the hand of Yahweh will rest. Moab will be trodden down in his place, even like straw is trodden down in the water of the dunghill.
+> **25:11** He will spread out his hands in its midst, like one who swims spreads out hands to swim, but his pride will be humbled together with the craft of his hands.
+> **25:12** He has brought the high fortress of your walls down, laid low, and brought to the ground, even to the dust.
+
+**Claim.** 'You have been a stronghold to the poor, a stronghold to the needy in his distress.' Then the feast on the mountain 'for all peoples… He will destroy… the veil that is spread over all nations. He has swallowed up death forever! The Lord Yahweh will wipe away tears from off all faces.' C27's widest circle, C19's final healing, and C16's poor at its foundation. Revelation 21:4 takes its words from here. The oracle against Moab that closes the chapter (25:10-12) is part of the pericope's argument and not what it anchors.
+
+**Tags.** pillars: mercy · stages: S4, S5, S7 · chapters: C27, C19, C16 · practices: none · confidence: high
+
+---
+
+## 28. Isaiah 26:1-21 — You will keep whoever's mind is steadfast in perfect peace… Come, my people, enter into your rooms, and shut your doors
+
+> **26:1** In that day, this song will be sung in the land of Judah: “We have a strong city. God appoints salvation for walls and bulwarks.
+> **26:2** Open the gates, that the righteous nation may enter: the one which keeps faith.
+> **26:3** You will keep whoever’s mind is steadfast in perfect peace, because he trusts in you.
+> **26:4** Trust in Yahweh forever; for in Yah, Yahweh, is an everlasting Rock.
+> **26:5** For he has brought down those who dwell on high, the lofty city. He lays it low. He lays it low even to the ground. He brings it even to the dust.
+> **26:6** The foot shall tread it down; Even the feet of the poor, and the steps of the needy.”
+> **26:7** The way of the just is uprightness. You who are upright make the path of the righteous level.
+> **26:8** Yes, in the way of your judgments, Yahweh, have we waited for you. Your name and your renown are the desire of our soul.
+> **26:9** With my soul have I desired you in the night. Yes, with my spirit within me will I seek you earnestly; for when your judgments are in the earth, the inhabitants of the world learn righteousness.
+> **26:10** Let favor be shown to the wicked, yet he will not learn righteousness. In the land of uprightness he will deal wrongfully, and will not see Yahweh’s majesty.
+> **26:11** Yahweh, your hand is lifted up, yet they don’t see; but they will see your zeal for the people, and be disappointed. Yes, fire will consume your adversaries.
+> **26:12** Yahweh, you will ordain peace for us, for you have also worked all our works for us.
+> **26:13** Yahweh our God, other lords besides you have had dominion over us, but by you only will we make mention of your name.
+> **26:14** The dead shall not live. The deceased shall not rise. Therefore have you visited and destroyed them, and caused all memory of them to perish.
+> **26:15** You have increased the nation, O Yahweh. You have increased the nation! You are glorified! You have enlarged all the borders of the land.
+> **26:16** Yahweh, in trouble they have visited you. They poured out a prayer when your chastening was on them.
+> **26:17** Like as a woman with child, who draws near the time of her delivery, is in pain and cries out in her pangs; so we have been before you, Yahweh.
+> **26:18** We have been with child. We have been in pain. We gave birth, it seems, only to wind. We have not worked any deliverance in the earth; neither have the inhabitants of the world fallen.
+> **26:19** Your dead shall live. My dead bodies shall arise. Awake and sing, you who dwell in the dust; for your dew is like the dew of herbs, and the earth will cast forth the dead.
+> **26:20** Come, my people, enter into your rooms, and shut your doors behind you. Hide yourself for a little moment, until the indignation is past.
+> **26:21** For, behold, Yahweh comes forth out of his place to punish the inhabitants of the earth for their iniquity. The earth also will disclose her blood, and will no longer cover her slain.
+
+**Claim.** 'You will keep whoever's mind is steadfast in perfect peace, because he trusts in you' — C22's quiet soul in its most quoted form. 'With my soul have I desired you in the night' is C09's longing. And at the end, an instruction that Matthew 6:6 echoes: 'Come, my people, enter into your rooms, and shut your doors behind you. Hide yourself for a little moment.' The confession in the middle is unusually honest: 'We have been with child. We have been in pain. We gave birth, it seems, only to wind.'
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S3, S5 · chapters: C22, C09 · practices: none · confidence: high
+
+---
+
+## 29. Isaiah 27:1-13 — A pleasant vineyard! I, Yahweh, am its keeper… Let him make peace with me
+
+> **27:1** In that day, Yahweh with his hard and great and strong sword will punish leviathan, the fleeing serpent, and leviathan the twisted serpent; and he will kill the dragon that is in the sea.
+> **27:2** In that day, sing to her, “A pleasant vineyard!
+> **27:3** I, Yahweh, am its keeper. I will water it every moment. Lest anyone damage it, I will keep it night and day.
+> **27:4** Wrath is not in me, but if I should find briers and thorns, I would do battle! I would march on them and I would burn them together.
+> **27:5** Or else let him take hold of my strength, that he may make peace with me. Let him make peace with me.”
+> **27:6** In days to come, Jacob will take root. Israel will blossom and bud. They will fill the surface of the world with fruit.
+> **27:7** Has he struck them as he struck those who struck them? Or are they killed like those who killed them were killed?
+> **27:8** In measure, when you send them away, you contend with them. He has removed them with his rough blast in the day of the east wind.
+> **27:9** Therefore, by this the iniquity of Jacob will be forgiven, and this is all the fruit of taking away his sin: that he makes all the stones of the altar as chalk stones that are beaten in pieces, so that the Asherim and the incense altars shall rise no more.
+> **27:10** For the fortified city is solitary, a habitation deserted and forsaken, like the wilderness. The calf will feed there, and there he will lie down, and consume its branches.
+> **27:11** When its boughs are withered, they will be broken off. The women will come and set them on fire, for they are a people of no understanding. Therefore he who made them will not have compassion on them, and he who formed them will show them no favor.
+> **27:12** It will happen in that day, that Yahweh will thresh from the flowing stream of the Euphrates to the brook of Egypt; and you will be gathered one by one, children of Israel.
+> **27:13** It will happen in that day that a great trumpet will be blown; and those who were ready to perish in the land of Assyria, and those who were outcasts in the land of Egypt, shall come; and they will worship Yahweh in the holy mountain at Jerusalem.
+
+**Claim.** The second song of the vineyard answers the first (5:1-7). Now the keeper says, 'I will water it every moment. Lest anyone damage it, I will keep it night and day. Wrath is not in me.' And to any who oppose it: 'let him take hold of my strength, that he may make peace with me. Let him make peace with me.' 'Israel will blossom and bud. They will fill the surface of the world with fruit.' C11's vine tended rather than abandoned, and C15's peace offered twice to an adversary.
+
+**Tags.** pillars: mercy · stages: S3, S4 · chapters: C11, C15 · practices: none · confidence: medium
 
 ---
 

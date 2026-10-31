@@ -1,0 +1,414 @@
+{
+  "book": "Ephesians",
+  "translation": "World English Bible (public domain)",
+  "status": "complete — 149 of 155 verses; the greeting (1:1-2) and closing (6:21-24) are unindexed; awaiting second-pass review",
+  "method_version": "2.3",
+  "text_source": "index/text/ephesians.json",
+  "note": "A letter in two halves — three chapters on what God has done in joining the far and the near, three on how to walk in it — with the household code in its most developed form. Three entries carry prior citations from C04 and the Scriptural Appendix (2:8-9, 4:13, 4:22-24) and serve as the calibration set.",
+  "prediction_note": "The indexing order named Ephesians 'the likeliest anchor for PR24, the Compass.' PR24 is tagged at 2:11-22, at medium confidence, with the case set out in the entry. This is the entry in the book most worth a second reader's scrutiny: the passage shows the Compass's geometry as an act of God rather than prescribing the practice to the reader, and the drafter has treated that as enactment. If the reviewer reads it as describing the structure the practice rests on — the condition, not the practice — the tag should come off and PR24 should remain unanchored. A related observation for the next review cycle, outside this file: 1 John 4:20-21 ('he who doesn't love his brother whom he has seen, how can he love God whom he has not seen?') is arguably the prescriptive form of PR24 and is currently tagged only PR15. It is not changed here because 1 John is reviewed and settled; it is recorded as a gap proposal.",
+  "coverage_note": "Greeting and closing left out, as elsewhere. The household instructions (5:22-6:9) are indexed with the same guard as in 1 Peter and Colossians. PR27 and PR28 are not reached; 4:28 comes near PR28 and is declined in its entry.",
+  "entries": [
+    {
+      "ref": "Ephesians 1:3-14",
+      "pericope": "To sum up all things in Christ",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C24"
+      ],
+      "practices": [],
+      "connection": "One long sentence of blessing, in which every verb belongs to God — chose, adopted, redeemed, made known, sealed — and the human part is to be the praise of it. Forgiveness 'according to the riches of his grace' is C19's ground. The purpose named, to gather up all things in heaven and earth in one, is set out as a mystery disclosed rather than a system mastered, which is the posture C24 asks for.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 1:15-23",
+      "pericope": "Having the eyes of your hearts enlightened",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C06"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The prayer is for sight, and the organ of sight is the heart: 'having the eyes of your hearts enlightened, that you may know.' C06 is built around the prayer of Psalm 119:18, open my eyes, and this is the same prayer prayed by an apostle for a congregation. What they are to see is not new information but the hope, the inheritance, and the power already present.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 2:1-10",
+      "pericope": "By grace you have been saved through faith; created for good works",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "C04 sets 2:8-9 beside James 2:14-17 and reads them as root and fruit: saved by grace and not by works, so that no one boasts — and then, in the next verse, 'created in Christ Jesus for good works.' The passage contains both halves of that reading itself. The movement from dead to alive by mercy, 'rich in mercy, for his great love,' is C19's door.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Ephesians 2:11-22",
+      "pericope": "You who once were far off are made near",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C15",
+        "C26"
+      ],
+      "practices": [
+        "PR24"
+      ],
+      "mode": "exemplifies",
+      "connection": "The Compass is Dorotheos's image: God at the centre of a circle, people scattered on the rim, so that whoever walks the radius inward necessarily draws nearer to everyone else on it. This passage gives that geometry as something God has done. The far off are made near 'in the blood of Christ'; in the same act the wall between the two estranged peoples is broken and both are reconciled 'in one body to God'; and the result is that 'through him we both have our access in one Spirit to the Father.' Nearness to God and nearness to the estranged neighbour are not two achievements here but one movement. That is the case for the tag, and it is offered at medium because the passage describes the structure accomplished rather than commanding the reader to walk it; 4:1-6 supplies the command. Peace built rather than found is C15, and the people built into 'a holy temple in the Lord' is C26.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 3:1-13",
+      "pericope": "To me, the very least of all saints, was this grace given",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The content of the disclosed mystery is a widening — the Gentiles fellow heirs, fellow members, fellow partakers — which is C27's circle extended to those the covenant people had counted outside it, as Isaiah 56:7 promised. The one entrusted with announcing it describes himself as a prisoner and 'the very least of all saints,' authority held as service in the C16 manner.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 3:14-21",
+      "pericope": "To know Christ's love which surpasses knowledge",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C11",
+        "C24"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "The prayer asks that Christ 'dwell in your hearts' and that they be 'rooted and grounded in love' — C11's indwelling in its root image. Then it asks them to comprehend the dimensions of something and to know 'Christ's love which surpasses knowledge.' Knowing truly what cannot be fully known is the Discipline of Unknowing in its exact form: not scepticism, since the love is known, and not mastery, since it surpasses the knowing. The doxology to one able to do 'above all that we ask or think' closes the same thought.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 4:1-6",
+      "pericope": "Bearing with one another in love; one God and Father of all",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
+      "practices": [
+        "PR09"
+      ],
+      "mode": "prescribes",
+      "connection": "The first command of the letter's second half is a manner — lowliness, humility, patience, bearing with one another — in service of an aim: 'being eager to keep the unity of the Spirit in the bond of peace.' Bearing with one another assumes friction, and the aim given for it is the body kept whole, which is the Architecture of Peace. The grounding, 'one God and Father of all, who is over all, and through all, and in us all,' is the premise from which the Compass at 2:11-22 follows, given here as the reason to keep the peace.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 4:7-16",
+      "pericope": "To a full grown man, to the measure of the stature of the fullness of Christ",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C29",
+        "C25",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix takes 4:13 as the naming of the destination, and C29 is that destination. The way there is growth — 'that we may no longer be children… but… grow up in all things' — which is C25's, and the danger to growth is being 'carried about with every wind of doctrine, by the trickery of men,' which is C08's. 'Speaking truth in love' is the two pillars of the curriculum in three words.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Ephesians 4:17-24",
+      "pericope": "Be renewed in the spirit of your mind, and put on the new man",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C07",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix reads 4:22-24 as the active command to put off the old and be renewed — the preparing of the altar in C26. The verses before it diagnose the alternative in sequence: a darkened understanding 'because of the hardening of their hearts,' then callousness, then surrender to lust 'with greediness.' Sight clouded by the condition of the heart is C07; the progression from hardening to enslavement, each stage producing the next, is C21's anatomy of a failure.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Ephesians 4:25-27",
+      "pericope": "Don't let the sun go down on your wrath, neither give place to the devil",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C22"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "Anger is permitted to arrive — 'be angry, and don't sin' — and forbidden to stay: not past sundown, and not given 'place.' That is the precise discipline of Watchfulness, which does not fight the arriving thought or emotion but refuses it a seat at the table, because the damage is done during the hospitality and not the arrival. The context is speech with the neighbour, 'for we are members of one another,' which places it in C22's territory of conflict.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 4:28",
+      "pericope": "Let him labor, that he may have something to give to him who has need",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C16"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "The reform of a thief is not merely that he stops but that he works 'with his hands the thing that is good' and the stated purpose of the work is to have something to give. Labour aimed at a surplus for the needy is Habitual Almsgiving built into the shape of ordinary work, C13's faithfulness and C16's service in the same sentence. PR28 is not tagged; the practice concerns a surplus diverted from luxury, and here the surplus is being created for the first time.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 4:29-32",
+      "pericope": "Such as is good for building up, that it may give grace to those who hear",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Speech is to be measured by what it gives its hearers 'as the need may be,' and bitterness, wrath, outcry, and slander put away; the paragraph ends in forgiveness patterned on God's. The speech audit of C04 and the quiet soul of C22. PR21 was considered and declined. Speech that gives grace according to need comes close to Verbal Almsgiving, and following immediately on 4:28's material giving, the pairing is suggestive. But PR21 is specifically the alms of those without material means, offered to the discouraged and isolated, and this passage addresses everyone's speech with no such limit — the distinction that has drawn PR21 in error before.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 5:1-2",
+      "pericope": "Be therefore imitators of God, as beloved children",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C05",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Imitation is the method, and the model is God; the content of the imitation is love that gives itself up. C05's apprenticeship and C27's summit in two verses, with the order of the curriculum preserved: one learns by imitating, and what one is learning is a self-giving love.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 5:3-14",
+      "pericope": "Walk as children of light",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C12"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Light is defined by its fruit — 'all goodness and righteousness and truth' — and by what it does to the hidden: things reproved 'are revealed by the light.' That is the walking-in-the-light test C12 takes from 1 John 1:6-7, stated in Pauline terms.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 5:15-21",
+      "pericope": "Watch carefully how you walk, redeeming the time",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Attention to the walk itself, and to time as something to be bought back 'because the days are evil.' The day as the unit of formation is C28's; the careful watching of how one walks is C20's. Thanksgiving 'always concerning all things' and mutual subjection 'one to another' close the paragraph and govern the household instructions that follow.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 5:22-33",
+      "pericope": "Husbands, love your wives, even as Christ also loved the assembly, and gave himself up",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The household code is introduced by mutual subjection (5:21) and its longest command is to the husband, whose headship is defined entirely by self-giving: love as Christ loved, 'and gave himself up for it'; nourish and cherish. Authority defined as service is C16's argument applied inside the home, which is C14. The instruction to wives sits inside a first-century household code; the index anchors the redefinition of the stronger party's role, and the curriculum's guard against loyalty used to keep someone in harm applies.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 6:1-4",
+      "pericope": "Fathers, don't provoke your children to wrath, but nurture them",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Children are given the commandment with a promise; fathers are given a prohibition and a duty — do not provoke, but nurture in the discipline and instruction of the Lord. As in Colossians, the parent's conduct is measured by what it produces in the child. C14's household in order.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 6:5-9",
+      "pericope": "Not in the way of service only when eyes are on you",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C13"
+      ],
+      "practices": [
+        "PR13",
+        "PR23"
+      ],
+      "mode": "prescribes",
+      "connection": "The parallel of Colossians 3:22-4:1, with the same temptation named — 'service only when eyes are on you, as men pleasers' — and the same answer: doing the will of God 'from the heart,' as to the Lord and not to men. That is the Hidden Life's question and the Sacrament of the Ordinary's location. Addressed to slaves, whose situation the index does not commend; masters are told to 'give up threatening,' under a Master of their own with no partiality.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ephesians 6:10-20",
+      "pericope": "Our wrestling is not against flesh and blood",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C09"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The armour is defensive except for the word, and the posture commanded is standing — 'having done all, to stand.' The watchman of C20 with his equipment named, and prayer 'at all times in the Spirit… being watchful' as C09's secret place kept open. That the struggle is 'not against flesh and blood' shares a subject with Absorbing the Blow, which asks that an angry person be seen as suffering rather than as the enemy; but the passage prescribes none of that practice's response — silence, nothing added to the fire, inward pity — so PR18 is not tagged.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

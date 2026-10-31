@@ -1,0 +1,265 @@
+{
+  "book": "2 Peter",
+  "translation": "World English Bible (public domain)",
+  "status": "complete — 59 of 61 verses; the epistolary greeting (1:1-2) is unindexed; awaiting second-pass review",
+  "method_version": "2.3",
+  "text_source": "index/text/2-peter.json",
+  "note": "A testament letter, written by a man expecting to die, in three movements: the ladder of virtues, the false teachers, and the delay of the day. Two entries carry prior citations — 1:4 from C26 and 1:5-7 from the Scriptural Appendix — and serve as the calibration set.",
+  "prediction_note": "The indexing order named 1:5-7 'the strongest candidate for PR27, Virtue Construction.' On the definition, it is not an anchor. PR27 is Dorotheos's house of virtues: in each friction, treat that friction as the material for a specific virtue — now patience, now forbearance, now humility. 2 Peter 1:5-7 is a sequence of virtues, each added to the one before, with no friction anywhere in view. The forecast was made from the practice's name and its building image, which is the error the review brief warns against. The passage anchors PR14 instead, which is how the Scriptural Appendix itself reads it. PR27 remains unanchored, and that is recorded as a finding rather than filled.",
+  "coverage_note": "Chapter 2 runs close to Jude and is indexed for what it shows about formation in reverse; the angels in Tartarus and the precedents of 2:4-9 are taken at their plain argumentative function and not interpreted further.",
+  "entries": [
+    {
+      "ref": "2 Peter 1:3-4",
+      "pericope": "Partakers of the divine nature",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C26"
+      ],
+      "practices": [],
+      "connection": "C26 takes 1:4 as its witness: the promise is not improved behaviour but a share in another nature, received through promises rather than achieved. The verse also names what is escaped — 'the corruption that is in the world by lust' — locating the corruption in desire, which is why C26's change comes by acquiring a new want rather than suppressing an old one.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "2 Peter 1:5-11",
+      "pericope": "In your faith supply moral excellence; and in moral excellence, knowledge",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C07"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix gives this as the staircase that cannot be climbed by skipping steps: faith, excellence, knowledge, self-control, patience, godliness, brotherly affection, love, each supplied 'in' the one before. That is the Discipline of Gradualism's claim that growth has an order and a duration. The failure is described as a defect of sight — 'blind, seeing only what is near' — which is C07's cataract. PR27 was forecast here and is not tagged: Virtue Construction treats each friction as the material for a particular virtue, and this passage names a sequence of virtues without any friction in view. It shares the practice's image of building, not its definition.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "2 Peter 1:12-15",
+      "pericope": "Though you know them, I will stir you up by reminding you",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C28"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A man who expects to die soon spends his remaining effort repeating what his readers already know and are 'established in.' The claim that formation runs on return rather than novelty is C28's — the day as the unit, the same things done again — and the praxis appendix makes the same point about the Lord's Prayer going stale: what forms you is the returning, not the freshness.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Peter 1:16-21",
+      "pericope": "A lamp shining in a dark place, until the day dawns",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The authority claimed is eyewitness, set explicitly against 'cunningly devised fables,' and the word of prophecy is pictured as a lamp in a dark place — the image of Psalm 119:105, which is C08's witness. No prophecy is of private interpretation: discernment is a public test, not an inner certainty, which is the burden of the True Prophet chapter.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Peter 2:1-3",
+      "pericope": "In covetousness they will exploit you with deceptive words",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "connection": "False teachers are identified by what they do rather than what they say: they bring heresies in secretly, they follow immoral ways, they exploit for money. The fruit test of C08 applied to teachers inside the community, with the further warning that their conduct brings 'the way of the truth' into disrepute.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Peter 2:4-9",
+      "pericope": "Righteous Lot, tormented from day to day",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "practices": [],
+      "connection": "Three precedents — angels, the flood, Sodom — establish that conduct is not a matter of indifference to God, with the deliverance of Noah and Lot set inside each judgment. That is C01's grain of reality. Lot is offered as a man distressed by what he saw and heard every day among his neighbours, though the Genesis narrative gives him a more compromised record than this summary does, and the index claims nothing for him beyond the distress.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Peter 2:10-16",
+      "pericope": "A heart trained in greed",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C08",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The portrait of the false teacher is a portrait of formation run in reverse: eyes that 'can't cease from sin,' a heart 'trained in greed,' Balaam who loved the wages of wrongdoing and had to be stopped by a donkey. The word trained is the athletic one, and the point is the one C21 makes — that a visible life is the product of an interior habituated over time. They speak evil 'in matters about which they are ignorant,' which places them among C08's false prophets by their fruit.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Peter 2:17-22",
+      "pericope": "A man is brought into bondage by whoever overcomes him",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "They promise liberty while being slaves of what has overcome them — the diagnostic principle of C21 stated as a maxim: what masters you is what you serve, whatever you call it. Those who had escaped and are 'again entangled' show what C20 is for; the proverbs of the dog and the washed sow describe a return to the old state that the washing did not reach, which is the difference between outward cleaning and inner change.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Peter 3:1-7",
+      "pericope": "For this they willfully forget",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C07"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The mockers' argument is that nothing has ever changed, and Peter's diagnosis is that they 'willfully forget' — the failure of perception is attributed to the will rather than the evidence. That is C07's claim that what clouds the eye is the condition of the one looking.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Peter 3:8-10",
+      "pericope": "One day is with the Lord as a thousand years",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C25",
+        "C27"
+      ],
+      "practices": [],
+      "connection": "What looks like slowness is reinterpreted as patience, 'not wishing that any should perish.' C25 asks the reader to take stock over years rather than days because the change is real but slower than the eye; here the same correction is applied to God's dealings, and the reason given for the delay is the widest possible circle of mercy, which is C27's. The patience described is God's, not the reader's, so PR14 is not tagged.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Peter 3:11-13",
+      "pericope": "What kind of people ought you to be",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The dissolution of the visible order is drawn on for one practical question — what kind of people ought you to be — rather than for speculation about its timing. C18's detachment is exactly this: the passing of what one holds used as a reason to hold it differently now.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Peter 3:14-16",
+      "pericope": "Some things that are hard to understand",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C15"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "An apostle says of another apostle's letters that some things in them are hard to understand, and names the danger as the 'ignorant and unsettled' who twist them rather than leave them hard. That is the Discipline of Unknowing exemplified and its absence costed in one sentence: the admission of a limit, set against the closed system that forces a meaning. The instruction to be 'found in peace' and the warmth toward Paul, with whom Peter had once openly clashed, carry C15.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Peter 3:17-18",
+      "pericope": "Grow in the grace and knowledge of our Lord",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C20",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The letter closes on its two movements: beware lest you be carried away and fall from your own steadfastness (C20's guard), and grow (C25's direction). The order matters — a warning against loss, then growth as the positive form of the same steadiness.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

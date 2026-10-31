@@ -1,0 +1,1522 @@
+{
+  "book": "Mark",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/mark.json",
+  "note": "Complete. The shortest and probably earliest Gospel, indexed in four sections (1-4, 5-8, 9-12, 13-16). With Matthew, Luke and John already indexed, this completes the four Gospels. The Scriptural Appendix cites 4:26-28 for C25 and 7:21-23 for C20.",
+  "synoptic_note": "Entries carry an optional synoptic_parallel field recording the corresponding passages in Matthew and Luke where they exist. It is a plain cross-reference. Pericope boundaries follow Mark's own arrangement. Where Mark shares a pericope with an indexed parallel, the parallel's practice tags were checked and followed unless Mark's own text differs; each divergence is stated in the entry (6:30-44, 9:14-29, 10:32-45, 14:43-52). All scripture is WEB.",
+  "prediction_note": "Forecast: few new practice anchors, since most of Mark is shared with Matthew and Luke; the value lies in Mark's own material (4:26-29, 7:31-37, 8:22-26) and his details (the planned rest at 6:31, 'Jesus looking at him loved him' at 10:21, 'and Peter' at 16:7). Outcome: as forecast, with three unforecast anchors worth review — 15:42-47 (PR26, Joseph of Arimathaea), 16:7 (PR29), and 14:19 (PR03, 'Surely not I?').",
+  "coverage_note": "Not indexed: 13:24-27 (cosmic signs) and the apocalyptic figure of 13:14, which the index does not interpret; 12:35-37 (David's son); summary passages at 3:7-12 (carried inside 3:7-19) and 6:53-56. 16:9-20 is not indexed: the WEB prints it, but it is absent from the oldest manuscripts and is widely regarded as a later addition, and its contents are indexed where they occur in the other Gospels and Acts.",
+  "entries": [
+    {
+      "ref": "Mark 1:1-8",
+      "pericope": "After me comes he who is mightier than I, the thong of whose sandals I am not worthy to stoop down and loosen",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Mark begins without a birth narrative, at the river. John preaches 'the baptism of repentance for forgiveness of sins,' and the whole region comes 'confessing their sins.' His own message points away from himself: 'After me comes he who is mightier than I, the thong of whose sandals I am not worthy to stoop down and loosen.' C08's true prophet, whose work is to make room for another, and C22's humility in the most popular preacher in the country.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 3:1-12; Luke 3:1-18"
+    },
+    {
+      "ref": "Mark 1:9-13",
+      "pericope": "You are my beloved Son, in whom I am well pleased. Immediately the Spirit drove him out into the wilderness",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "The voice at the baptism — 'You are my beloved Son, in whom I am well pleased' — comes before any public work has been done. C19's belovedness, given first. 'Immediately the Spirit drove him out into the wilderness. He was there in the wilderness forty days tempted by Satan. He was with the wild animals; and the angels were serving him.' Mark compresses the temptation to two verses; the fuller account is indexed at Matthew 4 and Luke 4. C20's gate tested at the very start.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 3:13-4:11; Luke 3:21-22, 4:1-13"
+    },
+    {
+      "ref": "Mark 1:14-20",
+      "pericope": "Immediately they left their nets, and followed him… they left their father, Zebedee, in the boat with the hired servants",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C05",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'The time is fulfilled, and the Kingdom of God is at hand! Repent, and believe in the Good News.' Then the first call: 'Come after me, and I will make you into fishers for men. Immediately they left their nets, and followed him.' C05's apprenticeship begins with a person, not a doctrine. James and John 'left their father, Zebedee, in the boat with the hired servants' — C18's detachment from livelihood and family, with the cost visible in a single detail.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 4:12-22"
+    },
+    {
+      "ref": "Mark 1:21-34",
+      "pericope": "He came and took her by the hand, and raised her up. The fever left her, and she served them",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C13"
+      ],
+      "practices": [],
+      "connection": "A Sabbath in Capernaum: teaching 'as having authority, and not as the scribes,' an unclean spirit silenced, and then a house. 'Simon's wife's mother lay sick with a fever… He came and took her by the hand, and raised her up. The fever left her, and she served them.' The first response to being healed is service — C16 — in an ordinary household on an ordinary evening, C13. 'At evening, when the sun had set, they brought to him all who were sick… All the city was gathered together at the door.'",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 8:14-17; Luke 4:31-41"
+    },
+    {
+      "ref": "Mark 1:35-39",
+      "pericope": "Early in the morning, while it was still dark, he rose up and went out, and departed into a deserted place, and prayed there",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C09",
+        "C23"
+      ],
+      "practices": [
+        "PR07",
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "The day after the city gathered at his door: 'Early in the morning, while it was still dark, he rose up and went out, and departed into a deserted place, and prayed there.' The Daily Anchors' morning set before the demands begin, and the Hidden Life's unwitnessed prayer — C09's secret place, C23's hiddenness. The disciples hunt him down with the day's agenda: 'Everyone is looking for you.' His answer comes out of the prayer, not the crowd: 'Let's go elsewhere into the next towns, that I may preach there also, because I came out for this reason.' Tagged as at Luke 5:12-16.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Luke 4:42-44"
+    },
+    {
+      "ref": "Mark 1:40-45",
+      "pericope": "Being moved with compassion, he stretched out his hand, and touched him, and said to him, 'I want to. Be made clean.'",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C03",
+        "C16"
+      ],
+      "practices": [],
+      "connection": "'A leper came to him, begging him, kneeling down to him, and saying to him, \"If you want to, you can make me clean.\" Being moved with compassion, he stretched out his hand, and touched him.' The touch comes before the cleansing — the untouchable is touched while still untouchable. C03's mercy, which begins with the will ('I want to'), and C16's service that crosses the line others keep. The command to tell no one, disobeyed at once, costs Jesus his freedom to enter the towns.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 8:1-4; Luke 5:12-16"
+    },
+    {
+      "ref": "Mark 2:1-12",
+      "pericope": "Four people came, carrying a paralytic to him… they removed the roof where he was",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C13",
+        "C16",
+        "C19"
+      ],
+      "practices": [
+        "PR19"
+      ],
+      "mode": "exemplifies",
+      "connection": "'Four people came, carrying a paralytic to him. When they could not come near to him for the crowd, they removed the roof where he was.' The friends stop whatever else they were doing and take the roof apart — Spontaneous Service, tagged as at Luke 5:17-26. 'Jesus, seeing their faith' — theirs, not only his — 'said to the paralytic, \"Son, your sins are forgiven you.\"' C19's forgiveness before the healing, and C13's community, whose faith carries one who cannot walk.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 9:1-8; Luke 5:17-26"
+    },
+    {
+      "ref": "Mark 2:13-17",
+      "pericope": "Those who are healthy have no need for a physician, but those who are sick. I came not to call the righteous, but sinners to repentance",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C21",
+        "C14"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "Levi called from the tax office, and then a meal: 'many tax collectors and sinners sat down with Jesus and his disciples.' The objection — 'Why is it that he eats and drinks with tax collectors and sinners?' — is answered with C21's image: 'Those who are healthy have no need for a physician, but those who are sick.' Merciful Reintegration's 'sympathetic physician rather than a judge,' tagged as at Luke 5:27-32. C19's door and C14's table.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 9:9-13; Luke 5:27-32"
+    },
+    {
+      "ref": "Mark 2:18-22",
+      "pericope": "No one puts new wine into old wineskins",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C06"
+      ],
+      "practices": [],
+      "connection": "Asked why his disciples do not fast, Jesus answers with a wedding — 'Can the groomsmen fast while the bridegroom is with them?' — and then two images of incompatibility: unshrunk cloth on an old garment, new wine in old skins. 'They put new wine into fresh wineskins.' C06's recognition that what has arrived cannot be contained in the forms that anticipated it.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 9:14-17; Luke 5:33-39"
+    },
+    {
+      "ref": "Mark 2:23-3:6",
+      "pericope": "The Sabbath was made for man, not man for the Sabbath… being grieved at the hardening of their hearts",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C06",
+        "C03"
+      ],
+      "practices": [],
+      "connection": "Two Sabbath controversies. In the grain fields: 'The Sabbath was made for man, not man for the Sabbath' — C06's reading of the law by its purpose. In the synagogue, a man with a withered hand and observers waiting to accuse: 'Is it lawful on the Sabbath day to do good, or to do harm? To save a life, or to kill? But they were silent. When he had looked around at them with anger, being grieved at the hardening of their hearts, he said to the man, \"Stretch out your hand.\"' Mark alone records both the anger and the grief together. C03's mercy as the meaning of the rule. As at Luke 6:1-11, no practice is tagged.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 12:1-14; Luke 6:1-11"
+    },
+    {
+      "ref": "Mark 3:7-19",
+      "pericope": "He appointed twelve, that they might be with him, and that he might send them out to preach",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C05",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'He went up into the mountain, and called to himself those whom he wanted… He appointed twelve, that they might be with him, and that he might send them out.' The order is C05's: first presence, then mission — they are with him before they are sent. The list runs from Simon, renamed Peter, to 'Judas Iscariot, who also betrayed him,' and includes both Matthew the tax collector and Simon the Zealot. C13's community assembled from people who would not have chosen each other.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 10:1-4; Luke 6:12-16"
+    },
+    {
+      "ref": "Mark 3:20-30",
+      "pericope": "When his friends heard it, they went out to seize him: for they said, 'He is insane.'… If a house is divided against itself, that house cannot stand",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C07",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Two misreadings in sequence. His family: 'they went out to seize him: for they said, \"He is insane.\"' The scribes from Jerusalem: 'He has Beelzebul.' C07's darkened lens at its extreme — the work of healing called the work of the devil. C08's test by fruit inverted. Jesus answers with logic ('How can Satan cast out Satan?') and a warning about the one sin that cannot be forgiven, explained by Mark himself: 'because they said, \"He has an unclean spirit.\"'",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 12:22-32"
+    },
+    {
+      "ref": "Mark 3:31-35",
+      "pericope": "Looking around at those who sat around him, he said, 'Behold, my mother and my brothers! For whoever does the will of God, the same is my brother, and my sister, and mother.'",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C14"
+      ],
+      "practices": [],
+      "connection": "His family stands outside calling for him. 'Who are my mother and my brothers? Looking around at those who sat around him, he said, \"Behold, my mother and my brothers! For whoever does the will of God, the same is my brother, and my sister, and mother.\"' C14's household redrawn around obedience, and C13's community as a family — not replacing kin, but extending the word to everyone in the room.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 12:46-50; Luke 8:19-21"
+    },
+    {
+      "ref": "Mark 4:1-20",
+      "pericope": "The cares of this age, and the deceitfulness of riches, and the lusts of other things entering in choke the word, and it becomes unfruitful",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C11",
+        "C18",
+        "C21"
+      ],
+      "practices": [],
+      "connection": "The sower and its interpretation. Four soils, four outcomes: the word taken away at once, the word received with joy but without root, the word choked, the word bearing fruit. C11's fruit as the measure. The thorny ground is the most precisely described: 'the cares of this age, and the deceitfulness of riches, and the lusts of other things entering in choke the word, and it becomes unfruitful' — C18's diagnosis of what crowds out growth, and C21's account of failure that is gradual rather than dramatic. As at Luke 8:4-15, no practice is tagged.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 13:1-23; Luke 8:4-15"
+    },
+    {
+      "ref": "Mark 4:21-25",
+      "pericope": "Take heed what you hear. With whatever measure you measure, it will be measured to you",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C12"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "The lamp is not put 'under a basket or under a bed'; 'there is nothing hidden, except that it should be made known.' Then: 'Take heed what you hear. With whatever measure you measure, it will be measured to you, and more will be given to you who hear.' Watchfulness over what is let in — tagged as at Luke 8:16-18. C20's gate kept at the ear.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Luke 8:16-18"
+    },
+    {
+      "ref": "Mark 4:26-29",
+      "pericope": "The seed should spring up and grow, he doesn't know how. For the earth bears fruit: first the blade, then the ear, then the full grain in the ear",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [
+        "PR14",
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix cites 4:26-28 for C25: 'the mechanism of gradual growth: first the blade, then the ear, then the full grain, and the farmer doesn't know how.' C25 quotes it directly. Found only in Mark. 'The Kingdom of God is as if a man should cast seed on the earth, and should sleep and rise night and day, and the seed should spring up and grow, he doesn't know how.' The Discipline of Gradualism's whole claim — growth in stages that cannot be skipped or hurried — and the Discipline of Unknowing in the farmer who sleeps and does not understand, and does not need to. The work is sowing and waiting; the growth is not his.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Mark 4:30-34",
+      "pericope": "It's like a grain of mustard seed… With many such parables he spoke the word to them, as they were able to hear it",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C05"
+      ],
+      "practices": [],
+      "connection": "The mustard seed, 'less than all the seeds that are on the earth,' becomes the largest of garden plants, with shade for birds. C25's growth from almost nothing. Then a note on method: 'With many such parables he spoke the word to them, as they were able to hear it.' Teaching paced to the hearer — C05's master, who gives what can be received now.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 13:31-35; Luke 13:18-19"
+    },
+    {
+      "ref": "Mark 4:35-41",
+      "pericope": "He himself was in the stern, asleep on the cushion… 'Teacher, don't you care that we are dying?'… 'Peace! Be still!'",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C22",
+        "C24"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The storm fills the boat, and Jesus is 'in the stern, asleep on the cushion.' C22's quiet soul, literally asleep in the storm. The disciples' question is the one every sufferer asks: 'Teacher, don't you care that we are dying?' He rebukes the wind — 'Peace! Be still!' — and then them: 'Why are you so afraid? How is it that you have no faith?' The calm produces a greater fear: 'Who then is this, that even the wind and the sea obey him?' C24's awe.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 8:23-27; Luke 8:22-25"
+    },
+    {
+      "ref": "Mark 5:1-20",
+      "pericope": "Sitting, clothed, and in his right mind… Go to your house, to your friends, and tell them what great things the Lord has done for you, and how he had mercy on you",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C14",
+        "C21"
+      ],
+      "practices": [],
+      "connection": "A man living among the tombs, 'crying out, and cutting himself with stones,' whom 'nobody had the strength to tame.' C21's description of a life wholly under another's power. After: 'sitting, clothed, and in his right mind' — and the town, seeing him healed and the pigs drowned, 'began to beg him to depart from their region.' The healed man asks to follow; he is sent home instead: 'Go to your house, to your friends, and tell them what great things the Lord has done for you, and how he had mercy on you.' C19's mercy, and C14's household as the first place of witness.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 8:28-34; Luke 8:26-39"
+    },
+    {
+      "ref": "Mark 5:21-43",
+      "pericope": "Who touched my clothes?… the woman, fearing and trembling… told him all the truth. He said to her, 'Daughter, your faith has made you well.'",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C03"
+      ],
+      "practices": [
+        "PR16",
+        "PR19"
+      ],
+      "mode": "exemplifies",
+      "connection": "Jairus's daughter is dying, and Jesus is on his way. A woman who 'had suffered many things by many physicians, and had spent all that she had, and was no better, but rather grew worse' touches his clothes and is healed. He stops anyway: 'Who touched my clothes?' The disciples think it absurd; he keeps looking until she comes, 'fearing and trembling,' and 'told him all the truth.' Listening as Mercy — he hears the whole story, and she leaves with a name ('Daughter') and not only a cure. Spontaneous Service in the interruption accepted while an urgent errand waits. Tagged as at Luke 8:40-56. Then the message — 'Your daughter is dead. Why bother the Teacher any more?' — and 'Don't be afraid, only believe.' 'Talitha cumi!' And a final practical detail: he 'commanded that something should be given to her to eat.'",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 9:18-26; Luke 8:40-56"
+    },
+    {
+      "ref": "Mark 6:1-6",
+      "pericope": "Isn't this the carpenter, the son of Mary?… They were offended at him… He marveled because of their unbelief",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C07",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "His hometown cannot get past what it already knows: 'Isn't this the carpenter, the son of Mary, and brother of James, Joses, Judah, and Simon? Aren't his sisters here with us? They were offended at him.' C07's lens fogged by familiarity — they cannot see what is in front of them because they have seen it every day. And C13's ordinary life as the disguise: the incarnation spent years as a tradesman in a village. 'He could do no mighty work there… He marveled because of their unbelief.'",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 13:53-58"
+    },
+    {
+      "ref": "Mark 6:7-13",
+      "pericope": "He commanded them that they should take nothing for their journey, except a staff only: no bread, no wallet, no money in their purse",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The twelve sent out 'two by two' with almost nothing: 'take nothing for their journey, except a staff only: no bread, no wallet, no money in their purse.' C18's detachment as a working condition — dependence on the hospitality of strangers is part of the message. 'Wherever you enter into a house, stay there until you depart.' C16's service carried on foot.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 10:5-15; Luke 9:1-6"
+    },
+    {
+      "ref": "Mark 6:14-29",
+      "pericope": "The king was exceedingly sorry, but for the sake of his oaths, and of his dinner guests, he didn't wish to refuse her",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Herod 'feared John, knowing that he was a righteous and holy man, and kept him safe. When he heard him, he did many things, and he heard him gladly.' A man drawn to the truth and unable to act on it. At his birthday feast, an oath made in front of guests: 'The king was exceedingly sorry, but for the sake of his oaths, and of his dinner guests, he didn't wish to refuse her.' C21's anatomy of a fall: not malice but the fear of losing face in front of the room. C08's true prophet, who told the king 'It is not lawful for you to have your brother's wife,' pays for it with his head.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 14:1-12"
+    },
+    {
+      "ref": "Mark 6:30-44",
+      "pericope": "You come apart into a deserted place, and rest awhile… he had compassion on them, because they were like sheep without a shepherd… You give them something to eat",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C03",
+        "C22"
+      ],
+      "practices": [
+        "PR19"
+      ],
+      "mode": "exemplifies",
+      "connection": "The apostles return exhausted — 'there were many coming and going, and they had no leisure so much as to eat' — and Jesus plans rest: 'You come apart into a deserted place, and rest awhile.' C22's rest, prescribed. The crowd arrives first. 'Jesus came out, saw a great multitude, and he had compassion on them, because they were like sheep without a shepherd, and he began to teach them many things.' Spontaneous Service in the interruption received as the actual work — Mark, unlike Luke 9:10-17, records the planned rest that was given up, which is why the tag appears here and not there (medium). Then: 'You give them something to eat.' Five loaves, two fish, groups on the green grass, twelve baskets left. C16 and C03.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 14:13-21; Luke 9:10-17"
+    },
+    {
+      "ref": "Mark 6:45-52",
+      "pericope": "After he had taken leave of them, he went up the mountain to pray… 'Cheer up! It is I! Don't be afraid.'",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C09",
+        "C22"
+      ],
+      "practices": [
+        "PR07"
+      ],
+      "mode": "exemplifies",
+      "connection": "After feeding the five thousand, he sends the disciples ahead and the crowd away, 'and after he had taken leave of them, he went up the mountain to pray.' The rhythm of withdrawal kept even after success — the Daily Anchors and C09's secret place (medium; tagged as at Luke 6:12-16). From the mountain he sees them 'distressed in rowing, for the wind was contrary.' He comes walking on the sea: 'Cheer up! It is I! Don't be afraid.' C22. Mark ends the scene unflatteringly: 'they hadn't understood about the loaves, but their hearts were hardened.'",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 14:22-33"
+    },
+    {
+      "ref": "Mark 7:1-13",
+      "pericope": "This people honors me with their lips, but their heart is far from me… you no longer allow him to do anything for his father or his mother",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C06",
+        "C14",
+        "C04"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Unwashed hands as the occasion, and Isaiah as the verdict: 'This people honors me with their lips, but their heart is far from me.' Then a specific case: a man declares his resources 'Corban, that is to say, given to God,' and is then excused from supporting his aged parents — 'making void the word of God by your tradition.' Religious devotion used to evade C14's household duty. C06's letter against spirit, and C04's audit of consistency: the gift to God that conveniently costs the giver nothing and costs his parents everything.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 15:1-9"
+    },
+    {
+      "ref": "Mark 7:14-23",
+      "pericope": "For from within, out of the hearts of men, proceed evil thoughts… All these evil things come from within, and defile the man",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C21"
+      ],
+      "practices": [
+        "PR02",
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "The Scriptural Appendix cites 7:21-23: it 'locates the trouble within rather than in circumstances — unwelcome news, and the most hopeful sentence in the chapter, since the interior is precisely where grace has access.' C20 quotes it directly. 'There is nothing from outside of the man, that going into him can defile him; but the things which proceed out of the man are those that defile the man… For from within, out of the hearts of men, proceed evil thoughts, adulteries, sexual sins, murders, thefts, covetings, wickedness, deceit, lustful desires, an evil eye, blasphemy, pride, and foolishness.' The list begins with 'evil thoughts' — the traveller at the gate before the deed. Interior Diagnosis's search for where a failure entered is directed inward by this passage, and Watchfulness keeps the gate it names. C21's physician locating the disease.",
+      "confidence": "high",
+      "prior": true,
+      "synoptic_parallel": "Matthew 15:10-20"
+    },
+    {
+      "ref": "Mark 7:24-30",
+      "pericope": "Yes, Lord. Yet even the dogs under the table eat the children's crumbs",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "A Greek woman in the region of Tyre asks for her daughter, and receives what sounds like a refusal: 'it is not appropriate to take the children's bread and throw it to the dogs.' She does not argue her worth; she accepts the lowest place and asks from there: 'Yes, Lord. Yet even the dogs under the table eat the children's crumbs.' C22's humility that is not passive — it persists. And C19's door opened to an outsider by her own words: 'For this saying, go your way.'",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 15:21-28"
+    },
+    {
+      "ref": "Mark 7:31-37",
+      "pericope": "He took him aside from the multitude, privately… Looking up to heaven, he sighed, and said to him, 'Ephphatha!'",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C03",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Found only in Mark. A deaf man with a speech impediment is brought to him, and Jesus 'took him aside from the multitude, privately' before touching his ears and tongue. Healing done away from the crowd, at the pace and in the language of touch a deaf man could follow. 'Looking up to heaven, he sighed, and said to him, \"Ephphatha!\" that is, \"Be opened!\"' C03's mercy with its tenderness intact, and C16's service fitted to the person. The privacy protects the man's dignity, but Covering Weakness concerns a mistake that would cause public embarrassment, and that is not the situation here; PR17 is not tagged.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Mark 8:1-10",
+      "pericope": "I have compassion on the multitude, because they have stayed with me now three days, and have nothing to eat… some of them have come a long way",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C03",
+        "C16"
+      ],
+      "practices": [],
+      "connection": "The second feeding, begun not by the disciples but by Jesus noticing: 'I have compassion on the multitude, because they have stayed with me now three days, and have nothing to eat. If I send them away fasting to their home, they will faint on the way, for some of them have come a long way.' C03's mercy attentive to the practical — distance, hunger, the walk home. The disciples are asked to serve the meal: 'he… gave them to his disciples to serve, and they served the multitude.' C16.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 15:32-39"
+    },
+    {
+      "ref": "Mark 8:11-21",
+      "pericope": "Take heed: beware of the yeast of the Pharisees and the yeast of Herod… Having eyes, don't you see?… Don't you remember?",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C07",
+        "C20"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "A demand for a sign, refused with a sigh. Then in the boat: 'Take heed: beware of the yeast of the Pharisees and the yeast of Herod.' The disciples think he is talking about bread. 'Is your heart still hardened? Having eyes, don't you see? Having ears, don't you hear? Don't you remember? When I broke the five loaves among the five thousand, how many baskets full of broken pieces did you take up?' C07's eyes that do not see, and Watchfulness against the small amount of yeast that works through everything (medium). The remedy offered is memory.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 16:1-12"
+    },
+    {
+      "ref": "Mark 8:22-26",
+      "pericope": "I see men; for I see them like trees walking. Then again he laid his hands on his eyes… and saw everyone clearly",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C07",
+        "C06"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "exemplifies",
+      "connection": "The only healing in the Gospels that happens in two stages. After the first touch: 'I see men; for I see them like trees walking.' 'Then again he laid his hands on his eyes. He looked intently, and was restored, and saw everyone clearly.' Placed between the disciples' blindness (8:18) and Peter's half-sight (8:29-33), it reads as a picture of how they are coming to see. The Discipline of Gradualism — sight given in stages, the partial stage honestly reported (medium). C07 and C06: the opening of the eyes is not always instantaneous. Found only in Mark.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Mark 8:27-33",
+      "pericope": "But who do you say that I am?… Get behind me, Satan! For you have in mind not the things of God, but the things of men",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C07",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "'But who do you say that I am? Peter answered, \"You are the Christ.\"' The right answer, and moments later the wrong understanding of it. When Jesus speaks of suffering, rejection and death, 'Peter took him, and began to rebuke him.' 'Get behind me, Satan! For you have in mind not the things of God, but the things of men.' C07's half-cleansed lens — like the blind man seeing 'men like trees walking' — and C08's warning that even a true confession can carry a false expectation.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 16:13-23; Luke 9:18-22"
+    },
+    {
+      "ref": "Mark 8:34-38",
+      "pericope": "Whoever wants to come after me, let him deny himself, and take up his cross, and follow me… what does it profit a man, to gain the whole world, and forfeit his life?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C16",
+        "C05"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Spoken to 'the multitude… with his disciples,' not only to the inner circle: 'Whoever wants to come after me, let him deny himself, and take up his cross, and follow me. For whoever wants to save his life will lose it; and whoever will lose his life for my sake and the sake of the Good News will save it. For what does it profit a man, to gain the whole world, and forfeit his life?' C05's apprenticeship stated in its full cost, C18's detachment taken to its root, and C16's downward road. As at Luke 9:18-27, no single practice is tagged; the passage is the ground of all of them.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 16:24-28; Luke 9:23-27"
+    },
+    {
+      "ref": "Mark 9:1-13",
+      "pericope": "Rabbi, it is good for us to be here. Let's make three tents… For he didn't know what to say, for they were very afraid",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C06"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "On the mountain 'he was changed into another form in front of them. His clothing became glistening, exceedingly white, like snow, such as no launderer on earth can whiten them.' Peter's proposal to build tents is explained by Mark with unusual candour: 'For he didn't know what to say, for they were very afraid.' The Discipline of Unknowing in the presence of what exceeds speech, tagged as at Luke 9:28-36. C24's awe. The voice gives the only instruction: 'This is my beloved Son. Listen to him.' And then 'they saw no one with them any more, except Jesus only' — C06's sight resolved onto one figure. Coming down, 'questioning what the \"rising from the dead\" meant.'",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 17:1-13; Luke 9:28-36"
+    },
+    {
+      "ref": "Mark 9:14-29",
+      "pericope": "If you can do anything, have compassion on us, and help us… Immediately the father of the child cried out with tears, 'I believe. Help my unbelief!'",
+      "pillars": [
+        "truth",
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C09"
+      ],
+      "practices": [
+        "PR08",
+        "PR07"
+      ],
+      "mode": "exemplifies",
+      "connection": "A father whose son has suffered 'from childhood,' thrown into fire and water. The disciples have failed. His request is hedged — 'if you can do anything, have compassion on us' — and Jesus turns the 'if' back to him. 'Immediately the father of the child cried out with tears, \"I believe. Help my unbelief!\"' Sacred Lament's honesty in five words: belief and doubt confessed together, and the prayer not refused because it is mixed. Found only in Mark. Then the private lesson: 'This kind can come out by nothing, except by prayer and fasting' — the Daily Anchors, tagged as at Matthew 17:14-21. Luke 9:37-43 tags Unreciprocated Care for 'How long shall I bear with you?'; on the attractor test the crowd's unbelief is not ill-treatment of the helper, so PR22 is not tagged here, and the two entries should be reviewed together.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 17:14-21; Luke 9:37-43"
+    },
+    {
+      "ref": "Mark 9:30-37",
+      "pericope": "They had disputed one with another on the way about who was the greatest… 'If any man wants to be first, he shall be last of all, and servant of all.'",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Immediately after the second prediction of his death: 'What were you arguing among yourselves on the way? But they were silent, for they had disputed one with another on the way about who was the greatest.' The silence is the confession. 'He sat down, and called the twelve' — the posture of a teacher settling in — 'If any man wants to be first, he shall be last of all, and servant of all.' Then a child in the middle, held in his arms: 'Whoever receives one such little child in my name, receives me.' C16's inverted order, and C22's humility as the receiving of those with no status to offer.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 18:1-5; Luke 9:46-48"
+    },
+    {
+      "ref": "Mark 9:38-41",
+      "pericope": "We forbade him, because he doesn't follow us… 'Don't forbid him… For whoever is not against us is on our side.'",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Teacher, we saw someone who doesn't follow us casting out demons in your name; and we forbade him, because he doesn't follow us.' The complaint is about the group, not the work: 'he doesn't follow us.' 'Don't forbid him… For whoever is not against us is on our side.' C15's peace that does not demand membership, and C17's generosity toward those outside the circle. Even 'a cup of water to drink in my name' is remembered.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Luke 9:49-50"
+    },
+    {
+      "ref": "Mark 9:42-50",
+      "pericope": "If your hand causes you to stumble, cut it off… Have salt in yourselves, and be at peace with one another",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C15"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "Two kinds of stumbling. Causing a little one to stumble: 'better for him if he were thrown into the sea with a millstone hung around his neck.' And one's own: 'If your hand causes you to stumble, cut it off… If your foot… If your eye…' Hyperbole for decisiveness at the gate — Watchfulness that removes the occasion rather than negotiating with it (medium). C20. The section ends with salt and peace: 'Have salt in yourselves, and be at peace with one another' — C15.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 18:6-9"
+    },
+    {
+      "ref": "Mark 10:1-12",
+      "pericope": "From the beginning of the creation, God made them male and female… What therefore God has joined together, let no man separate",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Tested on divorce, Jesus goes behind the permission to the purpose: 'For your hardness of heart, he wrote you this commandment. But from the beginning of the creation, God made them male and female… and the two will become one flesh… What therefore God has joined together, let no man separate.' C14's household grounded in creation rather than contract. Mark addresses both husband and wife as equally bound (10:11-12). The index anchors the creation pattern and the seriousness Jesus gives marriage; it does not offer this passage as a complete pastoral teaching on divorce, and it is not a verdict on any particular marriage.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 19:1-12"
+    },
+    {
+      "ref": "Mark 10:13-16",
+      "pericope": "When Jesus saw it, he was moved with indignation… 'Allow the little children to come to me!'… He took them in his arms, and blessed them",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The disciples turn the children away, and Mark alone records Jesus's reaction: 'he was moved with indignation, and said to them, \"Allow the little children to come to me! Don't forbid them, for the Kingdom of God belongs to such as these. Most certainly I tell you, whoever will not receive the Kingdom of God like a little child, he will in no way enter into it.\" He took them in his arms, and blessed them.' C22's receptivity — the kingdom received, not achieved — and C14's household, where the smallest are not an interruption.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 19:13-15; Luke 18:15-17"
+    },
+    {
+      "ref": "Mark 10:17-31",
+      "pericope": "Jesus looking at him loved him, and said to him, 'One thing you lack. Go, sell whatever you have, and give to the poor'… he went away sorrowful, for he was one who had great possessions",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C18",
+        "C19"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "A man who has kept every commandment 'from my youth.' Mark alone adds: 'Jesus looking at him loved him.' The demand comes out of the love: 'One thing you lack. Go, sell whatever you have, and give to the poor, and you will have treasure in heaven; and come, follow me.' Habitual Almsgiving in its most radical form, tagged as at Matthew 19:16-30. 'But his face fell at that saying, and he went away sorrowful, for he was one who had great possessions.' C18's detachment refused, and the disciples' astonishment answered with C19: 'With men it is impossible, but not with God.'",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 19:16-30; Luke 18:18-30"
+    },
+    {
+      "ref": "Mark 10:32-45",
+      "pericope": "Grant to us that we may sit, one at your right hand, and one at your left hand… The Son of Man also came not to be served, but to serve",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C22"
+      ],
+      "practices": [
+        "PR25"
+      ],
+      "mode": "counter-example",
+      "connection": "Immediately after the third and most detailed prediction of his death, James and John ask for the best seats: 'Grant to us that we may sit, one at your right hand, and one at your left hand, in your glory.' Deferential Seating asks, 'Do I instinctively seek the best seat?'; this is the request it guards against, made in the worst possible moment (medium; Matthew 20:20-28 does not tag it, and the two should be reviewed together). The ten are indignant — for the same reason. Jesus's answer is C16's whole logic: 'whoever wants to become great among you shall be your servant. Whoever of you wants to become first among you, shall be bondservant of all. For the Son of Man also came not to be served, but to serve, and to give his life as a ransom for many.'",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 20:17-28"
+    },
+    {
+      "ref": "Mark 10:46-52",
+      "pericope": "Many rebuked him, that he should be quiet… Jesus stood still, and said, 'Call him.'… 'What do you want me to do for you?'",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C03"
+      ],
+      "practices": [
+        "PR16",
+        "PR19"
+      ],
+      "mode": "exemplifies",
+      "connection": "A blind beggar by the road shouting for mercy, and a crowd telling him to be quiet. 'Jesus stood still' — on his way to Jerusalem and the cross, he stops for the interruption the crowd tried to suppress. Spontaneous Service (medium). Then he asks rather than assumes: 'What do you want me to do for you?' — Listening as Mercy, which gives attention before concluding, even when the need seems obvious (medium). The crowd's words change once he calls: 'Cheer up! Get up. He is calling you!' Bartimaeus, 'casting away his cloak,' receives his sight 'and followed Jesus in the way.' C16 and C03.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 20:29-34; Luke 18:35-43"
+    },
+    {
+      "ref": "Mark 11:1-11",
+      "pericope": "They brought the young donkey to Jesus, and threw their garments on it, and Jesus sat on it",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C16"
+      ],
+      "practices": [],
+      "connection": "The entry into Jerusalem on 'a young donkey… on which no one has sat,' borrowed with a promise to return it — 'The Lord needs him; and immediately he will send him back here.' Kingship arriving without force: C22's humility and C16's service. The crowd's 'Hosanna!' and Mark's quiet close: 'When he had looked around at everything, it being now evening, he went out to Bethany with the twelve.'",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 21:1-11; Luke 19:28-40"
+    },
+    {
+      "ref": "Mark 11:12-26",
+      "pericope": "He found nothing but leaves… 'My house will be called a house of prayer for all the nations'… Whenever you stand praying, forgive, if you have anything against anyone",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S3"
+      ],
+      "chapters": [
+        "C12",
+        "C09",
+        "C06"
+      ],
+      "practices": [
+        "PR06"
+      ],
+      "mode": "prescribes",
+      "connection": "Mark sandwiches the temple between two halves of the fig tree. The tree has 'nothing but leaves' — C12's proof failed, the appearance of fruit without the fruit. In the temple: 'Isn't it written, \"My house will be called a house of prayer for all the nations?\" But you have made it a den of robbers!' C06's reading of the institution by its purpose, and C09's prayer displaced by trade. The lesson on the withered tree turns to prayer, and its condition: 'Whenever you stand praying, forgive, if you have anything against anyone; so that your Father, who is in heaven, may also forgive you.' Non-Retaliation's inward form — releasing the grievance before one can pray — as at Luke 23:34 (medium).",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 21:12-22"
+    },
+    {
+      "ref": "Mark 11:27-33",
+      "pericope": "If we should say, 'From heaven;' he will say, 'Why then did you not believe him?'… They answered Jesus, 'We don't know.'",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C08",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Asked about John's baptism, the authorities do not consider whether it was true; they calculate: 'If we should say, \"From heaven;\" he will say, \"Why then did you not believe him?\" If we should say, \"From men\" — they feared the people.' 'We don't know.' C21's anatomy of evasion: the question of truth replaced by the question of consequences. C08's false teacher, whose answer is chosen by its effect on the crowd.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 21:23-27; Luke 20:1-8"
+    },
+    {
+      "ref": "Mark 12:1-12",
+      "pericope": "When it was time, he sent a servant to the farmer to get from the farmer his share of the fruit… Therefore still having one, his beloved son, he sent him last",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "chapters": [
+        "C11",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "A vineyard carefully prepared — hedge, winepress, tower — and rented out. The owner sends for 'his share of the fruit,' and his servants are beaten, stoned and killed. 'Therefore still having one, his beloved son, he sent him last to them, saying, \"They will respect my son.\"' C11's fruit owed to the one who planted, and C12's proof refused. The parable is understood at once: 'they perceived that he spoke the parable against them.'",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 21:33-46; Luke 20:9-19"
+    },
+    {
+      "ref": "Mark 12:13-17",
+      "pericope": "Render to Caesar the things that are Caesar's, and to God the things that are God's",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "prescribes",
+      "connection": "A trap set with flattery — 'we know that you are honest, and don't defer to anyone' — and a coin: 'Whose is this image and inscription?' 'Caesar's.' 'Render to Caesar the things that are Caesar's, and to God the things that are God's.' The Citizen-Stranger's double obligation, tagged as at Matthew 22:15-22: pay what is owed to the state; the one who bears God's image belongs to God. C17.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 22:15-22; Luke 20:20-26"
+    },
+    {
+      "ref": "Mark 12:18-27",
+      "pericope": "He is not the God of the dead, but of the living",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C08"
+      ],
+      "practices": [],
+      "connection": "The Sadducees' puzzle about seven brothers and one widow, meant to make resurrection absurd. 'Isn't this because you are mistaken, not knowing the Scriptures, nor the power of God?' Then a reading of the burning bush: 'I am the God of Abraham, the God of Isaac, and the God of Jacob… He is not the God of the dead, but of the living.' C19's hope given its ground, and C08's diagnosis of error as ignorance of both the text and the power behind it.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 22:23-33; Luke 20:27-40"
+    },
+    {
+      "ref": "Mark 12:28-34",
+      "pericope": "You shall love the Lord your God with all your heart… The second is like this, 'You shall love your neighbor as yourself.'… 'You are not far from the Kingdom of God.'",
+      "pillars": [
+        "mercy",
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C29",
+        "C03"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "A scribe who has listened well asks the question sincerely: 'Which commandment is the greatest of all?' The Shema in full, with Mark's fourfold 'heart… soul… mind… strength,' and Leviticus 19:18 beside it: 'There is no other commandment greater than these.' The scribe agrees and adds that this 'is more important than all whole burnt offerings and sacrifices.' 'When Jesus saw that he answered wisely, he said to him, \"You are not far from the Kingdom of God.\"' C29's whole heart and C03's blueprint. Mark alone records the friendly exchange.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 22:34-40"
+    },
+    {
+      "ref": "Mark 12:38-40",
+      "pericope": "Beware of the scribes, who like to walk in long robes, and to get greetings in the marketplaces, and the best seats in the synagogues, and the best places at feasts",
+      "pillars": [
+        "humility",
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C08"
+      ],
+      "practices": [
+        "PR25"
+      ],
+      "mode": "counter-example",
+      "connection": "'Beware of the scribes, who like to walk in long robes, and to get greetings in the marketplaces, and the best seats in the synagogues, and the best places at feasts: those who devour widows' houses, and for a pretense make long prayers.' Deferential Seating's exact opposite: the best seats sought in the very places where the poor should be honoured, and the poor widow's household consumed by those who occupy them. C08's false religious leader, and C16's order inverted.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 23:1-12; Luke 20:45-47"
+    },
+    {
+      "ref": "Mark 12:41-44",
+      "pericope": "This poor widow gave more than all those who are giving into the treasury, for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C16"
+      ],
+      "practices": [
+        "PR05",
+        "PR13"
+      ],
+      "mode": "exemplifies",
+      "connection": "Set directly after the scribes who 'devour widows' houses.' 'Jesus sat down opposite the treasury, and saw how the multitude cast money into the treasury. Many who were rich cast in much. A poor widow came, and she cast in two small brass coins.' Her gift is visible only to him. 'This poor widow gave more than all those who are giving into the treasury, for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on.' Habitual Almsgiving measured by cost rather than amount, and the Hidden Life's unwitnessed good — tagged as at Luke 21:1-4. C23 and C16.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Luke 21:1-4"
+    },
+    {
+      "ref": "Mark 13:1-23",
+      "pericope": "Be careful that no one leads you astray… don't be anxious beforehand, or premeditate what you will say… he who endures to the end, the same will be saved",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C08",
+        "C25",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The disciples admire the temple stones; Jesus foresees their fall. The discourse that follows begins with a warning, not a timetable: 'Be careful that no one leads you astray. For many will come in my name, saying, \"I am he!\"' C08's discernment — 'false christs and false prophets… will show signs and wonders, that they may lead astray, if possible, even the chosen ones. But you watch.' Wars and rumours are not the end: 'don't be troubled.' Under arrest: 'don't be anxious beforehand, or premeditate what you will say, but say whatever will be given you in that hour.' C25's endurance: 'he who endures to the end, the same will be saved.' C20. The index does not interpret 'the abomination of desolation' (13:14) or the cosmic signs of 13:24-27.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 24:1-28; Luke 21:5-24"
+    },
+    {
+      "ref": "Mark 13:28-37",
+      "pericope": "Of that day or that hour no one knows, not even the angels in heaven, nor the Son, but only the Father. Watch, keep alert, and pray",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C12"
+      ],
+      "practices": [
+        "PR12",
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "'But of that day or that hour no one knows, not even the angels in heaven, nor the Son, but only the Father.' The Discipline of Unknowing at its most striking — the Son himself does not know, and the instruction that follows does not depend on knowing. 'Watch, keep alert, and pray; for you don't know when the time is.' A man leaves 'to each one his work, and also commanded the doorkeeper to keep watch… lest coming suddenly he might find you sleeping. What I tell you, I tell all: Watch.' Watchfulness as the posture of servants doing ordinary work in an absent master's house — tagged as at Matthew 24:42-51. C20 and C12.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 24:32-51; Luke 21:29-36"
+    },
+    {
+      "ref": "Mark 14:1-11",
+      "pericope": "She has done a good work for me… She has done what she could… They, when they heard it, were glad, and promised to give him money",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C13",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "An unnamed woman breaks 'an alabaster jar of ointment of pure nard — very costly' over his head. The objection is pious — 'this might have been sold for more than three hundred denarii, and given to the poor' — and Mark records its tone: 'They grumbled against her.' 'Leave her alone. Why do you trouble her? She has done a good work for me… She has done what she could.' C16's extravagant service, and C13's measure of faithfulness: not what was possible for others, but what was possible for her. Immediately after, Judas goes to the priests, and 'they… promised to give him money' — C21's counter-image beside the gift poured out. As at Matthew 26:6-13, no practice is tagged; the passage does not set devotion against almsgiving.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 26:6-16"
+    },
+    {
+      "ref": "Mark 14:12-26",
+      "pericope": "They began to be sorrowful, and to ask him one by one, 'Surely not I?'… Take, eat. This is my body",
+      "pillars": [
+        "humility",
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C04"
+      ],
+      "practices": [
+        "PR03"
+      ],
+      "mode": "exemplifies",
+      "connection": "At the Passover meal: 'one of you will betray me — he who eats with me.' The disciples' response is the right one: 'They began to be sorrowful, and to ask him one by one, \"Surely not I?\"' No one looks around the table; each looks at himself. Self-Accusation's discipline of sequence — one's own portion first — done instinctively (medium). C04's mirror. Then the bread and the cup given to all of them, the betrayer included: 'Take, eat. This is my body… This is my blood of the new covenant, which is poured out for many.' C28's liturgy at its source. 'When they had sung a hymn, they went out.'",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 26:17-30; Luke 22:7-23"
+    },
+    {
+      "ref": "Mark 14:27-31",
+      "pericope": "Although all will be offended, yet I will not… If I must die with you, I will not deny you. They all said the same thing",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "'All of you will be made to stumble because of me tonight.' Peter exempts himself: 'Although all will be offended, yet I will not.' Told he will deny three times before the rooster crows twice, 'he spoke all the more, \"If I must die with you, I will not deny you.\" They all said the same thing.' C22's humility refused at the moment it was most needed, and C20's gate left unguarded by confidence. The promise that precedes it is the one that will matter: 'after I am raised up, I will go before you into Galilee.'",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 26:31-35; Luke 22:31-34"
+    },
+    {
+      "ref": "Mark 14:32-42",
+      "pericope": "My soul is exceedingly sorrowful, even to death. Stay here, and watch… 'Abba, Father, all things are possible to you. Please remove this cup from me. However, not what I desire, but what you desire.'",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C09",
+        "C22",
+        "C20"
+      ],
+      "practices": [
+        "PR08",
+        "PR12"
+      ],
+      "mode": "exemplifies",
+      "connection": "'He… began to be greatly troubled and distressed. He said to them, \"My soul is exceedingly sorrowful, even to death. Stay here, and watch.\"' He 'fell on the ground' and prayed: 'Abba, Father, all things are possible to you. Please remove this cup from me. However, not what I desire, but what you desire.' Sacred Lament in the Son's own voice — the request stated plainly, the surrender stated after it. C09's 'Abba,' and C22's quiet won through anguish. Three times he finds them asleep: 'Watch and pray, that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak.' Watchfulness, failed by the disciples and named as the only defence. Tagged as at Matthew 26:36-46.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 26:36-46; Luke 22:39-46"
+    },
+    {
+      "ref": "Mark 14:43-52",
+      "pericope": "Judas… came to him, and said, 'Rabbi! Rabbi!' and kissed him… They all left him, and fled",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C03",
+        "C21"
+      ],
+      "practices": [
+        "PR06"
+      ],
+      "mode": "exemplifies",
+      "connection": "Betrayal by the sign of friendship: 'Whomever I will kiss, that is he.' 'Rabbi! Rabbi!' A bystander cuts off a servant's ear; Jesus answers the arresting party with a question, not resistance: 'Have you come out, as against a robber, with swords and clubs to seize me? I was daily with you in the temple teaching, and you didn't arrest me.' Non-Retaliation enacted (medium; Mark lacks the command to put the sword away recorded at Matthew 26:52). C03. Then the scattering — 'They all left him, and fled' — and Mark's strange detail of a young man who 'left the linen cloth, and fled from them naked.' C21's picture of what fear does to loyalty.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 26:47-56; Luke 22:47-53"
+    },
+    {
+      "ref": "Mark 14:53-65",
+      "pericope": "He stayed quiet, and answered nothing… Some began to spit on him, and to cover his face, and to beat him with fists",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C03"
+      ],
+      "practices": [
+        "PR18"
+      ],
+      "mode": "exemplifies",
+      "connection": "False witnesses whose 'testimony didn't agree.' 'The high priest stood up in the midst, and asked Jesus, \"Have you no answer?\"… But he stayed quiet, and answered nothing.' When asked directly, he answers truthfully — 'I am' — and is condemned for it. Then they 'spit on him, and… cover his face, and… beat him with fists, and… tell him, \"Prophesy!\"' Absorbing the Blow: nothing added to the fire, silence held under false accusation (medium). C22 and C03.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 26:57-68"
+    },
+    {
+      "ref": "Mark 14:66-72",
+      "pericope": "I don't know this man of whom you speak!… Peter remembered the word… When he thought about that, he wept",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C19"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "mode": "exemplifies",
+      "connection": "In the courtyard, warming himself by the enemy's fire, Peter denies three times, the last 'to curse, and to swear, \"I don't know this man of whom you speak!\"' 'The rooster crowed the second time. Peter remembered the word… When he thought about that, he wept.' Interior Diagnosis in its most compressed form: the remembered word, the thinking-through, the grief — the failure traced honestly back to the boast of 14:29. Tagged as at Luke 22:54-62. C21's anatomy of a fall in three steps, and C19's door already promised (14:28).",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 26:69-75; Luke 22:54-62"
+    },
+    {
+      "ref": "Mark 15:1-15",
+      "pericope": "Pilate, wishing to please the multitude, released Barabbas to them, and handed over Jesus",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Before Pilate, Jesus again 'made no further answer, so that Pilate marveled.' Pilate sees clearly — 'he perceived that for envy the chief priests had delivered him up' — and asks the right question: 'Why, what evil has he done?' And then: 'Pilate, wishing to please the multitude, released Barabbas to them, and handed over Jesus.' C21's anatomy of a decision made against one's own judgment for the sake of approval; C08's test of the ruler by whom he serves.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 27:11-26; Luke 23:1-25"
+    },
+    {
+      "ref": "Mark 15:16-32",
+      "pericope": "They compelled one passing by… Simon of Cyrene… to bear his cross… 'He saved others. He can't save himself.'",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C03"
+      ],
+      "practices": [
+        "PR06"
+      ],
+      "mode": "exemplifies",
+      "connection": "Mocked by the cohort with purple and thorns. 'They compelled one passing by, coming from the country, Simon of Cyrene, the father of Alexander and Rufus, to go with them, that he might bear his cross' — a stranger conscripted into the central act, his sons apparently known to Mark's readers. At the cross, the taunt that states the truth: 'He saved others. He can't save himself.' C16's logic at its end point. 'Save yourself, and come down from the cross!' He does not, and returns nothing to those mocking him — Non-Retaliation in its fullest enactment (medium; Luke 23:34 carries the spoken prayer). C03.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 27:27-44; Luke 23:26-43"
+    },
+    {
+      "ref": "Mark 15:33-41",
+      "pericope": "Eloi, Eloi, lama sabachthani?… My God, my God, why have you forsaken me?… women watching from afar… who… followed him, and served him",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C23"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "'At the ninth hour Jesus cried with a loud voice, saying, \"Eloi, Eloi, lama sabachthani?\" which is, being interpreted, \"My God, my God, why have you forsaken me?\"' Psalm 22:1, prayed from the cross. Sacred Lament at the deepest point in scripture: the Son says the unacceptable thing, addressed still to 'my God.' The veil torn 'from the top to the bottom' — C19's door opened from God's side. The first confession comes from a Roman executioner: 'Truly this man was the Son of God!' And the faithful who stayed: 'women watching from afar… who, when he was in Galilee, followed him, and served him' — C23's unnoticed faithfulness, present when the twelve were not.",
+      "confidence": "high",
+      "prior": false,
+      "synoptic_parallel": "Matthew 27:45-56; Luke 23:44-49"
+    },
+    {
+      "ref": "Mark 15:42-47",
+      "pericope": "Joseph of Arimathaea, a prominent council member… boldly went in to Pilate, and asked for Jesus' body",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C13"
+      ],
+      "practices": [
+        "PR26"
+      ],
+      "mode": "exemplifies",
+      "connection": "'Joseph of Arimathaea, a prominent council member who also himself was looking for the Kingdom of God, came. He boldly went in to Pilate, and asked for Jesus' body.' A man with standing to lose, identifying himself with an executed criminal after the disciples had fled, for a dead man who could repay nothing. Unobligated Loyalty — fidelity when free to walk away, with no prospect of return (medium). 'He bought a linen cloth, and taking him down, wound him in the linen cloth, and laid him in a tomb.' C16's service and C13's care for the body, done properly. 'Mary Magdalene and Mary, the mother of Joses, saw where he was laid.'",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 27:57-61; Luke 23:50-56"
+    },
+    {
+      "ref": "Mark 16:1-8",
+      "pericope": "But go, tell his disciples and Peter, 'He goes before you into Galilee'",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C24"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "The women come with spices, worried about the stone, and find it rolled back. 'He has risen. He is not here. Behold, the place where they laid him! But go, tell his disciples and Peter.' Peter is named separately, three days after he swore he did not know the man. Merciful Reintegration in two words: the one who failed most publicly is singled out for the invitation, not for exclusion (medium — the reinstatement itself is narrated at John 21). 'He goes before you into Galilee. There you will see him, as he said to you' (14:28). C19's door. The oldest ending closes on fear: 'They went out, and fled from the tomb, for trembling and astonishment had come on them. They said nothing to anyone; for they were afraid.' C24's awe, unresolved.",
+      "confidence": "medium",
+      "prior": false,
+      "synoptic_parallel": "Matthew 28:1-10; Luke 24:1-12"
+    }
+  ]
+}

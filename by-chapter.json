@@ -1462,6 +1462,153 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 10:46-52",
+        "name": "Many rebuked him, that he should be quiet… Jesus stood still, and said, 'Call him.'… 'What do you want me to do for you?'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [
+          "PR16",
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 12:28-34",
+        "name": "You shall love the Lord your God with all your heart… The second is like this, 'You shall love your neighbor as yourself.'… 'You are not far from the Kingdom of God.'",
+        "chapters": [
+          "C03",
+          "C29"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:43-52",
+        "name": "Judas… came to him, and said, 'Rabbi! Rabbi!' and kissed him… They all left him, and fled",
+        "chapters": [
+          "C03",
+          "C21"
+        ],
+        "practices": [
+          "PR06"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:53-65",
+        "name": "He stayed quiet, and answered nothing… Some began to spit on him, and to cover his face, and to beat him with fists",
+        "chapters": [
+          "C03",
+          "C22"
+        ],
+        "practices": [
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 15:16-32",
+        "name": "They compelled one passing by… Simon of Cyrene… to bear his cross… 'He saved others. He can't save himself.'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [
+          "PR06"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:40-45",
+        "name": "Being moved with compassion, he stretched out his hand, and touched him, and said to him, 'I want to. Be made clean.'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 2:23-3:6",
+        "name": "The Sabbath was made for man, not man for the Sabbath… being grieved at the hardening of their hearts",
+        "chapters": [
+          "C03",
+          "C06"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 5:21-43",
+        "name": "Who touched my clothes?… the woman, fearing and trembling… told him all the truth. He said to her, 'Daughter, your faith has made you well.'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [
+          "PR16",
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:30-44",
+        "name": "You come apart into a deserted place, and rest awhile… he had compassion on them, because they were like sheep without a shepherd… You give them something to eat",
+        "chapters": [
+          "C03",
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 7:31-37",
+        "name": "He took him aside from the multitude, privately… Looking up to heaven, he sighed, and said to him, 'Ephphatha!'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:1-10",
+        "name": "I have compassion on the multitude, because they have stayed with me now three days, and have nothing to eat… some of them have come a long way",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 20:1-16",
         "name": "Is your eye evil because I am good?",
@@ -2397,6 +2544,33 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 14:12-26",
+        "name": "They began to be sorrowful, and to ask him one by one, 'Surely not I?'… Take, eat. This is my body",
+        "chapters": [
+          "C04",
+          "C28"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 7:1-13",
+        "name": "This people honors me with their lips, but their heart is far from me… you no longer allow him to do anything for his father or his mother",
+        "chapters": [
+          "C04",
+          "C06",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 15:1-20",
         "name": "What proceeds out of the mouth comes out of the heart",
@@ -2979,6 +3153,55 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 1:14-20",
+        "name": "Immediately they left their nets, and followed him… they left their father, Zebedee, in the boat with the hired servants",
+        "chapters": [
+          "C05",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 3:7-19",
+        "name": "He appointed twelve, that they might be with him, and that he might send them out to preach",
+        "chapters": [
+          "C05",
+          "C13"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:30-34",
+        "name": "It's like a grain of mustard seed… With many such parables he spoke the word to them, as they were able to hear it",
+        "chapters": [
+          "C05",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:34-38",
+        "name": "Whoever wants to come after me, let him deny himself, and take up his cross, and follow me… what does it profit a man, to gain the whole world, and forfeit his life?",
+        "chapters": [
+          "C05",
+          "C16",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 5:33-37",
         "name": "Do not swear at all; let your Yes be Yes",
@@ -3543,6 +3766,86 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 11:12-26",
+        "name": "He found nothing but leaves… 'My house will be called a house of prayer for all the nations'… Whenever you stand praying, forgive, if you have anything against anyone",
+        "chapters": [
+          "C06",
+          "C09",
+          "C12"
+        ],
+        "practices": [
+          "PR06"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 2:18-22",
+        "name": "No one puts new wine into old wineskins",
+        "chapters": [
+          "C06"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 2:23-3:6",
+        "name": "The Sabbath was made for man, not man for the Sabbath… being grieved at the hardening of their hearts",
+        "chapters": [
+          "C03",
+          "C06"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 7:1-13",
+        "name": "This people honors me with their lips, but their heart is far from me… you no longer allow him to do anything for his father or his mother",
+        "chapters": [
+          "C04",
+          "C06",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:22-26",
+        "name": "I see men; for I see them like trees walking. Then again he laid his hands on his eyes… and saw everyone clearly",
+        "chapters": [
+          "C06",
+          "C07",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:1-13",
+        "name": "Rabbi, it is good for us to be here. Let's make three tents… For he didn't know what to say, for they were very afraid",
+        "chapters": [
+          "C06",
+          "C24"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 16:13-20",
         "name": "Flesh and blood has not revealed this to you",
@@ -4043,6 +4346,71 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 3:20-30",
+        "name": "When his friends heard it, they went out to seize him: for they said, 'He is insane.'… If a house is divided against itself, that house cannot stand",
+        "chapters": [
+          "C07",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:1-6",
+        "name": "Isn't this the carpenter, the son of Mary?… They were offended at him… He marveled because of their unbelief",
+        "chapters": [
+          "C07",
+          "C13"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:11-21",
+        "name": "Take heed: beware of the yeast of the Pharisees and the yeast of Herod… Having eyes, don't you see?… Don't you remember?",
+        "chapters": [
+          "C07",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:22-26",
+        "name": "I see men; for I see them like trees walking. Then again he laid his hands on his eyes… and saw everyone clearly",
+        "chapters": [
+          "C06",
+          "C07",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:27-33",
+        "name": "But who do you say that I am?… Get behind me, Satan! For you have in mind not the things of God, but the things of men",
+        "chapters": [
+          "C07",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -4945,6 +5313,117 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 11:27-33",
+        "name": "If we should say, 'From heaven;' he will say, 'Why then did you not believe him?'… They answered Jesus, 'We don't know.'",
+        "chapters": [
+          "C08",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 12:18-27",
+        "name": "He is not the God of the dead, but of the living",
+        "chapters": [
+          "C08",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 12:38-40",
+        "name": "Beware of the scribes, who like to walk in long robes, and to get greetings in the marketplaces, and the best seats in the synagogues, and the best places at feasts",
+        "chapters": [
+          "C08",
+          "C16"
+        ],
+        "practices": [
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 13:1-23",
+        "name": "Be careful that no one leads you astray… don't be anxious beforehand, or premeditate what you will say… he who endures to the end, the same will be saved",
+        "chapters": [
+          "C08",
+          "C20",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 15:1-15",
+        "name": "Pilate, wishing to please the multitude, released Barabbas to them, and handed over Jesus",
+        "chapters": [
+          "C08",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:1-8",
+        "name": "After me comes he who is mightier than I, the thong of whose sandals I am not worthy to stoop down and loosen",
+        "chapters": [
+          "C08",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 3:20-30",
+        "name": "When his friends heard it, they went out to seize him: for they said, 'He is insane.'… If a house is divided against itself, that house cannot stand",
+        "chapters": [
+          "C07",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:14-29",
+        "name": "The king was exceedingly sorry, but for the sake of his oaths, and of his dinner guests, he didn't wish to refuse her",
+        "chapters": [
+          "C08",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:27-33",
+        "name": "But who do you say that I am?… Get behind me, Satan! For you have in mind not the things of God, but the things of men",
+        "chapters": [
+          "C07",
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 10:16-25",
         "name": "Wise as serpents and harmless as doves",
@@ -5583,6 +6062,81 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 11:12-26",
+        "name": "He found nothing but leaves… 'My house will be called a house of prayer for all the nations'… Whenever you stand praying, forgive, if you have anything against anyone",
+        "chapters": [
+          "C06",
+          "C09",
+          "C12"
+        ],
+        "practices": [
+          "PR06"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:32-42",
+        "name": "My soul is exceedingly sorrowful, even to death. Stay here, and watch… 'Abba, Father, all things are possible to you. Please remove this cup from me. However, not what I desire, but what you desire.'",
+        "chapters": [
+          "C09",
+          "C20",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:35-39",
+        "name": "Early in the morning, while it was still dark, he rose up and went out, and departed into a deserted place, and prayed there",
+        "chapters": [
+          "C09",
+          "C23"
+        ],
+        "practices": [
+          "PR07",
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:45-52",
+        "name": "After he had taken leave of them, he went up the mountain to pray… 'Cheer up! It is I! Don't be afraid.'",
+        "chapters": [
+          "C09",
+          "C22"
+        ],
+        "practices": [
+          "PR07"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:14-29",
+        "name": "If you can do anything, have compassion on us, and help us… Immediately the father of the child cried out with tears, 'I believe. Help my unbelief!'",
+        "chapters": [
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR07",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -6714,6 +7268,31 @@
         "source_file": "john.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 12:1-12",
+        "name": "When it was time, he sent a servant to the farmer to get from the farmer his share of the fruit… Therefore still having one, his beloved son, he sent him last",
+        "chapters": [
+          "C11",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:1-20",
+        "name": "The cares of this age, and the deceitfulness of riches, and the lusts of other things entering in choke the word, and it becomes unfruitful",
+        "chapters": [
+          "C11",
+          "C18",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Psalms.Json",
         "reference": "Psalm 27:1-14",
         "name": "One thing I have asked of Yahweh… that I may dwell in the house of Yahweh",
@@ -7353,6 +7932,62 @@
         "practices": [],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 11:12-26",
+        "name": "He found nothing but leaves… 'My house will be called a house of prayer for all the nations'… Whenever you stand praying, forgive, if you have anything against anyone",
+        "chapters": [
+          "C06",
+          "C09",
+          "C12"
+        ],
+        "practices": [
+          "PR06"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 12:1-12",
+        "name": "When it was time, he sent a servant to the farmer to get from the farmer his share of the fruit… Therefore still having one, his beloved son, he sent him last",
+        "chapters": [
+          "C11",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 13:28-37",
+        "name": "Of that day or that hour no one knows, not even the angels in heaven, nor the Son, but only the Father. Watch, keep alert, and pray",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR04",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:21-25",
+        "name": "Take heed what you hear. With whatever measure you measure, it will be measured to you",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -8352,6 +8987,96 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 14:1-11",
+        "name": "She has done a good work for me… She has done what she could… They, when they heard it, were glad, and promised to give him money",
+        "chapters": [
+          "C13",
+          "C16",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 15:42-47",
+        "name": "Joseph of Arimathaea, a prominent council member… boldly went in to Pilate, and asked for Jesus' body",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:21-34",
+        "name": "He came and took her by the hand, and raised her up. The fever left her, and she served them",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 2:1-12",
+        "name": "Four people came, carrying a paralytic to him… they removed the roof where he was",
+        "chapters": [
+          "C13",
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 3:31-35",
+        "name": "Looking around at those who sat around him, he said, 'Behold, my mother and my brothers! For whoever does the will of God, the same is my brother, and my sister, and mother.'",
+        "chapters": [
+          "C13",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 3:7-19",
+        "name": "He appointed twelve, that they might be with him, and that he might send them out to preach",
+        "chapters": [
+          "C05",
+          "C13"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:1-6",
+        "name": "Isn't this the carpenter, the son of Mary?… They were offended at him… He marveled because of their unbelief",
+        "chapters": [
+          "C07",
+          "C13"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 10:40-42",
         "name": "A cup of cold water to one of these little ones",
@@ -9315,6 +10040,82 @@
         ],
         "tags": [],
         "source_file": "john.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 10:1-12",
+        "name": "From the beginning of the creation, God made them male and female… What therefore God has joined together, let no man separate",
+        "chapters": [
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 10:13-16",
+        "name": "When Jesus saw it, he was moved with indignation… 'Allow the little children to come to me!'… He took them in his arms, and blessed them",
+        "chapters": [
+          "C14",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 2:13-17",
+        "name": "Those who are healthy have no need for a physician, but those who are sick. I came not to call the righteous, but sinners to repentance",
+        "chapters": [
+          "C14",
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 3:31-35",
+        "name": "Looking around at those who sat around him, he said, 'Behold, my mother and my brothers! For whoever does the will of God, the same is my brother, and my sister, and mother.'",
+        "chapters": [
+          "C13",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 5:1-20",
+        "name": "Sitting, clothed, and in his right mind… Go to your house, to your friends, and tell them what great things the Lord has done for you, and how he had mercy on you",
+        "chapters": [
+          "C14",
+          "C19",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 7:1-13",
+        "name": "This people honors me with their lips, but their heart is far from me… you no longer allow him to do anything for his father or his mother",
+        "chapters": [
+          "C04",
+          "C06",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -10482,6 +11283,32 @@
         "practices": [],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:38-41",
+        "name": "We forbade him, because he doesn't follow us… 'Don't forbid him… For whoever is not against us is on our side.'",
+        "chapters": [
+          "C15",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:42-50",
+        "name": "If your hand causes you to stumble, cut it off… Have salt in yourselves, and be at peace with one another",
+        "chapters": [
+          "C15",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -12655,6 +13482,247 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 10:32-45",
+        "name": "Grant to us that we may sit, one at your right hand, and one at your left hand… The Son of Man also came not to be served, but to serve",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 10:46-52",
+        "name": "Many rebuked him, that he should be quiet… Jesus stood still, and said, 'Call him.'… 'What do you want me to do for you?'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [
+          "PR16",
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 11:1-11",
+        "name": "They brought the young donkey to Jesus, and threw their garments on it, and Jesus sat on it",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 12:38-40",
+        "name": "Beware of the scribes, who like to walk in long robes, and to get greetings in the marketplaces, and the best seats in the synagogues, and the best places at feasts",
+        "chapters": [
+          "C08",
+          "C16"
+        ],
+        "practices": [
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 12:41-44",
+        "name": "This poor widow gave more than all those who are giving into the treasury, for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on",
+        "chapters": [
+          "C16",
+          "C23"
+        ],
+        "practices": [
+          "PR05",
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:1-11",
+        "name": "She has done a good work for me… She has done what she could… They, when they heard it, were glad, and promised to give him money",
+        "chapters": [
+          "C13",
+          "C16",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 15:16-32",
+        "name": "They compelled one passing by… Simon of Cyrene… to bear his cross… 'He saved others. He can't save himself.'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [
+          "PR06"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 15:42-47",
+        "name": "Joseph of Arimathaea, a prominent council member… boldly went in to Pilate, and asked for Jesus' body",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:21-34",
+        "name": "He came and took her by the hand, and raised her up. The fever left her, and she served them",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:40-45",
+        "name": "Being moved with compassion, he stretched out his hand, and touched him, and said to him, 'I want to. Be made clean.'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 2:1-12",
+        "name": "Four people came, carrying a paralytic to him… they removed the roof where he was",
+        "chapters": [
+          "C13",
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 5:21-43",
+        "name": "Who touched my clothes?… the woman, fearing and trembling… told him all the truth. He said to her, 'Daughter, your faith has made you well.'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [
+          "PR16",
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:30-44",
+        "name": "You come apart into a deserted place, and rest awhile… he had compassion on them, because they were like sheep without a shepherd… You give them something to eat",
+        "chapters": [
+          "C03",
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:7-13",
+        "name": "He commanded them that they should take nothing for their journey, except a staff only: no bread, no wallet, no money in their purse",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 7:31-37",
+        "name": "He took him aside from the multitude, privately… Looking up to heaven, he sighed, and said to him, 'Ephphatha!'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:1-10",
+        "name": "I have compassion on the multitude, because they have stayed with me now three days, and have nothing to eat… some of them have come a long way",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:34-38",
+        "name": "Whoever wants to come after me, let him deny himself, and take up his cross, and follow me… what does it profit a man, to gain the whole world, and forfeit his life?",
+        "chapters": [
+          "C05",
+          "C16",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:30-37",
+        "name": "They had disputed one with another on the way about who was the greatest… 'If any man wants to be first, he shall be last of all, and servant of all.'",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 12:1-14",
         "name": "I desire mercy, and not sacrifice",
@@ -13884,6 +14952,31 @@
         "practices": [],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 12:13-17",
+        "name": "Render to Caesar the things that are Caesar's, and to God the things that are God's",
+        "chapters": [
+          "C17"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:38-41",
+        "name": "We forbade him, because he doesn't follow us… 'Don't forbid him… For whoever is not against us is on our side.'",
+        "chapters": [
+          "C15",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -15220,6 +16313,70 @@
         "practices": [],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 10:17-31",
+        "name": "Jesus looking at him loved him, and said to him, 'One thing you lack. Go, sell whatever you have, and give to the poor'… he went away sorrowful, for he was one who had great possessions",
+        "chapters": [
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:14-20",
+        "name": "Immediately they left their nets, and followed him… they left their father, Zebedee, in the boat with the hired servants",
+        "chapters": [
+          "C05",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:1-20",
+        "name": "The cares of this age, and the deceitfulness of riches, and the lusts of other things entering in choke the word, and it becomes unfruitful",
+        "chapters": [
+          "C11",
+          "C18",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:7-13",
+        "name": "He commanded them that they should take nothing for their journey, except a staff only: no bread, no wallet, no money in their purse",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:34-38",
+        "name": "Whoever wants to come after me, let him deny himself, and take up his cross, and follow me… what does it profit a man, to gain the whole world, and forfeit his life?",
+        "chapters": [
+          "C05",
+          "C16",
+          "C18"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -17639,6 +18796,156 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 10:17-31",
+        "name": "Jesus looking at him loved him, and said to him, 'One thing you lack. Go, sell whatever you have, and give to the poor'… he went away sorrowful, for he was one who had great possessions",
+        "chapters": [
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 12:18-27",
+        "name": "He is not the God of the dead, but of the living",
+        "chapters": [
+          "C08",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:66-72",
+        "name": "I don't know this man of whom you speak!… Peter remembered the word… When he thought about that, he wept",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR02"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 15:33-41",
+        "name": "Eloi, Eloi, lama sabachthani?… My God, my God, why have you forsaken me?… women watching from afar… who… followed him, and served him",
+        "chapters": [
+          "C19",
+          "C23"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 16:1-8",
+        "name": "But go, tell his disciples and Peter, 'He goes before you into Galilee'",
+        "chapters": [
+          "C19",
+          "C24"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:9-13",
+        "name": "You are my beloved Son, in whom I am well pleased. Immediately the Spirit drove him out into the wilderness",
+        "chapters": [
+          "C19",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 2:1-12",
+        "name": "Four people came, carrying a paralytic to him… they removed the roof where he was",
+        "chapters": [
+          "C13",
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 2:13-17",
+        "name": "Those who are healthy have no need for a physician, but those who are sick. I came not to call the righteous, but sinners to repentance",
+        "chapters": [
+          "C14",
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 5:1-20",
+        "name": "Sitting, clothed, and in his right mind… Go to your house, to your friends, and tell them what great things the Lord has done for you, and how he had mercy on you",
+        "chapters": [
+          "C14",
+          "C19",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 7:24-30",
+        "name": "Yes, Lord. Yet even the dogs under the table eat the children's crumbs",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:14-29",
+        "name": "If you can do anything, have compassion on us, and help us… Immediately the father of the child cried out with tears, 'I believe. Help my unbelief!'",
+        "chapters": [
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR07",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 14:1-13",
         "name": "His disciples came, took the body, and buried it",
@@ -19249,6 +20556,131 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 13:1-23",
+        "name": "Be careful that no one leads you astray… don't be anxious beforehand, or premeditate what you will say… he who endures to the end, the same will be saved",
+        "chapters": [
+          "C08",
+          "C20",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 13:28-37",
+        "name": "Of that day or that hour no one knows, not even the angels in heaven, nor the Son, but only the Father. Watch, keep alert, and pray",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR04",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:27-31",
+        "name": "Although all will be offended, yet I will not… If I must die with you, I will not deny you. They all said the same thing",
+        "chapters": [
+          "C20",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:32-42",
+        "name": "My soul is exceedingly sorrowful, even to death. Stay here, and watch… 'Abba, Father, all things are possible to you. Please remove this cup from me. However, not what I desire, but what you desire.'",
+        "chapters": [
+          "C09",
+          "C20",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:9-13",
+        "name": "You are my beloved Son, in whom I am well pleased. Immediately the Spirit drove him out into the wilderness",
+        "chapters": [
+          "C19",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:21-25",
+        "name": "Take heed what you hear. With whatever measure you measure, it will be measured to you",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 7:14-23",
+        "name": "For from within, out of the hearts of men, proceed evil thoughts… All these evil things come from within, and defile the man",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR02",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:11-21",
+        "name": "Take heed: beware of the yeast of the Pharisees and the yeast of Herod… Having eyes, don't you see?… Don't you remember?",
+        "chapters": [
+          "C07",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:42-50",
+        "name": "If your hand causes you to stumble, cut it off… Have salt in yourselves, and be at peace with one another",
+        "chapters": [
+          "C15",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 12:33-37",
         "name": "Out of the abundance of the heart, the mouth speaks",
@@ -20346,6 +21778,139 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 11:27-33",
+        "name": "If we should say, 'From heaven;' he will say, 'Why then did you not believe him?'… They answered Jesus, 'We don't know.'",
+        "chapters": [
+          "C08",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:1-11",
+        "name": "She has done a good work for me… She has done what she could… They, when they heard it, were glad, and promised to give him money",
+        "chapters": [
+          "C13",
+          "C16",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:43-52",
+        "name": "Judas… came to him, and said, 'Rabbi! Rabbi!' and kissed him… They all left him, and fled",
+        "chapters": [
+          "C03",
+          "C21"
+        ],
+        "practices": [
+          "PR06"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:66-72",
+        "name": "I don't know this man of whom you speak!… Peter remembered the word… When he thought about that, he wept",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR02"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 15:1-15",
+        "name": "Pilate, wishing to please the multitude, released Barabbas to them, and handed over Jesus",
+        "chapters": [
+          "C08",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 2:13-17",
+        "name": "Those who are healthy have no need for a physician, but those who are sick. I came not to call the righteous, but sinners to repentance",
+        "chapters": [
+          "C14",
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:1-20",
+        "name": "The cares of this age, and the deceitfulness of riches, and the lusts of other things entering in choke the word, and it becomes unfruitful",
+        "chapters": [
+          "C11",
+          "C18",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 5:1-20",
+        "name": "Sitting, clothed, and in his right mind… Go to your house, to your friends, and tell them what great things the Lord has done for you, and how he had mercy on you",
+        "chapters": [
+          "C14",
+          "C19",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:14-29",
+        "name": "The king was exceedingly sorry, but for the sake of his oaths, and of his dinner guests, he didn't wish to refuse her",
+        "chapters": [
+          "C08",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 7:14-23",
+        "name": "For from within, out of the hearts of men, proceed evil thoughts… All these evil things come from within, and defile the man",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR02",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -21483,6 +23048,163 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 10:13-16",
+        "name": "When Jesus saw it, he was moved with indignation… 'Allow the little children to come to me!'… He took them in his arms, and blessed them",
+        "chapters": [
+          "C14",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 10:32-45",
+        "name": "Grant to us that we may sit, one at your right hand, and one at your left hand… The Son of Man also came not to be served, but to serve",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 11:1-11",
+        "name": "They brought the young donkey to Jesus, and threw their garments on it, and Jesus sat on it",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:27-31",
+        "name": "Although all will be offended, yet I will not… If I must die with you, I will not deny you. They all said the same thing",
+        "chapters": [
+          "C20",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:32-42",
+        "name": "My soul is exceedingly sorrowful, even to death. Stay here, and watch… 'Abba, Father, all things are possible to you. Please remove this cup from me. However, not what I desire, but what you desire.'",
+        "chapters": [
+          "C09",
+          "C20",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:53-65",
+        "name": "He stayed quiet, and answered nothing… Some began to spit on him, and to cover his face, and to beat him with fists",
+        "chapters": [
+          "C03",
+          "C22"
+        ],
+        "practices": [
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:1-8",
+        "name": "After me comes he who is mightier than I, the thong of whose sandals I am not worthy to stoop down and loosen",
+        "chapters": [
+          "C08",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:35-41",
+        "name": "He himself was in the stern, asleep on the cushion… 'Teacher, don't you care that we are dying?'… 'Peace! Be still!'",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:30-44",
+        "name": "You come apart into a deserted place, and rest awhile… he had compassion on them, because they were like sheep without a shepherd… You give them something to eat",
+        "chapters": [
+          "C03",
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:45-52",
+        "name": "After he had taken leave of them, he went up the mountain to pray… 'Cheer up! It is I! Don't be afraid.'",
+        "chapters": [
+          "C09",
+          "C22"
+        ],
+        "practices": [
+          "PR07"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 7:24-30",
+        "name": "Yes, Lord. Yet even the dogs under the table eat the children's crumbs",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:30-37",
+        "name": "They had disputed one with another on the way about who was the greatest… 'If any man wants to be first, he shall be last of all, and servant of all.'",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 18:21-35",
         "name": "Shouldn't you also have had mercy?",
@@ -22563,6 +24285,50 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 12:41-44",
+        "name": "This poor widow gave more than all those who are giving into the treasury, for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on",
+        "chapters": [
+          "C16",
+          "C23"
+        ],
+        "practices": [
+          "PR05",
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 15:33-41",
+        "name": "Eloi, Eloi, lama sabachthani?… My God, my God, why have you forsaken me?… women watching from afar… who… followed him, and served him",
+        "chapters": [
+          "C19",
+          "C23"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:35-39",
+        "name": "Early in the morning, while it was still dark, he rose up and went out, and departed into a deserted place, and prayed there",
+        "chapters": [
+          "C09",
+          "C23"
+        ],
+        "practices": [
+          "PR07",
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 16:21-28",
         "name": "Get behind me, Satan",
@@ -23456,6 +25222,46 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 16:1-8",
+        "name": "But go, tell his disciples and Peter, 'He goes before you into Galilee'",
+        "chapters": [
+          "C19",
+          "C24"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:35-41",
+        "name": "He himself was in the stern, asleep on the cushion… 'Teacher, don't you care that we are dying?'… 'Peace! Be still!'",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:1-13",
+        "name": "Rabbi, it is good for us to be here. Let's make three tents… For he didn't know what to say, for they were very afraid",
+        "chapters": [
+          "C06",
+          "C24"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -24686,6 +26492,60 @@
         "practices": [],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 13:1-23",
+        "name": "Be careful that no one leads you astray… don't be anxious beforehand, or premeditate what you will say… he who endures to the end, the same will be saved",
+        "chapters": [
+          "C08",
+          "C20",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:26-29",
+        "name": "The seed should spring up and grow, he doesn't know how. For the earth bears fruit: first the blade, then the ear, then the full grain in the ear",
+        "chapters": [
+          "C25"
+        ],
+        "practices": [
+          "PR04",
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:30-34",
+        "name": "It's like a grain of mustard seed… With many such parables he spoke the word to them, as they were able to hear it",
+        "chapters": [
+          "C05",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:22-26",
+        "name": "I see men; for I see them like trees walking. Then again he laid his hands on his eyes… and saw everyone clearly",
+        "chapters": [
+          "C06",
+          "C07",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -27198,6 +29058,20 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 14:12-26",
+        "name": "They began to be sorrowful, and to ask him one by one, 'Surely not I?'… Take, eat. This is my body",
+        "chapters": [
+          "C04",
+          "C28"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 10:40-42",
         "name": "A cup of cold water to one of these little ones",
@@ -27671,6 +29545,18 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 12:28-34",
+        "name": "You shall love the Lord your God with all your heart… The second is like this, 'You shall love your neighbor as yourself.'… 'You are not far from the Kingdom of God.'",
+        "chapters": [
+          "C03",
+          "C29"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -28592,6 +30478,35 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 14:66-72",
+        "name": "I don't know this man of whom you speak!… Peter remembered the word… When he thought about that, he wept",
+        "chapters": [
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR02"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 7:14-23",
+        "name": "For from within, out of the hearts of men, proceed evil thoughts… All these evil things come from within, and defile the man",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR02",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 15:1-20",
         "name": "What proceeds out of the mouth comes out of the heart",
@@ -28911,6 +30826,20 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:12-26",
+        "name": "They began to be sorrowful, and to ask him one by one, 'Surely not I?'… Take, eat. This is my body",
+        "chapters": [
+          "C04",
+          "C28"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -29483,6 +31412,49 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 13:28-37",
+        "name": "Of that day or that hour no one knows, not even the angels in heaven, nor the Son, but only the Father. Watch, keep alert, and pray",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR04",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:26-29",
+        "name": "The seed should spring up and grow, he doesn't know how. For the earth bears fruit: first the blade, then the ear, then the full grain in the ear",
+        "chapters": [
+          "C25"
+        ],
+        "practices": [
+          "PR04",
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:1-13",
+        "name": "Rabbi, it is good for us to be here. Let's make three tents… For he didn't know what to say, for they were very afraid",
+        "chapters": [
+          "C06",
+          "C24"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -30194,6 +32166,35 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 10:17-31",
+        "name": "Jesus looking at him loved him, and said to him, 'One thing you lack. Go, sell whatever you have, and give to the poor'… he went away sorrowful, for he was one who had great possessions",
+        "chapters": [
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 12:41-44",
+        "name": "This poor widow gave more than all those who are giving into the treasury, for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on",
+        "chapters": [
+          "C16",
+          "C23"
+        ],
+        "practices": [
+          "PR05",
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 19:16-30",
         "name": "Go, sell what you have, and give to the poor",
@@ -30702,6 +32703,49 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 11:12-26",
+        "name": "He found nothing but leaves… 'My house will be called a house of prayer for all the nations'… Whenever you stand praying, forgive, if you have anything against anyone",
+        "chapters": [
+          "C06",
+          "C09",
+          "C12"
+        ],
+        "practices": [
+          "PR06"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:43-52",
+        "name": "Judas… came to him, and said, 'Rabbi! Rabbi!' and kissed him… They all left him, and fled",
+        "chapters": [
+          "C03",
+          "C21"
+        ],
+        "practices": [
+          "PR06"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 15:16-32",
+        "name": "They compelled one passing by… Simon of Cyrene… to bear his cross… 'He saved others. He can't save himself.'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [
+          "PR06"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 26:47-56",
         "name": "Put your sword back into its place",
@@ -30924,6 +32968,50 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:35-39",
+        "name": "Early in the morning, while it was still dark, he rose up and went out, and departed into a deserted place, and prayed there",
+        "chapters": [
+          "C09",
+          "C23"
+        ],
+        "practices": [
+          "PR07",
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:45-52",
+        "name": "After he had taken leave of them, he went up the mountain to pray… 'Cheer up! It is I! Don't be afraid.'",
+        "chapters": [
+          "C09",
+          "C22"
+        ],
+        "practices": [
+          "PR07"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:14-29",
+        "name": "If you can do anything, have compassion on us, and help us… Immediately the father of the child cried out with tears, 'I believe. Help my unbelief!'",
+        "chapters": [
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR07",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -31593,6 +33681,51 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:32-42",
+        "name": "My soul is exceedingly sorrowful, even to death. Stay here, and watch… 'Abba, Father, all things are possible to you. Please remove this cup from me. However, not what I desire, but what you desire.'",
+        "chapters": [
+          "C09",
+          "C20",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 15:33-41",
+        "name": "Eloi, Eloi, lama sabachthani?… My God, my God, why have you forsaken me?… women watching from afar… who… followed him, and served him",
+        "chapters": [
+          "C19",
+          "C23"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:14-29",
+        "name": "If you can do anything, have compassion on us, and help us… Immediately the father of the child cried out with tears, 'I believe. Help my unbelief!'",
+        "chapters": [
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR07",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -32577,6 +34710,19 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 12:13-17",
+        "name": "Render to Caesar the things that are Caesar's, and to God the things that are God's",
+        "chapters": [
+          "C17"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 22:15-22",
         "name": "Give to Caesar the things that are Caesar's",
@@ -33405,6 +35551,94 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 13:28-37",
+        "name": "Of that day or that hour no one knows, not even the angels in heaven, nor the Son, but only the Father. Watch, keep alert, and pray",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR04",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:32-42",
+        "name": "My soul is exceedingly sorrowful, even to death. Stay here, and watch… 'Abba, Father, all things are possible to you. Please remove this cup from me. However, not what I desire, but what you desire.'",
+        "chapters": [
+          "C09",
+          "C20",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:21-25",
+        "name": "Take heed what you hear. With whatever measure you measure, it will be measured to you",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 7:14-23",
+        "name": "For from within, out of the hearts of men, proceed evil thoughts… All these evil things come from within, and defile the man",
+        "chapters": [
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR02",
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:11-21",
+        "name": "Take heed: beware of the yeast of the Pharisees and the yeast of Herod… Having eyes, don't you see?… Don't you remember?",
+        "chapters": [
+          "C07",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 9:42-50",
+        "name": "If your hand causes you to stumble, cut it off… Have salt in yourselves, and be at peace with one another",
+        "chapters": [
+          "C15",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 12:33-37",
         "name": "Out of the abundance of the heart, the mouth speaks",
@@ -33965,6 +36199,36 @@
         "source_file": "luke.json"
       },
       {
+        "book": "Mark.Json",
+        "reference": "Mark 12:41-44",
+        "name": "This poor widow gave more than all those who are giving into the treasury, for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on",
+        "chapters": [
+          "C16",
+          "C23"
+        ],
+        "practices": [
+          "PR05",
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 1:35-39",
+        "name": "Early in the morning, while it was still dark, he rose up and went out, and departed into a deserted place, and prayed there",
+        "chapters": [
+          "C09",
+          "C23"
+        ],
+        "practices": [
+          "PR07",
+          "PR13"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
         "book": "Matthew.Json",
         "reference": "Matthew 23:1-12",
         "name": "They bind heavy burdens and won't lift a finger",
@@ -34346,6 +36610,35 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 4:26-29",
+        "name": "The seed should spring up and grow, he doesn't know how. For the earth bears fruit: first the blade, then the ear, then the full grain in the ear",
+        "chapters": [
+          "C25"
+        ],
+        "practices": [
+          "PR04",
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 8:22-26",
+        "name": "I see men; for I see them like trees walking. Then again he laid his hands on his eyes… and saw everyone clearly",
+        "chapters": [
+          "C06",
+          "C07",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -34944,6 +37237,36 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 10:46-52",
+        "name": "Many rebuked him, that he should be quiet… Jesus stood still, and said, 'Call him.'… 'What do you want me to do for you?'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [
+          "PR16",
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 5:21-43",
+        "name": "Who touched my clothes?… the woman, fearing and trembling… told him all the truth. He said to her, 'Daughter, your faith has made you well.'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [
+          "PR16",
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       }
     ],
     "PR17": [
@@ -35122,6 +37445,20 @@
         ],
         "tags": [],
         "source_file": "james.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 14:53-65",
+        "name": "He stayed quiet, and answered nothing… Some began to spit on him, and to cover his face, and to beat him with fists",
+        "chapters": [
+          "C03",
+          "C22"
+        ],
+        "practices": [
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",
@@ -35305,6 +37642,66 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 10:46-52",
+        "name": "Many rebuked him, that he should be quiet… Jesus stood still, and said, 'Call him.'… 'What do you want me to do for you?'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [
+          "PR16",
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 2:1-12",
+        "name": "Four people came, carrying a paralytic to him… they removed the roof where he was",
+        "chapters": [
+          "C13",
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 5:21-43",
+        "name": "Who touched my clothes?… the woman, fearing and trembling… told him all the truth. He said to her, 'Daughter, your faith has made you well.'",
+        "chapters": [
+          "C03",
+          "C16"
+        ],
+        "practices": [
+          "PR16",
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 6:30-44",
+        "name": "You come apart into a deserted place, and rest awhile… he had compassion on them, because they were like sheep without a shepherd… You give them something to eat",
+        "chapters": [
+          "C03",
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Proverbs.Json",
@@ -36071,6 +38468,34 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 10:32-45",
+        "name": "Grant to us that we may sit, one at your right hand, and one at your left hand… The Son of Man also came not to be served, but to serve",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 12:38-40",
+        "name": "Beware of the scribes, who like to walk in long robes, and to get greetings in the marketplaces, and the best seats in the synagogues, and the best places at feasts",
+        "chapters": [
+          "C08",
+          "C16"
+        ],
+        "practices": [
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       }
     ],
     "PR26": [
@@ -36127,6 +38552,20 @@
         ],
         "tags": [],
         "source_file": "john.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 15:42-47",
+        "name": "Joseph of Arimathaea, a prominent council member… boldly went in to Pilate, and asked for Jesus' body",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Proverbs.Json",
@@ -36782,6 +39221,35 @@
         ],
         "tags": [],
         "source_file": "luke.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 16:1-8",
+        "name": "But go, tell his disciples and Peter, 'He goes before you into Galilee'",
+        "chapters": [
+          "C19",
+          "C24"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
+      },
+      {
+        "book": "Mark.Json",
+        "reference": "Mark 2:13-17",
+        "name": "Those who are healthy have no need for a physician, but those who are sick. I came not to call the righteous, but sinners to repentance",
+        "chapters": [
+          "C14",
+          "C19",
+          "C21"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "mark.json"
       },
       {
         "book": "Matthew.Json",

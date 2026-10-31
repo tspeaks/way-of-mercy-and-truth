@@ -30,6 +30,7 @@ the first fourteen.
 | 1 Timothy | 11 | `reviews/1-timothy-package.md` | 6:17-19 (PR28 + PR05 — charge to the rich); 1:12-17 (PR03 — "of whom I am chief"); 5:1-16 (PR05, widows); 2:1-8 (PR10, prayer for rulers, medium); 4:6-16 (PR01, medium); the coverage note on 2:9-15 and 6:1-2 |
 | 2 Timothy | 11 | `reviews/2-timothy-package.md` | **1:15-18 (PR26 — Onesiphorus; unforecast)**; 4:9-22 (PR29 — Mark, completing Acts 15:36-41; PR06); 2:20-26 (PR09 at high) |
 | Titus | 6 | `reviews/titus-package.md` | 3:1-7 (PR10 + PR03 — "we were also once foolish"); 2:1-10 (household-code guard) |
+| Mark | 67 | `reviews/mark-package.md` | The four stated divergences from the parallels: 6:30-44 (PR19, where Luke 9:10-17 has none), 9:14-29 (PR22 declined, where Luke 9:37-43 tags it), 10:32-45 (PR25 counter-example, where Matthew 20:20-28 has none), 14:43-52; the unforecast anchors 15:42-47 (PR26), 16:1-8 (PR29) and 14:12-26 (PR03); 9:14-29 (PR08 — "Help my unbelief"); 15:33-41 (PR08 at the cross); 4:26-29 and 7:14-23 (the A3 priors); 8:22-26 (PR14). Large: may be reviewed in sections 1-4, 5-8, 9-12, 13-16 |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

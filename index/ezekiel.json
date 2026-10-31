@@ -1,0 +1,233 @@
+{
+  "book": "Ezekiel",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/ezekiel.json",
+  "note": "A priest-prophet among the exiles in Babylon: the glory leaving the temple, the fall of Jerusalem, and the promise of a new heart, a new spirit and a renewed temple. Indexed selectively. The Scriptural Appendix cites 36:26-27 for C26; C26 quotes 36:26.",
+  "prediction_note": "Forecast: 36:26-27 the prior, with 11:19-20 its earlier form; 18 the anchor for PR11; 34 for C08. Outcome: as forecast. Unforecast: 3:15 (seven days sitting with the exiles before speaking) anchors PR16, and 16:49 gives one of the plainest PR28 counter-examples in scripture.",
+  "coverage_note": "Indexed selectively. Not indexed: the throne-chariot visions (1, 10), the sign-acts (4-5, 12, 24), the oracles of judgment against Jerusalem (6-9, 11:1-16, 13-15, 17, 19-23, 24), the extended allegories of chapters 16 and 23 (16:49-50 is indexed; the remainder of both chapters uses sexual imagery of judgment the index does not turn into guidance), the oracles against the nations (25-32), Gog and Magog (38-39), and the measurements of the new temple and land (40-46, 47:13-48:35). 33:1-20 restates 3:16-21 and 18 and is not indexed separately.",
+  "entries": [
+    {
+      "ref": "Ezekiel 2:1-3:11",
+      "pericope": "Whether they will hear, or whether they will forbear… don't be afraid of their words… all my words that I shall speak to you receive in your heart",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The call of a prophet to an audience that will not listen. 'You shall speak my words to them, whether they will hear, or whether they will forbear.' Success is not the measure; faithfulness is: 'they… yet shall know that there has been a prophet among them.' C08's true prophet, released from needing a response. 'Don't be afraid of them, neither be afraid of their words, though briers and thorns are with you, and you do dwell among scorpions.' And the order of the work: the prophet hears before he speaks — 'open your mouth, and eat that which I give you… all my words that I shall speak to you receive in your heart, and hear with your ears.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Ezekiel 3:15-21",
+      "pericope": "I sat there overwhelmed among them seven days… Son of man, I have made you a watchman to the house of Israel",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C08"
+      ],
+      "practices": [
+        "PR16"
+      ],
+      "mode": "exemplifies",
+      "connection": "Before he says anything to the exiles, Ezekiel sits with them: 'Then I came to them of the captivity at Tel Aviv… and I sat there overwhelmed among them seven days.' Listening as Mercy in a prophet — full presence before any word of correction (medium). Then the charge: 'Son of man, I have made you a watchman to the house of Israel: therefore hear the word from my mouth, and give them warning from me.' C20's watchman, here responsible not for the response but for the warning: 'if you warn the wicked, and he doesn't turn from his wickedness… you have delivered your soul.' C08's duty to speak, made heavier: 'his blood will I require at your hand.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Ezekiel 11:17-20",
+      "pericope": "I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them a heart of flesh",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C26"
+      ],
+      "practices": [],
+      "connection": "The first statement of the promise that 36:26-27 repeats: 'I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them a heart of flesh; that they may walk in my statutes.' C26's transformation, given to exiles who had just been told the glory had left the temple (10:18-19). Obedience follows the new heart rather than earning it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Ezekiel 16:49-50",
+      "pericope": "This was the iniquity of your sister Sodom: pride, fullness of bread, and prosperous ease was in her and in her daughters; neither did she strengthen the hand of the poor and needy",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C18",
+        "C22",
+        "C16"
+      ],
+      "practices": [
+        "PR28"
+      ],
+      "mode": "counter-example",
+      "connection": "Inside a long and harsh allegory (16:1-63, otherwise not indexed), two verses that name the sin of Sodom in terms the reader may not expect: 'Behold, this was the iniquity of your sister Sodom: pride, fullness of bread, and prosperous ease was in her and in her daughters; neither did she strengthen the hand of the poor and needy. They were haughty, and committed abomination before me.' The Heavenly Palace's warning in its most compressed form: surplus, ease, and the poor left unhelped (medium). C18, C22 and C16.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ezekiel 18:1-32",
+      "pericope": "The soul who sins, he shall die… None of his transgressions that he has committed shall be remembered against him… make yourself a new heart and a new spirit: for why will you die… turn yourselves, and live",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C04",
+        "C26"
+      ],
+      "practices": [
+        "PR11",
+        "PR29"
+      ],
+      "mode": "prescribes",
+      "connection": "The exiles have a proverb: 'The fathers have eaten sour grapes, and the children's teeth are set on edge.' Ezekiel abolishes it. Each person answers for their own way — C04's mirror turned on the self, not on one's parents. And the door is open the same day: 'But if the wicked turn from all his sins… he shall surely live, he shall not die. None of his transgressions that he has committed shall be remembered against him.' Merciful Reintegration as God practises it — the past does not become a permanent identity (medium). 'Have I any pleasure in the death of the wicked? says the Lord Yahweh; and not rather that he should return from his way, and live?' The Failure Recovery Protocol's return, commanded: 'Return, and turn yourselves from all your transgressions… and make yourself a new heart and a new spirit: for why will you die, house of Israel? For I have no pleasure in the death of him who dies… therefore turn yourselves, and live.' C19 and C26.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ezekiel 33:30-32",
+      "pericope": "With their mouth they show much love, but their heart goes after their gain. Behold, you are to them as a very lovely song… for they hear your words, but they don't do them",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C12",
+        "C04"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "counter-example",
+      "connection": "The prophet has become popular: 'Please come and hear what is the word that comes forth from Yahweh.' 'They come to you as the people come, and they sit before you as my people, and they hear your words, but don't do them; for with their mouth they show much love, but their heart goes after their gain. Behold, you are to them as a very lovely song of one who has a pleasant voice, and can play well on an instrument.' Preaching as entertainment. The Moral Audit exists to break exactly this — 'a doer of the word rather than a hearer only' (medium). C12's proof, and C04.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Ezekiel 34:1-16",
+      "pericope": "You haven't strengthened the diseased, neither have you healed that which was sick, neither have you bound up that which was broken… I myself will be the shepherd of my sheep… I will seek that which was lost",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C08",
+        "C16",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Woe to the shepherds of Israel who feed themselves! Shouldn't the shepherds feed the sheep?' The indictment is a list of what was not done: 'You haven't strengthened the diseased, neither have you healed that which was sick, neither have you bound up that which was broken, neither have you brought back that which was driven away, neither have you sought that which was lost; but with force and with rigor you have ruled over them.' C08's false leader, judged by neglect. Then God takes the work himself and does every item on the list: 'I will seek that which was lost, and will bring back that which was driven away, and will bind up that which was broken, and will strengthen that which was sick.' C16's service and C21's physician, and the text behind John 10 and Luke 15.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ezekiel 36:22-32",
+      "pericope": "I will also give you a new heart, and I will put a new spirit within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh. I will put my Spirit within you",
+      "pillars": [
+        "mercy",
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "The Scriptural Appendix cites 36:26-27 as 'the promise underlying every Practice of Transformation. The outcome of this road is not that you become harder but that you become capable of being moved.' C26 quotes 36:26. 'I will sprinkle clean water on you, and you shall be clean… I will also give you a new heart, and I will put a new spirit within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh. I will put my Spirit within you, and cause you to walk in my statutes.' C26's change of nature, done from inside by God. It is framed by C19's honesty about why — 'I don't do this for your sake… but for my holy name' — and followed by the clear sight that comes after mercy, not before it: 'Then you shall remember your evil ways… and you shall loathe yourselves in your own sight.'",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Ezekiel 37:1-14",
+      "pericope": "Son of man, can these bones live? I answered, Lord Yahweh, you know… Our bones are dried up, and our hope is lost… I will put my Spirit in you, and you shall live",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C26"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "A valley of bones, 'very dry.' 'Son of man, can these bones live? I answered, Lord Yahweh, you know.' The Discipline of Unknowing in the prophet's answer — neither yes nor no (medium). The bones are the people's own words: 'Our bones are dried up, and our hope is lost; we are clean cut off.' Sacred despair spoken aloud. God's answer is resurrection in two stages — bodies first, 'but there was no breath in them,' then breath: 'Come from the four winds, breath, and breathe on these slain, that they may live.' C19's hope where none is left, and C26's Spirit: 'I will put my Spirit in you, and you shall live.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Ezekiel 47:1-12",
+      "pericope": "Waters issued out from under the threshold of the house… waters that were to the ankles… to the knees… to the waist… a river that I could not pass through… everything shall live wherever the river comes",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C11",
+        "C26",
+        "C25"
+      ],
+      "practices": [],
+      "connection": "A stream from under the temple threshold, measured at intervals: 'waters that were to the ankles… to the knees… to the waist… a river that I could not pass through.' C25's growth from a trickle, without additional sources. It flows into the Dead Sea 'and the waters shall be healed… everything shall live wherever the river comes.' On its banks C11's trees: 'whose leaf shall not wither, neither shall its fruit fail: it shall bring forth new fruit every month, because its waters issue out of the sanctuary; and its fruit shall be for food, and its leaf for healing.' C26's transformation of the dead places. Revelation 22:1-2 takes up the image.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

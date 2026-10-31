@@ -2407,6 +2407,36 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 18:1-32",
+        "name": "The soul who sins, he shall die… None of his transgressions that he has committed shall be remembered against him… make yourself a new heart and a new spirit: for why will you die… turn yourselves, and live",
+        "chapters": [
+          "C04",
+          "C19",
+          "C26"
+        ],
+        "practices": [
+          "PR11",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 33:30-32",
+        "name": "With their mouth they show much love, but their heart goes after their gain. Behold, you are to them as a very lovely song… for they hear your words, but they don't do them",
+        "chapters": [
+          "C04",
+          "C12"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 2:11-14",
         "name": "Before some people came from James, he ate with the Gentiles. But when they came, he drew back and separated himself, fearing",
@@ -5713,6 +5743,44 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 2:1-3:11",
+        "name": "Whether they will hear, or whether they will forbear… don't be afraid of their words… all my words that I shall speak to you receive in your heart",
+        "chapters": [
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 34:1-16",
+        "name": "You haven't strengthened the diseased, neither have you healed that which was sick, neither have you bound up that which was broken… I myself will be the shepherd of my sheep… I will seek that which was lost",
+        "chapters": [
+          "C08",
+          "C16",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 3:15-21",
+        "name": "I sat there overwhelmed among them seven days… Son of man, I have made you a watchman to the house of Israel",
+        "chapters": [
+          "C08",
+          "C20"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 1:6-10",
         "name": "Am I now seeking the favor of men, or of God?",
@@ -8033,6 +8101,19 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 47:1-12",
+        "name": "Waters issued out from under the threshold of the house… waters that were to the ankles… to the knees… to the waist… a river that I could not pass through… everything shall live wherever the river comes",
+        "chapters": [
+          "C11",
+          "C25",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 2:15-21",
         "name": "It is no longer I that live, but Christ living in me",
@@ -8670,6 +8751,20 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 33:30-32",
+        "name": "With their mouth they show much love, but their heart goes after their gain. Behold, you are to them as a very lovely song… for they hear your words, but they don't do them",
+        "chapters": [
+          "C04",
+          "C12"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
       },
       {
         "book": "Galatians.Json",
@@ -14437,6 +14532,34 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 16:49-50",
+        "name": "This was the iniquity of your sister Sodom: pride, fullness of bread, and prosperous ease was in her and in her daughters; neither did she strengthen the hand of the poor and needy",
+        "chapters": [
+          "C16",
+          "C18",
+          "C22"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 34:1-16",
+        "name": "You haven't strengthened the diseased, neither have you healed that which was sick, neither have you bound up that which was broken… I myself will be the shepherd of my sheep… I will seek that which was lost",
+        "chapters": [
+          "C08",
+          "C16",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 2:1-10",
         "name": "They only asked us to remember the poor — which very thing I was also zealous to do",
@@ -17740,6 +17863,21 @@
         "source_file": "ecclesiastes.json"
       },
       {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 16:49-50",
+        "name": "This was the iniquity of your sister Sodom: pride, fullness of bread, and prosperous ease was in her and in her daughters; neither did she strengthen the hand of the poor and needy",
+        "chapters": [
+          "C16",
+          "C18",
+          "C22"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 6:11-18",
         "name": "As many as desire to look good in the flesh… far be it from me to boast, except in the cross",
@@ -19646,6 +19784,48 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 18:1-32",
+        "name": "The soul who sins, he shall die… None of his transgressions that he has committed shall be remembered against him… make yourself a new heart and a new spirit: for why will you die… turn yourselves, and live",
+        "chapters": [
+          "C04",
+          "C19",
+          "C26"
+        ],
+        "practices": [
+          "PR11",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 36:22-32",
+        "name": "I will also give you a new heart, and I will put a new spirit within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh. I will put my Spirit within you",
+        "chapters": [
+          "C19",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 37:1-14",
+        "name": "Son of man, can these bones live? I answered, Lord Yahweh, you know… Our bones are dried up, and our hope is lost… I will put my Spirit in you, and you shall live",
+        "chapters": [
+          "C19",
+          "C26"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
       },
       {
         "book": "Galatians.Json",
@@ -22930,6 +23110,20 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 3:15-21",
+        "name": "I sat there overwhelmed among them seven days… Son of man, I have made you a watchman to the house of Israel",
+        "chapters": [
+          "C08",
+          "C20"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 5:1-12",
         "name": "Faith working through love… A little yeast grows through the whole lump",
@@ -24188,6 +24382,19 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 34:1-16",
+        "name": "You haven't strengthened the diseased, neither have you healed that which was sick, neither have you bound up that which was broken… I myself will be the shepherd of my sheep… I will seek that which was lost",
+        "chapters": [
+          "C08",
+          "C16",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "ezekiel.json"
       },
       {
         "book": "Genesis.Json",
@@ -25796,6 +26003,21 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 16:49-50",
+        "name": "This was the iniquity of your sister Sodom: pride, fullness of bread, and prosperous ease was in her and in her daughters; neither did she strengthen the hand of the poor and needy",
+        "chapters": [
+          "C16",
+          "C18",
+          "C22"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
       },
       {
         "book": "Galatians.Json",
@@ -29427,6 +29649,19 @@
         "source_file": "ephesians.json"
       },
       {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 47:1-12",
+        "name": "Waters issued out from under the threshold of the house… waters that were to the ankles… to the knees… to the waist… a river that I could not pass through… everything shall live wherever the river comes",
+        "chapters": [
+          "C11",
+          "C25",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 4:12-20",
         "name": "My little children, of whom I am again in travail until Christ is formed in you",
@@ -30620,6 +30855,72 @@
         "practices": [],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 11:17-20",
+        "name": "I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them a heart of flesh",
+        "chapters": [
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 18:1-32",
+        "name": "The soul who sins, he shall die… None of his transgressions that he has committed shall be remembered against him… make yourself a new heart and a new spirit: for why will you die… turn yourselves, and live",
+        "chapters": [
+          "C04",
+          "C19",
+          "C26"
+        ],
+        "practices": [
+          "PR11",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 36:22-32",
+        "name": "I will also give you a new heart, and I will put a new spirit within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh. I will put my Spirit within you",
+        "chapters": [
+          "C19",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 37:1-14",
+        "name": "Son of man, can these bones live? I answered, Lord Yahweh, you know… Our bones are dried up, and our hope is lost… I will put my Spirit in you, and you shall live",
+        "chapters": [
+          "C19",
+          "C26"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 47:1-12",
+        "name": "Waters issued out from under the threshold of the house… waters that were to the ankles… to the knees… to the waist… a river that I could not pass through… everything shall live wherever the river comes",
+        "chapters": [
+          "C11",
+          "C25",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "ezekiel.json"
       },
       {
         "book": "Galatians.Json",
@@ -33726,6 +34027,20 @@
         "source_file": "amos.json"
       },
       {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 33:30-32",
+        "name": "With their mouth they show much love, but their heart goes after their gain. Behold, you are to them as a very lovely song… for they hear your words, but they don't do them",
+        "chapters": [
+          "C04",
+          "C12"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
         "book": "Galatians.Json",
         "reference": "Galatians 6:1-5",
         "name": "Restore such a one in a spirit of gentleness; looking to yourself so that you also aren't tempted",
@@ -35208,6 +35523,20 @@
         ],
         "tags": [],
         "source_file": "ephesians.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 37:1-14",
+        "name": "Son of man, can these bones live? I answered, Lord Yahweh, you know… Our bones are dried up, and our hope is lost… I will put my Spirit in you, and you shall live",
+        "chapters": [
+          "C19",
+          "C26"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
       },
       {
         "book": "Habakkuk.Json",
@@ -39450,6 +39779,22 @@
         "source_file": "deuteronomy.json"
       },
       {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 18:1-32",
+        "name": "The soul who sins, he shall die… None of his transgressions that he has committed shall be remembered against him… make yourself a new heart and a new spirit: for why will you die… turn yourselves, and live",
+        "chapters": [
+          "C04",
+          "C19",
+          "C26"
+        ],
+        "practices": [
+          "PR11",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
         "book": "Habakkuk.Json",
         "reference": "Habakkuk 3:16-19",
         "name": "Though the fig tree doesn't flourish, yet I will rejoice",
@@ -42052,6 +42397,20 @@
         "source_file": "acts.json"
       },
       {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 3:15-21",
+        "name": "I sat there overwhelmed among them seven days… Son of man, I have made you a watchman to the house of Israel",
+        "chapters": [
+          "C08",
+          "C20"
+        ],
+        "practices": [
+          "PR16"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 40:1-23",
         "name": "Why do you look so sad today?",
@@ -43937,6 +44296,21 @@
         "source_file": "ecclesiastes.json"
       },
       {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 16:49-50",
+        "name": "This was the iniquity of your sister Sodom: pride, fullness of bread, and prosperous ease was in her and in her daughters; neither did she strengthen the hand of the poor and needy",
+        "chapters": [
+          "C16",
+          "C18",
+          "C22"
+        ],
+        "practices": [
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
+      },
+      {
         "book": "Hosea.Json",
         "reference": "Hosea 10:1-8",
         "name": "According to the abundance of his fruit he has multiplied his altars. As their land has prospered, they have adorned their sacred stones. Their heart is divided",
@@ -44136,6 +44510,22 @@
         ],
         "tags": [],
         "source_file": "deuteronomy.json"
+      },
+      {
+        "book": "Ezekiel.Json",
+        "reference": "Ezekiel 18:1-32",
+        "name": "The soul who sins, he shall die… None of his transgressions that he has committed shall be remembered against him… make yourself a new heart and a new spirit: for why will you die… turn yourselves, and live",
+        "chapters": [
+          "C04",
+          "C19",
+          "C26"
+        ],
+        "practices": [
+          "PR11",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "ezekiel.json"
       },
       {
         "book": "Galatians.Json",

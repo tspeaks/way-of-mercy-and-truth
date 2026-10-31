@@ -46,6 +46,7 @@ the first fourteen.
 | 2 Samuel | 18 | `reviews/2-samuel-package.md` | 11:1-27 and 12:1-14 (A3 priors; PR12 counter-example; PR11 + PR03 + PR01); **15:13-37 (PR26 — Ittai, the closest text to Ruth 1:16-17)**; 14:21-33 (PR29 counter-example — "let him not see my face"); 16:5-14 (PR18 + PR06 — Shimei); 9:1-13 (PR25, Mephibosheth at the table; PR26 declined because of the oath); 21:10-14 (PR26 + PR08 — Rizpah); 24:10-25 (PR03 + PR11); 13:1-22 (indexed as a record; review the handling) |
 | 1 Kings | 11 | `reviews/1-kings-package.md` | 19:1-18 (PR08 — Elijah under the juniper; the angel's food before counsel); 12:1-19 (PR16 counter-example; C16 at 12:7); 21:1-29 (PR28 counter-example — Naboth; Ahab's humbling seen); 17:8-16 (PR05, medium); 22:5-28 (C08 — Micaiah) |
 | 2 Kings | 9 | `reviews/2-kings-package.md` | 6:1-7 (A3 prior, C26); 6:8-23 (PR06 + PR15 — feeding the enemy army); 5:1-27 (PR15 — the captive girl); 7:3-11 (PR28 positive, medium); 2:1-14 (PR26, medium); 25:27-30 (PR29, medium) |
+| Ezekiel | 10 | `reviews/ezekiel-package.md` | 36:22-32 (A3 prior, C26); 18:1-32 (PR11 + PR29); 3:15-21 (PR16 — seven days sitting before speaking, medium); 16:49-50 (PR28 counter-example); 33:30-32 (PR01 counter-example); 34:1-16 (C08); 37:1-14 (PR04, medium) |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

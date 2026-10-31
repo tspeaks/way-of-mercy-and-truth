@@ -1,0 +1,197 @@
+{
+  "book": "Lamentations",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/lamentations.json",
+  "note": "Five poems on the fall of Jerusalem, the first four acrostics. The Scriptural Appendix cites 3:22-23 for Sacred Lament (PR08) and the Rule of Return; C28 quotes it.",
+  "prediction_note": "Forecast: PR08 dominant throughout; 3:22-23 the anchor for PR11. Outcome: as forecast. 2:19 prescribes lament outright ('Pour out your heart like water before the face of the Lord'), and 5:22 gives the clearest instance anywhere in the index of lament that ends without resolution.",
+  "coverage_note": "The requests for recompense against enemies (1:21-22, 3:59-66) and the oracle against Edom (4:21-22) are carried inside the poems as part of the lament or left unindexed; none is offered as formation guidance. 4:17-20 is not indexed separately.",
+  "entries": [
+    {
+      "ref": "Lamentations 1:1-22",
+      "pericope": "Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow… Yahweh is righteous; for I have rebelled",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C04"
+      ],
+      "practices": [
+        "PR08",
+        "PR03"
+      ],
+      "mode": "exemplifies",
+      "connection": "The first of five poems, four of them acrostics — grief given the most ordered form available. 'How the city sits solitary, that was full of people! She has become as a widow.' The refrain is the absence of comfort: 'among all her lovers she has none to comfort her.' Sacred Lament in its purest form: 'Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow.' And inside the grief, honest confession: 'Yahweh is righteous; for I have rebelled against his commandment… my heart is turned within me; for I have grievously rebelled.' Self-Accusation held together with lament rather than replacing it (medium) — C04. The poem's closing request against her enemies (1:21-22) is recorded as part of the lament, not as guidance.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Lamentations 2:1-22",
+      "pericope": "Pour out your heart like water before the face of the Lord: Lift up your hands toward him for the life of your young children",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C08",
+        "C09"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "prescribes",
+      "connection": "The second poem says the hardest thing in the book: 'The Lord has become as an enemy.' Nothing is softened. The poet's own grief — 'My eyes do fail with tears… because the young children and the infants swoon in the streets of the city' — and the failure of the prophets that led here: 'They have not uncovered your iniquity, to bring back your captivity, but have seen for you false oracles' — C08. Then the command that makes this a practice and not only a record: 'Arise, cry out in the night, at the beginning of the watches; Pour out your heart like water before the face of the Lord: Lift up your hands toward him for the life of your young children.' Sacred Lament prescribed: bring the wound itself, say the unacceptable thing, and say it to God. C09's place of prayer, and C19's hope still addressed.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Lamentations 3:1-20",
+      "pericope": "He has made me to dwell in dark places, as those that have been long dead… when I cry, and call for help, he shuts out my prayer",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The centre poem, in the first person: 'I am the man that has seen affliction by the rod of his wrath.' Twenty verses of darkness, siege and silence: 'when I cry, and call for help, he shuts out my prayer… You have removed my soul far off from peace; I forgot prosperity. I said, My strength is perished, and my expectation from Yahweh.' Sacred Lament that does not hurry to the turn. The index anchors these verses separately because the hope of 3:21-23 means what it means only after this.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Lamentations 3:21-33",
+      "pericope": "This I recall to my mind; therefore have I hope. It is because of Yahweh's loving kindnesses that we are not consumed… They are new every morning; great is your faithfulness",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C28",
+        "C22"
+      ],
+      "practices": [
+        "PR08",
+        "PR11"
+      ],
+      "mode": "exemplifies",
+      "connection": "The Scriptural Appendix cites 3:22-23, 'written by a man surveying the ruins of everything he loved,' for Sacred Lament and 'the Rule of Return: mercies new every morning, which means yesterday's failure does not draw against today's account.' C28 quotes it directly. 'This I recall to my mind; therefore have I hope. It is because of Yahweh's loving kindnesses that we are not consumed, because his compassion doesn't fail. They are new every morning; great is your faithfulness.' The hope is chosen — 'this I recall' — not felt. The Failure Recovery Protocol's same-day return grounded in a mercy that renews daily. C19 and C28. Then C22's quiet: 'It is good that a man should hope and quietly wait for the salvation of Yahweh… Let him sit alone and keep silence… For the Lord will not cast off forever. For though he cause grief, yet he will have compassion… For he does not afflict willingly.' The line 'Let him give his cheek to him who strikes him' (3:30) stands behind Matthew 5:39.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Lamentations 3:34-42",
+      "pericope": "Let us search and try our ways, and turn again to Yahweh. Let us lift up our heart with our hands to God in the heavens",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C19"
+      ],
+      "practices": [
+        "PR01",
+        "PR11"
+      ],
+      "mode": "prescribes",
+      "connection": "The Lord does not approve 'to turn aside the right of a man… to subvert a man in his cause.' Then the turn to the self: 'Why does a living man complain, a man for the punishment of his sins? Let us search and try our ways, and turn again to Yahweh. Let us lift up our heart with our hands to God in the heavens. We have transgressed and have rebelled.' The Moral Audit's examination ('search and try our ways'), and the Failure Recovery Protocol's return immediately after it (medium for both — the poem prescribes the movement, not the method). C04 and C19.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Lamentations 3:43-58",
+      "pericope": "You have covered yourself with a cloud, so that no prayer can pass through… I called on your name, Yahweh, out of the lowest dungeon… You drew near in the day that I called on you; you said, Don't be afraid",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C09"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The lament resumes — 'You have covered yourself with a cloud, so that no prayer can pass through' — and the poet's tears will not stop 'until Yahweh look down, and see from heaven.' Then, from 'the lowest dungeon,' the answer: 'You heard my voice; don't hide your ear at my breathing, at my cry. You drew near in the day that I called on you; you said, Don't be afraid.' Sacred Lament heard. C19's mercy reaching the lowest place, and C09. The closing request for recompense against enemies (3:59-66) is recorded as part of the lament, not as guidance.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Lamentations 4:1-16",
+      "pericope": "The young children ask bread, and no man breaks it to them… It is because of the sins of her prophets, and the iniquities of her priests",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C08",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The fourth poem describes the siege's aftermath without restraint: gold dimmed, nobles unrecognisable in the streets, children asking for bread 'and no man breaks it to them,' and worse. The cause named is leadership: 'It is because of the sins of her prophets, and the iniquities of her priests, That have shed the blood of the just in the midst of her. They wander as blind men in the streets.' C08's false prophet and C21's anatomy of a society's collapse traced to those who were supposed to see. The oracle against Edom (4:21-22) is not indexed.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Lamentations 5:1-22",
+      "pericope": "Remember, Yahweh, what has come on us… Turn us to yourself, Yahweh, and we shall be turned. Renew our days as of old. But you have utterly rejected us",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C25"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The last poem is a communal prayer, no longer an acrostic, as if the form has worn out: 'Remember, Yahweh, what has come on us: Look, and see our reproach… We are orphans and fatherless; Our mothers are as widows.' Confession — 'Woe to us! for we have sinned' — and trust — 'You, Yahweh, remain forever.' Then the question and the request: 'Why do you forget us forever, And forsake us so long time? Turn us to yourself, Yahweh, and we shall be turned. Renew our days as of old.' And the book ends on its lowest line: 'But you have utterly rejected us; You are very angry against us.' Sacred Lament as A1 defines it — 'without demanding immediate resolution' — sustained to the end of a book. C19's prayer for return, and C25's long wait with no answer yet.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

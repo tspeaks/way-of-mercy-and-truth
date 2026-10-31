@@ -2487,6 +2487,36 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 1:1-22",
+        "name": "Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow… Yahweh is righteous; for I have rebelled",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR03",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:34-42",
+        "name": "Let us search and try our ways, and turn again to Yahweh. Let us lift up our heart with our hands to God in the heavens",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR01",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 11:37-44",
         "name": "You cleanse the outside of the cup",
@@ -5253,6 +5283,56 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Jude.Json",
+        "reference": "Jude 1:1-4",
+        "name": "Contend earnestly for the faith which was once for all delivered to the saints… turning the grace of our God into indecency",
+        "chapters": [
+          "C08"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "jude.json"
+      },
+      {
+        "book": "Jude.Json",
+        "reference": "Jude 1:5-16",
+        "name": "Michael, the archangel… dared not bring against him an abusive condemnation, but said, 'May the Lord rebuke you!'… clouds without water… autumn leaves without fruit",
+        "chapters": [
+          "C08",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "jude.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 2:1-22",
+        "name": "Pour out your heart like water before the face of the Lord: Lift up your hands toward him for the life of your young children",
+        "chapters": [
+          "C08",
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 4:1-16",
+        "name": "The young children ask bread, and no man breaks it to them… It is because of the sins of her prophets, and the iniquities of her priests",
+        "chapters": [
+          "C08",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 1:1-4",
         "name": "An orderly account, that you may know the certainty",
@@ -5969,6 +6049,48 @@
         ],
         "tags": [],
         "source_file": "jonah.json"
+      },
+      {
+        "book": "Jude.Json",
+        "reference": "Jude 1:17-25",
+        "name": "Keep yourselves in the love of God… On some have compassion, making a distinction, and some save, snatching them out of the fire",
+        "chapters": [
+          "C09",
+          "C10",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "jude.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 2:1-22",
+        "name": "Pour out your heart like water before the face of the Lord: Lift up your hands toward him for the life of your young children",
+        "chapters": [
+          "C08",
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:43-58",
+        "name": "You have covered yourself with a cloud, so that no prayer can pass through… I called on your name, Yahweh, out of the lowest dungeon… You drew near in the day that I called on you; you said, Don't be afraid",
+        "chapters": [
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
       },
       {
         "book": "Luke.Json",
@@ -6724,6 +6846,19 @@
         "practices": [],
         "tags": [],
         "source_file": "john.json"
+      },
+      {
+        "book": "Jude.Json",
+        "reference": "Jude 1:17-25",
+        "name": "Keep yourselves in the love of God… On some have compassion, making a distinction, and some save, snatching them out of the fire",
+        "chapters": [
+          "C09",
+          "C10",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "jude.json"
       },
       {
         "book": "Luke.Json",
@@ -7907,6 +8042,18 @@
         "practices": [],
         "tags": [],
         "source_file": "jonah.json"
+      },
+      {
+        "book": "Jude.Json",
+        "reference": "Jude 1:5-16",
+        "name": "Michael, the archangel… dared not bring against him an abusive condemnation, but said, 'May the Lord rebuke you!'… clouds without water… autumn leaves without fruit",
+        "chapters": [
+          "C08",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "jude.json"
       },
       {
         "book": "Luke.Json",
@@ -18701,6 +18848,108 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 1:1-22",
+        "name": "Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow… Yahweh is righteous; for I have rebelled",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR03",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 2:1-22",
+        "name": "Pour out your heart like water before the face of the Lord: Lift up your hands toward him for the life of your young children",
+        "chapters": [
+          "C08",
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:1-20",
+        "name": "He has made me to dwell in dark places, as those that have been long dead… when I cry, and call for help, he shuts out my prayer",
+        "chapters": [
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:21-33",
+        "name": "This I recall to my mind; therefore have I hope. It is because of Yahweh's loving kindnesses that we are not consumed… They are new every morning; great is your faithfulness",
+        "chapters": [
+          "C19",
+          "C22",
+          "C28"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:34-42",
+        "name": "Let us search and try our ways, and turn again to Yahweh. Let us lift up our heart with our hands to God in the heavens",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR01",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:43-58",
+        "name": "You have covered yourself with a cloud, so that no prayer can pass through… I called on your name, Yahweh, out of the lowest dungeon… You drew near in the day that I called on you; you said, Don't be afraid",
+        "chapters": [
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 5:1-22",
+        "name": "Remember, Yahweh, what has come on us… Turn us to yourself, Yahweh, and we shall be turned. Renew our days as of old. But you have utterly rejected us",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 15:11-32",
         "name": "While he was still far off, his father saw him",
@@ -21727,6 +21976,31 @@
         "source_file": "john.json"
       },
       {
+        "book": "Jude.Json",
+        "reference": "Jude 1:17-25",
+        "name": "Keep yourselves in the love of God… On some have compassion, making a distinction, and some save, snatching them out of the fire",
+        "chapters": [
+          "C09",
+          "C10",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "jude.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 4:1-16",
+        "name": "The young children ask bread, and no man breaks it to them… It is because of the sins of her prophets, and the iniquities of her priests",
+        "chapters": [
+          "C08",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 13:1-9",
         "name": "Let it alone this year also",
@@ -22987,6 +23261,22 @@
         "practices": [],
         "tags": [],
         "source_file": "john.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:21-33",
+        "name": "This I recall to my mind; therefore have I hope. It is because of Yahweh's loving kindnesses that we are not consumed… They are new every morning; great is your faithfulness",
+        "chapters": [
+          "C19",
+          "C22",
+          "C28"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
       },
       {
         "book": "Luke.Json",
@@ -26455,6 +26745,20 @@
         "source_file": "john.json"
       },
       {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 5:1-22",
+        "name": "Remember, Yahweh, what has come on us… Turn us to yourself, Yahweh, and we shall be turned. Renew our days as of old. But you have utterly rejected us",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 13:1-9",
         "name": "Let it alone this year also",
@@ -29017,6 +29321,22 @@
         "source_file": "john.json"
       },
       {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:21-33",
+        "name": "This I recall to my mind; therefore have I hope. It is because of Yahweh's loving kindnesses that we are not consumed… They are new every morning; great is your faithfulness",
+        "chapters": [
+          "C19",
+          "C22",
+          "C28"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 24:13-35",
         "name": "Weren't our hearts burning within us?",
@@ -30001,6 +30321,21 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:34-42",
+        "name": "Let us search and try our ways, and turn again to Yahweh. Let us lift up our heart with our hands to God in the heavens",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR01",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 11:37-44",
         "name": "You cleanse the outside of the cup",
@@ -30765,6 +31100,21 @@
         ],
         "tags": [],
         "source_file": "jonah.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 1:1-22",
+        "name": "Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow… Yahweh is righteous; for I have rebelled",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR03",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
       },
       {
         "book": "Luke.Json",
@@ -33643,6 +33993,93 @@
         "source_file": "jonah.json"
       },
       {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 1:1-22",
+        "name": "Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow… Yahweh is righteous; for I have rebelled",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR03",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 2:1-22",
+        "name": "Pour out your heart like water before the face of the Lord: Lift up your hands toward him for the life of your young children",
+        "chapters": [
+          "C08",
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:1-20",
+        "name": "He has made me to dwell in dark places, as those that have been long dead… when I cry, and call for help, he shuts out my prayer",
+        "chapters": [
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:21-33",
+        "name": "This I recall to my mind; therefore have I hope. It is because of Yahweh's loving kindnesses that we are not consumed… They are new every morning; great is your faithfulness",
+        "chapters": [
+          "C19",
+          "C22",
+          "C28"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:43-58",
+        "name": "You have covered yourself with a cloud, so that no prayer can pass through… I called on your name, Yahweh, out of the lowest dungeon… You drew near in the day that I called on you; you said, Don't be afraid",
+        "chapters": [
+          "C09",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 5:1-22",
+        "name": "Remember, Yahweh, what has come on us… Turn us to yourself, Yahweh, and we shall be turned. Renew our days as of old. But you have utterly rejected us",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
         "book": "Luke.Json",
         "reference": "Luke 19:41-44",
         "name": "He saw the city and wept over it",
@@ -35074,6 +35511,37 @@
         ],
         "tags": [],
         "source_file": "jonah.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:21-33",
+        "name": "This I recall to my mind; therefore have I hope. It is because of Yahweh's loving kindnesses that we are not consumed… They are new every morning; great is your faithfulness",
+        "chapters": [
+          "C19",
+          "C22",
+          "C28"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
+      },
+      {
+        "book": "Lamentations.Json",
+        "reference": "Lamentations 3:34-42",
+        "name": "Let us search and try our ways, and turn again to Yahweh. Let us lift up our heart with our hands to God in the heavens",
+        "chapters": [
+          "C04",
+          "C19"
+        ],
+        "practices": [
+          "PR01",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "lamentations.json"
       },
       {
         "book": "Luke.Json",

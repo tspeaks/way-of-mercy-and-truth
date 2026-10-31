@@ -1,0 +1,71 @@
+{
+  "book": "Jude",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/jude.json",
+  "note": "A single-chapter warning against teachers who had 'turned the grace of our God into indecency,' closing with instruction to remain in the love of God and care for those who waver. Not cited by the curriculum or the Scriptural Appendix.",
+  "entries": [
+    {
+      "ref": "Jude 1:1-4",
+      "pericope": "Contend earnestly for the faith which was once for all delivered to the saints… turning the grace of our God into indecency",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Jude meant to write 'about our common salvation' and was 'constrained' instead to write a warning: 'contend earnestly for the faith which was once for all delivered to the saints. For there are certain men who crept in secretly… turning the grace of our God into indecency.' C08's discernment of teachers, and the specific danger named: grace used as permission.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Jude 1:5-16",
+      "pericope": "Michael, the archangel… dared not bring against him an abusive condemnation, but said, 'May the Lord rebuke you!'… clouds without water… autumn leaves without fruit",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S3"
+      ],
+      "chapters": [
+        "C08",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "A dense chain of examples — the wilderness generation, fallen angels, Sodom, Cain, Balaam, Korah — applied to teachers who 'speak evil of whatever things they don't know.' Set against them, one figure of restraint: 'Michael, the archangel, when contending with the devil… dared not bring against him an abusive condemnation, but said, \"May the Lord rebuke you!\"' Even toward the devil, judgment is left to God. Then the images of C12's failed proof: 'clouds without water, carried along by winds; autumn leaves without fruit, twice dead, plucked up by the roots.' C08's test of the teacher by fruit, with flattery among the signs: 'showing respect of persons to gain advantage.' The index does not interpret the traditions Jude draws on (1:9, 1:14-15).",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Jude 1:17-25",
+      "pericope": "Keep yourselves in the love of God… On some have compassion, making a distinction, and some save, snatching them out of the fire",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C10",
+        "C21",
+        "C09"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "After the warnings, the instruction to the faithful is about remaining: 'keep building up yourselves on your most holy faith, praying in the Holy Spirit. Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ.' C10's remaining, and C09's prayer. Then care for those who waver, with discernment: 'On some have compassion, making a distinction, and some save, snatching them out of the fire with fear.' C21's physician, who treats different conditions differently. The doxology: 'to him who is able to keep them from stumbling, and to present you faultless before the presence of his glory in great joy.'",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

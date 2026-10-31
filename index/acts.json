@@ -1,0 +1,331 @@
+{
+  "book": "Acts",
+  "translation": "World English Bible (public domain)",
+  "status": "in progress — chapters 1-7 (the church in Jerusalem) indexed; 8-12, 13-20, and 21-28 pending",
+  "method_version": "2.3",
+  "text_source": "index/text/acts.json",
+  "note": "Indexed in sections along the book's own movement outward: the church in Jerusalem (1-7), Samaria, Saul, and Cornelius (8-12), Paul's journeys (13-20), and the arrest, trials, and voyage to Rome (21-28). Narrative throughout, so every entry carries a mode.",
+  "sectioning_note": "As with Jeremiah, the status field names what is done.",
+  "prediction_note": "The indexing order named Acts 2:44-47 and 4:32-37 'the strongest candidate for PR28, the Heavenly Palace.' Both are tagged, at high confidence, as exemplifies: a community converting property into provision for whoever lacks is the practice's positive form at the scale the practice names. Before today PR28 had no anchor at all; it now has these two, a positive prophetic anchor at Isaiah 23:15-18, and three counter-examples.",
+  "entries": [
+    {
+      "ref": "Acts 1:1-11",
+      "pericope": "It isn't for you to know times or seasons… But you will receive power",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C24",
+        "C27"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "prescribes",
+      "connection": "The disciples' last question to the risen Christ is about timing — 'are you now restoring the kingdom to Israel?' — and the answer declines it: 'It isn't for you to know times or seasons which the Father has set within his own authority. But you will receive power… You will be witnesses… to the uttermost parts of the earth.' The Discipline of Unknowing is not indecision: one acts steadfastly while knowing one's understanding is partial. Here the not-knowing is commanded and the acting commissioned in the same breath, with C27's widest horizon. 'Why do you stand looking into the sky?'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 1:12-26",
+      "pericope": "All these with one accord continued steadfastly in prayer",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C09",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Between the ascension and Pentecost there is only waiting: 'All these with one accord continued steadfastly in prayer and supplication, along with the women, and Mary the mother of Jesus, and with his brothers.' C09's prayer kept by a community, and C13's ordinary faithfulness in the interval before anything happens. The replacement of Judas is made by prayer to the one 'who know[s] the hearts of all men' and by lot — a decision handed over rather than seized.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 2:1-13",
+      "pericope": "We hear them speaking in our languages the mighty works of God",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "chapters": [
+        "C27"
+      ],
+      "practices": [],
+      "connection": "At Babel the one language was confused and the builders scattered (Genesis 11:1-9). At Pentecost the scattered languages are each spoken and each understood: 'Parthians, Medes, Elamites… Cretans and Arabians: we hear them speaking in our languages the mighty works of God!' Not one language restored but every language honoured. C27's circle drawn around every nation under heaven, with no one required to stop being who they are to stand inside it.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 2:14-41",
+      "pericope": "When they heard this, they were cut to the heart, and said… Brothers, what shall we do?",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C19",
+        "C27"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Peter tells a Jerusalem crowd that the man they crucified was raised and is Lord, and 'they were cut to the heart.' Their question is the beginning of every return — 'Brothers, what shall we do?' — and the answer is C19's door: 'Repent, and be baptized… for the forgiveness of sins.' The promise is extended to its widest: 'to you, and to your children, and to all who are far off' (C27). The same crowd that was told it had killed the Righteous One is the first to be offered mercy.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 2:42-47",
+      "pericope": "They sold their possessions and goods, and distributed them to all, according as anyone had need",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C18"
+      ],
+      "practices": [
+        "PR28"
+      ],
+      "mode": "exemplifies",
+      "connection": "The first portrait of the church is a shape of life: 'They continued steadfastly in the apostles' teaching and fellowship, in the breaking of bread, and prayer' — C13's ordinary faithfulness — and an economy. 'All who believed were together, and had all things in common. They sold their possessions and goods, and distributed them to all, according as anyone had need.' The Heavenly Palace asks a community in surplus to resist building monuments to its own comfort and to redirect toward the afflicted; this community converts property into provision for whoever lacks. The indexing order named it the strongest candidate for PR28, and on the definition it is: the practice at the scale the practice names, a community and not only a household. 'They took their food with gladness and singleness of heart' — C18's freedom from possession experienced as joy.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 3:1-10",
+      "pericope": "Silver and gold have I none, but what I have, that I give you",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16"
+      ],
+      "practices": [
+        "PR19"
+      ],
+      "mode": "exemplifies",
+      "connection": "Peter and John are on their way into the temple 'at the hour of prayer' when a man lame from birth asks them for alms. They stop — 'Peter, fastening his eyes on him… said, Look at us' — and give what they have rather than what was asked: 'Silver and gold have I none, but what I have, that I give you.' Spontaneous Service is pausing one's own work to help someone finish theirs and treating the interruption as the work; here the work interrupted is the hour of prayer itself, which is why the tag is medium rather than high. The fixed gaze before the gift is C16's attention to the one at the gate. The sentence is also the logic of Verbal Almsgiving — those without money give what they do have — though what Peter gives is healing rather than words, and PR21 is not tagged.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 3:11-26",
+      "pericope": "Why do you fasten your eyes on us, as though by our own power or godliness we had made him walk?",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The crowd stares at the apostles, and Peter's first move is to refuse the credit: 'why do you fasten your eyes on us, as though by our own power or godliness we had made him walk?' C23's hidden life in public, deflecting the audience to its proper object. Then mercy to the guilty, framed as generously as the facts allow: 'Now, brothers, I know that you did this in ignorance, as did also your rulers… Repent therefore, and turn again, that your sins may be blotted out' — C19's door, held open by one of the men they had made fatherless of his teacher.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 4:1-22",
+      "pericope": "They recognized that they had been with Jesus… Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C05",
+        "C17"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "exemplifies",
+      "connection": "Before the council the rulers notice two things: the boldness, and the source of it. 'When they saw the boldness of Peter and John, and had perceived that they were unlearned and ignorant men, they marveled. They recognized that they had been with Jesus.' C05's apprenticeship visible to its opponents — not credentials but company. Ordered to stop speaking, they answer with the Citizen-Stranger's limit: full respect for the court, and a loyalty above it — 'Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves, for we can't help telling the things which we saw and heard.' PR10's ultimate loyalty resting above any human decree, stated courteously to the decree-makers.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 4:23-31",
+      "pericope": "Now, Lord, look at their threats, and grant to your servants to speak your word with all boldness",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C09",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Released, the apostles report to their own people, and the community's response to threats is to pray — Psalm 2 read over their situation — and to ask not for safety but for boldness: 'Now, Lord, look at their threats, and grant to your servants to speak your word with all boldness.' C09's prayer as the place a threat is taken, and C17's public witness sustained by it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 4:32-37",
+      "pericope": "Not one of them claimed that anything of the things which he possessed was his own",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C13"
+      ],
+      "practices": [
+        "PR28"
+      ],
+      "mode": "exemplifies",
+      "connection": "The second portrait, more exact than the first: 'The multitude of those who believed were of one heart and soul. Not one of them claimed that anything of the things which he possessed was his own… neither was there among them any who lacked, for as many as were owners of lands or houses sold them, and brought the proceeds… and distribution was made to each, according as anyone had need.' A named example follows — Joseph, called Barnabas, 'Son of Encouragement,' who sold a field and laid the money at the apostles' feet. The Heavenly Palace in its positive form, and the outcome Deuteronomy 15:4 promised — 'there shall be no poor with you' — recorded as fact. C18's detachment as the refusal to call anything one's own.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 5:1-11",
+      "pericope": "While you kept it, didn't it remain your own?… You haven't lied to men, but to God",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C04",
+        "C12"
+      ],
+      "practices": [
+        "PR13"
+      ],
+      "mode": "counter-example",
+      "connection": "Ananias and Sapphira sell a property and bring part of the price as if it were all of it. Peter's words locate the sin precisely: not the keeping — 'While you kept it, didn't it remain your own? After it was sold, wasn't it in your power?' — but the pretence: 'How is it that you have conceived this thing in your heart? You haven't lied to men, but to God.' They wanted the standing Barnabas had just received without the cost. The Hidden Life is the practice against exactly this reach for an audience, and the passage is its absence at its gravest: generosity performed for credit. C04's audit of consistency between private and public, and C12's proof falsified. The severity of the judgment is recorded in the text; the index anchors the diagnosis, not the death.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 5:12-42",
+      "pericope": "If this work is of men, it will be overthrown. But if it is of God, you will not be able to overthrow it",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C08",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Imprisoned again, released, and brought before the council a second time: 'We must obey God rather than men.' Then a Pharisee's counsel that is itself a discernment test, C08's: 'if this counsel or this work is of men, it will be overthrown. But if it is of God, you will not be able to overthrow it' — judge by what lasts, and wait. They are beaten and released, and depart 'rejoicing that they were counted worthy to suffer dishonor for Jesus' name.' C17's cost of fidelity, received as honour.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 6:1-7",
+      "pericope": "A complaint arose from the Hellenists against the Hebrews, because their widows were neglected in the daily service",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C15"
+      ],
+      "practices": [
+        "PR09",
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "The first conflict inside the church is about food for widows, and it runs along an ethnic line: Greek-speaking widows neglected in the daily distribution. The apostles do not defend themselves or the system; they convene everyone, propose a remedy, and the community chooses seven men — every one of whom has a Greek name, from the complaining side. The Architecture of Peace aims at repair rather than victory and concedes early and out loud; here the concession is the authority itself, handed to the aggrieved. The daily distribution to widows is Habitual Almsgiving made an institution, and the structure created to protect it is C16's service, with authority used for the most neglected.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 6:8-7:53",
+      "pericope": "The Most High doesn't dwell in temples made with hands… uncircumcised in heart and ears",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2"
+      ],
+      "chapters": [
+        "C06",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Stephen, accused of speaking against the temple, retells Israel's history as a history of rejected deliverers: Joseph sold by his brothers, Moses rebuffed when he tried to reconcile two Israelites — 'Sirs, you are brothers. Why do you wrong one another?' — and every prophet persecuted. 'The Most High doesn't dwell in temples made with hands.' The outward sign read inwardly, which is C06's; and the charge 'uncircumcised in heart and ears, you always resist the Holy Spirit' is Jeremiah 4:4 turned on its hearers. C08's true prophet and the pattern of his rejection.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 7:54-60",
+      "pericope": "Lord, don't hold this sin against them!",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C03"
+      ],
+      "practices": [
+        "PR06",
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "The council rushes at him, drags him out, and stones him. Stephen, seeing heaven opened, kneels and makes two prayers that repeat Christ's from the cross: 'Lord Jesus, receive my spirit!' and, with a loud voice, 'Lord, don't hold this sin against them!' Non-Retaliation in its final form — no return, not even in speech — and Shedding Harshness at the summit the curriculum names: prayer for the good of those killing him, at the moment of their violence. C03's hardest turn and C27's ocean. A young man named Saul is holding the coats.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

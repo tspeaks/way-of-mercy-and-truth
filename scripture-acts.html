@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0C0B08">
+<title>Acts — Scripture Index — The Way of Mercy and Truth</title>
+<meta name="description" content="Every passage of Acts mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta property="og:type" content="book">
+<meta property="og:title" content="Acts — Scripture Index — The Way of Mercy and Truth">
+<meta property="og:description" content="Every passage of Acts mapped to the stages, chapters, and practices of The Way of Mercy and Truth. World English Bible, public domain.">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%230C0B08%27/%3E%3Cpath d=%27M16 6 L16 26 M9 13 H23%27 stroke=%27%23C9A227%27 stroke-width=%272.6%27 stroke-linecap=%27round%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0C0B08; --bg-raised:#15140F;
+  --gold:#C9A227; --gold-bright:#E3C158; --gold-pale:#EADFC4; --gold-dim:#8A7327;
+  --text:#E4DCC6; --text-soft:#BFB49A; --text-muted:#8A8069;
+  --truth:#7FA9B5; --mercy:#C4795F; --spec:#9C8AB2;
+  --rule:rgba(201,162,39,0.22); --rule-strong:rgba(201,162,39,0.45);
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 10px 30px rgba(0,0,0,.35);
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important;}
+}
+body{
+  margin:0;
+  color:var(--text);
+  background-color:var(--bg);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(201,162,39,.07), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 110%, rgba(201,162,39,.05), transparent 70%);
+  background-attachment:fixed;
+  font-family:'Source Serif 4','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+  font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+img{max-width:100%;height:auto;}
+a{color:var(--gold);text-decoration-color:rgba(201,162,39,.45);text-underline-offset:3px;}
+a:hover{color:var(--gold-bright);text-decoration-color:var(--gold-bright);}
+:focus-visible{outline:2px solid var(--gold-bright);outline-offset:3px;}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px;}
+.skip{position:absolute;left:-9999px;top:0;background:var(--bg-raised);color:var(--gold);
+  padding:10px 16px;z-index:99;border:1px solid var(--rule-strong);}
+.skip:focus{left:0;}
+.mono{font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.display{font-family:'Cormorant Garamond','Iowan Old Style',Georgia,serif;font-weight:600;}
+
+.rule-orn{display:flex;align-items:center;gap:14px;margin:0;color:var(--gold-dim);}
+.rule-orn::before,.rule-orn::after{content:"";height:1px;flex:1;
+  background:linear-gradient(90deg,transparent,var(--rule-strong),transparent);}
+.rule-orn span{font-size:13px;letter-spacing:.3em;}
+
+.setup{background:rgba(196,121,95,.14);border-bottom:1px solid var(--rule-strong);
+  color:var(--gold-pale);font-size:14px;padding:10px 0;}
+.setup .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+.setup code{background:rgba(201,162,39,.18);padding:1px 6px;font-size:13px;color:var(--gold-bright);}
+
+/* ---------- masthead ---------- */
+header.masthead{padding:62px 0 44px;text-align:center;}
+header.masthead::after{content:"";display:block;height:1px;margin-top:38px;
+  background:linear-gradient(90deg,transparent,var(--rule-strong) 20%,var(--rule-strong) 80%,transparent);}
+.crest{width:64px;height:64px;margin:0 auto 22px;display:block;color:var(--gold);opacity:.92;}
+.kicker{font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 16px;}
+h1.title{font-size:clamp(34px,9vw,58px);line-height:1.04;margin:0 0 12px;color:var(--gold-pale);
+  font-weight:600;letter-spacing:.005em;}
+.subtitle{font-size:clamp(15px,3.4vw,18px);color:var(--text-soft);font-style:italic;
+  margin:0 auto 30px;max-width:44ch;}
+blockquote.epigraph{margin:0 auto 30px;padding:20px 24px;max-width:52ch;
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  font-size:clamp(15.5px,3.4vw,18px);color:var(--text-soft);line-height:1.5;font-style:italic;}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;justify-content:center;}
+.badge{font-size:11px;letter-spacing:.08em;padding:5px 11px;text-transform:uppercase;
+  border:1px solid var(--rule);color:var(--text-muted);background:rgba(201,162,39,.05);white-space:nowrap;}
+.badge.gold{border-color:var(--rule-strong);color:var(--gold);}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;}
+.btn{display:inline-block;padding:14px 26px;text-decoration:none;font-size:15px;font-weight:600;
+  letter-spacing:.02em;border:1px solid var(--gold-dim);background:transparent;color:var(--gold);min-height:44px;}
+.btn:hover{background:rgba(201,162,39,.1);border-color:var(--gold);color:var(--gold-bright);}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#100E08;}
+.btn.primary:hover{background:var(--gold-bright);border-color:var(--gold-bright);color:#100E08;}
+
+section{padding:50px 0;}
+section + section{border-top:1px solid var(--rule);}
+h2.sec{font-size:clamp(23px,5vw,30px);margin:0 0 8px;color:var(--gold-pale);font-weight:600;}
+.section-note{color:var(--text-soft);margin:0 0 26px;max-width:62ch;}
+
+.cards{display:grid;gap:14px;grid-template-columns:1fr;}
+@media (min-width:660px){ .cards{grid-template-columns:1fr 1fr;} }
+.card{background:var(--bg-raised);border:1px solid var(--rule);padding:19px 21px;box-shadow:var(--shadow);}
+.card .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dim);margin:0 0 9px;}
+.card p{margin:0;font-size:15px;color:var(--text-soft);}
+.card .then{font-size:14px;color:var(--text-muted);margin:11px 0 0;padding-top:11px;border-top:1px solid var(--rule);}
+
+.pull{background:rgba(201,162,39,.06);border-top:2px solid var(--gold-dim);
+  border-bottom:2px solid var(--gold-dim);padding:24px 26px;margin:30px 0 0;}
+.pull p{margin:0;font-size:clamp(16.5px,3.5vw,19px);line-height:1.45;color:var(--gold-pale);}
+.pull .src{font-size:13px;color:var(--text-muted);margin-top:12px;letter-spacing:.05em;font-style:italic;}
+
+.pillars{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:26px;}
+@media (min-width:560px){ .pillars{grid-template-columns:repeat(3,1fr);} }
+.pillar{border:1px solid var(--rule);padding:18px 14px;text-align:center;background:var(--bg-raised);}
+.pillar b{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;display:block;
+  margin-bottom:5px;color:var(--gold-pale);letter-spacing:.06em;}
+.pillar span{font-size:13px;color:var(--text-muted);}
+.pillar.t{border-top:2px solid var(--truth);}
+.pillar.h{border-top:2px solid var(--gold);}
+.pillar.m{border-top:2px solid var(--mercy);}
+
+.stage{border:1px solid var(--rule);background:var(--bg-raised);margin-bottom:12px;box-shadow:var(--shadow);}
+.stage summary{cursor:pointer;padding:17px 19px;list-style:none;display:flex;gap:15px;
+  align-items:center;min-height:44px;}
+.stage summary::-webkit-details-marker{display:none;}
+.stage summary:hover{background:rgba(201,162,39,.06);}
+.stage .snum{flex:none;width:34px;height:34px;border-radius:50%;background:transparent;
+  border:1px solid var(--gold-dim);color:var(--gold);display:inline-flex;align-items:center;
+  justify-content:center;font-size:14px;font-weight:600;}
+.stage[open] .snum{background:var(--gold);color:#100E08;border-color:var(--gold);}
+.stage .sname{flex:1 1 auto;}
+.stage .sname b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;
+  font-weight:600;color:var(--gold-pale);letter-spacing:.05em;}
+.stage .sname span{display:block;font-size:14px;color:var(--text-soft);font-style:italic;}
+.stage .chev{flex:none;color:var(--text-muted);font-size:11px;letter-spacing:.06em;}
+.stage .body{padding:4px 19px 17px;border-top:1px solid var(--rule);}
+ol.chapters{list-style:none;margin:0;padding:0;}
+ol.chapters li + li{border-top:1px solid var(--rule);}
+ol.chapters a{display:flex;gap:12px;align-items:baseline;padding:13px 2px;text-decoration:none;
+  color:var(--text);min-height:44px;}
+ol.chapters a:hover{color:var(--gold-bright);}
+ol.chapters .cid{flex:none;font-size:11px;color:var(--text-muted);width:42px;}
+ol.chapters .ctitle{flex:1 1 auto;font-size:15.5px;}
+ol.chapters .cwords{flex:none;font-size:11px;color:var(--text-muted);}
+.stage-link{display:inline-block;margin-top:14px;font-size:14px;}
+
+ul.linklist{list-style:none;margin:0;padding:0;display:grid;gap:10px;}
+ul.linklist li{background:var(--bg-raised);border:1px solid var(--rule);box-shadow:var(--shadow);}
+ul.linklist a{display:block;padding:16px 19px;text-decoration:none;color:var(--text);min-height:44px;}
+ul.linklist a:hover{background:rgba(201,162,39,.06);}
+ul.linklist .lt{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:19px;
+  display:block;color:var(--gold-pale);letter-spacing:.03em;}
+ul.linklist .ld{font-size:14px;color:var(--text-soft);display:block;margin-top:4px;}
+.flag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;margin-left:9px;
+  vertical-align:2px;white-space:nowrap;border:1px solid;}
+.flag.partial{border-color:var(--gold-dim);color:var(--gold);}
+.flag.speculative{border-color:var(--spec);color:var(--spec);}
+
+.warn{border:1px solid var(--rule);border-left:3px solid var(--mercy);
+  background:rgba(196,121,95,.07);padding:22px 24px;}
+.warn h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;margin:0 0 10px;
+  color:var(--mercy);letter-spacing:.02em;}
+.warn p{margin:0 0 11px;font-size:15px;color:var(--text-soft);}
+.warn p:last-child{margin-bottom:0;}
+.license{background:var(--bg-raised);border:1px solid var(--rule);padding:24px 26px;}
+.license .big{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:600;
+  margin:0 0 12px;color:var(--gold-pale);letter-spacing:.03em;}
+.license ul{margin:0 0 14px;padding-left:20px;font-size:15px;color:var(--text-soft);}
+.license li{margin-bottom:6px;}
+.license .fine{font-size:13.5px;color:var(--text-muted);margin:0;}
+
+footer{padding:36px 0 64px;font-size:13px;color:var(--text-muted);
+  border-top:1px solid var(--rule);margin-top:20px;}
+footer p{margin:0 0 7px;}
+footer a{color:var(--text-muted);}
+footer a:hover{color:var(--gold);}
+
+/* ================= reading pages ================= */
+.topbar{position:sticky;top:0;z-index:20;background:rgba(12,11,8,.94);
+  border-bottom:1px solid var(--rule);}
+@supports ((backdrop-filter:blur(8px)) or (-webkit-backdrop-filter:blur(8px))){
+  .topbar{-webkit-backdrop-filter:saturate(140%) blur(8px);backdrop-filter:saturate(140%) blur(8px);}
+}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:50px;}
+.topbar a.home{font-size:13.5px;text-decoration:none;color:var(--gold);white-space:nowrap;}
+.topbar .where{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.progress{height:2px;}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold-dim),var(--gold));}
+
+article{max-width:680px;margin:0 auto;padding:44px 22px 0;}
+.doc-head{margin-bottom:38px;padding-bottom:26px;border-bottom:1px solid var(--rule);text-align:center;}
+.doc-kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 14px;}
+.doc-title{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,7vw,44px);
+  line-height:1.1;margin:0;font-weight:600;color:var(--gold-pale);letter-spacing:.01em;}
+.doc-sub{font-size:15px;color:var(--truth);margin:12px 0 0;font-style:italic;}
+.doc-meta{font-size:12px;color:var(--text-muted);margin:14px 0 0;letter-spacing:.06em;}
+
+.doc-body{font-size:18px;line-height:1.75;color:var(--text);}
+.doc-body p{margin:0 0 1.25em;}
+.doc-body > p:first-of-type::first-letter{float:left;font-family:'Cormorant Garamond',Georgia,serif;
+  font-size:3.4em;line-height:.82;padding:.06em .1em 0 0;color:var(--gold);font-weight:600;}
+.doc-body h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;font-weight:600;
+  margin:2em 0 .7em;color:var(--gold-pale);letter-spacing:.03em;}
+.doc-body h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;font-weight:600;
+  margin:1.9em 0 .6em;color:var(--gold);letter-spacing:.03em;}
+blockquote.scripture{margin:1.7em 0;padding:16px 0 16px 22px;border-left:2px solid var(--gold-dim);
+  background:rgba(201,162,39,.04);}
+blockquote.scripture p{margin:0;font-style:italic;color:var(--gold-pale);font-size:17px;line-height:1.6;}
+blockquote.scripture cite{display:block;margin-top:9px;font-style:normal;font-size:12.5px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+
+.docnav{max-width:680px;margin:56px auto 0;padding:0 22px 70px;}
+.docnav .orn{margin-bottom:26px;}
+.navgrid{display:grid;grid-template-columns:1fr;gap:12px;}
+@media (min-width:560px){ .navgrid{grid-template-columns:1fr 1fr;} }
+.nav-btn{display:block;padding:17px 20px;border:1px solid var(--rule);text-decoration:none;
+  background:var(--bg-raised);min-height:44px;}
+.nav-btn:hover{background:rgba(201,162,39,.07);border-color:var(--gold-dim);}
+.nav-btn .nav-label{display:block;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--gold-dim);margin-bottom:5px;}
+.nav-btn .nav-title{display:block;font-size:15.5px;color:var(--text);line-height:1.3;}
+.nav-btn:hover .nav-title{color:var(--gold-bright);}
+.nav-btn.next{text-align:right;}
+.nav-btn.disabled{opacity:.42;}
+.nav-hub{text-align:center;margin-top:20px;font-size:13.5px;}
+.kbd-hint{text-align:center;margin-top:14px;font-size:11.5px;color:var(--text-muted);letter-spacing:.05em;}
+@media (hover:none){ .kbd-hint{display:none;} }
+
+.notfound{text-align:center;padding:90px 22px;}
+.notfound h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(30px,8vw,46px);
+  color:var(--gold-pale);margin:0 0 14px;font-weight:600;}
+.notfound p{color:var(--text-soft);max-width:44ch;margin:0 auto 26px;}
+
+@media print{
+  body{background:#fff;color:#000;}
+  .topbar,.docnav,.skip,.setup,footer,.kbd-hint{display:none !important;}
+  article{max-width:none;padding:0;}
+  .doc-title,.doc-body h2,.doc-body h3{color:#000;}
+  .doc-body{font-size:12pt;}
+  blockquote.scripture{border-left:2px solid #999;background:none;}
+  blockquote.scripture p{color:#222;}
+  a{color:#000;text-decoration:none;}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<style>
+.entry{border-top:1px solid var(--rule);padding:34px 0;}
+.entry:first-of-type{border-top:0;}
+.entry-ref{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gold-dim);margin:0 0 6px;}
+.entry-name{font-family:'Cormorant Garamond',Georgia,serif;font-size:25px;font-weight:600;
+  color:var(--gold-pale);margin:0 0 18px;letter-spacing:.02em;}
+.passage{border-left:2px solid var(--gold-dim);padding:4px 0 4px 20px;margin:0 0 20px;
+  background:rgba(201,162,39,.04);}
+.passage p{margin:0 0 .7em;font-size:17px;line-height:1.65;color:var(--gold-pale);font-style:italic;}
+.passage p:last-child{margin-bottom:0;}
+.passage .vn{font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:10.5px;
+  color:var(--text-muted);vertical-align:3px;margin-right:5px;}
+.conn{font-size:16.5px;line-height:1.6;color:var(--text);margin:0 0 16px;}
+.tags{display:flex;flex-wrap:wrap;gap:7px;align-items:center;}
+.tag{font-size:11px;letter-spacing:.06em;padding:4px 10px;border:1px solid var(--rule);
+  color:var(--text-soft);text-decoration:none;white-space:nowrap;}
+a.tag:hover{border-color:var(--gold-dim);color:var(--gold-bright);}
+.tag.pillar{text-transform:uppercase;letter-spacing:.12em;}
+.tag.pillar.t{border-color:var(--truth);color:var(--truth);}
+.tag.pillar.m{border-color:var(--mercy);color:var(--mercy);}
+.tag.pillar.h{border-color:var(--gold);color:var(--gold);}
+.tag.conf{margin-left:auto;color:var(--text-muted);border-style:dashed;}
+.tag.corrected{border-color:var(--gold);color:var(--gold);}
+.tag.reviewed{border-color:var(--truth);color:var(--truth);}
+.passage.cluster p{font-style:normal;color:var(--text);}
+.passage.cluster .cref{color:var(--gold-dim);font-size:10.5px;margin-right:9px;vertical-align:2px;}
+.cluster-note{font-size:12px;color:var(--text-muted);letter-spacing:.06em;margin:0 0 12px;font-style:italic;}
+.entry-ref.cluster-label{color:var(--gold);}
+.tag.kind{border-style:solid;border-color:var(--gold-dim);color:var(--gold);
+  text-transform:uppercase;letter-spacing:.12em;font-size:10px;}
+.tag.mode{text-transform:uppercase;letter-spacing:.12em;font-size:10px;border-style:dotted;}
+.tag.mode.prescribes{border-color:var(--gold);color:var(--gold);}
+.tag.mode.exemplifies{border-color:var(--truth);color:var(--truth);}
+.tag.mode.counter{border-color:var(--mercy);color:var(--mercy);}
+.booknav{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;}
+.stat{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:24px 0 0;}
+@media (min-width:560px){ .stat{grid-template-columns:repeat(4,1fr);} }
+.stat div{border:1px solid var(--rule);background:var(--bg-raised);padding:14px;text-align:center;}
+.stat b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;
+  color:var(--gold-pale);font-weight:600;}
+.stat span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);}
+</style>
+<div class="topbar"><div class="wrap">
+<a class="home" href="index.html">✦ The Way of Mercy and Truth</a>
+<span class="where mono">Acts · index</span>
+</div><div class="progress"><i></i></div></div>
+<main id="main"><article>
+<div class="doc-head">
+<p class="doc-kicker">Scripture Index</p>
+<h1 class="doc-title">Acts</h1>
+<p class="doc-sub">World English Bible · public domain</p>
+<p class="doc-meta mono">15 passages · 253 of 1004 verses</p>
+</div>
+<div class="doc-body">
+<div class="entry">
+<p class="entry-ref">Acts 1:1-11</p>
+<h2 class="entry-name">It isn't for you to know times or seasons… But you will receive power</h2>
+<div class="passage">
+<p><span class="vn">1</span>The first book I wrote, Theophilus, concerned all that Jesus began both to do and to teach,</p>
+<p><span class="vn">2</span>until the day in which he was received up, after he had given commandment through the Holy Spirit to the apostles whom he had chosen.</p>
+<p><span class="vn">3</span>To these he also showed himself alive after he suffered, by many proofs, appearing to them over a period of forty days, and speaking about God’s Kingdom.</p>
+<p><span class="vn">4</span>Being assembled together with them, he commanded them, “Don’t depart from Jerusalem, but wait for the promise of the Father, which you heard from me.</p>
+<p><span class="vn">5</span>For John indeed baptized in water, but you will be baptized in the Holy Spirit not many days from now.”</p>
+<p><span class="vn">6</span>Therefore, when they had come together, they asked him, “Lord, are you now restoring the kingdom to Israel?”</p>
+<p><span class="vn">7</span>He said to them, “It isn’t for you to know times or seasons which the Father has set within his own authority.</p>
+<p><span class="vn">8</span>But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth.”</p>
+<p><span class="vn">9</span>When he had said these things, as they were looking, he was taken up, and a cloud received him out of their sight.</p>
+<p><span class="vn">10</span>While they were looking steadfastly into the sky as he went, behold, two men stood by them in white clothing,</p>
+<p><span class="vn">11</span>who also said, “You men of Galilee, why do you stand looking into the sky? This Jesus, who was received up from you into the sky will come back in the same way as you saw him going into the sky.”</p>
+</div>
+<p class="conn">The disciples' last question to the risen Christ is about timing — 'are you now restoring the kingdom to Israel?' — and the answer declines it: 'It isn't for you to know times or seasons which the Father has set within his own authority. But you will receive power… You will be witnesses… to the uttermost parts of the earth.' The Discipline of Unknowing is not indecision: one acts steadfastly while knowing one's understanding is partial. Here the not-knowing is commanded and the acting commissioned in the same breath, with C27's widest horizon. 'Why do you stand looking into the sky?'</p>
+<div class="tags">
+<span class="tag mode prescribes">commands it</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S6 Transformation</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c24.html">C24</a>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="a1.html">PR04</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 1:12-26</p>
+<h2 class="entry-name">All these with one accord continued steadfastly in prayer</h2>
+<div class="passage">
+<p><span class="vn">12</span>Then they returned to Jerusalem from the mountain called Olivet, which is near Jerusalem, a Sabbath day’s journey away.</p>
+<p><span class="vn">13</span>When they had come in, they went up into the upper room, where they were staying; that is Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James the son of Alphaeus, Simon the Zealot, and Judas the son of James.</p>
+<p><span class="vn">14</span>All these with one accord continued steadfastly in prayer and supplication, along with the women, and Mary the mother of Jesus, and with his brothers.</p>
+<p><span class="vn">15</span>In these days, Peter stood up in the midst of the disciples (and the number of names was about one hundred twenty), and said,</p>
+<p><span class="vn">16</span>“Brothers, it was necessary that this Scripture should be fulfilled, which the Holy Spirit spoke before by the mouth of David concerning Judas, who was guide to those who took Jesus.</p>
+<p><span class="vn">17</span>For he was numbered with us, and received his portion in this ministry.</p>
+<p><span class="vn">18</span>Now this man obtained a field with the reward for his wickedness, and falling headlong, his body burst open, and all his intestines gushed out.</p>
+<p><span class="vn">19</span>It became known to everyone who lived in Jerusalem that in their language that field was called ‘Akeldama,’ that is, ‘The field of blood.’</p>
+<p><span class="vn">20</span>For it is written in the book of Psalms, ‘Let his habitation be made desolate. Let no one dwell therein;’ and, ‘Let another take his office.’</p>
+<p><span class="vn">21</span>“Of the men therefore who have accompanied us all the time that the Lord Jesus went in and out among us,</p>
+<p><span class="vn">22</span>beginning from the baptism of John, to the day that he was received up from us, of these one must become a witness with us of his resurrection.”</p>
+<p><span class="vn">23</span>They put forward two, Joseph called Barsabbas, who was surnamed Justus, and Matthias.</p>
+<p><span class="vn">24</span>They prayed, and said, “You, Lord, who know the hearts of all men, show which one of these two you have chosen</p>
+<p><span class="vn">25</span>to take part in this ministry and apostleship from which Judas fell away, that he might go to his own place.”</p>
+<p><span class="vn">26</span>They drew lots for them, and the lot fell on Matthias, and he was numbered with the eleven apostles.</p>
+</div>
+<p class="conn">Between the ascension and Pentecost there is only waiting: 'All these with one accord continued steadfastly in prayer and supplication, along with the women, and Mary the mother of Jesus, and with his brothers.' C09's prayer kept by a community, and C13's ordinary faithfulness in the interval before anything happens. The replacement of Judas is made by prayer to the one 'who know[s] the hearts of all men' and by lot — a decision handed over rather than seized.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c09.html">C09</a>
+<a class="tag" href="c13.html">C13</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 2:1-13</p>
+<h2 class="entry-name">We hear them speaking in our languages the mighty works of God</h2>
+<div class="passage">
+<p><span class="vn">1</span>Now when the day of Pentecost had come, they were all with one accord in one place.</p>
+<p><span class="vn">2</span>Suddenly there came from the sky a sound like the rushing of a mighty wind, and it filled all the house where they were sitting.</p>
+<p><span class="vn">3</span>Tongues like fire appeared and were distributed to them, and one sat on each of them.</p>
+<p><span class="vn">4</span>They were all filled with the Holy Spirit, and began to speak with other languages, as the Spirit gave them the ability to speak.</p>
+<p><span class="vn">5</span>Now there were dwelling in Jerusalem Jews, devout men, from every nation under the sky.</p>
+<p><span class="vn">6</span>When this sound was heard, the multitude came together, and were bewildered, because everyone heard them speaking in his own language.</p>
+<p><span class="vn">7</span>They were all amazed and marveled, saying to one another, “Behold, aren’t all these who speak Galileans?</p>
+<p><span class="vn">8</span>How do we hear, everyone in our own native language?</p>
+<p><span class="vn">9</span>Parthians, Medes, Elamites, and people from Mesopotamia, Judea, Cappadocia, Pontus, Asia,</p>
+<p><span class="vn">10</span>Phrygia, Pamphylia, Egypt, the parts of Libya around Cyrene, visitors from Rome, both Jews and proselytes,</p>
+<p><span class="vn">11</span>Cretans and Arabians: we hear them speaking in our languages the mighty works of God!”</p>
+<p><span class="vn">12</span>They were all amazed, and were perplexed, saying one to another, “What does this mean?”</p>
+<p><span class="vn">13</span>Others, mocking, said, “They are filled with new wine.”</p>
+</div>
+<p class="conn">At Babel the one language was confused and the builders scattered (Genesis 11:1-9). At Pentecost the scattered languages are each spoken and each understood: 'Parthians, Medes, Elamites… Cretans and Arabians: we hear them speaking in our languages the mighty works of God!' Not one language restored but every language honoured. C27's circle drawn around every nation under heaven, with no one required to stop being who they are to stand inside it.</p>
+<div class="tags">
+<span class="tag pillar m">mercy</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c27.html">C27</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 2:14-41</p>
+<h2 class="entry-name">When they heard this, they were cut to the heart, and said… Brothers, what shall we do?</h2>
+<div class="passage">
+<p><span class="vn">14</span>But Peter, standing up with the eleven, lifted up his voice, and spoke out to them, “You men of Judea, and all you who dwell at Jerusalem, let this be known to you, and listen to my words.</p>
+<p><span class="vn">15</span>For these aren’t drunken, as you suppose, seeing it is only the third hour of the day.</p>
+<p><span class="vn">16</span>But this is what has been spoken through the prophet Joel:</p>
+<p><span class="vn">17</span>‘It will be in the last days, says God, that I will pour out my Spirit on all flesh. Your sons and your daughters will prophesy. Your young men will see visions. Your old men will dream dreams.</p>
+<p><span class="vn">18</span>Yes, and on my servants and on my handmaidens in those days, I will pour out my Spirit, and they will prophesy.</p>
+<p><span class="vn">19</span>I will show wonders in the sky above, and signs on the earth beneath; blood, and fire, and billows of smoke.</p>
+<p><span class="vn">20</span>The sun will be turned into darkness, and the moon into blood, before the great and glorious day of the Lord comes.</p>
+<p><span class="vn">21</span>It will be, that whoever will call on the name of the Lord will be saved.’</p>
+<p><span class="vn">22</span>“Men of Israel, hear these words! Jesus of Nazareth, a man approved by God to you by mighty works and wonders and signs which God did by him in the midst of you, even as you yourselves know,</p>
+<p><span class="vn">23</span>him, being delivered up by the determined counsel and foreknowledge of God, you have taken by the hand of lawless men, crucified and killed;</p>
+<p><span class="vn">24</span>whom God raised up, having freed him from the agony of death, because it was not possible that he should be held by it.</p>
+<p><span class="vn">25</span>For David says concerning him, ‘I saw the Lord always before my face, For he is on my right hand, that I should not be moved.</p>
+<p><span class="vn">26</span>Therefore my heart was glad, and my tongue rejoiced. Moreover my flesh also will dwell in hope;</p>
+<p><span class="vn">27</span>because you will not leave my soul in Hades, neither will you allow your Holy One to see decay.</p>
+<p><span class="vn">28</span>You made known to me the ways of life. You will make me full of gladness with your presence.’</p>
+<p><span class="vn">29</span>“Brothers, I may tell you freely of the patriarch David, that he both died and was buried, and his tomb is with us to this day.</p>
+<p><span class="vn">30</span>Therefore, being a prophet, and knowing that God had sworn with an oath to him that of the fruit of his body, according to the flesh, he would raise up the Christ to sit on his throne,</p>
+<p><span class="vn">31</span>he foreseeing this spoke about the resurrection of the Christ, that neither was his soul left in Hades, nor did his flesh see decay.</p>
+<p><span class="vn">32</span>This Jesus God raised up, to which we all are witnesses.</p>
+<p><span class="vn">33</span>Being therefore exalted by the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this, which you now see and hear.</p>
+<p><span class="vn">34</span>For David didn’t ascend into the heavens, but he says himself, ‘The Lord said to my Lord, “Sit by my right hand,</p>
+<p><span class="vn">35</span>until I make your enemies a footstool for your feet.”’</p>
+<p><span class="vn">36</span>“Let all the house of Israel therefore know certainly that God has made him both Lord and Christ, this Jesus whom you crucified.”</p>
+<p><span class="vn">37</span>Now when they heard this, they were cut to the heart, and said to Peter and the rest of the apostles, “Brothers, what shall we do?”</p>
+<p><span class="vn">38</span>Peter said to them, “Repent, and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of sins, and you will receive the gift of the Holy Spirit.</p>
+<p><span class="vn">39</span>For the promise is to you, and to your children, and to all who are far off, even as many as the Lord our God will call to himself.”</p>
+<p><span class="vn">40</span>With many other words he testified, and exhorted them, saying, “Save yourselves from this crooked generation!”</p>
+<p><span class="vn">41</span>Then those who gladly received his word were baptized. There were added that day about three thousand souls.</p>
+</div>
+<p class="conn">Peter tells a Jerusalem crowd that the man they crucified was raised and is Lord, and 'they were cut to the heart.' Their question is the beginning of every return — 'Brothers, what shall we do?' — and the answer is C19's door: 'Repent, and be baptized… for the forgiveness of sins.' The promise is extended to its widest: 'to you, and to your children, and to all who are far off' (C27). The same crowd that was told it had killed the Righteous One is the first to be offered mercy.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c19.html">C19</a>
+<a class="tag" href="c27.html">C27</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 2:42-47</p>
+<h2 class="entry-name">They sold their possessions and goods, and distributed them to all, according as anyone had need</h2>
+<div class="passage">
+<p><span class="vn">42</span>They continued steadfastly in the apostles’ teaching and fellowship, in the breaking of bread, and prayer.</p>
+<p><span class="vn">43</span>Fear came on every soul, and many wonders and signs were done through the apostles.</p>
+<p><span class="vn">44</span>All who believed were together, and had all things in common.</p>
+<p><span class="vn">45</span>They sold their possessions and goods, and distributed them to all, according as anyone had need.</p>
+<p><span class="vn">46</span>Day by day, continuing steadfastly with one accord in the temple, and breaking bread at home, they took their food with gladness and singleness of heart,</p>
+<p><span class="vn">47</span>praising God, and having favor with all the people. The Lord added to the assembly day by day those who were being saved.</p>
+</div>
+<p class="conn">The first portrait of the church is a shape of life: 'They continued steadfastly in the apostles' teaching and fellowship, in the breaking of bread, and prayer' — C13's ordinary faithfulness — and an economy. 'All who believed were together, and had all things in common. They sold their possessions and goods, and distributed them to all, according as anyone had need.' The Heavenly Palace asks a community in surplus to resist building monuments to its own comfort and to redirect toward the afflicted; this community converts property into provision for whoever lacks. The indexing order named it the strongest candidate for PR28, and on the definition it is: the practice at the scale the practice names, a community and not only a household. 'They took their food with gladness and singleness of heart' — C18's freedom from possession experienced as joy.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c13.html">C13</a>
+<a class="tag" href="c18.html">C18</a>
+<a class="tag" href="a1.html">PR28</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 3:1-10</p>
+<h2 class="entry-name">Silver and gold have I none, but what I have, that I give you</h2>
+<div class="passage">
+<p><span class="vn">1</span>Peter and John were going up into the temple at the hour of prayer, the ninth hour.</p>
+<p><span class="vn">2</span>A certain man who was lame from his mother’s womb was being carried, whom they laid daily at the door of the temple which is called Beautiful, to ask gifts for the needy of those who entered into the temple.</p>
+<p><span class="vn">3</span>Seeing Peter and John about to go into the temple, he asked to receive gifts for the needy.</p>
+<p><span class="vn">4</span>Peter, fastening his eyes on him, with John, said, “Look at us.”</p>
+<p><span class="vn">5</span>He listened to them, expecting to receive something from them.</p>
+<p><span class="vn">6</span>But Peter said, “Silver and gold have I none, but what I have, that I give you. In the name of Jesus Christ of Nazareth, get up and walk!”</p>
+<p><span class="vn">7</span>He took him by the right hand, and raised him up. Immediately his feet and his ankle bones received strength.</p>
+<p><span class="vn">8</span>Leaping up, he stood, and began to walk. He entered with them into the temple, walking, leaping, and praising God.</p>
+<p><span class="vn">9</span>All the people saw him walking and praising God.</p>
+<p><span class="vn">10</span>They recognized him, that it was he who used to sit begging for gifts for the needy at the Beautiful Gate of the temple. They were filled with wonder and amazement at what had happened to him.</p>
+</div>
+<p class="conn">Peter and John are on their way into the temple 'at the hour of prayer' when a man lame from birth asks them for alms. They stop — 'Peter, fastening his eyes on him… said, Look at us' — and give what they have rather than what was asked: 'Silver and gold have I none, but what I have, that I give you.' Spontaneous Service is pausing one's own work to help someone finish theirs and treating the interruption as the work; here the work interrupted is the hour of prayer itself, which is why the tag is medium rather than high. The fixed gaze before the gift is C16's attention to the one at the gate. The sentence is also the logic of Verbal Almsgiving — those without money give what they do have — though what Peter gives is healing rather than words, and PR21 is not tagged.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="a1.html">PR19</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 3:11-26</p>
+<h2 class="entry-name">Why do you fasten your eyes on us, as though by our own power or godliness we had made him walk?</h2>
+<div class="passage">
+<p><span class="vn">11</span>As the lame man who was healed held on to Peter and John, all the people ran together to them in the porch that is called Solomon’s, greatly wondering.</p>
+<p><span class="vn">12</span>When Peter saw it, he responded to the people, “You men of Israel, why do you marvel at this man? Why do you fasten your eyes on us, as though by our own power or godliness we had made him walk?</p>
+<p><span class="vn">13</span>The God of Abraham, Isaac, and Jacob, the God of our fathers, has glorified his Servant Jesus, whom you delivered up, and denied in the presence of Pilate, when he had determined to release him.</p>
+<p><span class="vn">14</span>But you denied the Holy and Righteous One, and asked for a murderer to be granted to you,</p>
+<p><span class="vn">15</span>and killed the Prince of life, whom God raised from the dead, to which we are witnesses.</p>
+<p><span class="vn">16</span>By faith in his name, his name has made this man strong, whom you see and know. Yes, the faith which is through him has given him this perfect soundness in the presence of you all.</p>
+<p><span class="vn">17</span>“Now, brothers, I know that you did this in ignorance, as did also your rulers.</p>
+<p><span class="vn">18</span>But the things which God announced by the mouth of all his prophets, that Christ should suffer, he thus fulfilled.</p>
+<p><span class="vn">19</span>“Repent therefore, and turn again, that your sins may be blotted out, so that there may come times of refreshing from the presence of the Lord,</p>
+<p><span class="vn">20</span>and that he may send Christ Jesus, who was ordained for you before,</p>
+<p><span class="vn">21</span>whom heaven must receive until the times of restoration of all things, which God spoke long ago by the mouth of his holy prophets.</p>
+<p><span class="vn">22</span>For Moses indeed said to the fathers, ‘The Lord God will raise up a prophet for you from among your brothers, like me. You shall listen to him in all things whatever he says to you.</p>
+<p><span class="vn">23</span>It will be, that every soul that will not listen to that prophet will be utterly destroyed from among the people.’</p>
+<p><span class="vn">24</span>Yes, and all the prophets from Samuel and those who followed after, as many as have spoken, they also told of these days.</p>
+<p><span class="vn">25</span>You are the children of the prophets, and of the covenant which God made with our fathers, saying to Abraham, ‘In your seed will all the families of the earth be blessed.’</p>
+<p><span class="vn">26</span>God, having raised up his servant, Jesus, sent him to you first, to bless you, in turning away everyone of you from your wickedness.”</p>
+</div>
+<p class="conn">The crowd stares at the apostles, and Peter's first move is to refuse the credit: 'why do you fasten your eyes on us, as though by our own power or godliness we had made him walk?' C23's hidden life in public, deflecting the audience to its proper object. Then mercy to the guilty, framed as generously as the facts allow: 'Now, brothers, I know that you did this in ignorance, as did also your rulers… Repent therefore, and turn again, that your sins may be blotted out' — C19's door, held open by one of the men they had made fatherless of his teacher.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S5 Healing</span>
+<span class="tag">S6 Transformation</span>
+<a class="tag" href="c23.html">C23</a>
+<a class="tag" href="c19.html">C19</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 4:1-22</p>
+<h2 class="entry-name">They recognized that they had been with Jesus… Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves</h2>
+<div class="passage">
+<p><span class="vn">1</span>As they spoke to the people, the priests and the captain of the temple and the Sadducees came to them,</p>
+<p><span class="vn">2</span>being upset because they taught the people and proclaimed in Jesus the resurrection from the dead.</p>
+<p><span class="vn">3</span>They laid hands on them, and put them in custody until the next day, for it was now evening.</p>
+<p><span class="vn">4</span>But many of those who heard the word believed, and the number of the men came to be about five thousand.</p>
+<p><span class="vn">5</span>It happened in the morning, that their rulers, elders, and scribes were gathered together in Jerusalem.</p>
+<p><span class="vn">6</span>Annas the high priest was there, with Caiaphas, John, Alexander, and as many as were relatives of the high priest.</p>
+<p><span class="vn">7</span>When they had stood them in the middle of them, they inquired, “By what power, or in what name, have you done this?”</p>
+<p><span class="vn">8</span>Then Peter, filled with the Holy Spirit, said to them, “You rulers of the people, and elders of Israel,</p>
+<p><span class="vn">9</span>if we are examined today concerning a good deed done to a crippled man, by what means this man has been healed,</p>
+<p><span class="vn">10</span>be it known to you all, and to all the people of Israel, that in the name of Jesus Christ of Nazareth, whom you crucified, whom God raised from the dead, in him does this man stand here before you whole.</p>
+<p><span class="vn">11</span>He is ‘the stone which was regarded as worthless by you, the builders, which has become the head of the corner.’</p>
+<p><span class="vn">12</span>There is salvation in none other, for neither is there any other name under heaven, that is given among men, by which we must be saved!”</p>
+<p><span class="vn">13</span>Now when they saw the boldness of Peter and John, and had perceived that they were unlearned and ignorant men, they marveled. They recognized that they had been with Jesus.</p>
+<p><span class="vn">14</span>Seeing the man who was healed standing with them, they could say nothing against it.</p>
+<p><span class="vn">15</span>But when they had commanded them to go aside out of the council, they conferred among themselves,</p>
+<p><span class="vn">16</span>saying, “What shall we do to these men? Because indeed a notable miracle has been done through them, as can be plainly seen by all who dwell in Jerusalem, and we can’t deny it.</p>
+<p><span class="vn">17</span>But so that this spreads no further among the people, let’s threaten them, that from now on they don’t speak to anyone in this name.”</p>
+<p><span class="vn">18</span>They called them, and commanded them not to speak at all nor teach in the name of Jesus.</p>
+<p><span class="vn">19</span>But Peter and John answered them, “Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves,</p>
+<p><span class="vn">20</span>for we can’t help telling the things which we saw and heard.”</p>
+<p><span class="vn">21</span>When they had further threatened them, they let them go, finding no way to punish them, because of the people; for everyone glorified God for that which was done.</p>
+<p><span class="vn">22</span>For the man on whom this miracle of healing was performed was more than forty years old.</p>
+</div>
+<p class="conn">Before the council the rulers notice two things: the boldness, and the source of it. 'When they saw the boldness of Peter and John, and had perceived that they were unlearned and ignorant men, they marveled. They recognized that they had been with Jesus.' C05's apprenticeship visible to its opponents — not credentials but company. Ordered to stop speaking, they answer with the Citizen-Stranger's limit: full respect for the court, and a loyalty above it — 'Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves, for we can't help telling the things which we saw and heard.' PR10's ultimate loyalty resting above any human decree, stated courteously to the decree-makers.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c05.html">C05</a>
+<a class="tag" href="c17.html">C17</a>
+<a class="tag" href="a1.html">PR10</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 4:23-31</p>
+<h2 class="entry-name">Now, Lord, look at their threats, and grant to your servants to speak your word with all boldness</h2>
+<div class="passage">
+<p><span class="vn">23</span>Being let go, they came to their own company, and reported all that the chief priests and the elders had said to them.</p>
+<p><span class="vn">24</span>When they heard it, they lifted up their voice to God with one accord, and said, “O Lord, you are God, who made the heaven, the earth, the sea, and all that is in them;</p>
+<p><span class="vn">25</span>who by the mouth of your servant, David, said, ‘Why do the nations rage, and the peoples plot a vain thing?</p>
+<p><span class="vn">26</span>The kings of the earth take a stand, and the rulers take council together, against the Lord, and against his Christ.’</p>
+<p><span class="vn">27</span>“For truly, in this city against your holy servant, Jesus, whom you anointed, both Herod and Pontius Pilate, with the Gentiles and the people of Israel, were gathered together</p>
+<p><span class="vn">28</span>to do whatever your hand and your council foreordained to happen.</p>
+<p><span class="vn">29</span>Now, Lord, look at their threats, and grant to your servants to speak your word with all boldness,</p>
+<p><span class="vn">30</span>while you stretch out your hand to heal; and that signs and wonders may be done through the name of your holy Servant Jesus.”</p>
+<p><span class="vn">31</span>When they had prayed, the place was shaken where they were gathered together. They were all filled with the Holy Spirit, and they spoke the word of God with boldness.</p>
+</div>
+<p class="conn">Released, the apostles report to their own people, and the community's response to threats is to pray — Psalm 2 read over their situation — and to ask not for safety but for boldness: 'Now, Lord, look at their threats, and grant to your servants to speak your word with all boldness.' C09's prayer as the place a threat is taken, and C17's public witness sustained by it.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar h">humility</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S3 Abiding</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c09.html">C09</a>
+<a class="tag" href="c17.html">C17</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 4:32-37</p>
+<h2 class="entry-name">Not one of them claimed that anything of the things which he possessed was his own</h2>
+<div class="passage">
+<p><span class="vn">32</span>The multitude of those who believed were of one heart and soul. Not one of them claimed that anything of the things which he possessed was his own, but they had all things in common.</p>
+<p><span class="vn">33</span>With great power, the apostles gave their testimony of the resurrection of the Lord Jesus. Great grace was on them all.</p>
+<p><span class="vn">34</span>For neither was there among them any who lacked, for as many as were owners of lands or houses sold them, and brought the proceeds of the things that were sold,</p>
+<p><span class="vn">35</span>and laid them at the apostles’ feet, and distribution was made to each, according as anyone had need.</p>
+<p><span class="vn">36</span>Joses, who by the apostles was surnamed Barnabas (which is, being interpreted, Son of Encouragement), a Levite, a man of Cyprus by race,</p>
+<p><span class="vn">37</span>having a field, sold it, and brought the money and laid it at the apostles’ feet.</p>
+</div>
+<p class="conn">The second portrait, more exact than the first: 'The multitude of those who believed were of one heart and soul. Not one of them claimed that anything of the things which he possessed was his own… neither was there among them any who lacked, for as many as were owners of lands or houses sold them, and brought the proceeds… and distribution was made to each, according as anyone had need.' A named example follows — Joseph, called Barnabas, 'Son of Encouragement,' who sold a field and laid the money at the apostles' feet. The Heavenly Palace in its positive form, and the outcome Deuteronomy 15:4 promised — 'there shall be no poor with you' — recorded as fact. C18's detachment as the refusal to call anything one's own.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c18.html">C18</a>
+<a class="tag" href="c13.html">C13</a>
+<a class="tag" href="a1.html">PR28</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 5:1-11</p>
+<h2 class="entry-name">While you kept it, didn't it remain your own?… You haven't lied to men, but to God</h2>
+<div class="passage">
+<p><span class="vn">1</span>But a certain man named Ananias, with Sapphira, his wife, sold a possession,</p>
+<p><span class="vn">2</span>and kept back part of the price, his wife also being aware of it, and brought a certain part, and laid it at the apostles’ feet.</p>
+<p><span class="vn">3</span>But Peter said, “Ananias, why has Satan filled your heart to lie to the Holy Spirit, and to keep back part of the price of the land?</p>
+<p><span class="vn">4</span>While you kept it, didn’t it remain your own? After it was sold, wasn’t it in your power? How is it that you have conceived this thing in your heart? You haven’t lied to men, but to God.”</p>
+<p><span class="vn">5</span>Ananias, hearing these words, fell down and died. Great fear came on all who heard these things.</p>
+<p><span class="vn">6</span>The young men arose and wrapped him up, and they carried him out and buried him.</p>
+<p><span class="vn">7</span>About three hours later, his wife, not knowing what had happened, came in.</p>
+<p><span class="vn">8</span>Peter answered her, “Tell me whether you sold the land for so much.” She said, “Yes, for so much.”</p>
+<p><span class="vn">9</span>But Peter asked her, “How is it that you have agreed together to tempt the Spirit of the Lord? Behold, the feet of those who have buried your husband are at the door, and they will carry you out.”</p>
+<p><span class="vn">10</span>She fell down immediately at his feet, and died. The young men came in and found her dead, and they carried her out and buried her by her husband.</p>
+<p><span class="vn">11</span>Great fear came on the whole assembly, and on all who heard these things.</p>
+</div>
+<p class="conn">Ananias and Sapphira sell a property and bring part of the price as if it were all of it. Peter's words locate the sin precisely: not the keeping — 'While you kept it, didn't it remain your own? After it was sold, wasn't it in your power?' — but the pretence: 'How is it that you have conceived this thing in your heart? You haven't lied to men, but to God.' They wanted the standing Barnabas had just received without the cost. The Hidden Life is the practice against exactly this reach for an audience, and the passage is its absence at its gravest: generosity performed for credit. C04's audit of consistency between private and public, and C12's proof falsified. The severity of the judgment is recorded in the text; the index anchors the diagnosis, not the death.</p>
+<div class="tags">
+<span class="tag mode counter">shows its absence</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S3 Abiding</span>
+<a class="tag" href="c04.html">C04</a>
+<a class="tag" href="c12.html">C12</a>
+<a class="tag" href="a1.html">PR13</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 5:12-42</p>
+<h2 class="entry-name">If this work is of men, it will be overthrown. But if it is of God, you will not be able to overthrow it</h2>
+<div class="passage">
+<p><span class="vn">12</span>By the hands of the apostles many signs and wonders were done among the people. They were all with one accord in Solomon’s porch.</p>
+<p><span class="vn">13</span>None of the rest dared to join them, however the people honored them.</p>
+<p><span class="vn">14</span>More believers were added to the Lord, multitudes of both men and women.</p>
+<p><span class="vn">15</span>They even carried out the sick into the streets, and laid them on cots and mattresses, so that as Peter came by, at the least his shadow might overshadow some of them.</p>
+<p><span class="vn">16</span>Multitudes also came together from the cities around Jerusalem, bringing sick people, and those who were tormented by unclean spirits: and they were all healed.</p>
+<p><span class="vn">17</span>But the high priest rose up, and all those who were with him (which is the sect of the Sadducees), and they were filled with jealousy,</p>
+<p><span class="vn">18</span>and laid hands on the apostles, and put them in public custody.</p>
+<p><span class="vn">19</span>But an angel of the Lord opened the prison doors by night, and brought them out, and said,</p>
+<p><span class="vn">20</span>“Go stand and speak in the temple to the people all the words of this life.”</p>
+<p><span class="vn">21</span>When they heard this, they entered into the temple about daybreak, and taught. But the high priest came, and those who were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought.</p>
+<p><span class="vn">22</span>But the officers who came didn’t find them in the prison. They returned and reported,</p>
+<p><span class="vn">23</span>“We found the prison shut and locked, and the guards standing before the doors, but when we opened them, we found no one inside!”</p>
+<p><span class="vn">24</span>Now when the high priest, the captain of the temple, and the chief priests heard these words, they were very perplexed about them and what might become of this.</p>
+<p><span class="vn">25</span>One came and told them, “Behold, the men whom you put in prison are in the temple, standing and teaching the people.”</p>
+<p><span class="vn">26</span>Then the captain went with the officers, and brought them without violence, for they were afraid that the people might stone them.</p>
+<p><span class="vn">27</span>When they had brought them, they set them before the council. The high priest questioned them,</p>
+<p><span class="vn">28</span>saying, “Didn’t we strictly command you not to teach in this name? Behold, you have filled Jerusalem with your teaching, and intend to bring this man’s blood on us.”</p>
+<p><span class="vn">29</span>But Peter and the apostles answered, “We must obey God rather than men.</p>
+<p><span class="vn">30</span>The God of our fathers raised up Jesus, whom you killed, hanging him on a tree.</p>
+<p><span class="vn">31</span>God exalted him with his right hand to be a Prince and a Savior, to give repentance to Israel, and remission of sins.</p>
+<p><span class="vn">32</span>We are His witnesses of these things; and so also is the Holy Spirit, whom God has given to those who obey him.”</p>
+<p><span class="vn">33</span>But they, when they heard this, were cut to the heart, and determined to kill them.</p>
+<p><span class="vn">34</span>But one stood up in the council, a Pharisee named Gamaliel, a teacher of the law, honored by all the people, and commanded to put the apostles out for a little while.</p>
+<p><span class="vn">35</span>He said to them, “You men of Israel, be careful concerning these men, what you are about to do.</p>
+<p><span class="vn">36</span>For before these days Theudas rose up, making himself out to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were dispersed, and came to nothing.</p>
+<p><span class="vn">37</span>After this man, Judas of Galilee rose up in the days of the enrollment, and drew away some people after him. He also perished, and all, as many as obeyed him, were scattered abroad.</p>
+<p><span class="vn">38</span>Now I tell you, withdraw from these men, and leave them alone. For if this counsel or this work is of men, it will be overthrown.</p>
+<p><span class="vn">39</span>But if it is of God, you will not be able to overthrow it, and you would be found even to be fighting against God!”</p>
+<p><span class="vn">40</span>They agreed with him. Summoning the apostles, they beat them and commanded them not to speak in the name of Jesus, and let them go.</p>
+<p><span class="vn">41</span>They therefore departed from the presence of the council, rejoicing that they were counted worthy to suffer dishonor for Jesus’ name.</p>
+<p><span class="vn">42</span>Every day, in the temple and at home, they never stopped teaching and preaching Jesus, the Christ.</p>
+</div>
+<p class="conn">Imprisoned again, released, and brought before the council a second time: 'We must obey God rather than men.' Then a Pharisee's counsel that is itself a discernment test, C08's: 'if this counsel or this work is of men, it will be overthrown. But if it is of God, you will not be able to overthrow it' — judge by what lasts, and wait. They are beaten and released, and depart 'rejoicing that they were counted worthy to suffer dishonor for Jesus' name.' C17's cost of fidelity, received as honour.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S2 Perception</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c08.html">C08</a>
+<a class="tag" href="c17.html">C17</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 6:1-7</p>
+<h2 class="entry-name">A complaint arose from the Hellenists against the Hebrews, because their widows were neglected in the daily service</h2>
+<div class="passage">
+<p><span class="vn">1</span>Now in those days, when the number of the disciples was multiplying, a complaint arose from the Hellenists against the Hebrews, because their widows were neglected in the daily service.</p>
+<p><span class="vn">2</span>The twelve summoned the multitude of the disciples and said, “It is not appropriate for us to forsake the word of God and serve tables.</p>
+<p><span class="vn">3</span>Therefore select from among you, brothers, seven men of good report, full of the Holy Spirit and of wisdom, whom we may appoint over this business.</p>
+<p><span class="vn">4</span>But we will continue steadfastly in prayer and in the ministry of the word.”</p>
+<p><span class="vn">5</span>These words pleased the whole multitude. They chose Stephen, a man full of faith and of the Holy Spirit, Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolaus, a proselyte of Antioch;</p>
+<p><span class="vn">6</span>whom they set before the apostles. When they had prayed, they laid their hands on them.</p>
+<p><span class="vn">7</span>The word of God increased and the number of the disciples multiplied in Jerusalem exceedingly. A great company of the priests were obedient to the faith.</p>
+</div>
+<p class="conn">The first conflict inside the church is about food for widows, and it runs along an ethnic line: Greek-speaking widows neglected in the daily distribution. The apostles do not defend themselves or the system; they convene everyone, propose a remedy, and the community chooses seven men — every one of whom has a Greek name, from the complaining side. The Architecture of Peace aims at repair rather than victory and concedes early and out loud; here the concession is the authority itself, handed to the aggrieved. The daily distribution to widows is Habitual Almsgiving made an institution, and the structure created to protect it is C16's service, with authority used for the most neglected.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag pillar h">humility</span>
+<span class="tag">S4 Community</span>
+<a class="tag" href="c16.html">C16</a>
+<a class="tag" href="c15.html">C15</a>
+<a class="tag" href="a1.html">PR09</a>
+<a class="tag" href="a1.html">PR05</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 6:8-7:53</p>
+<h2 class="entry-name">The Most High doesn't dwell in temples made with hands… uncircumcised in heart and ears</h2>
+<div class="passage">
+<p><span class="vn">8</span>Stephen, full of faith and power, performed great wonders and signs among the people.</p>
+<p><span class="vn">9</span>But some of those who were of the synagogue called “The Libertines,” and of the Cyrenians, of the Alexandrians, and of those of Cilicia and Asia arose, disputing with Stephen.</p>
+<p><span class="vn">10</span>They weren’t able to withstand the wisdom and the Spirit by which he spoke.</p>
+<p><span class="vn">11</span>Then they secretly induced men to say, “We have heard him speak blasphemous words against Moses and God.”</p>
+<p><span class="vn">12</span>They stirred up the people, the elders, and the scribes, and came against him and seized him, and brought him in to the council,</p>
+<p><span class="vn">13</span>and set up false witnesses who said, “This man never stops speaking blasphemous words against this holy place and the law.</p>
+<p><span class="vn">14</span>For we have heard him say that this Jesus of Nazareth will destroy this place, and will change the customs which Moses delivered to us.”</p>
+<p><span class="vn">15</span>All who sat in the council, fastening their eyes on him, saw his face like it was the face of an angel.</p>
+<p><span class="vn">1</span>The high priest said, “Are these things so?”</p>
+<p><span class="vn">2</span>He said, “Brothers and fathers, listen. The God of glory appeared to our father Abraham, when he was in Mesopotamia, before he lived in Haran,</p>
+<p><span class="vn">3</span>and said to him, ‘Get out of your land, and from your relatives, and come into a land which I will show you.’</p>
+<p><span class="vn">4</span>Then he came out of the land of the Chaldaeans, and lived in Haran. From there, when his father was dead, God moved him into this land, where you are now living.</p>
+<p><span class="vn">5</span>He gave him no inheritance in it, no, not so much as to set his foot on. He promised that he would give it to him for a possession, and to his seed after him, when he still had no child.</p>
+<p><span class="vn">6</span>God spoke in this way: that his seed would live as aliens in a strange land, and that they would be enslaved and mistreated for four hundred years.</p>
+<p><span class="vn">7</span>‘I will judge the nation to which they will be in bondage,’ said God, ‘and after that will they come out, and serve me in this place.’</p>
+<p><span class="vn">8</span>He gave him the covenant of circumcision. So Abraham became the father of Isaac, and circumcised him the eighth day. Isaac became the father of Jacob, and Jacob became the father of the twelve patriarchs.</p>
+<p><span class="vn">9</span>“The patriarchs, moved with jealousy against Joseph, sold him into Egypt. God was with him,</p>
+<p><span class="vn">10</span>and delivered him out of all his afflictions, and gave him favor and wisdom before Pharaoh, king of Egypt. He made him governor over Egypt and all his house.</p>
+<p><span class="vn">11</span>Now a famine came over all the land of Egypt and Canaan, and great affliction. Our fathers found no food.</p>
+<p><span class="vn">12</span>But when Jacob heard that there was grain in Egypt, he sent out our fathers the first time.</p>
+<p><span class="vn">13</span>On the second time Joseph was made known to his brothers, and Joseph’s race was revealed to Pharaoh.</p>
+<p><span class="vn">14</span>Joseph sent, and summoned Jacob, his father, and all his relatives, seventy-five souls.</p>
+<p><span class="vn">15</span>Jacob went down into Egypt, and he died, himself and our fathers,</p>
+<p><span class="vn">16</span>and they were brought back to Shechem, and laid in the tomb that Abraham bought for a price in silver from the children of Hamor of Shechem.</p>
+<p><span class="vn">17</span>“But as the time of the promise came close which God had sworn to Abraham, the people grew and multiplied in Egypt,</p>
+<p><span class="vn">18</span>until there arose a different king, who didn’t know Joseph.</p>
+<p><span class="vn">19</span>The same took advantage of our race, and mistreated our fathers, and forced them to throw out their babies, so that they wouldn’t stay alive.</p>
+<p><span class="vn">20</span>At that time Moses was born, and was exceedingly handsome. He was nourished three months in his father’s house.</p>
+<p><span class="vn">21</span>When he was thrown out, Pharaoh’s daughter took him up, and reared him as her own son.</p>
+<p><span class="vn">22</span>Moses was instructed in all the wisdom of the Egyptians. He was mighty in his words and works.</p>
+<p><span class="vn">23</span>But when he was forty years old, it came into his heart to visit his brothers, the children of Israel.</p>
+<p><span class="vn">24</span>Seeing one of them suffer wrong, he defended him, and avenged him who was oppressed, striking the Egyptian.</p>
+<p><span class="vn">25</span>He supposed that his brothers understood that God, by his hand, was giving them deliverance; but they didn’t understand.</p>
+<p><span class="vn">26</span>“The day following, he appeared to them as they fought, and urged them to be at peace again, saying, ‘Sirs, you are brothers. Why do you wrong one another?’</p>
+<p><span class="vn">27</span>But he who did his neighbor wrong pushed him away, saying, ‘Who made you a ruler and a judge over us?</p>
+<p><span class="vn">28</span>Do you want to kill me, as you killed the Egyptian yesterday?’</p>
+<p><span class="vn">29</span>Moses fled at this saying, and became a stranger in the land of Midian, where he became the father of two sons.</p>
+<p><span class="vn">30</span>“When forty years were fulfilled, an angel of the Lord appeared to him in the wilderness of Mount Sinai, in a flame of fire in a bush.</p>
+<p><span class="vn">31</span>When Moses saw it, he wondered at the sight. As he came close to see, a voice of the Lord came to him,</p>
+<p><span class="vn">32</span>‘I am the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob.’ Moses trembled, and dared not look.</p>
+<p><span class="vn">33</span>The Lord said to him, ‘Take your sandals off of your feet, for the place where you stand is holy ground.</p>
+<p><span class="vn">34</span>I have surely seen the affliction of my people that is in Egypt, and have heard their groaning. I have come down to deliver them. Now come, I will send you into Egypt.’</p>
+<p><span class="vn">35</span>“This Moses, whom they refused, saying, ‘Who made you a ruler and a judge?’—God has sent him as both a ruler and a deliverer by the hand of the angel who appeared to him in the bush.</p>
+<p><span class="vn">36</span>This man led them out, having worked wonders and signs in Egypt, in the Red Sea, and in the wilderness for forty years.</p>
+<p><span class="vn">37</span>This is that Moses, who said to the children of Israel, ‘The Lord our God will raise up a prophet for you from among your brothers, like me.’</p>
+<p><span class="vn">38</span>This is he who was in the assembly in the wilderness with the angel that spoke to him on Mount Sinai, and with our fathers, who received living oracles to give to us,</p>
+<p><span class="vn">39</span>to whom our fathers wouldn’t be obedient, but rejected him, and turned back in their hearts to Egypt,</p>
+<p><span class="vn">40</span>saying to Aaron, ‘Make us gods that will go before us, for as for this Moses, who led us out of the land of Egypt, we don’t know what has become of him.’</p>
+<p><span class="vn">41</span>They made a calf in those days, and brought a sacrifice to the idol, and rejoiced in the works of their hands.</p>
+<p><span class="vn">42</span>But God turned, and gave them up to serve the army of the sky, as it is written in the book of the prophets, ‘Did you offer to me slain animals and sacrifices forty years in the wilderness, O house of Israel?</p>
+<p><span class="vn">43</span>You took up the tabernacle of Moloch, the star of your god Rephan, the figures which you made to worship. I will carry you away beyond Babylon.’</p>
+<p><span class="vn">44</span>“Our fathers had the tabernacle of the testimony in the wilderness, even as he who spoke to Moses commanded him to make it according to the pattern that he had seen;</p>
+<p><span class="vn">45</span>which also our fathers, in their turn, brought in with Joshua when they entered into the possession of the nations, whom God drove out before the face of our fathers, to the days of David,</p>
+<p><span class="vn">46</span>who found favor in the sight of God, and asked to find a habitation for the God of Jacob.</p>
+<p><span class="vn">47</span>But Solomon built him a house.</p>
+<p><span class="vn">48</span>However, the Most High doesn’t dwell in temples made with hands, as the prophet says,</p>
+<p><span class="vn">49</span>‘heaven is my throne, and the earth a footstool for my feet. What kind of house will you build me?’ says the Lord; ‘or what is the place of my rest?</p>
+<p><span class="vn">50</span>Didn’t my hand make all these things?’</p>
+<p><span class="vn">51</span>“You stiff-necked and uncircumcised in heart and ears, you always resist the Holy Spirit! As your fathers did, so you do.</p>
+<p><span class="vn">52</span>Which of the prophets didn’t your fathers persecute? They killed those who foretold the coming of the Righteous One, of whom you have now become betrayers and murderers.</p>
+<p><span class="vn">53</span>You received the law as it was ordained by angels, and didn’t keep it!”</p>
+</div>
+<p class="conn">Stephen, accused of speaking against the temple, retells Israel's history as a history of rejected deliverers: Joseph sold by his brothers, Moses rebuffed when he tried to reconcile two Israelites — 'Sirs, you are brothers. Why do you wrong one another?' — and every prophet persecuted. 'The Most High doesn't dwell in temples made with hands.' The outward sign read inwardly, which is C06's; and the charge 'uncircumcised in heart and ears, you always resist the Holy Spirit' is Jeremiah 4:4 turned on its hearers. C08's true prophet and the pattern of his rejection.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar t">truth</span>
+<span class="tag">S2 Perception</span>
+<a class="tag" href="c06.html">C06</a>
+<a class="tag" href="c08.html">C08</a>
+<span class="tag conf mono">medium</span>
+</div>
+</div>
+<div class="entry">
+<p class="entry-ref">Acts 7:54-60</p>
+<h2 class="entry-name">Lord, don't hold this sin against them!</h2>
+<div class="passage">
+<p><span class="vn">54</span>Now when they heard these things, they were cut to the heart, and they gnashed at him with their teeth.</p>
+<p><span class="vn">55</span>But he, being full of the Holy Spirit, looked up steadfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,</p>
+<p><span class="vn">56</span>and said, “Behold, I see the heavens opened, and the Son of Man standing at the right hand of God!”</p>
+<p><span class="vn">57</span>But they cried out with a loud voice, and stopped their ears, and rushed at him with one accord.</p>
+<p><span class="vn">58</span>They threw him out of the city, and stoned him. The witnesses placed their garments at the feet of a young man named Saul.</p>
+<p><span class="vn">59</span>They stoned Stephen as he called out, saying, “Lord Jesus, receive my spirit!”</p>
+<p><span class="vn">60</span>He kneeled down, and cried with a loud voice, “Lord, don’t hold this sin against them!” When he had said this, he fell asleep.</p>
+</div>
+<p class="conn">The council rushes at him, drags him out, and stones him. Stephen, seeing heaven opened, kneels and makes two prayers that repeat Christ's from the cross: 'Lord Jesus, receive my spirit!' and, with a loud voice, 'Lord, don't hold this sin against them!' Non-Retaliation in its final form — no return, not even in speech — and Shedding Harshness at the summit the curriculum names: prayer for the good of those killing him, at the moment of their violence. C03's hardest turn and C27's ocean. A young man named Saul is holding the coats.</p>
+<div class="tags">
+<span class="tag mode exemplifies">shows it done</span>
+<span class="tag pillar m">mercy</span>
+<span class="tag">S1 Foundations</span>
+<span class="tag">S7 Mature Mercy</span>
+<a class="tag" href="c27.html">C27</a>
+<a class="tag" href="c03.html">C03</a>
+<a class="tag" href="a1.html">PR06</a>
+<a class="tag" href="a1.html">PR15</a>
+<span class="tag conf mono">high</span>
+</div>
+</div>
+</div>
+</article>
+<nav class="docnav">
+<p class="rule-orn orn"><span>✦</span></p>
+<p class="nav-hub"><a href="scripture.html">All indexed books</a> · <a href="index.html">Table of contents</a></p>
+</nav>
+</main></body></html>

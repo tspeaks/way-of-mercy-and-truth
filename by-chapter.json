@@ -1225,6 +1225,21 @@
         "source_file": "1-thessalonians.json"
       },
       {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 16:5-14",
+        "name": "Shimei… cursed still as he came… 'Leave him alone, and let him curse; for Yahweh has invited him. It may be that Yahweh will look on the wrong done to me'",
+        "chapters": [
+          "C03",
+          "C22"
+        ],
+        "practices": [
+          "PR06",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 28:3-6",
         "name": "No doubt this man is a murderer, whom… Justice has not allowed to live",
@@ -2024,6 +2039,39 @@
         "practices": [],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 12:1-14",
+        "name": "You are the man… David said to Nathan, 'I have sinned against Yahweh.' Nathan said to David, 'Yahweh also has put away your sin.'",
+        "chapters": [
+          "C04",
+          "C08",
+          "C19"
+        ],
+        "practices": [
+          "PR01",
+          "PR03",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 24:10-25",
+        "name": "David's heart struck him… 'I have sinned greatly'… 'these sheep, what have they done? Please let your hand be against me'… 'I will not offer burnt offerings to Yahweh my God which cost me nothing.'",
+        "chapters": [
+          "C04",
+          "C12",
+          "C19"
+        ],
+        "practices": [
+          "PR03",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "2 Timothy.Json",
@@ -5108,6 +5156,23 @@
         "source_file": "2-peter.json"
       },
       {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 12:1-14",
+        "name": "You are the man… David said to Nathan, 'I have sinned against Yahweh.' Nathan said to David, 'Yahweh also has put away your sin.'",
+        "chapters": [
+          "C04",
+          "C08",
+          "C19"
+        ],
+        "practices": [
+          "PR01",
+          "PR03",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
         "book": "2 Thessalonians.Json",
         "reference": "2 Thessalonians 2:1-12",
         "name": "Not to be quickly shaken in your mind… because they didn't receive the love of the truth, that they might be saved",
@@ -6146,6 +6211,18 @@
         ],
         "tags": [],
         "source_file": "1-timothy.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 7:18-29",
+        "name": "Who am I, Lord Yahweh, and what is my house, that you have brought me thus far?",
+        "chapters": [
+          "C09",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "Acts.Json",
@@ -8102,6 +8179,22 @@
         "source_file": "2-john.json"
       },
       {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 24:10-25",
+        "name": "David's heart struck him… 'I have sinned greatly'… 'these sheep, what have they done? Please let your hand be against me'… 'I will not offer burnt offerings to Yahweh my God which cost me nothing.'",
+        "chapters": [
+          "C04",
+          "C12",
+          "C19"
+        ],
+        "practices": [
+          "PR03",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
         "book": "2 Thessalonians.Json",
         "reference": "2 Thessalonians 1:3-12",
         "name": "Your faith grows exceedingly, and the love of each and every one of you towards one another abounds… your patience and faith in all your persecutions",
@@ -9070,6 +9163,37 @@
         "practices": [],
         "tags": [],
         "source_file": "2-john.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 15:13-37",
+        "name": "You are a foreigner, and also an exile. Return to your own place… Ittai answered… 'in what place my lord the king shall is, whether for death or for life, even there also will your servant be.'",
+        "chapters": [
+          "C13",
+          "C17",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 21:10-14",
+        "name": "Rizpah the daughter of Aiah took sackcloth, and spread it for her on the rock, from the beginning of harvest until water was poured on them from the sky",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR08",
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "2 Thessalonians.Json",
@@ -10205,6 +10329,61 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 13:1-22",
+        "name": "She answered him, 'No, my brother, do not force me!'… However he would not listen to her voice… 'But now hold your peace, my sister… Don't take this thing to heart.' So Tamar remained desolate",
+        "chapters": [
+          "C14",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 14:21-33",
+        "name": "Let him return to his own house, but let him not see my face… Absalom lived two full years in Jerusalem; and he didn't see the king's face",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 18:1-19:8",
+        "name": "Deal gently for my sake with the young man, even with Absalom… 'My son Absalom! My son, my son Absalom! I wish I had died for you'… 'Now therefore arise, go out, and speak to comfort your servants'",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 9:1-13",
+        "name": "Is there yet any who is left of the house of Saul, that I may show him kindness for Jonathan's sake?… Mephibosheth ate at the king's table, like one of the king's sons. He was lame in both his feet",
+        "chapters": [
+          "C14",
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "2 Timothy.Json",
@@ -11436,6 +11615,21 @@
         ],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 19:16-23",
+        "name": "For your servant knows that I have sinned… 'Shall there any man be put to death this day in Israel?'… The king said to Shimei, 'You shall not die.'",
+        "chapters": [
+          "C15",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "2 Timothy.Json",
@@ -12907,6 +13101,62 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 17:27-29",
+        "name": "Shobi the son of Nahash… and Machir… and Barzillai… brought beds, basins… wheat, barley… for they said, 'The people are hungry, and weary, and thirsty, in the wilderness.'",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 21:10-14",
+        "name": "Rizpah the daughter of Aiah took sackcloth, and spread it for her on the rock, from the beginning of harvest until water was poured on them from the sky",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR08",
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 23:13-17",
+        "name": "He would not drink of it, but poured it out to Yahweh. He said, 'Be it far from me, Yahweh, that I should do this! Isn't it the blood of the men who went in jeopardy of their lives?'",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 9:1-13",
+        "name": "Is there yet any who is left of the house of Saul, that I may show him kindness for Jonathan's sake?… Mephibosheth ate at the king's table, like one of the king's sons. He was lame in both his feet",
+        "chapters": [
+          "C14",
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "2 Timothy.Json",
@@ -15306,6 +15556,22 @@
         "source_file": "2-john.json"
       },
       {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 15:13-37",
+        "name": "You are a foreigner, and also an exile. Return to your own place… Ittai answered… 'in what place my lord the king shall is, whether for death or for life, even there also will your servant be.'",
+        "chapters": [
+          "C13",
+          "C17",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
         "book": "3 John.Json",
         "reference": "3 John 1:5-8",
         "name": "A faithful work for brothers and strangers",
@@ -16351,6 +16617,19 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 19:24-40",
+        "name": "Yes, let him take all, because my lord the king has come in peace to his own house… Why should the king repay me with such a reward?… let your servant turn back again, that I may die in my own city",
+        "chapters": [
+          "C18",
+          "C23",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "2 Timothy.Json",
@@ -18035,6 +18314,142 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 11:1-27",
+        "name": "At the time when kings go out… David stayed at Jerusalem… from the roof he saw a woman bathing… But the thing that David had done displeased Yahweh",
+        "chapters": [
+          "C19",
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 12:1-14",
+        "name": "You are the man… David said to Nathan, 'I have sinned against Yahweh.' Nathan said to David, 'Yahweh also has put away your sin.'",
+        "chapters": [
+          "C04",
+          "C08",
+          "C19"
+        ],
+        "practices": [
+          "PR01",
+          "PR03",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 12:15-25",
+        "name": "While the child was yet alive, I fasted and wept… But now he is dead, why should I fast? Can I bring him back again? I shall go to him, but he will not return to me",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 14:21-33",
+        "name": "Let him return to his own house, but let him not see my face… Absalom lived two full years in Jerusalem; and he didn't see the king's face",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 18:1-19:8",
+        "name": "Deal gently for my sake with the young man, even with Absalom… 'My son Absalom! My son, my son Absalom! I wish I had died for you'… 'Now therefore arise, go out, and speak to comfort your servants'",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 19:16-23",
+        "name": "For your servant knows that I have sinned… 'Shall there any man be put to death this day in Israel?'… The king said to Shimei, 'You shall not die.'",
+        "chapters": [
+          "C15",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 1:11-27",
+        "name": "How the mighty have fallen!… Saul and Jonathan were lovely and pleasant in their lives… I am distressed for you, my brother Jonathan",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR08",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 24:10-25",
+        "name": "David's heart struck him… 'I have sinned greatly'… 'these sheep, what have they done? Please let your hand be against me'… 'I will not offer burnt offerings to Yahweh my God which cost me nothing.'",
+        "chapters": [
+          "C04",
+          "C12",
+          "C19"
+        ],
+        "practices": [
+          "PR03",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 9:1-13",
+        "name": "Is there yet any who is left of the house of Saul, that I may show him kindness for Jonathan's sake?… Mephibosheth ate at the king's table, like one of the king's sons. He was lame in both his feet",
+        "chapters": [
+          "C14",
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "2 Thessalonians.Json",
@@ -21440,6 +21855,21 @@
         "source_file": "2-peter.json"
       },
       {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 11:1-27",
+        "name": "At the time when kings go out… David stayed at Jerusalem… from the roof he saw a woman bathing… But the thing that David had done displeased Yahweh",
+        "chapters": [
+          "C19",
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
         "book": "2 Timothy.Json",
         "reference": "2 Timothy 1:8-14",
         "name": "Don't be ashamed of the testimony of our Lord, nor of me his prisoner… I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him",
@@ -22567,6 +22997,33 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 11:1-27",
+        "name": "At the time when kings go out… David stayed at Jerusalem… from the roof he saw a woman bathing… But the thing that David had done displeased Yahweh",
+        "chapters": [
+          "C19",
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 13:1-22",
+        "name": "She answered him, 'No, my brother, do not force me!'… However he would not listen to her voice… 'But now hold your peace, my sister… Don't take this thing to heart.' So Tamar remained desolate",
+        "chapters": [
+          "C14",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "2 Timothy.Json",
@@ -23959,6 +24416,88 @@
         ],
         "tags": [],
         "source_file": "1-timothy.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 12:15-25",
+        "name": "While the child was yet alive, I fasted and wept… But now he is dead, why should I fast? Can I bring him back again? I shall go to him, but he will not return to me",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 15:13-37",
+        "name": "You are a foreigner, and also an exile. Return to your own place… Ittai answered… 'in what place my lord the king shall is, whether for death or for life, even there also will your servant be.'",
+        "chapters": [
+          "C13",
+          "C17",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 16:5-14",
+        "name": "Shimei… cursed still as he came… 'Leave him alone, and let him curse; for Yahweh has invited him. It may be that Yahweh will look on the wrong done to me'",
+        "chapters": [
+          "C03",
+          "C22"
+        ],
+        "practices": [
+          "PR06",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 23:13-17",
+        "name": "He would not drink of it, but poured it out to Yahweh. He said, 'Be it far from me, Yahweh, that I should do this! Isn't it the blood of the men who went in jeopardy of their lives?'",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 6:12-23",
+        "name": "David danced before Yahweh with all his might… 'I will be yet more vile than this, and will be base in my own sight.'",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 7:18-29",
+        "name": "Who am I, Lord Yahweh, and what is my house, that you have brought me thus far?",
+        "chapters": [
+          "C09",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "2 Thessalonians.Json",
@@ -25547,6 +26086,19 @@
         "source_file": "2-corinthians.json"
       },
       {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 19:24-40",
+        "name": "Yes, let him take all, because my lord the king has come in peace to his own house… Why should the king repay me with such a reward?… let your servant turn back again, that I may die in my own city",
+        "chapters": [
+          "C18",
+          "C23",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
         "book": "3 John.Json",
         "reference": "3 John 1:9-10",
         "name": "Diotrephes, who loves to be first",
@@ -26404,6 +26956,18 @@
         ],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 6:12-23",
+        "name": "David danced before Yahweh with all his might… 'I will be yet more vile than this, and will be base in my own sight.'",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "Acts.Json",
@@ -27595,6 +28159,19 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 19:24-40",
+        "name": "Yes, let him take all, because my lord the king has come in peace to his own house… Why should the king repay me with such a reward?… let your servant turn back again, that I may die in my own city",
+        "chapters": [
+          "C18",
+          "C23",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "2 Thessalonians.Json",
@@ -29413,6 +29990,35 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 17:27-29",
+        "name": "Shobi the son of Nahash… and Machir… and Barzillai… brought beds, basins… wheat, barley… for they said, 'The people are hungry, and weary, and thirsty, in the wilderness.'",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 1:11-27",
+        "name": "How the mighty have fallen!… Saul and Jonathan were lovely and pleasant in their lives… I am distressed for you, my brother Jonathan",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR08",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "Acts.Json",
@@ -31902,6 +32508,23 @@
         "source_file": "2-corinthians.json"
       },
       {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 12:1-14",
+        "name": "You are the man… David said to Nathan, 'I have sinned against Yahweh.' Nathan said to David, 'Yahweh also has put away your sin.'",
+        "chapters": [
+          "C04",
+          "C08",
+          "C19"
+        ],
+        "practices": [
+          "PR01",
+          "PR03",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 24:10-21",
         "name": "Herein I also practice always having a conscience void of offense toward God and men… I came to bring gifts for the needy to my nation",
@@ -32855,6 +33478,39 @@
         ],
         "tags": [],
         "source_file": "1-timothy.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 12:1-14",
+        "name": "You are the man… David said to Nathan, 'I have sinned against Yahweh.' Nathan said to David, 'Yahweh also has put away your sin.'",
+        "chapters": [
+          "C04",
+          "C08",
+          "C19"
+        ],
+        "practices": [
+          "PR01",
+          "PR03",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 24:10-25",
+        "name": "David's heart struck him… 'I have sinned greatly'… 'these sheep, what have they done? Please let your hand be against me'… 'I will not offer burnt offerings to Yahweh my God which cost me nothing.'",
+        "chapters": [
+          "C04",
+          "C12",
+          "C19"
+        ],
+        "practices": [
+          "PR03",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "Ecclesiastes.Json",
@@ -34737,6 +35393,36 @@
         "source_file": "1-thessalonians.json"
       },
       {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 16:5-14",
+        "name": "Shimei… cursed still as he came… 'Leave him alone, and let him curse; for Yahweh has invited him. It may be that Yahweh will look on the wrong done to me'",
+        "chapters": [
+          "C03",
+          "C22"
+        ],
+        "practices": [
+          "PR06",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 19:16-23",
+        "name": "For your servant knows that I have sinned… 'Shall there any man be put to death this day in Israel?'… The king said to Shimei, 'You shall not die.'",
+        "chapters": [
+          "C15",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
         "book": "2 Timothy.Json",
         "reference": "2 Timothy 4:9-22",
         "name": "Demas left me, having loved this present world… Take Mark, and bring him with you, for he is useful to me for service… no one came to help me, but all left me. May it not be held against them",
@@ -35391,6 +36077,81 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 12:15-25",
+        "name": "While the child was yet alive, I fasted and wept… But now he is dead, why should I fast? Can I bring him back again? I shall go to him, but he will not return to me",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 15:13-37",
+        "name": "You are a foreigner, and also an exile. Return to your own place… Ittai answered… 'in what place my lord the king shall is, whether for death or for life, even there also will your servant be.'",
+        "chapters": [
+          "C13",
+          "C17",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 18:1-19:8",
+        "name": "Deal gently for my sake with the young man, even with Absalom… 'My son Absalom! My son, my son Absalom! I wish I had died for you'… 'Now therefore arise, go out, and speak to comfort your servants'",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 1:11-27",
+        "name": "How the mighty have fallen!… Saul and Jonathan were lovely and pleasant in their lives… I am distressed for you, my brother Jonathan",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR08",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 21:10-14",
+        "name": "Rizpah the daughter of Aiah took sackcloth, and spread it for her on the rock, from the beginning of harvest until water was poured on them from the sky",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR08",
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "Genesis.Json",
@@ -37232,6 +37993,54 @@
         "source_file": "2-corinthians.json"
       },
       {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 12:1-14",
+        "name": "You are the man… David said to Nathan, 'I have sinned against Yahweh.' Nathan said to David, 'Yahweh also has put away your sin.'",
+        "chapters": [
+          "C04",
+          "C08",
+          "C19"
+        ],
+        "practices": [
+          "PR01",
+          "PR03",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 12:15-25",
+        "name": "While the child was yet alive, I fasted and wept… But now he is dead, why should I fast? Can I bring him back again? I shall go to him, but he will not return to me",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 24:10-25",
+        "name": "David's heart struck him… 'I have sinned greatly'… 'these sheep, what have they done? Please let your hand be against me'… 'I will not offer burnt offerings to Yahweh my God which cost me nothing.'",
+        "chapters": [
+          "C04",
+          "C12",
+          "C19"
+        ],
+        "practices": [
+          "PR03",
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 19:8-20",
         "name": "Many also of those who had believed came, confessing, and declaring their deeds",
@@ -37799,6 +38608,21 @@
         ],
         "tags": [],
         "source_file": "2-john.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 11:1-27",
+        "name": "At the time when kings go out… David stayed at Jerusalem… from the roof he saw a woman bathing… But the thing that David had done displeased Yahweh",
+        "chapters": [
+          "C19",
+          "C20",
+          "C21"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "Deuteronomy.Json",
@@ -39337,6 +40161,21 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 1:11-27",
+        "name": "How the mighty have fallen!… Saul and Jonathan were lovely and pleasant in their lives… I am distressed for you, my brother Jonathan",
+        "chapters": [
+          "C19",
+          "C27"
+        ],
+        "practices": [
+          "PR08",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 10:34-48",
         "name": "Truly I perceive that God doesn't show favoritism",
@@ -40047,6 +40886,21 @@
         "source_file": "1-corinthians.json"
       },
       {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 16:5-14",
+        "name": "Shimei… cursed still as he came… 'Leave him alone, and let him curse; for Yahweh has invited him. It may be that Yahweh will look on the wrong done to me'",
+        "chapters": [
+          "C03",
+          "C22"
+        ],
+        "practices": [
+          "PR06",
+          "PR18"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
         "book": "Ecclesiastes.Json",
         "reference": "Ecclesiastes 10:4-7",
         "name": "Gentleness lays great offenses to rest",
@@ -40148,6 +41002,20 @@
       }
     ],
     "PR19": [
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 17:27-29",
+        "name": "Shobi the son of Nahash… and Machir… and Barzillai… brought beds, basins… wheat, barley… for they said, 'The people are hungry, and weary, and thirsty, in the wilderness.'",
+        "chapters": [
+          "C16",
+          "C27"
+        ],
+        "practices": [
+          "PR19"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
       {
         "book": "Acts.Json",
         "reference": "Acts 3:1-10",
@@ -41102,6 +41970,21 @@
         "source_file": "1-corinthians.json"
       },
       {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 9:1-13",
+        "name": "Is there yet any who is left of the house of Saul, that I may show him kindness for Jonathan's sake?… Mephibosheth ate at the king's table, like one of the king's sons. He was lame in both his feet",
+        "chapters": [
+          "C14",
+          "C16",
+          "C19"
+        ],
+        "practices": [
+          "PR25"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
         "book": "James.Json",
         "reference": "James 2:1-7",
         "name": "Against partiality; the gold ring and the shabby clothing",
@@ -41172,6 +42055,37 @@
       }
     ],
     "PR26": [
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 15:13-37",
+        "name": "You are a foreigner, and also an exile. Return to your own place… Ittai answered… 'in what place my lord the king shall is, whether for death or for life, even there also will your servant be.'",
+        "chapters": [
+          "C13",
+          "C17",
+          "C22"
+        ],
+        "practices": [
+          "PR08",
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 21:10-14",
+        "name": "Rizpah the daughter of Aiah took sackcloth, and spread it for her on the rock, from the beginning of harvest until water was poured on them from the sky",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR08",
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
       {
         "book": "2 Timothy.Json",
         "reference": "2 Timothy 1:15-18",
@@ -41532,6 +42446,35 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 14:21-33",
+        "name": "Let him return to his own house, but let him not see my face… Absalom lived two full years in Jerusalem; and he didn't see the king's face",
+        "chapters": [
+          "C14",
+          "C19"
+        ],
+        "practices": [
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
+      },
+      {
+        "book": "2 Samuel.Json",
+        "reference": "2 Samuel 19:16-23",
+        "name": "For your servant knows that I have sinned… 'Shall there any man be put to death this day in Israel?'… The king said to Shimei, 'You shall not die.'",
+        "chapters": [
+          "C15",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-samuel.json"
       },
       {
         "book": "2 Thessalonians.Json",

@@ -1,0 +1,430 @@
+{
+  "book": "2 Samuel",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/2-samuel.json",
+  "note": "David's reign, indexed selectively: the passages that anchor formation have been drawn out of the court history, and the coverage note records what was left and why. The Scriptural Appendix cites 2 Samuel 11-12, with Psalm 51, for C19 and as the model for the Failure Recovery Protocol (PR11).",
+  "prediction_note": "Forecast: 11-12 the anchor for PR11 and C21; 16:5-14 for PR18. Outcome: as forecast. Unforecast: 15:19-22 (Ittai) is the closest text to Ruth 1:16-17 anywhere in scripture and anchors PR26; 14:24-28 is a clear PR29 counter-example; 21:10 (Rizpah) anchors PR26 past death.",
+  "coverage_note": "Indexed selectively, as with the Deuteronomy law code. Not indexed: the civil war and the murders of Abner and Ish-bosheth (2-4), the capture of Jerusalem and the wars (5, 8, 10), the death of Uzzah (6:1-11), the covenant oracle itself (7:1-17, represented by David's prayer), the murder of Amnon and Absalom's flight (13:23-14:20), the counsel of Ahithophel and Hushai (15:31-17:23), the battle in the forest (18:6-18, carried inside 18:1-19:8), Sheba's revolt (20), the Gibeonite executions (21:1-9, recorded in 21:10-14 but not offered as guidance), the giant-killers and the lists (21:15-22, 23:8-12, 23:18-39), and the census narrative before David's confession (24:1-9). Chapter 22 is Psalm 18 and is indexed there; 23:1-7 is not indexed. 13:1-22 is indexed as a record, not as guidance, and its note says so.",
+  "entries": [
+    {
+      "ref": "2 Samuel 1:11-27",
+      "pericope": "How the mighty have fallen!… Saul and Jonathan were lovely and pleasant in their lives… I am distressed for you, my brother Jonathan",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C19"
+      ],
+      "practices": [
+        "PR08",
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "News that Saul is dead reaches the man Saul spent years trying to kill. David 'took hold on his clothes, and tore them… They mourned, and wept, and fasted until evening, for Saul, and for Jonathan his son.' Then the lament, taught to the children of Judah: 'Your glory, Israel, is slain on your high places! How the mighty have fallen!… Saul and Jonathan were lovely and pleasant in their lives. In their death, they were not divided… I am distressed for you, my brother Jonathan. You have been very pleasant to me.' Sacred Lament, and Shedding Harshness in the widest form available: the persecutor mourned without reserve and remembered at his best. C27. 'Don't tell it in Gath' — even the enemy's defeat is not to be gloated over by outsiders. The range includes the execution of the Amalekite messenger (1:13-16), which is recorded, not offered as guidance.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 6:12-23",
+      "pericope": "David danced before Yahweh with all his might… 'I will be yet more vile than this, and will be base in my own sight.'",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C22",
+        "C24"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The ark brought into Jerusalem: 'David danced before Yahweh with all his might; and David was clothed in a linen ephod.' Michal 'saw king David leaping and dancing before Yahweh; and she despised him in her heart.' Her objection is about dignity: 'How glorious the king of Israel was today, who uncovered himself today in the eyes of the handmaids.' David's answer is C22's: 'It was before Yahweh… Therefore will I celebrate before Yahweh. I will be yet more vile than this, and will be base in my own sight.' Worship without self-regard, C24's joy. Afterward he 'gave to all the people… to everyone a portion of bread, dates, and raisins.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 7:18-29",
+      "pericope": "Who am I, Lord Yahweh, and what is my house, that you have brought me thus far?",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C09"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Promised a dynasty, David does not plan; he goes in and sits down. 'Then David the king went in, and sat before Yahweh; and he said, \"Who am I, Lord Yahweh, and what is my house, that you have brought me thus far?… What more can David say to you? For you know your servant.\"' C22's humility at the moment of greatest honour, and C09's prayer: the king sitting in silence before he speaks.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 9:1-13",
+      "pericope": "Is there yet any who is left of the house of Saul, that I may show him kindness for Jonathan's sake?… Mephibosheth ate at the king's table, like one of the king's sons. He was lame in both his feet",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C14",
+        "C19"
+      ],
+      "practices": [
+        "PR25"
+      ],
+      "mode": "exemplifies",
+      "connection": "David goes looking: 'Is there yet any who is left of the house of Saul, that I may show him kindness for Jonathan's sake?… that I may show the kindness of God to him?' The one found is Jonathan's son, 'lame of his feet,' living out of sight in Lo Debar — and a grandson of the old king, the kind of person new dynasties remove. He arrives expecting death: 'What is your servant, that you should look on such a dead dog as I am?' Instead: 'You shall eat bread at my table continually.' Deferential Seating's concern — that the overlooked not be left at the back — answered by a permanent place at the king's own table, 'like one of the king's sons' (medium). The text closes on the detail that makes it matter: 'He was lame in both his feet.' C16, C14, and C19's kindness of God. Unobligated Loyalty is not tagged: David was bound by his oath to Jonathan (1 Samuel 20:15).",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 11:1-27",
+      "pericope": "At the time when kings go out… David stayed at Jerusalem… from the roof he saw a woman bathing… But the thing that David had done displeased Yahweh",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C20",
+        "C19"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "counter-example",
+      "connection": "The Scriptural Appendix cites 2 Samuel 11-12 for C19: 'A man who had committed adultery and arranged a murder to conceal it, who names it without excuse or explanation of circumstances and throws himself on mercy.' Chapter 11 is the fall, and it is told as C21's anatomy, step by step. 'At the time when kings go out… David stayed at Jerusalem' — out of place. 'From the roof he saw' — the eye. 'David sent and inquired' — the desire entertained. 'David sent messengers, and took her' — the act. Then the concealment, each attempt worse than the last: Uriah recalled, made drunk, and finally sent back carrying his own death warrant. Watchfulness absent at every gate: the thought was invited in and seated at the table (A1). Uriah's integrity stands against it: 'Shall I then go into my house to eat and to drink, and to lie with my wife? As you live… I will not do this thing!' The chapter's last sentence is the turn: 'But the thing that David had done displeased Yahweh.'",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "2 Samuel 12:1-14",
+      "pericope": "You are the man… David said to Nathan, 'I have sinned against Yahweh.' Nathan said to David, 'Yahweh also has put away your sin.'",
+      "pillars": [
+        "truth",
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C04",
+        "C08"
+      ],
+      "practices": [
+        "PR11",
+        "PR03",
+        "PR01"
+      ],
+      "mode": "exemplifies",
+      "connection": "The Scriptural Appendix names this 'the model for the Failure Recovery Protocol (Practice 11), and the proof that the door is open considerably wider than most of us believe.' Nathan does not accuse; he tells a story of a rich man who took a poor man's only lamb. David's judgment is instant and severe — 'the man who has done this is worthy to die!… because he had no pity!' — and Nathan turns it: 'You are the man.' Self-Accusation's mechanism exposed: the outrage we feel at another's sin is often the measure of our own. C04's mirror held by C08's true prophet. Then six words, with no excuse and no context: 'I have sinned against Yahweh.' The Protocol's 'name it plainly — no euphemism, no explanatory context.' And the answer is immediate: 'Yahweh also has put away your sin. You will not die.' C19. The consequences stand (12:10-14); forgiveness does not undo them, and the text does not pretend it does.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "2 Samuel 12:15-25",
+      "pericope": "While the child was yet alive, I fasted and wept… But now he is dead, why should I fast? Can I bring him back again? I shall go to him, but he will not return to me",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C19"
+      ],
+      "practices": [
+        "PR08",
+        "PR11"
+      ],
+      "mode": "exemplifies",
+      "connection": "The child is sick. 'David therefore begged God for the child; and David fasted, and went in, and lay all night on the earth.' Sacred Lament as wrestling — 'Who knows whether Yahweh will not be gracious to me?' When the child dies, his servants fear what he will do. Instead: 'David arose from the earth, and washed, and anointed himself, and changed his clothing; and he came into the house of Yahweh, and worshiped: then he came to his own house… and he ate.' The Failure Recovery Protocol's last step — 'immediately resume one act of ordinary obedience' — taken in the worst week of his life (medium). C22's acceptance: 'Can I bring him back again? I shall go to him, but he will not return to me.' 'David comforted Bathsheba his wife.' And C19's last word: the next child is named by God, Jedidiah, 'loved of Yahweh.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 13:1-22",
+      "pericope": "She answered him, 'No, my brother, do not force me!'… However he would not listen to her voice… 'But now hold your peace, my sister… Don't take this thing to heart.' So Tamar remained desolate",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C14",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The rape of Tamar by her half-brother Amnon, told without euphemism. The index records it so that it is not passed over, and anchors only what the text makes plain about the people around her. Tamar speaks clearly and is not heard: 'No, my brother, do not force me!… However he would not listen to her voice.' Afterward 'Amnon hated her with exceeding great hatred.' She mourns publicly, 'crying aloud as she went.' Her brother silences her: 'hold your peace, my sister. He is your brother. Don't take this thing to heart.' Her father 'was very angry' — and the text records no action. 'So Tamar remained desolate.' C14's household failing the person it most needed to protect, and C21's anatomy of desire turned to contempt. The passage is not offered as guidance; it stands as a record of what happens when those with power over a household do nothing.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 14:21-33",
+      "pericope": "Let him return to his own house, but let him not see my face… Absalom lived two full years in Jerusalem; and he didn't see the king's face",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C14",
+        "C19"
+      ],
+      "practices": [
+        "PR29"
+      ],
+      "mode": "counter-example",
+      "connection": "After three years in exile for killing Amnon, Absalom is brought home — and kept at a distance. 'The king said, \"Let him return to his own house, but let him not see my face.\" So Absalom returned to his own house, and didn't see the king's face… Absalom lived two full years in Jerusalem; and he didn't see the king's face.' Merciful Reintegration's opposite: the return permitted, the relationship withheld — 'lingering shame or permanent probation' in a father's own house. Absalom sets Joab's field on fire to get a hearing. The kiss finally comes (14:33), and the rebellion follows in the next chapter. C14 and C19: a door half-opened can be worse than one shut.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 15:13-37",
+      "pericope": "You are a foreigner, and also an exile. Return to your own place… Ittai answered… 'in what place my lord the king shall is, whether for death or for life, even there also will your servant be.'",
+      "pillars": [
+        "mercy",
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C13",
+        "C22",
+        "C17"
+      ],
+      "practices": [
+        "PR26",
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "David flees Jerusalem ahead of Absalom's rebellion. Among those leaving with him is Ittai the Gittite, a Philistine who arrived only recently. David releases him: 'Why do you also go with us? Return… for you are a foreigner, and also an exile… Whereas you came but yesterday, should I this day make you go up and down with us… Mercy and truth be with you.' Ittai refuses: 'As Yahweh lives, and as my lord the king lives, surely in what place my lord the king shall is, whether for death or for life, even there also will your servant be.' Unobligated Loyalty — the Ruth principle in nearly Ruth's words, from a foreigner explicitly released, to a man losing everything. C13 and C17. David's own posture is C22's: he sends the ark back — 'if he say thus, \"I have no delight in you;\" behold, here am I. Let him do to me as seems good to him' — and goes up the Mount of Olives 'and wept as he went up… barefoot' (Sacred Lament).",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 16:5-14",
+      "pericope": "Shimei… cursed still as he came… 'Leave him alone, and let him curse; for Yahweh has invited him. It may be that Yahweh will look on the wrong done to me'",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C03"
+      ],
+      "practices": [
+        "PR18",
+        "PR06"
+      ],
+      "mode": "exemplifies",
+      "connection": "A man of Saul's family follows the fleeing king along the hillside, throwing stones and dust and cursing: 'Be gone, be gone, you man of blood, and base fellow!' Abishai offers to 'take off his head.' David refuses: 'Behold, my son, who came forth from my bowels, seeks my life. How much more this Benjamite, now? Leave him alone, and let him curse; for Yahweh has invited him. It may be that Yahweh will look on the wrong done to me, and that Yahweh will repay me good for the cursing of me today.' Absorbing the Blow: nothing added to the fire, the attacker seen in the light of David's own condition. Non-Retaliation with the sword in reach. C22 and C03. 'So David and his men went by the way; and Shimei went along on the hillside opposite him, and cursed as he went.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 17:27-29",
+      "pericope": "Shobi the son of Nahash… and Machir… and Barzillai… brought beds, basins… wheat, barley… for they said, 'The people are hungry, and weary, and thirsty, in the wilderness.'",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C16",
+        "C27"
+      ],
+      "practices": [
+        "PR19"
+      ],
+      "mode": "exemplifies",
+      "connection": "In the wilderness, three men arrive with supplies: 'beds, basins, earthen vessels, wheat, barley, meal, parched grain, beans, lentils, roasted grain, honey, butter, sheep, and cheese.' Their reason is the whole of it: 'for they said, \"The people are hungry, and weary, and thirsty, in the wilderness.\"' Spontaneous Service to a fugitive king who could not command it (medium). One of them is Shobi, son of the Ammonite king David had fought; another is Machir, who had sheltered Mephibosheth. C16 and C27: help from across the old lines.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 18:1-19:8",
+      "pericope": "Deal gently for my sake with the young man, even with Absalom… 'My son Absalom! My son, my son Absalom! I wish I had died for you'… 'Now therefore arise, go out, and speak to comfort your servants'",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C14",
+        "C19"
+      ],
+      "practices": [
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "Before the battle against his son's army, the king's only order is about the enemy commander: 'Deal gently for my sake with the young man, even with Absalom.' Absalom is killed anyway. The messengers run; the king asks only one question — 'Is it well with the young man Absalom?' — and when he hears, 'The king was much moved, and went up to the room over the gate, and wept. As he went, he said, \"My son Absalom! My son, my son Absalom! I wish I had died for you, Absalom, my son, my son!\"' Sacred Lament from a father for a son who tried to kill him. C14. Joab's rebuke follows and is recorded as its counterweight: the soldiers who saved him slink into the city 'as people who are ashamed.' 'Arise, go out, and speak to comfort your servants.' 'Then the king arose, and sat in the gate.' Grief does not cancel responsibility to the living.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 19:16-23",
+      "pericope": "For your servant knows that I have sinned… 'Shall there any man be put to death this day in Israel?'… The king said to Shimei, 'You shall not die.'",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C15"
+      ],
+      "practices": [
+        "PR29",
+        "PR06"
+      ],
+      "mode": "exemplifies",
+      "connection": "The man who cursed and stoned David on the road comes down first to meet him on his return: 'Don't let my lord impute iniquity to me… For your servant knows that I have sinned.' Abishai again wants him dead. David: 'Shall there any man be put to death this day in Israel?… The king said to Shimei, \"You shall not die.\" The king swore to him.' Merciful Reintegration and Non-Retaliation on the day of victory, when revenge was easiest (medium). C19 and C15. The index records honestly that David's deathbed instructions in 1 Kings 2:8-9 reverse the mercy; this entry anchors the day itself.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 19:24-40",
+      "pericope": "Yes, let him take all, because my lord the king has come in peace to his own house… Why should the king repay me with such a reward?… let your servant turn back again, that I may die in my own city",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C18",
+        "C23",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Two men who served the king in his exile. Mephibosheth has not groomed his feet or washed his clothes 'from the day the king departed'; slandered by his servant, he asks for nothing: 'What right therefore have I yet that I should cry any more to the king?… Yes, let him take all, because my lord the king has come in peace.' C18's detachment from his own estate. Barzillai, 'eighty years old,' who fed the king's men at Mahanaim, is offered a place at court and declines: 'Can I discern between good and bad? Can your servant taste what I eat or what I drink?… Why should the king repay me with such a reward? Please let your servant turn back again, that I may die in my own city, by the grave of my father and my mother.' C23's service that does not ask to be paid, and C25's old age at peace.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 21:10-14",
+      "pericope": "Rizpah the daughter of Aiah took sackcloth, and spread it for her on the rock, from the beginning of harvest until water was poured on them from the sky",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C13"
+      ],
+      "practices": [
+        "PR26",
+        "PR08"
+      ],
+      "mode": "exemplifies",
+      "connection": "The execution of seven of Saul's descendants to settle a blood debt with the Gibeonites (21:1-9) is recorded and not offered as guidance. Two of the dead were Rizpah's sons. She will not leave them: 'Rizpah the daughter of Aiah took sackcloth, and spread it for her on the rock, from the beginning of harvest until water was poured on them from the sky. She allowed neither the birds of the sky to rest on them by day, nor the animals of the field by night.' Months on a rock beside the bodies of her sons, with nothing to gain and no prospect of return — Unobligated Loyalty extended past death, and Sacred Lament in sackcloth (medium for both). Her vigil shames the king into action: David gathers the bones of Saul and Jonathan as well and buries them all. C16 and C13: one woman's faithfulness moves a kingdom to honour its dead.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 23:13-17",
+      "pericope": "He would not drink of it, but poured it out to Yahweh. He said, 'Be it far from me, Yahweh, that I should do this! Isn't it the blood of the men who went in jeopardy of their lives?'",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "David, hiding from the Philistines, says aloud that he wishes he could drink from the well of Bethlehem. Three of his men break through the enemy lines and bring it. 'But he would not drink of it, but poured it out to Yahweh. He said, \"Be it far from me, Yahweh, that I should do this! Isn't it the blood of the men who went in jeopardy of their lives?\"' A leader who will not consume what others risked their lives for to satisfy his wish. C16's service seen from above, and C22's refusal to treat devotion to him as his due.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Samuel 24:10-25",
+      "pericope": "David's heart struck him… 'I have sinned greatly'… 'these sheep, what have they done? Please let your hand be against me'… 'I will not offer burnt offerings to Yahweh my God which cost me nothing.'",
+      "pillars": [
+        "truth",
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C19",
+        "C12"
+      ],
+      "practices": [
+        "PR03",
+        "PR11"
+      ],
+      "mode": "exemplifies",
+      "connection": "After the census: 'David's heart struck him… David said to Yahweh, \"I have sinned greatly in that which I have done.\"' The Failure Recovery Protocol's plain naming, unprompted this time. Offered a choice of judgments: 'Let us fall now into the hand of Yahweh; for his mercies are great. Let me not fall into the hand of man.' Seeing the plague strike the people, he asks to take it himself: 'Behold, I have sinned, and I have done perversely; but these sheep, what have they done? Please let your hand be against me.' Self-Accusation that places one's own portion first and asks that others be spared. C04 and C19. Then, offered the threshing floor for nothing: 'No; but I will most certainly buy it from you for a price. I will not offer burnt offerings to Yahweh my God which cost me nothing.' C12's proof: an offering that costs nothing proves nothing.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

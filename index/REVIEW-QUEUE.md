@@ -42,6 +42,7 @@ the first fourteen.
 | Haggai | 3 | `reviews/haggai-package.md` | 1:1-15 (PR01, "consider your ways"); 2:1-9 (PR14, refusing comparison with the former temple) |
 | Malachi | 7 | `reviews/malachi-package.md` | 3:6-12 (PR11 + PR05, with the note on "test me"); 2:10-16 (the divorce guard); 3:13-18 (C23) |
 | Zechariah | 14 | `reviews/zechariah-package.md` | 4:1-10 (PR14 — "who despises the day of small things?"); 3:1-10 (PR29 — Joshua's garments); 14:20-21 and 8:1-17 (PR23 — bells and pots, children playing); 7:1-14 (PR12, medium); 12:10-13:1 (PR08) |
+| 2 Samuel | 18 | `reviews/2-samuel-package.md` | 11:1-27 and 12:1-14 (A3 priors; PR12 counter-example; PR11 + PR03 + PR01); **15:13-37 (PR26 — Ittai, the closest text to Ruth 1:16-17)**; 14:21-33 (PR29 counter-example — "let him not see my face"); 16:5-14 (PR18 + PR06 — Shimei); 9:1-13 (PR25, Mephibosheth at the table; PR26 declined because of the oath); 21:10-14 (PR26 + PR08 — Rizpah); 24:10-25 (PR03 + PR11); 13:1-22 (indexed as a record; review the handling) |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

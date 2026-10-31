@@ -33,7 +33,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **1:10** so that you may approve the things that are excellent; that you may be sincere and without offense to the day of Christ;
 > **1:11** being filled with the fruits of righteousness, which are through Jesus Christ, to the glory and praise of God.
 
-**Claim.** Discernment is asked for as a property of love, not as a check on it: love abounding 'in knowledge and all discernment, so that you may approve the things that are excellent.' C02 makes wisdom a skill in the service of mercy — 'what discernment is for' — and this prayer is that claim in its most compact form.
+**Claim.** Discernment is asked for as a property of love, not as a check on it: love abounding 'in knowledge and all discernment; so that you may approve the things that are excellent.' C02 makes wisdom a skill in the service of mercy — 'what discernment is for' — and this prayer is that claim in its most compact form.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, mercy · stages: S1 · chapters: C02 · practices: none · confidence: high
 

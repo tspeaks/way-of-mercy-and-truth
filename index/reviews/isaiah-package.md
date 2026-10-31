@@ -232,7 +232,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **7:16** For before the child knows to refuse the evil, and choose the good, the land whose two kings you abhor shall be forsaken.
 > **7:17** Yahweh will bring on you, on your people, and on your father’s house, days that have not come, from the day that Ephraim departed from Judah; even the king of Assyria.
 
-**Claim.** The king's heart and his people's 'trembled, as the trees of the forest tremble with the wind.' The prophet's message: 'Be careful, and keep calm. Don't be afraid, neither let your heart be faint.' And its condition, a play on the same Hebrew word: 'If you will not believe, surely you shall not be established.' C22's quiet soul offered to a frightened ruler, who refuses even the sign. The sign is given anyway: 'the virgin will conceive, and bear a son, and shall call his name Immanuel' — God with us, C19's ground.
+**Claim.** The king's heart and his people's heart 'trembled… as the trees of the forest tremble with the wind.' The prophet's message: 'Be careful, and keep calm. Don't be afraid, neither let your heart be faint.' And its condition, a play on the same Hebrew word: 'If you will not believe, surely you shall not be established.' C22's quiet soul offered to a frightened ruler, who refuses even the sign. The sign is given anyway: 'the virgin will conceive, and bear a son, and shall call his name Immanuel' — God with us, C19's ground.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S5 · chapters: C22, C19 · practices: none · confidence: medium
 
@@ -635,7 +635,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **28:12** to whom he said, “This is the resting place. Give rest to weary;” and “This is the refreshing;” yet they would not hear.
 > **28:13** Therefore the word of Yahweh will be to them precept on precept, precept on precept; line on line, line on line; here a little, there a little; that they may go, fall backward, be broken, be snared, and be taken.
 
-**Claim.** Priests and prophets 'reel with strong drink… They err in vision. They stumble in judgment.' They mock the prophet as if he were teaching infants — 'precept on precept… line on line, here a little, there a little' — the phrase is their parody, and the index does not build a doctrine of gradual teaching on it. What they refused is named plainly: 'This is the resting place. Give rest to weary… yet they would not hear.' C22's rest offered and declined, and C21's account of a judgment clouded at its source.
+**Claim.** Priests and prophets 'reel with strong drink… They err in vision. They stumble in judgment.' They mock the prophet as if he were teaching infants — 'precept on precept… line on line, line on line; here a little, there a little' — the phrase is their parody, and the index does not build a doctrine of gradual teaching on it. What they refused is named plainly: 'This is the resting place. Give rest to weary… yet they would not hear.' C22's rest offered and declined, and C21's account of a judgment clouded at its source.
 
 **Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, humility · stages: S5 · chapters: C22, C21 · practices: none · confidence: medium
 
@@ -686,7 +686,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **29:15** Woe to those who deeply hide their counsel from Yahweh, and whose works are in the dark, and who say, “Who sees us?” and “Who knows us?”
 > **29:16** You turn things upside down! Should the potter be thought to be like clay; that the thing made should say about him who made it, “He didn’t make me;” or the thing formed say of him who formed it, “He has no understanding?”
 
-**Claim.** 'This people draws near with their mouth and with their lips to honor me, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught.' Jesus quotes it in Matthew 15 against those who keep the tradition and break the command. C04's inconsistency between outward and inward, and C07's blindness — vision become 'like the words of a book that is sealed.' 'Who sees us? Who knows us?'
+**Claim.** 'This people draws near with their mouth and with their lips to honor me, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught.' Jesus quotes it in Matthew 15 against those who keep the tradition and break the command. C04's inconsistency between outward and inward, and C07's blindness — vision become 'like the words of a book that is sealed.' 'Who sees us?' and 'Who knows us?'
 
 **Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S1, S2 · chapters: C04, C07 · practices: none · confidence: high
 
@@ -703,7 +703,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **29:23** But when he sees his children, the work of my hands, in the midst of him, they will sanctify my name. Yes, they will sanctify the Holy One of Jacob, and will stand in awe of the God of Israel.
 > **29:24** They also who err in spirit will come to understanding, and those who grumble will receive instruction.”
 
-**Claim.** The reversal promised: the deaf hear, the blind see out of darkness, 'the humble also will increase their joy in Yahweh, and the poor among men will rejoice,' and those who set snares for the innocent in the gate are cut off. Even the complainers are included — 'those who err in spirit will come to understanding, and those who grumble will receive instruction.' C19's healing and C16's poor.
+**Claim.** The reversal promised: the deaf hear, the blind see out of darkness, 'the humble also will increase their joy in Yahweh, and the poor among men will rejoice,' and those who set snares for the innocent in the gate are cut off. Even the complainers are included — 'They also who err in spirit will come to understanding, and those who grumble will receive instruction.' C19's healing and C16's poor.
 
 **Tags.** pillars: mercy · stages: S4, S5 · chapters: C19, C16 · practices: none · confidence: medium
 
@@ -1127,13 +1127,13 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **44:22** I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins. Return to me, for I have redeemed you.
 > **44:23** Sing, you heavens, for Yahweh has done it! Shout, you lower parts of the earth! Break out into singing, you mountains, O forest, all of your trees, for Yahweh has redeemed Jacob, and will glorify himself in Israel.
 
-**Claim.** The order of the sentence matters: 'I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins. Return to me, for I have redeemed you.' Redemption first, return second — not 'return so that I may redeem you.' C19's door, open before anyone walks through it. The heavens and the forests are told to sing about it.
+**Claim.** The order of the sentence matters: 'I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins. Return to me, for I have redeemed you.' Redemption first, return second — not 'return to me, for I have redeemed you.' C19's door, open before anyone walks through it. The heavens and the forests are told to sing about it.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy · stages: S5 · chapters: C19 · practices: none · confidence: high
 
 ---
 
-## 53. Isaiah 45:1-25 — Most certainly you are a God who hides yourself… Look to me, and be saved, all the ends of the earth
+## 53. Isaiah 45:1-25 — Most certainly you are a God who hidden yourself… Look to me, and be saved, all the ends of the earth
 
 > **45:1** Thus says Yahweh to his anointed, to Cyrus, whose right hand I have held, to subdue nations before him, and strip kings of their armor; to open the doors before him, and the gates shall not be shut:
 > **45:2** “I will go before you, and make the rough places smooth. I will break the doors of brass in pieces, and cut apart the bars of iron.
@@ -1161,7 +1161,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **45:24** They will say of me, ‘There is righteousness and strength only in Yahweh.’” Even to him shall men come; and all those who were incensed against him shall be disappointed.
 > **45:25** In Yahweh shall all the seed of Israel be justified, and shall glory.
 
-**Claim.** God names a foreign king his anointed — 'though you have not known me' — and asserts a sovereignty beyond human categories: 'I form the light, and create darkness. I make peace, and create calamity.' 'Woe to him who strives with his Maker — a clay pot among the clay pots of the earth!' And the confession of the nations: 'Most certainly you are a God who hides yourself.' The Discipline of Unknowing at its sharpest — God hidden even in self-revelation — and C24's ground. Then the widest invitation in the Old Testament, C27's: 'Look to me, and be saved, all the ends of the earth… to me every knee shall bow' (the line Philippians 2:10 applies to Christ).
+**Claim.** God names a foreign king his anointed — 'though you have not known me' — and asserts a sovereignty beyond human categories: 'I form the light, and create darkness. I make peace, and create calamity.' 'Woe to him who strives with his Maker — a clay pot among the clay pots of the earth!' And the confession of the nations: 'Most certainly you are a God who hidden yourself.' The Discipline of Unknowing at its sharpest — God hidden even in self-revelation — and C24's ground. Then the widest invitation in the Old Testament, C27's: 'Look to me, and be saved, all the ends of the earth… to me every knee shall bow' (the line Philippians 2:10 applies to Christ).
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, mercy · stages: S6, S7 · chapters: C24, C27 · practices: PR04 · confidence: medium
 
@@ -1183,7 +1183,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **46:12** Listen to me, you stout-hearted, who are far from righteousness:
 > **46:13** I bring near my righteousness, it shall not be far off, and my salvation shall not wait; and I will place salvation in Zion for Israel my glory.
 
-**Claim.** The gods of Babylon are carried on the backs of animals, 'a burden to the weary,' and bow down with their idols into captivity. Israel's God reverses the direction: 'you that have been borne from your birth, that have been carried from the womb; and even to old age I am he, and even to gray hairs will I carry you. I have made, and I will bear.' C18's idols as burdens one must carry, and C19's God who carries.
+**Claim.** The gods of Babylon are carried on the backs of animals, 'a burden to the weary,' and bow down with their idols into captivity. Israel's God reverses the direction: 'that have been borne from their birth, that have been carried from the womb; and even to old age I am he, and even to gray hairs will I carry you. I have made, and I will bear.' C18's idols as burdens one must carry, and C19's God who carries.
 
 **Tags.** pillars: mercy, humility · stages: S4, S5 · chapters: C19, C18 · practices: none · confidence: medium
 
@@ -1419,7 +1419,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **55:12** For you shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing; and all the trees of the fields shall clap their hands.
 > **55:13** Instead of the thorn shall come up the fir tree; and instead of the brier shall come up the myrtle tree: and it shall be to Yahweh for a name, for an everlasting sign that shall not be cut off.”
 
-**Claim.** 'Come, everyone who thirsts, to the waters! Come, he who has no money, buy, and eat!' Grace offered free to the one who cannot pay — C19's. Then the question C18 asks of every life: 'Why do you spend money for that which is not bread? and your labor for that which doesn't satisfy?' The call to return — 'let the wicked forsake his way… and he will abundantly pardon' — is grounded in the distance between God and the one returning: 'For my thoughts are not your thoughts, neither are your ways my ways… as the heavens are higher than the earth.' The Discipline of Unknowing as the reason mercy can be larger than we expect. 'My word… shall not return to me void.'
+**Claim.** 'Come, everyone who thirsts, to the waters! Come, he who has no money, buy, and eat!' Grace offered free to the one who cannot pay — C19's. Then the question C18 asks of every life: 'Why do you spend money for that which is not bread? and your labor for that which doesn't satisfy?' The call to return — 'let the wicked forsake his way… for he will abundantly pardon' — is grounded in the distance between God and the one returning: 'For my thoughts are not your thoughts, neither are your ways my ways… as the heavens are higher than the earth.' The Discipline of Unknowing as the reason mercy can be larger than we expect. 'My word… shall not return to me void.'
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, humility, truth · stages: S4, S5, S6 · chapters: C19, C18, C24 · practices: PR04 · confidence: high
 
@@ -1489,7 +1489,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **58:11** and Yahweh will guide you continually, and satisfy your soul in dry places, and make strong your bones; and you shall be like a watered garden, and like a spring of water, whose waters don’t fail.
 > **58:12** Those who shall be of you shall build the old waste places; you shall raise up the foundations of many generations; and you shall be called The repairer of the breach, The restorer of paths to dwell in.
 
-**Claim.** A people who fast and ask why God does not notice — 'Why have we fasted, and you don't see?' — are told that their fast is a display, kept 'for strife and contention,' with heads bowed 'as a rush' and sackcloth spread. Then the fast God chooses: 'to let the oppressed go free… to distribute your bread to the hungry, and that you bring the poor who are cast out to your house… When you see the naked, that you cover him; and that you not hide yourself from your own flesh.' Habitual Almsgiving as the substance of religious practice, which is C12's proof. And the discipline itself is redefined around the guest: the poor brought into the house in place of a fast performed to be seen. The Sacrifice of Routine is letting hospitality override one's discipline and avoiding any display of religious severity; this passage condemns the severity and puts the stranger at the table in its place. PR20 at medium, since no single guest's arrival is narrated. The promise that follows — 'you shall be called The repairer of the breach' — is C16's.
+**Claim.** A people who fast and ask why God does not notice — 'Why have we fasted… and you don't see?' — are told that their fast is a display, kept 'for strife and contention,' with heads bowed 'as a rush' and sackcloth spread. Then the fast God chooses: 'to let the oppressed go free… to distribute your bread to the hungry, and that you bring the poor who are cast out to your house… When you see the naked, that you cover him; and that you not hide yourself from your own flesh.' Habitual Almsgiving as the substance of religious practice, which is C12's proof. And the discipline itself is redefined around the guest: the poor brought into the house in place of a fast performed to be seen. The Sacrifice of Routine is letting hospitality override one's discipline and avoiding any display of religious severity; this passage condemns the severity and puts the stranger at the table in its place. PR20 at medium, since no single guest's arrival is narrated. The promise that follows — 'you shall be called The repairer of the breach' — is C16's.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S3, S4 · chapters: C16, C12 · practices: PR05, PR20 · confidence: high
 
@@ -1561,7 +1561,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **60:21** Your people also shall be all righteous; they shall inherit the land forever, the branch of my planting, the work of my hands, that I may be glorified.
 > **60:22** The little one shall become a thousand, and the small one a strong nation; I, Yahweh, will hasten it in its time.”
 
-**Claim.** 'Arise, shine; for your light has come, and the glory of Yahweh is risen on you.' Darkness over the earth and light on one people, so that 'nations shall come to your light.' C26's temple of light at the scale of a city, with gates 'open continually… not shut day nor night,' and officers who are peace and a ruler who is righteousness. The nations streaming in is C27's; the threat of 60:12 is part of the oracle and not what the entry anchors.
+**Claim.** 'Arise, shine; for your light has come, and the glory of Yahweh is risen on you.' Darkness over the earth and light on one people, so that 'nations shall come to your light.' C26's temple of light at the scale of a city, with gates 'open continually; they shall not be shut day nor night,' and officers who are peace and a ruler who is righteousness. The nations streaming in is C27's; the threat of 60:12 is part of the oracle and not what the entry anchors.
 
 **Tags.** pillars: mercy · stages: S6, S7 · chapters: C26, C27 · practices: none · confidence: medium
 

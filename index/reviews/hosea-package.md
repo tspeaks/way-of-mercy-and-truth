@@ -81,7 +81,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **3:4** For the children of Israel shall live many days without king, and without prince, and without sacrifice, and without sacred stone, and without ephod or idols.
 > **3:5** Afterward the children of Israel shall return, and seek Yahweh their God, and David their king, and shall come with trembling to Yahweh and to his blessings in the last days.
 
-**Claim.** 'Yahweh said to me, "Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods." So I bought her for myself.' The prophet's household made into a picture of a love that pursues the unfaithful. C27's love without limit and C19's redemption at a price. Indexed with Unobligated Loyalty's own guard, and for that reason not tagged PR26: this is a prophetic sign of God's love, commanded for that purpose; it is not a template for remaining with an unfaithful or harmful partner, and the index does not offer it as one.
+**Claim.** 'Yahweh said to me, "Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods…" So I bought her for myself.' The prophet's household made into a picture of a love that pursues the unfaithful. C27's love without limit and C19's redemption at a price. Indexed with Unobligated Loyalty's own guard, and for that reason not tagged PR26: this is a prophetic sign of God's love, commanded for that purpose; it is not a template for remaining with an unfaithful or harmful partner, and the index does not offer it as one.
 
 **Tags.** pillars: mercy · stages: S5, S7 · chapters: C19, C27 · practices: none · confidence: medium
 

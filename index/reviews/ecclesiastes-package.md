@@ -174,7 +174,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **4:7** Then I returned and saw vanity under the sun.
 > **4:8** There is one who is alone, and he has neither son nor brother. There is no end to all of his labor, neither are his eyes satisfied with wealth. “For whom then, do I labor, and deprive my soul of enjoyment?” This also is vanity. Yes, it is a miserable business.
 
-**Claim.** Work driven by rivalry — 'the envy of a man's neighbor' — and a man alone, with no son or brother, whose labour has no end and who never asks, until too late, 'for whom then do I labor?' Against both, a handful with quietness. C18's freedom from accumulation and C22's quiet soul, with envy named as the engine of the restlessness.
+**Claim.** Work driven by rivalry — 'the envy of a man's neighbor' — and a man alone, with no son or brother, whose labour has no end and who never asks, until too late, 'for whom then, do I labor?' Against both, a handful with quietness. C18's freedom from accumulation and C22's quiet soul, with envy named as the engine of the restlessness.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S4, S5 · chapters: C18, C22 · practices: none · confidence: high
 
@@ -317,7 +317,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **7:21** Also don’t take heed to all words that are spoken, lest you hear your servant curse you;
 > **7:22** for often your own heart knows that you yourself have likewise cursed others.
 
-**Claim.** In a situation of friction — overhearing one's own servant curse you — the counsel is not to take every word to heart, and the reason given is a look at one's own portion: 'often your own heart knows that you yourself have likewise cursed others.' That is Self-Accusation in its exact form, a discipline of sequence in which one's own part is examined before the other's is assigned, and it sits in the chapter, C22, where the curriculum teaches it. 'Surely there is not a righteous man on earth who does good and doesn't sin' supplies the ground, and C04's audit.
+**Claim.** In a situation of friction — overhearing one's own servant curse you — the counsel is not to take every word to heart, and the reason given is a look at one's own portion: 'often your own heart knows that you yourself have likewise cursed others.' That is Self-Accusation in its exact form, a discipline of sequence in which one's own part is examined before the other's is assigned, and it sits in the chapter, C22, where the curriculum teaches it. 'Surely there is not a righteous man on earth, who does good and doesn't sin' supplies the ground, and C04's audit.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S1, S5 · chapters: C22, C04 · practices: PR03 · confidence: high
 

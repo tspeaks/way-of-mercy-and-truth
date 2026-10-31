@@ -103,7 +103,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **2:6** As therefore you received Christ Jesus, the Lord, walk in him,
 > **2:7** rooted and built up in him, and established in the faith, even as you were taught, abounding in it in thanksgiving.
 
-**Claim.** Walk in him as you received him, rooted and built up: the life continues by the same means it began, which is C11's argument that abiding is the mechanism rather than a stage to graduate from. The paragraph ends 'abounding in thanksgiving,' which is the practice C10 assigns to the delight of remaining.
+**Claim.** Walk in him as you received him, rooted and built up: the life continues by the same means it began, which is C11's argument that abiding is the mechanism rather than a stage to graduate from. The paragraph ends 'abounding in it in thanksgiving,' which is the practice C10 assigns to the delight of remaining.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S3 · chapters: C11, C10 · practices: none · confidence: high
 

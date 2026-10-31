@@ -596,7 +596,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **27:13** I am still confident of this: I will see the goodness of Yahweh in the land of the living.
 > **27:14** Wait for Yahweh. Be strong, and let your heart take courage. Yes, wait for Yahweh.
 
-**Claim.** The Scriptural Appendix assigns Psalm 27 to C03 and C11: mercy without fear, and the one thing asked — to dwell. 'Yahweh is my light and my salvation. Whom shall I fear?' opens C03's witness; 'one thing I have asked… to dwell in the house of Yahweh all the days of my life' is C11's. 'When my father and my mother forsake me, then Yahweh will take me up.' 'Wait for Yahweh.'
+**Claim.** The Scriptural Appendix assigns Psalm 27 to C03 and C11: mercy without fear, and the one thing asked — to dwell. 'Yahweh is my light and my salvation. Whom shall I fear?' opens C03's witness; 'One thing I have asked of Yahweh… that I may dwell in the house of Yahweh all the days of my life' is C11's. 'When my father and my mother forsake me, then Yahweh will take me up.' 'Wait for Yahweh.'
 
 **Tags.** pillars: mercy, humility · stages: S1, S3 · chapters: C03, C11 · practices: none · confidence: high
 
@@ -881,7 +881,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **37:39** But the salvation of the righteous is from Yahweh. He is their stronghold in the time of trouble.
 > **37:40** Yahweh helps them, and rescues them. He rescues them from the wicked, and saves them, Because they have taken refuge in him.
 
-**Claim.** An acrostic of counsel to someone eaten up by the prosperity of the wicked: don't fret, don't envy, 'cease from anger, and forsake wrath. Don't fret, it leads only to evildoing.' C22's healed heart, measured by fretting rather than by belief. 'Better is a little that the righteous has, than the abundance of many wicked' is C18's. The righteous man 'deals graciously, and lends' 'all day long' and 'gives generously' — giving as a settled habit, which is Habitual Almsgiving, tagged at medium because it is described rather than commanded.
+**Claim.** An acrostic of counsel to someone eaten up by the prosperity of the wicked: don't fret, don't envy, 'cease from anger, and forsake wrath. Don't fret, it leads only to evildoing.' C22's healed heart, measured by fretting rather than by belief. 'Better is a little that the righteous has, than the abundance of many wicked' is C18's. The righteous man 'deals graciously, and lends' 'all day long' and 'give generously' — giving as a settled habit, which is Habitual Almsgiving, tagged at medium because it is described rather than commanded.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, mercy · stages: S4, S5 · chapters: C22, C18 · practices: PR05 · confidence: medium
 
@@ -1102,7 +1102,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **49:19** he shall go to the generation of his fathers. They shall never see the light.
 > **49:20** A man who has riches without understanding, is like the animals that perish.
 
-**Claim.** A wisdom psalm addressed to rich and poor together. No one can ransom a brother from death; the rich leave their wealth to others; 'their inward thought is that their houses will endure forever… They name their lands after themselves.' 'When he dies he shall carry nothing away.' C18's detachment argued from the grave, and C02's wisdom: 'a man who has riches without understanding is like the animals that perish.'
+**Claim.** A wisdom psalm addressed to rich and poor together. No one can ransom a brother from death; the rich leave their wealth to others; 'their inward thought is that their houses will endure forever… They name their lands after themselves.' 'When he dies he shall carry nothing away.' C18's detachment argued from the grave, and C02's wisdom: 'a man who has riches without understanding, is like the animals that perish.'
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, humility · stages: S1, S4 · chapters: C18, C02 · practices: none · confidence: high
 
@@ -3128,7 +3128,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **130:7** Israel, hope in Yahweh, for with Yahweh there is loving kindness. With him is abundant redemption.
 > **130:8** He will redeem Israel from all their sins.
 
-**Claim.** 'Out of the depths I have cried to you.' The penitential psalm turns on a question that has no answer from the human side — 'If you, Yah, kept a record of sins, who could stand?' — and an answer from God's: 'But there is forgiveness with you.' Then waiting, 'more than watchmen long for the morning.' Sacred Lament from the depths, and C19's door at its most compact.
+**Claim.** 'Out of the depths I have cried to you.' The penitential psalm turns on a question that has no answer from the human side — 'If you, Yah, kept a record of sins, Lord, who could stand?' — and an answer from God's: 'But there is forgiveness with you.' Then waiting, 'more than watchmen long for the morning.' Sacred Lament from the depths, and C19's door at its most compact.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S5 · chapters: C19 · practices: PR08 · confidence: medium
 
@@ -3358,7 +3358,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **145:20** Yahweh preserves all those who love him, but all the wicked he will destroy.
 > **145:21** My mouth will speak the praise of Yahweh. Let all flesh bless his holy name forever and ever.
 
-**Claim.** An acrostic of praise 'every day.' 'His greatness is unsearchable' is C24's; 'Yahweh is good to all. His tender mercies are over all his works… Yahweh upholds all who fall, and raises up all those who are bowed down… near to all those who call on him in truth' is C27's mercy with no one left outside it.
+**Claim.** An acrostic of praise 'every day.' 'His greatness is unsearchable' is C24's; 'Yahweh is good to all. His tender mercies are over all his works… Yahweh upholds all who fall, and raises up all those who are bowed down… near to all those who call on him, to all who call on him in truth' is C27's mercy with no one left outside it.
 
 **Tags.** pillars: mercy, humility · stages: S6, S7 · chapters: C27, C24 · practices: none · confidence: high
 

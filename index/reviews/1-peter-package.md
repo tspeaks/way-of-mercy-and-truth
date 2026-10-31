@@ -230,7 +230,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **4:5** who will give account to him who is ready to judge the living and the dead.
 > **4:6** For to this end the Good News was preached even to the dead, that they might be judged indeed as men in the flesh, but live as to God in the spirit.
 
-**Claim.** The cost of the citizen-stranger's posture is described from the other side: former companions find it strange and speak against it. The instruction to 'arm yourselves with the same mind' and live the rest of one's time for the will of God rather than the desires of men is a resolve made in advance against a known pull, which is the forward attention of C20.
+**Claim.** The cost of the citizen-stranger's posture is described from the other side: former companions find it strange and speak against it. The instruction to 'arm yourselves also with the same mind' and live the rest of one's time for the will of God rather than the desires of men is a resolve made in advance against a known pull, which is the forward attention of C20.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth · stages: S4, S5 · chapters: C17, C20 · practices: none · confidence: high
 

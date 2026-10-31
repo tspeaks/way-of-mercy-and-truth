@@ -527,7 +527,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 *Also in Luke: Matthew 14:22-33*
 
-**Claim.** After feeding the five thousand, he sends the disciples ahead and the crowd away, 'and after he had taken leave of them, he went up the mountain to pray.' The rhythm of withdrawal kept even after success — the Daily Anchors and C09's secret place (medium; tagged as at Luke 6:12-16). From the mountain he sees them 'distressed in rowing, for the wind was contrary.' He comes walking on the sea: 'Cheer up! It is I! Don't be afraid.' C22. Mark ends the scene unflatteringly: 'they hadn't understood about the loaves, but their hearts were hardened.'
+**Claim.** After feeding the five thousand, he sends the disciples ahead and the crowd away, and 'after he had taken leave of them, he went up the mountain to pray.' The rhythm of withdrawal kept even after success — the Daily Anchors and C09's secret place (medium; tagged as at Luke 6:12-16). From the mountain he sees them 'distressed in rowing, for the wind was contrary.' He comes walking on the sea: 'Cheer up! It is I! Don't be afraid.' C22. Mark ends the scene unflatteringly: 'they hadn't understood about the loaves, but their hearts were hardened.'
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, truth · stages: S3, S5 · chapters: C09, C22 · practices: PR07 · confidence: medium
 
@@ -683,7 +683,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 *Also in Luke: Matthew 16:13-23; Luke 9:18-22*
 
-**Claim.** 'But who do you say that I am? Peter answered, "You are the Christ."' The right answer, and moments later the wrong understanding of it. When Jesus speaks of suffering, rejection and death, 'Peter took him, and began to rebuke him.' 'Get behind me, Satan! For you have in mind not the things of God, but the things of men.' C07's half-cleansed lens — like the blind man seeing 'men like trees walking' — and C08's warning that even a true confession can carry a false expectation.
+**Claim.** 'But who do you say that I am? Peter answered, "You are the Christ."' The right answer, and moments later the wrong understanding of it. When Jesus speaks of suffering, rejection and death, 'Peter took him, and began to rebuke him.' 'Get behind me, Satan! For you have in mind not the things of God, but the things of men.' C07's half-cleansed lens — like the blind man seeing 'I see men; for I see them like trees walking' — and C08's warning that even a true confession can carry a false expectation.
 
 **Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, humility · stages: S2 · chapters: C07, C08 · practices: none · confidence: high
 

@@ -247,7 +247,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **9:9** “For, behold, I will command, and I will sift the house of Israel among all the nations, as grain is sifted in a sieve, yet not the least kernel will fall on the earth.
 > **9:10** All the sinners of my people will die by the sword, who say, ‘Evil won’t overtake nor meet us.’
 
-**Claim.** The vision of judgment at the altar (9:1-6) is followed by a question that dismantles national privilege: 'Are you not like the children of the Ethiopians to me, children of Israel? Haven't I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir?' God has guided other peoples' histories too. C22's humility applied to a chosen nation, and C27's reach. The sieve that follows will not lose 'the least kernel.'
+**Claim.** The vision of judgment at the altar (9:1-6) is followed by a question that dismantles national privilege: 'Are you not like the children of the Ethiopians to me, children of Israel?… Haven't I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir?' God has guided other peoples' histories too. C22's humility applied to a chosen nation, and C27's reach. The sieve that follows will not lose 'the least kernel.'
 
 **Tags.** pillars: humility, truth · stages: S5, S7 · chapters: C22, C27 · practices: none · confidence: medium
 

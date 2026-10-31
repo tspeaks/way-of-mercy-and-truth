@@ -474,7 +474,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **10:21** He is your praise, and he is your God, who has done for you these great and awesome things, which your eyes have seen.
 > **10:22** Your fathers went down into Egypt with seventy persons; and now Yahweh your God has made you as the stars of the sky for multitude.
 
-**Claim.** 'What does Yahweh your God require of you' — the question Micah 6:8 will answer with the three pillars is asked first here. The answer reaches the heart: 'circumcise therefore the foreskin of your heart,' the inward reading of the sign that C06 takes from Jeremiah 4:4 and that Jeremiah takes from this verse. Then the character of God as the ground of conduct: he 'executes justice for the fatherless and widow, and loves the foreigner, in giving him food and clothing. Therefore love the foreigner.' Provision for the stranger, the fatherless and the widow is how the Scriptural Appendix grounds Habitual Almsgiving in the Torah, and the reason given — 'for you were foreigners in the land of Egypt' — is C16's.
+**Claim.** 'What does Yahweh your God require of you' — the question Micah 6:8 will answer with the three pillars is asked first here. The answer reaches the heart: 'circumcise therefore the foreskin of your heart,' the inward reading of the sign that C06 takes from Jeremiah 4:4 and that Jeremiah takes from this verse. Then the character of God as the ground of conduct: he 'does execute justice for the fatherless and widow, and loves the foreigner, in giving him food and clothing. Therefore love the foreigner.' Provision for the stranger, the fatherless and the widow is how the Scriptural Appendix grounds Habitual Almsgiving in the Torah, and the reason given — 'for you were foreigners in the land of Egypt' — is C16's.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: truth, mercy, humility · stages: S1, S2, S4 · chapters: C01, C06, C16 · practices: PR05 · confidence: high
 
@@ -674,7 +674,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **16:19** You shall not wrest justice: you shall not respect persons; neither shall you take a bribe; for a bribe does blind the eyes of the wise, and pervert the words of the righteous.
 > **16:20** You shall follow that which is altogether just, that you may live, and inherit the land which Yahweh your God gives you.
 
-**Claim.** Judges in every gate, no partiality, no bribe — 'for a bribe does blind the eyes of the wise, and pervert the words of the righteous.' Interest corrupts perception before it corrupts judgment: the wise are blinded, not merely tempted. That is C07's claim that the lens is clouded by the condition of the one looking. 'That which is altogether just you shall follow' is C16's charge to those who hold power.
+**Claim.** Judges in every gate, no partiality, no bribe — 'for a bribe does blind the eyes of the wise, and pervert the words of the righteous.' Interest corrupts perception before it corrupts judgment: the wise are blinded, not merely tempted. That is C07's claim that the lens is clouded by the condition of the one looking. 'You shall follow that which is altogether just' is C16's charge to those who hold power.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S2, S4 · chapters: C07, C16 · practices: none · confidence: high
 
@@ -1183,7 +1183,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 > **29:29** The secret things belong to Yahweh our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.
 
-**Claim.** One verse divides knowledge in two: the hidden things are God's, and the revealed things are 'ours and our children's forever, that we may do all the words of this law.' The Discipline of Unknowing says it is not indecision — that one can act steadfastly while knowing one's understanding is partial. This verse is that sentence in its oldest form: what is not given is left with God, and what is given is for doing.
+**Claim.** One verse divides knowledge in two: the hidden things are God's, and the revealed things are 'belong to us and to our children forever, that we may do all the words of this law.' The Discipline of Unknowing says it is not indecision — that one can act steadfastly while knowing one's understanding is partial. This verse is that sentence in its oldest form: what is not given is left with God, and what is given is for doing.
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: humility, truth · stages: S6 · chapters: C24 · practices: PR04 · confidence: high
 

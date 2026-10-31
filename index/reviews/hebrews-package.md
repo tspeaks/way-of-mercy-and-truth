@@ -217,7 +217,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **6:19** This hope we have as an anchor of the soul, a hope both sure and steadfast and entering into that which is within the veil;
 > **6:20** where as a forerunner Jesus entered for us, having become a high priest forever after the order of Melchizedek.
 
-**Claim.** Abraham, 'having patiently endured, obtained the promise.' God bound himself with an oath 'that by two immutable things, in which it is impossible for God to lie, we may have a strong encouragement… This hope we have as an anchor of the soul, a hope both sure and steadfast.' C25's long wait, and C22's steadiness — an anchor does not stop the waves; it keeps the ship where it is.
+**Claim.** Abraham, 'having patiently endured, he obtained the promise.' God bound himself with an oath 'that by two immutable things, in which it is impossible for God to lie, we may have a strong encouragement… This hope we have as an anchor of the soul, a hope both sure and steadfast.' C25's long wait, and C22's steadiness — an anchor does not stop the waves; it keeps the ship where it is.
 
 **Tags.** pillars: humility, truth · stages: S5, S6 · chapters: C25, C22 · practices: none · confidence: medium
 

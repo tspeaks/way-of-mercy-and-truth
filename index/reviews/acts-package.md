@@ -413,7 +413,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **8:7** For unclean spirits came out of many of those who had them. They came out, crying with a loud voice. Many who had been paralyzed and lame were healed.
 > **8:8** There was great joy in that city.
 
-**Claim.** Persecution scatters the church, and the scattered become messengers. Philip goes to Samaria — to the people the Jews of Judea held at arm's length — 'and there was great joy in that city.' C27's circle widening through the very dispersal meant to end it, and C17's community at home wherever it is driven. 'Devout men buried Stephen, and lamented greatly over him.'
+**Claim.** Persecution scatters the church, and the scattered become messengers. Philip goes to Samaria — to the people the Jews of Judea held at arm's length — 'There was great joy in that city.' C27's circle widening through the very dispersal meant to end it, and C17's community at home wherever it is driven. 'Devout men buried Stephen, and lamented greatly over him.'
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4, S7 · chapters: C27, C17 · practices: none · confidence: medium
 
@@ -655,7 +655,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **11:29** As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea;
 > **11:30** which they also did, sending it to the elders by the hands of Barnabas and Saul.
 
-**Claim.** A famine is foretold, and the young Gentile church at Antioch responds before it arrives: 'As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea.' Surplus — 'as any had plenty' — redirected to the afflicted rather than kept against the coming scarcity, and proportioned to each one's means. The Heavenly Palace's positive form across a border, from Gentile believers to Jewish ones; and Habitual Almsgiving's measured share. C27's circle now running in both directions.
+**Claim.** A famine is foretold, and the young Gentile church at Antioch responds before it arrives: 'As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea.' Surplus — 'As any of the disciples had plenty' — redirected to the afflicted rather than kept against the coming scarcity, and proportioned to each one's means. The Heavenly Palace's positive form across a border, from Gentile believers to Jewish ones; and Habitual Almsgiving's measured share. C27's circle now running in both directions.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4, S7 · chapters: C16, C27 · practices: PR28, PR05 · confidence: high
 
@@ -800,7 +800,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **15:33** After they had spent some time there, they were sent back with greetings from the brothers to the apostles.
 > **15:35** But Paul and Barnabas stayed in Antioch, teaching and preaching the word of the Lord, with many others also.
 
-**Claim.** The first great dispute of the church — must Gentile believers be circumcised? — is settled by a council, and the process is as instructive as the outcome. 'After there had been much discussion,' Peter speaks; then 'all the multitude kept silence, and they listened to Barnabas and Paul'; then James sums up. Listening as Mercy practised by an entire assembly before it concludes. The decision is aimed at peace rather than at victory for either party — 'we don't trouble those from among the Gentiles who turn to God' — with a few requests for the sake of table fellowship, and it is sent with men from both sides and a letter that 'rejoiced' its readers 'over the encouragement.' The Architecture of Peace at the scale of a whole church, and C27's circle written into its constitution.
+**Claim.** The first great dispute of the church — must Gentile believers be circumcised? — is settled by a council, and the process is as instructive as the outcome. 'When there had been much discussion,' Peter speaks; then 'all the multitude kept silence, and they listened to Barnabas and Paul'; then James sums up. Listening as Mercy practised by an entire assembly before it concludes. The decision is aimed at peace rather than at victory for either party — 'we don't trouble those from among the Gentiles who turn to God' — with a few requests for the sake of table fellowship, and it is sent with men from both sides and a letter that 'rejoiced' its readers 'over the encouragement.' The Architecture of Peace at the scale of a whole church, and C27's circle written into its constitution.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy, truth · stages: S4, S7 · chapters: C15, C27 · practices: PR09, PR16 · confidence: high
 
@@ -953,7 +953,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **18:10** for I am with you, and no one will attack you to harm you, for I have many people in this city.”
 > **18:11** He lived there a year and six months, teaching the word of God among them.
 
-**Claim.** In Corinth the apostle finds a couple of the same trade 'and lived with them and worked, for by trade they were tent makers.' The greatest missionary of the church supporting himself by stitching leather. The Sacrament of the Ordinary locates the road's highest expression in honest work in unglamorous settings; this is that, done alongside the preaching rather than instead of it. When he is afraid, the word is C22's: 'Don't be afraid, but speak and don't be silent; for I am with you.'
+**Claim.** In Corinth the apostle finds a couple of the same trade 'he lived with them and worked, for by trade they were tent makers.' The greatest missionary of the church supporting himself by stitching leather. The Sacrament of the Ordinary locates the road's highest expression in honest work in unglamorous settings; this is that, done alongside the preaching rather than instead of it. When he is afraid, the word is C22's: 'Don't be afraid, but speak and don't be silent; for I am with you.'
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4, S5 · chapters: C13, C22 · practices: PR23 · confidence: medium
 
@@ -1092,7 +1092,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **21:25** But concerning the Gentiles who believe, we have written our decision that they should observe no such thing, except that they should keep themselves from food offered to idols, from blood, from strangled things, and from sexual immorality.”
 > **21:26** Then Paul took the men, and the next day, purified himself and went with them into the temple, declaring the fulfillment of the days of purification, until the offering was offered for every one of them.
 
-**Claim.** In Jerusalem the elders tell Paul that thousands of Jewish believers have heard he teaches Jews to abandon Moses. They ask him to join four men in a vow, pay their expenses, and be seen in the temple, 'that all will know that there is no truth in the things that they have been informed about you.' He does it the next day. A concession made early and publicly for the sake of a divided community — the Architecture of Peace at personal cost, by a man who had written that he became 'to the Jews… as a Jew.' Medium: the gesture fails, and the riot follows from it.
+**Claim.** In Jerusalem the elders tell Paul that thousands of Jewish believers have heard he teaches Jews to abandon Moses. They ask him to join four men in a vow, pay their expenses, and be seen in the temple, 'Then all will know that there is no truth in the things that they have been informed about you.' He does it the next day. A concession made early and publicly for the sake of a divided community — the Architecture of Peace at personal cost, by a man who had written that he became 'to the Jews… as a Jew.' Medium: the gesture fails, and the riot follows from it.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S4 · chapters: C15, C16 · practices: PR09 · confidence: medium
 
@@ -1294,7 +1294,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **27:43** But the centurion, desiring to save Paul, stopped them from their purpose, and commanded that those who could swim should throw themselves overboard first to go toward the land;
 > **27:44** and the rest should follow, some on planks, and some on other things from the ship. So it happened that they all escaped safely to the land.
 
-**Claim.** Fourteen days in a storm, no sun or stars, 'all hope that we would be saved was now taken away.' A prisoner with nothing — no rank, no money, his advice already ignored once — stands up among two hundred seventy-six despairing men and speaks: 'Now I exhort you to cheer up, for there will be no loss of life among you.' At dawn he begs them to eat, 'and when he had said this, and had taken bread, he gave thanks to God in the presence of all, and he broke it, and began to eat. Then they all cheered up.' Verbal Almsgiving is the alms of those without material means: seeking out the discouraged and giving them a good word as a genuine act of charity. This is that alms given by the poorest man on the ship to the whole ship. C22's quiet in a storm, and C28's ordinary act — bread, thanks, eating — as the turning point of the night.
+**Claim.** Fourteen days in a storm, no sun or stars, 'all hope that we would be saved was now taken away.' A prisoner with nothing — no rank, no money, his advice already ignored once — stands up among two hundred seventy-six despairing men and speaks: 'Now I exhort you to cheer up, for there will be no loss of life among you.' At dawn he begs them to eat, 'When he had said this, and had taken bread, he gave thanks to God in the presence of all, and he broke it, and began to eat. Then they all cheered up.' Verbal Almsgiving is the alms of those without material means: seeking out the discouraged and giving them a good word as a genuine act of charity. This is that alms given by the poorest man on the ship to the whole ship. C22's quiet in a storm, and C28's ordinary act — bread, thanks, eating — as the turning point of the night.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S5, S7 · chapters: C22, C28 · practices: PR21 · confidence: high
 

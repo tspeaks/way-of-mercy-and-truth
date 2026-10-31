@@ -44,7 +44,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **2:11** Because of this, God sends them a working of error, that they should believe a lie;
 > **2:12** that they all might be judged who didn’t believe the truth, but had pleasure in unrighteousness.
 
-**Claim.** A church unsettled by a claim that 'the day of Christ had come,' perhaps from a forged letter. 'We ask you not to be quickly shaken in your mind, nor yet be troubled, either by spirit, or by word, or by letter as from us… Let no one deceive you in any way.' C08's discernment applied to apocalyptic excitement. The deception described works through 'power and signs and lying wonders,' and succeeds 'because they didn't receive the love of the truth' — C07's point that what a person can see depends on what they love. The index does not interpret the 'man of sin' or 'the one who restrains.'
+**Claim.** A church unsettled by a claim that 'the day of Christ had come,' perhaps from a forged letter. 'We ask you not to be quickly shaken in your mind, nor yet be troubled, either by spirit, or by word, or by letter as from us… Let no one deceive you in any way.' C08's discernment applied to apocalyptic excitement. The deception described works through 'power and signs and lying wonders,' and succeeds 'because they didn't receive the love of the truth' — C07's point that what a person can see depends on what they love. The index does not interpret the 'man of sin' or the one who 'restrains.'
 
 **Tags.** mode: prescribes (the passage commands this practice) · pillars: truth · stages: S2 · chapters: C08, C07 · practices: none · confidence: medium
 

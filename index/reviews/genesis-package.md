@@ -459,7 +459,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **14:23** that I will not take a thread nor a sandal strap nor anything that is yours, lest you should say, ‘I have made Abram rich.’
 > **14:24** I will accept nothing from you except that which the young men have eaten, and the portion of the men who went with me: Aner, Eshcol, and Mamre. Let them take their portion.”
 
-**Claim.** Offered the spoil by the king of Sodom, Abram refuses all of it — 'not a thread nor a sandal strap… lest you should say, I have made Abram rich' — while insisting that his allies receive their share. Detachment that protects his independence from a corrupt patron, C18's, and authority that guards the portion of those who fought with him, C16's. The tithe to Melchizedek and his blessing frame the refusal.
+**Claim.** Offered the spoil by the king of Sodom, Abram refuses all of it — 'I will not take a thread nor a sandal strap… lest you should say, I have made Abram rich' — while insisting that his allies receive their share. Detachment that protects his independence from a corrupt patron, C18's, and authority that guards the portion of those who fought with him, C16's. The tithe to Melchizedek and his blessing frame the refusal.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, truth · stages: S4 · chapters: C18, C16 · practices: none · confidence: high
 
@@ -762,7 +762,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 > **22:18** In your seed will all the nations of the earth be blessed, because you have obeyed my voice.”
 > **22:19** So Abraham returned to his young men, and they rose up and went together to Beersheba. Abraham lived at Beersheba.
 
-**Claim.** 'Take your son, your only son, whom you love.' Abraham rises early, saddles the donkey, splits the wood, and walks three days. To his son's question he answers, 'God will provide himself the lamb, my son,' and the text says twice, 'they both went together.' The index tags what the passage plainly shows: a man not withholding what he loves most, C18's detachment at its most extreme, and a trust that walks forward without understanding, C24's. PR04 was considered for the latter and not tagged; the passage is a test of obedience, and reading it as a discipline of unknowing would be to explain it, which the narrator conspicuously declines to do.
+**Claim.** 'Take your son, your only son, whom you love.' Abraham rises early, saddles the donkey, splits the wood, and walks three days. To his son's question he answers, 'God will provide himself the lamb for a burnt offering, my son,' and the text says twice, 'they both went together.' The index tags what the passage plainly shows: a man not withholding what he loves most, C18's detachment at its most extreme, and a trust that walks forward without understanding, C24's. PR04 was considered for the latter and not tagged; the passage is a test of obedience, and reading it as a discipline of unknowing would be to explain it, which the narrator conspicuously declines to do.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, truth · stages: S4, S6 · chapters: C18, C24 · practices: none · confidence: high
 

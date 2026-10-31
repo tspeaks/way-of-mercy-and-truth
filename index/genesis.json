@@ -1,12 +1,13 @@
 {
   "book": "Genesis",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — chapters 1-36 (the primeval history, Abraham, and Jacob) indexed; 37-50 pending",
+  "status": "complete — selective in the genealogies and some narrative; see coverage_note; awaiting second-pass review",
   "method_version": "2.3",
   "text_source": "index/text/genesis.json",
   "note": "Indexed in sections along the book's own seams: the primeval history (1-11), Abraham (12-25:18), Jacob (25:19-36), and Joseph (37-50). The indexing order named chapter 18 the classic PR20 text and expected C14 and C01; chapter 18 falls in the second section.",
   "sectioning_note": "As with Jeremiah and Deuteronomy, the status field names what is done.",
-  "coverage_note": "Chapters 1-11, unindexed: the sons of God and the Nephilim (6:1-4), which the index does not interpret; the genealogies of chapter 5 (except Enoch, 5:21-24), chapter 10, and 11:10-32; and the curse on Canaan (9:24-27). The last is left out deliberately. It was used for centuries to justify the enslavement of Africans, on a reading the text does not support — Canaan, not Ham, is cursed, and the Canaanites are not African — and the index will not place a formation tag on a passage with that history without saying so. The entry at 9:20-23 stops before it. Also left out: the birth of Seth and the first calling on the name (4:25-26), and the end of Noah's life (9:28-29). Chapters 12-25: the war of the kings (14:1-12, folded into the rescue entry as its setting), the boundary list of 15:18-21 (folded into its pericope), the assault at Lot's door with Lot's offer of his daughters (19:1-11), and the incest of Lot's daughters (19:30-38). Lot's hospitality in 19:1-3 is real, and the index declines to tag hospitality on a passage in which the host offers his daughters to a mob. Also left out: Nahor's descendants (22:20-24) and the genealogies of Keturah's and Ishmael's sons (25:12-18). Chapters 25:19-36: Esau's wives (26:34-35, 27:46-28:9), Jacob's breeding of the flocks (30:25-43), the flight from Laban and Rachel's theft of the teraphim (31:1-35, the setting of the entry at 31:36-55), the arrival at Shechem (33:18-20), and Esau's genealogy (36).",
+  "coverage_note": "Chapters 1-11, unindexed: the sons of God and the Nephilim (6:1-4), which the index does not interpret; the genealogies of chapter 5 (except Enoch, 5:21-24), chapter 10, and 11:10-32; and the curse on Canaan (9:24-27). The last is left out deliberately. It was used for centuries to justify the enslavement of Africans, on a reading the text does not support — Canaan, not Ham, is cursed, and the Canaanites are not African — and the index will not place a formation tag on a passage with that history without saying so. The entry at 9:20-23 stops before it. Also left out: the birth of Seth and the first calling on the name (4:25-26), and the end of Noah's life (9:28-29). Chapters 12-25: the war of the kings (14:1-12, folded into the rescue entry as its setting), the boundary list of 15:18-21 (folded into its pericope), the assault at Lot's door with Lot's offer of his daughters (19:1-11), and the incest of Lot's daughters (19:30-38). Lot's hospitality in 19:1-3 is real, and the index declines to tag hospitality on a passage in which the host offers his daughters to a mob. Also left out: Nahor's descendants (22:20-24) and the genealogies of Keturah's and Ishmael's sons (25:12-18). Chapters 25:19-36: Esau's wives (26:34-35, 27:46-28:9), Jacob's breeding of the flocks (30:25-43), the flight from Laban and Rachel's theft of the teraphim (31:1-35, the setting of the entry at 31:36-55), the arrival at Shechem (33:18-20), and Esau's genealogy (36). Chapters 37-50: the genealogy of those who went down to Egypt (46:8-27); the tribal oracles of 49:1-4 and 49:8-28; and Joseph's famine administration (47:13-26), in which he takes the Egyptians' money, livestock, land, and finally their persons in exchange for grain. The narrator records it without comment and the people call it salvation. The index declines both to commend it, which a curriculum built on mercy cannot do, and to read a judgment into a text that withholds one; it is left out and recorded here.",
+  "prediction_note": "The indexing order named chapter 18 the classic PR20 text and expected C14 and C01. PR20 is tagged at 18:1-8, at medium, for the reason given in the entry. C14 is the book's most frequent chapter, which the drafter expected; C01 is reached less often than forecast. What was not forecast is the range: sixteen distinct practices, more than any other Old Testament narrative indexed so far and nearly as many as Proverbs, and almost all of them in narrative rather than instruction: PR03, PR06, PR17, and PR29 each appear both as practice and as counter-example across the four sections. The Joseph cycle in particular is a sustained narrative of the curriculum's mature-mercy practices, enacted by the injured party.",
   "entries": [
     {
       "ref": "Genesis 1:1-2:3",
@@ -1185,6 +1186,414 @@
       ],
       "practices": [],
       "connection": "Rachel dies in childbirth on the road and names her son Son of My Sorrow; his father renames him Son of the Right Hand. A child not left to carry the name of the grief he was born into. The chapter ends with Isaac's death, 'old and full of days,' and two sons who once planned murder burying their father together. C14's household carried through its losses, and C15's peace, held.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 37:1-11",
+      "pericope": "His brothers saw that their father loved him more than all his brothers, and they hated him",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C14",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The household of Jacob repeats the partiality of the household of Isaac: one son loved more, given a coat to show it, and the others unable even to 'speak peaceably to him.' The favoured son carries tales and tells his dreams of dominion to the brothers who resent him. Envy named as the engine — 'his brothers envied him' — is C22's source of conflict; the father who made the favouritism visible is C14's counter-portrait.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 37:12-36",
+      "pericope": "We will see what will become of his dreams",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C21",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "Envy ripens into a plan to kill, softened to a sale for twenty pieces of silver, and covered with a lie and a bloodied coat. Each brother's part is distinct: Reuben means to rescue and is too late; Judah argues profit and kinship in the same sentence. C21's anatomy of a failure that began, ten verses earlier, as an inability to speak peaceably. The father who 'refused to be comforted' is not faulted by the narrator, and the index does not fault him; the grief is the cost the sons inflict.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 38:1-30",
+      "pericope": "She is more righteous than I",
+      "pillars": [
+        "truth",
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C04"
+      ],
+      "practices": [
+        "PR03",
+        "PR17"
+      ],
+      "mode": "exemplifies",
+      "connection": "Judah withholds his third son from his widowed daughter-in-law, sleeps with her unknowingly when she disguises herself, and, told she is pregnant, orders her burned. As she is brought out she sends him his own seal, cord, and staff with a private message — 'By the man, whose these are, I am with child… Please discern whose are these' — and he says, before everyone, 'She is more righteous than I, because I didn't give her to Shelah.' Two practices in one exchange. Tamar, about to die, declines to name him publicly and gives him the chance to acknowledge it himself: Covering Weakness, at the cost of her own danger. Judah, in a friction where he had every advantage, looks at his own portion first and states it without excuse: Self-Accusation. This is also the turning point of Judah's own story, which ends in chapter 44.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 39:1-23",
+      "pericope": "How then can I do this great wickedness, and sin against God?",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C13",
+        "C20",
+        "C23"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "exemplifies",
+      "connection": "A slave given charge of everything in his master's house, and asked 'day by day' by his master's wife to lie with her. He refuses, gives his reason, and then does more than refuse: 'he didn't listen to her, to lie by her, or to be with her.' When she seizes him he leaves his garment and runs. Watchfulness is declining hospitality to a temptation before it is entertained, and the narrator records exactly that — not only no to the act but no to the company. He is imprisoned on her lie and is faithful in prison as he was in the house: C13's ordinary faithfulness in the worst setting, and C23's integrity in a house where 'none of the men of the house' were inside to see.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 40:1-23",
+      "pericope": "Why do you look so sad today?",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C16",
+        "C22"
+      ],
+      "practices": [
+        "PR16",
+        "PR22"
+      ],
+      "mode": "exemplifies",
+      "connection": "A prisoner notices that two other prisoners look sad and asks why. Listening as Mercy gives attention before concluding, and it is the noticing that uncovers the hidden trouble — two dreams no one could interpret. 'Don't interpretations belong to God?' is the humility of the interpreter. Then the cupbearer, restored as Joseph said, 'didn't remember Joseph, but forgot him' for two full years. Unreciprocated Care is bearing with the ingratitude of those one has helped. The attractor question for PR22 is whether the recipient behaves badly toward the helper or is merely unable to repay; here he is able and forgets. Joseph's response is not recorded until 41:16, where he speaks to Pharaoh without a word about the debt, which is why both tags are at medium.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 41:1-36",
+      "pericope": "It isn't in me. God will give Pharaoh an answer of peace",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C02",
+        "C23"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Brought from the dungeon, shaved, and set before the king, Joseph's first words disclaim the gift: 'It isn't in me.' Then the interpretation and, unasked, the plan: a wise overseer, a fifth of the plenty stored, food kept against seven years of famine. C02's wisdom as foresight put to practical use. The disclaimer is C23's. PR28 was considered — surplus redirected rather than consumed — and declined: the store is a royal reserve, and in 47:13-26 it is sold, not given, to a population that ends by selling itself.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 41:37-57",
+      "pericope": "God has made me fruitful in the land of my affliction",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C17"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Raised over Egypt, given an Egyptian name and wife, he names his sons for what God has done with his suffering: Manasseh, 'God has made me forget all my toil, and all my father's house'; Ephraim, 'God has made me fruitful in the land of my affliction.' C19's healing, named into the next generation. A Hebrew slave serving the Egyptian state with full competence while remaining himself is C17's posture.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 42:1-38",
+      "pericope": "We are certainly guilty concerning our brother",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C21"
+      ],
+      "practices": [
+        "PR03"
+      ],
+      "mode": "exemplifies",
+      "connection": "Accused falsely of spying by a governor they do not recognise, the brothers do not protest his injustice to one another. They interpret their trouble by their own guilt: 'We are certainly guilty concerning our brother, in that we saw the distress of his soul, when he begged us, and we wouldn't listen. Therefore this distress has come upon us.' Twenty years later the memory is exact — they saw, he begged, they would not listen. Self-Accusation in friction: one's own portion first, even when the present accusation is false. Reuben's 'Didn't I tell you' is the blaming reflex in the same conversation. Joseph, overhearing, turns away and weeps. C21's interior history surfacing under pressure.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 43:1-34",
+      "pericope": "If I am bereaved of my children, I am bereaved",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Judah, who once proposed selling a brother, now offers himself as surety for the youngest: 'If I don't bring him to you… let me bear the blame forever.' Jacob, who would not let Benjamin go, finally releases him: 'If I am bereaved of my children, I am bereaved.' Each lets go of what he was holding — C18's detachment in a father's surrender, and C16's responsibility taken for the weakest in Judah's pledge. Joseph weeps in his room, washes his face, and comes out to serve the meal.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 44:1-34",
+      "pericope": "Please let your servant stay instead of the boy",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The test is designed to see whether the brothers will abandon a favoured son of Rachel when they can, as they once did. Judah's speech is the longest in Genesis, and it ends with an offer: let me be your slave in his place, 'for how will I go up to my father, if the boy isn't with me?' The man who sold one brother for silver gives himself for the other, for the sake of a father who loves that son more than him. C26's change of nature, shown not in a confession but in an exchange, and C16's logic of service at its fullest: one's own freedom for another's safety.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 45:1-15",
+      "pericope": "Cause everyone to go out from me!… Don't be grieved, nor angry with yourselves",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C19"
+      ],
+      "practices": [
+        "PR17",
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "Before he names what they did, Joseph clears the room: 'Cause everyone to go out from me!' The Egyptians hear the weeping but not the words, and no one but the brothers hears 'I am Joseph, your brother, whom you sold into Egypt.' Covering Weakness protects the guilty from public exposure, and it is done here by the injured party, before anything is said. Then he refuses to let them stay in their shame — 'don't be grieved, nor angry with yourselves' — and kisses each of them. Merciful Reintegration: received back without probation, the stumble not allowed to become their identity. C27's mature mercy and C19's door, opened from the inside by the one they wronged.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 45:16-28",
+      "pericope": "See that you don't quarrel on the way",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C10"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Sending his brothers back with wagons and provisions, Joseph adds one instruction: 'See that you don't quarrel on the way.' He foresees the recriminations that will follow a revealed sin — who argued for what, twenty years ago — and forbids them in advance. C15's peace, built before it is broken. Jacob's heart faints at the news and then revives at the sight of the wagons: C10's joy returning to a man who had refused comfort.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 46:1-7",
+      "pericope": "Don't be afraid to go down into Egypt… I will go down with you",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17",
+        "C18"
+      ],
+      "practices": [],
+      "connection": "An old man leaves the land of promise for a foreign country on the strength of a night vision: 'Don't be afraid… I will go down with you into Egypt. I will also surely bring you up again.' The promise is kept by leaving it. C17's sojourn and C18's open hand, at a hundred and thirty.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 46:28-47:12",
+      "pericope": "Few and evil have been the days of the years of my life",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14",
+        "C17"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "exemplifies",
+      "connection": "Father and son meet in Goshen, and Joseph 'wept on his neck a good while.' Then a shepherd stands before Pharaoh, and it is the shepherd who blesses the king, twice. Asked his age, Jacob calls his life a pilgrimage and its days 'few and evil' — an honest account, unembellished, to the most powerful man in the world. The family lives in Egypt as resident foreigners, shepherds in a land where shepherds are an abomination, accepting the place given them and blessing the one who gives it. The Citizen-Stranger's posture, and C14's household nourished through famine.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 47:27-48:22",
+      "pericope": "The God who has fed me all my life long to this day",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Dying, Jacob blesses Joseph's sons and reviews his life in a single clause: 'the God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life long to this day, the angel who has redeemed me from all evil.' A shepherd's metaphor for a whole life — fed, led, redeemed. C25's long view, given at the end, and C19's redemption named by a man who had been a deceiver. Crossing his hands to bless the younger — 'I know, my son, I know' — he repeats knowingly the reversal he once stole.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 49:5-7",
+      "pericope": "Cursed be their anger, for it was fierce",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C22"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "At his deathbed Jacob returns to Shechem: 'Simeon and Levi… in their anger they killed men… Cursed be their anger, for it was fierce; and their wrath, for it was cruel.' The anger, not the men, is cursed. C22 measures the healed heart by what anger does, and this is the judgment on what it did, delivered forty years later. The other tribal oracles in chapter 49 are not indexed.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 49:29-50:14",
+      "pericope": "They lamented with a very great and severe lamentation",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14"
+      ],
+      "practices": [],
+      "connection": "Jacob charges his sons to bury him at Machpelah, names those already there — 'and there I buried Leah' — and dies. Joseph falls on his face; Egypt weeps seventy days; at the threshing floor of Atad they mourn seven more. The sons do 'just as he commanded them.' C14's household keeping faith with its dead.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 50:15-21",
+      "pericope": "Am I in the place of God? You meant evil against me, but God meant it for good",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C03"
+      ],
+      "practices": [
+        "PR06",
+        "PR29"
+      ],
+      "mode": "exemplifies",
+      "connection": "With their father dead, the brothers fear the reckoning: 'It may be that Joseph will hate us, and will fully pay us back.' They send a plea for forgiveness and fall before him — repentance now explicit. Joseph weeps, and answers: 'Don't be afraid, for am I in the place of God? As for you, you meant evil against me, but God meant it for good.' Then: 'I will nourish you and your little ones.' Non-Retaliation by a man with every power and every reason to repay, grounded in leaving judgment to God; and Merciful Reintegration in its completed form, the repentant received and provided for. C03's hardest turn and C27's summit in the same four verses.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Genesis 50:22-26",
+      "pericope": "You shall carry up my bones from here",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C17",
+        "C25"
+      ],
+      "practices": [],
+      "connection": "Joseph lives to see his great-grandchildren and dies in Egypt, its second ruler, embalmed in an Egyptian coffin — and makes his family swear to carry his bones out when God visits them. A whole life lived in a foreign land, fully, with its final loyalty placed elsewhere: C17's citizen-stranger to the end, and C25's hope extended past death to a fulfilment he will not see.",
       "confidence": "medium",
       "prior": false
     }

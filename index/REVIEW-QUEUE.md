@@ -14,6 +14,7 @@ the first fourteen.
 | Ephesians | 19 | `reviews/ephesians-package.md` | **2:11-22 — first PR24 anchor**, medium; 4:25-27 (PR12); 4:29-32 (PR21 declined) |
 | Ecclesiastes | 37 | `reviews/ecclesiastes-package.md` | **2:1-11 — first PR28 anchor**, counter-example, medium; 7:15-22 (PR03); 10:4-7 (PR18); 7:26-28 left out |
 | Deuteronomy | 73 | `reviews/deuteronomy-package.md` | 30:15-20 (PR07 from "choose life"); 22:1-4 (PR19); 23:7-8 (PR10's refusal of contempt); 25:1-3 (PR29, medium); 25:13-16 (PR05 on the author's prior — reads as naturally under PR01); the coverage note on the herem and law-code omissions. Large: may be reviewed in sections 1-11, 12-26, 27-34 |
+| Genesis | 75 | `reviews/genesis-package.md` | 9:20-23 (PR17), 38:1-30 (PR03 + PR17 at Tamar), 45:1-15 and 50:15-21 (PR29, PR06, PR17), 18:1-8 (PR20, medium), 40:1-23 (PR16 + PR22, medium — tested against the PR22 attractor question), 11:1-9 (PR13 counter-example, medium); the coverage note on 9:24-27 and 47:13-26. Large: may be reviewed in sections 1-11, 12-25, 25-36, 37-50 |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

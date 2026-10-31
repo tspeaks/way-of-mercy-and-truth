@@ -1,12 +1,14 @@
 # Genesis — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — chapters 1-36 (the primeval history, Abraham, and Jacob) indexed; 37-50 pending. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: complete — selective in the genealogies and some narrative; see coverage_note; awaiting second-pass review. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
 **Note.** Indexed in sections along the book's own seams: the primeval history (1-11), Abraham (12-25:18), Jacob (25:19-36), and Joseph (37-50). The indexing order named chapter 18 the classic PR20 text and expected C14 and C01; chapter 18 falls in the second section.
 
-**Coverage note.** Chapters 1-11, unindexed: the sons of God and the Nephilim (6:1-4), which the index does not interpret; the genealogies of chapter 5 (except Enoch, 5:21-24), chapter 10, and 11:10-32; and the curse on Canaan (9:24-27). The last is left out deliberately. It was used for centuries to justify the enslavement of Africans, on a reading the text does not support — Canaan, not Ham, is cursed, and the Canaanites are not African — and the index will not place a formation tag on a passage with that history without saying so. The entry at 9:20-23 stops before it. Also left out: the birth of Seth and the first calling on the name (4:25-26), and the end of Noah's life (9:28-29). Chapters 12-25: the war of the kings (14:1-12, folded into the rescue entry as its setting), the boundary list of 15:18-21 (folded into its pericope), the assault at Lot's door with Lot's offer of his daughters (19:1-11), and the incest of Lot's daughters (19:30-38). Lot's hospitality in 19:1-3 is real, and the index declines to tag hospitality on a passage in which the host offers his daughters to a mob. Also left out: Nahor's descendants (22:20-24) and the genealogies of Keturah's and Ishmael's sons (25:12-18). Chapters 25:19-36: Esau's wives (26:34-35, 27:46-28:9), Jacob's breeding of the flocks (30:25-43), the flight from Laban and Rachel's theft of the teraphim (31:1-35, the setting of the entry at 31:36-55), the arrival at Shechem (33:18-20), and Esau's genealogy (36).
+**Prediction note.** The indexing order named chapter 18 the classic PR20 text and expected C14 and C01. PR20 is tagged at 18:1-8, at medium, for the reason given in the entry. C14 is the book's most frequent chapter, which the drafter expected; C01 is reached less often than forecast. What was not forecast is the range: sixteen distinct practices, more than any other Old Testament narrative indexed so far and nearly as many as Proverbs, and almost all of them in narrative rather than instruction: PR03, PR06, PR17, and PR29 each appear both as practice and as counter-example across the four sections. The Joseph cycle in particular is a sustained narrative of the curriculum's mature-mercy practices, enacted by the injured party.
+
+**Coverage note.** Chapters 1-11, unindexed: the sons of God and the Nephilim (6:1-4), which the index does not interpret; the genealogies of chapter 5 (except Enoch, 5:21-24), chapter 10, and 11:10-32; and the curse on Canaan (9:24-27). The last is left out deliberately. It was used for centuries to justify the enslavement of Africans, on a reading the text does not support — Canaan, not Ham, is cursed, and the Canaanites are not African — and the index will not place a formation tag on a passage with that history without saying so. The entry at 9:20-23 stops before it. Also left out: the birth of Seth and the first calling on the name (4:25-26), and the end of Noah's life (9:28-29). Chapters 12-25: the war of the kings (14:1-12, folded into the rescue entry as its setting), the boundary list of 15:18-21 (folded into its pericope), the assault at Lot's door with Lot's offer of his daughters (19:1-11), and the incest of Lot's daughters (19:30-38). Lot's hospitality in 19:1-3 is real, and the index declines to tag hospitality on a passage in which the host offers his daughters to a mob. Also left out: Nahor's descendants (22:20-24) and the genealogies of Keturah's and Ishmael's sons (25:12-18). Chapters 25:19-36: Esau's wives (26:34-35, 27:46-28:9), Jacob's breeding of the flocks (30:25-43), the flight from Laban and Rachel's theft of the teraphim (31:1-35, the setting of the entry at 31:36-55), the arrival at Shechem (33:18-20), and Esau's genealogy (36). Chapters 37-50: the genealogy of those who went down to Egypt (46:8-27); the tribal oracles of 49:1-4 and 49:8-28; and Joseph's famine administration (47:13-26), in which he takes the Egyptians' money, livestock, land, and finally their persons in exchange for grain. The narrator records it without comment and the people call it salvation. The index declines both to commend it, which a curriculum built on mercy cannot do, and to read a judgment into a text that withholds one; it is left out and recorded here.
 
 **Sectioning note.** As with Jeremiah and Deuteronomy, the status field names what is done.
 
@@ -1354,6 +1356,567 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** Rachel dies in childbirth on the road and names her son Son of My Sorrow; his father renames him Son of the Right Hand. A child not left to carry the name of the grief he was born into. The chapter ends with Isaac's death, 'old and full of days,' and two sons who once planned murder burying their father together. C14's household carried through its losses, and C15's peace, held.
 
 **Tags.** pillars: mercy, truth · stages: S4 · chapters: C14, C15 · practices: none · confidence: medium
+
+---
+
+## 57. Genesis 37:1-11 — His brothers saw that their father loved him more than all his brothers, and they hated him
+
+> **37:1** Jacob lived in the land of his father’s travels, in the land of Canaan.
+> **37:2** This is the history of the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brothers. He was a boy with the sons of Bilhah and Zilpah, his father’s wives. Joseph brought an evil report of them to their father.
+> **37:3** Now Israel loved Joseph more than all his children, because he was the son of his old age, and he made him a coat of many colors.
+> **37:4** His brothers saw that their father loved him more than all his brothers, and they hated him, and couldn’t speak peaceably to him.
+> **37:5** Joseph dreamed a dream, and he told it to his brothers, and they hated him all the more.
+> **37:6** He said to them, “Please hear this dream which I have dreamed:
+> **37:7** for behold, we were binding sheaves in the field, and behold, my sheaf arose and also stood upright; and behold, your sheaves came around, and bowed down to my sheaf.”
+> **37:8** His brothers said to him, “Will you indeed reign over us? Or will you indeed have dominion over us?” They hated him all the more for his dreams and for his words.
+> **37:9** He dreamed yet another dream, and told it to his brothers, and said, “Behold, I have dreamed yet another dream: and behold, the sun and the moon and eleven stars bowed down to me.”
+> **37:10** He told it to his father and to his brothers. His father rebuked him, and said to him, “What is this dream that you have dreamed? Will I and your mother and your brothers indeed come to bow ourselves down to you to the earth?”
+> **37:11** His brothers envied him, but his father kept this saying in mind.
+
+**Claim.** The household of Jacob repeats the partiality of the household of Isaac: one son loved more, given a coat to show it, and the others unable even to 'speak peaceably to him.' The favoured son carries tales and tells his dreams of dominion to the brothers who resent him. Envy named as the engine — 'his brothers envied him' — is C22's source of conflict; the father who made the favouritism visible is C14's counter-portrait.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, humility · stages: S4, S5 · chapters: C14, C22 · practices: none · confidence: high
+
+---
+
+## 58. Genesis 37:12-36 — We will see what will become of his dreams
+
+> **37:12** His brothers went to feed their father’s flock in Shechem.
+> **37:13** Israel said to Joseph, “Aren’t your brothers feeding the flock in Shechem? Come, and I will send you to them.” He said to him, “Here I am.”
+> **37:14** He said to him, “Go now, see whether it is well with your brothers, and well with the flock; and bring me word again.” So he sent him out of the valley of Hebron, and he came to Shechem.
+> **37:15** A certain man found him, and behold, he was wandering in the field. The man asked him, “What are you looking for?”
+> **37:16** He said, “I am looking for my brothers. Tell me, please, where they are feeding the flock.”
+> **37:17** The man said, “They have left here, for I heard them say, ‘Let us go to Dothan.’” Joseph went after his brothers, and found them in Dothan.
+> **37:18** They saw him afar off, and before he came near to them, they conspired against him to kill him.
+> **37:19** They said one to another, “Behold, this dreamer comes.
+> **37:20** Come now therefore, and let’s kill him, and cast him into one of the pits, and we will say, ‘An evil animal has devoured him.’ We will see what will become of his dreams.”
+> **37:21** Reuben heard it, and delivered him out of their hand, and said, “Let’s not take his life.”
+> **37:22** Reuben said to them, “Shed no blood. Throw him into this pit that is in the wilderness, but lay no hand on him”—that he might deliver him out of their hand, to restore him to his father.
+> **37:23** It happened, when Joseph came to his brothers, that they stripped Joseph of his coat, the coat of many colors that was on him;
+> **37:24** and they took him, and threw him into the pit. The pit was empty. There was no water in it.
+> **37:25** They sat down to eat bread, and they lifted up their eyes and looked, and saw a caravan of Ishmaelites was coming from Gilead, with their camels bearing spices and balm and myrrh, going to carry it down to Egypt.
+> **37:26** Judah said to his brothers, “What profit is it if we kill our brother and conceal his blood?
+> **37:27** Come, and let’s sell him to the Ishmaelites, and not let our hand be on him; for he is our brother, our flesh.” His brothers listened to him.
+> **37:28** Midianites who were merchants passed by, and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmaelites for twenty pieces of silver. They brought Joseph into Egypt.
+> **37:29** Reuben returned to the pit; and saw that Joseph wasn’t in the pit; and he tore his clothes.
+> **37:30** He returned to his brothers, and said, “The child is no more; and I, where will I go?”
+> **37:31** They took Joseph’s coat, and killed a male goat, and dipped the coat in the blood.
+> **37:32** They took the coat of many colors, and they brought it to their father, and said, “We have found this. Examine it, now, whether it is your son’s coat or not.”
+> **37:33** He recognized it, and said, “It is my son’s coat. An evil animal has devoured him. Joseph is without doubt torn in pieces.”
+> **37:34** Jacob tore his clothes, and put sackcloth on his waist, and mourned for his son many days.
+> **37:35** All his sons and all his daughters rose up to comfort him, but he refused to be comforted. He said, “For I will go down to Sheol to my son mourning.” His father wept for him.
+> **37:36** The Midianites sold him into Egypt to Potiphar, an officer of Pharaoh’s, the captain of the guard.
+
+**Claim.** Envy ripens into a plan to kill, softened to a sale for twenty pieces of silver, and covered with a lie and a bloodied coat. Each brother's part is distinct: Reuben means to rescue and is too late; Judah argues profit and kinship in the same sentence. C21's anatomy of a failure that began, ten verses earlier, as an inability to speak peaceably. The father who 'refused to be comforted' is not faulted by the narrator, and the index does not fault him; the grief is the cost the sons inflict.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth, mercy · stages: S4, S5 · chapters: C21, C14 · practices: none · confidence: high
+
+---
+
+## 59. Genesis 38:1-30 — She is more righteous than I
+
+> **38:1** It happened at that time, that Judah went down from his brothers, and visited a certain Adullamite, whose name was Hirah.
+> **38:2** Judah saw there a daughter of a certain Canaanite whose name was Shua. He took her, and went in to her.
+> **38:3** She conceived, and bore a son; and he named him Er.
+> **38:4** She conceived again, and bore a son; and she named him Onan.
+> **38:5** She yet again bore a son, and named him Shelah: and he was at Chezib, when she bore him.
+> **38:6** Judah took a wife for Er, his firstborn, and her name was Tamar.
+> **38:7** Er, Judah’s firstborn, was wicked in the sight of Yahweh. Yahweh killed him.
+> **38:8** Judah said to Onan, “Go in to your brother’s wife, and perform the duty of a husband’s brother to her, and raise up seed to your brother.”
+> **38:9** Onan knew that the seed wouldn’t be his; and it happened, when he went in to his brother’s wife, that he spilled it on the ground, lest he should give seed to his brother.
+> **38:10** The thing which he did was evil in the sight of Yahweh, and he killed him also.
+> **38:11** Then Judah said to Tamar, his daughter-in-law, “Remain a widow in your father’s house, until Shelah, my son, is grown up;” for he said, “Lest he also die, like his brothers.” Tamar went and lived in her father’s house.
+> **38:12** After many days, Shua’s daughter, the wife of Judah, died. Judah was comforted, and went up to his sheepshearers to Timnah, he and his friend Hirah, the Adullamite.
+> **38:13** It was told Tamar, saying, “Behold, your father-in-law is going up to Timnah to shear his sheep.”
+> **38:14** She took off of her the garments of her widowhood, and covered herself with her veil, and wrapped herself, and sat in the gate of Enaim, which is by the way to Timnah; for she saw that Shelah was grown up, and she wasn’t given to him as a wife.
+> **38:15** When Judah saw her, he thought that she was a prostitute, for she had covered her face.
+> **38:16** He turned to her by the way, and said, “Please come, let me come in to you,” for he didn’t know that she was his daughter-in-law. She said, “What will you give me, that you may come in to me?”
+> **38:17** He said, “I will send you a young goat from the flock.” She said, “Will you give me a pledge, until you send it?”
+> **38:18** He said, “What pledge will I give you?” She said, “Your signet and your cord, and your staff that is in your hand.” He gave them to her, and came in to her, and she conceived by him.
+> **38:19** She arose, and went away, and put off her veil from her, and put on the garments of her widowhood.
+> **38:20** Judah sent the young goat by the hand of his friend, the Adullamite, to receive the pledge from the woman’s hand, but he didn’t find her.
+> **38:21** Then he asked the men of her place, saying, “Where is the prostitute, that was at Enaim by the road?” They said, “There has been no prostitute here.”
+> **38:22** He returned to Judah, and said, “I haven’t found her; and also the men of the place said, ‘There has been no prostitute here.’”
+> **38:23** Judah said, “Let her keep it, lest we be shamed. Behold, I sent this young goat, and you haven’t found her.”
+> **38:24** It happened about three months later, that it was told Judah, saying, “Tamar, your daughter-in-law, has played the prostitute; and moreover, behold, she is with child by prostitution.” Judah said, “Bring her out, and let her be burnt.”
+> **38:25** When she was brought out, she sent to her father-in-law, saying, “By the man, whose these are, I am with child.” She also said, “Please discern whose are these—the signet, and the cords, and the staff.”
+> **38:26** Judah acknowledged them, and said, “She is more righteous than I, because I didn’t give her to Shelah, my son.” He knew her again no more.
+> **38:27** It happened in the time of her travail, that behold, twins were in her womb.
+> **38:28** When she travailed, one put out a hand, and the midwife took and tied a scarlet thread on his hand, saying, “This came out first.”
+> **38:29** It happened, as he drew back his hand, that behold, his brother came out, and she said, “Why have you made a breach for yourself?” Therefore his name was called Perez.
+> **38:30** Afterward his brother came out, that had the scarlet thread on his hand, and his name was called Zerah.
+
+**Claim.** Judah withholds his third son from his widowed daughter-in-law, sleeps with her unknowingly when she disguises herself, and, told she is pregnant, orders her burned. As she is brought out she sends him his own seal, cord, and staff with a private message — 'By the man, whose these are, I am with child… Please discern whose are these' — and he says, before everyone, 'She is more righteous than I, because I didn't give her to Shelah.' Two practices in one exchange. Tamar, about to die, declines to name him publicly and gives him the chance to acknowledge it himself: Covering Weakness, at the cost of her own danger. Judah, in a friction where he had every advantage, looks at his own portion first and states it without excuse: Self-Accusation. This is also the turning point of Judah's own story, which ends in chapter 44.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility, mercy · stages: S1, S5 · chapters: C22, C04 · practices: PR03, PR17 · confidence: high
+
+---
+
+## 60. Genesis 39:1-23 — How then can I do this great wickedness, and sin against God?
+
+> **39:1** Joseph was brought down to Egypt. Potiphar, an officer of Pharaoh’s, the captain of the guard, an Egyptian, bought him from the hand of the Ishmaelites that had brought him down there.
+> **39:2** Yahweh was with Joseph, and he was a prosperous man. He was in the house of his master the Egyptian.
+> **39:3** His master saw that Yahweh was with him, and that Yahweh made all that he did prosper in his hand.
+> **39:4** Joseph found favor in his sight. He ministered to him, and he made him overseer over his house, and all that he had he put into his hand.
+> **39:5** It happened from the time that he made him overseer in his house, and over all that he had, that Yahweh blessed the Egyptian’s house for Joseph’s sake; and the blessing of Yahweh was on all that he had, in the house and in the field.
+> **39:6** He left all that he had in Joseph’s hand. He didn’t concern himself with anything, except for the food which he ate. Joseph was well-built and handsome.
+> **39:7** It happened after these things, that his master’s wife cast her eyes on Joseph; and she said, “Lie with me.”
+> **39:8** But he refused, and said to his master’s wife, “Behold, my master doesn’t know what is with me in the house, and he has put all that he has into my hand.
+> **39:9** He isn’t greater in this house than I, neither has he kept back anything from me but you, because you are his wife. How then can I do this great wickedness, and sin against God?”
+> **39:10** As she spoke to Joseph day by day, he didn’t listen to her, to lie by her, or to be with her.
+> **39:11** About this time, he went into the house to do his work, and there were none of the men of the house inside.
+> **39:12** She caught him by his garment, saying, “Lie with me!” He left his garment in her hand, and ran outside.
+> **39:13** When she saw that he had left his garment in her hand, and had run outside,
+> **39:14** she called to the men of her house, and spoke to them, saying, “Behold, he has brought in a Hebrew to us to mock us. He came in to me to lie with me, and I cried with a loud voice.
+> **39:15** It happened, when he heard that I lifted up my voice and cried, that he left his garment by me, and ran outside.”
+> **39:16** She laid up his garment by her, until his master came home.
+> **39:17** She spoke to him according to these words, saying, “The Hebrew servant, whom you have brought to us, came in to me to mock me,
+> **39:18** and it happened, as I lifted up my voice and cried, that he left his garment by me, and ran outside.”
+> **39:19** It happened, when his master heard the words of his wife, which she spoke to him, saying, “This is what your servant did to me,” that his wrath was kindled.
+> **39:20** Joseph’s master took him, and put him into the prison, the place where the king’s prisoners were bound, and he was there in custody.
+> **39:21** But Yahweh was with Joseph, and showed kindness to him, and gave him favor in the sight of the keeper of the prison.
+> **39:22** The keeper of the prison committed to Joseph’s hand all the prisoners who were in the prison. Whatever they did there, he was responsible for it.
+> **39:23** The keeper of the prison didn’t look after anything that was under his hand, because Yahweh was with him; and that which he did, Yahweh made it prosper.
+
+**Claim.** A slave given charge of everything in his master's house, and asked 'day by day' by his master's wife to lie with her. He refuses, gives his reason, and then does more than refuse: 'he didn't listen to her, to lie by her, or to be with her.' When she seizes him he leaves his garment and runs. Watchfulness is declining hospitality to a temptation before it is entertained, and the narrator records exactly that — not only no to the act but no to the company. He is imprisoned on her lie and is faithful in prison as he was in the house: C13's ordinary faithfulness in the worst setting, and C23's integrity in a house where 'none of the men of the house' were inside to see.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4, S5, S6 · chapters: C13, C20, C23 · practices: PR12 · confidence: high
+
+---
+
+## 61. Genesis 40:1-23 — Why do you look so sad today?
+
+> **40:1** It happened after these things, that the butler of the king of Egypt and his baker offended their lord, the king of Egypt.
+> **40:2** Pharaoh was angry with his two officers, the chief cupbearer and the chief baker.
+> **40:3** He put them in custody in the house of the captain of the guard, into the prison, the place where Joseph was bound.
+> **40:4** The captain of the guard assigned them to Joseph, and he took care of them. They stayed in prison many days.
+> **40:5** They both dreamed a dream, each man his dream, in one night, each man according to the interpretation of his dream, the cupbearer and the baker of the king of Egypt, who were bound in the prison.
+> **40:6** Joseph came in to them in the morning, and saw them, and saw that they were sad.
+> **40:7** He asked Pharaoh’s officers who were with him in custody in his master’s house, saying, “Why do you look so sad today?”
+> **40:8** They said to him, “We have dreamed a dream, and there is no one who can interpret it.” Joseph said to them, “Don’t interpretations belong to God? Please tell it to me.”
+> **40:9** The chief cupbearer told his dream to Joseph, and said to him, “In my dream, behold, a vine was in front of me,
+> **40:10** and in the vine were three branches. It was as though it budded, it blossomed, and its clusters produced ripe grapes.
+> **40:11** Pharaoh’s cup was in my hand; and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand.”
+> **40:12** Joseph said to him, “This is its interpretation: the three branches are three days.
+> **40:13** Within three more days, Pharaoh will lift up your head, and restore you to your office. You will give Pharaoh’s cup into his hand, the way you did when you were his cupbearer.
+> **40:14** But remember me when it will be well with you, and please show kindness to me, and make mention of me to Pharaoh, and bring me out of this house.
+> **40:15** For indeed, I was stolen away out of the land of the Hebrews, and here also have I done nothing that they should put me into the dungeon.”
+> **40:16** When the chief baker saw that the interpretation was good, he said to Joseph, “I also was in my dream, and behold, three baskets of white bread were on my head.
+> **40:17** In the uppermost basket there was all kinds of baked food for Pharaoh, and the birds ate them out of the basket on my head.”
+> **40:18** Joseph answered, “This is its interpretation. The three baskets are three days.
+> **40:19** Within three more days, Pharaoh will lift up your head from off you, and will hang you on a tree; and the birds will eat your flesh from off you.”
+> **40:20** It happened the third day, which was Pharaoh’s birthday, that he made a feast for all his servants, and he lifted up the head of the chief cupbearer and the head of the chief baker among his servants.
+> **40:21** He restored the chief cupbearer to his position again, and he gave the cup into Pharaoh’s hand;
+> **40:22** but he hanged the chief baker, as Joseph had interpreted to them.
+> **40:23** Yet the chief cupbearer didn’t remember Joseph, but forgot him.
+
+**Claim.** A prisoner notices that two other prisoners look sad and asks why. Listening as Mercy gives attention before concluding, and it is the noticing that uncovers the hidden trouble — two dreams no one could interpret. 'Don't interpretations belong to God?' is the humility of the interpreter. Then the cupbearer, restored as Joseph said, 'didn't remember Joseph, but forgot him' for two full years. Unreciprocated Care is bearing with the ingratitude of those one has helped. The attractor question for PR22 is whether the recipient behaves badly toward the helper or is merely unable to repay; here he is able and forgets. Joseph's response is not recorded until 41:16, where he speaks to Pharaoh without a word about the debt, which is why both tags are at medium.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4, S5 · chapters: C16, C22 · practices: PR16, PR22 · confidence: medium
+
+---
+
+## 62. Genesis 41:1-36 — It isn't in me. God will give Pharaoh an answer of peace
+
+> **41:1** It happened at the end of two full years, that Pharaoh dreamed: and behold, he stood by the river.
+> **41:2** Behold, there came up out of the river seven cattle, sleek and fat, and they fed in the marsh grass.
+> **41:3** Behold, seven other cattle came up after them out of the river, ugly and thin, and stood by the other cattle on the brink of the river.
+> **41:4** The ugly and thin cattle ate up the seven sleek and fat cattle. So Pharaoh awoke.
+> **41:5** He slept and dreamed a second time: and behold, seven heads of grain came up on one stalk, healthy and good.
+> **41:6** Behold, seven heads of grain, thin and blasted with the east wind, sprung up after them.
+> **41:7** The thin heads of grain swallowed up the seven healthy and full ears. Pharaoh awoke, and behold, it was a dream.
+> **41:8** It happened in the morning that his spirit was troubled, and he sent and called for all of Egypt’s magicians and wise men. Pharaoh told them his dreams, but there was no one who could interpret them to Pharaoh.
+> **41:9** Then the chief cupbearer spoke to Pharaoh, saying, “I remember my faults today.
+> **41:10** Pharaoh was angry with his servants, and put me in custody in the house of the captain of the guard, me and the chief baker.
+> **41:11** We dreamed a dream in one night, I and he. We dreamed each man according to the interpretation of his dream.
+> **41:12** There was with us there a young man, a Hebrew, servant to the captain of the guard, and we told him, and he interpreted to us our dreams. To each man according to his dream he interpreted.
+> **41:13** It happened, as he interpreted to us, so it was: he restored me to my office, and he hanged him.”
+> **41:14** Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon. He shaved himself, changed his clothing, and came in to Pharaoh.
+> **41:15** Pharaoh said to Joseph, “I have dreamed a dream, and there is no one who can interpret it. I have heard it said of you, that when you hear a dream you can interpret it.”
+> **41:16** Joseph answered Pharaoh, saying, “It isn’t in me. God will give Pharaoh an answer of peace.”
+> **41:17** Pharaoh spoke to Joseph, “In my dream, behold, I stood on the brink of the river:
+> **41:18** and behold, there came up out of the river seven cattle, fat and sleek. They fed in the marsh grass,
+> **41:19** and behold, seven other cattle came up after them, poor and very ugly and thin, such as I never saw in all the land of Egypt for ugliness.
+> **41:20** The thin and ugly cattle ate up the first seven fat cattle,
+> **41:21** and when they had eaten them up, it couldn’t be known that they had eaten them, but they were still ugly, as at the beginning. So I awoke.
+> **41:22** I saw in my dream, and behold, seven heads of grain came up on one stalk, full and good:
+> **41:23** and behold, seven heads of grain, withered, thin, and blasted with the east wind, sprung up after them.
+> **41:24** The thin heads of grain swallowed up the seven good heads of grain. I told it to the magicians, but there was no one who could explain it to me.”
+> **41:25** Joseph said to Pharaoh, “The dream of Pharaoh is one. What God is about to do he has declared to Pharaoh.
+> **41:26** The seven good cattle are seven years; and the seven good heads of grain are seven years. The dream is one.
+> **41:27** The seven thin and ugly cattle that came up after them are seven years, and also the seven empty heads of grain blasted with the east wind; they will be seven years of famine.
+> **41:28** That is the thing which I spoke to Pharaoh. What God is about to do he has shown to Pharaoh.
+> **41:29** Behold, there come seven years of great plenty throughout all the land of Egypt.
+> **41:30** There will arise after them seven years of famine, and all the plenty will be forgotten in the land of Egypt. The famine will consume the land,
+> **41:31** and the plenty will not be known in the land by reason of that famine which follows; for it will be very grievous.
+> **41:32** The dream was doubled to Pharaoh, because the thing is established by God, and God will shortly bring it to pass.
+> **41:33** “Now therefore let Pharaoh look for a discreet and wise man, and set him over the land of Egypt.
+> **41:34** Let Pharaoh do this, and let him appoint overseers over the land, and take up the fifth part of the land of Egypt’s produce in the seven plenteous years.
+> **41:35** Let them gather all the food of these good years that come, and lay up grain under the hand of Pharaoh for food in the cities, and let them keep it.
+> **41:36** The food will be for a store to the land against the seven years of famine, which will be in the land of Egypt; that the land not perish through the famine.”
+
+**Claim.** Brought from the dungeon, shaved, and set before the king, Joseph's first words disclaim the gift: 'It isn't in me.' Then the interpretation and, unasked, the plan: a wise overseer, a fifth of the plenty stored, food kept against seven years of famine. C02's wisdom as foresight put to practical use. The disclaimer is C23's. PR28 was considered — surplus redirected rather than consumed — and declined: the store is a royal reserve, and in 47:13-26 it is sold, not given, to a population that ends by selling itself.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S1, S6 · chapters: C02, C23 · practices: none · confidence: high
+
+---
+
+## 63. Genesis 41:37-57 — God has made me fruitful in the land of my affliction
+
+> **41:37** The thing was good in the eyes of Pharaoh, and in the eyes of all his servants.
+> **41:38** Pharaoh said to his servants, “Can we find such a one as this, a man in whom is the Spirit of God?”
+> **41:39** Pharaoh said to Joseph, “Because God has shown you all of this, there is none so discreet and wise as you.
+> **41:40** You shall be over my house, and according to your word will all my people be ruled. Only in the throne I will be greater than you.”
+> **41:41** Pharaoh said to Joseph, “Behold, I have set you over all the land of Egypt.”
+> **41:42** Pharaoh took off his signet ring from his hand, and put it on Joseph’s hand, and arrayed him in robes of fine linen, and put a gold chain about his neck,
+> **41:43** and he made him to ride in the second chariot which he had. They cried before him, “Bow the knee!” He set him over all the land of Egypt.
+> **41:44** Pharaoh said to Joseph, “I am Pharaoh, and without you shall no man lift up his hand or his foot in all the land of Egypt.”
+> **41:45** Pharaoh called Joseph’s name Zaphenath-Paneah; and he gave him Asenath, the daughter of Potiphera priest of On as a wife. Joseph went out over the land of Egypt.
+> **41:46** Joseph was thirty years old when he stood before Pharaoh king of Egypt. Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.
+> **41:47** In the seven plenteous years the earth produced abundantly.
+> **41:48** He gathered up all the food of the seven years which were in the land of Egypt, and laid up the food in the cities: the food of the field, which was around every city, he laid up in the same.
+> **41:49** Joseph laid up grain as the sand of the sea, very much, until he stopped counting, for it was without number.
+> **41:50** To Joseph were born two sons before the year of famine came, whom Asenath, the daughter of Potiphera priest of On, bore to him.
+> **41:51** Joseph called the name of the firstborn Manasseh, “For,” he said, “God has made me forget all my toil, and all my father’s house.”
+> **41:52** The name of the second, he called Ephraim: “For God has made me fruitful in the land of my affliction.”
+> **41:53** The seven years of plenty, that were in the land of Egypt, came to an end.
+> **41:54** The seven years of famine began to come, just as Joseph had said. There was famine in all lands, but in all the land of Egypt there was bread.
+> **41:55** When all the land of Egypt was famished, the people cried to Pharaoh for bread, and Pharaoh said to all the Egyptians, “Go to Joseph. What he says to you, do.”
+> **41:56** The famine was over all the surface of the earth. Joseph opened all the store houses, and sold to the Egyptians. The famine was severe in the land of Egypt.
+> **41:57** All countries came into Egypt, to Joseph, to buy grain, because the famine was severe in all the earth.
+
+**Claim.** Raised over Egypt, given an Egyptian name and wife, he names his sons for what God has done with his suffering: Manasseh, 'God has made me forget all my toil, and all my father's house'; Ephraim, 'God has made me fruitful in the land of my affliction.' C19's healing, named into the next generation. A Hebrew slave serving the Egyptian state with full competence while remaining himself is C17's posture.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S4, S5 · chapters: C19, C17 · practices: none · confidence: medium
+
+---
+
+## 64. Genesis 42:1-38 — We are certainly guilty concerning our brother
+
+> **42:1** Now Jacob saw that there was grain in Egypt, and Jacob said to his sons, “Why do you look at one another?”
+> **42:2** He said, “Behold, I have heard that there is grain in Egypt. Go down there, and buy for us from there, so that we may live, and not die.”
+> **42:3** Joseph’s ten brothers went down to buy grain from Egypt.
+> **42:4** But Jacob didn’t send Benjamin, Joseph’s brother, with his brothers; for he said, “Lest perhaps harm happen to him.”
+> **42:5** The sons of Israel came to buy among those who came, for the famine was in the land of Canaan.
+> **42:6** Joseph was the governor over the land. It was he who sold to all the people of the land. Joseph’s brothers came, and bowed themselves down to him with their faces to the earth.
+> **42:7** Joseph saw his brothers, and he recognized them, but acted like a stranger to them, and spoke roughly with them. He said to them, “Where did you come from?” They said, “From the land of Canaan to buy food.”
+> **42:8** Joseph recognized his brothers, but they didn’t recognize him.
+> **42:9** Joseph remembered the dreams which he dreamed about them, and said to them, “You are spies! You have come to see the nakedness of the land.”
+> **42:10** They said to him, “No, my lord, but your servants have come to buy food.
+> **42:11** We are all one man’s sons; we are honest men. Your servants are not spies.”
+> **42:12** He said to them, “No, but you have come to see the nakedness of the land!”
+> **42:13** They said, “We, your servants, are twelve brothers, the sons of one man in the land of Canaan; and behold, the youngest is this day with our father, and one is no more.”
+> **42:14** Joseph said to them, “It is like I told you, saying, ‘You are spies!’
+> **42:15** By this you shall be tested. By the life of Pharaoh, you shall not go out from here, unless your youngest brother comes here.
+> **42:16** Send one of you, and let him get your brother, and you shall be bound, that your words may be tested, whether there is truth in you, or else by the life of Pharaoh surely you are spies.”
+> **42:17** He put them all together into custody for three days.
+> **42:18** Joseph said to them the third day, “Do this, and live, for I fear God.
+> **42:19** If you are honest men, then let one of your brothers be bound in your prison; but you go, carry grain for the famine of your houses.
+> **42:20** Bring your youngest brother to me; so will your words be verified, and you won’t die.” They did so.
+> **42:21** They said one to another, “We are certainly guilty concerning our brother, in that we saw the distress of his soul, when he begged us, and we wouldn’t listen. Therefore this distress has come upon us.”
+> **42:22** Reuben answered them, saying, “Didn’t I tell you, saying, ‘Don’t sin against the child,’ and you wouldn’t listen? Therefore also, behold, his blood is required.”
+> **42:23** They didn’t know that Joseph understood them; for there was an interpreter between them.
+> **42:24** He turned himself away from them, and wept. Then he returned to them, and spoke to them, and took Simeon from among them, and bound him before their eyes.
+> **42:25** Then Joseph gave a command to fill their bags with grain, and to restore each man’s money into his sack, and to give them food for the way. So it was done to them.
+> **42:26** They loaded their donkeys with their grain, and departed from there.
+> **42:27** As one of them opened his sack to give his donkey food in the lodging place, he saw his money. Behold, it was in the mouth of his sack.
+> **42:28** He said to his brothers, “My money is restored! Behold, it is in my sack!” Their hearts failed them, and they turned trembling one to another, saying, “What is this that God has done to us?”
+> **42:29** They came to Jacob their father, to the land of Canaan, and told him all that had happened to them, saying,
+> **42:30** “The man, the lord of the land, spoke roughly with us, and took us for spies of the country.
+> **42:31** We said to him, ‘We are honest men. We are no spies.
+> **42:32** We are twelve brothers, sons of our father; one is no more, and the youngest is this day with our father in the land of Canaan.’
+> **42:33** The man, the lord of the land, said to us, ‘By this I will know that you are honest men: leave one of your brothers with me, and take grain for the famine of your houses, and go your way.
+> **42:34** Bring your youngest brother to me. Then I will know that you are not spies, but that you are honest men. So I will deliver your brother to you, and you shall trade in the land.’”
+> **42:35** It happened as they emptied their sacks, that behold, each man’s bundle of money was in his sack. When they and their father saw their bundles of money, they were afraid.
+> **42:36** Jacob, their father, said to them, “You have bereaved me of my children! Joseph is no more, Simeon is no more, and you want to take Benjamin away. All these things are against me.”
+> **42:37** Reuben spoke to his father, saying, “Kill my two sons, if I don’t bring him to you. Entrust him to my care, and I will bring him to you again.”
+> **42:38** He said, “My son shall not go down with you; for his brother is dead, and he only is left. If harm happens to him along the way in which you go, then you will bring down my gray hairs with sorrow to Sheol.”
+
+**Claim.** Accused falsely of spying by a governor they do not recognise, the brothers do not protest his injustice to one another. They interpret their trouble by their own guilt: 'We are certainly guilty concerning our brother, in that we saw the distress of his soul, when he begged us, and we wouldn't listen. Therefore this distress has come upon us.' Twenty years later the memory is exact — they saw, he begged, they would not listen. Self-Accusation in friction: one's own portion first, even when the present accusation is false. Reuben's 'Didn't I tell you' is the blaming reflex in the same conversation. Joseph, overhearing, turns away and weeps. C21's interior history surfacing under pressure.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S5 · chapters: C22, C21 · practices: PR03 · confidence: high
+
+---
+
+## 65. Genesis 43:1-34 — If I am bereaved of my children, I am bereaved
+
+> **43:1** The famine was severe in the land.
+> **43:2** It happened, when they had eaten up the grain which they had brought out of Egypt, their father said to them, “Go again, buy us a little more food.”
+> **43:3** Judah spoke to him, saying, “The man solemnly warned us, saying, ‘You shall not see my face, unless your brother is with you.’
+> **43:4** If you’ll send our brother with us, we’ll go down and buy you food,
+> **43:5** but if you’ll not send him, we’ll not go down, for the man said to us, ‘You shall not see my face, unless your brother is with you.’”
+> **43:6** Israel said, “Why did you treat me so badly, telling the man that you had another brother?”
+> **43:7** They said, “The man asked directly concerning ourselves, and concerning our relatives, saying, ‘Is your father still alive? Have you another brother?’ We just answered his questions. Is there any way we could know that he would say, ‘Bring your brother down?’”
+> **43:8** Judah said to Israel, his father, “Send the boy with me, and we’ll get up and go, so that we may live, and not die, both we, and you, and also our little ones.
+> **43:9** I’ll be collateral for him. From my hand will you require him. If I don’t bring him to you, and set him before you, then let me bear the blame forever,
+> **43:10** for if we hadn’t delayed, surely we would have returned a second time by now.”
+> **43:11** Their father, Israel, said to them, “If it must be so, then do this. Take from the choice fruits of the land in your bags, and carry down a present for the man, a little balm, a little honey, spices and myrrh, nuts, and almonds;
+> **43:12** and take double money in your hand, and take back the money that was returned in the mouth of your sacks. Perhaps it was an oversight.
+> **43:13** Take your brother also, get up, and return to the man.
+> **43:14** May God Almighty give you mercy before the man, that he may release to you your other brother and Benjamin. If I am bereaved of my children, I am bereaved.”
+> **43:15** The men took that present, and they took double money in their hand, and Benjamin; and got up, went down to Egypt, and stood before Joseph.
+> **43:16** When Joseph saw Benjamin with them, he said to the steward of his house, “Bring the men into the house, and butcher an animal, and prepare; for the men will dine with me at noon.”
+> **43:17** The man did as Joseph commanded, and the man brought the men to Joseph’s house.
+> **43:18** The men were afraid, because they were brought to Joseph’s house; and they said, “Because of the money that was returned in our sacks at the first time, we’re brought in; that he may seek occasion against us, attack us, and seize us as slaves, along with our donkeys.”
+> **43:19** They came near to the steward of Joseph’s house, and they spoke to him at the door of the house,
+> **43:20** and said, “Oh, my lord, we indeed came down the first time to buy food.
+> **43:21** When we came to the lodging place, we opened our sacks, and behold, each man’s money was in the mouth of his sack, our money in full weight. We have brought it back in our hand.
+> **43:22** We have brought down other money in our hand to buy food. We don’t know who put our money in our sacks.”
+> **43:23** He said, “Peace be to you. Don’t be afraid. Your God, and the God of your father, has given you treasure in your sacks. I received your money.” He brought Simeon out to them.
+> **43:24** The man brought the men into Joseph’s house, and gave them water, and they washed their feet. He gave their donkeys fodder.
+> **43:25** They prepared the present for Joseph’s coming at noon, for they heard that they should eat bread there.
+> **43:26** When Joseph came home, they brought him the present which was in their hand into the house, and bowed themselves down to him to the earth.
+> **43:27** He asked them of their welfare, and said, “Is your father well, the old man of whom you spoke? Is he yet alive?”
+> **43:28** They said, “Your servant, our father, is well. He is still alive.” They bowed down humbly.
+> **43:29** He lifted up his eyes, and saw Benjamin, his brother, his mother’s son, and said, “Is this your youngest brother, of whom you spoke to me?” He said, “God be gracious to you, my son.”
+> **43:30** Joseph hurried, for his heart yearned over his brother; and he sought a place to weep. He entered into his room, and wept there.
+> **43:31** He washed his face, and came out. He controlled himself, and said, “Serve the meal.”
+> **43:32** They served him by himself, and them by themselves, and the Egyptians, that ate with him, by themselves, because the Egyptians don’t eat bread with the Hebrews, for that is an abomination to the Egyptians.
+> **43:33** They sat before him, the firstborn according to his birthright, and the youngest according to his youth, and the men marveled one with another.
+> **43:34** He sent portions to them from before him, but Benjamin’s portion was five times as much as any of theirs. They drank, and were merry with him.
+
+**Claim.** Judah, who once proposed selling a brother, now offers himself as surety for the youngest: 'If I don't bring him to you… let me bear the blame forever.' Jacob, who would not let Benjamin go, finally releases him: 'If I am bereaved of my children, I am bereaved.' Each lets go of what he was holding — C18's detachment in a father's surrender, and C16's responsibility taken for the weakest in Judah's pledge. Joseph weeps in his room, washes his face, and comes out to serve the meal.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S4 · chapters: C18, C16 · practices: none · confidence: medium
+
+---
+
+## 66. Genesis 44:1-34 — Please let your servant stay instead of the boy
+
+> **44:1** He commanded the steward of his house, saying, “Fill the men’s sacks with food, as much as they can carry, and put each man’s money in his sack’s mouth.
+> **44:2** Put my cup, the silver cup, in the sack’s mouth of the youngest, with his grain money.” He did according to the word that Joseph had spoken.
+> **44:3** As soon as the morning was light, the men were sent away, they and their donkeys.
+> **44:4** When they had gone out of the city, and were not yet far off, Joseph said to his steward, “Up, follow after the men. When you overtake them, ask them, ‘Why have you rewarded evil for good?
+> **44:5** Isn’t this that from which my lord drinks, and by which he indeed divines? You have done evil in so doing.’”
+> **44:6** He overtook them, and he spoke these words to them.
+> **44:7** They said to him, “Why does my lord speak such words as these? Far be it from your servants that they should do such a thing!
+> **44:8** Behold, the money, which we found in our sacks’ mouths, we brought again to you out of the land of Canaan. How then should we steal silver or gold out of your lord’s house?
+> **44:9** With whomever of your servants it is found, let him die, and we also will be my lord’s bondservants.”
+> **44:10** He said, “Now also let it be according to your words: he with whom it is found will be my bondservant; and you will be blameless.”
+> **44:11** Then they hurried, and each man took his sack down to the ground, and each man opened his sack.
+> **44:12** He searched, beginning with the eldest, and ending at the youngest. The cup was found in Benjamin’s sack.
+> **44:13** Then they tore their clothes, and each man loaded his donkey, and returned to the city.
+> **44:14** Judah and his brothers came to Joseph’s house, and he was still there. They fell on the ground before him.
+> **44:15** Joseph said to them, “What deed is this that you have done? Don’t you know that such a man as I can indeed divine?”
+> **44:16** Judah said, “What will we tell my lord? What will we speak? Or how will we clear ourselves? God has found out the iniquity of your servants. Behold, we are my lord’s bondservants, both we, and he also in whose hand the cup is found.”
+> **44:17** He said, “Far be it from me that I should do so. The man in whose hand the cup is found, he will be my bondservant; but as for you, go up in peace to your father.”
+> **44:18** Then Judah came near to him, and said, “Oh, my lord, please let your servant speak a word in my lord’s ears, and don’t let your anger burn against your servant; for you are even as Pharaoh.
+> **44:19** My lord asked his servants, saying, ‘Have you a father, or a brother?’
+> **44:20** We said to my lord, ‘We have a father, an old man, and a child of his old age, a little one; and his brother is dead, and he alone is left of his mother; and his father loves him.’
+> **44:21** You said to your servants, ‘Bring him down to me, that I may set my eyes on him.’
+> **44:22** We said to my lord, ‘The boy can’t leave his father: for if he should leave his father, his father would die.’
+> **44:23** You said to your servants, ‘Unless your youngest brother comes down with you, you will see my face no more.’
+> **44:24** It happened when we came up to your servant my father, we told him the words of my lord.
+> **44:25** Our father said, ‘Go again, buy us a little food.’
+> **44:26** We said, ‘We can’t go down. If our youngest brother is with us, then we will go down: for we may not see the man’s face, unless our youngest brother is with us.’
+> **44:27** Your servant, my father, said to us, ‘You know that my wife bore me two sons:
+> **44:28** and the one went out from me, and I said, “Surely he is torn in pieces;” and I haven’t seen him since.
+> **44:29** If you take this one also from me, and harm happens to him, you will bring down my gray hairs with sorrow to Sheol.’
+> **44:30** Now therefore when I come to your servant my father, and the boy is not with us; since his life is bound up in the boy’s life;
+> **44:31** it will happen, when he sees that the boy is no more, that he will die. Your servants will bring down the gray hairs of your servant, our father, with sorrow to Sheol.
+> **44:32** For your servant became collateral for the boy to my father, saying, ‘If I don’t bring him to you, then I will bear the blame to my father forever.’
+> **44:33** Now therefore, please let your servant stay instead of the boy, a bondservant to my lord; and let the boy go up with his brothers.
+> **44:34** For how will I go up to my father, if the boy isn’t with me?—lest I see the evil that will come on my father.”
+
+**Claim.** The test is designed to see whether the brothers will abandon a favoured son of Rachel when they can, as they once did. Judah's speech is the longest in Genesis, and it ends with an offer: let me be your slave in his place, 'for how will I go up to my father, if the boy isn't with me?' The man who sold one brother for silver gives himself for the other, for the sake of a father who loves that son more than him. C26's change of nature, shown not in a confession but in an exchange, and C16's logic of service at its fullest: one's own freedom for another's safety.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S4, S6 · chapters: C26, C16 · practices: none · confidence: high
+
+---
+
+## 67. Genesis 45:1-15 — Cause everyone to go out from me!… Don't be grieved, nor angry with yourselves
+
+> **45:1** Then Joseph couldn’t control himself before all those who stood before him, and he cried, “Cause everyone to go out from me!” No one else stood with him, while Joseph made himself known to his brothers.
+> **45:2** He wept aloud. The Egyptians heard, and the house of Pharaoh heard.
+> **45:3** Joseph said to his brothers, “I am Joseph! Does my father still live?” His brothers couldn’t answer him; for they were terrified at his presence.
+> **45:4** Joseph said to his brothers, “Come near to me, please.” They came near. “He said, I am Joseph, your brother, whom you sold into Egypt.
+> **45:5** Now don’t be grieved, nor angry with yourselves, that you sold me here, for God sent me before you to preserve life.
+> **45:6** For these two years the famine has been in the land, and there are yet five years, in which there will be neither plowing nor harvest.
+> **45:7** God sent me before you to preserve for you a remnant in the earth, and to save you alive by a great deliverance.
+> **45:8** So now it wasn’t you who sent me here, but God, and he has made me a father to Pharaoh, lord of all his house, and ruler over all the land of Egypt.
+> **45:9** Hurry, and go up to my father, and tell him, ‘This is what your son Joseph says, “God has made me lord of all Egypt. Come down to me. Don’t wait.
+> **45:10** You shall dwell in the land of Goshen, and you will be near to me, you, your children, your children’s children, your flocks, your herds, and all that you have.
+> **45:11** There I will nourish you; for there are yet five years of famine; lest you come to poverty, you, and your household, and all that you have.”’
+> **45:12** Behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaks to you.
+> **45:13** You shall tell my father of all my glory in Egypt, and of all that you have seen. You shall hurry and bring my father down here.”
+> **45:14** He fell on his brother Benjamin’s neck, and wept, and Benjamin wept on his neck.
+> **45:15** He kissed all his brothers, and wept on them. After that his brothers talked with him.
+
+**Claim.** Before he names what they did, Joseph clears the room: 'Cause everyone to go out from me!' The Egyptians hear the weeping but not the words, and no one but the brothers hears 'I am Joseph, your brother, whom you sold into Egypt.' Covering Weakness protects the guilty from public exposure, and it is done here by the injured party, before anything is said. Then he refuses to let them stay in their shame — 'don't be grieved, nor angry with yourselves' — and kisses each of them. Merciful Reintegration: received back without probation, the stumble not allowed to become their identity. C27's mature mercy and C19's door, opened from the inside by the one they wronged.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S5, S7 · chapters: C27, C19 · practices: PR17, PR29 · confidence: high
+
+---
+
+## 68. Genesis 45:16-28 — See that you don't quarrel on the way
+
+> **45:16** The report of it was heard in Pharaoh’s house, saying, “Joseph’s brothers have come.” It pleased Pharaoh well, and his servants.
+> **45:17** Pharaoh said to Joseph, “Tell your brothers, ‘Do this. Load your animals, and go, travel to the land of Canaan.
+> **45:18** Take your father and your households, and come to me, and I will give you the good of the land of Egypt, and you will eat the fat of the land.’
+> **45:19** Now you are commanded: do this. Take wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come.
+> **45:20** Also, don’t concern yourselves about your belongings, for the good of all of the land of Egypt is yours.”
+> **45:21** The sons of Israel did so. Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision for the way.
+> **45:22** He gave each one of them changes of clothing, but to Benjamin he gave three hundred pieces of silver and five changes of clothing.
+> **45:23** He sent the following to his father: ten donkeys loaded with the good things of Egypt, and ten female donkeys loaded with grain and bread and provision for his father by the way.
+> **45:24** So he sent his brothers away, and they departed. He said to them, “See that you don’t quarrel on the way.”
+> **45:25** They went up out of Egypt, and came into the land of Canaan, to Jacob their father.
+> **45:26** They told him, saying, “Joseph is still alive, and he is ruler over all the land of Egypt.” His heart fainted, for he didn’t believe them.
+> **45:27** They told him all the words of Joseph, which he had said to them. When he saw the wagons which Joseph had sent to carry him, the spirit of Jacob, their father, revived.
+> **45:28** Israel said, “It is enough. Joseph my son is still alive. I will go and see him before I die.”
+
+**Claim.** Sending his brothers back with wagons and provisions, Joseph adds one instruction: 'See that you don't quarrel on the way.' He foresees the recriminations that will follow a revealed sin — who argued for what, twenty years ago — and forbids them in advance. C15's peace, built before it is broken. Jacob's heart faints at the news and then revives at the sight of the wagons: C10's joy returning to a man who had refused comfort.
+
+**Tags.** mode: prescribes (the passage commands this practice) · pillars: mercy, truth · stages: S3, S4 · chapters: C15, C10 · practices: none · confidence: medium
+
+---
+
+## 69. Genesis 46:1-7 — Don't be afraid to go down into Egypt… I will go down with you
+
+> **46:1** Israel traveled with all that he had, and came to Beersheba, and offered sacrifices to the God of his father, Isaac.
+> **46:2** God spoke to Israel in the visions of the night, and said, “Jacob, Jacob!” He said, “Here I am.”
+> **46:3** He said, “I am God, the God of your father. Don’t be afraid to go down into Egypt, for there I will make of you a great nation.
+> **46:4** I will go down with you into Egypt. I will also surely bring you up again. Joseph will close your eyes.”
+> **46:5** Jacob rose up from Beersheba, and the sons of Israel carried Jacob, their father, their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.
+> **46:6** They took their livestock, and their goods, which they had gotten in the land of Canaan, and came into Egypt—Jacob, and all his seed with him,
+> **46:7** his sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and he brought all his seed with him into Egypt.
+
+**Claim.** An old man leaves the land of promise for a foreign country on the strength of a night vision: 'Don't be afraid… I will go down with you into Egypt. I will also surely bring you up again.' The promise is kept by leaving it. C17's sojourn and C18's open hand, at a hundred and thirty.
+
+**Tags.** pillars: humility, truth · stages: S4 · chapters: C17, C18 · practices: none · confidence: medium
+
+---
+
+## 70. Genesis 46:28-47:12 — Few and evil have been the days of the years of my life
+
+> **46:28** He sent Judah before him to Joseph, to show the way before him to Goshen, and they came into the land of Goshen.
+> **46:29** Joseph prepared his chariot, and went up to meet Israel, his father, in Goshen. He presented himself to him, and fell on his neck, and wept on his neck a good while.
+> **46:30** Israel said to Joseph, “Now let me die, since I have seen your face, that you are still alive.”
+> **46:31** Joseph said to his brothers, and to his father’s house, “I will go up, and speak with Pharaoh, and will tell him, ‘My brothers, and my father’s house, who were in the land of Canaan, have come to me.
+> **46:32** These men are shepherds, for they have been keepers of livestock, and they have brought their flocks, and their herds, and all that they have.’
+> **46:33** It will happen, when Pharaoh summons you, and will say, ‘What is your occupation?’
+> **46:34** that you shall say, ‘Your servants have been keepers of livestock from our youth even until now, both we, and our fathers:’ that you may dwell in the land of Goshen; for every shepherd is an abomination to the Egyptians.”
+> **47:1** Then Joseph went in and told Pharaoh, and said, “My father and my brothers, with their flocks, their herds, and all that they own, have come out of the land of Canaan; and behold, they are in the land of Goshen.”
+> **47:2** From among his brothers he took five men, and presented them to Pharaoh.
+> **47:3** Pharaoh said to his brothers, “What is your occupation?” They said to Pharaoh, “Your servants are shepherds, both we, and our fathers.”
+> **47:4** They said to Pharaoh, “We have come to live as foreigners in the land, for there is no pasture for your servants’ flocks. For the famine is severe in the land of Canaan. Now therefore, please let your servants dwell in the land of Goshen.”
+> **47:5** Pharaoh spoke to Joseph, saying, “Your father and your brothers have come to you.
+> **47:6** The land of Egypt is before you. Make your father and your brothers dwell in the best of the land. Let them dwell in the land of Goshen. If you know any able men among them, then put them in charge of my livestock.”
+> **47:7** Joseph brought in Jacob, his father, and set him before Pharaoh, and Jacob blessed Pharaoh.
+> **47:8** Pharaoh said to Jacob, “How many are the days of the years of your life?”
+> **47:9** Jacob said to Pharaoh, “The days of the years of my pilgrimage are one hundred thirty years. Few and evil have been the days of the years of my life, and they have not attained to the days of the years of the life of my fathers in the days of their pilgrimage.”
+> **47:10** Jacob blessed Pharaoh, and went out from the presence of Pharaoh.
+> **47:11** Joseph placed his father and his brothers, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
+> **47:12** Joseph nourished his father, his brothers, and all of his father’s household, with bread, according to their families.
+
+**Claim.** Father and son meet in Goshen, and Joseph 'wept on his neck a good while.' Then a shepherd stands before Pharaoh, and it is the shepherd who blesses the king, twice. Asked his age, Jacob calls his life a pilgrimage and its days 'few and evil' — an honest account, unembellished, to the most powerful man in the world. The family lives in Egypt as resident foreigners, shepherds in a land where shepherds are an abomination, accepting the place given them and blessing the one who gives it. The Citizen-Stranger's posture, and C14's household nourished through famine.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S4 · chapters: C14, C17 · practices: PR10 · confidence: medium
+
+---
+
+## 71. Genesis 47:27-48:22 — The God who has fed me all my life long to this day
+
+> **47:27** Israel lived in the land of Egypt, in the land of Goshen; and they got themselves possessions therein, and were fruitful, and multiplied exceedingly.
+> **47:28** Jacob lived in the land of Egypt seventeen years. So the days of Jacob, the years of his life, were one hundred forty-seven years.
+> **47:29** The time drew near that Israel must die, and he called his son Joseph, and said to him, “If now I have found favor in your sight, please put your hand under my thigh, and deal kindly and truly with me. Please don’t bury me in Egypt,
+> **47:30** but when I sleep with my fathers, you shall carry me out of Egypt, and bury me in their burying place.” He said, “I will do as you have said.”
+> **47:31** He said, “Swear to me,” and he swore to him. Israel bowed himself on the bed’s head.
+> **48:1** It happened after these things, that someone said to Joseph, “Behold, your father is sick.” He took with him his two sons, Manasseh and Ephraim.
+> **48:2** Someone told Jacob, and said, “Behold, your son Joseph comes to you,” and Israel strengthened himself, and sat on the bed.
+> **48:3** Jacob said to Joseph, “God Almighty appeared to me at Luz in the land of Canaan, and blessed me,
+> **48:4** and said to me, ‘Behold, I will make you fruitful, and multiply you, and I will make of you a company of peoples, and will give this land to your seed after you for an everlasting possession.’
+> **48:5** Now your two sons, who were born to you in the land of Egypt before I came to you into Egypt, are mine; Ephraim and Manasseh, even as Reuben and Simeon, will be mine.
+> **48:6** Your issue, whom you become the father of after them, will be yours. They will be called after the name of their brothers in their inheritance.
+> **48:7** As for me, when I came from Paddan, Rachel died by me in the land of Canaan in the way, when there was still some distance to come to Ephrath, and I buried her there in the way to Ephrath (the same is Bethlehem).”
+> **48:8** Israel saw Joseph’s sons, and said, “Who are these?”
+> **48:9** Joseph said to his father, “They are my sons, whom God has given me here.” He said, “Please bring them to me, and I will bless them.”
+> **48:10** Now the eyes of Israel were dim for age, so that he couldn’t see. He brought them near to him; and he kissed them, and embraced them.
+> **48:11** Israel said to Joseph, “I didn’t think I would see your face, and behold, God has let me see your seed also.”
+> **48:12** Joseph brought them out from between his knees, and he bowed himself with his face to the earth.
+> **48:13** Joseph took them both, Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand, and brought them near to him.
+> **48:14** Israel stretched out his right hand, and laid it on Ephraim’s head, who was the younger, and his left hand on Manasseh’s head, guiding his hands knowingly, for Manasseh was the firstborn.
+> **48:15** He blessed Joseph, and said, “The God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life long to this day,
+> **48:16** the angel who has redeemed me from all evil, bless the lads, and let my name be named on them, and the name of my fathers Abraham and Isaac. Let them grow into a multitude in the midst of the earth.”
+> **48:17** When Joseph saw that his father laid his right hand on the head of Ephraim, it displeased him. He held up his father’s hand, to remove it from Ephraim’s head to Manasseh’s head.
+> **48:18** Joseph said to his father, “Not so, my father; for this is the firstborn; put your right hand on his head.”
+> **48:19** His father refused, and said, “I know, my son, I know. He also will become a people, and he also will be great. However, his younger brother will be greater than he, and his seed will become a multitude of nations.”
+> **48:20** He blessed them that day, saying, “In you will Israel bless, saying, ‘God make you as Ephraim and as Manasseh’” He set Ephraim before Manasseh.
+> **48:21** Israel said to Joseph, “Behold, I am dying, but God will be with you, and bring you again to the land of your fathers.
+> **48:22** Moreover I have given to you one portion above your brothers, which I took out of the hand of the Amorite with my sword and with my bow.”
+
+**Claim.** Dying, Jacob blesses Joseph's sons and reviews his life in a single clause: 'the God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life long to this day, the angel who has redeemed me from all evil.' A shepherd's metaphor for a whole life — fed, led, redeemed. C25's long view, given at the end, and C19's redemption named by a man who had been a deceiver. Crossing his hands to bless the younger — 'I know, my son, I know' — he repeats knowingly the reversal he once stole.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S5, S6 · chapters: C25, C19 · practices: none · confidence: high
+
+---
+
+## 72. Genesis 49:5-7 — Cursed be their anger, for it was fierce
+
+> **49:5** “Simeon and Levi are brothers. Their swords are weapons of violence.
+> **49:6** My soul, don’t come into their council. My glory, don’t be united to their assembly; for in their anger they killed men. In their self-will they hamstrung cattle.
+> **49:7** Cursed be their anger, for it was fierce; and their wrath, for it was cruel. I will divide them in Jacob, and scatter them in Israel.
+
+**Claim.** At his deathbed Jacob returns to Shechem: 'Simeon and Levi… in their anger they killed men… Cursed be their anger, for it was fierce; and their wrath, for it was cruel.' The anger, not the men, is cursed. C22 measures the healed heart by what anger does, and this is the judgment on what it did, delivered forty years later. The other tribal oracles in chapter 49 are not indexed.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S5 · chapters: C22 · practices: none · confidence: high
+
+---
+
+## 73. Genesis 49:29-50:14 — They lamented with a very great and severe lamentation
+
+> **49:29** He instructed them, and said to them, “I am to be gathered to my people. Bury me with my fathers in the cave that is in the field of Ephron the Hittite,
+> **49:30** in the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite as a burial place.
+> **49:31** There they buried Abraham and Sarah, his wife. There they buried Isaac and Rebekah, his wife, and there I buried Leah:
+> **49:32** the field and the cave that is therein, which was purchased from the children of Heth.”
+> **49:33** When Jacob made an end of charging his sons, he gathered up his feet into the bed, and yielded up the spirit, and was gathered to his people.
+> **50:1** Joseph fell on his father’s face, wept on him, and kissed him.
+> **50:2** Joseph commanded his servants, the physicians, to embalm his father; and the physicians embalmed Israel.
+> **50:3** Forty days were fulfilled for him, for that is how many the days it takes to embalm. The Egyptians wept for him for seventy days.
+> **50:4** When the days of weeping for him were past, Joseph spoke to the house of Pharaoh, saying, “If now I have found favor in your eyes, please speak in the ears of Pharaoh, saying,
+> **50:5** ‘My father made me swear, saying, “Behold, I am dying. Bury me in my grave which I have dug for myself in the land of Canaan.” Now therefore, please let me go up and bury my father, and I will come again.’”
+> **50:6** Pharaoh said, “Go up, and bury your father, just like he made you swear.”
+> **50:7** Joseph went up to bury his father; and with him went up all the servants of Pharaoh, the elders of his house, all the elders of the land of Egypt,
+> **50:8** all the house of Joseph, his brothers, and his father’s house. Only their little ones, their flocks, and their herds, they left in the land of Goshen.
+> **50:9** There went up with him both chariots and horsemen. It was a very great company.
+> **50:10** They came to the threshing floor of Atad, which is beyond the Jordan, and there they lamented with a very great and severe lamentation. He mourned for his father seven days.
+> **50:11** When the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, “This is a grievous mourning by the Egyptians.” Therefore, its name was called Abel Mizraim, which is beyond the Jordan.
+> **50:12** His sons did to him just as he commanded them,
+> **50:13** for his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field, for a possession of a burial site, from Ephron the Hittite, before Mamre.
+> **50:14** Joseph returned into Egypt—he, and his brothers, and all that went up with him to bury his father, after he had buried his father.
+
+**Claim.** Jacob charges his sons to bury him at Machpelah, names those already there — 'and there I buried Leah' — and dies. Joseph falls on his face; Egypt weeps seventy days; at the threshing floor of Atad they mourn seven more. The sons do 'just as he commanded them.' C14's household keeping faith with its dead.
+
+**Tags.** pillars: mercy, truth · stages: S4 · chapters: C14 · practices: none · confidence: medium
+
+---
+
+## 74. Genesis 50:15-21 — Am I in the place of God? You meant evil against me, but God meant it for good
+
+> **50:15** When Joseph’s brothers saw that their father was dead, they said, “It may be that Joseph will hate us, and will fully pay us back for all of the evil which we did to him.”
+> **50:16** They sent a message to Joseph, saying, “Your father commanded before he died, saying,
+> **50:17** ‘You shall tell Joseph, “Now please forgive the disobedience of your brothers, and their sin, because they did evil to you.”’ Now, please forgive the disobedience of the servants of the God of your father.” Joseph wept when they spoke to him.
+> **50:18** His brothers also went and fell down before his face; and they said, “Behold, we are your servants.”
+> **50:19** Joseph said to them, “Don’t be afraid, for am I in the place of God?
+> **50:20** As for you, you meant evil against me, but God meant it for good, to bring to pass, as it is this day, to save many people alive.
+> **50:21** Now therefore don’t be afraid. I will nourish you and your little ones.” He comforted them, and spoke kindly to them.
+
+**Claim.** With their father dead, the brothers fear the reckoning: 'It may be that Joseph will hate us, and will fully pay us back.' They send a plea for forgiveness and fall before him — repentance now explicit. Joseph weeps, and answers: 'Don't be afraid, for am I in the place of God? As for you, you meant evil against me, but God meant it for good.' Then: 'I will nourish you and your little ones.' Non-Retaliation by a man with every power and every reason to repay, grounded in leaving judgment to God; and Merciful Reintegration in its completed form, the repentant received and provided for. C03's hardest turn and C27's summit in the same four verses.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S1, S7 · chapters: C27, C03 · practices: PR06, PR29 · confidence: high
+
+---
+
+## 75. Genesis 50:22-26 — You shall carry up my bones from here
+
+> **50:22** Joseph lived in Egypt, he, and his father’s house. Joseph lived one hundred ten years.
+> **50:23** Joseph saw Ephraim’s children to the third generation. The children also of Machir, the son of Manasseh, were born on Joseph’s knees.
+> **50:24** Joseph said to his brothers, “I am dying, but God will surely visit you, and bring you up out of this land to the land which he swore to Abraham, to Isaac, and to Jacob.”
+> **50:25** Joseph took an oath of the children of Israel, saying, “God will surely visit you, and you shall carry up my bones from here.”
+> **50:26** So Joseph died, being one hundred ten years old, and they embalmed him, and he was put in a coffin in Egypt.
+
+**Claim.** Joseph lives to see his great-grandchildren and dies in Egypt, its second ruler, embalmed in an Egyptian coffin — and makes his family swear to carry his bones out when God visits them. A whole life lived in a foreign land, fully, with its final loyalty placed elsewhere: C17's citizen-stranger to the end, and C25's hope extended past death to a fulfilment he will not see.
+
+**Tags.** pillars: truth, humility · stages: S4, S6 · chapters: C17, C25 · practices: none · confidence: medium
 
 ---
 

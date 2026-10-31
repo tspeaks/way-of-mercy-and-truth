@@ -22,6 +22,7 @@ the first fourteen.
 | 2 Corinthians | 21 | `reviews/2-corinthians-package.md` | 8:1-15 and 9:1-15 (PR28, the forecast anchors; PR05); 12:11-21 (PR22 — tested against the attractor); 2:5-11 (PR29 commanded); 7:2-16 (PR11 + PR08 on the two sorrows); 10:1-18 (PR12; PR14 on refusing comparison); 12:1-10 (PR04 + PR13); 13:1-14 (PR01); 3:7-18 (PR14 on the C26 prior, medium) |
 | Philemon | 3 | `reviews/philemon-package.md` | 1:15-20 (PR29 — confirms the candidate recorded in the Colossians coverage note) |
 | Galatians | 15 | `reviews/galatians-package.md` | 6:1-5 (PR29 + PR03 + PR01 — three practices in five verses); 2:1-10 (PR05); 2:11-14 (PR17 considered and declined for Peter at Antioch); 6:6-10 (PR14 on the appendix prior); the coverage note on 4:21-31 |
+| Romans | 38 | `reviews/romans-package.md` | 12:14-21 (PR06 + PR15 + PR09 — the fullest apostolic statement of the Sermon ethic, citing Deut 32:35); 13:1-7 (PR10 with the Acts 5:29 guard); 14:13-23 (PR09; PR20 and PR17 declined); 12:9-13 (PR05 medium; PR25 declined); 16:1-16 (PR21 declined); 9:6-29 (PR04 — the coverage note on election); 7:7-25 (PR02); 2:1-16 (PR03); 11:33-36 (the A3 prior). May be reviewed in sections 1-8, 9-16 |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

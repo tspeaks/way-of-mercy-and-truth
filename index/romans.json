@@ -1,10 +1,11 @@
 {
   "book": "Romans",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — chapters 1-8 indexed; 9-16 pending",
+  "status": "complete",
   "method_version": "2.3",
   "text_source": "index/text/romans.json",
   "note": "Paul's most sustained argument, indexed in two sections: the gospel of righteousness by faith (1-8) and Israel, the life of the community, and the greetings (9-16). The Scriptural Appendix cites 1:20 for C24 and 11:33-34 for the Discipline of Unknowing.",
+  "coverage_note": "Left unindexed by design: 9:22-23 ('vessels of wrath made for destruction') and 11:7-10 (hardening, with the quotation from Psalm 69) are indexed only through the entries that frame them; the index anchors what these passages say about mercy and the limits of human reply, and does not adjudicate the doctrine of election. 1:24-27 is part of the 1:18-32 argument and is not given its own entry. 14:24-26 (the doxology in WEB numbering), 16:21-24 (closing greetings) and 16:25-27 (blank in the WEB) are not indexed separately.",
   "entries": [
     {
       "ref": "Romans 1:8-15",
@@ -337,6 +338,483 @@
       "practices": [],
       "connection": "'If God is for us, who can be against us?… Who is he who condemns?… Who shall separate us from the love of Christ? Could oppression, or anguish, or persecution, or famine, or nakedness, or peril, or sword?' Every threat named and none sufficient: 'neither death, nor life… nor things present, nor things to come… nor any other created thing, will be able to separate us from the love of God.' C19's security, and C22's quiet soul grounded in something no circumstance reaches.",
       "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 9:1-5",
+      "pericope": "I have great sorrow and unceasing pain in my heart. For I could wish that I myself were accursed from Christ for my brothers' sake",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C03"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "Paul begins the hardest section of the letter under oath — 'I tell the truth in Christ. I am not lying, my conscience testifying with me' — and what he swears to is grief: 'great sorrow and unceasing pain in my heart.' Grief for the people who, at the time of writing, were the ones opposing him from city to city. 'I could wish that I myself were accursed from Christ for my brothers' sake.' Shedding Harshness asks who stands outside the circle of concern; Paul's circle includes the people who drove him out, and he would trade his own place to bring them in. Tagged at medium: he exemplifies the widened circle rather than teaching it. C03's love for the one who sets himself against you, and C27's boundless reach.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 9:6-29",
+      "pericope": "It is not of him who wills, nor of him who runs, but of God who has mercy… O man, who are you to reply against God?",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C22"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "connection": "The argument from election: Isaac and not Ishmael, Jacob before either twin had 'done anything good or bad.' 'So then it is not of him who wills, nor of him who runs, but of God who has mercy.' The index anchors two things here and no more. First, that mercy is not earned by the runner — C19's door. Second, the posture Paul demands of the objector: 'But indeed, O man, who are you to reply against God? Will the thing formed ask him who formed it, \"Why did you make me like this?\"' The Discipline of Unknowing at its least comfortable — the passage closes the question rather than answering it, and the practice is to let it stay closed. The index does not adjudicate the doctrine of election or the 'vessels of wrath' (9:22); see the coverage note.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 9:30-10:4",
+      "pericope": "They have a zeal for God, but not according to knowledge… seeking to establish their own righteousness",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C06"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "'I testify about them that they have a zeal for God, but not according to knowledge. For being ignorant of God's righteousness, and seeking to establish their own righteousness, they didn't subject themselves to the righteousness of God.' Zeal as the counterfeit of the thing it is zealous for: those who 'didn't follow after righteousness' attained it, and those who pursued it 'as it were by works' stumbled. C19's door refused because the one standing at it insists on building his own. And C06's distinction between the earnest surface and the seeing eye — sincerity is not sight.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 10:5-21",
+      "pericope": "The word is near you, in your mouth, and in your heart… How will they hear without a preacher?",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C16"
+      ],
+      "practices": [],
+      "connection": "'Don't say in your heart, \"Who will ascend into heaven?\"… The word is near you, in your mouth, and in your heart.' C19's door is not up a mountain or down a pit; it is at the level of the mouth. 'For there is no distinction between Jew and Greek; for the same Lord is Lord of all, and is rich to all who call on him.' Then the chain of dependence that makes the door reachable: call, believe, hear, preach, be sent. 'How beautiful are the feet of those who preach the Good News of peace.' C16's service as carriage — someone has to walk the message to the door. And God's patience in the closing line: 'All day long I stretched out my hands to a disobedient and contrary people.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 11:1-10",
+      "pericope": "I am left alone… I have reserved for myself seven thousand men, who have not bowed the knee to Baal",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C23",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Elijah's complaint — 'I am left alone, and they seek my life' — and God's answer: 'I have reserved for myself seven thousand men, who have not bowed the knee to Baal.' Seven thousand the prophet had never heard of, whose faithfulness was invisible even to the most faithful man in Israel. C23's hidden life in its plainest form: unrecorded, unnoticed, counted. And a correction to the prophet's sense of isolation, which C13 would recognise — the remnant is larger than the one who feels alone in it can see. The quotation at 11:9-10 belongs to the argument about hardening and is not indexed separately.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 11:11-24",
+      "pericope": "Don't boast over the branches… it is not you who support the root, but the root supports you. Don't be conceited, but fear",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C11",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The olive tree: natural branches broken off, a wild shoot grafted in 'contrary to nature.' Paul turns at once on the grafted branch before it can congratulate itself: 'don't boast over the branches. But if you boast, it is not you who support the root, but the root supports you… Don't be conceited, but fear.' C11's vine image from the other side — the branch does not hold up the tree — and C22's humility as the only safe posture for anyone who has been given what they did not grow. 'See then the goodness and severity of God… if you continue in his goodness; otherwise you also will be cut off.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 11:25-32",
+      "pericope": "So that you won't be wise in your own conceits… For God has shut up all to disobedience, that he might have mercy on all",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C03"
+      ],
+      "practices": [],
+      "connection": "The mystery is disclosed for a stated purpose — 'so that you won't be wise in your own conceits' — and its shape is mercy passed from hand to hand: 'as you in time past were disobedient to God, but now have obtained mercy by their disobedience, even so these also have now been disobedient, that by the mercy shown to you they may also obtain mercy.' Then the sentence the whole argument has been building toward: 'For God has shut up all to disobedience, that he might have mercy on all.' C19's door, held open by the same failure in everyone. 'The gifts and the calling of God are irrevocable.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 11:33-36",
+      "pericope": "Oh the depth of the riches both of the wisdom and the knowledge of God! How unsearchable are his judgments",
+      "pillars": [
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C24",
+        "C22"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "The Scriptural Appendix cites 11:33-34 because the most rigorous argument in the New Testament ends 'in wonder rather than mastery, anchoring The Discipline of Unknowing.' Three chapters of argument about election and mercy, and the arguer stops: 'Oh the depth of the riches both of the wisdom and the knowledge of God! How unsearchable are his judgments, and his ways past tracing out! For who has known the mind of the Lord? Or who has been his counselor?' The practice modelled by the one person best placed to claim he had mastered the subject. C24's wonder, and C22's rest in not needing to.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Romans 12:1-2",
+      "pericope": "Present your bodies a living sacrifice… be transformed by the renewing of your mind",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C07"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Therefore I urge you, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service.' The ethic that follows is grounded in mercy received — 'therefore… by the mercies of God' — not in obligation. Then the change from the inside: 'Don't be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what is the good, well-pleasing, and perfect will of God.' C26's transformation of nature, and C07's cleansing of the lens: a renewed mind is what makes the good visible enough to test.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 12:3-8",
+      "pericope": "Not to think of himself more highly than he ought to think; but to think reasonably… he who shows mercy, with cheerfulness",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C13",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'I say… to every man who is among you, not to think of himself more highly than he ought to think; but to think reasonably, as God has apportioned to each person a measure of faith.' C22's sober self-estimate — not low, but accurate. One body, many members, differing gifts, and each gift with its manner: 'he who gives, let him do it with liberality; he who rules, with diligence; he who shows mercy, with cheerfulness.' C13's shared life and C16's service, each member doing its own part and not another's.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 12:9-13",
+      "pericope": "Let love be without hypocrisy… in honor preferring one another… contributing to the needs of the saints; given to hospitality",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C14",
+        "C12"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "'Let love be without hypocrisy' — C12's proof, love that can be checked against conduct. A run of short commands describing a community's ordinary week: 'In love of the brothers be tenderly affectionate one to another; in honor preferring one another; not lagging in diligence… rejoicing in hope; enduring in troubles; continuing steadfastly in prayer; contributing to the needs of the saints; given to hospitality.' Habitual Almsgiving is the regular sharing of resources directed toward actual need; 'contributing to the needs' prescribes it as a standing habit (medium — one clause in a list). 'In honor preferring one another' is the principle beneath Deferential Seating but does not prescribe the practice itself, so PR25 is not tagged.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 12:14-21",
+      "pericope": "Bless those who persecute you… Repay no one evil for evil… Don't seek revenge… If your enemy is hungry, feed him… overcome evil with good",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C03",
+        "C15",
+        "C27"
+      ],
+      "practices": [
+        "PR06",
+        "PR15",
+        "PR09"
+      ],
+      "mode": "prescribes",
+      "connection": "The fullest apostolic statement of the Sermon's ethic. 'Bless those who persecute you; bless, and don't curse.' 'Repay no one evil for evil.' 'Don't seek revenge yourselves, beloved, but give place to God's wrath. For it is written, \"Vengeance belongs to me; I will repay, says the Lord\"' — Deuteronomy 32:35, which the Deuteronomy entry anchors, here turned into the ground of the believer's restraint. 'If your enemy is hungry, feed him… Don't be overcome by evil, but overcome evil with good.' Non-Retaliation in its two halves: the refusal and the positive act. Shedding Harshness in the blessing of the persecutor. And the Architecture of Peace exactly as A1 defines it — act toward repair even if the other person does not: 'If it is possible, as much as it is up to you, be at peace with all men.' The limit is honest; the responsibility is one's own half. 'Weep with those who weep' sits in the middle, C27's wide heart, and the C03 chapter is where all of this lives.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 13:1-7",
+      "pericope": "Let every soul be in subjection to the higher authorities… Give therefore to everyone what you owe",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "prescribes",
+      "connection": "'Let every soul be in subjection to the higher authorities… for conscience' sake. For this reason you also pay taxes… Give therefore to everyone what you owe: taxes to whom taxes are due; customs to whom customs; respect to whom respect; honor to whom honor.' The Citizen-Stranger's first half — 'obey the laws gladly' — written to believers in the capital of the empire that would kill the writer. Indexed with the guard the practice itself carries: ultimate loyalty 'rests above any human decree.' The passage describes authority as 'a servant of God to you for good'; it does not address an authority that commands evil, and Acts 5:29 ('We must obey God rather than men') stands beside it in the index. The entry anchors the ordinary posture, not a doctrine of unlimited obedience.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 13:8-10",
+      "pericope": "Owe no one anything, except to love one another… Love doesn't harm a neighbor. Love therefore is the fulfillment of the law",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C03",
+        "C29"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Owe no one anything, except to love one another' — the one debt that is never paid off. The commandments 'are all summed up in this saying, namely, \"You shall love your neighbor as yourself.\" Love doesn't harm a neighbor. Love therefore is the fulfillment of the law.' C03's blueprint, with the law read as love's specification rather than its rival, and C29's whole heart, in which the commands are no longer external.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 13:11-14",
+      "pericope": "The night is far gone, and the day is near… make no provision for the flesh, for its lusts",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C12"
+      ],
+      "practices": [
+        "PR12"
+      ],
+      "mode": "prescribes",
+      "connection": "'It is already time for you to awaken out of sleep… The night is far gone, and the day is near. Let's therefore throw off the works of darkness, and let's put on the armor of light.' Then the gatekeeper's instruction: 'put on the Lord Jesus Christ, and make no provision for the flesh, for its lusts.' Watchfulness holds that destructive thoughts do their damage 'during the hospitality, not the arrival' — making no provision is refusing to set the table. C20's watchman, and the list of 'strife and jealousy' beside 'drunkenness' as works done in the dark.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 14:1-12",
+      "pericope": "Who are you who judge another's servant?… each one of us will give account of himself to God",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C03",
+        "C15",
+        "C04"
+      ],
+      "practices": [
+        "PR03"
+      ],
+      "mode": "prescribes",
+      "connection": "A real dispute — food and holy days — and Paul refuses to settle it by declaring a winner. 'Don't let him who eats despise him who doesn't eat. Don't let him who doesn't eat judge him who eats, for God has accepted him. Who are you who judge another's servant? To his own lord he stands or falls.' Both errors named: contempt from the strong, judgment from the scrupulous. And the sentence that turns every accuser back on himself: 'So then each one of us will give account of himself to God.' Self-Accusation's discipline of sequence — attend to your own account — set as the answer to disagreement within the church (medium). C15's peace and C03's refusal to judge, with C04's mirror pointed where it belongs.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 14:13-23",
+      "pericope": "That no man put a stumbling block in his brother's way… let us follow after things which make for peace, and things by which we may build one another up",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C16"
+      ],
+      "practices": [
+        "PR09"
+      ],
+      "mode": "prescribes",
+      "connection": "'Let's not judge one another any more, but judge this rather, that no man put a stumbling block in his brother's way.' Paul concedes the strong are right on the merits — 'nothing is unclean of itself' — and then makes being right beside the point: 'Yet if because of food your brother is grieved, you walk no longer in love. Don't destroy with your food him for whom Christ died.' The Architecture of Peace changes the objective from 'how do I prevail' to 'what would repair look like': 'let us follow after things which make for peace, and things by which we may build one another up.' Liberty limited by love, voluntarily. The Sacrifice of Routine runs the other direction (one's discipline yielding to a guest's ease) and is not tagged; neither is Covering Weakness, which concerns public embarrassment over a mistake. The doxology the WEB prints as 14:24-26 is not indexed separately.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 15:1-13",
+      "pericope": "We who are strong ought to bear the weaknesses of the weak, and not to please ourselves. For even Christ didn't please himself",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C14",
+        "C15"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Now we who are strong ought to bear the weaknesses of the weak, and not to please ourselves. Let each one of us please his neighbor for that which is good, to be building him up. For even Christ didn't please himself.' C16's logic of service — the stronger party carries the load — grounded in Christ's own example. 'Therefore accept one another, even as Christ also accepted you.' C14's household and C15's peace, ending in a prayer that the divided community might 'with one accord… with one mouth glorify God.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Romans 15:14-21",
+      "pericope": "I will not dare to speak of any things except those which Christ worked through me… that I might not build on another's foundation",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Paul's account of his own work is careful about credit in both directions. Of the Romans: 'I myself am also persuaded about you… that you yourselves are full of goodness… able also to admonish others.' Of himself: 'I will not dare to speak of any things except those which Christ worked through me.' And his ambition, stated as a rule against taking credit for another's labour: 'making it my aim to preach the Good News, not where Christ was already named, that I might not build on another's foundation.' C22's honest estimate of one's own part, and C16's service that does not compete.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 15:22-33",
+      "pericope": "A certain contribution for the poor among the saints who are at Jerusalem… they owe it to them also to serve them in fleshly things",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C14"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "The letter's travel plans pause for a collection. 'It has been the good pleasure of Macedonia and Achaia to make a certain contribution for the poor among the saints who are at Jerusalem.' An organised, deliberate sharing of resources across a great distance, directed at actual need — Habitual Almsgiving at the scale of churches — and Paul delays his own mission to deliver it in person. The reason given is a debt of gratitude: 'if the Gentiles have been made partakers of their spiritual things, they owe it to them also to serve them in fleshly things.' Then a request that the Romans 'strive together with me in your prayers' — he asks for help openly.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 16:1-16",
+      "pericope": "Greet Mary, who labored much for us… Greet Persis, the beloved, who labored much in the Lord",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C13",
+        "C23"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Twenty-six names, most mentioned nowhere else in scripture, each with a word about what they did: Phoebe, 'a helper of many, and of my own self'; Prisca and Aquila, 'who for my life, laid down their own necks'; Mary, 'who labored much for us'; Tryphaena and Tryphosa, 'who labor in the Lord'; Rufus's mother, 'and mine.' Households, fellow prisoners, women and men named as co-workers. The church as C13 actually describes it — ordinary people faithful in ordinary places — and C23's hidden labour, preserved here only because someone thought to say thank you by name. The specific praise resembles Verbal Almsgiving, but A1 aims that practice at the discouraged and isolated, and nothing here says these people were; PR21 is not tagged. The closing greetings (16:21-24, including Tertius the scribe and Gaius the host) belong to the same picture and are not indexed separately.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Romans 16:17-20",
+      "pericope": "By their smooth and flattering speech, they deceive the hearts of the innocent… wise in that which is good, but innocent in that which is evil",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C08",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Look out for those who are causing the divisions and occasions of stumbling… For those who are such don't serve our Lord, Jesus Christ, but their own belly; and by their smooth and flattering speech, they deceive the hearts of the innocent.' C08's test of the teacher by whom he serves, with smooth speech as the warning sign rather than the credential. And the posture asked of the church: 'I desire to have you wise in that which is good, but innocent in that which is evil' — C20's gate kept by knowing the good well rather than studying the evil.",
+      "confidence": "medium",
       "prior": false
     }
   ]

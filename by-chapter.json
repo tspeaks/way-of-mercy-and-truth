@@ -1533,6 +1533,104 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 11:25-32",
+        "name": "So that you won't be wise in your own conceits… For God has shut up all to disobedience, that he might have mercy on all",
+        "chapters": [
+          "C03",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:14-21",
+        "name": "Bless those who persecute you… Repay no one evil for evil… Don't seek revenge… If your enemy is hungry, feed him… overcome evil with good",
+        "chapters": [
+          "C03",
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR09",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 13:8-10",
+        "name": "Owe no one anything, except to love one another… Love doesn't harm a neighbor. Love therefore is the fulfillment of the law",
+        "chapters": [
+          "C03",
+          "C29"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 14:1-12",
+        "name": "Who are you who judge another's servant?… each one of us will give account of himself to God",
+        "chapters": [
+          "C03",
+          "C04",
+          "C15"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 2:1-16",
+        "name": "In that which you judge another, you condemn yourself. For you who judge practice the same things",
+        "chapters": [
+          "C03",
+          "C04"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 5:1-11",
+        "name": "Suffering works perseverance; and perseverance, proven character; and proven character, hope… while we were yet sinners, Christ died for us",
+        "chapters": [
+          "C03",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 9:1-5",
+        "name": "I have great sorrow and unceasing pain in my heart. For I could wish that I myself were accursed from Christ for my brothers' sake",
+        "chapters": [
+          "C03",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "C04": [
@@ -2378,6 +2476,61 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Romans.Json",
+        "reference": "Romans 14:1-12",
+        "name": "Who are you who judge another's servant?… each one of us will give account of himself to God",
+        "chapters": [
+          "C03",
+          "C04",
+          "C15"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 2:1-16",
+        "name": "In that which you judge another, you condemn yourself. For you who judge practice the same things",
+        "chapters": [
+          "C03",
+          "C04"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 2:17-29",
+        "name": "You therefore who teach another, don't you teach yourself?… whose praise is not from men, but from God",
+        "chapters": [
+          "C04",
+          "C06"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 3:9-20",
+        "name": "There is no one righteous; no, not one… The way of peace, they haven't known",
+        "chapters": [
+          "C04",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
         "book": "Song Of Solomon.Json",
         "reference": "Song of Solomon 1:5-6",
         "name": "My own vineyard I have not kept",
@@ -3187,6 +3340,43 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 2:17-29",
+        "name": "You therefore who teach another, don't you teach yourself?… whose praise is not from men, but from God",
+        "chapters": [
+          "C04",
+          "C06"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 7:1-6",
+        "name": "So that we serve in newness of the spirit, and not in oldness of the letter",
+        "chapters": [
+          "C06"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 9:30-10:4",
+        "name": "They have a zeal for God, but not according to knowledge… seeking to establish their own righteousness",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "C07": [
@@ -3640,6 +3830,31 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:1-2",
+        "name": "Present your bodies a living sacrifice… be transformed by the renewing of your mind",
+        "chapters": [
+          "C07",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 1:18-32",
+        "name": "Knowing God, they didn't glorify him as God, neither gave thanks, but became vain in their reasoning, and their senseless heart was darkened",
+        "chapters": [
+          "C07",
+          "C21",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "C08": [
@@ -4378,6 +4593,18 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 16:17-20",
+        "name": "By their smooth and flattering speech, they deceive the hearts of the innocent… wise in that which is good, but innocent in that which is evil",
+        "chapters": [
+          "C08",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "C09": [
@@ -5030,6 +5257,22 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 8:18-30",
+        "name": "For we don't know how to pray as we ought. But the Spirit himself makes intercession for us with groanings which can't be uttered",
+        "chapters": [
+          "C09",
+          "C19",
+          "C24"
+        ],
+        "practices": [
+          "PR04",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "C10": [
@@ -5912,6 +6155,42 @@
         ],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 11:11-24",
+        "name": "Don't boast over the branches… it is not you who support the root, but the root supports you. Don't be conceited, but fear",
+        "chapters": [
+          "C11",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 6:15-23",
+        "name": "To whom you present yourselves as servants to obedience, his servants you are… What fruit then did you have at that time?",
+        "chapters": [
+          "C11",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 8:1-17",
+        "name": "There is therefore now no condemnation… you received the Spirit of adoption, by whom we cry, Abba! Father!",
+        "chapters": [
+          "C11",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "C12": [
@@ -6482,6 +6761,35 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:9-13",
+        "name": "Let love be without hypocrisy… in honor preferring one another… contributing to the needs of the saints; given to hospitality",
+        "chapters": [
+          "C12",
+          "C13",
+          "C14"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 13:11-14",
+        "name": "The night is far gone, and the day is near… make no provision for the flesh, for its lusts",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "C13": [
@@ -7130,6 +7438,69 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 11:1-10",
+        "name": "I am left alone… I have reserved for myself seven thousand men, who have not bowed the knee to Baal",
+        "chapters": [
+          "C13",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:3-8",
+        "name": "Not to think of himself more highly than he ought to think; but to think reasonably… he who shows mercy, with cheerfulness",
+        "chapters": [
+          "C13",
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:9-13",
+        "name": "Let love be without hypocrisy… in honor preferring one another… contributing to the needs of the saints; given to hospitality",
+        "chapters": [
+          "C12",
+          "C13",
+          "C14"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 16:1-16",
+        "name": "Greet Mary, who labored much for us… Greet Persis, the beloved, who labored much in the Lord",
+        "chapters": [
+          "C13",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 1:8-15",
+        "name": "That I with you may be encouraged in you, each of us by the other's faith",
+        "chapters": [
+          "C13"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
       },
       {
         "book": "Ruth.Json",
@@ -7910,6 +8281,48 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:9-13",
+        "name": "Let love be without hypocrisy… in honor preferring one another… contributing to the needs of the saints; given to hospitality",
+        "chapters": [
+          "C12",
+          "C13",
+          "C14"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 15:1-13",
+        "name": "We who are strong ought to bear the weaknesses of the weak, and not to please ourselves. For even Christ didn't please himself",
+        "chapters": [
+          "C14",
+          "C15",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 15:22-33",
+        "name": "A certain contribution for the poor among the saints who are at Jerusalem… they owe it to them also to serve them in fleshly things",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       },
       {
         "book": "Ruth.Json",
@@ -9003,6 +9416,65 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:14-21",
+        "name": "Bless those who persecute you… Repay no one evil for evil… Don't seek revenge… If your enemy is hungry, feed him… overcome evil with good",
+        "chapters": [
+          "C03",
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR09",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 14:1-12",
+        "name": "Who are you who judge another's servant?… each one of us will give account of himself to God",
+        "chapters": [
+          "C03",
+          "C04",
+          "C15"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 14:13-23",
+        "name": "That no man put a stumbling block in his brother's way… let us follow after things which make for peace, and things by which we may build one another up",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 15:1-13",
+        "name": "We who are strong ought to bear the weaknesses of the weak, and not to please ourselves. For even Christ didn't please himself",
+        "chapters": [
+          "C14",
+          "C15",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "C16": [
@@ -10998,6 +11470,84 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Romans.Json",
+        "reference": "Romans 10:5-21",
+        "name": "The word is near you, in your mouth, and in your heart… How will they hear without a preacher?",
+        "chapters": [
+          "C16",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:3-8",
+        "name": "Not to think of himself more highly than he ought to think; but to think reasonably… he who shows mercy, with cheerfulness",
+        "chapters": [
+          "C13",
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 14:13-23",
+        "name": "That no man put a stumbling block in his brother's way… let us follow after things which make for peace, and things by which we may build one another up",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 15:1-13",
+        "name": "We who are strong ought to bear the weaknesses of the weak, and not to please ourselves. For even Christ didn't please himself",
+        "chapters": [
+          "C14",
+          "C15",
+          "C16"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 15:14-21",
+        "name": "I will not dare to speak of any things except those which Christ worked through me… that I might not build on another's foundation",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 15:22-33",
+        "name": "A certain contribution for the poor among the saints who are at Jerusalem… they owe it to them also to serve them in fleshly things",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
         "book": "Ruth.Json",
         "reference": "Ruth 1:6-14",
         "name": "Go, return each of you to her mother's house",
@@ -11854,6 +12404,19 @@
         ],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 13:1-7",
+        "name": "Let every soul be in subjection to the higher authorities… Give therefore to everyone what you owe",
+        "chapters": [
+          "C17"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       },
       {
         "book": "Ruth.Json",
@@ -15646,6 +16209,131 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Romans.Json",
+        "reference": "Romans 10:5-21",
+        "name": "The word is near you, in your mouth, and in your heart… How will they hear without a preacher?",
+        "chapters": [
+          "C16",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 11:25-32",
+        "name": "So that you won't be wise in your own conceits… For God has shut up all to disobedience, that he might have mercy on all",
+        "chapters": [
+          "C03",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 3:21-31",
+        "name": "All have sinned, and fall short of the glory of God; being justified freely by his grace… Where then is the boasting? It is excluded",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 4:1-25",
+        "name": "Who in hope believed against hope… he didn't consider his own body, already having been worn out",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 5:12-21",
+        "name": "Where sin abounded, grace abounded more exceedingly",
+        "chapters": [
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 8:1-17",
+        "name": "There is therefore now no condemnation… you received the Spirit of adoption, by whom we cry, Abba! Father!",
+        "chapters": [
+          "C11",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 8:18-30",
+        "name": "For we don't know how to pray as we ought. But the Spirit himself makes intercession for us with groanings which can't be uttered",
+        "chapters": [
+          "C09",
+          "C19",
+          "C24"
+        ],
+        "practices": [
+          "PR04",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 8:31-39",
+        "name": "Who shall separate us from the love of Christ?",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 9:30-10:4",
+        "name": "They have a zeal for God, but not according to knowledge… seeking to establish their own righteousness",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 9:6-29",
+        "name": "It is not of him who wills, nor of him who runs, but of God who has mercy… O man, who are you to reply against God?",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
         "book": "Ruth.Json",
         "reference": "Ruth 1:1-5",
         "name": "A famine, a sojourn, and three graves in Moab",
@@ -16512,6 +17200,44 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 13:11-14",
+        "name": "The night is far gone, and the day is near… make no provision for the flesh, for its lusts",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 16:17-20",
+        "name": "By their smooth and flattering speech, they deceive the hearts of the innocent… wise in that which is good, but innocent in that which is evil",
+        "chapters": [
+          "C08",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 6:1-14",
+        "name": "Don't let sin reign in your mortal body… present yourselves to God, as alive from the dead",
+        "chapters": [
+          "C20",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
       },
       {
         "book": "Song Of Solomon.Json",
@@ -17383,6 +18109,57 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 1:18-32",
+        "name": "Knowing God, they didn't glorify him as God, neither gave thanks, but became vain in their reasoning, and their senseless heart was darkened",
+        "chapters": [
+          "C07",
+          "C21",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 3:9-20",
+        "name": "There is no one righteous; no, not one… The way of peace, they haven't known",
+        "chapters": [
+          "C04",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 6:15-23",
+        "name": "To whom you present yourselves as servants to obedience, his servants you are… What fruit then did you have at that time?",
+        "chapters": [
+          "C11",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 7:7-25",
+        "name": "For I don't practice what I desire to do; but what I hate, that I do… What a wretched man I am!",
+        "chapters": [
+          "C21",
+          "C26"
+        ],
+        "practices": [
+          "PR02"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "C22": [
@@ -18417,6 +19194,95 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 11:11-24",
+        "name": "Don't boast over the branches… it is not you who support the root, but the root supports you. Don't be conceited, but fear",
+        "chapters": [
+          "C11",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 11:33-36",
+        "name": "Oh the depth of the riches both of the wisdom and the knowledge of God! How unsearchable are his judgments",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:3-8",
+        "name": "Not to think of himself more highly than he ought to think; but to think reasonably… he who shows mercy, with cheerfulness",
+        "chapters": [
+          "C13",
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 15:14-21",
+        "name": "I will not dare to speak of any things except those which Christ worked through me… that I might not build on another's foundation",
+        "chapters": [
+          "C16",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 3:21-31",
+        "name": "All have sinned, and fall short of the glory of God; being justified freely by his grace… Where then is the boasting? It is excluded",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 8:31-39",
+        "name": "Who shall separate us from the love of Christ?",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 9:6-29",
+        "name": "It is not of him who wills, nor of him who runs, but of God who has mercy… O man, who are you to reply against God?",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "C23": [
@@ -19131,6 +19997,30 @@
         ],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 11:1-10",
+        "name": "I am left alone… I have reserved for myself seven thousand men, who have not bowed the knee to Baal",
+        "chapters": [
+          "C13",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 16:1-16",
+        "name": "Greet Mary, who labored much for us… Greet Persis, the beloved, who labored much in the Lord",
+        "chapters": [
+          "C13",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "C24": [
@@ -20116,6 +21006,49 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Romans.Json",
+        "reference": "Romans 11:33-36",
+        "name": "Oh the depth of the riches both of the wisdom and the knowledge of God! How unsearchable are his judgments",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 1:18-32",
+        "name": "Knowing God, they didn't glorify him as God, neither gave thanks, but became vain in their reasoning, and their senseless heart was darkened",
+        "chapters": [
+          "C07",
+          "C21",
+          "C24"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 8:18-30",
+        "name": "For we don't know how to pray as we ought. But the Spirit himself makes intercession for us with groanings which can't be uttered",
+        "chapters": [
+          "C09",
+          "C19",
+          "C24"
+        ],
+        "practices": [
+          "PR04",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
         "book": "Song Of Solomon.Json",
         "reference": "Song of Solomon 2:8-13",
         "name": "The winter is past; arise and come away",
@@ -20949,6 +21882,32 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Romans.Json",
+        "reference": "Romans 4:1-25",
+        "name": "Who in hope believed against hope… he didn't consider his own body, already having been worn out",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 5:1-11",
+        "name": "Suffering works perseverance; and perseverance, proven character; and proven character, hope… while we were yet sinners, Christ died for us",
+        "chapters": [
+          "C03",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
         "book": "Song Of Solomon.Json",
         "reference": "Song of Solomon 2:7",
         "name": "Do not awaken love until it so desires",
@@ -21393,6 +22352,44 @@
         "practices": [],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:1-2",
+        "name": "Present your bodies a living sacrifice… be transformed by the renewing of your mind",
+        "chapters": [
+          "C07",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 6:1-14",
+        "name": "Don't let sin reign in your mortal body… present yourselves to God, as alive from the dead",
+        "chapters": [
+          "C20",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 7:7-25",
+        "name": "For I don't practice what I desire to do; but what I hate, that I do… What a wretched man I am!",
+        "chapters": [
+          "C21",
+          "C26"
+        ],
+        "practices": [
+          "PR02"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       },
       {
         "book": "Ruth.Json",
@@ -22529,6 +23526,37 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Romans.Json",
+        "reference": "Romans 12:14-21",
+        "name": "Bless those who persecute you… Repay no one evil for evil… Don't seek revenge… If your enemy is hungry, feed him… overcome evil with good",
+        "chapters": [
+          "C03",
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR09",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 9:1-5",
+        "name": "I have great sorrow and unceasing pain in my heart. For I could wish that I myself were accursed from Christ for my brothers' sake",
+        "chapters": [
+          "C03",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
         "book": "Ruth.Json",
         "reference": "Ruth 3:1-13",
         "name": "You have shown more kindness at the latter end than at the first",
@@ -23487,6 +24515,18 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Romans.Json",
+        "reference": "Romans 13:8-10",
+        "name": "Owe no one anything, except to love one another… Love doesn't harm a neighbor. Love therefore is the fulfillment of the law",
+        "chapters": [
+          "C03",
+          "C29"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
         "book": "Ruth.Json",
         "reference": "Ruth 4:13-22",
         "name": "Your daughter-in-law, who loves you, is better to you than seven sons",
@@ -23992,6 +25032,20 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Romans.Json",
+        "reference": "Romans 2:17-29",
+        "name": "You therefore who teach another, don't you teach yourself?… whose praise is not from men, but from God",
+        "chapters": [
+          "C04",
+          "C06"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
         "book": "Song Of Solomon.Json",
         "reference": "Song of Solomon 1:5-6",
         "name": "My own vineyard I have not kept",
@@ -24355,6 +25409,20 @@
         ],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 7:7-25",
+        "name": "For I don't practice what I desire to do; but what I hate, that I do… What a wretched man I am!",
+        "chapters": [
+          "C21",
+          "C26"
+        ],
+        "practices": [
+          "PR02"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "PR03": [
@@ -24579,6 +25647,35 @@
         ],
         "tags": [],
         "source_file": "matthew.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 14:1-12",
+        "name": "Who are you who judge another's servant?… each one of us will give account of himself to God",
+        "chapters": [
+          "C03",
+          "C04",
+          "C15"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 2:1-16",
+        "name": "In that which you judge another, you condemn yourself. For you who judge practice the same things",
+        "chapters": [
+          "C03",
+          "C04"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "PR04": [
@@ -25141,6 +26238,50 @@
         ],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 11:33-36",
+        "name": "Oh the depth of the riches both of the wisdom and the knowledge of God! How unsearchable are his judgments",
+        "chapters": [
+          "C22",
+          "C24"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 8:18-30",
+        "name": "For we don't know how to pray as we ought. But the Spirit himself makes intercession for us with groanings which can't be uttered",
+        "chapters": [
+          "C09",
+          "C19",
+          "C24"
+        ],
+        "practices": [
+          "PR04",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 9:6-29",
+        "name": "It is not of him who wills, nor of him who runs, but of God who has mercy… O man, who are you to reply against God?",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "PR05": [
@@ -25778,6 +26919,35 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Romans.Json",
+        "reference": "Romans 12:9-13",
+        "name": "Let love be without hypocrisy… in honor preferring one another… contributing to the needs of the saints; given to hospitality",
+        "chapters": [
+          "C12",
+          "C13",
+          "C14"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 15:22-33",
+        "name": "A certain contribution for the poor among the saints who are at Jerusalem… they owe it to them also to serve them in fleshly things",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
         "book": "Ruth.Json",
         "reference": "Ruth 2:17-23",
         "name": "She brought out and gave her what she had left after she was satisfied",
@@ -26104,6 +27274,23 @@
         ],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:14-21",
+        "name": "Bless those who persecute you… Repay no one evil for evil… Don't seek revenge… If your enemy is hungry, feed him… overcome evil with good",
+        "chapters": [
+          "C03",
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR09",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "PR07": [
@@ -27269,6 +28456,22 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Romans.Json",
+        "reference": "Romans 8:18-30",
+        "name": "For we don't know how to pray as we ought. But the Spirit himself makes intercession for us with groanings which can't be uttered",
+        "chapters": [
+          "C09",
+          "C19",
+          "C24"
+        ],
+        "practices": [
+          "PR04",
+          "PR08"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
         "book": "Ruth.Json",
         "reference": "Ruth 1:19-22",
         "name": "Call me Mara, for the Almighty has dealt bitterly with me",
@@ -27562,6 +28765,37 @@
         ],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:14-21",
+        "name": "Bless those who persecute you… Repay no one evil for evil… Don't seek revenge… If your enemy is hungry, feed him… overcome evil with good",
+        "chapters": [
+          "C03",
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR09",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 14:13-23",
+        "name": "That no man put a stumbling block in his brother's way… let us follow after things which make for peace, and things by which we may build one another up",
+        "chapters": [
+          "C15",
+          "C16"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "PR10": [
@@ -27753,6 +28987,19 @@
         ],
         "tags": [],
         "source_file": "matthew.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 13:1-7",
+        "name": "Let every soul be in subjection to the higher authorities… Give therefore to everyone what you owe",
+        "chapters": [
+          "C17"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "PR11": [
@@ -28669,6 +29916,20 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Romans.Json",
+        "reference": "Romans 13:11-14",
+        "name": "The night is far gone, and the day is near… make no provision for the flesh, for its lusts",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [
+          "PR12"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
         "book": "Song Of Solomon.Json",
         "reference": "Song of Solomon 5:2-8",
         "name": "I was asleep, but my heart was awake",
@@ -29412,6 +30673,20 @@
         "source_file": "psalms.json"
       },
       {
+        "book": "Romans.Json",
+        "reference": "Romans 5:1-11",
+        "name": "Suffering works perseverance; and perseverance, proven character; and proven character, hope… while we were yet sinners, Christ died for us",
+        "chapters": [
+          "C03",
+          "C25"
+        ],
+        "practices": [
+          "PR14"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
         "book": "Song Of Solomon.Json",
         "reference": "Song of Solomon 2:7",
         "name": "Do not awaken love until it so desires",
@@ -29749,6 +31024,37 @@
         ],
         "tags": [],
         "source_file": "psalms.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 12:14-21",
+        "name": "Bless those who persecute you… Repay no one evil for evil… Don't seek revenge… If your enemy is hungry, feed him… overcome evil with good",
+        "chapters": [
+          "C03",
+          "C15",
+          "C27"
+        ],
+        "practices": [
+          "PR06",
+          "PR09",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
+      },
+      {
+        "book": "Romans.Json",
+        "reference": "Romans 9:1-5",
+        "name": "I have great sorrow and unceasing pain in my heart. For I could wish that I myself were accursed from Christ for my brothers' sake",
+        "chapters": [
+          "C03",
+          "C27"
+        ],
+        "practices": [
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "romans.json"
       }
     ],
     "PR16": [

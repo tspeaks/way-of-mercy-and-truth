@@ -1,6 +1,6 @@
 # Acts — review package
 
-Scripture: World English Bible (public domain). Index status: in progress — chapters 1-20 indexed (13-20 selectively); 21-28 pending. Method version 2.3.
+Scripture: World English Bible (public domain). Index status: complete — selective in the travel narrative and the trials; see coverage_note; awaiting second-pass review. Method version 2.3.
 
 Every entry below shows the passage in full, then the claim made about it. Read the passage before the claim. The question is not whether the tags are internally consistent — it is whether they survive contact with the text.
 
@@ -8,7 +8,7 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 
 **Prediction note.** The indexing order named Acts 2:44-47 and 4:32-37 'the strongest candidate for PR28, the Heavenly Palace.' Both are tagged, at high confidence, as exemplifies: a community converting property into provision for whoever lacks is the practice's positive form at the scale the practice names. A third positive anchor appears at 11:27-30, where the Gentile church at Antioch sends its surplus to Judea before the famine arrives. Before today PR28 had no anchor at all; it now has these three, a positive prophetic anchor at Isaiah 23:15-18, and three counter-examples.
 
-**Coverage note.** Chapters 13-20 are indexed selectively, as a travel narrative: left out are the commissioning at Antioch and the encounter with Elymas (13:1-12), the synagogue sermon at Pisidian Antioch (13:13-41), Timothy's circumcision and the closed doors to Asia and Bithynia (16:1-10), Paul's break with the synagogue at Corinth and Gallio's tribunal (18:12-23), the disciples of John at Ephesus (19:1-7), Paul's plan for Jerusalem and Rome (19:21-22), and the journey through Macedonia and the night at Troas with Eutychus (20:1-16).
+**Coverage note.** Chapters 13-20 are indexed selectively, as a travel narrative: left out are the commissioning at Antioch and the encounter with Elymas (13:1-12), the synagogue sermon at Pisidian Antioch (13:13-41), Timothy's circumcision and the closed doors to Asia and Bithynia (16:1-10), Paul's break with the synagogue at Corinth and Gallio's tribunal (18:12-23), the disciples of John at Ephesus (19:1-7), Paul's plan for Jerusalem and Rome (19:21-22), and the journey through Macedonia and the night at Troas with Eutychus (20:1-16). Chapters 21-28, unindexed: the plot of the forty men and the transfer to Caesarea (23:12-35), Tertullus's accusation (24:1-9), Festus and the appeal to Caesar (25), and the opening and closing summaries of chapter 28 not covered by its entries.
 
 **Sectioning note.** As with Jeremiah, the status field names what is done.
 
@@ -1051,6 +1051,319 @@ Every entry below shows the passage in full, then the claim made about it. Read 
 **Claim.** Paul's farewell to the Ephesian elders is the only speech in Acts addressed to believers, and it is an account of a way of life: 'serving the Lord with all humility, with many tears'; 'nor do I hold my life dear to myself, so that I may finish my race with joy' (C18); 'Take heed… to all the flock… to shepherd the assembly' and 'therefore watch' (C16's authority and C20's guard). Then the economic testimony: 'I coveted no one's silver, or gold, or clothing. You yourselves know that these hands served my necessities, and those who were with me. In all things I gave you an example, that so laboring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, It is more blessed to give than to receive.' Work done with one's hands in order to give, which is Habitual Almsgiving built into the shape of labour, and the Sacrament of the Ordinary as its setting. They weep and fall on his neck.
 
 **Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility, truth · stages: S4 · chapters: C16, C18 · practices: PR05, PR23 · confidence: high
+
+---
+
+## 45. Acts 21:1-16 — Kneeling down on the beach, we prayed… The Lord's will be done
+
+> **21:1** When it happened that we had parted from them and had set sail, we came with a straight course to Cos, and the next day to Rhodes, and from there to Patara.
+> **21:2** Having found a ship crossing over to Phoenicia, we went aboard, and set sail.
+> **21:3** When we had come in sight of Cyprus, leaving it on the left hand, we sailed to Syria, and landed at Tyre, for there the ship was to unload her cargo.
+> **21:4** Having found disciples, we stayed there seven days. These said to Paul through the Spirit, that he should not go up to Jerusalem.
+> **21:5** When it happened that we had accomplished the days, we departed and went on our journey. They all, with wives and children, brought us on our way until we were out of the city. Kneeling down on the beach, we prayed.
+> **21:6** After saying goodbye to each other, we went on board the ship, and they returned home again.
+> **21:7** When we had finished the voyage from Tyre, we arrived at Ptolemais. We greeted the brothers, and stayed with them one day.
+> **21:8** On the next day, we, who were Paul’s companions, departed, and came to Caesarea. We entered into the house of Philip the evangelist, who was one of the seven, and stayed with him.
+> **21:9** Now this man had four virgin daughters who prophesied.
+> **21:10** As we stayed there some days, a certain prophet named Agabus came down from Judea.
+> **21:11** Coming to us, and taking Paul’s belt, he bound his own feet and hands, and said, “Thus says the Holy Spirit: ‘So will the Jews at Jerusalem bind the man who owns this belt, and will deliver him into the hands of the Gentiles.’”
+> **21:12** When we heard these things, both we and they of that place begged him not to go up to Jerusalem.
+> **21:13** Then Paul answered, “What are you doing, weeping and breaking my heart? For I am ready not only to be bound, but also to die at Jerusalem for the name of the Lord Jesus.”
+> **21:14** When he would not be persuaded, we ceased, saying, “The Lord’s will be done.”
+> **21:15** After these days we took up our baggage and went up to Jerusalem.
+> **21:16** Some of the disciples from Caesarea also went with us, bringing one Mnason of Cyprus, an early disciple, with whom we would stay.
+
+**Claim.** At Tyre the whole church — 'with wives and children' — walks the travellers out of the city and kneels with them on the beach to pray. At Caesarea a prophet binds his own hands with Paul's belt to show what awaits him, and everyone begs him not to go. 'What are you doing, weeping and breaking my heart? For I am ready not only to be bound, but also to die.' 'When he would not be persuaded, we ceased, saying, The Lord's will be done.' C18's open hand held by a whole household of faith, and C14's families present at the parting.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S4 · chapters: C18, C14 · practices: none · confidence: medium
+
+---
+
+## 46. Acts 21:17-26 — Purify yourself with them, and pay their expenses for them
+
+> **21:17** When we had come to Jerusalem, the brothers received us gladly.
+> **21:18** The day following, Paul went in with us to James; and all the elders were present.
+> **21:19** When he had greeted them, he reported one by one the things which God had worked among the Gentiles through his ministry.
+> **21:20** They, when they heard it, glorified God. They said to him, “You see, brother, how many thousands there are among the Jews of those who have believed, and they are all zealous for the law.
+> **21:21** They have been informed about you, that you teach all the Jews who are among the Gentiles to forsake Moses, telling them not to circumcise their children neither to walk after the customs.
+> **21:22** What then? The assembly must certainly meet, for they will hear that you have come.
+> **21:23** Therefore do what we tell you. We have four men who have taken a vow.
+> **21:24** Take them, and purify yourself with them, and pay their expenses for them, that they may shave their heads. Then all will know that there is no truth in the things that they have been informed about you, but that you yourself also walk keeping the law.
+> **21:25** But concerning the Gentiles who believe, we have written our decision that they should observe no such thing, except that they should keep themselves from food offered to idols, from blood, from strangled things, and from sexual immorality.”
+> **21:26** Then Paul took the men, and the next day, purified himself and went with them into the temple, declaring the fulfillment of the days of purification, until the offering was offered for every one of them.
+
+**Claim.** In Jerusalem the elders tell Paul that thousands of Jewish believers have heard he teaches Jews to abandon Moses. They ask him to join four men in a vow, pay their expenses, and be seen in the temple, 'that all will know that there is no truth in the things that they have been informed about you.' He does it the next day. A concession made early and publicly for the sake of a divided community — the Architecture of Peace at personal cost, by a man who had written that he became 'to the Jews… as a Jew.' Medium: the gesture fails, and the riot follows from it.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: humility, mercy · stages: S4 · chapters: C15, C16 · practices: PR09 · confidence: medium
+
+---
+
+## 47. Acts 21:27-22:29 — I persecuted this Way to the death… When the blood of Stephen, your witness, was shed, I also was standing by
+
+> **21:27** When the seven days were almost completed, the Jews from Asia, when they saw him in the temple, stirred up all the multitude and laid hands on him,
+> **21:28** crying out, “Men of Israel, help! This is the man who teaches all men everywhere against the people, and the law, and this place. Moreover, he also brought Greeks into the temple, and has defiled this holy place!”
+> **21:29** For they had seen Trophimus, the Ephesian, with him in the city, and they supposed that Paul had brought him into the temple.
+> **21:30** All the city was moved, and the people ran together. They seized Paul and dragged him out of the temple. Immediately the doors were shut.
+> **21:31** As they were trying to kill him, news came up to the commanding officer of the regiment that all Jerusalem was in an uproar.
+> **21:32** Immediately he took soldiers and centurions, and ran down to them. They, when they saw the chief captain and the soldiers, stopped beating Paul.
+> **21:33** Then the commanding officer came near, arrested him, commanded him to be bound with two chains, and inquired who he was and what he had done.
+> **21:34** Some shouted one thing, and some another, among the crowd. When he couldn’t find out the truth because of the noise, he commanded him to be brought into the barracks.
+> **21:35** When he came to the stairs, it happened that he was carried by the soldiers because of the violence of the crowd;
+> **21:36** for the multitude of the people followed after, crying out, “Away with him!”
+> **21:37** As Paul was about to be brought into the barracks, he asked the commanding officer, “May I speak to you?” He said, “Do you know Greek?
+> **21:38** Aren’t you then the Egyptian, who before these days stirred up to sedition and led out into the wilderness the four thousand men of the Assassins?”
+> **21:39** But Paul said, “I am a Jew, from Tarsus in Cilicia, a citizen of no insignificant city. I beg you, allow me to speak to the people.”
+> **21:40** When he had given him permission, Paul, standing on the stairs, beckoned with his hand to the people. When there was a great silence, he spoke to them in the Hebrew language, saying,
+> **22:1** “Brothers and fathers, listen to the defense which I now make to you.”
+> **22:2** When they heard that he spoke to them in the Hebrew language, they were even more quiet. He said,
+> **22:3** “I am indeed a Jew, born in Tarsus of Cilicia, but brought up in this city at the feet of Gamaliel, instructed according to the strict tradition of the law of our fathers, being zealous for God, even as you all are this day.
+> **22:4** I persecuted this Way to the death, binding and delivering into prisons both men and women.
+> **22:5** As also the high priest and all the council of the elders testify, from whom also I received letters to the brothers, and traveled to Damascus to bring them also who were there to Jerusalem in bonds to be punished.
+> **22:6** It happened that, as I made my journey, and came close to Damascus, about noon, suddenly there shone from the sky a great light around me.
+> **22:7** I fell to the ground, and heard a voice saying to me, ‘Saul, Saul, why are you persecuting me?’
+> **22:8** I answered, ‘Who are you, Lord?’ He said to me, ‘I am Jesus of Nazareth, whom you persecute.’
+> **22:9** “Those who were with me indeed saw the light and were afraid, but they didn’t understand the voice of him who spoke to me.
+> **22:10** I said, ‘What shall I do, Lord?’ The Lord said to me, ‘Arise, and go into Damascus. There you will be told about all things which are appointed for you to do.’
+> **22:11** When I couldn’t see for the glory of that light, being led by the hand of those who were with me, I came into Damascus.
+> **22:12** One Ananias, a devout man according to the law, well reported of by all the Jews who lived in Damascus,
+> **22:13** came to me, and standing by me said to me, ‘Brother Saul, receive your sight!’ In that very hour I looked up at him.
+> **22:14** He said, ‘The God of our fathers has appointed you to know his will, and to see the Righteous One, and to hear a voice from his mouth.
+> **22:15** For you will be a witness for him to all men of what you have seen and heard.
+> **22:16** Now why do you wait? Arise, be baptized, and wash away your sins, calling on the name of the Lord.’
+> **22:17** “It happened that, when I had returned to Jerusalem, and while I prayed in the temple, I fell into a trance,
+> **22:18** and saw him saying to me, ‘Hurry and get out of Jerusalem quickly, because they will not receive testimony concerning me from you.’
+> **22:19** I said, ‘Lord, they themselves know that I imprisoned and beat in every synagogue those who believed in you.
+> **22:20** When the blood of Stephen, your witness, was shed, I also was standing by, and consenting to his death, and guarding the cloaks of those who killed him.’
+> **22:21** “He said to me, ‘Depart, for I will send you out far from here to the Gentiles.’”
+> **22:22** They listened to him until he said that; then they lifted up their voice, and said, “Rid the earth of this fellow, for he isn’t fit to live!”
+> **22:23** As they cried out, and threw off their cloaks, and threw dust into the air,
+> **22:24** the commanding officer commanded him to be brought into the barracks, ordering him to be examined by scourging, that he might know for what crime they shouted against him like that.
+> **22:25** When they had tied him up with thongs, Paul asked the centurion who stood by, “Is it lawful for you to scourge a man who is a Roman, and not found guilty?”
+> **22:26** When the centurion heard it, he went to the commanding officer and told him, “Watch what you are about to do, for this man is a Roman!”
+> **22:27** The commanding officer came and asked him, “Tell me, are you a Roman?” He said, “Yes.”
+> **22:28** The commanding officer answered, “I bought my citizenship for a great price.” Paul said, “But I was born a Roman.”
+> **22:29** Immediately those who were about to examine him departed from him, and the commanding officer also was afraid when he realized that he was a Roman, because he had bound him.
+
+**Claim.** Seized in the temple, beaten, and carried up the barracks stairs, Paul asks to address the crowd, and in his defence he tells the worst thing about himself first: 'I persecuted this Way to the death, binding and delivering into prisons both men and women.' And to the Lord, of Stephen: 'I also was standing by, and consenting to his death, and guarding the cloaks of those who killed him.' C04's audit spoken aloud before a hostile audience, without excuse, and C19's door named by the one who walked through it. The account of Ananias's 'Brother Saul' is repeated.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S1, S5 · chapters: C04, C19 · practices: none · confidence: medium
+
+---
+
+## 48. Acts 23:1-11 — God will strike you, you whitewashed wall!… I didn't know, brothers, that he was high priest
+
+> **23:1** Paul, looking steadfastly at the council, said, “Brothers, I have lived before God in all good conscience until this day.”
+> **23:2** The high priest, Ananias, commanded those who stood by him to strike him on the mouth.
+> **23:3** Then Paul said to him, “God will strike you, you whitewashed wall! Do you sit to judge me according to the law, and command me to be struck contrary to the law?”
+> **23:4** Those who stood by said, “Do you malign God’s high priest?”
+> **23:5** Paul said, “I didn’t know, brothers, that he was high priest. For it is written, ‘You shall not speak evil of a ruler of your people.’”
+> **23:6** But when Paul perceived that the one part were Sadducees and the other Pharisees, he cried out in the council, “Men and brothers, I am a Pharisee, a son of Pharisees. Concerning the hope and resurrection of the dead I am being judged!”
+> **23:7** When he had said this, an argument arose between the Pharisees and Sadducees, and the assembly was divided.
+> **23:8** For the Sadducees say that there is no resurrection, nor angel, nor spirit; but the Pharisees confess all of these.
+> **23:9** A great clamor arose, and some of the scribes of the Pharisees part stood up, and contended, saying, “We find no evil in this man. But if a spirit or angel has spoken to him, let’s not fight against God!”
+> **23:10** When a great argument arose, the commanding officer, fearing that Paul would be torn in pieces by them, commanded the soldiers to go down and take him by force from among them, and bring him into the barracks.
+> **23:11** The following night, the Lord stood by him, and said, “Cheer up, Paul, for as you have testified about me at Jerusalem, so you must testify also at Rome.”
+
+**Claim.** Struck on the mouth at the high priest's command, Paul retorts: 'God will strike you, you whitewashed wall!' Told whom he has insulted, he corrects himself at once and in public: 'I didn't know, brothers, that he was high priest. For it is written, You shall not speak evil of a ruler of your people.' The Failure Recovery Protocol asks for exactly this — the failure named plainly at the next available moment, without self-justification, and the same law that was broken quoted against oneself. The retort itself is Non-Retaliation's absence, recorded honestly in the apostle; the index anchors the recovery. 'The following night, the Lord stood by him, and said, Cheer up, Paul' — C22's quiet restored after the outburst.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, humility · stages: S5 · chapters: C19, C22 · practices: PR11 · confidence: high
+
+---
+
+## 49. Acts 24:10-21 — Herein I also practice always having a conscience void of offense toward God and men… I came to bring gifts for the needy to my nation
+
+> **24:10** When the governor had beckoned to him to speak, Paul answered, “Because I know that you have been a judge of this nation for many years, I cheerfully make my defense,
+> **24:11** seeing that you can recognize that it is not more than twelve days since I went up to worship at Jerusalem.
+> **24:12** In the temple they didn’t find me disputing with anyone or stirring up a crowd, either in the synagogues, or in the city.
+> **24:13** Nor can they prove to you the things of which they now accuse me.
+> **24:14** But this I confess to you, that after the Way, which they call a sect, so I serve the God of our fathers, believing all things which are according to the law, and which are written in the prophets;
+> **24:15** having hope toward God, which these also themselves look for, that there will be a resurrection of the dead, both of the just and unjust.
+> **24:16** Herein I also practice always having a conscience void of offense toward God and men.
+> **24:17** Now after some years, I came to bring gifts for the needy to my nation, and offerings;
+> **24:18** amid which certain Jews from Asia found me purified in the temple, not with a mob, nor with turmoil.
+> **24:19** They ought to have been here before you, and to make accusation, if they had anything against me.
+> **24:20** Or else let these men themselves say what injustice they found in me when I stood before the council,
+> **24:21** unless it is for this one thing that I cried standing among them, ‘Concerning the resurrection of the dead I am being judged before you today!’”
+
+**Claim.** Before the governor Felix, Paul describes his inner discipline in one sentence: 'Herein I also practice always having a conscience void of offense toward God and men.' The verb is the athlete's — exercise, train — and the object is a conscience kept clear in both directions. The Moral Audit in its habitual form, practised rather than occasional. And the reason he was in Jerusalem at all: 'I came to bring gifts for the needy to my nation' — the collection from the Gentile churches that 2 Corinthians 8-9 describes, delivered at the cost of his freedom. Habitual Almsgiving carried across the empire. C12's proof.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S1, S3 · chapters: C04, C12 · practices: PR01, PR05 · confidence: high
+
+---
+
+## 50. Acts 24:22-27 — When it is convenient for me, I will summon you… he also hoped that money would be given to him
+
+> **24:22** But Felix, having more exact knowledge concerning the Way, deferred them, saying, “When Lysias, the commanding officer, comes down, I will decide your case.”
+> **24:23** He ordered the centurion that Paul should be kept in custody, and should have some privileges, and not to forbid any of his friends to serve him or to visit him.
+> **24:24** But after some days, Felix came with Drusilla, his wife, who was a Jewess, and sent for Paul, and heard him concerning the faith in Christ Jesus.
+> **24:25** As he reasoned about righteousness, self-control, and the judgment to come, Felix was terrified, and answered, “Go your way for this time, and when it is convenient for me, I will summon you.”
+> **24:26** Meanwhile, he also hoped that money would be given to him by Paul, that he might release him. Therefore also he sent for him more often, and talked with him.
+> **24:27** But when two years were fulfilled, Felix was succeeded by Porcius Festus, and desiring to gain favor with the Jews, Felix left Paul in bonds.
+
+**Claim.** Felix, who knows the Way well, sends for Paul and hears him reason 'about righteousness, self-control, and the judgment to come.' He is terrified — and postpones: 'Go your way for this time, and when it is convenient for me, I will summon you.' The Failure Recovery Protocol says return the same day: not tomorrow, not after a suitable interval. This is the convenient interval, extended to two years, while he keeps sending for the prisoner in hope of a bribe and finally leaves him in chains 'desiring to gain favor with the Jews.' Conviction felt and deferred; C19's door seen and not entered, and C16's authority used for gain.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S4, S5 · chapters: C19, C16 · practices: PR11 · confidence: medium
+
+---
+
+## 51. Acts 26:1-32 — I pray to God, that… all that hear me this day might become such as I am, except for these bonds
+
+> **26:1** Agrippa said to Paul, “You may speak for yourself.” Then Paul stretched out his hand, and made his defense.
+> **26:2** “I think myself happy, King Agrippa, that I am to make my defense before you this day concerning all the things that I am accused by the Jews,
+> **26:3** especially because you are expert in all customs and questions which are among the Jews. Therefore I beg you to hear me patiently.
+> **26:4** “Indeed, all the Jews know my way of life from my youth up, which was from the beginning among my own nation and at Jerusalem;
+> **26:5** having known me from the first, if they are willing to testify, that after the strictest sect of our religion I lived a Pharisee.
+> **26:6** Now I stand here to be judged for the hope of the promise made by God to our fathers,
+> **26:7** which our twelve tribes, earnestly serving night and day, hope to attain. Concerning this hope I am accused by the Jews, King Agrippa!
+> **26:8** Why is it judged incredible with you, if God does raise the dead?
+> **26:9** “I myself most certainly thought that I ought to do many things contrary to the name of Jesus of Nazareth.
+> **26:10** This I also did in Jerusalem. I both shut up many of the saints in prisons, having received authority from the chief priests, and when they were put to death I gave my vote against them.
+> **26:11** Punishing them often in all the synagogues, I tried to make them blaspheme. Being exceedingly enraged against them, I persecuted them even to foreign cities.
+> **26:12** “Whereupon as I traveled to Damascus with the authority and commission from the chief priests,
+> **26:13** at noon, O king, I saw on the way a light from the sky, brighter than the sun, shining around me and those who traveled with me.
+> **26:14** When we had all fallen to the earth, I heard a voice saying to me in the Hebrew language, ‘Saul, Saul, why are you persecuting me? It is hard for you to kick against the goads.’
+> **26:15** “I said, ‘Who are you, Lord?’ “He said, ‘I am Jesus, whom you are persecuting.
+> **26:16** But arise, and stand on your feet, for I have appeared to you for this purpose: to appoint you a servant and a witness both of the things which you have seen, and of the things which I will reveal to you;
+> **26:17** delivering you from the people, and from the Gentiles, to whom I send you,
+> **26:18** to open their eyes, that they may turn from darkness to light and from the power of Satan to God, that they may receive remission of sins and an inheritance among those who are sanctified by faith in me.’
+> **26:19** “Therefore, King Agrippa, I was not disobedient to the heavenly vision,
+> **26:20** but declared first to them of Damascus, at Jerusalem, and throughout all the country of Judea, and also to the Gentiles, that they should repent and turn to God, doing works worthy of repentance.
+> **26:21** For this reason the Jews seized me in the temple, and tried to kill me.
+> **26:22** Having therefore obtained the help that is from God, I stand to this day testifying both to small and great, saying nothing but what the prophets and Moses said would happen,
+> **26:23** how the Christ must suffer, and how, by the resurrection of the dead, he would be first to proclaim light both to these people and to the Gentiles.”
+> **26:24** As he thus made his defense, Festus said with a loud voice, “Paul, you are crazy! Your great learning is driving you insane!”
+> **26:25** But he said, “I am not crazy, most excellent Festus, but boldly declare words of truth and reasonableness.
+> **26:26** For the king knows of these things, to whom also I speak freely. For I am persuaded that none of these things is hidden from him, for this has not been done in a corner.
+> **26:27** King Agrippa, do you believe the prophets? I know that you believe.”
+> **26:28** Agrippa said to Paul, “With a little persuasion are you trying to make me a Christian?”
+> **26:29** Paul said, “I pray to God, that whether with little or with much, not only you, but also all that hear me this day, might become such as I am, except for these bonds.”
+> **26:30** The king rose up with the governor, and Bernice, and those who sat with them.
+> **26:31** When they had withdrawn, they spoke one to another, saying, “This man does nothing worthy of death or of bonds.”
+> **26:32** Agrippa said to Festus, “This man might have been set free if he had not appealed to Caesar.”
+
+**Claim.** Before King Agrippa, Paul again names his past without softening — 'Being exceedingly enraged against them, I persecuted them even to foreign cities' — and the voice that stopped him: 'It is hard for you to kick against the goads.' His commission is C06's: 'to open their eyes, that they may turn from darkness to light,' and his preaching is C12's: 'doing works worthy of repentance.' Called mad by the governor, he answers courteously. And when the king deflects — 'With a little persuasion are you trying to make me a Christian?' — Paul's reply is a prayer for the good of every judge in the room: 'I pray to God, that whether with little or with much, not only you, but also all that hear me this day, might become such as I am, except for these bonds.' He wishes them his freedom and spares them his chains. Shedding Harshness at its most courteous, toward those who hold him captive (medium: the prayer is evangelistic, and the practice is broader).
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, truth · stages: S2, S3, S7 · chapters: C06, C12, C27 · practices: PR15 · confidence: high
+
+---
+
+## 52. Acts 27:1-44 — I beg you to take some food… he gave thanks to God in the presence of all, and he broke it… Then they all cheered up
+
+> **27:1** When it was determined that we should sail for Italy, they delivered Paul and certain other prisoners to a centurion named Julius, of the Augustan band.
+> **27:2** Embarking in a ship of Adramyttium, which was about to sail to places on the coast of Asia, we put to sea; Aristarchus, a Macedonian of Thessalonica, being with us.
+> **27:3** The next day, we touched at Sidon. Julius treated Paul kindly, and gave him permission to go to his friends and refresh himself.
+> **27:4** Putting to sea from there, we sailed under the lee of Cyprus, because the winds were contrary.
+> **27:5** When we had sailed across the sea which is off Cilicia and Pamphylia, we came to Myra, a city of Lycia.
+> **27:6** There the centurion found a ship of Alexandria sailing for Italy, and he put us on board.
+> **27:7** When we had sailed slowly many days, and had come with difficulty opposite Cnidus, the wind not allowing us further, we sailed under the lee of Crete, opposite Salmone.
+> **27:8** With difficulty sailing along it we came to a certain place called Fair Havens, near the city of Lasea.
+> **27:9** When much time had passed and the voyage was now dangerous, because the Fast had now already gone by, Paul admonished them,
+> **27:10** and said to them, “Sirs, I perceive that the voyage will be with injury and much loss, not only of the cargo and the ship, but also of our lives.”
+> **27:11** But the centurion gave more heed to the master and to the owner of the ship than to those things which were spoken by Paul.
+> **27:12** Because the haven was not suitable to winter in, the majority advised going to sea from there, if by any means they could reach Phoenix, and winter there, which is a port of Crete, looking northeast and southeast.
+> **27:13** When the south wind blew softly, supposing that they had obtained their purpose, they weighed anchor and sailed along Crete, close to shore.
+> **27:14** But before long, a stormy wind beat down from shore, which is called Euroclydon.
+> **27:15** When the ship was caught, and couldn’t face the wind, we gave way to it, and were driven along.
+> **27:16** Running under the lee of a small island called Clauda, we were able, with difficulty, to secure the boat.
+> **27:17** After they had hoisted it up, they used cables to help reinforce the ship. Fearing that they would run aground on the Syrtis sand bars, they lowered the sea anchor, and so were driven along.
+> **27:18** As we labored exceedingly with the storm, the next day they began to throw things overboard.
+> **27:19** On the third day, they threw out the ship’s tackle with their own hands.
+> **27:20** When neither sun nor stars shone on us for many days, and no small storm pressed on us, all hope that we would be saved was now taken away.
+> **27:21** When they had been long without food, Paul stood up in the middle of them, and said, “Sirs, you should have listened to me, and not have set sail from Crete, and have gotten this injury and loss.
+> **27:22** Now I exhort you to cheer up, for there will be no loss of life among you, but only of the ship.
+> **27:23** For there stood by me this night an angel, belonging to the God whose I am and whom I serve,
+> **27:24** saying, ‘Don’t be afraid, Paul. You must stand before Caesar. Behold, God has granted you all those who sail with you.’
+> **27:25** Therefore, sirs, cheer up! For I believe God, that it will be just as it has been spoken to me.
+> **27:26** But we must run aground on a certain island.”
+> **27:27** But when the fourteenth night had come, as we were driven back and forth in the Adriatic Sea, about midnight the sailors surmised that they were drawing near to some land.
+> **27:28** They took soundings, and found twenty fathoms. After a little while, they took soundings again, and found fifteen fathoms.
+> **27:29** Fearing that we would run aground on rocky ground, they let go four anchors from the stern, and wished for daylight.
+> **27:30** As the sailors were trying to flee out of the ship, and had lowered the boat into the sea, pretending that they would lay out anchors from the bow,
+> **27:31** Paul said to the centurion and to the soldiers, “Unless these stay in the ship, you can’t be saved.”
+> **27:32** Then the soldiers cut away the ropes of the boat, and let it fall off.
+> **27:33** While the day was coming on, Paul begged them all to take some food, saying, “This day is the fourteenth day that you wait and continue fasting, having taken nothing.
+> **27:34** Therefore I beg you to take some food, for this is for your safety; for not a hair will perish from any of your heads.”
+> **27:35** When he had said this, and had taken bread, he gave thanks to God in the presence of all, and he broke it, and began to eat.
+> **27:36** Then they all cheered up, and they also took food.
+> **27:37** In all, we were two hundred seventy-six souls on the ship.
+> **27:38** When they had eaten enough, they lightened the ship, throwing out the wheat into the sea.
+> **27:39** When it was day, they didn’t recognize the land, but they noticed a certain bay with a beach, and they decided to try to drive the ship onto it.
+> **27:40** Casting off the anchors, they left them in the sea, at the same time untying the rudder ropes. Hoisting up the foresail to the wind, they made for the beach.
+> **27:41** But coming to a place where two seas met, they ran the vessel aground. The bow struck and remained immovable, but the stern began to break up by the violence of the waves.
+> **27:42** The soldiers’ counsel was to kill the prisoners, so that none of them would swim out and escape.
+> **27:43** But the centurion, desiring to save Paul, stopped them from their purpose, and commanded that those who could swim should throw themselves overboard first to go toward the land;
+> **27:44** and the rest should follow, some on planks, and some on other things from the ship. So it happened that they all escaped safely to the land.
+
+**Claim.** Fourteen days in a storm, no sun or stars, 'all hope that we would be saved was now taken away.' A prisoner with nothing — no rank, no money, his advice already ignored once — stands up among two hundred seventy-six despairing men and speaks: 'Now I exhort you to cheer up, for there will be no loss of life among you.' At dawn he begs them to eat, 'and when he had said this, and had taken bread, he gave thanks to God in the presence of all, and he broke it, and began to eat. Then they all cheered up.' Verbal Almsgiving is the alms of those without material means: seeking out the discouraged and giving them a good word as a genuine act of charity. This is that alms given by the poorest man on the ship to the whole ship. C22's quiet in a storm, and C28's ordinary act — bread, thanks, eating — as the turning point of the night.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy, humility · stages: S5, S7 · chapters: C22, C28 · practices: PR21 · confidence: high
+
+---
+
+## 53. Acts 28:1-2 — The natives showed us uncommon kindness; for they kindled a fire, and received us all
+
+> **28:1** When we had escaped, then they learned that the island was called Malta.
+> **28:2** The natives showed us uncommon kindness; for they kindled a fire, and received us all, because of the present rain, and because of the cold.
+
+**Claim.** Shipwrecked on an island, two hundred seventy-six strangers, prisoners among them, are met by people who owe them nothing: 'The natives showed us uncommon kindness; for they kindled a fire, and received us all, because of the present rain, and because of the cold.' C27's mercy practised by outsiders to outsiders, and C16's care for the stranger in its simplest form — a fire in the rain.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4, S7 · chapters: C27, C16 · practices: none · confidence: medium
+
+---
+
+## 54. Acts 28:3-6 — No doubt this man is a murderer, whom… Justice has not allowed to live
+
+> **28:3** But when Paul had gathered a bundle of sticks and laid them on the fire, a viper came out because of the heat, and fastened on his hand.
+> **28:4** When the natives saw the creature hanging from his hand, they said one to another, “No doubt this man is a murderer, whom, though he has escaped from the sea, yet Justice has not allowed to live.”
+> **28:5** However he shook off the creature into the fire, and wasn’t harmed.
+> **28:6** But they expected that he would have swollen or fallen down dead suddenly, but when they watched for a long time and saw nothing bad happen to him, they changed their minds, and said that he was a god.
+
+**Claim.** A viper fastens on Paul's hand, and the islanders read it at once: 'No doubt this man is a murderer, whom, though he has escaped from the sea, yet Justice has not allowed to live.' When nothing happens, they swing to the opposite error and call him a god. The same misdiagnosis Job's friends made, in a single verse: suffering read as proof of guilt in someone else. Interior Diagnosis traces failure to its root in oneself; this is the outward, instant version of the error it guards against. C03's judgment of the neighbour.
+
+**Tags.** mode: counter-example (the passage shows what its absence costs) · pillars: truth · stages: S1, S5 · chapters: C03, C21 · practices: PR02 · confidence: medium
+
+---
+
+## 55. Acts 28:7-16 — When Paul saw them, he thanked God, and took courage
+
+> **28:7** Now in the neighborhood of that place were lands belonging to the chief man of the island, named Publius, who received us, and courteously entertained us for three days.
+> **28:8** It happened that the father of Publius lay sick of fever and dysentery. Paul entered in to him, prayed, and laying his hands on him, healed him.
+> **28:9** Then when this was done, the rest also who had diseases in the island came, and were cured.
+> **28:10** They also honored us with many honors, and when we sailed, they put on board the things that we needed.
+> **28:11** After three months, we set sail in a ship of Alexandria which had wintered in the island, whose sign was “The Twin Brothers.”
+> **28:12** Touching at Syracuse, we stayed there three days.
+> **28:13** From there we circled around and arrived at Rhegium. After one day, a south wind sprang up, and on the second day we came to Puteoli,
+> **28:14** where we found brothers, and were entreated to stay with them for seven days. So we came to Rome.
+> **28:15** From there the brothers, when they heard of us, came to meet us as far as The Market of Appius and The Three Taverns. When Paul saw them, he thanked God, and took courage.
+> **28:16** When we entered into Rome, the centurion delivered the prisoners to the captain of the guard, but Paul was allowed to stay by himself with the soldier who guarded him.
+
+**Claim.** The chief man of the island 'received us, and courteously entertained us for three days'; Paul heals his father, and the island sends them on with what they need. In Italy, believers walk out forty miles to meet the prisoner on the road, and 'when Paul saw them, he thanked God, and took courage.' The encourager encouraged. C14's hospitality and C13's community, met on the road.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: mercy · stages: S4 · chapters: C14, C13 · practices: none · confidence: medium
+
+---
+
+## 56. Acts 28:17-31 — Paul stayed two whole years in his own rented house, and received all who were coming to him
+
+> **28:17** It happened that after three days Paul called together those who were the leaders of the Jews. When they had come together, he said to them, “I, brothers, though I had done nothing against the people, or the customs of our fathers, still was delivered prisoner from Jerusalem into the hands of the Romans,
+> **28:18** who, when they had examined me, desired to set me free, because there was no cause of death in me.
+> **28:19** But when the Jews spoke against it, I was constrained to appeal to Caesar, not that I had anything about which to accuse my nation.
+> **28:20** For this cause therefore I asked to see you and to speak with you. For because of the hope of Israel I am bound with this chain.”
+> **28:21** They said to him, “We neither received letters from Judea concerning you, nor did any of the brothers come here and report or speak any evil of you.
+> **28:22** But we desire to hear from you what you think. For, as concerning this sect, it is known to us that everywhere it is spoken against.”
+> **28:23** When they had appointed him a day, many people came to him at his lodging. He explained to them, testifying about the Kingdom of God, and persuading them concerning Jesus, both from the law of Moses and from the prophets, from morning until evening.
+> **28:24** Some believed the things which were spoken, and some disbelieved.
+> **28:25** When they didn’t agree among themselves, they departed after Paul had spoken one word, “The Holy Spirit spoke rightly through Isaiah, the prophet, to our fathers,
+> **28:26** saying, ‘Go to this people, and say, in hearing, you will hear, but will in no way understand. In seeing, you will see, but will in no way perceive.
+> **28:27** For this people’s heart has grown callous. Their ears are dull of hearing. Their eyes they have closed. Lest they should see with their eyes, hear with their ears, understand with their heart, and would turn again, and I would heal them.’
+> **28:28** “Be it known therefore to you, that the salvation of God is sent to the nations. They will also listen.”
+> **28:29** When he had said these words, the Jews departed, having a great dispute among themselves.
+> **28:30** Paul stayed two whole years in his own rented house, and received all who were coming to him,
+> **28:31** preaching the Kingdom of God, and teaching the things concerning the Lord Jesus Christ with all boldness, without hindrance.
+
+**Claim.** In Rome, Paul quotes Isaiah 6 to those who will not hear — 'this people's heart has grown callous… Their eyes they have closed' — C07's blindness as the obstacle. The book then ends quietly, without a verdict: 'Paul stayed two whole years in his own rented house, and received all who were coming to him, preaching the Kingdom of God… with all boldness, without hindrance.' A prisoner under guard keeping an open door. C17's witness inside the capital, and C14's house as its place.
+
+**Tags.** mode: exemplifies (someone in the passage does it) · pillars: truth, mercy · stages: S2, S4 · chapters: C07, C17, C14 · practices: none · confidence: medium
 
 ---
 

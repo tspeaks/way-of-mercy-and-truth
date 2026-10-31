@@ -1,13 +1,13 @@
 {
   "book": "Acts",
   "translation": "World English Bible (public domain)",
-  "status": "in progress — chapters 1-20 indexed (13-20 selectively); 21-28 pending",
+  "status": "complete — selective in the travel narrative and the trials; see coverage_note; awaiting second-pass review",
   "method_version": "2.3",
   "text_source": "index/text/acts.json",
   "note": "Indexed in sections along the book's own movement outward: the church in Jerusalem (1-7), Samaria, Saul, and Cornelius (8-12), Paul's journeys (13-20), and the arrest, trials, and voyage to Rome (21-28). Narrative throughout, so every entry carries a mode.",
   "sectioning_note": "As with Jeremiah, the status field names what is done.",
   "prediction_note": "The indexing order named Acts 2:44-47 and 4:32-37 'the strongest candidate for PR28, the Heavenly Palace.' Both are tagged, at high confidence, as exemplifies: a community converting property into provision for whoever lacks is the practice's positive form at the scale the practice names. A third positive anchor appears at 11:27-30, where the Gentile church at Antioch sends its surplus to Judea before the famine arrives. Before today PR28 had no anchor at all; it now has these three, a positive prophetic anchor at Isaiah 23:15-18, and three counter-examples.",
-  "coverage_note": "Chapters 13-20 are indexed selectively, as a travel narrative: left out are the commissioning at Antioch and the encounter with Elymas (13:1-12), the synagogue sermon at Pisidian Antioch (13:13-41), Timothy's circumcision and the closed doors to Asia and Bithynia (16:1-10), Paul's break with the synagogue at Corinth and Gallio's tribunal (18:12-23), the disciples of John at Ephesus (19:1-7), Paul's plan for Jerusalem and Rome (19:21-22), and the journey through Macedonia and the night at Troas with Eutychus (20:1-16).",
+  "coverage_note": "Chapters 13-20 are indexed selectively, as a travel narrative: left out are the commissioning at Antioch and the encounter with Elymas (13:1-12), the synagogue sermon at Pisidian Antioch (13:13-41), Timothy's circumcision and the closed doors to Asia and Bithynia (16:1-10), Paul's break with the synagogue at Corinth and Gallio's tribunal (18:12-23), the disciples of John at Ephesus (19:1-7), Paul's plan for Jerusalem and Rome (19:21-22), and the journey through Macedonia and the night at Troas with Eutychus (20:1-16). Chapters 21-28, unindexed: the plot of the forty men and the transfer to Caesarea (23:12-35), Tertullus's accusation (24:1-9), Festus and the appeal to Caesar (25), and the opening and closing summaries of chapter 28 not covered by its entries.",
   "entries": [
     {
       "ref": "Acts 1:1-11",
@@ -963,6 +963,268 @@
       "mode": "exemplifies",
       "connection": "Paul's farewell to the Ephesian elders is the only speech in Acts addressed to believers, and it is an account of a way of life: 'serving the Lord with all humility, with many tears'; 'nor do I hold my life dear to myself, so that I may finish my race with joy' (C18); 'Take heed… to all the flock… to shepherd the assembly' and 'therefore watch' (C16's authority and C20's guard). Then the economic testimony: 'I coveted no one's silver, or gold, or clothing. You yourselves know that these hands served my necessities, and those who were with me. In all things I gave you an example, that so laboring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, It is more blessed to give than to receive.' Work done with one's hands in order to give, which is Habitual Almsgiving built into the shape of labour, and the Sacrament of the Ordinary as its setting. They weep and fall on his neck.",
       "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 21:1-16",
+      "pericope": "Kneeling down on the beach, we prayed… The Lord's will be done",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "At Tyre the whole church — 'with wives and children' — walks the travellers out of the city and kneels with them on the beach to pray. At Caesarea a prophet binds his own hands with Paul's belt to show what awaits him, and everyone begs him not to go. 'What are you doing, weeping and breaking my heart? For I am ready not only to be bound, but also to die.' 'When he would not be persuaded, we ceased, saying, The Lord's will be done.' C18's open hand held by a whole household of faith, and C14's families present at the parting.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 21:17-26",
+      "pericope": "Purify yourself with them, and pay their expenses for them",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15",
+        "C16"
+      ],
+      "practices": [
+        "PR09"
+      ],
+      "mode": "exemplifies",
+      "connection": "In Jerusalem the elders tell Paul that thousands of Jewish believers have heard he teaches Jews to abandon Moses. They ask him to join four men in a vow, pay their expenses, and be seen in the temple, 'that all will know that there is no truth in the things that they have been informed about you.' He does it the next day. A concession made early and publicly for the sake of a divided community — the Architecture of Peace at personal cost, by a man who had written that he became 'to the Jews… as a Jew.' Medium: the gesture fails, and the riot follows from it.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 21:27-22:29",
+      "pericope": "I persecuted this Way to the death… When the blood of Stephen, your witness, was shed, I also was standing by",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C04",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Seized in the temple, beaten, and carried up the barracks stairs, Paul asks to address the crowd, and in his defence he tells the worst thing about himself first: 'I persecuted this Way to the death, binding and delivering into prisons both men and women.' And to the Lord, of Stephen: 'I also was standing by, and consenting to his death, and guarding the cloaks of those who killed him.' C04's audit spoken aloud before a hostile audience, without excuse, and C19's door named by the one who walked through it. The account of Ananias's 'Brother Saul' is repeated.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 23:1-11",
+      "pericope": "God will strike you, you whitewashed wall!… I didn't know, brothers, that he was high priest",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C22"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "exemplifies",
+      "connection": "Struck on the mouth at the high priest's command, Paul retorts: 'God will strike you, you whitewashed wall!' Told whom he has insulted, he corrects himself at once and in public: 'I didn't know, brothers, that he was high priest. For it is written, You shall not speak evil of a ruler of your people.' The Failure Recovery Protocol asks for exactly this — the failure named plainly at the next available moment, without self-justification, and the same law that was broken quoted against oneself. The retort itself is Non-Retaliation's absence, recorded honestly in the apostle; the index anchors the recovery. 'The following night, the Lord stood by him, and said, Cheer up, Paul' — C22's quiet restored after the outburst.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 24:10-21",
+      "pericope": "Herein I also practice always having a conscience void of offense toward God and men… I came to bring gifts for the needy to my nation",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S3"
+      ],
+      "chapters": [
+        "C04",
+        "C12"
+      ],
+      "practices": [
+        "PR01",
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "Before the governor Felix, Paul describes his inner discipline in one sentence: 'Herein I also practice always having a conscience void of offense toward God and men.' The verb is the athlete's — exercise, train — and the object is a conscience kept clear in both directions. The Moral Audit in its habitual form, practised rather than occasional. And the reason he was in Jerusalem at all: 'I came to bring gifts for the needy to my nation' — the collection from the Gentile churches that 2 Corinthians 8-9 describes, delivered at the cost of his freedom. Habitual Almsgiving carried across the empire. C12's proof.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 24:22-27",
+      "pericope": "When it is convenient for me, I will summon you… he also hoped that money would be given to him",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C16"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "counter-example",
+      "connection": "Felix, who knows the Way well, sends for Paul and hears him reason 'about righteousness, self-control, and the judgment to come.' He is terrified — and postpones: 'Go your way for this time, and when it is convenient for me, I will summon you.' The Failure Recovery Protocol says return the same day: not tomorrow, not after a suitable interval. This is the convenient interval, extended to two years, while he keeps sending for the prisoner in hope of a bribe and finally leaves him in chains 'desiring to gain favor with the Jews.' Conviction felt and deferred; C19's door seen and not entered, and C16's authority used for gain.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 26:1-32",
+      "pericope": "I pray to God, that… all that hear me this day might become such as I am, except for these bonds",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S3",
+        "S7"
+      ],
+      "chapters": [
+        "C06",
+        "C12",
+        "C27"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "Before King Agrippa, Paul again names his past without softening — 'Being exceedingly enraged against them, I persecuted them even to foreign cities' — and the voice that stopped him: 'It is hard for you to kick against the goads.' His commission is C06's: 'to open their eyes, that they may turn from darkness to light,' and his preaching is C12's: 'doing works worthy of repentance.' Called mad by the governor, he answers courteously. And when the king deflects — 'With a little persuasion are you trying to make me a Christian?' — Paul's reply is a prayer for the good of every judge in the room: 'I pray to God, that whether with little or with much, not only you, but also all that hear me this day, might become such as I am, except for these bonds.' He wishes them his freedom and spares them his chains. Shedding Harshness at its most courteous, toward those who hold him captive (medium: the prayer is evangelistic, and the practice is broader).",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 27:1-44",
+      "pericope": "I beg you to take some food… he gave thanks to God in the presence of all, and he broke it… Then they all cheered up",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S7"
+      ],
+      "chapters": [
+        "C22",
+        "C28"
+      ],
+      "practices": [
+        "PR21"
+      ],
+      "mode": "exemplifies",
+      "connection": "Fourteen days in a storm, no sun or stars, 'all hope that we would be saved was now taken away.' A prisoner with nothing — no rank, no money, his advice already ignored once — stands up among two hundred seventy-six despairing men and speaks: 'Now I exhort you to cheer up, for there will be no loss of life among you.' At dawn he begs them to eat, 'and when he had said this, and had taken bread, he gave thanks to God in the presence of all, and he broke it, and began to eat. Then they all cheered up.' Verbal Almsgiving is the alms of those without material means: seeking out the discouraged and giving them a good word as a genuine act of charity. This is that alms given by the poorest man on the ship to the whole ship. C22's quiet in a storm, and C28's ordinary act — bread, thanks, eating — as the turning point of the night.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Acts 28:1-2",
+      "pericope": "The natives showed us uncommon kindness; for they kindled a fire, and received us all",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C27",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Shipwrecked on an island, two hundred seventy-six strangers, prisoners among them, are met by people who owe them nothing: 'The natives showed us uncommon kindness; for they kindled a fire, and received us all, because of the present rain, and because of the cold.' C27's mercy practised by outsiders to outsiders, and C16's care for the stranger in its simplest form — a fire in the rain.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 28:3-6",
+      "pericope": "No doubt this man is a murderer, whom… Justice has not allowed to live",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S5"
+      ],
+      "chapters": [
+        "C03",
+        "C21"
+      ],
+      "practices": [
+        "PR02"
+      ],
+      "mode": "counter-example",
+      "connection": "A viper fastens on Paul's hand, and the islanders read it at once: 'No doubt this man is a murderer, whom, though he has escaped from the sea, yet Justice has not allowed to live.' When nothing happens, they swing to the opposite error and call him a god. The same misdiagnosis Job's friends made, in a single verse: suffering read as proof of guilt in someone else. Interior Diagnosis traces failure to its root in oneself; this is the outward, instant version of the error it guards against. C03's judgment of the neighbour.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 28:7-16",
+      "pericope": "When Paul saw them, he thanked God, and took courage",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14",
+        "C13"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "The chief man of the island 'received us, and courteously entertained us for three days'; Paul heals his father, and the island sends them on with what they need. In Italy, believers walk out forty miles to meet the prisoner on the road, and 'when Paul saw them, he thanked God, and took courage.' The encourager encouraged. C14's hospitality and C13's community, met on the road.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Acts 28:17-31",
+      "pericope": "Paul stayed two whole years in his own rented house, and received all who were coming to him",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C07",
+        "C17",
+        "C14"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "In Rome, Paul quotes Isaiah 6 to those who will not hear — 'this people's heart has grown callous… Their eyes they have closed' — C07's blindness as the obstacle. The book then ends quietly, without a verdict: 'Paul stayed two whole years in his own rented house, and received all who were coming to him, preaching the Kingdom of God… with all boldness, without hindrance.' A prisoner under guard keeping an open door. C17's witness inside the capital, and C14's house as its place.",
+      "confidence": "medium",
       "prior": false
     }
   ]

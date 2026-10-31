@@ -1,0 +1,391 @@
+{
+  "book": "Philippians",
+  "translation": "World English Bible (public domain)",
+  "status": "complete — 99 of 104 verses; the greeting (1:1-2) and closing greetings (4:21-23) are unindexed; awaiting second-pass review",
+  "method_version": "2.3",
+  "text_source": "index/text/philippians.json",
+  "note": "A letter from prison to the one congregation that kept supporting its author, and the most joyful letter in the Pauline corpus. One entry carries a prior citation, 2:3-4 from C15. Much of the letter is exemplification rather than instruction: Paul describes what he is doing in his chains and asks to be imitated, so the mode field matters here more than in most epistles.",
+  "prediction_note": "The indexing order placed the kenosis hymn at C16 and C23. Both are tagged at 2:5-11. The hymn is also the kind of status-reversal passage that has drawn PR25 in error three times before; the tag is declined in the entry with the reason.",
+  "coverage_note": "Opening and closing greetings left out, as elsewhere. No entry reaches PR24, PR27, or PR28.",
+  "entries": [
+    {
+      "ref": "Philippians 1:3-8",
+      "pericope": "He who began a good work in you will complete it",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C10"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "exemplifies",
+      "connection": "Paul's confidence about a community he loves is a confidence about duration: the work was begun and will be completed 'until the day of Jesus Christ,' not by the next letter. He prays for them with joy while the work is visibly unfinished. That is the Discipline of Gradualism applied to other people — refusing to demand immediate perfection of them — and the joy of C10 located in the relationship rather than the result.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 1:9-11",
+      "pericope": "That your love may abound in knowledge and all discernment",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1"
+      ],
+      "chapters": [
+        "C02"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Discernment is asked for as a property of love, not as a check on it: love abounding 'in knowledge and all discernment, so that you may approve the things that are excellent.' C02 makes wisdom a skill in the service of mercy — 'what discernment is for' — and this prayer is that claim in its most compact form.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 1:12-18",
+      "pericope": "What does it matter? Only that Christ is proclaimed",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C18"
+      ],
+      "practices": [
+        "PR06"
+      ],
+      "mode": "exemplifies",
+      "connection": "Rivals preach 'out of envy and strife,' intending to add to the affliction of a man in chains. He names the motive and declines to answer it: what does it matter, I rejoice. No counter-campaign, no withdrawal of recognition from their work, nothing returned. That is Non-Retaliation in the small, social form the practice warns we barely register. The detachment from his own standing in the matter is C18's, and the absence of grievance where one was invited is C22's measure of a healed heart.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 1:19-26",
+      "pericope": "To live is Christ, and to die is gain",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C16"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "He would rather depart, and says so plainly, and then reasons himself toward staying because it is 'more needful for your sake.' Holy detachment that does not become indifference to others: the freedom of C18 issuing in the preference for the other's good that C16 calls the logic of service. PR26 was considered and declined; he is not free to walk away from his imprisonment, and the passage turns on a choice between life and death, not between staying and leaving a community.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 1:27-30",
+      "pericope": "Let your way of life be worthy of the Good News",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C17",
+        "C15"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The verb translated 'let your way of life be' is the verb for living as a citizen, and the conduct asked for is public — standing firm in one spirit, unfrightened by opponents. C17's posture of a community whose conduct is visible to those against it, held together by the unity C15 builds.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 2:1-4",
+      "pericope": "Each counting others better than himself",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
+      "practices": [
+        "PR09"
+      ],
+      "mode": "prescribes",
+      "connection": "C15 quotes 2:3-4 as the mechanism of the Architecture of Peace, and glosses it as an instruction about attention rather than a request to believe something false: in any dispute, weight the other person's interests as heavily as your own. Rivalry and conceit are named as what peace is built against, and looking to the things of others as what builds it.",
+      "confidence": "high",
+      "prior": true
+    },
+    {
+      "ref": "Philippians 2:5-11",
+      "pericope": "He emptied himself, taking the form of a servant",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4",
+        "S6"
+      ],
+      "chapters": [
+        "C16",
+        "C23"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Equality with God not treated as something to be grasped; the form of a servant taken; obedience to the most degrading death available. C16's argument that authority exists for service has its ground here, and the self-emptying that precedes any exaltation is the hidden life's pattern in C23 — faithfulness first, any vindication left to God. PR25 is not tagged. The hymn is the supreme status reversal in scripture, and status reversal is exactly what has drawn PR25 in error three times before; the practice is giving up one's own seat to the poor, the elderly, or the stranger in a gathering, and nothing here is that.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 2:12-13",
+      "pericope": "It is God who works in you both to will and to work",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C26",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Effort and grace are given in a single sentence without either cancelling the other: work out your salvation, for God works in you — and works on the willing as well as the doing. That is C26's mechanism, change by a new want rather than a forced behaviour. The obedience praised as 'much more in my absence' is faithfulness that does not depend on an observer, which C25 needs for a growth too slow to be watched.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 2:14-18",
+      "pericope": "Without murmurings and disputes, as lights in the world",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C17",
+        "C22"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "The community is to be seen as lights 'in the midst of a crooked and perverse generation' — inside it, not withdrawn from it, which is C17's boundary. The means is unglamorous: do all things without grumbling or argument, which is C22's quiet soul tested in exactly the place where it is hardest to fake.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 2:19-30",
+      "pericope": "I have no one else like-minded, who will truly care about you",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Two men commended, and both for the same thing. Timothy is set against those who 'all seek their own,' and the Philippians 'know the proof of him' — his character tested by service. Epaphroditus came near to death supplying what was lacking. C12 asks for proof of the inner life in what it does for others; C16 makes service the measure of anyone's standing. Both are given here by name.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 3:1-11",
+      "pericope": "What things were gain to me, these have I counted loss",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4"
+      ],
+      "chapters": [
+        "C06",
+        "C18"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'We are the circumcision, who worship God in the Spirit': the outward sign read inwardly, the move C06 takes from Jeremiah 4:4. Then the inventory of every credential he holds, each one real, counted as loss — not because they were false but because they were not the thing. Detachment in C18's sense, from goods that are genuinely goods.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 3:12-16",
+      "pericope": "Not that I have already obtained; I press on",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "chapters": [
+        "C25"
+      ],
+      "practices": [
+        "PR14"
+      ],
+      "mode": "prescribes",
+      "connection": "A man at the end of his work declares himself unfinished and gives the rule for the unfinished: forget what is behind, stretch toward what is ahead, and 'to the extent that we have already attained, let us walk by the same rule.' That is the Discipline of Gradualism's only question — not am I perfect but am I still walking — prescribed by example and then by command. Forgetting what is behind shares a subject with the Failure Recovery Protocol's refusal to relitigate, but the passage is about achievement, not failure, so PR11 is not tagged.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 3:17-21",
+      "pericope": "I tell you even weeping; our citizenship is in heaven",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C17",
+        "C05",
+        "C27"
+      ],
+      "practices": [
+        "PR15"
+      ],
+      "mode": "exemplifies",
+      "connection": "Two claims frame the paragraph: imitate me, which is C05's apprenticeship, and our citizenship is in heaven, which is C17's anchoring elsewhere. Between them Paul speaks of those whose end is destruction, and he speaks of them weeping. The test Shedding Harshness sets is the movement in the chest at news of someone's downfall; here it is grief, written into the letter, about people he regards as enemies of the cross. PR10 is not tagged: the passage gives the anchoring elsewhere but not the full participation that completes the practice.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 4:1-3",
+      "pericope": "I exhort Euodia, and I exhort Syntyche",
+      "pillars": [
+        "humility",
+        "mercy"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C15"
+      ],
+      "practices": [
+        "PR09"
+      ],
+      "mode": "exemplifies",
+      "connection": "Two women in the congregation are at odds. Paul addresses each by name with the same verb, assigns no fault, recalls that both laboured beside him, and asks a third person to help them reach agreement. The objective is plainly repair, not a ruling on who was right — the Architecture of Peace in a single live case.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 4:4-7",
+      "pericope": "The peace of God will guard your hearts",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C10",
+        "C22",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Rejoicing commanded twice, gentleness made known to all, and anxiety not suppressed but converted into petition with thanksgiving. The promise is a garrison: the verb for 'guard' is the military one, and what is guarded is 'your hearts and your thoughts,' the territory of C20's watchman. The joy is C10's and the unanxious quiet C22's.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 4:8-9",
+      "pericope": "Whatever things are true… think about these things",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "chapters": [
+        "C07",
+        "C05"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "What the mind dwells on is treated as a matter of choice and of consequence. C07 makes the condition of the one looking decide what is seen; this list gives the positive half, what to look at. 'The things which you learned, received, heard, and saw in me: do these things' is the apprenticeship of C05 in its plainest form.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 4:10-13",
+      "pericope": "I have learned in whatever state I am, to be content",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "Contentment is described as a thing learned — 'I have learned the secret' — across both abundance and need, which means it is a skill rather than a temperament. That is C18's detachment in its mature form: not the absence of goods but freedom with respect to their presence or absence. The verse usually quoted alone, 'I can do all things,' is about this, not about achievement.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "Philippians 4:14-20",
+      "pericope": "You sent once and again to my need",
+      "pillars": [
+        "mercy"
+      ],
+      "stages": [
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C16",
+        "C12"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "exemplifies",
+      "connection": "The Philippians alone shared with him 'in the matter of giving and receiving,' and they did it repeatedly — 'once and again.' Giving as a rhythm rather than an impulse is Habitual Almsgiving's definition. Paul's reply refuses to make the gift about his own need and calls it fruit increasing to their account and a sacrifice acceptable to God: the proof C12 asks for. PR28 is not tagged; nothing indicates surplus redirected from expansion.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

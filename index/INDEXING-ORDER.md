@@ -1,12 +1,17 @@
 # Indexing order for the remaining canon
 
-**Status, 31 October 2026.** Tiers 1 and 2 are closed. Twenty books started, all
-twenty complete; the six Tier 2 books are drafted and validated and await
-second-pass review (see `REVIEW-QUEUE.md`). Of the three practices this order
-expected Tier 2 to close: PR26 closed with Ruth; PR24 has a first anchor at
-Ephesians 2:11-22, pending review; and the PR27 forecast failed on the definition
-test — 2 Peter 1:5-7 anchors PR14, not PR27, which remains unanchored. PR28, expected
-in Tier 4, has an unforecast first anchor at Ecclesiastes 2:1-11, as a counter-example.
+**Status, 31 October 2026.** Tiers 1, 2, and 3 are closed: twenty-five books started, all
+complete. The eleven books added today (1-2 Peter, Philippians, Colossians, Ephesians,
+Ecclesiastes, Deuteronomy, Genesis, Psalms, Job, Isaiah) are drafted and validated and await
+second-pass review (see `REVIEW-QUEUE.md`).
+
+On the four practices that were unanchored this morning: PR26 had already closed with Ruth.
+PR24 has a first positive anchor at Ephesians 2:11-22 and a first counter-example at Isaiah
+65:5, both pending review. PR28 has counter-examples at Ecclesiastes 2:1-11 and Isaiah 5:8-10
+and a first positive anchor at Isaiah 23:15-18, all at medium; its strongest candidates (Acts
+2 and 4, 2 Corinthians 8-9) are still ahead in Tier 4. PR27 remains unanchored: its forecast
+anchor at 2 Peter 1:5-7 failed on the definition test, and nothing in Tiers 2 or 3 does what
+the practice describes. That is now the clearest open question in the index.
 
 *Originally written with thirteen books started: 9 complete, 4 partial, 53 untouched,
 and roughly 29,000 of the WEB's 31,098 verses unindexed.*

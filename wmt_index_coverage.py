@@ -162,16 +162,24 @@ def parse_json_file(path):
     for item in candidates:
         if not isinstance(item, dict):
             continue
-        blob = json.dumps(item)
-        chapters = sorted({"C" + n for n in CHAPTER_RE.findall(blob)})
-        practices = sorted({"PR" + n for n in PRACTICE_RE.findall(blob)})
+        # Read the tag arrays themselves. Scanning the whole entry as text
+        # also picks up IDs mentioned in prose ("PR27 is not tagged"), which
+        # counts declined tags as anchors. Fall back to the scan only for
+        # entries that carry no tag arrays at all.
+        if isinstance(item.get("chapters"), list) or isinstance(item.get("practices"), list):
+            chapters = sorted(set(item.get("chapters") or []))
+            practices = sorted(set(item.get("practices") or []))
+        else:
+            blob = json.dumps(item)
+            chapters = sorted({"C" + n for n in CHAPTER_RE.findall(blob)})
+            practices = sorted({"PR" + n for n in PRACTICE_RE.findall(blob)})
         if not chapters and not practices:
             continue
         entries.append(
             {
                 "book": item.get("book", book),
                 "reference": str(item.get("reference") or item.get("ref") or ""),
-                "name": str(item.get("name") or item.get("title") or ""),
+                "name": str(item.get("name") or item.get("title") or item.get("pericope") or ""),
                 "chapters": chapters,
                 "practices": practices,
                 "tags": [],
@@ -188,8 +196,11 @@ def collect(debug=False):
     json_paths = []
     for pattern in JSON_GLOBS:
         json_paths.extend(glob.glob(pattern, recursive=True))
-    # index/text/ holds the raw WEB Bible, not index entries — skip it.
-    json_paths = [p for p in sorted(set(json_paths)) if "/text/" not in p.replace("\\", "/")]
+    # index/text/ holds the raw WEB Bible, and index/reviews/ holds review
+    # records (proposals, verdicts) rather than index entries — skip both.
+    json_paths = [p for p in sorted(set(json_paths))
+                  if "/text/" not in p.replace("\\", "/")
+                  and "/reviews/" not in p.replace("\\", "/")]
 
     for path in json_paths:
         found = parse_json_file(path)

@@ -27,6 +27,9 @@ the first fourteen.
 | 1 Corinthians | 33 | `reviews/1-corinthians-package.md` | 16:1-4 (PR05 high, PR28 medium — weekly proportional giving); **11:17-34 (PR25 counter-example — the poor shamed at the Lord's Supper; PR01)**; 10:23-11:1 (PR23 + PR20 from the guest side, medium); 13:1-13 (PR18 + PR04); 4:6-13 (PR06 + PR18); 6:1-11 (PR06 + PR09); 7:17-24 (PR23, with the slavery guard); 12:1-31 (PR25 and PR17 declined); the coverage note on 11:2-16 and 14:34-35 |
 | 1 Thessalonians | 9 | `reviews/1-thessalonians-package.md` | 5:12-15 (PR21 at high — "encourage the fainthearted", the cleanest PR21 anchor in the epistles; PR06); 4:9-12 (PR23 + PR10); 4:13-18 (PR08 + PR21, medium); 5:16-22 (PR30, medium); 2:17-3:13 (PR21, medium); the coverage note on 2:14-16 |
 | 2 Thessalonians | 4 | `reviews/2-thessalonians-package.md` | 3:6-15 (PR23; PR29 before repentance, medium; the guard on "if anyone will not work"); 1:3-12 (the reading of 1:6-9) |
+| 1 Timothy | 11 | `reviews/1-timothy-package.md` | 6:17-19 (PR28 + PR05 — charge to the rich); 1:12-17 (PR03 — "of whom I am chief"); 5:1-16 (PR05, widows); 2:1-8 (PR10, prayer for rulers, medium); 4:6-16 (PR01, medium); the coverage note on 2:9-15 and 6:1-2 |
+| 2 Timothy | 11 | `reviews/2-timothy-package.md` | **1:15-18 (PR26 — Onesiphorus; unforecast)**; 4:9-22 (PR29 — Mark, completing Acts 15:36-41; PR06); 2:20-26 (PR09 at high) |
+| Titus | 6 | `reviews/titus-package.md` | 3:1-7 (PR10 + PR03 — "we were also once foolish"); 2:1-10 (household-code guard) |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

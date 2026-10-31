@@ -1,0 +1,252 @@
+{
+  "book": "2 Timothy",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/2-timothy.json",
+  "note": "Paul's last letter, written from prison near the end of his life: a charge to endure, to guard what was entrusted, to teach faithfully and gently, and a final list of who stayed and who left. Not cited by the curriculum or the Scriptural Appendix.",
+  "prediction_note": "Forecast: 4:11 completes the PR29 arc begun at Acts 15:36-41; 2:24-26 anchors PR09. Outcome: both held. 1:15-18 adds an unforecast PR26 anchor — Onesiphorus searching Rome for a prisoner everyone else had abandoned.",
+  "coverage_note": "1:1-2 is not indexed separately. 3:6-7 is carried inside 3:1-9 without being offered as formation guidance.",
+  "entries": [
+    {
+      "ref": "2 Timothy 1:3-7",
+      "pericope": "The sincere faith that is in you; which lived first in your grandmother Lois, and your mother Eunice… God didn't give us a spirit of fear, but of power, love, and self-control",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S1",
+        "S4"
+      ],
+      "chapters": [
+        "C14",
+        "C05"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'Remembering your tears… having been reminded of the sincere faith that is in you; which lived first in your grandmother Lois, and your mother Eunice, and, I am persuaded, in you also.' C14's household as the first place of formation — faith carried down through two women before it reached the young man. C05's apprenticeship continued by Paul: 'stir up the gift of God which is in you through the laying on of my hands. For God didn't give us a spirit of fear, but of power, love, and self-control.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Timothy 1:8-14",
+      "pericope": "Don't be ashamed of the testimony of our Lord, nor of me his prisoner… I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C25",
+        "C22",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "From prison: 'Therefore don't be ashamed of the testimony of our Lord, nor of me his prisoner; but endure hardship for the Good News.' The ground is a calling 'not according to our works, but according to his own purpose and grace.' Then Paul's own confidence, stated without bravado: 'For this cause I also suffer these things. Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day.' C25's endurance and C22's rest; and C20's charge to Timothy: 'That good thing which was committed to you, guard.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Timothy 1:15-18",
+      "pericope": "All who are in Asia turned away from me… Onesiphorus… often refreshed me, and was not ashamed of my chain, but when he was in Rome, he sought me diligently, and found me",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C13",
+        "C16"
+      ],
+      "practices": [
+        "PR26"
+      ],
+      "mode": "exemplifies",
+      "connection": "'This you know, that all who are in Asia turned away from me.' Against that background one man: 'May the Lord grant mercy to the house of Onesiphorus, for he often refreshed me, and was not ashamed of my chain, but when he was in Rome, he sought me diligently, and found me.' Unobligated Loyalty — fidelity in a season of difficulty when everyone else had walked away and there was nothing to gain, and real danger in being associated with a prisoner. He had to search the city to find him. C13's faithfulness and C16's service, at the cost of reputation.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Timothy 2:1-7",
+      "pericope": "Commit the same to faithful men, who will be able to teach others also… The farmers who labor must be the first to get a share of the crops",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C05",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'The things which you have heard from me among many witnesses, commit the same to faithful men, who will be able to teach others also.' Four generations in one sentence — Paul, Timothy, faithful men, others. C05's apprenticeship as a chain. Then three images of patient labour: the soldier who does not entangle himself 'in the affairs of life,' the athlete who 'competed by the rules,' the farmer who labours before he eats. C25's long work. 'Consider what I say, and may the Lord give you understanding.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Timothy 2:8-13",
+      "pericope": "God's word isn't chained… If we are faithless, he remains faithful. He can't deny himself",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S5",
+        "S6"
+      ],
+      "chapters": [
+        "C19",
+        "C25"
+      ],
+      "practices": [],
+      "connection": "'I suffer hardship to the point of chains as a criminal. But God's word isn't chained. Therefore I endure all things for the chosen ones' sake.' Then an early Christian saying, probably a hymn: 'For if we died with him, we will also live with him. If we endure, we will also reign with him. If we deny him, he also will deny us. If we are faithless, he remains faithful. He can't deny himself.' C25's endurance, and C19's mercy at the place the pattern breaks — the last line does not match the others, and that is the point.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Timothy 2:14-19",
+      "pericope": "A workman who doesn't need to be ashamed, properly handling the Word of Truth. But shun empty chatter… those words will consume like gangrene",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C08",
+        "C20"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'Charging them… that they don't argue about words, to no profit, to the subverting of those who hear. Give diligence to present yourself approved by God, a workman who doesn't need to be ashamed, properly handling the Word of Truth.' C08's faithful teacher, and C20's guard against speech that spreads: 'shun empty chatter, for it will go further in ungodliness, and those words will consume like gangrene.' The foundation's two-sided seal: 'The Lord knows those who are his,' and, 'Let every one who names the name of the Lord depart from unrighteousness.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Timothy 2:20-26",
+      "pericope": "The Lord's servant must not quarrel, but be gentle towards all, able to teach, patient, in gentleness correcting those who oppose him: perhaps God may give them repentance",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C15",
+        "C08",
+        "C20"
+      ],
+      "practices": [
+        "PR09"
+      ],
+      "mode": "prescribes",
+      "connection": "'Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart.' C20. Then the conduct of the teacher in conflict: 'refuse foolish and ignorant questionings, knowing that they generate strife. The Lord's servant must not quarrel, but be gentle towards all, able to teach, patient, in gentleness correcting those who oppose him: perhaps God may give them repentance leading to a full knowledge of the truth, and they may recover themselves out of the devil's snare.' The Architecture of Peace exactly: the objective is the opponent's recovery, not one's own victory, and gentleness is the method. C15 and C08 together — the true teacher is known by how he handles opposition.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Timothy 3:1-9",
+      "pericope": "Lovers of self, lovers of money… lovers of pleasure rather than lovers of God; holding a form of godliness, but having denied its power",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C12",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "A catalogue of vices that begins and ends with misdirected love: 'lovers of self, lovers of money… lovers of pleasure rather than lovers of God.' C21's diagnosis that disorder is a matter of what one loves. And the most dangerous item comes last: 'holding a form of godliness, but having denied its power.' C12's proof, inverted — religion with the shape and none of the substance. 'Always learning, and never able to come to the knowledge of the truth.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Timothy 3:10-17",
+      "pericope": "You did follow my teaching, conduct, purpose, faith, patience, love, steadfastness, persecutions… Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S1",
+        "S6"
+      ],
+      "chapters": [
+        "C05",
+        "C04",
+        "C25"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'But you did follow my teaching, conduct, purpose, faith, patience, love, steadfastness, persecutions, and sufferings.' C05's apprenticeship — the whole life followed, not only the doctrine — and its honest cost: 'all who desire to live godly in Christ Jesus will suffer persecution.' Then the scriptures Timothy has known 'from infancy' and their four uses: 'teaching, for reproof, for correction, and for instruction in righteousness, that the man of God may be complete, thoroughly equipped for every good work.' C04's mirror and C25's completion.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Timothy 4:1-8",
+      "pericope": "Having itching ears, will heap up for themselves teachers after their own lusts… I have fought the good fight. I have finished the course. I have kept the faith",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C08",
+        "C25",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "exemplifies",
+      "connection": "'Preach the word; be urgent in season and out of season… For the time will come when they will not listen to the sound doctrine, but, having itching ears, will heap up for themselves teachers after their own lusts.' C08's false prophet created by the demand for him. Then Paul's last words about himself: 'For I am already being offered, and the time of my departure has come. I have fought the good fight. I have finished the course. I have kept the faith.' C25's long course completed, and C12's proof given at the end of a life.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Timothy 4:9-22",
+      "pericope": "Demas left me, having loved this present world… Take Mark, and bring him with you, for he is useful to me for service… no one came to help me, but all left me. May it not be held against them",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C18",
+        "C13"
+      ],
+      "practices": [
+        "PR29",
+        "PR06"
+      ],
+      "mode": "exemplifies",
+      "connection": "The last paragraph of Paul's last letter is a list of who stayed and who left. 'Demas left me, having loved this present world' — C18's warning in a single name. 'Only Luke is with me.' Then: 'Take Mark, and bring him with you, for he is useful to me for service' — the same Mark whom Paul refused to take on the second journey because he had deserted the first (Acts 15:36-41). Merciful Reintegration completed: the one whose failure caused the split is now asked for by name (medium — the reconciliation is implied, not narrated). Of those who failed him at his trial: 'no one came to help me, but all left me. May it not be held against them.' Of Alexander, who 'did much evil to me': 'The Lord will repay him' — Non-Retaliation by leaving it to God. And the ordinary requests of a prisoner: 'Bring the cloak… and the books, especially the parchments… Be diligent to come before winter.' C13 at the end.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

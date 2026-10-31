@@ -1,0 +1,257 @@
+{
+  "book": "1 Timothy",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/1-timothy.json",
+  "note": "Instruction to a younger colleague left to steady the church at Ephesus: false teaching, prayer, leadership, widows, elders, and wealth. Not cited by the curriculum or the Scriptural Appendix.",
+  "prediction_note": "Forecast: 6:17-19 a second-tier PR28 anchor beside Acts 2 and 4 and 2 Corinthians 8-9; 1:15 a PR03 anchor. Outcome: both held at high.",
+  "coverage_note": "Not indexed: 2:9-15 (women's dress and teaching), for the same reasons recorded for 1 Corinthians 11:2-16 and 14:34-35; 6:1-2 (instruction to slaves), which the index will not turn into formation guidance — the household-code guard applies. 1:18-20 and 6:20-21 are not indexed separately. 5:11-15 is carried inside 5:1-16 without being offered as guidance.",
+  "entries": [
+    {
+      "ref": "1 Timothy 1:3-11",
+      "pericope": "The goal of this command is love, out of a pure heart and a good conscience and sincere faith",
+      "pillars": [
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S2",
+        "S7"
+      ],
+      "chapters": [
+        "C29",
+        "C08"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Timothy is left in Ephesus to stop teachers obsessed with 'myths and endless genealogies, which cause disputes.' Against them Paul states the purpose of all instruction in one sentence: 'the goal of this command is love, out of a pure heart and a good conscience and sincere faith.' C29's whole heart as the aim of teaching, and C08's test of the teacher: some 'having missed the mark, have turned aside to vain talking; desiring to be teachers of the law, though they understand neither what they say, nor about what they strongly affirm.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Timothy 1:12-17",
+      "pericope": "Christ Jesus came into the world to save sinners; of whom I am chief… that in me first, Jesus Christ might display all his patience",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C22"
+      ],
+      "practices": [
+        "PR03"
+      ],
+      "mode": "exemplifies",
+      "connection": "'Although I was before a blasphemer, a persecutor, and insolent. However, I obtained mercy.' Then the sentence: 'The saying is faithful and worthy of all acceptance, that Christ Jesus came into the world to save sinners; of whom I am chief.' Self-Accusation's discipline of sequence in its purest form — the apostle places himself first in the line of sinners, not last. And the reason he was shown mercy is offered to everyone after him: 'that in me first, Jesus Christ might display all his patience, for an example of those who were going to believe.' C19's door, and C22's humility in the one who has most reason to speak with authority. The warning that follows (1:18-20) is not indexed separately.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Timothy 2:1-8",
+      "pericope": "Petitions, prayers, intercessions, and givings of thanks, be made for all men: for kings and all who are in high places… lifting up holy hands without anger",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S4",
+        "S7"
+      ],
+      "chapters": [
+        "C17",
+        "C27",
+        "C09"
+      ],
+      "practices": [
+        "PR10"
+      ],
+      "mode": "prescribes",
+      "connection": "'I exhort therefore, first of all, that petitions, prayers, intercessions, and givings of thanks, be made for all men: for kings and all who are in high places; that we may lead a tranquil and quiet life.' Written under Nero. The Citizen-Stranger's posture toward the state is prayer — neither flattery nor contempt (medium). Its ground is C27's widest circle: God 'desires all people to be saved,' and Christ 'gave himself as a ransom for all.' And C09's condition on the one who prays: 'I desire therefore that the men in every place pray, lifting up holy hands without anger and doubting.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Timothy 3:1-16",
+      "pericope": "The overseer therefore must be without reproach… gentle, not quarrelsome, not covetous; one who rules his own house well… not a new convert",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "chapters": [
+        "C08",
+        "C14",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Qualifications for leadership that are almost entirely about character and conduct, not gifts: 'temperate, sensible, modest, hospitable, good at teaching; not a drinker, not violent, not greedy for money, but gentle, not quarrelsome.' C08's test of the teacher by the life, and C12's proof. The household as the proving ground: 'if a man doesn't know how to rule his own house, how will he take care of the assembly of God?' — C14. Two guards against haste: 'not a new convert, lest being puffed up he fall,' and for servants, 'let them also first be tested.' 'He must have good testimony from those who are outside.' The hymn at 3:16 is carried here without separate entry.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Timothy 4:1-5",
+      "pericope": "Every creature of God is good, and nothing is to be rejected, if it is received with thanksgiving. For it is sanctified through the word of God and prayer",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S6",
+        "S7"
+      ],
+      "chapters": [
+        "C28",
+        "C24"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "False teachers 'forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving.' Paul's answer is a doctrine of creation: 'For every creature of God is good, and nothing is to be rejected, if it is received with thanksgiving. For it is sanctified through the word of God and prayer.' C24's goodness of the created world, and C28's liturgy of the ordinary — the meal made holy by thanks, not by refusal.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Timothy 4:6-16",
+      "pericope": "Exercise yourself toward godliness… be an example… in word, in your way of life… Pay attention to yourself, and to your teaching",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S3",
+        "S6"
+      ],
+      "chapters": [
+        "C05",
+        "C25",
+        "C12"
+      ],
+      "practices": [
+        "PR01"
+      ],
+      "mode": "prescribes",
+      "connection": "'Exercise yourself toward godliness. For bodily exercise has some value, but godliness has value in all things.' Formation as training — C05. 'Let no man despise your youth; but be an example to those who believe, in word, in your way of life, in love, in spirit, in faith, and in purity.' Then the instruction that frames the Moral Audit for a teacher: 'Pay attention to yourself, and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you' — self and teaching examined together, the audit's area of consistency (medium). C25's visible growth: 'that your progress may be revealed to all.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Timothy 5:1-16",
+      "pericope": "Honor widows who are widows indeed… If anyone doesn't provide for his own, and especially his own household, he has denied the faith",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C14",
+        "C16"
+      ],
+      "practices": [
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "The congregation as family: 'Don't rebuke an older man, but exhort him as a father; the younger men as brothers; the elder women as mothers; the younger as sisters.' Then the first organised welfare in the church: widows 'indeed, and desolate' are enrolled and supported. Habitual Almsgiving as a standing institution, with the order of obligation stated — family first ('let them learn first to show piety towards their own family'), then the assembly for those with no one (medium). C14's household duty at its sharpest: 'If anyone doesn't provide for his own, and especially his own household, he has denied the faith, and is worse than an unbeliever.' The enrolled widow is described by her own record of mercy — hospitable to strangers, washing feet, relieving the afflicted. The counsel on younger widows (5:11-15) is carried here without being offered as formation guidance.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Timothy 5:17-25",
+      "pericope": "Doing nothing by partiality… Some men's sins are evident… In the same way also there are good works that are obvious, and those that are otherwise can't be hidden",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S2",
+        "S6"
+      ],
+      "chapters": [
+        "C08",
+        "C23"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Procedure for leaders: honour for those who labour well, no accusation 'except at the word of two or three witnesses,' and judgment 'without prejudice, doing nothing by partiality' — C08's fair test. 'Lay hands hastily on no one.' A personal aside — 'use a little wine for your stomach's sake and your frequent infirmities' — and then a closing observation that answers C23's quiet confidence: 'Some men's sins are evident… and some also follow later. In the same way also there are good works that are obvious, and those that are otherwise can't be hidden.' Hidden goodness does not stay hidden forever.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Timothy 6:3-10",
+      "pericope": "Godliness with contentment is great gain. For we brought nothing into the world, and we certainly can't carry anything out… the love of money is a root of all kinds of evil",
+      "pillars": [
+        "truth",
+        "humility"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "chapters": [
+        "C18",
+        "C21"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "Teachers who 'suppose that godliness is a means of gain.' The answer: 'But godliness with contentment is great gain. For we brought nothing into the world, and we certainly can't carry anything out. But having food and clothing, we will be content with that.' C18's holy detachment given its plainest argument. Then C21's diagnosis of what wanting does: 'those who are determined to be rich fall into a temptation and a snare… For the love of money is a root of all kinds of evil. Some have been led astray from the faith in their greed, and have pierced themselves through with many sorrows.'",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "1 Timothy 6:11-16",
+      "pericope": "Flee these things, and follow after righteousness, godliness, faith, love, patience, and gentleness. Fight the good fight of faith",
+      "pillars": [
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C20",
+        "C12"
+      ],
+      "practices": [],
+      "mode": "prescribes",
+      "connection": "'But you, man of God, flee these things, and follow after righteousness, godliness, faith, love, patience, and gentleness. Fight the good fight of faith.' Flight and pursuit together — C20's gate, which refuses and also chooses. The charge is given 'before Christ Jesus, who before Pontius Pilate testified the good confession,' and ends in a doxology to the one 'dwelling in unapproachable light; whom no man has seen, nor can see.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "1 Timothy 6:17-19",
+      "pericope": "Charge those who are rich in this present world that they not be haughty, nor have their hope set on the uncertainty of riches… ready to distribute, willing to communicate",
+      "pillars": [
+        "mercy",
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "chapters": [
+        "C18",
+        "C16"
+      ],
+      "practices": [
+        "PR28",
+        "PR05"
+      ],
+      "mode": "prescribes",
+      "connection": "'Charge those who are rich in this present world that they not be haughty, nor have their hope set on the uncertainty of riches, but on the living God, who richly provides us with everything to enjoy; that they do good, that they be rich in good works, that they be ready to distribute, willing to communicate; laying up in store for themselves a good foundation against the time to come.' The Heavenly Palace addressed directly to people with surplus: wealth turned toward others is the foundation that lasts. Habitual Almsgiving in 'ready to distribute.' C18's detachment without contempt for the gift — God 'richly provides us with everything to enjoy.' C16's service as the use of abundance.",
+      "confidence": "high",
+      "prior": false
+    }
+  ]
+}

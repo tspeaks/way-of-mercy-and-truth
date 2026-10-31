@@ -1783,6 +1783,19 @@
         "source_file": "2-corinthians.json"
       },
       {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 3:10-17",
+        "name": "You did follow my teaching, conduct, purpose, faith, patience, love, steadfastness, persecutions… Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness",
+        "chapters": [
+          "C04",
+          "C05",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 21:27-22:29",
         "name": "I persecuted this Way to the death… When the blood of Stephen, your witness, was shed, I also was standing by",
@@ -2703,6 +2716,21 @@
         "source_file": "1-thessalonians.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 4:6-16",
+        "name": "Exercise yourself toward godliness… be an example… in word, in your way of life… Pay attention to yourself, and to your teaching",
+        "chapters": [
+          "C05",
+          "C12",
+          "C25"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "2 Thessalonians.Json",
         "reference": "2 Thessalonians 3:6-15",
         "name": "If anyone will not work, neither let him eat… don't be weary in doing well… Don't count him as an enemy, but admonish him as a brother",
@@ -2717,6 +2745,43 @@
         ],
         "tags": [],
         "source_file": "2-thessalonians.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 1:3-7",
+        "name": "The sincere faith that is in you; which lived first in your grandmother Lois, and your mother Eunice… God didn't give us a spirit of fear, but of power, love, and self-control",
+        "chapters": [
+          "C05",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 2:1-7",
+        "name": "Commit the same to faithful men, who will be able to teach others also… The farmers who labor must be the first to get a share of the crops",
+        "chapters": [
+          "C05",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 3:10-17",
+        "name": "You did follow my teaching, conduct, purpose, faith, patience, love, steadfastness, persecutions… Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness",
+        "chapters": [
+          "C04",
+          "C05",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "Acts.Json",
@@ -3018,6 +3083,19 @@
         ],
         "tags": [],
         "source_file": "ruth.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 2:1-10",
+        "name": "That older women likewise be… teachers of that which is good… in all things showing yourself an example of good works… that they may adorn the doctrine of God",
+        "chapters": [
+          "C05",
+          "C14",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "C06": [
@@ -4124,6 +4202,18 @@
         "practices": [],
         "tags": [],
         "source_file": "romans.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 1:15-16",
+        "name": "To the pure, all things are pure… They profess that they know God, but by their works they deny him",
+        "chapters": [
+          "C07",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "C08": [
@@ -4188,6 +4278,43 @@
         ],
         "tags": [],
         "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 1:3-11",
+        "name": "The goal of this command is love, out of a pure heart and a good conscience and sincere faith",
+        "chapters": [
+          "C08",
+          "C29"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 3:1-16",
+        "name": "The overseer therefore must be without reproach… gentle, not quarrelsome, not covetous; one who rules his own house well… not a new convert",
+        "chapters": [
+          "C08",
+          "C12",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 5:17-25",
+        "name": "Doing nothing by partiality… Some men's sins are evident… In the same way also there are good works that are obvious, and those that are otherwise can't be hidden",
+        "chapters": [
+          "C08",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -4272,6 +4399,46 @@
         "practices": [],
         "tags": [],
         "source_file": "2-thessalonians.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 2:14-19",
+        "name": "A workman who doesn't need to be ashamed, properly handling the Word of Truth. But shun empty chatter… those words will consume like gangrene",
+        "chapters": [
+          "C08",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 2:20-26",
+        "name": "The Lord's servant must not quarrel, but be gentle towards all, able to teach, patient, in gentleness correcting those who oppose him: perhaps God may give them repentance",
+        "chapters": [
+          "C08",
+          "C15",
+          "C20"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 4:1-8",
+        "name": "Having itching ears, will heap up for themselves teachers after their own lusts… I have fought the good fight. I have finished the course. I have kept the faith",
+        "chapters": [
+          "C08",
+          "C12",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "3 John.Json",
@@ -4941,6 +5108,18 @@
         "practices": [],
         "tags": [],
         "source_file": "romans.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 1:5-9",
+        "name": "The overseer must be blameless, as God's steward; not self-pleasing, not easily angered… but given to hospitality, a lover of good, sober minded, fair",
+        "chapters": [
+          "C08",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "C09": [
@@ -4958,6 +5137,21 @@
         ],
         "tags": [],
         "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 2:1-8",
+        "name": "Petitions, prayers, intercessions, and givings of thanks, be made for all men: for kings and all who are in high places… lifting up holy hands without anger",
+        "chapters": [
+          "C09",
+          "C17",
+          "C27"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
       },
       {
         "book": "Acts.Json",
@@ -6681,6 +6875,46 @@
         "source_file": "1-thessalonians.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 3:1-16",
+        "name": "The overseer therefore must be without reproach… gentle, not quarrelsome, not covetous; one who rules his own house well… not a new convert",
+        "chapters": [
+          "C08",
+          "C12",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 4:6-16",
+        "name": "Exercise yourself toward godliness… be an example… in word, in your way of life… Pay attention to yourself, and to your teaching",
+        "chapters": [
+          "C05",
+          "C12",
+          "C25"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 6:11-16",
+        "name": "Flee these things, and follow after righteousness, godliness, faith, love, patience, and gentleness. Fight the good fight of faith",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "2 John.Json",
         "reference": "2 John 1:4-6",
         "name": "This is love, that we should walk according to his commandments",
@@ -6702,6 +6936,31 @@
         "practices": [],
         "tags": [],
         "source_file": "2-thessalonians.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 3:1-9",
+        "name": "Lovers of self, lovers of money… lovers of pleasure rather than lovers of God; holding a form of godliness, but having denied its power",
+        "chapters": [
+          "C12",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 4:1-8",
+        "name": "Having itching ears, will heap up for themselves teachers after their own lusts… I have fought the good fight. I have finished the course. I have kept the faith",
+        "chapters": [
+          "C08",
+          "C12",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "3 John.Json",
@@ -7244,6 +7503,31 @@
         ],
         "tags": [],
         "source_file": "romans.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 1:15-16",
+        "name": "To the pure, all things are pure… They profess that they know God, but by their works they deny him",
+        "chapters": [
+          "C07",
+          "C12"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "titus.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 3:8-15",
+        "name": "Be careful to maintain good works… Avoid a factious man after a first and second warning… Let our people also learn to maintain good works for necessary uses",
+        "chapters": [
+          "C12",
+          "C13",
+          "C15"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "C13": [
@@ -7505,6 +7789,36 @@
         ],
         "tags": [],
         "source_file": "2-thessalonians.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 1:15-18",
+        "name": "All who are in Asia turned away from me… Onesiphorus… often refreshed me, and was not ashamed of my chain, but when he was in Rome, he sought me diligently, and found me",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 4:9-22",
+        "name": "Demas left me, having loved this present world… Take Mark, and bring him with you, for he is useful to me for service… no one came to help me, but all left me. May it not be held against them",
+        "chapters": [
+          "C13",
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "3 John.Json",
@@ -8267,6 +8581,19 @@
         ],
         "tags": [],
         "source_file": "ruth.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 3:8-15",
+        "name": "Be careful to maintain good works… Avoid a factious man after a first and second warning… Let our people also learn to maintain good works for necessary uses",
+        "chapters": [
+          "C12",
+          "C13",
+          "C15"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "C14": [
@@ -8362,6 +8689,33 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 3:1-16",
+        "name": "The overseer therefore must be without reproach… gentle, not quarrelsome, not covetous; one who rules his own house well… not a new convert",
+        "chapters": [
+          "C08",
+          "C12",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 5:1-16",
+        "name": "Honor widows who are widows indeed… If anyone doesn't provide for his own, and especially his own household, he has denied the faith",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 12:11-21",
         "name": "I will most gladly spend and be spent for your souls. If I love you more abundantly, am I loved the less?",
@@ -8374,6 +8728,18 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 1:3-7",
+        "name": "The sincere faith that is in you; which lived first in your grandmother Lois, and your mother Eunice… God didn't give us a spirit of fear, but of power, love, and self-control",
+        "chapters": [
+          "C05",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "Acts.Json",
@@ -9229,6 +9595,31 @@
         ],
         "tags": [],
         "source_file": "song-of-solomon.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 1:5-9",
+        "name": "The overseer must be blameless, as God's steward; not self-pleasing, not easily angered… but given to hospitality, a lover of good, sober minded, fair",
+        "chapters": [
+          "C08",
+          "C14"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "titus.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 2:1-10",
+        "name": "That older women likewise be… teachers of that which is good… in all things showing yourself an example of good works… that they may adorn the doctrine of God",
+        "chapters": [
+          "C05",
+          "C14",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "C15": [
@@ -9424,6 +9815,21 @@
         ],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 2:20-26",
+        "name": "The Lord's servant must not quarrel, but be gentle towards all, able to teach, patient, in gentleness correcting those who oppose him: perhaps God may give them repentance",
+        "chapters": [
+          "C08",
+          "C15",
+          "C20"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "Acts.Json",
@@ -10433,6 +10839,19 @@
         "practices": [],
         "tags": [],
         "source_file": "romans.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 3:8-15",
+        "name": "Be careful to maintain good works… Avoid a factious man after a first and second warning… Let our people also learn to maintain good works for necessary uses",
+        "chapters": [
+          "C12",
+          "C13",
+          "C15"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "C16": [
@@ -10624,6 +11043,35 @@
         "source_file": "1-thessalonians.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 5:1-16",
+        "name": "Honor widows who are widows indeed… If anyone doesn't provide for his own, and especially his own household, he has denied the faith",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 6:17-19",
+        "name": "Charge those who are rich in this present world that they not be haughty, nor have their hope set on the uncertainty of riches… ready to distribute, willing to communicate",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 10:1-18",
         "name": "Bringing every thought into captivity to the obedience of Christ… measuring themselves by themselves, and comparing themselves with themselves",
@@ -10769,6 +11217,20 @@
         ],
         "tags": [],
         "source_file": "2-corinthians.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 1:15-18",
+        "name": "All who are in Asia turned away from me… Onesiphorus… often refreshed me, and was not ashamed of my chain, but when he was in Rome, he sought me diligently, and found me",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "3 John.Json",
@@ -12849,6 +13311,21 @@
         "source_file": "1-thessalonians.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 2:1-8",
+        "name": "Petitions, prayers, intercessions, and givings of thanks, be made for all men: for kings and all who are in high places… lifting up holy hands without anger",
+        "chapters": [
+          "C09",
+          "C17",
+          "C27"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 6:14-7:1",
         "name": "Don't be unequally yoked with unbelievers",
@@ -13659,6 +14136,35 @@
         "practices": [],
         "tags": [],
         "source_file": "ruth.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 2:1-10",
+        "name": "That older women likewise be… teachers of that which is good… in all things showing yourself an example of good works… that they may adorn the doctrine of God",
+        "chapters": [
+          "C05",
+          "C14",
+          "C17"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "titus.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 3:1-7",
+        "name": "To speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men. For we were also once foolish, disobedient, deceived",
+        "chapters": [
+          "C17",
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR03",
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "C18": [
@@ -13763,6 +14269,33 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 6:17-19",
+        "name": "Charge those who are rich in this present world that they not be haughty, nor have their hope set on the uncertainty of riches… ready to distribute, willing to communicate",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 6:3-10",
+        "name": "Godliness with contentment is great gain. For we brought nothing into the world, and we certainly can't carry anything out… the love of money is a root of all kinds of evil",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 4:7-18",
         "name": "Though our outward man is decaying, yet our inward man is renewed day by day",
@@ -13823,6 +14356,22 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 4:9-22",
+        "name": "Demas left me, having loved this present world… Take Mark, and bring him with you, for he is useful to me for service… no one came to help me, but all left me. May it not be held against them",
+        "chapters": [
+          "C13",
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "Acts.Json",
@@ -15278,6 +15827,20 @@
         "source_file": "1-thessalonians.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 1:12-17",
+        "name": "Christ Jesus came into the world to save sinners; of whom I am chief… that in me first, Jesus Christ might display all his patience",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 1:3-11",
         "name": "Who comforts us in all our affliction, that we may be able to comfort those who are in any affliction",
@@ -15348,6 +15911,34 @@
         ],
         "tags": [],
         "source_file": "2-thessalonians.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 2:8-13",
+        "name": "God's word isn't chained… If we are faithless, he remains faithful. He can't deny himself",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 4:9-22",
+        "name": "Demas left me, having loved this present world… Take Mark, and bring him with you, for he is useful to me for service… no one came to help me, but all left me. May it not be held against them",
+        "chapters": [
+          "C13",
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "Acts.Json",
@@ -17874,6 +18465,34 @@
         "practices": [],
         "tags": [],
         "source_file": "song-of-solomon.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 2:11-15",
+        "name": "The grace of God has appeared… instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present world",
+        "chapters": [
+          "C19",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "titus.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 3:1-7",
+        "name": "To speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men. For we were also once foolish, disobedient, deceived",
+        "chapters": [
+          "C17",
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR03",
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "C20": [
@@ -18034,6 +18653,18 @@
         "source_file": "1-thessalonians.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 6:11-16",
+        "name": "Flee these things, and follow after righteousness, godliness, faith, love, patience, and gentleness. Fight the good fight of faith",
+        "chapters": [
+          "C12",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 10:1-18",
         "name": "Bringing every thought into captivity to the obedience of Christ… measuring themselves by themselves, and comparing themselves with themselves",
@@ -18085,6 +18716,46 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 1:8-14",
+        "name": "Don't be ashamed of the testimony of our Lord, nor of me his prisoner… I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him",
+        "chapters": [
+          "C20",
+          "C22",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 2:14-19",
+        "name": "A workman who doesn't need to be ashamed, properly handling the Word of Truth. But shun empty chatter… those words will consume like gangrene",
+        "chapters": [
+          "C08",
+          "C20"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 2:20-26",
+        "name": "The Lord's servant must not quarrel, but be gentle towards all, able to teach, patient, in gentleness correcting those who oppose him: perhaps God may give them repentance",
+        "chapters": [
+          "C08",
+          "C15",
+          "C20"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "Colossians.Json",
@@ -18958,6 +19629,18 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 6:3-10",
+        "name": "Godliness with contentment is great gain. For we brought nothing into the world, and we certainly can't carry anything out… the love of money is a root of all kinds of evil",
+        "chapters": [
+          "C18",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 7:2-16",
         "name": "Godly sorrow works repentance to salvation, which brings no regret. But the sorrow of the world works death",
@@ -18995,6 +19678,18 @@
         "practices": [],
         "tags": [],
         "source_file": "2-peter.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 3:1-9",
+        "name": "Lovers of self, lovers of money… lovers of pleasure rather than lovers of God; holding a form of godliness, but having denied its power",
+        "chapters": [
+          "C12",
+          "C21"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "Acts.Json",
@@ -20038,6 +20733,20 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 1:12-17",
+        "name": "Christ Jesus came into the world to save sinners; of whom I am chief… that in me first, Jesus Christ might display all his patience",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "2 Thessalonians.Json",
         "reference": "2 Thessalonians 2:13-3:5",
         "name": "Stand firm, and hold the traditions… May the Lord direct your hearts into the love of God, and into the patience of Christ",
@@ -20048,6 +20757,19 @@
         "practices": [],
         "tags": [],
         "source_file": "2-thessalonians.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 1:8-14",
+        "name": "Don't be ashamed of the testimony of our Lord, nor of me his prisoner… I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him",
+        "chapters": [
+          "C20",
+          "C22",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "Acts.Json",
@@ -21181,6 +21903,22 @@
         ],
         "tags": [],
         "source_file": "romans.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 3:1-7",
+        "name": "To speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men. For we were also once foolish, disobedient, deceived",
+        "chapters": [
+          "C17",
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR03",
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "C23": [
@@ -21257,6 +21995,18 @@
         ],
         "tags": [],
         "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 5:17-25",
+        "name": "Doing nothing by partiality… Some men's sins are evident… In the same way also there are good works that are obvious, and those that are otherwise can't be hidden",
+        "chapters": [
+          "C08",
+          "C23"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -22007,6 +22757,18 @@
       }
     ],
     "C24": [
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 4:1-5",
+        "name": "Every creature of God is good, and nothing is to be rejected, if it is received with thanksgiving. For it is sanctified through the word of God and prayer",
+        "chapters": [
+          "C24",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
       {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 12:1-10",
@@ -23123,6 +23885,21 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 4:6-16",
+        "name": "Exercise yourself toward godliness… be an example… in word, in your way of life… Pay attention to yourself, and to your teaching",
+        "chapters": [
+          "C05",
+          "C12",
+          "C25"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 4:7-18",
         "name": "Though our outward man is decaying, yet our inward man is renewed day by day",
@@ -23195,6 +23972,69 @@
         "practices": [],
         "tags": [],
         "source_file": "2-thessalonians.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 1:8-14",
+        "name": "Don't be ashamed of the testimony of our Lord, nor of me his prisoner… I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him",
+        "chapters": [
+          "C20",
+          "C22",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 2:1-7",
+        "name": "Commit the same to faithful men, who will be able to teach others also… The farmers who labor must be the first to get a share of the crops",
+        "chapters": [
+          "C05",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 2:8-13",
+        "name": "God's word isn't chained… If we are faithless, he remains faithful. He can't deny himself",
+        "chapters": [
+          "C19",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 3:10-17",
+        "name": "You did follow my teaching, conduct, purpose, faith, patience, love, steadfastness, persecutions… Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness",
+        "chapters": [
+          "C04",
+          "C05",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 4:1-8",
+        "name": "Having itching ears, will heap up for themselves teachers after their own lusts… I have fought the good fight. I have finished the course. I have kept the faith",
+        "chapters": [
+          "C08",
+          "C12",
+          "C25"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "Acts.Json",
@@ -24647,6 +25487,18 @@
         ],
         "tags": [],
         "source_file": "ruth.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 2:11-15",
+        "name": "The grace of God has appeared… instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present world",
+        "chapters": [
+          "C19",
+          "C26"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "C27": [
@@ -24704,6 +25556,21 @@
         ],
         "tags": [],
         "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 2:1-8",
+        "name": "Petitions, prayers, intercessions, and givings of thanks, be made for all men: for kings and all who are in high places… lifting up holy hands without anger",
+        "chapters": [
+          "C09",
+          "C17",
+          "C27"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
       },
       {
         "book": "2 Peter.Json",
@@ -25916,6 +26783,18 @@
         "source_file": "1-thessalonians.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 4:1-5",
+        "name": "Every creature of God is good, and nothing is to be rejected, if it is received with thanksgiving. For it is sanctified through the word of God and prayer",
+        "chapters": [
+          "C24",
+          "C28"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 6:1-13",
         "name": "As having nothing, and yet possessing all things… Our heart is enlarged",
@@ -26517,6 +27396,18 @@
         "source_file": "1-john.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 1:3-11",
+        "name": "The goal of this command is love, out of a pure heart and a good conscience and sincere faith",
+        "chapters": [
+          "C08",
+          "C29"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "Colossians.Json",
         "reference": "Colossians 3:12-15",
         "name": "Bearing with one another, and forgiving each other",
@@ -26932,6 +27823,21 @@
         ],
         "tags": [],
         "source_file": "1-john.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 4:6-16",
+        "name": "Exercise yourself toward godliness… be an example… in word, in your way of life… Pay attention to yourself, and to your teaching",
+        "chapters": [
+          "C05",
+          "C12",
+          "C25"
+        ],
+        "practices": [
+          "PR01"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -27802,6 +28708,20 @@
     ],
     "PR03": [
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 1:12-17",
+        "name": "Christ Jesus came into the world to save sinners; of whom I am chief… that in me first, Jesus Christ might display all his patience",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR03"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "Ecclesiastes.Json",
         "reference": "Ecclesiastes 7:15-22",
         "name": "Your own heart knows that you yourself have likewise cursed others",
@@ -28051,6 +28971,22 @@
         ],
         "tags": [],
         "source_file": "romans.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 3:1-7",
+        "name": "To speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men. For we were also once foolish, disobedient, deceived",
+        "chapters": [
+          "C17",
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR03",
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "PR04": [
@@ -28749,6 +29685,35 @@
         ],
         "tags": [],
         "source_file": "1-john.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 5:1-16",
+        "name": "Honor widows who are widows indeed… If anyone doesn't provide for his own, and especially his own household, he has denied the faith",
+        "chapters": [
+          "C14",
+          "C16"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 6:17-19",
+        "name": "Charge those who are rich in this present world that they not be haughty, nor have their hope set on the uncertainty of riches… ready to distribute, willing to communicate",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -29519,6 +30484,22 @@
         ],
         "tags": [],
         "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 4:9-22",
+        "name": "Demas left me, having loved this present world… Take Mark, and bring him with you, for he is useful to me for service… no one came to help me, but all left me. May it not be held against them",
+        "chapters": [
+          "C13",
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "Acts.Json",
@@ -31060,6 +32041,21 @@
         "source_file": "1-peter.json"
       },
       {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 2:20-26",
+        "name": "The Lord's servant must not quarrel, but be gentle towards all, able to teach, patient, in gentleness correcting those who oppose him: perhaps God may give them repentance",
+        "chapters": [
+          "C08",
+          "C15",
+          "C20"
+        ],
+        "practices": [
+          "PR09"
+        ],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 11:1-18",
         "name": "You went in to uncircumcised men, and ate with them!… But Peter began, and explained to them in order",
@@ -31400,6 +32396,21 @@
         "source_file": "1-thessalonians.json"
       },
       {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 2:1-8",
+        "name": "Petitions, prayers, intercessions, and givings of thanks, be made for all men: for kings and all who are in high places… lifting up holy hands without anger",
+        "chapters": [
+          "C09",
+          "C17",
+          "C27"
+        ],
+        "practices": [
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
+      },
+      {
         "book": "Acts.Json",
         "reference": "Acts 16:35-40",
         "name": "They have beaten us publicly, without a trial, men who are Romans… let them come themselves and bring us out",
@@ -31603,6 +32614,22 @@
         ],
         "tags": [],
         "source_file": "romans.json"
+      },
+      {
+        "book": "Titus.Json",
+        "reference": "Titus 3:1-7",
+        "name": "To speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men. For we were also once foolish, disobedient, deceived",
+        "chapters": [
+          "C17",
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR03",
+          "PR10"
+        ],
+        "tags": [],
+        "source_file": "titus.json"
       }
     ],
     "PR11": [
@@ -35048,6 +36075,20 @@
     ],
     "PR26": [
       {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 1:15-18",
+        "name": "All who are in Asia turned away from me… Onesiphorus… often refreshed me, and was not ashamed of my chain, but when he was in Rome, he sought me diligently, and found me",
+        "chapters": [
+          "C13",
+          "C16"
+        ],
+        "practices": [
+          "PR26"
+        ],
+        "tags": [],
+        "source_file": "2-timothy.json"
+      },
+      {
         "book": "Genesis.Json",
         "reference": "Genesis 14:1-16",
         "name": "When Abram heard that his relative was taken captive",
@@ -35177,6 +36218,21 @@
         ],
         "tags": [],
         "source_file": "1-corinthians.json"
+      },
+      {
+        "book": "1 Timothy.Json",
+        "reference": "1 Timothy 6:17-19",
+        "name": "Charge those who are rich in this present world that they not be haughty, nor have their hope set on the uncertainty of riches… ready to distribute, willing to communicate",
+        "chapters": [
+          "C16",
+          "C18"
+        ],
+        "practices": [
+          "PR05",
+          "PR28"
+        ],
+        "tags": [],
+        "source_file": "1-timothy.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -35337,6 +36393,22 @@
         ],
         "tags": [],
         "source_file": "2-thessalonians.json"
+      },
+      {
+        "book": "2 Timothy.Json",
+        "reference": "2 Timothy 4:9-22",
+        "name": "Demas left me, having loved this present world… Take Mark, and bring him with you, for he is useful to me for service… no one came to help me, but all left me. May it not be held against them",
+        "chapters": [
+          "C13",
+          "C18",
+          "C19"
+        ],
+        "practices": [
+          "PR06",
+          "PR29"
+        ],
+        "tags": [],
+        "source_file": "2-timothy.json"
       },
       {
         "book": "Acts.Json",

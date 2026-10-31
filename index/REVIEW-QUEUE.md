@@ -57,6 +57,8 @@ the first fourteen.
 | Joshua | 5 | `reviews/joshua-package.md` | **22:10-34 (PR09 + PR16 — the altar of witness; civil war averted by asking)**; 7:19-21 (PR02 + PR12 counter-example — saw, coveted, took, hid); the herem coverage note |
 | Judges | 6 | `reviews/judges-package.md` | 16:15-21 (PR12 counter-example — "he didn't know that Yahweh had departed"); 6:11-16 (PR08); 8:22-27; the coverage note on 19-21 |
 | Revelation | 15 | `reviews/revelation-package.md` | 2:1-7 (PR11 — "remember… repent… do the first works"); 3:14-22 (PR28 counter-example; "I stand at the door and knock"); 3:1-6 (PR12); 18:11-17 (PR28 counter-example — "bodies and souls"); 21:1-7 (C19 terminus); the coverage note |
+| 1 Chronicles | 1 | `reviews/1-chronicles-package.md` | 29:10-19 (PR05 — "of your own have we given you"); the note on 4:9-10 |
+| 2 Chronicles | 6 | `reviews/2-chronicles-package.md` | **28:8-15 (PR06 + PR15 + PR03 — Oded; the captives clothed, fed, anointed and carried to Jericho)**; 33:10-13 (PR11 — Manasseh); 7:13-14 (PR11) |
 
 Also for the reviewer, outside any one file: **1 John 4:20-21** is arguably the
 prescriptive form of PR24 and is currently tagged only PR15. 1 John is settled, so

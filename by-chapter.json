@@ -1359,6 +1359,23 @@
         "source_file": "1-thessalonians.json"
       },
       {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 28:8-15",
+        "name": "Aren't there even with you trespasses of your own against Yahweh your God?… took the captives, and with the spoil clothed all who were naked among them… gave them something to eat and to drink, anointed them, carried all the feeble of them on donkeys, and brought them to Jericho",
+        "chapters": [
+          "C03",
+          "C04",
+          "C27"
+        ],
+        "practices": [
+          "PR03",
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
+      },
+      {
         "book": "2 Kings.Json",
         "reference": "2 Kings 6:8-23",
         "name": "Yahweh, please open his eyes, that he may see… 'You shall not strike them… Set bread and water before them, that they may eat and drink, and go to their master.'",
@@ -2240,6 +2257,23 @@
         ],
         "tags": [],
         "source_file": "1-samuel.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 28:8-15",
+        "name": "Aren't there even with you trespasses of your own against Yahweh your God?… took the captives, and with the spoil clothed all who were naked among them… gave them something to eat and to drink, anointed them, carried all the feeble of them on donkeys, and brought them to Jericho",
+        "chapters": [
+          "C03",
+          "C04",
+          "C27"
+        ],
+        "practices": [
+          "PR03",
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -4187,6 +4221,18 @@
         "source_file": "1-samuel.json"
       },
       {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 30:18-20",
+        "name": "May the good Yahweh pardon everyone who sets his heart to seek God, Yahweh, the God of his fathers, even if they aren't clean according to the purification of the sanctuary. Yahweh listened to Hezekiah, and healed the people",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-chronicles.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 3:1-6",
         "name": "Written not with ink, but with the Spirit… not in tablets of stone, but in tablets that are hearts of flesh",
@@ -5719,6 +5765,18 @@
         "source_file": "1-timothy.json"
       },
       {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 36:15-16",
+        "name": "Yahweh… sent to them by his messengers, rising up early and sending, because he had compassion on his people… but they mocked the messengers of God… until there was no remedy",
+        "chapters": [
+          "C08",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-chronicles.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 11:1-15",
         "name": "Even Satan masquerades as an angel of light",
@@ -6956,6 +7014,20 @@
         ],
         "tags": [],
         "source_file": "1-timothy.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 20:5-12",
+        "name": "We have no might against this great company that comes against us; neither know we what to do, but our eyes are on you",
+        "chapters": [
+          "C09",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
       },
       {
         "book": "2 Samuel.Json",
@@ -17284,6 +17356,21 @@
     ],
     "C17": [
       {
+        "book": "1 Chronicles.Json",
+        "reference": "1 Chronicles 29:10-19",
+        "name": "Who am I, and what is my people, that we should be able to offer so willingly as this? For all things come from you, and of your own have we given you. For we are strangers before you, and foreigners",
+        "chapters": [
+          "C17",
+          "C18",
+          "C22"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "1-chronicles.json"
+      },
+      {
         "book": "1 Corinthians.Json",
         "reference": "1 Corinthians 5:1-13",
         "name": "You are puffed up, and didn't rather mourn… that the spirit may be saved… For what have I to do with also judging those who are outside?",
@@ -18399,6 +18486,21 @@
       }
     ],
     "C18": [
+      {
+        "book": "1 Chronicles.Json",
+        "reference": "1 Chronicles 29:10-19",
+        "name": "Who am I, and what is my people, that we should be able to offer so willingly as this? For all things come from you, and of your own have we given you. For we are strangers before you, and foreigners",
+        "chapters": [
+          "C17",
+          "C18",
+          "C22"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "1-chronicles.json"
+      },
       {
         "book": "1 Corinthians.Json",
         "reference": "1 Corinthians 15:12-34",
@@ -20469,6 +20571,58 @@
         ],
         "tags": [],
         "source_file": "1-timothy.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 30:18-20",
+        "name": "May the good Yahweh pardon everyone who sets his heart to seek God, Yahweh, the God of his fathers, even if they aren't clean according to the purification of the sanctuary. Yahweh listened to Hezekiah, and healed the people",
+        "chapters": [
+          "C06",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-chronicles.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 33:10-13",
+        "name": "When he was in distress, he begged Yahweh his God, and humbled himself greatly before the God of his fathers… and he was entreated by him… Then Manasseh knew that Yahweh was God",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 36:15-16",
+        "name": "Yahweh… sent to them by his messengers, rising up early and sending, because he had compassion on his people… but they mocked the messengers of God… until there was no remedy",
+        "chapters": [
+          "C08",
+          "C19"
+        ],
+        "practices": [],
+        "tags": [],
+        "source_file": "2-chronicles.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 7:13-14",
+        "name": "If my people, who are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -27126,6 +27280,21 @@
     ],
     "C22": [
       {
+        "book": "1 Chronicles.Json",
+        "reference": "1 Chronicles 29:10-19",
+        "name": "Who am I, and what is my people, that we should be able to offer so willingly as this? For all things come from you, and of your own have we given you. For we are strangers before you, and foreigners",
+        "chapters": [
+          "C17",
+          "C18",
+          "C22"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "1-chronicles.json"
+      },
+      {
         "book": "1 Corinthians.Json",
         "reference": "1 Corinthians 15:1-11",
         "name": "Last of all… he appeared to me also. For I am the least of the apostles… But by the grace of God I am what I am",
@@ -27337,6 +27506,48 @@
         ],
         "tags": [],
         "source_file": "1-timothy.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 20:5-12",
+        "name": "We have no might against this great company that comes against us; neither know we what to do, but our eyes are on you",
+        "chapters": [
+          "C09",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 33:10-13",
+        "name": "When he was in distress, he begged Yahweh his God, and humbled himself greatly before the God of his fathers… and he was entreated by him… Then Manasseh knew that Yahweh was God",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 7:13-14",
+        "name": "If my people, who are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
       },
       {
         "book": "2 Kings.Json",
@@ -33511,6 +33722,23 @@
         "source_file": "1-timothy.json"
       },
       {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 28:8-15",
+        "name": "Aren't there even with you trespasses of your own against Yahweh your God?… took the captives, and with the spoil clothed all who were naked among them… gave them something to eat and to drink, anointed them, carried all the feeble of them on donkeys, and brought them to Jericho",
+        "chapters": [
+          "C03",
+          "C04",
+          "C27"
+        ],
+        "practices": [
+          "PR03",
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
+      },
+      {
         "book": "2 Kings.Json",
         "reference": "2 Kings 5:1-27",
         "name": "I wish that my lord were with the prophet who is in Samaria!… 'My father, if the prophet had asked you do some great thing, wouldn't you have done it?'",
@@ -37395,6 +37623,23 @@
         "source_file": "1-timothy.json"
       },
       {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 28:8-15",
+        "name": "Aren't there even with you trespasses of your own against Yahweh your God?… took the captives, and with the spoil clothed all who were naked among them… gave them something to eat and to drink, anointed them, carried all the feeble of them on donkeys, and brought them to Jericho",
+        "chapters": [
+          "C03",
+          "C04",
+          "C27"
+        ],
+        "practices": [
+          "PR03",
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
+      },
+      {
         "book": "2 Samuel.Json",
         "reference": "2 Samuel 12:1-14",
         "name": "You are the man… David said to Nathan, 'I have sinned against Yahweh.' Nathan said to David, 'Yahweh also has put away your sin.'",
@@ -37858,6 +38103,20 @@
         ],
         "tags": [],
         "source_file": "1-kings.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 20:5-12",
+        "name": "We have no might against this great company that comes against us; neither know we what to do, but our eyes are on you",
+        "chapters": [
+          "C09",
+          "C22"
+        ],
+        "practices": [
+          "PR04"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
       },
       {
         "book": "2 Corinthians.Json",
@@ -38536,6 +38795,21 @@
       }
     ],
     "PR05": [
+      {
+        "book": "1 Chronicles.Json",
+        "reference": "1 Chronicles 29:10-19",
+        "name": "Who am I, and what is my people, that we should be able to offer so willingly as this? For all things come from you, and of your own have we given you. For we are strangers before you, and foreigners",
+        "chapters": [
+          "C17",
+          "C18",
+          "C22"
+        ],
+        "practices": [
+          "PR05"
+        ],
+        "tags": [],
+        "source_file": "1-chronicles.json"
+      },
       {
         "book": "1 Corinthians.Json",
         "reference": "1 Corinthians 16:1-4",
@@ -39557,6 +39831,23 @@
         ],
         "tags": [],
         "source_file": "1-thessalonians.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 28:8-15",
+        "name": "Aren't there even with you trespasses of your own against Yahweh your God?… took the captives, and with the spoil clothed all who were naked among them… gave them something to eat and to drink, anointed them, carried all the feeble of them on donkeys, and brought them to Jericho",
+        "chapters": [
+          "C03",
+          "C04",
+          "C27"
+        ],
+        "practices": [
+          "PR03",
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
       },
       {
         "book": "2 Kings.Json",
@@ -42464,6 +42755,34 @@
         "source_file": "1-samuel.json"
       },
       {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 33:10-13",
+        "name": "When he was in distress, he begged Yahweh his God, and humbled himself greatly before the God of his fathers… and he was entreated by him… Then Manasseh knew that Yahweh was God",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 7:13-14",
+        "name": "If my people, who are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin",
+        "chapters": [
+          "C19",
+          "C22"
+        ],
+        "practices": [
+          "PR11"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
+      },
+      {
         "book": "2 Corinthians.Json",
         "reference": "2 Corinthians 7:2-16",
         "name": "Godly sorrow works repentance to salvation, which brings no regret. But the sorrow of the world works death",
@@ -44824,6 +45143,23 @@
         ],
         "tags": [],
         "source_file": "1-samuel.json"
+      },
+      {
+        "book": "2 Chronicles.Json",
+        "reference": "2 Chronicles 28:8-15",
+        "name": "Aren't there even with you trespasses of your own against Yahweh your God?… took the captives, and with the spoil clothed all who were naked among them… gave them something to eat and to drink, anointed them, carried all the feeble of them on donkeys, and brought them to Jericho",
+        "chapters": [
+          "C03",
+          "C04",
+          "C27"
+        ],
+        "practices": [
+          "PR03",
+          "PR06",
+          "PR15"
+        ],
+        "tags": [],
+        "source_file": "2-chronicles.json"
       },
       {
         "book": "2 Kings.Json",

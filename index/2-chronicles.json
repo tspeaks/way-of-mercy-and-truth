@@ -1,0 +1,147 @@
+{
+  "book": "2 Chronicles",
+  "translation": "World English Bible (public domain)",
+  "status": "complete",
+  "method_version": "2.3",
+  "text_source": "index/text/2-chronicles.json",
+  "note": "Solomon and the kings of Judah to the exile, retold with attention to the temple, reform and repentance. A Tier 6 book, indexed by the Song of Solomon precedent. Not cited by the curriculum or the Scriptural Appendix.",
+  "prediction_note": "Forecast: little beyond the Kings parallels. Outcome: 28:8-15 (Oded and the captives) is a pre-Christian template for the Good Samaritan and one of the strongest narrative anchors for PR06 and PR15 in the Old Testament; 33:12-13 (Manasseh) widens C19 further than any text in Kings.",
+  "coverage_note": "Six entries, by design. Chapters 1-9 parallel 1 Kings and are indexed there; the reigns of the kings of Judah (10-36) are largely parallel to 1-2 Kings and are not re-indexed. Material unique to Chronicles has been checked, and only the passages above anchor formation.",
+  "entries": [
+    {
+      "ref": "2 Chronicles 7:13-14",
+      "pericope": "If my people, who are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin",
+      "pillars": [
+        "humility",
+        "truth",
+        "mercy"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C22"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "prescribes",
+      "connection": "God's answer to Solomon's dedication prayer, given as a sequence: 'if my people, who are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.' Four movements — humility, prayer, seeking, turning — and the Failure Recovery Protocol's return given its promise (medium). C19 and C22. The verse is addressed to 'my people,' not to a nation-state.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Chronicles 20:5-12",
+      "pericope": "We have no might against this great company that comes against us; neither know we what to do, but our eyes are on you",
+      "pillars": [
+        "humility",
+        "truth"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "chapters": [
+        "C22",
+        "C09"
+      ],
+      "practices": [
+        "PR04"
+      ],
+      "mode": "exemplifies",
+      "connection": "An invasion, and a king who prays in public rather than projecting confidence. He recalls what God has done and names the threat, then ends with an admission: 'Our God, will you not judge them? For we have no might against this great company that comes against us; neither know we what to do, but our eyes are on you.' The Discipline of Unknowing as a confession of incapacity made before the whole assembly (medium). C22 and C09.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Chronicles 28:8-15",
+      "pericope": "Aren't there even with you trespasses of your own against Yahweh your God?… took the captives, and with the spoil clothed all who were naked among them… gave them something to eat and to drink, anointed them, carried all the feeble of them on donkeys, and brought them to Jericho",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S1",
+        "S7"
+      ],
+      "chapters": [
+        "C03",
+        "C27",
+        "C04"
+      ],
+      "practices": [
+        "PR06",
+        "PR15",
+        "PR03"
+      ],
+      "mode": "exemplifies",
+      "connection": "The northern army returns from war with two hundred thousand captives from Judah. A prophet named Oded meets them at the gate: 'you have slain them in a rage which has reached up to heaven. Now you purpose to keep under the children of Judah… for bondservants… Aren't there even with you trespasses of your own against Yahweh your God?' Self-Accusation turned on a victorious army (medium). Four named leaders stand with him, and the soldiers give up their captives. Then the response: 'The men who have been mentioned by name rose up, and took the captives, and with the spoil clothed all who were naked among them, dressed them, gave them sandals, and gave them something to eat and to drink, anointed them, carried all the feeble of them on donkeys, and brought them to Jericho, the city of palm trees, to their brothers.' Non-Retaliation and Shedding Harshness carried out on the enemy's wounded. Clothed, fed, anointed, put on donkeys, brought to Jericho — the Good Samaritan's actions, in the same order and on the same road, in a text Jesus's hearers knew. C03, C27 and C04.",
+      "confidence": "high",
+      "prior": false
+    },
+    {
+      "ref": "2 Chronicles 30:18-20",
+      "pericope": "May the good Yahweh pardon everyone who sets his heart to seek God, Yahweh, the God of his fathers, even if they aren't clean according to the purification of the sanctuary. Yahweh listened to Hezekiah, and healed the people",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C06",
+        "C19"
+      ],
+      "practices": [],
+      "connection": "At Hezekiah's Passover, many who came from the north had not been purified and 'ate the Passover otherwise than it is written.' Hezekiah does not exclude them; he prays: 'May the good Yahweh pardon everyone who sets his heart to seek God… even if they aren't clean according to the purification of the sanctuary. Yahweh listened to Hezekiah, and healed the people.' C06's reading of the rule by the heart it serves, and C19's door held open for the ones who came imperfectly.",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Chronicles 33:10-13",
+      "pericope": "When he was in distress, he begged Yahweh his God, and humbled himself greatly before the God of his fathers… and he was entreated by him… Then Manasseh knew that Yahweh was God",
+      "pillars": [
+        "mercy",
+        "humility"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "chapters": [
+        "C19",
+        "C22"
+      ],
+      "practices": [
+        "PR11"
+      ],
+      "mode": "exemplifies",
+      "connection": "Manasseh is the worst king in the history of Judah — 2 Kings 21 blames the exile on him. Chronicles adds what happened after his capture: 'When he was in distress, he begged Yahweh his God, and humbled himself greatly before the God of his fathers. He prayed to him; and he was entreated by him, and heard his supplication, and brought him again to Jerusalem into his kingdom.' C19's door at its widest — even for him — and the Failure Recovery Protocol's return in chains (medium). C22. 'Then Manasseh knew that Yahweh was God.'",
+      "confidence": "medium",
+      "prior": false
+    },
+    {
+      "ref": "2 Chronicles 36:15-16",
+      "pericope": "Yahweh… sent to them by his messengers, rising up early and sending, because he had compassion on his people… but they mocked the messengers of God… until there was no remedy",
+      "pillars": [
+        "mercy",
+        "truth"
+      ],
+      "stages": [
+        "S2",
+        "S5"
+      ],
+      "chapters": [
+        "C08",
+        "C19"
+      ],
+      "practices": [],
+      "mode": "counter-example",
+      "connection": "The Chronicler's summary of why Jerusalem fell: 'Yahweh, the God of their fathers, sent to them by his messengers, rising up early and sending, because he had compassion on his people, and on his dwelling place: but they mocked the messengers of God, and despised his words, and scoffed at his prophets, until the wrath of Yahweh arose against his people, until there was no remedy.' C08's true prophets refused, and C19's compassion — 'rising up early and sending' — outlasted until it could do no more.",
+      "confidence": "medium",
+      "prior": false
+    }
+  ]
+}

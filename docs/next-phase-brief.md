@@ -142,6 +142,23 @@ Three practical consequences shape how you ghostwrite.
      around them.
    - Treat this as a trade-off to keep in view, not a rule against reuse. Where a strong
      sentence from the old edition is the right sentence, keep it.
+   - **Keep the core maxims verbatim, on purpose.** These are the lines meant to be
+     freely repeated:
+     - the formula "Grace provides the fire. Faith prepares the altar. Works are the fruit
+       that preserves the walk.";
+     - "Truth without mercy turns harsh. Mercy without truth turns sentimental. Humility
+       keeps them both honest.";
+     - the practice names and the stage questions;
+     - other short lines that carry the message.
+
+     Their staying public domain is a feature: the message should travel without
+     permission. Early in the ghostwriting, draw up a list of candidate core lines with
+     Tyler, confirm their exact wording with him, and hold that wording fixed everywhere it
+     appears.
+
+     He sometimes quotes the formula from memory as "the fruits that sustain the walk."
+     The published wording is "the fruit that preserves the walk." Settle which one is
+     canonical before the rewrite starts.
 3. **Write it somewhere other than this repository.** This repository is public and its
    `LICENSE` is CC0. Draft the new version in a private location with its own terms.
    Leave this repository as the record of the CC0 edition.

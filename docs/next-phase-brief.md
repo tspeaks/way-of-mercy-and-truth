@@ -18,7 +18,7 @@ You are to work through the whole of WMT **with** him, toward a final version. Y
 assistive ghostwriter, not a replacement author. He wants a more granular hand in the next
 version than he had in the last one.
 
-The work has nine parts, in this order:
+The work has nine parts. Part 7 is deferred (see §6), so you will do eight of them:
 
 1. **Reassess WMT as a whole as a revenue stream.** Assume a changed trajectory can still
    be fulfilling for him and faithful to WMT and to his faith, and can help many more
@@ -31,14 +31,43 @@ The work has nine parts, in this order:
 5. **Write the blueprint** for the updated direction.
 6. **Ghostwrite and update WMT** in the direction the blueprint sets, chapter by chapter,
    with Tyler.
-7. **Review the scripture index.** Take the second-pass reviewer's role that Gemini held
-   in the two-pass method, and complete the review.
+7. **Review the scripture index.** *Deferred, not yours.* The second pass will be done
+   later by a different model; see §6.
 8. **Reassess the website** (architecture, design and substance) and update it.
-9. **Reassess every piece of WMT**, big or small, including its past plans, and record
+9. **Reassess every piece of WMT**, big or small, including its past plans, and decide
    what stays, changes or goes.
 
-Parts 1 to 5 come before any rewriting. Do not edit the manuscript, the website or the
-governance documents until Tyler has accepted the blueprint.
+Parts 1 to 5, and the reassessment in Part 9, come before any rewriting. Together they
+are **the reassessment**. Do not edit the manuscript, the website or the governance
+documents until Tyler has accepted the blueprint.
+
+### Two standing instructions for the reassessment
+
+**All of WMT's rules are relaxed while the reassessment runs.** Tyler has set them aside on
+purpose so that nothing is protected from question. That covers:
+- the free/commercial split in `ORGANIZATION.md`;
+- the trunk and branch governance;
+- the versioning and citation rules;
+- the WEB-only scripture rule;
+- the pacing and practice rules in the book itself;
+- every past decision.
+
+Treat each one as a proposal to be weighed, not a constraint to work around. Whatever the
+blueprint keeps, Tyler reinstates with his approval when the reassessment ends.
+
+Two things are not rules Tyler set, and they don't relax:
+- the CC0 dedication of material already released is legally irrevocable;
+- copyrighted Bible translations and other copyrighted text can't be reproduced.
+
+**Documentation and record-keeping for WMT are paused until the reassessment is complete.**
+- Do not write to the repository: no commits, CHANGELOG entries, version bumps,
+  `review_log` entries, ledger files or decision records.
+- Do not edit the governance documents.
+- Deliver everything in conversation with Tyler: the reading, the numbers, the verdicts and
+  the blueprint. A spreadsheet or script for the numbers is fine as a file handed to him,
+  but keep it out of the repository.
+- Record-keeping resumes only when Tyler explicitly approves it. When it does, he will say
+  what is to be recorded and how.
 
 ---
 
@@ -67,7 +96,9 @@ infrastructure work and is out of scope.
 
 ## 3. The central tension: settle it with Tyler, don't assume it away
 
-Two facts constrain every revenue idea. Present them plainly in Part 1, before any plan:
+Two facts shape every revenue idea. The first is legal; the second is one of Tyler's own
+rules, relaxed for the reassessment but still worth understanding. Present both plainly in
+Part 1, before any plan:
 
 **CC0 is irrevocable.** Anyone may already copy, print, sell, adapt or train on everything
 released. No plan can rely on exclusive rights to text that has already been published.
@@ -92,9 +123,7 @@ replace it. That is his decision. Your job:
   - new non-CC0 works;
   - revising the split.
 - Recommend one, with your reasons.
-- If the governance changes, change it **visibly**: a written decision, an updated
-  `ORGANIZATION.md`, a CHANGELOG entry and a version bump. Never change it silently. WMT's
-  own rule is that the trunk is never quietly rewritten.
+- Whatever he decides is recorded later, when the pause on record-keeping lifts.
 
 Do not treat the old rule as a mistake to be overcome, and do not treat it as untouchable
 either.
@@ -160,7 +189,8 @@ As a ghostwriter:
   one cheaply in the first 30 days.
 
 Put the model in a spreadsheet or a script so he can change the assumptions himself.
-Don't put it only in prose.
+Don't put it only in prose. Hand it to him directly; keep it out of the repository while
+record-keeping is paused.
 
 **The target.** Recommend a single concrete target and the reasoning behind it, such as
 "X readers in a weekly companion, Y cohorts a year, Z print copies, by a given month."
@@ -177,67 +207,33 @@ twenty minutes:
 - what is being cut;
 - a 90-day sequence whose first step is small enough to do this week.
 
-Put it in the repository (for example `docs/blueprint.md`) as well as wherever Tyler reads
-it.
+Deliver it in conversation. It goes into the repository only after Tyler approves it and
+lifts the pause on record-keeping.
 
 ---
 
-## 6. Part 7: the scripture index review
+## 6. Part 7: the scripture index review — deferred
 
-**What the index is.**
-- `index/<book>.json` holds one file per book of the Bible, 66 in all, with 1,519 entries.
-  Each entry links a passage to curriculum chapters (C01–C29), practices (PR01–PR30), a
-  mode (prescribes / exemplifies / counter-example), a written connection and a confidence.
-- `index/text/` holds the WEB scripture text.
-- `index/reviews/<book>-package.md` prints each entry with its scripture in full. Review
-  from the package, never from the JSON alone.
+**Do not review the scripture index.**
+- Tyler will have the second pass done later by a different model; Grok 4.8 is one
+  possibility.
+- The drafter and you are both Claude models, so a review by you would not be the
+  independent check the two-pass method exists to provide.
 
-**The method so far.**
-1. One model drafted each book.
-2. A second model (Gemini) reviewed it against `index/REVIEW-BRIEF.md`, returning JSON
-   verdicts.
-3. The review was saved as `index/reviews/<book>-pass2.json` and applied, with a
-   `review_log` entry in the book file.
+**What the index is**, for context in Parts 1–5 and 9.
+- `index/` holds one file per book of the Bible: 66 books, 1,519 entries. Each entry links
+  a passage to curriculum chapters and practices.
+- `index/reviews/<book>-package.md` prints each entry with its scripture.
+- Fourteen books have been through the two-pass review. Fifty-two await it, in the order
+  set out in `index/REVIEW-QUEUE.md`.
 
-The first fourteen books went through this. The other 52 were drafted on 31 October 2026
-and are listed in `index/REVIEW-QUEUE.md`, which gives a recommended order and lists every
-tag on the five practices most prone to over-tagging.
+**What you should judge** in the reassessment:
+- whether the index earns its place in the new direction;
+- who would use it, and how;
+- whether its open style question matters for that use. Entries drafted on 31 October run
+  much longer than the house example in `index/REVIEW-BRIEF.md`.
 
-**Your role.**
-- Do the second pass for the 52 books, exactly as `REVIEW-BRIEF.md` specifies.
-  - Read the passage before the claim.
-  - Be blunt about overreach.
-  - Look for gaps the drafter skipped because they didn't fit.
-- Save each review as a pass2 file.
-- Apply the changes and log them, as the earlier books were.
-- Rebuild with `python3 tools/build_review_package.py <book>` and
-  `python3 tools/build_scripture.py`.
-- Validate with `python3 tools/check_index.py index/<book>.json` and
-  `python3 tools/check_quotes.py <book>`.
-
-**Things to know.**
-- **You are not an independent second model.** The drafter was also a Claude model.
-  Same-family review shares blind spots. Say so in each `review_log` entry, and in a
-  reviewed book's file, as `reviewer`. For the entries that would change the curriculum,
-  offer Tyler the option of a different model as a third check. Those are Hebrews 12:4-13
-  (the only anchor for PR27, Virtue Construction), Ephesians 2:11-22 and the 1 John
-  4:20-21 proposal (PR24, the Compass), and the new PR26 anchors.
-- **A style question is open.** Entries drafted on 31 October quote the WEB at length and
-  run two to three times longer than the house example in `REVIEW-BRIEF.md`. Decide with
-  Tyler, after reviewing two or three of those books, whether to trim them to the house
-  style. The trim is mechanical: keep the claim and drop the quotations, since the package
-  prints the passage.
-- **Coverage is selective on purpose** in the history books, Ezekiel, Daniel, Revelation,
-  Leviticus, Numbers and Chronicles. Each has a `coverage_note`. Challenge a note if it is
-  wrong, but a low verse count is not in itself a defect.
-- **Fixed constraints:**
-  - All scripture is from the World English Bible only.
-  - Nothing may reproduce copyrighted translation wording.
-  - The curriculum is CC0.
-- Also reassess whether the index earns its place in the new direction: who uses it, and
-  how. That belongs in Part 9 as well.
-
----
+Leave the review itself, and the files, untouched.
 
 ## 7. Part 8: the website
 
@@ -269,11 +265,16 @@ Go through everything and give each piece a verdict: *keep*, *revise* (and how),
 - Past plans, such as the "Christian Commons" and a "concrete forward plan."
 
 Tyler will tell you about plans that live only in past conversations. Ask him for them.
-Record the verdicts in one ledger file, so nothing is lost and he can overrule any line.
+Give him the verdicts as one list in conversation, so nothing is lost and he can overrule
+any line. It becomes a file only when record-keeping resumes.
 
 ---
 
 ## 9. Working rules in the repository
+
+*These apply only after the reassessment, once Tyler approves the blueprint and lifts the
+pause on record-keeping. Until then, see §1: no writes to the repository. Tyler may also
+revise these rules as part of the reassessment.*
 
 - Work on a branch. Don't push to `main` without Tyler's explicit approval. `main` is the
   trunk and the live website.

@@ -156,9 +156,8 @@ Three practical consequences shape how you ghostwrite.
      Tyler, confirm their exact wording with him, and hold that wording fixed everywhere it
      appears.
 
-     He sometimes quotes the formula from memory as "the fruits that sustain the walk."
-     The published wording is "the fruit that preserves the walk." Settle which one is
-     canonical before the rewrite starts.
+     The formula's canonical wording is the published one, confirmed by Tyler: "Works are
+     the fruit that preserves the walk." Don't change it.
 3. **Write it somewhere other than this repository.** This repository is public and its
    `LICENSE` is CC0. Draft the new version in a private location with its own terms.
    Leave this repository as the record of the CC0 edition.
